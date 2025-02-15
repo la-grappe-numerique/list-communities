@@ -40,7 +40,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add */events.ics all_events.ics README.md
+          git add */events.ics events.ics README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "Update iCal files and README [skip ci]"
 
       - name: Push changes

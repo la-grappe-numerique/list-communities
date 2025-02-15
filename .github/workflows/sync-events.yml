@@ -35,7 +35,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add */events.yml all_events.yml
+          git add */events.yml events.yml
           git diff --quiet && git diff --staged --quiet || git commit -m "Update community events [skip ci]"
 
       - name: Push changes
