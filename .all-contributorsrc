@@ -1,4 +1,21 @@
 {
   "projectName": "list-communities",
-  "projectOwner": "la-grappe-numerique"
+  "projectOwner": "la-grappe-numerique",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "clark42",
+      "name": "clark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1411277?v=4",
+      "profile": "http://akiros.it",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }
