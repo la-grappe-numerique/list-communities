@@ -1,6 +1,6 @@
 # 🌍 La Grappe Numérique - Liste des communautés du numerique Bordelais
 
-[![All Contributors](https://img.shields.io/github/all-contributors/?color=ee8449&style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/la-grappe-numerique/list-communities?color=ee8449&style=flat-square)](#contributors)
 
 <div class="logo"><img src="./docs/logo-commu.png"  width="600"/></div>
 
