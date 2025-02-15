@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements archilocus//Bordeaux Community Events//FR
+X-WR-CALDESC:Calendrier des événements de la communauté archilocus
+X-WR-CALNAME:Événements archilocus
+BEGIN:VEVENT
+SUMMARY:Archilocus #13 Infrastructure
+DTSTART:20240530T180000
+UID:https://www.meetup.com/archilocus/events/300879794/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/300879794/\n📍
+  17 Quai Louis XVIII\, 17 Quai Louis XVIII\, Bordeaux\, France\n\n📺 Dif
+ fusé simultanément en live sur https://twitch.tv/archilocus\n🕕 18h05*
+ *OpenTelemetry: vous ne pourrez plus vous passer de monitoring en prod**pa
+ r **Vivien Maleze** *Architecte Technique chez Ippon Technology*\n🕖 18h
+ 45**Pourquoi privilégions-nous les services managés dans le Cloud ?**par
+  **Guillaume Lannebere** *Head Of Cloud Center Of Excellence chez Betclic*
+ \n🕢 19h25**Comment je monitore ma prod ?**Table ronde avec participatio
+ n du public\n* **Denis Germain** *Staff SRE chez Deezer** **Sébastien Des
+ camps** *Directeur R&D et Innovation chez Zenika** **Gauthier Astruc-Amato
+ ** *CTO chez CyberVadis*\n\nCommunauté: archilocus\n👥 30 participant(s
+ )
+LOCATION:17 Quai Louis XVIII\, 17 Quai Louis XVIII\, Bordeaux\, France
+URL:https://www.meetup.com/archilocus/events/300879794/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOF Archilocus à Devoxx France (présentiel Paris)
+DTSTART:20240418T200000
+UID:https://www.meetup.com/archilocus/events/300304641/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/300304641/\n📍
+  Le Palais des Congrès de Paris\, 2 Pl. de la Prte Maillot\, Paris\, Fran
+ ce\n\nArchilocus sera présent à Devoxx France (Paris) pour une BOF (Bird
+ s of a Feather). Une BOF est une session de 55 minutes\, non filmée\, qui
+  permet aux membres d'une communauté de se retrouver. Cette soirée sera 
+ une session informelle dont le sujet est libre. Nous agirons comme des mod
+ érateurs : l’animation est faite par les participants.\nSalle Paris 242
+ AB\n⚠️ L'évènement est gratuit et ouvert à tous mais l'inscription 
+ est obligatoire.\\- Si vous avez un billet pour Devoxx\\\, merci de vous i
+ nscrire à ce meetup\\- Si vous n'avez pas de billet\\\, merci de vous ins
+ crire ici \\(en choisissant **Visiteur jeudi et soirée Meet & Greet**) ht
+ tps://alfio.devoxx.fr/event/devoxx-fr-2024\n\nCommunauté: archilocus\n
+ 👥 5 participant(s)
+LOCATION:Le Palais des Congrès de Paris\, 2 Pl. de la Prte Maillot\, Pari
+ s\, France
+URL:https://www.meetup.com/archilocus/events/300304641/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archilocus #12 DDD
+DTSTART:20240314T180000
+UID:https://www.meetup.com/archilocus/events/299358241/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/299358241/\n\nBa
+ nalisation du DDD ou pas ?Bruno Boucard*Trainer\, coach agile et speaker*\
+ nUne plateforme à concevoir\, deux architectes: trois possibilités ?Alex
+ andre Touret*Senior Software Architect/TechRel*Raphaël Semeteys*Tech Advo
+ cate\, Architect\, FOSS expert\, Yoga Teacher*\nTable ronde*Les anti-patte
+ rns d'une approche DDD - ReX around the table*\n\nCommunauté: archilocus\
+ n💻 Événement en ligne\n👥 53 participant(s)
+URL:https://www.meetup.com/archilocus/events/299358241/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archilocus Chez CtrlUp
+DTSTART:20231207T180000
+UID:https://www.meetup.com/archilocus/events/297556058/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/297556058/\n📍
+  87 Quai des Queyries\, 87 Quai des Queyries\, Bordeaux\, France\n\n📺 D
+ iffusé simultanément en live sur https://twitch.tv/archilocus\n🕕 18h0
+ 5**Comment on a arrêté notre clean archi ?**par **Antoine Mazure** *Soft
+ ware Engineer\, Tribe Leader & Trainer* chez *Octo*\n🕖 18h45**Bienvenue
+  dans l'ère des architectures composables !**par **Loïc Carbonne** *Head
+  of e-commerce tribe* chez *Théodo*\n🕢 19h25**Architecture d'Entrepris
+ e et environnement Business sous contrainte sont dans un bateau\, l'AE se 
+ transforme-t-elle ?**Table ronde avec participation du public\\- Laurent B
+ risse *Enterprise Architect Leader* chez *Leroy Merlin*\\- Thomas Marty *A
+ rchitecte Entreprise* chez *Peaksys*\\- Cyril Beslay *Solution Architect* 
+ chez *ManoMano*\n\nCommunauté: archilocus\n👥 28 participant(s)
+LOCATION:87 Quai des Queyries\, 87 Quai des Queyries\, Bordeaux\, France
+URL:https://www.meetup.com/archilocus/events/297556058/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archilocus Session #10 - API
+DTSTART:20231012T180000
+UID:https://www.meetup.com/archilocus/events/296530263/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/296530263/\n\n18
+ :00 - 18:05Accueil et Introduction\n18:05 - 18:45**Design First : Boostez 
+ le Développement\, la Qualité et la Sécurité de vos APIs - Philippe Bo
+ usquet**Aujourd'hui les APIs sont partout\, et lors de ce talk je vais ten
+ ter de démontrer l'intérêt de de Designer son API REST au travers d'Ope
+ nAPI et ce que cela apporte en terme de développement\, documentation\, e
+ t sécurité\n18:45 - 19:25**Comment on n'a (toujours) pas codé de back-e
+ nd après 1 an et demi en production - Marc Gavanier**Lors de ce retour d'
+ expérience\, vous verrez comment notre petite équipe de développement a
+  réussi à maximiser la valeur produite en ne codant pas. Vous découvrir
+ ez au travers d'exemples concrets pourquoi cela nous a permis de gagner un
+  temps très précieux en période de lancement\, ainsi que les nombreux e
+ ffets positifs auxquels nous ne nous attendions vraiment pas en faisant ce
+  choix !\n19:30 - 20:10**Table ronde - Qu'est-ce qu'il RESTe à apprendre 
+ sur les API ?**Laurent Brisse*Enterprise Architecter Leader*Philippe Bousq
+ uet*Architecte - Directeur Technique Java*\n20:10 - 20:15Conclusion\n\nCom
+ munauté: archilocus\n💻 Événement en ligne\n👥 40 participant(s)
+URL:https://www.meetup.com/archilocus/events/296530263/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'Architecture d'Entreprise dans le Nord et le Sud-Ouest
+DTSTART:20230601T180000
+UID:https://www.meetup.com/archilocus/events/293545147/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/293545147/\n📍
+  Ippon Technologies Bordeaux\, 44 All. de Tourny\, Bordeaux\, France\n\nS
+ éance double live à **Bordeaux** et **Lille !!**\nComme d'habitude\, **d
+ eux présentations** :\n* **"Maîtriser la dette informatique"** par Nicol
+ a Sannelli *Architecte d'entreprise* chez *Auchan Retail** **"Déploiement
+  à l'échelle de l'éco-conception"** par Vincent Rabah *Architecte d'Ent
+ reprise* chez *Pôle Emploi*\n... suivies d'une **Table ronde :**\n"**Comm
+ ent se transformer en entreprise plateforme**\, du point de vue de l'Archi
+ tecte d'Entreprise ?"\nAgenda complet sur notre site [https://www.archiloc
+ us.tech/#agenda](https://www.archilocus.tech/#agenda)\n\nCommunauté: arch
+ ilocus\n👥 38 participant(s)
+LOCATION:Ippon Technologies Bordeaux\, 44 All. de Tourny\, Bordeaux\, Fran
+ ce
+URL:https://www.meetup.com/archilocus/events/293545147/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archilocus Session #8
+DTSTART:20230330T170000
+UID:https://www.meetup.com/archilocus/events/291473012/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/291473012/\n\n17
+ :00 - 17:10Accueil et Introduction\n17:10 - 17:50**La Clean Archigonale**C
+ hristophe Breheret-Girardin*Coach craft & Formateur*Afin de pallier les pr
+ oblèmes des architectures n-tiers\, plusieurs architectures ont émergé 
+ après les années 2000\, dont l’Architecture Hexagonale et la Clean Arc
+ hitecture. Sont-elles bien comprises ? N’aurait-on pas tendance à baser
+  notre compréhension de ces architectures sur des croyances plutôt que s
+ ur les publications d'origine ? Qu'apportent-elles ? Quels sont leurs pér
+ imètres d'application ? Sont-elles la réponse unique à tous les problè
+ mes ? Cette présentation introduit ces deux types d’architecture de man
+ ière comparée\, afin de répondre à la question qu’on peut légitimem
+ ent se poser : sont-elles semblables ou réellement divergentes ?\n17:50 -
+  18:30**Développez des APIs que les développeurs adoreront utiliser\, gr
+ âce au design thinking**Mustapha Benosmane*Architecte*Les APIs sont deven
+ ues très populaires. Elles sont les fondements de notre monde interconnec
+ té. Vous êtes-vous déjà demandé pourquoi personne n'utilise votre API
+  ? Pourquoi construire une API si personne ne sait comment l'utiliser ? Da
+ ns cette présentation\, nous partageons nos conseils sur la conception d'
+ API - inspirés par les méthodes du Design Thinking. Pour rendre votre AP
+ I plus exploitable et la faire adopter massivement.\n18:30 - 19:10**Table 
+ ronde - Décodons le Low/No Code !**Christophe Camicas*Engineering Directo
+ r*Dorine Periolat*Architecte SI*Simon Bachelet*Leader Success of Stores Di
+ gitalization*\n19:10 - 19:15Conclusion\n\nCommunauté: archilocus\n💻 É
+ vénement en ligne\n👥 63 participant(s)
+URL:https://www.meetup.com/archilocus/events/291473012/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archilocus - Session 7
+DTSTART:20230119T174500
+UID:https://www.meetup.com/archilocus/events/290155119/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/290155119/\n\nEn
+  live et en présentiel dans les locaux de Zenika Bordeaux (17 Quai Louis 
+ XVIII\, 33000 Bordeaux).\n\nCommunauté: archilocus\n👥 28 participant(s
+ )
+URL:https://www.meetup.com/archilocus/events/290155119/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L'automne chez Archilocus
+DTSTART:20221027T173000
+UID:https://www.meetup.com/archilocus/events/288769670/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/288769670/\n\n**
+ Gouvernance des données dans un écosystème de micro-services**par Meidi
+  Airouche - *Staff Software Engineer\, Architecte & formateur chez Payfit*
+ \n**Quality Storming : ils sont pas fonctionnels mes besoins ?!**par Arthu
+ r BERTHIAUX - *Architecte solutions chez IpponTechnology*\n[https://www.ar
+ chilocus.tech/#agenda](https://www.archilocus.tech/#agenda)\n\nCommunauté
+ : archilocus\n💻 Événement en ligne\n👥 33 participant(s)
+URL:https://www.meetup.com/archilocus/events/288769670/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un an d'Archilocus
+DTSTART:20220623T183000
+UID:https://www.meetup.com/archilocus/events/286388725/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/286388725/\n📍
+  Halle Boca\, 208 Quai de Paludate\, Bordeaux\, France\n\nPour les un an d
+ 'Archilocus\, nous vous proposons de nous retrouver à La Boca pour boire 
+ un verre (ou plus) et manger un bout.\n\nCommunauté: archilocus\n👥 9 p
+ articipant(s)
+LOCATION:Halle Boca\, 208 Quai de Paludate\, Bordeaux\, France
+URL:https://www.meetup.com/archilocus/events/286388725/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le printemps d'Archilocus
+DTSTART:20220519T170000
+UID:https://www.meetup.com/archilocus/events/285247943/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/285247943/\n\nEn
+  ligne\, 2 talks:\n* Secure GraphQL APIs with TypeScript par **Pierre MARC
+ ENAC** de [Kili](https://kili-technology.com/)\n* Contract First et délé
+ gation de code par **Gilles DI GUGLIELMO** et **Christian NADER** de [Deca
+ thlon](https://medium.com/decathlontechnology)\nUne table ronde '**AAAAA**
+ ' (Autour de l'Architecture & de l'Agilité Avant l'Apéro)\n[l'agenda](ht
+ tps://www.archilocus.tech/#agenda) détaillé est disponible sur le site [
+ www.archilocus.tech](https://www.archilocus.tech)\n\nCommunauté: archiloc
+ us\n💻 Événement en ligne\n👥 45 participant(s)
+URL:https://www.meetup.com/archilocus/events/285247943/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archilocus online
+DTSTART:20220310T163000
+UID:https://www.meetup.com/archilocus/events/283686786/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/283686786/\n\nAp
+ rès une session en physique à Bordeaux\, nous reprenons le format en lig
+ ne avec 3 talks:\n* Abdelkrim Hadjidj nous présentera une "**Introduction
+  au tracing distribué avec Grafana Tempo**"* Vivien Maleze continuera ave
+ c "**Abstraire mon architecture distribuée? Pourquoi et Comment?**"* Sylv
+ ain COMBRAQUE terminera avec "**Du cache pour vos applications : oui et sa
+ ns Varnish**"\n\nCommunauté: archilocus\n💻 Événement en ligne\n👥 
+ 65 participant(s)
+URL:https://www.meetup.com/archilocus/events/283686786/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archilocus #3 en vrai (et online)
+DTSTART:20211202T170000
+UID:https://www.meetup.com/archilocus/events/280992564/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/280992564/\n📍
+  44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France\n\nNotre 3ème 
+ session et la première en physique pour se rencontrer et échanger.Ippon 
+ Technologies nous accueillera pour cette session.Les 2 conf seront diffus
+ ées\, on continuera sur des discussions autour d'un verre de l'amitié\n\
+ nCommunauté: archilocus\n👥 41 participant(s)
+LOCATION:44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France
+URL:https://www.meetup.com/archilocus/events/280992564/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session #2
+DTSTART:20210923T160000
+UID:https://www.meetup.com/archilocus/events/279048057/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/279048057/\n\n3 
+ présentations :* Création d'audience/segmentation combinant des données
+  temps réel et précalculées par Dereck Melancon (Ubisoft Canada)* Trans
+ fo DevOps: un peu de Lean Management et d'Accelerate par Jean-Rémy Révy 
+ (Ippon)* Sécurité des moyens de paiement\, retour sur notre parcours pou
+ r obtenir la certification PCI-DSS par Christophe Camicas (Wiidii)\n1 tabl
+ e ronde sur SLI / SLO / SLA avec BlaBlaCar\, ManoMano et vous\, si vous le
+  souhaitez (appel en début de meetup) !\n\nCommunauté: archilocus\n💻 
+ Événement en ligne\n👥 85 participant(s)
+URL:https://www.meetup.com/archilocus/events/279048057/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archilocus MVP
+DTSTART:20210624T140000
+UID:https://www.meetup.com/archilocus/events/278556971/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/278556971/\n\nNo
+ tre MVP « Archilocus : la place des architectes IT » le jeudi 24 juin (4
+  sessions « live » et une table ronde).Avec des interlocuteurs de Manoma
+ no\, Cdiscount\, La Redoute et Blablacar.\n\nCommunauté: archilocus\n💻
+  Événement en ligne\n👥 345 participant(s)
+URL:https://www.meetup.com/archilocus/events/278556971/
+END:VEVENT
+END:VCALENDAR

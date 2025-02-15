@@ -1,0 +1,50 @@
+name: Generate iCal Files
+
+on:
+  # Run after the event sync workflow
+  workflow_run:
+    workflows: ["Sync Community Events"]
+    types:
+      - completed
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  generate-ical:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml icalendar
+
+      - name: Run iCal generator script
+        run: python .github/scripts/generate_ical.py
+
+      - name: Run README updater script
+        run: python .github/scripts/update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add */events.ics all_events.ics README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update iCal files and README [skip ci]"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
