@@ -71,7 +71,7 @@
             // Fonction pour charger les événements
             async function loadEvents() {
                 try {
-                    const response = await fetch('all_events.yml');
+                    const response = await fetch('events.yml');
                     const yamlText = await response.text();
                     const events = jsyaml.load(yamlText);
                     
