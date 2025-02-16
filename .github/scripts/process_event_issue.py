@@ -68,6 +68,8 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
     safe_title = re.sub(r'[^a-zA-Z0-9]', '-', event_data['event_title'].lower())
     branch_name = f"add-event/{safe_title}"
     
+    print(f"Creating/updating branch: {branch_name}")
+    
     # Get the latest commit from base branch
     base_ref = repo.get_git_ref(f"heads/{base_branch}")
     base_sha = base_ref.object.sha
@@ -75,7 +77,9 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
     try:
         # Try to create new branch
         repo.create_git_ref(f"refs/heads/{branch_name}", base_sha)
-    except Exception:
+        print(f"Created new branch: {branch_name}")
+    except Exception as e:
+        print(f"Branch might already exist: {str(e)}")
         # Branch might already exist - get its latest commit
         branch_ref = repo.get_git_ref(f"heads/{branch_name}")
         base_sha = branch_ref.object.sha
@@ -85,14 +89,17 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
     file_sha = None
     current_content = []
     
+    print(f"Checking file: {file_path}")
     try:
         contents = repo.get_contents(file_path, ref=branch_name)
         if contents.content:
             current_content = yaml.safe_load(contents.decoded_content.decode('utf-8')) or []
             file_sha = contents.sha
-    except Exception:
-        # File doesn't exist yet
-        pass
+            print(f"Found existing content with {len(current_content)} events")
+            for event in current_content:
+                print(f"Existing event URL: {event.get('url')}")
+    except Exception as e:
+        print(f"No existing file found: {str(e)}")
     
     # Add new event
     new_event = {
@@ -105,8 +112,13 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
         'is_online': event_data.get('is_this_an_online_event', 'No') == 'Yes'
     }
     
+    print(f"New event URL: {new_event['url']}")
+    
     # Check if event already exists
-    if not any(event['url'] == new_event['url'] for event in current_content):
+    exists = any(event['url'] == new_event['url'] for event in current_content)
+    print(f"Event exists check: {exists}")
+    
+    if not exists:
         current_content.append(new_event)
         current_content.sort(key=lambda x: x['date'], reverse=True)
         
@@ -115,6 +127,7 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
         commit_message = f"Add event: {event_data['event_title']}"
         
         if file_sha:
+            print(f"Updating existing file")
             repo.update_file(
                 file_path,
                 commit_message,
@@ -123,6 +136,7 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
                 branch=branch_name
             )
         else:
+            print(f"Creating new file")
             repo.create_file(
                 file_path,
                 commit_message,
