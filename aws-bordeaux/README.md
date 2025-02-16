@@ -1,4 +1,4 @@
-# AWS Bordeaux ![Logo](./logo-aws-bordeaux.png)
+# AWS Bordeaux ![Logo](./logo-aws-bordeaux.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
