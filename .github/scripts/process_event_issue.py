@@ -48,13 +48,36 @@ def validate_event_data(data: dict) -> tuple[bool, str]:
     
     return True, ""
 
+def clean_description(description: str) -> str:
+    """Clean and format the description to be consistent with Meetup format"""
+    # Remove carriage returns and clean multiple spaces
+    description = description.replace('\r\n', '\n').strip()
+    
+    # Split into paragraphs and clean each paragraph
+    paragraphs = []
+    current_paragraph = []
+    
+    for line in description.split('\n'):
+        line = line.strip()
+        if line:
+            current_paragraph.append(line)
+        elif current_paragraph:
+            paragraphs.append(' '.join(current_paragraph))
+            current_paragraph = []
+            
+    if current_paragraph:
+        paragraphs.append(' '.join(current_paragraph))
+    
+    # Join paragraphs with double newline
+    return '\n\n'.join(paragraphs)
+
 def format_event_yaml(community: str, event_data: dict) -> str:
     """Format the event data as YAML"""
     event = {
         'title': event_data['event_title'],
         'date': datetime.strptime(event_data['event_date'], '%Y-%m-%d %H:%M').isoformat(),
         'url': event_data['event_url'],
-        'description': event_data['description'],
+        'description': clean_description(event_data.get('description', '')),
         'community': community,
         'location': event_data['location'],
         'is_online': event_data.get('is_this_an_online_event', 'No') == 'Yes'
@@ -102,15 +125,8 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
         print(f"No existing file found: {str(e)}")
     
     # Add new event
-    new_event = {
-        'title': event_data['event_title'],
-        'date': datetime.strptime(event_data['event_date'], '%Y-%m-%d %H:%M').isoformat(),
-        'url': event_data['event_url'],
-        'description': event_data['description'],
-        'community': community,
-        'location': event_data['location'],
-        'is_online': event_data.get('is_this_an_online_event', 'No') == 'Yes'
-    }
+    formatted_yaml = format_event_yaml(community, event_data)
+    new_event = yaml.safe_load(formatted_yaml)[0]  # Charge le premier événement du YAML
     
     print(f"New event URL: {new_event['url']}")
     
