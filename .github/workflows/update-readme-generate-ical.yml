@@ -1,4 +1,4 @@
-name: Generate iCal Files
+name: Update README and Generate iCal Files
 
 on:
   # Run after the event sync workflow
