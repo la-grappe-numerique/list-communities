@@ -29,7 +29,7 @@ def parse_issue_body(body: str) -> dict:
 
 def validate_event_data(data: dict) -> tuple[bool, str]:
     """Validate the event data"""
-    required_fields = ['event_title', 'event_date', 'event_url', 'community', 'location']
+    required_fields = ['event_title', 'event_date', 'event_url', 'community', 'location', 'description']
     
     # Check required fields
     for field in required_fields:
@@ -54,7 +54,7 @@ def format_event_yaml(community: str, event_data: dict) -> str:
         'title': event_data['event_title'],
         'date': datetime.strptime(event_data['event_date'], '%Y-%m-%d %H:%M').isoformat(),
         'url': event_data['event_url'],
-        'description': event_data.get('description', ''),
+        'description': event_data['description'],
         'community': community,
         'location': event_data['location'],
         'is_online': event_data.get('is_this_an_online_event', 'No') == 'Yes'
@@ -82,11 +82,14 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
     
     # Get current file content if exists
     file_path = f"{community}/events.yml"
+    file_sha = None
     current_content = []
+    
     try:
         contents = repo.get_contents(file_path, ref=branch_name)
         if contents.content:
             current_content = yaml.safe_load(contents.decoded_content.decode('utf-8')) or []
+            file_sha = contents.sha
     except Exception:
         # File doesn't exist yet
         pass
@@ -111,12 +114,12 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
         file_content = yaml.dump(current_content, allow_unicode=True, sort_keys=False)
         commit_message = f"Add event: {event_data['event_title']}"
         
-        if contents:
+        if file_sha:
             repo.update_file(
                 file_path,
                 commit_message,
                 file_content,
-                contents.sha,
+                file_sha,
                 branch=branch_name
             )
         else:
