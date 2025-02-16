@@ -1,63 +1,94 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="fr">
 <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    
     <title>La Grappe Numerique</title>
-    <meta name="description"
-        content="Liste des communautés du numerique Bordelais. Contribute to la-grappe-numerique/list-communities development by creating an account on GitHub.">
-    <meta property="og:image"
-        content="https://opengraph.githubassets.com/fb0f0dd610adad6c478a027f9c9456f1e823428f5bcc6e04f82291d4b1388f28/la-grappe-numerique/list-communities" />
-    <meta property="og:image:alt"
-        content="Liste des communautés du numerique Bordelais. Contribute to la-grappe-numerique/list-communities development by creating an account on GitHub." />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="600" />
-    <meta property="og:site_name" content="GitHub" />
-    <meta property="og:type" content="object" />
-    <meta property="og:title"
-        content="la-grappe-numerique/list-communities: Liste des communautés du numerique Bordelais" />
-    <meta property="og:url" content="https://github.com/la-grappe-numerique/list-communities" />
-    <meta property="og:description"
-        content="Liste des communautés du numerique Bordelais. Contribute to la-grappe-numerique/list-communities development by creating an account on GitHub." />
-    <link rel="icon"
-        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍷</text></svg>" />
-    <!-- CSS de FullCalendar -->
-    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/index.global.min.js'></script>
-    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.10/index.global.min.js'></script>
-    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/timegrid@6.1.10/index.global.min.js'></script>
-    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/list@6.1.10/index.global.min.js'></script>
-    <link href='https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/main.min.css' rel='stylesheet' />
+    
+    <!-- Primary Meta Tags -->
+    <meta name="description" content="Liste des communautés du numerique Bordelais. Explorez et rejoignez les communautés tech de Bordeaux.">
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://github.com/la-grappe-numerique/list-communities">
+    <meta property="og:title" content="La Grappe Numerique - Communautés Tech Bordeaux">
+    <meta property="og:description" content="Liste des communautés du numerique Bordelais. Contribute to la-grappe-numerique/list-communities development by creating an account on GitHub.">
+    <meta property="og:image" content="https://opengraph.githubassets.com/fb0f0dd610adad6c478a027f9c9456f1e823428f5bcc6e04f82291d4b1388f28/la-grappe-numerique/list-communities">
+    <meta property="og:image:alt" content="Liste des communautés du numerique Bordelais">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="600">
+    <meta property="og:site_name" content="La Grappe Numerique">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍷</text></svg>">
+    
+    <!-- FullCalendar CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/main.min.css" rel="stylesheet">
     
     <!-- Docsify CSS -->
-    <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
+    <link rel="stylesheet" href="https://unpkg.com/docsify/themes/vue.css">
     
-    <!-- Custom styles for calendar -->
+    <!-- Custom styles -->
     <style>
+        :root {
+            --primary-color: #722F37;
+            --secondary-color: #A3796F;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+        
         #calendar {
             background-color: white;
             padding: 20px;
             margin: 20px 0;
             min-height: 700px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
+        
         .fc .fc-toolbar-title {
             font-size: 1.5em;
+            color: var(--primary-color);
+        }
+        
+        .fc .fc-button-primary {
+            background-color: var(--primary-color);
+            border-color: var(--primary-color);
+        }
+        
+        .fc .fc-button-primary:hover {
+            background-color: var(--secondary-color);
+            border-color: var(--secondary-color);
+        }
+        
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-size: 1.2em;
+            color: var(--primary-color);
         }
     </style>
 </head>
+
 <body>
-    <div id="app">Loading...</div>
+    <div id="app" class="loading">Chargement...</div>
     
     <!-- FullCalendar JS -->
-    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/main.min.js'></script>
-    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.10/main.min.js'></script>
-    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/timegrid@6.1.10/main.min.js'></script>
-    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/list@6.1.10/main.min.js'></script>
+    <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/index.global.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.10/index.global.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/timegrid@6.1.10/index.global.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/list@6.1.10/index.global.min.js"></script>
     
     <!-- YAML Parser -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
     
+    <!-- Docsify Configuration -->
     <script>
         window.$docsify = {
             name: 'La Grappe Numerique',
@@ -68,48 +99,59 @@
             plugins: [
                 function(hook) {
                     hook.doneEach(function() {
-                        const calendarEl = document.getElementById('calendar');
-                        if (!calendarEl) return;
-    
-                        fetch('events.yml')
-                            .then(response => response.text())
-                            .then(yamlText => {
-                                const events = jsyaml.load(yamlText);
-                                const calendarConfig = {
-                                    initialView: 'dayGridMonth',
-                                    headerToolbar: {
-                                        left: 'prev,next today',
-                                        center: 'title',
-                                        right: 'dayGridMonth,timeGridWeek,listMonth'
-                                    },
-                                    locale: 'fr',
-                                    events: events.map(event => ({
-                                        title: event.title,
-                                        start: event.date,
-                                        url: event.url,
-                                        extendedProps: {
-                                            community: event.community,
-                                            location: event.location
-                                        }
-                                    }))
-                                };
-                                
-                                const calendar = new FullCalendar.Calendar(calendarEl, calendarConfig);
-                                calendar.render();
-                            })
-                            .catch(error => console.error('Error loading events:', error));
+                        initializeCalendar();
                     });
                 }
             ]
         };
+        
+        function initializeCalendar() {
+            const calendarEl = document.getElementById('calendar');
+            if (!calendarEl) return;
+            
+            fetch('events.yml')
+                .then(response => response.text())
+                .then(yamlText => {
+                    const events = jsyaml.load(yamlText);
+                    const calendar = new FullCalendar.Calendar(calendarEl, {
+                        initialView: 'dayGridMonth',
+                        headerToolbar: {
+                            left: 'prev,next today',
+                            center: 'title',
+                            right: 'dayGridMonth,timeGridWeek,listMonth'
+                        },
+                        locale: 'fr',
+                        events: events.map(event => ({
+                            title: event.title,
+                            start: event.date,
+                            url: event.url,
+                            extendedProps: {
+                                community: event.community,
+                                location: event.location
+                            }
+                        })),
+                        eventClick: function(info) {
+                            if (info.event.url) {
+                                window.open(info.event.url, '_blank');
+                                info.jsEvent.preventDefault();
+                            }
+                        },
+                        eventDidMount: function(info) {
+                            info.el.title = `${info.event.title}\nCommunauté: ${info.event.extendedProps.community}\nLieu: ${info.event.extendedProps.location}`;
+                        }
+                    });
+                    
+                    calendar.render();
+                })
+                .catch(error => console.error('Error loading events:', error));
+        }
     </script>
-
+    
     <!-- Docsify -->
-    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-
-    <!-- Umami tag -->
+    <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="https://unpkg.com/docsify/lib/plugins/search.min.js"></script>
+    
+    <!-- Analytics -->
     <script async src="https://eu.umami.is/script.js" data-website-id="6f0cde0a-0f58-4d0f-877c-31d35a7642ee"></script>
 </body>
-
 </html>
