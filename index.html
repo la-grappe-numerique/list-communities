@@ -2,17 +2,38 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Calendrier des événements</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    
+    <title>La Grappe Numerique</title>
+    
+    <!-- Meta tags -->
+    <meta name="description" content="Liste des communautés du numerique Bordelais">
+    <meta property="og:title" content="La Grappe Numerique - Communautés Tech Bordeaux">
+    <meta property="og:description" content="Liste des communautés du numerique Bordelais">
+    <meta property="og:image" content="https://opengraph.githubassets.com/fb0f0dd610adad6c478a027f9c9456f1e823428f5bcc6e04f82291d4b1388f28/la-grappe-numerique/list-communities">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍷</text></svg>">
     
     <!-- FullCalendar CSS -->
     <link href="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/main.min.css" rel="stylesheet">
     
+    <!-- Docsify CSS -->
+    <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
+    
     <style>
         #calendar {
-            max-width: 1100px;
-            margin: 20px auto;
+            background-color: white;
             padding: 20px;
-            background: white;
+            margin: 20px 0;
+            min-height: 600px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .fc .fc-toolbar-title {
+            font-size: 1.5em;
         }
         
         .fc-event {
@@ -24,11 +45,23 @@
             white-space: normal;
             overflow: hidden;
         }
+        
+        .fc .fc-daygrid-day-events {
+            margin-bottom: 0;
+        }
+        
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-size: 1.2em;
+        }
     </style>
 </head>
 <body>
-    <div id="calendar"></div>
-
+    <div id="app">Chargement...</div>
+    
     <!-- Scripts nécessaires -->
     <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/index.global.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.10/index.global.min.js"></script>
@@ -36,38 +69,26 @@
     <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/list@6.1.10/index.global.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
 
+    <!-- Configuration Docsify -->
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const calendarEl = document.getElementById('calendar');
-            
-            // Exemple d'événements basé sur votre capture d'écran
-            const events = [
-                {
-                    title: 'Meetup MTG:Bordeaux #5',
-                    start: '2025-02-06T18:30:00',
-                    allDay: false
-                },
-                {
-                    title: 'Cap sur le Web : Les Navigateurs, Explorateurs du Numérique',
-                    start: '2025-02-06T19:00:00',
-                    allDay: false
-                },
-                {
-                    title: 'Club de lecture 25.1 - Nexus',
-                    start: '2025-02-08T10:00:00',
-                    allDay: false
-                },
-                {
-                    title: 'Human Talks Bordeaux #9 - Culture & Stratégie Design',
-                    start: '2025-02-11T18:30:00',
-                    allDay: false
-                },
-                {
-                    title: 'Tabby & Continue.dev : la dream team pour un IA coding assistant',
-                    start: '2025-02-13T19:00:00',
-                    allDay: false
+        window.$docsify = {
+            name: 'La Grappe Numerique',
+            repo: 'la-grappe-numerique/list-communities',
+            homepage: 'https://raw.githubusercontent.com/la-grappe-numerique/list-communities/main/README.md',
+            search: ['/'],
+            executeScript: true,
+            plugins: [
+                function(hook) {
+                    hook.doneEach(function() {
+                        initializeCalendar();
+                    });
                 }
-            ];
+            ]
+        };
+
+        function initializeCalendar() {
+            const calendarEl = document.getElementById('calendar');
+            if (!calendarEl) return;
 
             const calendar = new FullCalendar.Calendar(calendarEl, {
                 initialView: 'dayGridMonth',
@@ -78,7 +99,6 @@
                 },
                 locale: 'fr',
                 timeZone: 'Europe/Paris',
-                events: events,
                 slotMinTime: '08:00:00',
                 slotMaxTime: '22:00:00',
                 displayEventEnd: true,
@@ -99,42 +119,49 @@
                 },
                 eventDisplay: 'block',
                 eventDidMount: function(info) {
-                    info.el.title = info.event.title;
+                    // Ajoute un tooltip avec toutes les informations
+                    const title = info.event.title;
+                    const community = info.event.extendedProps.community;
+                    const location = info.event.extendedProps.location;
+                    info.el.title = `${title}\nCommunauté: ${community || 'N/A'}\nLieu: ${location || 'N/A'}`;
                 }
             });
 
-            calendar.render();
-            
-            // Fonction pour charger les vrais événements depuis votre YAML
-            async function loadEvents() {
-                try {
-                    const response = await fetch('events.yml');
-                    const yamlText = await response.text();
+            // Chargement des événements depuis le YAML
+            fetch('events.yml')
+                .then(response => response.text())
+                .then(yamlText => {
                     const events = jsyaml.load(yamlText);
                     
-                    // Conversion du format des événements
+                    // Formatage des événements pour FullCalendar
                     const formattedEvents = events.map(event => ({
                         title: event.title,
-                        start: event.date, // Assurez-vous que la date est au format ISO
-                        allDay: false,
+                        start: event.date,
                         url: event.url,
+                        allDay: false,
                         extendedProps: {
                             community: event.community,
                             location: event.location
                         }
                     }));
 
-                    // Mise à jour des événements
                     calendar.removeAllEvents();
                     calendar.addEventSource(formattedEvents);
-                } catch (error) {
+                    calendar.render();
+                })
+                .catch(error => {
                     console.error('Erreur lors du chargement des événements:', error);
-                }
-            }
-
-            // Chargement des vrais événements
-            loadEvents();
-        });
+                    // Afficher un message d'erreur à l'utilisateur
+                    calendarEl.innerHTML = '<p>Erreur lors du chargement du calendrier</p>';
+                });
+        }
     </script>
+
+    <!-- Docsify et plugins -->
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+
+    <!-- Analytics -->
+    <script async src="https://eu.umami.is/script.js" data-website-id="6f0cde0a-0f58-4d0f-877c-31d35a7642ee"></script>
 </body>
 </html>
