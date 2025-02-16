@@ -8,3 +8,9 @@
 | 📆 La fréquence des évènements |     |
 | 🎥 Replays                     |     |
 | ✨ Slack                       |     |
+
+<!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+## 📆 Past Events
+<!-- EVENTS:END -->

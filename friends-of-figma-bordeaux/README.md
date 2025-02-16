@@ -3,3 +3,9 @@
 |                                |     |
 | ------------------------------ | --- |
 | 🌍 Site web                    | https://friends.figma.com/bordeaux-fr/ |
+
+<!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+## 📆 Past Events
+<!-- EVENTS:END -->

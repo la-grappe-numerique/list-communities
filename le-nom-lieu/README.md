@@ -3,3 +3,9 @@
 |                                |     |
 | ------------------------------ | --- |
 | 🌍 Site web                    | https://lenomlieu.org/ |
+
+<!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+## 📆 Past Events
+<!-- EVENTS:END -->

@@ -4,3 +4,9 @@
 | ------------------------------ | --- |
 | 🌍 Site web                    | https://community.cncf.io/cloud-native-bordeaux/ |
 | Meetup | https://www.meetup.com/fr-FR/cloud-native-computing-bordeaux/ |
+
+<!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+## 📆 Past Events
+<!-- EVENTS:END -->

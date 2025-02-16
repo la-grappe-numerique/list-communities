@@ -4,3 +4,9 @@
 | ------------------------------ | --- |
 | 🌍 Site web                    | https://okiwi.org/ |
 | Meetup | https://www.meetup.com/fr-FR/software-craftsmanship-bdx/ |
+
+<!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+## 📆 Past Events
+<!-- EVENTS:END -->

@@ -3,3 +3,9 @@
 |                                |     |
 | ------------------------------ | --- |
 | 🌍 Site web                    | https://agiletourbordeaux.fr/ |
+
+<!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+## 📆 Past Events
+<!-- EVENTS:END -->

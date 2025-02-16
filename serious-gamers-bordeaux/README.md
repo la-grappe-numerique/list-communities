@@ -3,3 +3,9 @@
 |                                |     |
 | ------------------------------ | --- |
 | 🌍 Site web                    | https://www.meetup.com/seriousgamers-bordeaux/?eventOrigin=event_home_page |
+
+<!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+## 📆 Past Events
+<!-- EVENTS:END -->

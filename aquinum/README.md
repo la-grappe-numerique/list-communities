@@ -3,3 +3,9 @@
 |                                |     |
 | ------------------------------ | --- |
 | 🌍 Site web                    | https://www.aquinum.fr/ |
+
+<!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+## 📆 Past Events
+<!-- EVENTS:END -->
