@@ -1,0 +1,42 @@
+name: Update Issue Template
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '*/events_src.yaml'
+      - '*/events.yml'
+  workflow_dispatch:
+
+jobs:
+  update-template:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+
+      - name: Generate template
+        run: python .github/scripts/generate_issue_template.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .github/ISSUE_TEMPLATE/event.yml
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update issue template with current communities [skip ci]"
+          git push
