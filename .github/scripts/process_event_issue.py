@@ -8,13 +8,6 @@ import re
 
 def parse_issue_body(body: str) -> dict:
     """Parse the issue body form data into a dictionary"""
-    # The body will be in a format like:
-    # ### Event Title
-    # MyEvent
-    # ### Event Date
-    # 2025-02-20 18:30
-    # ...
-    
     data = {}
     lines = body.split('\n')
     current_field = None
@@ -55,18 +48,50 @@ def validate_event_data(data: dict) -> tuple[bool, str]:
     
     return True, ""
 
-def update_community_events(community: str, event_data: dict):
-    """Update the community events file"""
-    events_file = Path(f'{community}/events.yml')
-    events_file.parent.mkdir(exist_ok=True)
+def format_event_yaml(community: str, event_data: dict) -> str:
+    """Format the event data as YAML"""
+    event = {
+        'title': event_data['event_title'],
+        'date': datetime.strptime(event_data['event_date'], '%Y-%m-%d %H:%M').isoformat(),
+        'url': event_data['event_url'],
+        'description': event_data['description'],
+        'community': community,
+        'location': event_data['location'],
+        'is_online': event_data.get('is_this_an_online_event', 'No') == 'Yes'
+    }
     
-    # Read existing events
-    events = []
-    if events_file.exists():
-        with open(events_file, 'r', encoding='utf-8') as f:
-            events = yaml.safe_load(f) or []
+    return yaml.dump([event], allow_unicode=True, sort_keys=False)
+
+def create_or_update_branch(repo, base_branch: str, community: str, event_data: dict) -> tuple[str, str]:
+    """Create a new branch and update the events file"""
+    # Generate branch name from event details
+    safe_title = re.sub(r'[^a-zA-Z0-9]', '-', event_data['event_title'].lower())
+    branch_name = f"add-event/{safe_title}"
     
-    # Format new event
+    # Get the latest commit from base branch
+    base_ref = repo.get_git_ref(f"heads/{base_branch}")
+    base_sha = base_ref.object.sha
+    
+    try:
+        # Try to create new branch
+        repo.create_git_ref(f"refs/heads/{branch_name}", base_sha)
+    except Exception:
+        # Branch might already exist - get its latest commit
+        branch_ref = repo.get_git_ref(f"heads/{branch_name}")
+        base_sha = branch_ref.object.sha
+    
+    # Get current file content if exists
+    file_path = f"{community}/events.yml"
+    current_content = []
+    try:
+        contents = repo.get_contents(file_path, ref=branch_name)
+        if contents.content:
+            current_content = yaml.safe_load(contents.decoded_content.decode('utf-8')) or []
+    except Exception:
+        # File doesn't exist yet
+        pass
+    
+    # Add new event
     new_event = {
         'title': event_data['event_title'],
         'date': datetime.strptime(event_data['event_date'], '%Y-%m-%d %H:%M').isoformat(),
@@ -78,19 +103,33 @@ def update_community_events(community: str, event_data: dict):
     }
     
     # Check if event already exists
-    event_exists = any(e['url'] == new_event['url'] for e in events)
-    if not event_exists:
-        events.append(new_event)
+    if not any(event['url'] == new_event['url'] for event in current_content):
+        current_content.append(new_event)
+        current_content.sort(key=lambda x: x['date'], reverse=True)
         
-        # Sort events by date
-        events.sort(key=lambda x: x['date'], reverse=True)
+        # Create or update file
+        file_content = yaml.dump(current_content, allow_unicode=True, sort_keys=False)
+        commit_message = f"Add event: {event_data['event_title']}"
         
-        # Save updated events
-        with open(events_file, 'w', encoding='utf-8') as f:
-            yaml.dump(events, f, allow_unicode=True, sort_keys=False)
+        if contents:
+            repo.update_file(
+                file_path,
+                commit_message,
+                file_content,
+                contents.sha,
+                branch=branch_name
+            )
+        else:
+            repo.create_file(
+                file_path,
+                commit_message,
+                file_content,
+                branch=branch_name
+            )
         
-        return True
-    return False
+        return branch_name, "Event added successfully"
+    
+    return branch_name, "Event already exists"
 
 def main():
     # Get issue data from environment
@@ -113,26 +152,37 @@ def main():
         return
     
     try:
-        # Update community events
-        updated = update_community_events(
+        # Create branch and update file
+        branch_name, message = create_or_update_branch(
+            repo,
+            'main',
             event_data['community'],
             event_data
         )
         
-        if updated:
-            # Commit changes
-            os.system('git config --local user.email "github-actions[bot]@users.noreply.github.com"')
-            os.system('git config --local user.name "github-actions[bot]"')
-            os.system(f'git add {event_data["community"]}/events.yml')
-            os.system('git commit -m "Add new event via bot [skip ci]"')
-            os.system('git push')
+        if message == "Event added successfully":
+            # Create pull request
+            pr = repo.create_pull(
+                title=f"Add event: {event_data['event_title']}",
+                body=(
+                    f"Adds new event from issue #{issue_number}\n\n"
+                    f"Event details:\n"
+                    f"- Title: {event_data['event_title']}\n"
+                    f"- Date: {event_data['event_date']}\n"
+                    f"- Location: {event_data['location']}\n"
+                    f"- Community: {event_data['community']}"
+                ),
+                head=branch_name,
+                base='main'
+            )
             
-            # Update issue
-            issue.create_comment("✅ Event added successfully!")
+            # Add labels and link issue
+            pr.add_to_labels('event')
+            issue.create_comment(f"✅ Pull Request created: {pr.html_url}")
             issue.add_to_labels('processed')
-            issue.edit(state='closed')
+            
         else:
-            issue.create_comment("ℹ️ This event already exists in the calendar.")
+            issue.create_comment(f"ℹ️ {message}")
             issue.add_to_labels('duplicate')
             
     except Exception as e:
