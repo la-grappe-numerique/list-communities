@@ -59,7 +59,6 @@ def format_event_yaml(community: str, event_data: dict) -> str:
             return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
         return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='')
         
-    # Ajouter le présentateur personnalisé
     CustomYAMLDumper.add_representer(str, str_presenter)
     
     event = {
@@ -76,6 +75,18 @@ def format_event_yaml(community: str, event_data: dict) -> str:
 
 def create_or_update_branch(repo, base_branch: str, community: str, event_data: dict) -> tuple[str, str]:
     """Create a new branch and update the events file"""
+
+    class CustomYAMLDumper(yaml.SafeDumper):
+        pass
+        
+    def str_presenter(dumper, data):
+        """Custom string presenter for YAML"""
+        if '\n' in data:
+            return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
+        return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='')
+    
+    CustomYAMLDumper.add_representer(str, str_presenter)
+
     # Generate branch name from event details
     safe_title = re.sub(r'[^a-zA-Z0-9]', '-', event_data['event_title'].lower())
     branch_name = f"add-event/{safe_title}"
@@ -128,7 +139,7 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
         current_content.sort(key=lambda x: x['date'], reverse=True)
         
         # Create or update file
-        file_content = yaml.dump(current_content, allow_unicode=True, sort_keys=False)
+        file_content = yaml.dump(current_content, allow_unicode=True, sort_keys=False, Dumper=CustomYAMLDumper)
         commit_message = f"Add event: {event_data['event_title']}"
         
         if file_sha:
