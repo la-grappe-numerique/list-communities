@@ -9,7 +9,7 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Jeudi 20 février 2025 à 18:30 | Meetup AWS re:Invent re:Cap | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/ |
+| Jeudi 20 février 2025 à 18:30 | Meetup AWS re:Invent re:Cap | Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/ |
 
 ## 📆 Past Events
 
@@ -18,7 +18,7 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Jeudi 14 novembre 2024 à 18:30 | Meetup AWS Bordeaux : Serverless, FinOps, et GenAI | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/304288920/ |
+| Jeudi 14 novembre 2024 à 18:30 | Meetup AWS Bordeaux : Serverless, FinOps, et GenAI | Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/304288920/ |
 </details>
 
 <details>
@@ -26,7 +26,7 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 11 mai 2022 à 19:00 | [Présentiel !] Meetup AWS Bordeaux #8 | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/285568376/ |
+| Mercredi 11 mai 2022 à 19:00 | [Présentiel !] Meetup AWS Bordeaux #8 | 132 Rue Fondaudège, Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/285568376/ |
 </details>
 
 <details>
@@ -74,7 +74,7 @@
 | Jeudi 07 mai 2020 à 18:00 | Live Coding with Bashar : Migration et transformation d'une app  | Online | https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchbkb/ |
 | Jeudi 23 avril 2020 à 18:50 | Meetup virtuel AWS #2 - L'orchestration Kubernetes sur AWS | Online | https://www.meetup.com/bordeaux-amazon-web-services/events/270058143/ |
 | Mercredi 25 mars 2020 à 18:50 | Meetup virtuel AWS #1 - AWS dans l'univers du Gaming | Online | https://www.meetup.com/bordeaux-amazon-web-services/events/269643080/ |
-| Jeudi 06 février 2020 à 19:00 | Meetup AWS Bordeaux #7 - @Betclic - Résilience & sécurité sur AWS | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/267721451/ |
+| Jeudi 06 février 2020 à 19:00 | Meetup AWS Bordeaux #7 - @Betclic - Résilience & sécurité sur AWS | 117 Quai de Bacalan, Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/267721451/ |
 </details>
 
 <details>
@@ -82,11 +82,11 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Jeudi 19 décembre 2019 à 19:00 | Meetup AWS Bordeaux #6 - re:Invent 2019 re:Cap | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/265659080/ |
-| Jeudi 17 octobre 2019 à 19:00 | Meetup AWS Bordeaux #5 - Architectures modernes & Serverless | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/ |
-| Jeudi 13 juin 2019 à 19:00 | Meetup AWS Bordeaux #4 - Retours d'expériences AT Internet & Betclic | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/261322618/ |
-| Jeudi 09 mai 2019 à 19:30 | Meetup AWS Bordeaux #3 - Les piliers de l'observabilité appliqués au Serverless | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/260941625/ |
-| Jeudi 07 février 2019 à 19:30 | Meetup AWS Bordeaux #2 - Implémenter une Skill Alexa en serverless avec AWS | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/258187943/ |
+| Jeudi 19 décembre 2019 à 19:00 | Meetup AWS Bordeaux #6 - re:Invent 2019 re:Cap | 16 Rue Théodore Blanc, Bruges | https://www.meetup.com/bordeaux-amazon-web-services/events/265659080/ |
+| Jeudi 17 octobre 2019 à 19:00 | Meetup AWS Bordeaux #5 - Architectures modernes & Serverless | 132 Rue Fondaudège, Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/ |
+| Jeudi 13 juin 2019 à 19:00 | Meetup AWS Bordeaux #4 - Retours d'expériences AT Internet & Betclic | 16 Rue Théodore Blanc, Bruges | https://www.meetup.com/bordeaux-amazon-web-services/events/261322618/ |
+| Jeudi 09 mai 2019 à 19:30 | Meetup AWS Bordeaux #3 - Les piliers de l'observabilité appliqués au Serverless | 132 Rue Fondaudège, Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/260941625/ |
+| Jeudi 07 février 2019 à 19:30 | Meetup AWS Bordeaux #2 - Implémenter une Skill Alexa en serverless avec AWS | 1 107 Cours Balguerie Stuttenberg, Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/258187943/ |
 </details>
 
 <details>
@@ -94,6 +94,6 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 07 juin 2017 à 19:00 | Meetup AWS Bordeaux #1 | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/229864331/ |
+| Mercredi 07 juin 2017 à 19:00 | Meetup AWS Bordeaux #1 | 85 Avenue John Fitzgerald Kennedy, Merignac | https://www.meetup.com/bordeaux-amazon-web-services/events/229864331/ |
 </details>
 <!-- EVENTS:END -->
