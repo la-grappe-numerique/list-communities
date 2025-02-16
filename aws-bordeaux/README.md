@@ -1,8 +1,11 @@
-# AWS Bordeaux ![Logo](https://example.com/logo-aws-bordeaux.png)
+# AWS Bordeaux ![Logo](./logo-aws-bordeaux.png)
 
 |                                |     |
 | ------------------------------ | --- |
-| 🌍 Site web                    | https://www.meetup.com/fr-FR/bordeaux-amazon-web-services/ |
+| ✉️ Qui contacter ?              | Jean EYMERIT |
+| 🌍 Site web                    | https://aws.amazon.com/fr/developer/community/usergroups/france/ |
+| 🌍 Meetup                      | https://www.meetup.com/fr-FR/bordeaux-amazon-web-services/       |
+| 🌍 LinkedIn                    | https://www.linkedin.com/company/aws-user-group-bordeaux/        |
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
