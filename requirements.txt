@@ -6,3 +6,5 @@ python-dateutil>=2.8.2   # For date manipulation
 feedparser>=6.0.11       # For RSS feeds parsing (if needed)
 pytz>=2024.1            # For timezone handling
 markdown2>=2.4.12       # For README formatting
+PyGithub==2.1.1         # For GitHub API interactions
+
