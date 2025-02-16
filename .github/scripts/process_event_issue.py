@@ -29,7 +29,7 @@ def parse_issue_body(body: str) -> dict:
 
 def validate_event_data(data: dict) -> tuple[bool, str]:
     """Validate the event data"""
-    required_fields = ['event_title', 'event_date', 'event_url', 'community', 'location', 'description']
+    required_fields = ['event_title', 'event_date', 'event_url', 'community', 'location']
     
     # Check required fields
     for field in required_fields:
@@ -54,7 +54,7 @@ def format_event_yaml(community: str, event_data: dict) -> str:
         'title': event_data['event_title'],
         'date': datetime.strptime(event_data['event_date'], '%Y-%m-%d %H:%M').isoformat(),
         'url': event_data['event_url'],
-        'description': event_data['description'],
+        'description': event_data.get('description', ''),
         'community': community,
         'location': event_data['location'],
         'is_online': event_data.get('is_this_an_online_event', 'No') == 'Yes'

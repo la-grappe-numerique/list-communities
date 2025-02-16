@@ -27,21 +27,18 @@ class ReadmeUpdater:
             event for event in events
             if datetime.fromisoformat(event['date']) > now
         ]
-        future_events.sort(key=lambda x: x['date'])
+        future_events.sort(key=lambda x: x['date'])  # Sort by date ascending
         return future_events
-        
-    def group_events_by_year(self, events: List[Dict]) -> Dict[int, List[Dict]]:
-        """Group events by year"""
-        events_by_year = defaultdict(list)
-        for event in events:
-            year = datetime.fromisoformat(event['date']).year
-            events_by_year[year].append(event)
-        
-        # Sort events within each year
-        for year in events_by_year:
-            events_by_year[year].sort(key=lambda x: x['date'], reverse=True)
-            
-        return dict(sorted(events_by_year.items(), reverse=True))
+
+    def get_past_events(self, events: List[Dict]) -> List[Dict]:
+        """Filter and sort past events"""
+        now = datetime.now()
+        past_events = [
+            event for event in events
+            if datetime.fromisoformat(event['date']) <= now
+        ]
+        past_events.sort(key=lambda x: x['date'], reverse=True)  # Sort by date descending
+        return past_events
         
     def format_event_row_global(self, event: Dict) -> str:
         """Format event for global README table"""
@@ -72,25 +69,32 @@ class ReadmeUpdater:
         readme_path = community_dir / 'README.md'
         
         # Prepare content
-        future_events = self.get_future_events(events)
-        events_by_year = self.group_events_by_year(events)
-        
-        # Generate content
         content = []
         
         # Upcoming events section
+        future_events = self.get_future_events(events)
         if future_events:
-            content.append("## 📅 Upcoming Events\n")
-            content.append("| Date | Event | Location | Link |")
-            content.append("|------|--------|----------|------|")
+            content.extend([
+                "## 📅 Upcoming Events\n",
+                "| Date | Event | Location | Link |",
+                "|------|--------|----------|------|"
+            ])
             content.extend(self.format_event_row_community(event) for event in future_events)
             content.append("\n")
         
         # Past events by year
+        events_by_year = self.group_events_by_year(events)
         if events_by_year:
             content.append("## 📆 Past Events\n")
-            content.extend(self.generate_year_section(year, year_events) 
-                         for year, year_events in events_by_year.items())
+            for year, year_events in events_by_year.items():
+                content.extend([
+                    f"<details>",
+                    f"<summary>{year}</summary>\n",
+                    "| Date | Event | Location | Link |",
+                    "|------|--------|----------|------|",
+                    "\n".join(self.format_event_row_community(event) for event in year_events),
+                    "</details>\n"
+                ])
         
         # Update README
         if readme_path.exists():
@@ -102,18 +106,18 @@ class ReadmeUpdater:
             if re.search(events_pattern, readme_content, re.DOTALL):
                 readme_content = re.sub(
                     events_pattern,
-                    f"<!-- EVENTS:START -->\n{''.join(content)}\n<!-- EVENTS:END -->",
+                    f"<!-- EVENTS:START -->\n{'\n'.join(content)}\n<!-- EVENTS:END -->",
                     readme_content,
                     flags=re.DOTALL
                 )
             else:
-                readme_content += f"\n<!-- EVENTS:START -->\n{''.join(content)}\n<!-- EVENTS:END -->\n"
+                readme_content += f"\n<!-- EVENTS:START -->\n{'\n'.join(content)}\n<!-- EVENTS:END -->\n"
         else:
             # Create new README if it doesn't exist
             readme_content = (
                 f"# {community_dir.name}\n\n"
                 f"<!-- EVENTS:START -->\n"
-                f"{''.join(content)}\n"
+                f"{'\n'.join(content)}\n"
                 f"<!-- EVENTS:END -->\n"
             )
             
