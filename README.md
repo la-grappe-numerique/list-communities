@@ -47,6 +47,9 @@ Vous pouvez joindre les communauté du numeriaque bordelais et échanger avec no
 
 ## 📅 Les évènements à venir
 
+Le calendrier des évènements est également disponible au format iCal.
+Voici son URL : [https://www.lagrappenumerique.fr/events.ics](./events.ics)
+
 <!-- ALL-EVENTS:START - Do not remove or modify this section -->
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community | Event | Location | Link |
@@ -67,7 +70,7 @@ Vous pouvez joindre les communauté du numeriaque bordelais et échanger avec no
 
 ## 🖥  Carte de visite
 
-Afin de partager rapidement ces informations, voici un QR code menant au site dédié à ce projet : [https://bordeaux.community/](https://bordeaux.community/#/)
+Afin de partager rapidement ces informations, voici un QR code menant au site dédié à ce projet : [https://www.lagrappenumerique.fr/ ](https://www.lagrappenumerique.fr/#/)
 
 <img src="./docs/qrcode.png" width="200" height="200" />
 
