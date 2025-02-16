@@ -9,9 +9,6 @@
     
     <!-- Meta tags -->
     <meta name="description" content="Liste des communautés du numerique Bordelais">
-    <meta property="og:title" content="La Grappe Numerique - Communautés Tech Bordeaux">
-    <meta property="og:description" content="Liste des communautés du numerique Bordelais">
-    <meta property="og:image" content="https://opengraph.githubassets.com/fb0f0dd610adad6c478a027f9c9456f1e823428f5bcc6e04f82291d4b1388f28/la-grappe-numerique/list-communities">
     
     <!-- Favicon -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍷</text></svg>">
@@ -32,30 +29,34 @@
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         
-        .fc .fc-toolbar-title {
-            font-size: 1.5em;
+        .fc-daygrid-event-harness {
+            margin-bottom: 2px !important;
         }
         
         .fc-event {
-            cursor: pointer;
+            border: none;
             padding: 2px 4px;
+            margin: 1px 0;
+            background-color: #e3f2fd;
+            border-left: 3px solid #2196f3;
+            color: #1976d2 !important;
         }
         
         .fc-daygrid-event {
-            white-space: normal;
-            overflow: hidden;
+            white-space: normal !important;
         }
         
-        .fc .fc-daygrid-day-events {
-            margin-bottom: 0;
+        .fc-timegrid-event {
+            padding: 4px !important;
         }
         
-        .loading {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            font-size: 1.2em;
+        .fc-event-time {
+            font-weight: bold;
+        }
+        
+        .fc-event-title {
+            font-weight: normal;
+            white-space: normal !important;
         }
     </style>
 </head>
@@ -80,18 +81,18 @@
             plugins: [
                 function(hook) {
                     hook.doneEach(function() {
-                        initializeCalendar();
+                        const calendarEl = document.getElementById('calendar');
+                        if (calendarEl) {
+                            initializeCalendar(calendarEl);
+                        }
                     });
                 }
             ]
         };
 
-        function initializeCalendar() {
-            const calendarEl = document.getElementById('calendar');
-            if (!calendarEl) return;
-
+        function initializeCalendar(calendarEl) {
             const calendar = new FullCalendar.Calendar(calendarEl, {
-                initialView: 'dayGridMonth',
+                initialView: 'listMonth',
                 headerToolbar: {
                     left: 'prev,next today',
                     center: 'title',
@@ -99,27 +100,30 @@
                 },
                 locale: 'fr',
                 timeZone: 'Europe/Paris',
+                nowIndicator: true,
+                handleWindowResize: true,
+                height: 'auto',
+                expandRows: true,
                 slotMinTime: '08:00:00',
                 slotMaxTime: '22:00:00',
-                displayEventEnd: true,
+                slotDuration: '00:30:00',
+                dayMaxEvents: true,
                 eventTimeFormat: {
                     hour: '2-digit',
                     minute: '2-digit',
                     hour12: false
                 },
                 views: {
-                    timeGrid: {
-                        dayMaxEvents: 6,
-                        dayMaxEventRows: true
-                    },
                     dayGrid: {
-                        dayMaxEvents: 6,
-                        dayMaxEventRows: true
+                        dayMaxEventRows: 4
+                    },
+                    timeGrid: {
+                        dayMaxEventRows: true,
+                        nowIndicator: true
                     }
                 },
-                eventDisplay: 'block',
+                eventClassNames: 'calendar-event',
                 eventDidMount: function(info) {
-                    // Ajoute un tooltip avec toutes les informations
                     const title = info.event.title;
                     const community = info.event.extendedProps.community;
                     const location = info.event.extendedProps.location;
@@ -127,23 +131,26 @@
                 }
             });
 
-            // Chargement des événements depuis le YAML
+            // Chargement des événements
             fetch('events.yml')
                 .then(response => response.text())
                 .then(yamlText => {
                     const events = jsyaml.load(yamlText);
-                    
-                    // Formatage des événements pour FullCalendar
-                    const formattedEvents = events.map(event => ({
-                        title: event.title,
-                        start: event.date,
-                        url: event.url,
-                        allDay: false,
-                        extendedProps: {
-                            community: event.community,
-                            location: event.location
-                        }
-                    }));
+                    const formattedEvents = events.map(event => {
+                        // S'assurer que la date est au bon format
+                        const eventDate = new Date(event.date);
+                        return {
+                            title: event.title,
+                            start: eventDate.toISOString(), // Conversion explicite en ISO
+                            end: new Date(eventDate.getTime() + 2 * 60 * 60 * 1000).toISOString(), // +2h par défaut
+                            url: event.url,
+                            allDay: false,
+                            extendedProps: {
+                                community: event.community,
+                                location: event.location
+                            }
+                        };
+                    });
 
                     calendar.removeAllEvents();
                     calendar.addEventSource(formattedEvents);
@@ -151,7 +158,6 @@
                 })
                 .catch(error => {
                     console.error('Erreur lors du chargement des événements:', error);
-                    // Afficher un message d'erreur à l'utilisateur
                     calendarEl.innerHTML = '<p>Erreur lors du chargement du calendrier</p>';
                 });
         }
