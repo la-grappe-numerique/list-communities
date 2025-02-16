@@ -21,123 +21,82 @@
     <meta property="og:url" content="https://github.com/la-grappe-numerique/list-communities" />
     <meta property="og:description"
         content="Liste des communautés du numerique Bordelais. Contribute to la-grappe-numerique/list-communities development by creating an account on GitHub." />
-    <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
     <link rel="icon"
         href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍷</text></svg>" />
     <!-- FullCalendar CSS -->
-    <link href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.5/main.min.css' rel='stylesheet' />
+    <link href='https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/main.min.css' rel='stylesheet' />
+    
+    <!-- Docsify CSS -->
+    <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
+    
+    <!-- Custom styles for calendar -->
+    <style>
+        #calendar {
+            background-color: white;
+            padding: 20px;
+            margin: 20px 0;
+            min-height: 700px;
+        }
+    </style>
 </head>
-
 <body>
     <div id="app">Loading...</div>
+    
+    <!-- FullCalendar JS -->
+    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/main.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.10/main.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/timegrid@6.1.10/main.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/list@6.1.10/main.min.js'></script>
+    
+    <!-- YAML Parser -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    
     <script>
         window.$docsify = {
             name: 'La Grappe Numerique',
             repo: 'la-grappe-numerique/list-communities',
             homepage: 'https://raw.githubusercontent.com/la-grappe-numerique/list-communities/main/README.md',
             search: ['/'],
+            executeScript: true,
             plugins: [
                 function(hook) {
-                    hook.afterEach(function(html) {
-                        if (html.includes('<!-- calendar-container -->')) {
-                            // Initialize calendar after page render
-                            hook.doneEach(function() {
-                                initializeCalendar();
+                    hook.doneEach(function() {
+                        const calendarEl = document.getElementById('calendar');
+                        if (!calendarEl) return;
+
+                        fetch('events.yml')
+                            .then(response => response.text())
+                            .then(yamlText => {
+                                const events = jsyaml.load(yamlText);
+                                const calendar = new FullCalendar.Calendar(calendarEl, {
+                                    initialView: 'dayGridMonth',
+                                    headerToolbar: {
+                                        left: 'prev,next today',
+                                        center: 'title',
+                                        right: 'dayGridMonth,timeGridWeek,listMonth'
+                                    },
+                                    locale: 'fr',
+                                    events: events.map(event => ({
+                                        title: event.title,
+                                        start: event.date,
+                                        url: event.url,
+                                        extendedProps: {
+                                            community: event.community,
+                                            location: event.location
+                                        }
+                                    }))
+                                });
+                                calendar.render();
                             });
-                        }
-                        return html;
                     });
                 }
             ]
         }
     </script>
+
     <!-- Docsify -->
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-    
-    <!-- YAML Parser -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
-    
-    <!-- FullCalendar JS -->
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.5/main.min.js'></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.5/locales/fr.min.js'></script>
-
-    <!-- Calendar Initialization Script -->
-    <script>
-        function initializeCalendar() {
-            const calendarEl = document.getElementById('calendar');
-            if (!calendarEl) return;
-
-            // Fonction pour charger les événements
-            async function loadEvents() {
-                try {
-                    const response = await fetch('events.yml');
-                    const yamlText = await response.text();
-                    const events = jsyaml.load(yamlText);
-                    
-                    return events.map(event => ({
-                        title: event.title,
-                        start: event.date,
-                        url: event.url,
-                        extendedProps: {
-                            community: event.community,
-                            location: event.location,
-                            isOnline: event.is_online
-                        },
-                        backgroundColor: getEventColor(event.community)
-                    }));
-                } catch (error) {
-                    console.error('Erreur lors du chargement des événements:', error);
-                    return [];
-                }
-            }
-
-            // Fonction pour générer une couleur unique par communauté
-            function getEventColor(community) {
-                let hash = 0;
-                for (let i = 0; i < community.length; i++) {
-                    hash = community.charCodeAt(i) + ((hash << 5) - hash);
-                }
-                const hue = Math.abs(hash % 360);
-                return `hsl(${hue}, 70%, 50%)`;
-            }
-
-            const calendar = new FullCalendar.Calendar(calendarEl, {
-                initialView: 'dayGridMonth',
-                headerToolbar: {
-                    left: 'prev,next today',
-                    center: 'title',
-                    right: 'dayGridMonth,timeGridWeek,listMonth'
-                },
-                locale: 'fr',
-                firstDay: 1,
-                navLinks: true,
-                eventTimeFormat: {
-                    hour: '2-digit',
-                    minute: '2-digit',
-                    hour12: false
-                },
-                eventClick: function(info) {
-                    info.jsEvent.preventDefault();
-                    const event = info.event;
-                    const props = event.extendedProps;
-                    
-                    alert(`
-                        ${event.title}
-                        📅 ${new Date(event.start).toLocaleString('fr-FR')}
-                        🏢 ${props.community}
-                        📍 ${props.location}
-                        ${props.isOnline ? '💻 Événement en ligne' : ''}
-                        
-                        🔗 ${event.url}
-                    `);
-                },
-                events: loadEvents
-            });
-
-            calendar.render();
-        }
-    </script>
 
     <!-- Umami tag -->
     <script async src="https://eu.umami.is/script.js" data-website-id="6f0cde0a-0f58-4d0f-877c-31d35a7642ee"></script>
