@@ -1,7 +1,8 @@
-# Le Nom Lieu ![Logo](https://example.com/logo-le-nom-lieu.png)
+# Le Nom Lieu ![Logo](./logo-le-nom-lieu.png)
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Julien Borde |
 | 🌍 Site web                    | https://lenomlieu.org/ |
 
 <!-- EVENTS:START -->

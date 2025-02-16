@@ -1,7 +1,8 @@
-# La boussole de la tech ![Logo](https://example.com/logo-la-boussole-de-la-tech.png)
+# La boussole de la tech
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Olivier |
 | 🌍 Site web                    | https://www.helloasso.com/associations/la-boussole-de-la-tech |
 
 <!-- EVENTS:START -->

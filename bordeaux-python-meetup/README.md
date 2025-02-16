@@ -1,7 +1,8 @@
-# Bordeaux Python Meetup ![Logo](https://example.com/logo-bordeaux-python-meetup.png)
+# Bordeaux Python Meetup ![Logo](./logo-py-bdx.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Yoan Mollard |
 | 🌍 Site web                    | https://www.meetup.com/py-bdx/ |
 
 <!-- EVENTS:START -->

@@ -1,8 +1,10 @@
-# Apéro Web ![Logo](https://example.com/logo-apéro-web.png)
+# Apéro Web ![Logo](./logo-apero-web-bdx.jpeg ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Adrien |
 | 🌍 Site web                    | https://www.meetup.com/fr-FR/apero-web-bordeaux/ |
+| Facebook                      | https://www.facebook.com/aperowebbdx/ |
 
 <!-- EVENTS:START -->
 ## 📆 Past Events

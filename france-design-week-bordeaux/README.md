@@ -1,4 +1,4 @@
-# France Design Week Bordeaux ![Logo](https://example.com/logo-france-design-week-bordeaux.png)
+# France Design Week Bordeaux ![Logo](./logo-fdw.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |

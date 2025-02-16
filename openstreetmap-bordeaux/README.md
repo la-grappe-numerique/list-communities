@@ -1,4 +1,4 @@
-# OpenStreetMap France, groupe local Bordeaux ![Logo](https://example.com/logo-openstreetmap-france,-groupe-local-bordeaux.png)
+# OpenStreetMap France, groupe local Bordeaux
 
 |                                |     |
 | ------------------------------ | --- |

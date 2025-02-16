@@ -1,7 +1,8 @@
-# Archilocus ![Logo](https://example.com/logo-archilocus.png)
+# Archilocus ![Logo](./logo-archilocus.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Jean-Rémy Revy, Cyril Beslay, Laurent Brisse |
 | 🌍 Site web                    | https://archilocus.tech/ |
 | Meetup | https://www.meetup.com/fr-FR/archilocus/ |
 

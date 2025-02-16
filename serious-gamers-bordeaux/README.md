@@ -1,8 +1,10 @@
-# Serious Gamers Bordeaux ![Logo](https://example.com/logo-serious-gamers-bordeaux.png)
+# Serious Gamers Bordeaux
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Nicolas Pascaud |
 | 🌍 Site web                    | https://www.meetup.com/seriousgamers-bordeaux/?eventOrigin=event_home_page |
+| ✨ Slack                       | https://join.slack.com/t/seriousgamers-group/shared_invite/zt-8aft7wb5-hBrTFMupY2vWLfyUGFDcKg |
 
 <!-- EVENTS:START -->
 ## 📆 Past Events

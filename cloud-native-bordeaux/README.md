@@ -1,7 +1,8 @@
-# Cloud Native Bordeaux ![Logo](https://example.com/logo-cloud-native-bordeaux.png)
+# Cloud Native Bordeaux ![Logo](./logo-cncf-bordeaux.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Jean Eymerit, Alexis Fala |
 | 🌍 Site web                    | https://community.cncf.io/cloud-native-bordeaux/ |
 | Meetup | https://www.meetup.com/fr-FR/cloud-native-computing-bordeaux/ |
 

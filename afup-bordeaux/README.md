@@ -1,7 +1,8 @@
-# AFUP Bordeaux ![Logo](https://example.com/logo-afup-bordeaux.png)
+# AFUP Bordeaux ![Logo](./logo-afup-bordeaux.svg ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Adrien Roches |
 | 🌍 Site web                    | https://www.meetup.com/fr-FR/bordeaux-php-meetup/ |
 
 <!-- EVENTS:START -->

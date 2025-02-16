@@ -1,7 +1,8 @@
-# MTG:Bordeaux ![Logo](https://example.com/logo-mtg:bordeaux.png)
+# MTG:Bordeaux ![Logo](./logo-mtg-bordeaux.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Lionel Lalande, Alexandre Nédélec, Xavier Noya, Christian Bonnaud |
 | 🌍 Site web                    | https://www.meetup.com/mtg-bordeaux/ |
 
 <!-- EVENTS:START -->

@@ -1,7 +1,8 @@
-# Aquinum ![Logo](https://example.com/logo-aquinum.png)
+# Aquinum ![Logo](./logo-aquinum.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Pierre Benayoun, Christophe Gaydier, Michael |
 | 🌍 Site web                    | https://www.aquinum.fr/ |
 
 <!-- EVENTS:START -->

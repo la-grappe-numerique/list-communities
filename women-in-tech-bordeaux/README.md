@@ -1,7 +1,8 @@
-# Women in Tech Bordeaux ![Logo](https://example.com/logo-women-in-tech-bordeaux.png)
+# Women in Tech Bordeaux ![Logo](./logo-wit-bordeaux.jpeg ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Amélie Benoit, Noémie R., Coralie |
 | 🌍 Site web                    | https://www.linkedin.com/company/women-in-tech-bordeaux/ |
 
 <!-- EVENTS:START -->

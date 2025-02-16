@@ -1,7 +1,8 @@
-# Okiwi ![Logo](https://example.com/logo-okiwi.png)
+# Okiwi ![Logo](./logo-okiwi.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Sam Cranford, Stéfanie Loiseleur, Ludwig Vaan |
 | 🌍 Site web                    | https://okiwi.org/ |
 | Meetup | https://www.meetup.com/fr-FR/software-craftsmanship-bdx/ |
 

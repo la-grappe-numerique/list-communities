@@ -48,7 +48,7 @@ Vous pouvez joindre les communauté du numeriaque bordelais et échanger avec no
 ## 📅 Les évènements à venir
 
 Le calendrier des évènements est également disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/events.ics](./events.ics)
+Voici son URL : [https://www.lagrappenumerique.fr/events.ics](./events.ics ':ignore')
 
 <!-- ALL-EVENTS:START - Do not remove or modify this section -->
 <!-- ALL-EVENTS-LIST:START -->

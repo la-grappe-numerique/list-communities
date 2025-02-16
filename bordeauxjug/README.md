@@ -1,9 +1,10 @@
-# BordeauxJug ![Logo](https://example.com/logo-bordeauxjug.png)
+# BordeauxJug ![Logo](./logo-bordeaux-jug.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Lilian BENOIT, Bruno Lacombe |
 | 🌍 Site web                    | http://www.bordeauxjug.org/ |
-| Meetup | https://www.meetup.com/fr-FR/bordeauxjug/ |
+| Meetup                         | https://www.meetup.com/fr-FR/bordeauxjug/ |
 
 <!-- EVENTS:START -->
 ## 📆 Past Events

@@ -1,7 +1,8 @@
-# Creative Coding Bordeaux ![Logo](https://example.com/logo-creative-coding-bordeaux.png)
+# Creative Coding Bordeaux ![Logo](./logo-creative-coding-bdx.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Alexandre Gravel-Raymond |
 | 🌍 Site web                    | https://www.meetup.com/fr-FR/creative-coding-bordeaux/ |
 
 <!-- EVENTS:START -->

@@ -1,7 +1,8 @@
-# Human talks ![Logo](https://example.com/logo-human-talks.png)
+# Human talks ![Logo](./logo-human-talks.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Alexandre Sutra, Eddy |
 | 🌍 Site web                    | https://humantalks.com/cities/bordeaux |
 | Meetup | https://www.meetup.com/fr-FR/human-talks-bordeaux/ |
 
