@@ -3,7 +3,7 @@ name: Deploy Docsify Site
 on:
   # Run after the events sync and iCal generation
   workflow_run:
-    workflows: ["Generate iCal Files"]
+    workflows: ["Generate iCal Files and Update READMEs"]
     types:
       - completed
   # Run on changes to main branch
