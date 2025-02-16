@@ -5,6 +5,9 @@
 | ✉️ Qui contacter ?              | Lionel Lalande, Alexandre Nédélec, Xavier Noya, Christian Bonnaud |
 | 🌍 Site web                    | https://www.meetup.com/mtg-bordeaux/ |
 
+Le calendrier des évènements est disponible au format iCal.
+Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](./events.ics ':ignore')
+
 <!-- EVENTS:START -->
 ## 📆 Past Events
 

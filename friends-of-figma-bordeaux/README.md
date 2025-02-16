@@ -1,4 +1,4 @@
-# Friends of Figma Bordeaux ![Logo](./logo-friends-of-figma-bdx.png)
+# Friends of Figma Bordeaux ![Logo](./logo-friends-of-figma-bdx.png ':size=100')
 
 |                                |     |
 | ------------------------------ | --- |

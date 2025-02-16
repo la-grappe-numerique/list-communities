@@ -5,6 +5,9 @@
 | ✉️ Qui contacter ?              | Amélie Benoit, Noémie R., Coralie |
 | 🌍 Site web                    | https://www.linkedin.com/company/women-in-tech-bordeaux/ |
 
+Le calendrier des évènements est disponible au format iCal.
+Voici son URL : [https://www.lagrappenumerique.fr/women-in-tech-bordeaux/events.ics](./events.ics ':ignore')
+
 <!-- EVENTS:START -->
 ## 📆 Past Events
 
