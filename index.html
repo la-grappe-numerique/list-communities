@@ -7,9 +7,6 @@
     
     <title>La Grappe Numerique</title>
     
-    <!-- Meta tags -->
-    <meta name="description" content="Liste des communautés du numerique Bordelais">
-    
     <!-- Favicon -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍷</text></svg>">
     
@@ -25,38 +22,10 @@
             padding: 20px;
             margin: 20px 0;
             min-height: 600px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         
-        .fc-daygrid-event-harness {
-            margin-bottom: 2px !important;
-        }
-        
-        .fc-event {
-            border: none;
-            padding: 2px 4px;
-            margin: 1px 0;
-            background-color: #e3f2fd;
-            border-left: 3px solid #2196f3;
-            color: #1976d2 !important;
-        }
-        
-        .fc-daygrid-event {
-            white-space: normal !important;
-        }
-        
-        .fc-timegrid-event {
-            padding: 4px !important;
-        }
-        
-        .fc-event-time {
-            font-weight: bold;
-        }
-        
-        .fc-event-title {
-            font-weight: normal;
-            white-space: normal !important;
+        .fc .fc-toolbar-title {
+            font-size: 1.5em;
         }
     </style>
 </head>
@@ -81,16 +50,18 @@
             plugins: [
                 function(hook) {
                     hook.doneEach(function() {
-                        const calendarEl = document.getElementById('calendar');
-                        if (calendarEl) {
-                            initializeCalendar(calendarEl);
+                        if (document.getElementById('calendar')) {
+                            loadCalendar();
                         }
                     });
                 }
             ]
         };
 
-        function initializeCalendar(calendarEl) {
+        function loadCalendar() {
+            const calendarEl = document.getElementById('calendar');
+            
+            // Configuration de base du calendrier
             const calendar = new FullCalendar.Calendar(calendarEl, {
                 initialView: 'listMonth',
                 headerToolbar: {
@@ -99,36 +70,8 @@
                     right: 'dayGridMonth,timeGridWeek,listMonth'
                 },
                 locale: 'fr',
-                timeZone: 'Europe/Paris',
-                nowIndicator: true,
-                handleWindowResize: true,
                 height: 'auto',
-                expandRows: true,
-                slotMinTime: '08:00:00',
-                slotMaxTime: '22:00:00',
-                slotDuration: '00:30:00',
-                dayMaxEvents: true,
-                eventTimeFormat: {
-                    hour: '2-digit',
-                    minute: '2-digit',
-                    hour12: false
-                },
-                views: {
-                    dayGrid: {
-                        dayMaxEventRows: 4
-                    },
-                    timeGrid: {
-                        dayMaxEventRows: true,
-                        nowIndicator: true
-                    }
-                },
-                eventClassNames: 'calendar-event',
-                eventDidMount: function(info) {
-                    const title = info.event.title;
-                    const community = info.event.extendedProps.community;
-                    const location = info.event.extendedProps.location;
-                    info.el.title = `${title}\nCommunauté: ${community || 'N/A'}\nLieu: ${location || 'N/A'}`;
-                }
+                firstDay: 1
             });
 
             // Chargement des événements
@@ -136,29 +79,28 @@
                 .then(response => response.text())
                 .then(yamlText => {
                     const events = jsyaml.load(yamlText);
-                    const formattedEvents = events.map(event => {
-                        // S'assurer que la date est au bon format
-                        const eventDate = new Date(event.date);
-                        return {
-                            title: event.title,
-                            start: eventDate.toISOString(), // Conversion explicite en ISO
-                            end: new Date(eventDate.getTime() + 2 * 60 * 60 * 1000).toISOString(), // +2h par défaut
-                            url: event.url,
-                            allDay: false,
-                            extendedProps: {
-                                community: event.community,
-                                location: event.location
-                            }
-                        };
+                    const formattedEvents = events.map(event => ({
+                        title: event.title,
+                        start: event.date,
+                        url: event.url || null,
+                        extendedProps: {
+                            community: event.community || '',
+                            location: event.location || ''
+                        }
+                    }));
+
+                    calendar.addEventSource({
+                        events: formattedEvents,
+                        failure: function(error) {
+                            console.error('Error loading events:', error);
+                        }
                     });
 
-                    calendar.removeAllEvents();
-                    calendar.addEventSource(formattedEvents);
                     calendar.render();
                 })
                 .catch(error => {
-                    console.error('Erreur lors du chargement des événements:', error);
-                    calendarEl.innerHTML = '<p>Erreur lors du chargement du calendrier</p>';
+                    console.error('Error fetching events:', error);
+                    calendarEl.innerHTML = 'Erreur lors du chargement du calendrier';
                 });
         }
     </script>
