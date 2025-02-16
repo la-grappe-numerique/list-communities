@@ -10,7 +10,7 @@ class ReadmeUpdater:
     
     def __init__(self, root_dir: Path):
         self.root_dir = root_dir
-        
+
     def read_events(self, events_file: Path) -> List[Dict]:
         """Read and parse events from YAML file"""
         try:
@@ -19,7 +19,7 @@ class ReadmeUpdater:
         except Exception as e:
             print(f"Error reading events file {events_file}: {e}")
             return []
-            
+
     def get_future_events(self, events: List[Dict]) -> List[Dict]:
         """Filter and sort future events"""
         now = datetime.now()
@@ -39,91 +39,95 @@ class ReadmeUpdater:
         ]
         past_events.sort(key=lambda x: x['date'], reverse=True)  # Sort by date descending
         return past_events
-        
-    def format_event_row_global(self, event: Dict) -> str:
-        """Format event for global README table"""
-        date = datetime.fromisoformat(event['date']).strftime('%Y-%m-%d')
-        location = event.get('location', 'Online' if event.get('is_online') else 'TBD')
-        return f"| {date} | {event['community']} | {event['title']} | {location} | {event['url']} |"
-        
+
     def format_event_row_community(self, event: Dict) -> str:
         """Format event for community README table"""
         date = datetime.fromisoformat(event['date']).strftime('%Y-%m-%d %H:%M')
         location = event.get('location', 'Online' if event.get('is_online') else 'TBD')
         return f"| {date} | {event['title']} | {location} | {event['url']} |"
+
+    def format_event_row_global(self, event: Dict) -> str:
+        """Format event for global README table"""
+        date = datetime.fromisoformat(event['date']).strftime('%Y-%m-%d')
+        location = event.get('location', 'Online' if event.get('is_online') else 'TBD')
+        return f"| {date} | {event['community']} | {event['title']} | {location} | {event['url']} |"
+
+    def group_events_by_year(self, events: List[Dict]) -> Dict[int, List[Dict]]:
+        """Group events by year"""
+        # Only use past events
+        past_events = self.get_past_events(events)
         
-    def generate_year_section(self, year: int, events: List[Dict]) -> str:
-        """Generate a collapsible section for a year's events"""
-        table = (
-            f"<details>\n"
-            f"<summary>{year}</summary>\n\n"
-            f"| Date | Event | Location | Link |\n"
-            f"|------|--------|----------|------|\n"
-        )
-        table += "\n".join(self.format_event_row_community(event) for event in events)
-        table += "\n</details>\n"
-        return table
+        events_by_year = defaultdict(list)
+        for event in past_events:
+            year = datetime.fromisoformat(event['date']).year
+            events_by_year[year].append(event)
         
+        return dict(sorted(events_by_year.items(), reverse=True))
+
     def update_community_readme(self, community_dir: Path, events: List[Dict]):
         """Update a community's README with its events"""
         readme_path = community_dir / 'README.md'
         
-        # Prepare content
-        content = []
+        # Prepare content sections
+        content_parts = []
         
         # Upcoming events section
         future_events = self.get_future_events(events)
         if future_events:
-            content.extend([
-                "## 📅 Upcoming Events\n",
+            upcoming_section = [
+                "## 📅 Upcoming Events",
+                "",
                 "| Date | Event | Location | Link |",
-                "|------|--------|----------|------|"
-            ])
-            content.extend(self.format_event_row_community(event) for event in future_events)
-            content.append("\n")
+                "|------|--------|----------|------|",
+                *[self.format_event_row_community(event) for event in future_events],
+                ""
+            ]
+            content_parts.extend(upcoming_section)
         
         # Past events by year
         events_by_year = self.group_events_by_year(events)
         if events_by_year:
-            content.append("## 📆 Past Events\n")
+            content_parts.append("## 📆 Past Events\n")
             for year, year_events in events_by_year.items():
-                content.extend([
-                    f"<details>",
-                    f"<summary>{year}</summary>\n",
+                year_section = [
+                    "<details>",
+                    f"<summary>{year}</summary>",
+                    "",
                     "| Date | Event | Location | Link |",
                     "|------|--------|----------|------|",
-                    "\n".join(self.format_event_row_community(event) for event in year_events),
-                    "</details>\n"
-                ])
+                    *[self.format_event_row_community(event) for event in year_events],
+                    "</details>",
+                    ""
+                ]
+                content_parts.extend(year_section)
         
-        # Update README
+        # Join all content parts
+        full_content = "\n".join(content_parts)
+        
+        # Read existing README if it exists
         if readme_path.exists():
             with open(readme_path, 'r', encoding='utf-8') as f:
-                readme_content = f.read()
-                
-            # Replace content between markers or add at the end
-            events_pattern = r"(<!-- EVENTS:START -->).*(<!-- EVENTS:END -->)"
-            if re.search(events_pattern, readme_content, re.DOTALL):
-                readme_content = re.sub(
-                    events_pattern,
-                    f"<!-- EVENTS:START -->\n{'\n'.join(content)}\n<!-- EVENTS:END -->",
-                    readme_content,
+                current_content = f.read()
+            
+            # Replace between markers or append
+            marker_pattern = r"<!-- EVENTS:START -->.*<!-- EVENTS:END -->"
+            if re.search(marker_pattern, current_content, re.DOTALL):
+                new_content = re.sub(
+                    marker_pattern,
+                    "<!-- EVENTS:START -->\n" + full_content + "<!-- EVENTS:END -->",
+                    current_content,
                     flags=re.DOTALL
                 )
             else:
-                readme_content += f"\n<!-- EVENTS:START -->\n{'\n'.join(content)}\n<!-- EVENTS:END -->\n"
+                new_content = current_content + "\n<!-- EVENTS:START -->\n" + full_content + "<!-- EVENTS:END -->\n"
         else:
-            # Create new README if it doesn't exist
-            readme_content = (
-                f"# {community_dir.name}\n\n"
-                f"<!-- EVENTS:START -->\n"
-                f"{'\n'.join(content)}\n"
-                f"<!-- EVENTS:END -->\n"
-            )
-            
+            # Create new README
+            new_content = f"# {community_dir.name}\n\n<!-- EVENTS:START -->\n{full_content}<!-- EVENTS:END -->\n"
+        
+        # Write the updated content
         with open(readme_path, 'w', encoding='utf-8') as f:
-            f.write(readme_content)
-            
+            f.write(new_content)
+
     def update_global_readme(self, events: List[Dict]):
         """Update the global README with all upcoming events"""
         readme_path = self.root_dir / 'README.md'
@@ -133,28 +137,29 @@ class ReadmeUpdater:
         future_events = self.get_future_events(events)[:10]  # Only show next 10 events
         
         # Generate events table
-        events_table = (
-            "| Date | Community | Event | Location | Link |\n"
-            "|------|------------|--------|-----------|------|\n"
-        )
-        events_table += "\n".join(self.format_event_row_global(event) for event in future_events)
+        table_lines = [
+            "| Date | Community | Event | Location | Link |",
+            "|------|------------|--------|-----------|------|",
+            *[self.format_event_row_global(event) for event in future_events]
+        ]
+        events_table = "\n".join(table_lines)
         
         # Update README
         with open(readme_path, 'r', encoding='utf-8') as f:
             content = f.read()
             
         # Replace content between markers
-        pattern = r"(<!-- ALL-EVENTS-LIST:START -->).*(<!-- ALL-EVENTS-LIST:END -->)"
-        content = re.sub(
+        pattern = r"<!-- ALL-EVENTS-LIST:START -->.*<!-- ALL-EVENTS-LIST:END -->"
+        new_content = re.sub(
             pattern,
-            f"\\1\n{events_table}\n\\2",
+            "<!-- ALL-EVENTS-LIST:START -->\n" + events_table + "\n<!-- ALL-EVENTS-LIST:END -->",
             content,
             flags=re.DOTALL
         )
         
         with open(readme_path, 'w', encoding='utf-8') as f:
-            f.write(content)
-            
+            f.write(new_content)
+
     def process_all(self):
         """Process all community directories and update READMEs"""
         all_events = []
