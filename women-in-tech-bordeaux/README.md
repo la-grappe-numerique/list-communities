@@ -12,6 +12,6 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| mercredi 12 février 2025 à 19:00 | Révolutionnez votre UX avec les PWA / L'utilisateur au cœur de la QA | 13, Rue des Cordeliers, Bordeaux | https://www.linkedin.com/events/r-volutionnezvotreuxaveclespwa-7284501845102727168/ |
+| Mercredi 12 février 2025 à 19:00 | Révolutionnez votre UX avec les PWA / L'utilisateur au cœur de la QA | 13, Rue des Cordeliers, Bordeaux | https://www.linkedin.com/events/r-volutionnezvotreuxaveclespwa-7284501845102727168/ |
 </details>
 <!-- EVENTS:END -->
