@@ -23,19 +23,23 @@
         content="Liste des communautés du numerique Bordelais. Contribute to la-grappe-numerique/list-communities development by creating an account on GitHub." />
     <link rel="icon"
         href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍷</text></svg>" />
-    <!-- FullCalendar CSS -->
+    <!-- CSS de FullCalendar -->
+    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/index.global.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.10/index.global.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/timegrid@6.1.10/index.global.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/list@6.1.10/index.global.min.js'></script>
     <link href='https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.10/main.min.css' rel='stylesheet' />
     
-    <!-- Docsify CSS -->
-    <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
-    
-    <!-- Custom styles for calendar -->
+    <!-- Style pour le calendrier -->
     <style>
         #calendar {
             background-color: white;
             padding: 20px;
             margin: 20px 0;
             min-height: 700px;
+        }
+        .fc .fc-toolbar-title {
+            font-size: 1.5em;
         }
     </style>
 </head>
@@ -63,12 +67,12 @@
                     hook.doneEach(function() {
                         const calendarEl = document.getElementById('calendar');
                         if (!calendarEl) return;
-
+    
                         fetch('events.yml')
                             .then(response => response.text())
                             .then(yamlText => {
                                 const events = jsyaml.load(yamlText);
-                                const calendar = new FullCalendar.Calendar(calendarEl, {
+                                const calendarConfig = {
                                     initialView: 'dayGridMonth',
                                     headerToolbar: {
                                         left: 'prev,next today',
@@ -85,13 +89,16 @@
                                             location: event.location
                                         }
                                     }))
-                                });
+                                };
+                                
+                                const calendar = new FullCalendar.Calendar(calendarEl, calendarConfig);
                                 calendar.render();
-                            });
+                            })
+                            .catch(error => console.error('Error loading events:', error));
                     });
                 }
             ]
-        }
+        };
     </script>
 
     <!-- Docsify -->
