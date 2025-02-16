@@ -10,7 +10,7 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 2025-03-11 18:30 | Human Talks Bordeaux #10 - Organisation & Leadership | TBD | https://www.meetup.com/human-talks-bordeaux/events/306118686/ |
+| mardi 11 mars 2025 à 18:30 | Human Talks Bordeaux #10 - Organisation & Leadership | TBD | https://www.meetup.com/human-talks-bordeaux/events/306118686/ |
 
 ## 📆 Past Events
 
@@ -19,8 +19,8 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 2025-02-11 18:30 | Human Talks Bordeaux #9 - Culture & Stratégie Design  | TBD | https://www.meetup.com/human-talks-bordeaux/events/305610389/ |
-| 2025-01-14 18:30 | Human Talks Bordeaux #8 - Carrières | TBD | https://www.meetup.com/human-talks-bordeaux/events/305180987/ |
+| mardi 11 février 2025 à 18:30 | Human Talks Bordeaux #9 - Culture & Stratégie Design  | TBD | https://www.meetup.com/human-talks-bordeaux/events/305610389/ |
+| mardi 14 janvier 2025 à 18:30 | Human Talks Bordeaux #8 - Carrières | TBD | https://www.meetup.com/human-talks-bordeaux/events/305180987/ |
 </details>
 
 <details>
@@ -28,10 +28,10 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 2024-12-10 18:30 | Human Talks Bordeaux #7 | TBD | https://www.meetup.com/human-talks-bordeaux/events/304521021/ |
-| 2024-09-10 18:30 | Human Talks Bordeaux #6 - Rencontre avec le CTO de Sellsy | TBD | https://www.meetup.com/human-talks-bordeaux/events/302988117/ |
-| 2024-06-18 18:30 | Human Talks Bordeaux #5 - Sujet "Gérer son équipe" | TBD | https://www.meetup.com/human-talks-bordeaux/events/301358624/ |
-| 2024-05-16 18:00 | Reprise du meetup Human Talks à Bordeaux ! | TBD | https://www.meetup.com/human-talks-bordeaux/events/300608622/ |
+| mardi 10 décembre 2024 à 18:30 | Human Talks Bordeaux #7 | TBD | https://www.meetup.com/human-talks-bordeaux/events/304521021/ |
+| mardi 10 septembre 2024 à 18:30 | Human Talks Bordeaux #6 - Rencontre avec le CTO de Sellsy | TBD | https://www.meetup.com/human-talks-bordeaux/events/302988117/ |
+| mardi 18 juin 2024 à 18:30 | Human Talks Bordeaux #5 - Sujet "Gérer son équipe" | TBD | https://www.meetup.com/human-talks-bordeaux/events/301358624/ |
+| jeudi 16 mai 2024 à 18:00 | Reprise du meetup Human Talks à Bordeaux ! | TBD | https://www.meetup.com/human-talks-bordeaux/events/300608622/ |
 </details>
 
 <details>
@@ -39,7 +39,7 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 2020-03-11 19:15 | Human Talks Mars | TBD | https://www.meetup.com/human-talks-bordeaux/events/269153276/ |
+| mercredi 11 mars 2020 à 19:15 | Human Talks Mars | TBD | https://www.meetup.com/human-talks-bordeaux/events/269153276/ |
 </details>
 
 <details>
@@ -47,7 +47,7 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 2019-12-10 19:15 | Human Talks Décembre | TBD | https://www.meetup.com/human-talks-bordeaux/events/266467329/ |
-| 2019-11-12 19:15 | Human Talks Novembre | TBD | https://www.meetup.com/human-talks-bordeaux/events/265926025/ |
+| mardi 10 décembre 2019 à 19:15 | Human Talks Décembre | TBD | https://www.meetup.com/human-talks-bordeaux/events/266467329/ |
+| mardi 12 novembre 2019 à 19:15 | Human Talks Novembre | TBD | https://www.meetup.com/human-talks-bordeaux/events/265926025/ |
 </details>
 <!-- EVENTS:END -->

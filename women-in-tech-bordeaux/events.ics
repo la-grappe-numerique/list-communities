@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements women-in-tech-bordeaux//Bordeaux Community Events//
+ FR
+X-WR-CALDESC:Calendrier des événements de la communauté women-in-tech-b
+ ordeaux
+X-WR-CALNAME:Événements women-in-tech-bordeaux
+BEGIN:VEVENT
+SUMMARY:Révolutionnez votre UX avec les PWA / L'utilisateur au cœur de l
+ a QA
+DTSTART:20250212T190000
+UID:https://www.linkedin.com/events/r-volutionnezvotreuxaveclespwa-7284501
+ 845102727168/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/r-volutionnezvotreuxavecl
+ espwa-7284501845102727168/\n📍 13\, Rue des Cordeliers\, Bordeaux\n\nCet
+  évènement est co-organisé avec la seconde vague de Bdx i/o 🌊\n1️
+ ⃣ DÉTAILS\n📍 Wanteeed\, 13 rue des cordeliers à Bordeaux\n18:30 - A
+ ccueil des participantes et participants\n19:00 - Début des talks\n20:15 
+ - Discussions et échanges\n21:00 - Fermeture des locaux\n\nCommunauté: w
+ omen-in-tech-bordeaux
+LOCATION:13\, Rue des Cordeliers\, Bordeaux
+URL:https://www.linkedin.com/events/r-volutionnezvotreuxaveclespwa-7284501
+ 845102727168/
+END:VEVENT
+END:VCALENDAR
