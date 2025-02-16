@@ -48,42 +48,31 @@ def validate_event_data(data: dict) -> tuple[bool, str]:
     
     return True, ""
 
-def clean_description(description: str) -> str:
-    """Clean and format the description to be consistent with Meetup format"""
-    # Remove carriage returns and clean multiple spaces
-    description = description.replace('\r\n', '\n').strip()
-    
-    # Split into paragraphs and clean each paragraph
-    paragraphs = []
-    current_paragraph = []
-    
-    for line in description.split('\n'):
-        line = line.strip()
-        if line:
-            current_paragraph.append(line)
-        elif current_paragraph:
-            paragraphs.append(' '.join(current_paragraph))
-            current_paragraph = []
-            
-    if current_paragraph:
-        paragraphs.append(' '.join(current_paragraph))
-    
-    # Join paragraphs with double newline
-    return '\n\n'.join(paragraphs)
-
 def format_event_yaml(community: str, event_data: dict) -> str:
     """Format the event data as YAML"""
+    class CustomYAMLDumper(yaml.SafeDumper):
+        pass
+        
+    def str_presenter(dumper, data):
+        """Custom string presenter for YAML"""
+        if '\n' in data:
+            return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
+        return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='')
+        
+    # Ajouter le présentateur personnalisé
+    CustomYAMLDumper.add_representer(str, str_presenter)
+    
     event = {
         'title': event_data['event_title'],
         'date': datetime.strptime(event_data['event_date'], '%Y-%m-%d %H:%M').isoformat(),
         'url': event_data['event_url'],
-        'description': clean_description(event_data.get('description', '')),
+        'description': event_data.get('description', ''),
         'community': community,
         'location': event_data['location'],
         'is_online': event_data.get('is_this_an_online_event', 'No') == 'Yes'
     }
     
-    return yaml.dump([event], allow_unicode=True, sort_keys=False)
+    return yaml.dump([event], allow_unicode=True, sort_keys=False, Dumper=CustomYAMLDumper)
 
 def create_or_update_branch(repo, base_branch: str, community: str, event_data: dict) -> tuple[str, str]:
     """Create a new branch and update the events file"""

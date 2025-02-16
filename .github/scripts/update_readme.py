@@ -4,12 +4,15 @@ from datetime import datetime
 from typing import List, Dict
 import re
 from collections import defaultdict
+import locale
 
 class ReadmeUpdater:
     """Updates README files with event information"""
     
     def __init__(self, root_dir: Path):
         self.root_dir = root_dir
+        # Set locale for date formatting
+        locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
 
     def read_events(self, events_file: Path) -> List[Dict]:
         """Read and parse events from YAML file"""
@@ -19,6 +22,10 @@ class ReadmeUpdater:
         except Exception as e:
             print(f"Error reading events file {events_file}: {e}")
             return []
+
+    def format_date_for_display(self, date: datetime) -> str:
+        """Format date for display in markdown with day name and month name"""
+        return date.strftime('%A %d %B %Y à %H:%M')
 
     def get_future_events(self, events: List[Dict]) -> List[Dict]:
         """Filter and sort future events"""
@@ -42,15 +49,17 @@ class ReadmeUpdater:
 
     def format_event_row_community(self, event: Dict) -> str:
         """Format event for community README table"""
-        date = datetime.fromisoformat(event['date']).strftime('%Y-%m-%d %H:%M')
+        date = datetime.fromisoformat(event['date'])
+        formatted_date = self.format_date_for_display(date)
         location = event.get('location', 'Online' if event.get('is_online') else 'TBD')
-        return f"| {date} | {event['title']} | {location} | {event['url']} |"
+        return f"| {formatted_date} | {event['title']} | {location} | {event['url']} |"
 
     def format_event_row_global(self, event: Dict) -> str:
         """Format event for global README table"""
-        date = datetime.fromisoformat(event['date']).strftime('%Y-%m-%d')
+        date = datetime.fromisoformat(event['date'])
+        formatted_date = self.format_date_for_display(date)
         location = event.get('location', 'Online' if event.get('is_online') else 'TBD')
-        return f"| {date} | {event['community']} | {event['title']} | {location} | {event['url']} |"
+        return f"| {formatted_date} | {event['community']} | {event['title']} | {location} | {event['url']} |"
 
     def group_events_by_year(self, events: List[Dict]) -> Dict[int, List[Dict]]:
         """Group events by year"""

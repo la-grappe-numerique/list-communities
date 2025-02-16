@@ -20,6 +20,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup locale
+        run: |
+          sudo locale-gen fr_FR.UTF-8
+          sudo update-locale LANG=fr_FR.UTF-8
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -35,6 +40,8 @@ jobs:
         run: python .github/scripts/generate_ical.py
 
       - name: Run README updater script
+        env:
+          LANG: fr_FR.UTF-8
         run: python .github/scripts/update_readme.py
 
       - name: Stage generated files
