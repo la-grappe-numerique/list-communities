@@ -30,6 +30,7 @@
     address: 31 Rue d'Armagnac
     city: Bordeaux
     country: France
+  location: 31 Rue d'Armagnac, Bordeaux
   rsvp_limit: 80
   rsvp_count: 69
 - title: 'Meetup #6 @LeWagon @Gekko : Tour d''horizon du monitoring dans Kubernetes'
@@ -62,6 +63,7 @@
     address: 107 Cr Balguerie Stuttenberg
     city: Bordeaux
     country: France
+  location: 107 Cr Balguerie Stuttenberg, Bordeaux
   rsvp_limit: 80
   rsvp_count: 65
 - title: 'Meetup #5 @Fieldbox.ai K3S et déploiement sur Kubernetes'
@@ -95,6 +97,7 @@
     address: Quai Armand Lalande
     city: Bordeaux
     country: France
+  location: Quai Armand Lalande, Bordeaux
   rsvp_limit: 80
   rsvp_count: 65
 - title: Meetup#4 @OVH Kubernetes et Traefik
@@ -130,6 +133,7 @@
     address: 56 Quai Lawton
     city: Bordeaux
     country: France
+  location: 56 Quai Lawton, Bordeaux
   rsvp_limit: 90
   rsvp_count: 86
 - title: 'Meetup #3 @SQLI Rex Kubernetes et Chaos Engineering'
@@ -164,6 +168,7 @@
     address: 10 Rue Thomas Edison
     city: Pessac
     country: France
+  location: 10 Rue Thomas Edison, Pessac
   rsvp_limit: 90
   rsvp_count: 83
 - title: 'Meetup #2 @NP6 Kubernetes CI/CD et bonnes pratiques'
@@ -198,6 +203,7 @@
     address: 104 bis Quai des Chartrons, 33300 Bordeaux
     city: Bordeaux
     country: France
+  location: 104 bis Quai des Chartrons, 33300 Bordeaux, Bordeaux
   rsvp_count: 81
 - title: 'Meetup #1 @LeWagon Kickoff & Prometheus'
   date: '2018-10-23T19:15:00'
@@ -229,4 +235,5 @@
     address: 107 cours Balguerie Stuttenberg
     city: Bordeaux
     country: France
+  location: 107 cours Balguerie Stuttenberg, Bordeaux
   rsvp_count: 61

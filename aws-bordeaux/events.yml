@@ -14,8 +14,9 @@
     address: Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300
     city: Bordeaux
     country: France
+  location: Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux
   rsvp_limit: 80
-  rsvp_count: 8
+  rsvp_count: 9
 - title: 'Meetup AWS Bordeaux : Serverless, FinOps, et GenAI'
   date: '2024-11-14T18:30:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/304288920/
@@ -48,6 +49,7 @@
     address: Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300
     city: Bordeaux
     country: France
+  location: Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux
   rsvp_limit: 80
   rsvp_count: 45
 - title: '[Présentiel !] Meetup AWS Bordeaux #8'
@@ -69,6 +71,7 @@
     address: 132 Rue Fondaudège
     city: Bordeaux
     country: France
+  location: 132 Rue Fondaudège, Bordeaux
   rsvp_count: 37
 - title: 'Meetup AWS virtuel #12 - Migration'
   date: '2021-12-13T19:00:00'
@@ -516,6 +519,7 @@
     address: 117 Quai de Bacalan
     city: Bordeaux
     country: France
+  location: 117 Quai de Bacalan, Bordeaux
   rsvp_count: 93
 - title: 'Meetup AWS Bordeaux #6 - re:Invent 2019 re:Cap'
   date: '2019-12-19T19:00:00'
@@ -530,6 +534,7 @@
     address: 16 Rue Théodore Blanc
     city: Bruges
     country: France
+  location: 16 Rue Théodore Blanc, Bruges
   rsvp_count: 25
 - title: 'Meetup AWS Bordeaux #5 - Architectures modernes & Serverless'
   date: '2019-10-17T19:00:00'
@@ -546,6 +551,7 @@
     address: 132 Rue Fondaudège
     city: Bordeaux
     country: France
+  location: 132 Rue Fondaudège, Bordeaux
   rsvp_count: 54
 - title: 'Meetup AWS Bordeaux #4 - Retours d''expériences AT Internet & Betclic'
   date: '2019-06-13T19:00:00'
@@ -567,6 +573,7 @@
     address: 16 Rue Théodore Blanc
     city: Bruges
     country: France
+  location: 16 Rue Théodore Blanc, Bruges
   rsvp_count: 60
 - title: 'Meetup AWS Bordeaux #3 - Les piliers de l''observabilité appliqués au Serverless'
   date: '2019-05-09T19:30:00'
@@ -587,6 +594,7 @@
     address: 132 Rue Fondaudège
     city: Bordeaux
     country: France
+  location: 132 Rue Fondaudège, Bordeaux
   rsvp_count: 91
 - title: 'Meetup AWS Bordeaux #2 - Implémenter une Skill Alexa en serverless avec AWS'
   date: '2019-02-07T19:30:00'
@@ -605,6 +613,7 @@
     address: 1 107 Cours Balguerie Stuttenberg
     city: Bordeaux
     country: France
+  location: 1 107 Cours Balguerie Stuttenberg, Bordeaux
   rsvp_limit: 50
   rsvp_count: 29
 - title: 'Meetup AWS Bordeaux #1'
@@ -623,4 +632,5 @@
     address: 85 Avenue John Fitzgerald Kennedy
     city: Merignac
     country: France
+  location: 85 Avenue John Fitzgerald Kennedy, Merignac
   rsvp_count: 34

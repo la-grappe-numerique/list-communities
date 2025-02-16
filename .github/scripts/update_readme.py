@@ -64,7 +64,7 @@ class ReadmeUpdater:
         date = datetime.fromisoformat(event['date'])
         formatted_date = self.format_date_for_display(date)
         location = event.get('location', 'Online' if event.get('is_online') else 'TBD')
-        return f"| {formatted_date} | {event['community']} | {event['title']} | {location} | {event['url']} |"
+        return f"| {formatted_date} | [{event['community']}](./{event['community']}/) | {event['title']} | {location} | {event['url']} |"
 
     def group_events_by_year(self, events: List[Dict]) -> Dict[int, List[Dict]]:
         """Group events by year"""
@@ -146,10 +146,10 @@ class ReadmeUpdater:
         """Update the global README with all upcoming events"""
         readme_path = self.root_dir / 'README.md'
         if not readme_path.exists():
+            print("Global README does not exist.")
             return
-            
+
         future_events = self.get_future_events(events)[:10]  # Only show next 10 events
-        
         # Generate events table
         table_lines = [
             "| Date | Community | Event | Location | Link |",
@@ -157,22 +157,24 @@ class ReadmeUpdater:
             *[self.format_event_row_global(event) for event in future_events]
         ]
         events_table = "\n".join(table_lines)
-        
+
         # Update README
         with open(readme_path, 'r', encoding='utf-8') as f:
             content = f.read()
-            
+
         # Replace content between markers
-        pattern = r"<!-- ALL-EVENTS-LIST:START -->.*<!-- ALL-EVENTS-LIST:END -->"
+        pattern = r"<!-- ALL-EVENTS-LIST:START -->.*?<!-- ALL-EVENTS-LIST:END -->"
         new_content = re.sub(
             pattern,
             "<!-- ALL-EVENTS-LIST:START -->\n" + events_table + "\n<!-- ALL-EVENTS-LIST:END -->",
             content,
             flags=re.DOTALL
         )
-        
+
+        print(f"Update global {readme_path} with {len(future_events)} events")
         with open(readme_path, 'w', encoding='utf-8') as f:
             f.write(new_content)
+
 
     def process_all(self):
         """Process all community directories and update READMEs"""
@@ -188,6 +190,7 @@ class ReadmeUpdater:
                     self.update_community_readme(community_dir, events)
         
         # Update global README
+        print(f"Total events: {len(all_events)}")
         self.update_global_readme(all_events)
 
 def main():

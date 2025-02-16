@@ -154,6 +154,7 @@ class EventsFile:
         
         if event.venue:
             event_dict['venue'] = EventsFile.format_venue(event.venue)
+            event_dict['location'] = f"{event.venue.address}, {event.venue.city}"
         
         if event.rsvp_limit:
             event_dict['rsvp_limit'] = event.rsvp_limit
@@ -188,6 +189,8 @@ class EventsFile:
                 }
                 if event.venue:
                     event_dict['location'] = f"{event.venue.address}, {event.venue.city}, {event.venue.country}"
+                else:
+                    event_dict['location'] = ''
                 return event_dict
             else:
                 # Full format for community files

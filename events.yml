@@ -139,7 +139,7 @@
 - title: 'Meetup MTG:Bordeaux #5'
   date: '2025-02-06T18:30:00'
   url: https://www.meetup.com/mtg-bordeaux/events/305136888/
-  community: mtg:bordeaux
+  community: mtg-bordeaux
   is_online: false
   location: 5 Rue de Condé, Bordeaux, France
 - title: '#56: Session lightning talks'
@@ -187,7 +187,7 @@
 - title: 🍷🍻 L'Apéro Web Bordeaux, la dernière (ou pas) !
   date: '2024-11-27T19:00:00'
   url: https://www.meetup.com/apero-web-bordeaux/events/304412420/
-  community: apéro-web
+  community: apero-web
   is_online: false
   location: 39 Rue Ausone, Bordeaux, France
 - title: '#55: J''ai hacké puis contribué à Symfony'
@@ -247,21 +247,21 @@
 - title: 'Meetup MTG:Bordeaux #4'
   date: '2024-10-03T18:30:00'
   url: https://www.meetup.com/mtg-bordeaux/events/302549137/
-  community: mtg:bordeaux
+  community: mtg-bordeaux
   is_online: false
   location: 117 Quai de Bacalan, Bordeaux, France
-- title: '#53 : StandAAArdisez vos tests & La goutte d''eau qui fait déborder le Cloud'
-  date: '2024-09-26T19:00:00'
-  url: https://www.meetup.com/bordeaux-php-meetup/events/303353062/
-  community: afup-bordeaux
-  is_online: false
-  location: 1 cours Xavier Arnozan, , Bordeaux, France
 - title: 'Design First : OpenApi et AsyncApi en action !'
   date: '2024-09-26T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/303373620/
   community: bordeauxjug
   is_online: false
   location: 1 Avenue du Docteur Albert Schweitzer, Talence, France
+- title: '#53 : StandAAArdisez vos tests & La goutte d''eau qui fait déborder le Cloud'
+  date: '2024-09-26T19:00:00'
+  url: https://www.meetup.com/bordeaux-php-meetup/events/303353062/
+  community: afup-bordeaux
+  is_online: false
+  location: 1 cours Xavier Arnozan, , Bordeaux, France
 - title: 🌟 L’Art de la ruse à travers les 36 Stratagèmes de Sun Tzu 🌟
   date: '2024-09-26T18:30:00'
   url: https://www.meetup.com/seriousgamers-bordeaux/events/303328122/
@@ -271,7 +271,7 @@
 - title: 'Apéro Web #2'
   date: '2024-09-24T19:00:00'
   url: https://www.meetup.com/apero-web-bordeaux/events/303251987/
-  community: apéro-web
+  community: apero-web
   is_online: false
   location: 63 Rue Lucien Faure Dock G6, Bordeaux, France
 - title: 'Playground #4 - Creative Coding'
@@ -307,7 +307,7 @@
 - title: 🆕 L'Apéro Web débarque à Bordeaux ! 🥳
   date: '2024-07-03T19:00:00'
   url: https://www.meetup.com/apero-web-bordeaux/events/301716042/
-  community: apéro-web
+  community: apero-web
   is_online: false
   location: 118 Quai de Bacalan, Bordeaux, France
 - title: 'IA générative en action : intégrez les LLM dans vos applications !'
@@ -361,7 +361,7 @@
 - title: 'Meetup MTG:Bordeaux #3'
   date: '2024-06-11T18:30:00'
   url: https://www.meetup.com/mtg-bordeaux/events/300232411/
-  community: mtg:bordeaux
+  community: mtg-bordeaux
   is_online: false
   location: 2 Rue Marc Sangnier, Bègles, France
 - title: Wargames - Java vulnerabilities and why you should care
@@ -451,7 +451,7 @@
 - title: 'Meetup MTG:Bordeaux #2'
   date: '2024-04-04T18:30:00'
   url: https://www.meetup.com/mtg-bordeaux/events/298989875/
-  community: mtg:bordeaux
+  community: mtg-bordeaux
   is_online: false
   location: 44 All. de Tourny, Bordeaux, France
 - title: Club de lecture 24.3 - La boîte à outils de la méthode OKR
@@ -459,6 +459,7 @@
   url: https://www.meetup.com/agile-bordeaux/events/298848223/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: 'Le versioning des APIs REST: dans la vraie vie on fait comment?'
   date: '2024-03-21T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/299719481/
@@ -476,6 +477,7 @@
   url: https://www.meetup.com/archilocus/events/299358241/
   community: archilocus
   is_online: true
+  location: ''
 - title: 'Atelier du PO #5 : Lean Coffee'
   date: '2024-03-13T19:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/299637290/
@@ -539,7 +541,7 @@
 - title: Lancement du MTG:Bordeaux
   date: '2024-02-01T18:30:00'
   url: https://www.meetup.com/mtg-bordeaux/events/298066350/
-  community: mtg:bordeaux
+  community: mtg-bordeaux
   is_online: false
   location: 107 Cr Balguerie Stuttenberg, Bordeaux, France
 - title: 'Atelier du PO #4 : L''évolution du PO : du tacticien au stratège'
@@ -547,6 +549,7 @@
   url: https://www.meetup.com/agile-bordeaux/events/298588040/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: 'Meetup PHP #48 : Xdebug, la lumière au bout du tunnel. Cette fois c''est la bonne'
   date: '2024-01-24T19:00:00'
   url: https://www.meetup.com/bordeaux-php-meetup/events/297836117/
@@ -636,6 +639,7 @@
   url: https://www.meetup.com/archilocus/events/296530263/
   community: archilocus
   is_online: true
+  location: ''
 - title: 'Atelier du PO #1 - Découvrir les bases de l''UX / UI'
   date: '2023-10-10T19:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/293450726/
@@ -791,6 +795,7 @@
   url: https://www.meetup.com/archilocus/events/291473012/
   community: archilocus
   is_online: true
+  location: ''
 - title: 'Devenir les maîtres dans l''art du feedback - LERUN #5'
   date: '2023-03-28T18:30:00'
   url: https://www.meetup.com/seriousgamers-bordeaux/events/292129611/
@@ -827,18 +832,18 @@
   community: agile-bordeaux
   is_online: false
   location: 12 Rue des Faussets, Bordeaux, France
-- title: Manuel de sabotage du partage de connaissances
-  date: '2023-02-23T19:00:00'
-  url: https://www.meetup.com/bordeauxjs/events/291437327/
-  community: bordeauxjs
-  is_online: false
-  location: 26 Rue Esprit des Lois, Bordeaux, France
 - title: JOOQ, joy of SQL
   date: '2023-02-23T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/291725364/
   community: bordeauxjug
   is_online: false
   location: 1 Avenue du Docteur Albert Schweitzer, Talence, France
+- title: Manuel de sabotage du partage de connaissances
+  date: '2023-02-23T19:00:00'
+  url: https://www.meetup.com/bordeauxjs/events/291437327/
+  community: bordeauxjs
+  is_online: false
+  location: 26 Rue Esprit des Lois, Bordeaux, France
 - title: Conférence francophone Python 2023 à Bordeaux
   date: '2023-02-16T09:00:00'
   url: https://www.meetup.com/py-bdx/events/289726289/
@@ -856,6 +861,7 @@
   url: https://www.meetup.com/archilocus/events/290155119/
   community: archilocus
   is_online: false
+  location: ''
 - title: Apprendre Svelte... et kiffer sa race !
   date: '2023-01-11T19:00:00'
   url: https://www.meetup.com/bordeauxjs/events/289951483/
@@ -897,18 +903,19 @@
   url: https://www.meetup.com/archilocus/events/288769670/
   community: archilocus
   is_online: true
-- title: Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)
-  date: '2022-10-18T19:00:00'
-  url: https://www.meetup.com/bordeauxjs/events/289042639/
-  community: bordeauxjs
-  is_online: false
-  location: 5 Rue de Condé, Bordeaux, France
+  location: ''
 - title: Micronaut Test Resources
   date: '2022-10-18T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/289013582/
   community: bordeauxjug
   is_online: false
   location: 1 Avenue du Docteur Albert Schweitzer, Talence, France
+- title: Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)
+  date: '2022-10-18T19:00:00'
+  url: https://www.meetup.com/bordeauxjs/events/289042639/
+  community: bordeauxjs
+  is_online: false
+  location: 5 Rue de Condé, Bordeaux, France
 - title: Apprivoise les web composants avec StencilJS
   date: '2022-10-13T19:00:00'
   url: https://www.meetup.com/bordeauxjs/events/288874812/
@@ -962,6 +969,7 @@
   url: https://www.meetup.com/agile-bordeaux/events/285783764/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: Quarkus World Tour 2022 s'arrête au BordeauxJUG
   date: '2022-06-09T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/286319172/
@@ -991,6 +999,7 @@
   url: https://www.meetup.com/archilocus/events/285247943/
   community: archilocus
   is_online: true
+  location: ''
 - title: 'Architecture microservices & cohérence des données : mais comment pour de vrai ?'
   date: '2022-05-12T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/285680552/
@@ -1032,6 +1041,7 @@
   url: https://www.meetup.com/bordeauxjug/events/284773930/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: 'Micro-frontends : les usages, contraintes et solutions'
   date: '2022-03-15T19:00:00'
   url: https://www.meetup.com/bordeauxjs/events/283791744/
@@ -1049,6 +1059,7 @@
   url: https://www.meetup.com/archilocus/events/283686786/
   community: archilocus
   is_online: true
+  location: ''
 - title: Club de lecture 22.1 - Team Topologies
   date: '2022-01-29T10:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/282590209/
@@ -1060,11 +1071,13 @@
   url: https://www.meetup.com/bordeaux-php-meetup/events/283045545/
   community: afup-bordeaux
   is_online: true
+  location: ''
 - title: 'Meetup AWS virtuel #12 - Migration'
   date: '2021-12-13T19:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/282446411/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Blockchain: fondements technologiques et cas d''usage'
   date: '2021-12-09T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/282476863/
@@ -1083,27 +1096,30 @@
   community: agile-bordeaux
   is_online: false
   location: 12 Rue des Faussets, Bordeaux, France
-- title: 'Meetup AWS virtuel #10 - IoT sur AWS'
-  date: '2021-11-16T19:00:00'
-  url: https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/
-  community: aws-bordeaux
-  is_online: true
 - title: Java 17 la dernière LTS par Rémi Forax
   date: '2021-11-16T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/281736541/
   community: bordeauxjug
   is_online: false
   location: 1 Avenue du Docteur Albert Schweitzer, Talence, France
+- title: 'Meetup AWS virtuel #10 - IoT sur AWS'
+  date: '2021-11-16T19:00:00'
+  url: https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/
+  community: aws-bordeaux
+  is_online: true
+  location: ''
 - title: 'Meetup PHP (online) #37 : PHP Static Code Analysis 101'
   date: '2021-11-04T19:00:00'
   url: https://www.meetup.com/bordeaux-php-meetup/events/281446735/
   community: afup-bordeaux
   is_online: true
+  location: ''
 - title: 'Session #2'
   date: '2021-09-23T16:00:00'
   url: https://www.meetup.com/archilocus/events/279048057/
   community: archilocus
   is_online: true
+  location: ''
 - title: Club de lecture 21.6 - Que faire des cons ?
   date: '2021-09-18T10:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/278697415/
@@ -1115,11 +1131,13 @@
   url: https://www.meetup.com/bordeauxjug/events/280673402/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: 'Meetup AWS virtuel #10 - Data sur AWS'
   date: '2021-09-15T19:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/280378703/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: JUG Off 2021
   date: '2021-07-08T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/279257003/
@@ -1131,16 +1149,19 @@
   url: https://www.meetup.com/bordeauxjug/events/278914207/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: Archilocus MVP
   date: '2021-06-24T14:00:00'
   url: https://www.meetup.com/archilocus/events/278556971/
   community: archilocus
   is_online: true
+  location: ''
 - title: 'Meetup virtuel AWS #9 - FinOps : Maitriser ses coûts dans le cloud'
   date: '2021-06-08T18:30:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/278427584/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: Club de lecture 21.5 - La dynamique des groupes
   date: '2021-06-05T10:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/278079384/
@@ -1152,11 +1173,13 @@
   url: https://www.meetup.com/bordeauxjug/events/278050081/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: 'Meetup virtuel AWS #8 - La gestion de la scalabilité et des pics de charge'
   date: '2021-05-19T18:30:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/278017587/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: Club de lecture 21.4 - Le thérapeute et le philosophe
   date: '2021-05-08T10:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/277263118/
@@ -1168,146 +1191,175 @@
   url: https://www.meetup.com/bordeauxjug/events/277451860/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: Rupture Douce Saison 007 - Rétro-Confinement - Rencontre avec les auteurs
   date: '2021-04-13T18:30:00'
   url: https://www.meetup.com/agile-bordeaux/events/277286242/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: Meetup Special - Participez à une expérience d'apprentissage entre pairs
   date: '2021-03-31T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/277242569/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: AWS Community Day France
   date: '2021-03-30T09:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/277030683/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: AG 2021
   date: '2021-03-22T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/277008416/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: Club de lecture 21.3 - L'espèce fabulatrice
   date: '2021-03-20T10:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/276525708/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: 'JHipster ❤️ Quarkus: Supersonic, Subatomic Full Stack Application'
   date: '2021-03-11T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/276719004/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: Club de lecture 21.2 -  La logique de l'acouphène
   date: '2021-02-20T10:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/275827555/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: Hibernate in complex projects – Can we be a little faster?
   date: '2021-02-18T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/276178510/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: Découvrir le rôle de Product Owner par la pratique et en aidant les autres.
   date: '2021-02-04T18:30:00'
   url: https://www.meetup.com/agile-bordeaux/events/275710937/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: AWS re:Invent 20 re:Cap - résumé des résumés pour les décideurs IT
   date: '2021-01-28T17:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/275581480/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: AWS re:Invent 20 re:Cap - Informatique industrielle & technologies émergentes
   date: '2021-01-27T17:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/275581471/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: AWS re:Invent 20 re:Cap - pour les responsables de la sécurité
   date: '2021-01-26T17:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/275581452/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: AWS re:Invent 20 re:Cap - pour les administrateurs/trices de systèmes
   date: '2021-01-25T17:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/275581450/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Don''t fear outdated caches -- change data capture to the rescue! '
   date: '2021-01-21T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/275773605/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: AWS re:Invent 20 re:Cap - pour les développeurs / euses
   date: '2021-01-21T17:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/275581443/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: AWS re:Invent 20 re:Cap - pour les ingénieurs de données (AIML)
   date: '2021-01-20T17:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/275581433/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: AWS re:Invent 20 re:Cap - pour les analystes de données
   date: '2021-01-19T17:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/275581425/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: AWS re:Invent 20 re:Cap - pour les architectes IT
   date: '2021-01-18T17:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/275581417/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: Club de lecture 21.1 - La posture juste
   date: '2021-01-16T10:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/274884100/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: Club de lecture 20.6 - Ecoute, petit homme !
   date: '2020-12-19T10:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/274774397/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: 3 easy improvements in your microservices architecture
   date: '2020-12-17T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/275058477/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: '[LIVE] Des channels Go en JS ? Inutile donc indispensable !'
   date: '2020-11-26T19:00:00'
   url: https://www.meetup.com/bordeauxjs/events/274509520/
   community: bordeauxjs
   is_online: true
+  location: ''
 - title: Club de lecture 20.5 - L'approche systémique
   date: '2020-11-21T10:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/273366174/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: Plug-in Architectures for Java with Layrry and the Java Module System
   date: '2020-11-19T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/274507026/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: 'Meetup virtuel AWS #7 - Automatisation, orchestration et gouvernance sur AWS'
   date: '2020-11-19T18:30:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/274511001/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: Mieux maîtriser la performance applicative avec la librairie de test QuickPerf
   date: '2020-10-15T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/273864451/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: 'AWS Virtual Meetup #6 - AWS et les media-techs'
   date: '2020-09-30T18:30:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Meetup PHP (online) #36 : Travailler avec un projet legacy'
   date: '2020-09-30T18:30:00'
   url: https://www.meetup.com/bordeaux-php-meetup/events/273572868/
   community: afup-bordeaux
   is_online: true
+  location: ''
 - title: Club de lecture 20.4 - Coacher avec l’approche narrative
   date: '2020-09-12T09:30:00'
   url: https://www.meetup.com/agile-bordeaux/events/272108470/
@@ -1319,21 +1371,25 @@
   url: https://www.meetup.com/bordeauxjug/events/272912566/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-07-30T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckbnc/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-07-23T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckbfc/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-07-16T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckbvb/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: JUG Off 2020
   date: '2020-07-09T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/271759227/
@@ -1345,111 +1401,133 @@
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckbmb/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-07-02T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckbdb/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'AWS Virtual Meetup #5 - Chaos engineering'
   date: '2020-07-01T19:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/271494821/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: Coaching Dojo 20.2 - Special Online
   date: '2020-06-27T09:00:00'
   url: https://www.meetup.com/agile-bordeaux/events/271203421/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: Profiling et monitoring de JVM avec Arthas
   date: '2020-06-25T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/271338389/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-06-25T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjbhc/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-06-18T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjbxb/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-06-11T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjbpb/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: Club de lecture 20.3 - Notre corps ne ment jamais
   date: '2020-06-06T09:30:00'
   url: https://www.meetup.com/agile-bordeaux/events/270256889/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-06-04T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjbgb/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Artificial Intelligence on Quarkus: I love it when an OptaPlan comes together'
   date: '2020-05-28T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/270786885/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-05-28T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchblc/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-05-21T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchbcc/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Meetup PHP (online) #35 : 1 Monolithe, N microservices'
   date: '2020-05-19T18:00:00'
   url: https://www.meetup.com/bordeaux-php-meetup/events/270601172/
   community: afup-bordeaux
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-05-14T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchbsb/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: 'Live Coding with Bashar : Migration et transformation d''une app '
   date: '2020-05-07T18:00:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchbkb/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: La concurrence sans s’emmêler les ficelles avec Project Loom
   date: '2020-04-30T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/270182876/
   community: bordeauxjug
   is_online: true
+  location: ''
 - title: 'Meetup virtuel AWS #2 - L''orchestration Kubernetes sur AWS'
   date: '2020-04-23T18:50:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/270058143/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: '[LIVE] Monorepo et JavaScript : à la découverte de NX'
   date: '2020-04-21T19:00:00'
   url: https://www.meetup.com/bordeauxjs/events/270063441/
   community: bordeauxjs
   is_online: true
+  location: ''
 - title: Club de lecture 20.2 - La dynamique des équipes et l'intelligence collective
   date: '2020-04-18T09:30:00'
   url: https://www.meetup.com/agile-bordeaux/events/269028247/
   community: agile-bordeaux
   is_online: true
+  location: ''
 - title: 'SERIOUS GAMERS BORDEAUX LELAB#5 : Testons les liberating structures'
   date: '2020-04-16T18:00:00'
   url: https://www.meetup.com/seriousgamers-bordeaux/events/269968439/
   community: serious-gamers-bordeaux
   is_online: true
+  location: ''
 - title: 'Meetup virtuel AWS #1 - AWS dans l''univers du Gaming'
   date: '2020-03-25T18:50:00'
   url: https://www.meetup.com/bordeaux-amazon-web-services/events/269643080/
   community: aws-bordeaux
   is_online: true
+  location: ''
 - title: Human Talks Mars
   date: '2020-03-11T19:15:00'
   url: https://www.meetup.com/human-talks-bordeaux/events/269153276/
@@ -1528,18 +1606,18 @@
   community: aws-bordeaux
   is_online: false
   location: 16 Rue Théodore Blanc, Bruges, France
-- title: 'Meetup PHP #32 : Apéro Quizz -> PHP 7.4'
-  date: '2019-12-17T19:30:00'
-  url: https://www.meetup.com/bordeaux-php-meetup/events/266824505/
-  community: afup-bordeaux
-  is_online: false
-  location: 1 Cr Xavier Arnozan, Bordeaux, France
 - title: 'SERIOUS GAMERS BORDEAUX - #LELAB Episode #3'
   date: '2019-12-17T19:30:00'
   url: https://www.meetup.com/seriousgamers-bordeaux/events/266780381/
   community: serious-gamers-bordeaux
   is_online: false
   location: 68 Bis Av. Jean Jaurès, Cenon, France
+- title: 'Meetup PHP #32 : Apéro Quizz -> PHP 7.4'
+  date: '2019-12-17T19:30:00'
+  url: https://www.meetup.com/bordeaux-php-meetup/events/266824505/
+  community: afup-bordeaux
+  is_online: false
+  location: 1 Cr Xavier Arnozan, Bordeaux, France
 - title: La modularité au (micro) service de l'espace client Orange
   date: '2019-12-12T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/266994044/
@@ -1594,18 +1672,18 @@
   community: serious-gamers-bordeaux
   is_online: false
   location: 12 Rue des Faussets, Bordeaux, France
-- title: 'Meetup AWS Bordeaux #5 - Architectures modernes & Serverless'
-  date: '2019-10-17T19:00:00'
-  url: https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/
-  community: aws-bordeaux
-  is_online: false
-  location: 132 Rue Fondaudège, Bordeaux, France
 - title: La JVM et Docker, vers une symbiose parfaite !
   date: '2019-10-17T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/265368300/
   community: bordeauxjug
   is_online: false
   location: 1 Avenue du Docteur Albert Schweitzer, Talence, France
+- title: 'Meetup AWS Bordeaux #5 - Architectures modernes & Serverless'
+  date: '2019-10-17T19:00:00'
+  url: https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/
+  community: aws-bordeaux
+  is_online: false
+  location: 132 Rue Fondaudège, Bordeaux, France
 - title: Club de lecture 19.4 - La nuit j’écrirai des soleils
   date: '2019-09-28T09:30:00'
   url: https://www.meetup.com/agile-bordeaux/events/262665679/
@@ -2806,18 +2884,18 @@
   community: okiwi
   is_online: false
   location: 41 Rue du Château d'Eau, Bordeaux, France
-- title: AperoJS
-  date: '2017-09-21T19:00:00'
-  url: https://www.meetup.com/bordeauxjs/events/243276773/
-  community: bordeauxjs
-  is_online: false
-  location: 27 Rue Camille Sauvageau, Bordeaux, France
 - title: Retour d'XP et perspectives sur le développement de projets Open Source
   date: '2017-09-21T19:00:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/240001683/
   community: okiwi
   is_online: false
   location: 12 rue des Faussets, Bordeaux, France
+- title: AperoJS
+  date: '2017-09-21T19:00:00'
+  url: https://www.meetup.com/bordeauxjs/events/243276773/
+  community: bordeauxjs
+  is_online: false
+  location: 27 Rue Camille Sauvageau, Bordeaux, France
 - title: Code & Coffee
   date: '2017-09-20T07:45:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywmbbc/
@@ -3076,16 +3154,16 @@
   community: okiwi
   is_online: false
   location: 41 Rue du Château d'Eau, Bordeaux, France
-- title: 'Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)'
-  date: '2017-05-23T18:45:00'
-  url: https://www.meetup.com/bordeaux-php-meetup/events/239873606/
-  community: afup-bordeaux
-  is_online: false
-  location: 12 rue des Faussets, Bordeaux, France
 - title: CQRS, Fonctionnel, Event Sourcing & Domain Driven Design
   date: '2017-05-23T18:45:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/239156476/
   community: okiwi
+  is_online: false
+  location: 12 rue des Faussets, Bordeaux, France
+- title: 'Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)'
+  date: '2017-05-23T18:45:00'
+  url: https://www.meetup.com/bordeaux-php-meetup/events/239873606/
+  community: afup-bordeaux
   is_online: false
   location: 12 rue des Faussets, Bordeaux, France
 - title: Code & Coffee
@@ -3226,18 +3304,18 @@
   community: bordeauxjs
   is_online: false
   location: 12 rue des faussets, Bordeaux, France
-- title: 'Python Bordeaux #7 : données géospatiales'
-  date: '2017-03-23T19:00:00'
-  url: https://www.meetup.com/py-bdx/events/238293674/
-  community: bordeaux-python-meetup
-  is_online: false
-  location: 12 rue des Faussets, Bordeaux, France
 - title: 'TypeScript : dès lundi sur votre App Legacy'
   date: '2017-03-23T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/238356406/
   community: bordeauxjug
   is_online: false
   location: 1 Avenue du Docteur Albert Schweitzer, Talence, France
+- title: 'Python Bordeaux #7 : données géospatiales'
+  date: '2017-03-23T19:00:00'
+  url: https://www.meetup.com/py-bdx/events/238293674/
+  community: bordeaux-python-meetup
+  is_online: false
+  location: 12 rue des Faussets, Bordeaux, France
 - title: Code & Coffee
   date: '2017-03-22T07:45:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfbdc/
@@ -3610,18 +3688,18 @@
   community: agile-bordeaux
   is_online: false
   location: 4 Cours Pasteur, Bordeaux, France
-- title: Migrer une application React de MObservable vers Redux
-  date: '2016-03-31T19:00:00'
-  url: https://www.meetup.com/bordeauxjs/events/229812115/
-  community: bordeauxjs
-  is_online: false
-  location: 12 rue des faussets, Bordeaux, France
 - title: De Zéro à Héros avec Spring Boot
   date: '2016-03-31T19:00:00'
   url: https://www.meetup.com/bordeauxjug/events/229566440/
   community: bordeauxjug
   is_online: false
   location: 1 Avenue du Docteur Albert Schweitzer, Talence, France
+- title: Migrer une application React de MObservable vers Redux
+  date: '2016-03-31T19:00:00'
+  url: https://www.meetup.com/bordeauxjs/events/229812115/
+  community: bordeauxjs
+  is_online: false
+  location: 12 rue des faussets, Bordeaux, France
 - title: Agile Bordeaux 16.2
   date: '2016-03-29T18:30:00'
   url: https://www.meetup.com/agile-bordeaux/events/228059408/
@@ -4131,6 +4209,7 @@
   url: https://www.meetup.com/bordeauxjs/events/135898092/
   community: bordeauxjs
   is_online: false
+  location: ''
 - title: Développement Mobile HTML5
   date: '2013-09-26T19:00:00'
   url: https://www.meetup.com/bordeauxjs/events/137641142/

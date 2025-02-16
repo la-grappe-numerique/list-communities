@@ -13,6 +13,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 19
 - title: Optimisation des images Docker Java avec Jdeps, Jlink et les layers Docker
   date: '2025-01-16T19:00:00'
@@ -29,6 +30,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 25
 - title: 'Picocli : mets du Java dans ton terminal ! '
   date: '2024-12-12T19:00:00'
@@ -44,6 +46,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 14
 - title: 'IA générative en action: Intégrez les LLM dans vos applications'
   date: '2024-11-14T19:00:00'
@@ -59,6 +62,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 27
 - title: 'Quarkus : Greener, Better, Faster, stronger.'
   date: '2024-10-10T19:00:00'
@@ -75,6 +79,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 27
 - title: 'Design First : OpenApi et AsyncApi en action !'
   date: '2024-09-26T19:00:00'
@@ -92,6 +97,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 29
 - title: JUG Off 2024
   date: '2024-07-18T19:00:00'
@@ -110,6 +116,7 @@
     address: Place Alcala de Henares, 33400
     city: Talence
     country: France
+  location: Place Alcala de Henares, 33400, Talence
   rsvp_count: 6
 - title: Java 22+
   date: '2024-06-19T19:00:00'
@@ -124,6 +131,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 17
 - title: Wargames - Java vulnerabilities and why you should care
   date: '2024-06-06T19:00:00'
@@ -140,6 +148,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 10
 - title: Comment être un développeur à 360° en 2024
   date: '2024-05-23T19:00:00'
@@ -158,6 +167,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 16
 - title: Builds Reproductibles avec Apache Maven
   date: '2024-04-04T19:00:00'
@@ -174,6 +184,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 17
 - title: 'Le versioning des APIs REST: dans la vraie vie on fait comment?'
   date: '2024-03-21T19:00:00'
@@ -191,6 +202,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 24
 - title: Assemblée Générales 2024
   date: '2024-03-11T19:00:00'
@@ -205,6 +217,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 10
 - title: 'Découvrir le Property Based Testing : De la Théorie à la Pratique avec jqwik'
   date: '2024-02-15T19:00:00'
@@ -220,6 +233,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 16
 - title: 'Generative IA par la pratique : cas concrets  d''un LLM en Java, LangChain4J'
   date: '2024-01-18T19:00:00'
@@ -236,6 +250,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 34
 - title: Les promesses de Loom ... Soyez au rendez-vous !
   date: '2023-11-23T19:00:00'
@@ -258,6 +273,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 14
 - title: La recherche à l'ère de l'IA
   date: '2023-10-26T19:00:00'
@@ -273,6 +289,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 21
 - title: JUG Off 2023
   date: '2023-07-06T19:00:00'
@@ -291,6 +308,7 @@
     address: 20 All. du 7ème art
     city: Talence
     country: France
+  location: 20 All. du 7ème art, Talence
   rsvp_count: 5
 - title: Laptop as Code
   date: '2023-06-08T19:00:00'
@@ -306,6 +324,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 24
 - title: Fluid Pull Request
   date: '2023-04-27T19:00:00'
@@ -321,6 +340,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 13
 - title: CRaC vs GraalVM, pour un démarrage rapide
   date: '2023-04-06T19:00:00'
@@ -337,6 +357,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 13
 - title: AG 2023
   date: '2023-03-13T19:00:00'
@@ -351,6 +372,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 4
 - title: JOOQ, joy of SQL
   date: '2023-02-23T19:00:00'
@@ -366,6 +388,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 10
 - title: '400 API et 2000 types : genèse du nouveau client Java pour Elasticsearch'
   date: '2022-12-15T19:00:00'
@@ -381,6 +404,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 12
 - title: Micronaut Test Resources
   date: '2022-10-18T19:00:00'
@@ -399,6 +423,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 11
 - title: Programmation Asynchrone avec Loom
   date: '2022-09-22T19:00:00'
@@ -416,6 +441,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 24
 - title: Quarkus World Tour 2022 s'arrête au BordeauxJUG
   date: '2022-06-09T19:00:00'
@@ -432,6 +458,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 18
 - title: Workshop Kafka Streams 101
   date: '2022-05-28T10:00:00'
@@ -449,6 +476,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 7
 - title: 'Architecture microservices & cohérence des données : mais comment pour de vrai ?'
   date: '2022-05-12T19:00:00'
@@ -465,6 +493,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 16
 - title: Développer un opérateur Kubernetes en Java, c'est possible !
   date: '2022-04-07T19:00:00'
@@ -483,6 +512,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 10
 - title: A GraphQL-based Schema Architecture for Microservices
   date: '2022-03-24T19:00:00'
@@ -516,6 +546,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 5
 - title: 'Blockchain: fondements technologiques et cas d''usage'
   date: '2021-12-09T19:00:00'
@@ -533,6 +564,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 26
 - title: Java 17 la dernière LTS par Rémi Forax
   date: '2021-11-16T19:00:00'
@@ -556,6 +588,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 38
 - title: Quarkus World Tour s'arrête à Bordeaux
   date: '2021-09-16T19:00:00'
@@ -588,6 +621,7 @@
     address: Place Alcala de Henares, 33400
     city: Talence
     country: France
+  location: Place Alcala de Henares, 33400, Talence
   rsvp_limit: 10
   rsvp_count: 7
 - title: 'Java côté serveur : 22 ans et toujours fringuant !'
@@ -748,6 +782,7 @@
     address: Place Alcala de Henares, 33400
     city: Talence
     country: France
+  location: Place Alcala de Henares, 33400, Talence
   rsvp_limit: 10
   rsvp_count: 4
 - title: Profiling et monitoring de JVM avec Arthas
@@ -800,6 +835,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 40
 - title: News du support de Kotlin dans Spring ? Et Spring Boot avec GraalVM native
   date: '2020-01-23T19:00:00'
@@ -824,6 +860,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 46
 - title: AG 2020
   date: '2020-01-16T19:00:00'
@@ -841,6 +878,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 6
 - title: La modularité au (micro) service de l'espace client Orange
   date: '2019-12-12T19:00:00'
@@ -860,6 +898,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 30
 - title: Introduction à la programmation par contraintes
   date: '2019-11-21T19:00:00'
@@ -876,6 +915,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 31
 - title: La JVM et Docker, vers une symbiose parfaite !
   date: '2019-10-17T19:00:00'
@@ -894,6 +934,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 43
 - title: 'Quarkus: Supersonique Subatomique Java '
   date: '2019-09-05T19:00:00'
@@ -919,6 +960,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 78
 - title: JUG Off 2019
   date: '2019-07-11T19:30:00'
@@ -937,6 +979,7 @@
     address: Place Alcala de Henares, 33400
     city: Talence
     country: France
+  location: Place Alcala de Henares, 33400, Talence
   rsvp_count: 12
 - title: Le DDD et les patterns tactiques
   date: '2019-06-06T19:00:00'
@@ -953,6 +996,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 53
 - title: Java 11, 12.. c'est le moment de remplacer son JDK 8
   date: '2019-05-16T19:00:00'
@@ -971,6 +1015,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 39
 - title: Construire une architecture élastique basée sur les événements dans AWS
   date: '2019-04-25T19:00:00'
@@ -993,6 +1038,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 45
 - title: Etre productif avec JHipster
   date: '2019-03-21T19:00:00'
@@ -1013,6 +1059,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 57
 - title: 'Back to Basics : Ne perdez plus votre Temps avec les Dates'
   date: '2019-02-21T19:00:00'
@@ -1031,6 +1078,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 34
 - title: Micronaut puis Flutter
   date: '2019-01-17T19:00:00'
@@ -1054,6 +1102,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 43
 - title: AG 2019
   date: '2019-01-10T19:00:00'
@@ -1071,6 +1120,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 9
 - title: Web components en 2018, on en est où ?
   date: '2018-12-13T19:00:00'
@@ -1090,6 +1140,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 42
 - title: 'Au delà des brokers: un tour de l''environnement Kafka'
   date: '2018-11-15T19:00:00'
@@ -1106,6 +1157,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 48
 - title: Ceinture noire Karate en tests d'API REST
   date: '2018-10-11T19:00:00'
@@ -1125,6 +1177,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 40
 - title: Soirée Apache Maven
   date: '2018-09-20T19:00:00'
@@ -1143,6 +1196,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 50
 - title: JUG Off 2018
   date: '2018-07-12T19:00:00'
@@ -1158,6 +1212,7 @@
     address: Place Alcala de Henares, 33400
     city: Talence
     country: France
+  location: Place Alcala de Henares, 33400, Talence
   rsvp_count: 8
 - title: Mettre en place simplement la sécurité de ces applications avec Keycloak
   date: '2018-06-20T19:00:00'
@@ -1175,6 +1230,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 45
 - title: Soirée BlockChain
   date: '2018-05-17T19:00:00'
@@ -1194,6 +1250,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 94
 - title: Applications réactives avec Eclipse Vert.x
   date: '2018-04-25T19:00:00'
@@ -1209,6 +1266,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 48
 - title: Boîte à outils mémoire de la JVM ...
   date: '2018-03-29T19:00:00'
@@ -1225,6 +1283,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 29
 - title: Mettez à profit toutes les fonctionnalités de Kubernetes pour vos microservices
   date: '2018-02-15T19:00:00'
@@ -1241,6 +1300,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 67
 - title: 'Soirée Gilded-Rose '
   date: '2018-01-18T19:00:00'
@@ -1259,6 +1319,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 39
 - title: AG 2017
   date: '2017-12-14T19:00:00'
@@ -1275,6 +1336,7 @@
     address: Place Alcala de Henares, 33400
     city: Talence
     country: France
+  location: Place Alcala de Henares, 33400, Talence
   rsvp_count: 5
 - title: Modernisez vos API, passez à GraphQL!
   date: '2017-12-07T19:00:00'
@@ -1291,6 +1353,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 61
 - title: Clean Code – Comment coder propre
   date: '2017-11-16T19:00:00'
@@ -1307,6 +1370,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 102
 - title: Serverless avec AWS Lambda ?
   date: '2017-10-12T19:00:00'
@@ -1324,6 +1388,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 78
 - title: Préparez vous à la modularité selon Java 9 par Alexis Hassler
   date: '2017-09-13T19:00:00'
@@ -1340,6 +1405,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 88
 - title: JUG OFF
   date: '2017-07-06T21:30:00'
@@ -1354,6 +1420,7 @@
     address: Place Alcala de Henares, 33400
     city: Talence
     country: France
+  location: Place Alcala de Henares, 33400, Talence
   rsvp_count: 6
 - title: Raspberry Pi with Java 9 (au LABRI)
   date: '2017-07-06T19:00:00'
@@ -1377,6 +1444,7 @@
     address: Domaine universitaire, 351, cours de la Libération, 33405 Talence
     city: Talence
     country: France
+  location: Domaine universitaire, 351, cours de la Libération, 33405 Talence, Talence
   rsvp_count: 46
 - title: DDD, P&A, ES, CQRS, ETC
   date: '2017-06-22T19:00:00'
@@ -1396,6 +1464,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 62
 - title: Stream Processing avec Apache Flink
   date: '2017-06-08T19:00:00'
@@ -1417,6 +1486,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 47
 - title: 'Ingest Node : (Ré)indexer et enrichir des documents dans ElasticSearch'
   date: '2017-05-04T19:00:00'
@@ -1436,6 +1506,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 58
 - title: Living documentation, ou comment faire de la documentation sans l'écrire.
   date: '2017-04-13T19:00:00'
@@ -1454,6 +1525,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 44
 - title: 'TypeScript : dès lundi sur votre App Legacy'
   date: '2017-03-23T19:00:00'
@@ -1476,6 +1548,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 87
 - title: Functional web applications with Kotlin and Spring 5
   date: '2017-01-12T19:00:00'
@@ -1492,6 +1565,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 75
 - title: '"Plateforme dynamique, #docker #dns #scalabilité... Où sont mes microservices ?"'
   date: '2016-12-15T19:00:00'
@@ -1507,6 +1581,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 121
 - title: AG 2016
   date: '2016-12-07T19:00:00'
@@ -1523,6 +1598,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 10
 - title: SonarLint et SonarQube pour détecter les bugs, code smells et vulnérabilités
   date: '2016-11-17T19:00:00'
@@ -1538,6 +1614,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 64
 - title: Java EE, Micro Profile, TypeScript et Angular 2
   date: '2016-10-27T19:00:00'
@@ -1559,6 +1636,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 153
 - title: Ionic, un framework mobile hybride fun et addictif
   date: '2016-09-22T19:00:00'
@@ -1574,6 +1652,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 66
 - title: Bordeaux JUG Off 2016
   date: '2016-07-05T19:00:00'
@@ -1590,6 +1669,7 @@
     address: 14-18 Cours Albret
     city: Bordeaux
     country: France
+  location: 14-18 Cours Albret, Bordeaux
   rsvp_count: 3
 - title: 'Eclipse Che: the Next-Gen Eclipse IDE'
   date: '2016-06-09T19:00:00'
@@ -1607,6 +1687,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 51
 - title: 'Hawkular Powers: Le Dev au pistolet d''Ops'
   date: '2016-05-12T19:00:00'
@@ -1622,6 +1703,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 37
 - title: JIGSAW notre sauveur
   date: '2016-04-12T19:00:00'
@@ -1641,6 +1723,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 50
 - title: De Zéro à Héros avec Spring Boot
   date: '2016-03-31T19:00:00'
@@ -1657,6 +1740,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 70
 - title: Let's React
   date: '2016-02-10T19:00:00'
@@ -1672,6 +1756,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 52
 - title: Quickie Party
   date: '2016-01-21T19:00:00'
@@ -1691,6 +1776,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 36
 - title: AG 2015
   date: '2015-12-15T19:00:00'
@@ -1708,6 +1794,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 7
 - title: Intégration Spark/Cassandra, théorie et pratique
   date: '2015-12-10T19:00:00'
@@ -1726,6 +1813,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 38
 - title: Machine Learning avec Spark
   date: '2015-11-19T19:00:00'
@@ -1744,6 +1832,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 53
 - title: Continuous Delivery avec Jenkins et Docker
   date: '2015-10-22T19:00:00'
@@ -1762,6 +1851,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 98
 - title: Asciidoctor RTFM
   date: '2015-09-24T19:00:00'
@@ -1784,6 +1874,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 29
 - title: Jug Off 2015
   date: '2015-07-08T19:00:00'
@@ -1800,6 +1891,7 @@
     address: 14-18 Cours Albret
     city: Bordeaux
     country: France
+  location: 14-18 Cours Albret, Bordeaux
   rsvp_count: 10
 - title: 'Hibernate OGM : ORM et NoSQL sont-ils solubles?'
   date: '2015-06-17T19:00:00'
@@ -1833,6 +1925,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 50
 - title: 'Convention over configuration: the Gradle Way'
   date: '2015-05-05T19:00:00'
@@ -1849,6 +1942,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 40
 - title: À la découverte de MongoDB 3.0 !
   date: '2015-04-16T19:00:00'
@@ -1866,6 +1960,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 78
 - title: Soirée Cassandra avec Sébastien Augereau
   date: '2015-03-19T19:00:00'
@@ -1888,6 +1983,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 52
 - title: Lucy in the cloud with Docker
   date: '2015-02-05T19:00:00'
@@ -1904,6 +2000,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 71
 - title: LP4J, a song of Java, MIDI and websockets
   date: '2015-01-22T19:00:00'
@@ -1921,6 +2018,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 31
 - title: 'Jeudi 11 décembre : AG du JUG'
   date: '2014-12-11T19:00:00'
@@ -1942,6 +2040,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 12
 - title: 'Jeudi 4 Décembre : Soirée JHipster'
   date: '2014-12-04T19:00:00'
@@ -1958,6 +2057,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 64
 - title: Introduction à Clojure et Live Coding
   date: '2014-11-13T19:00:00'
@@ -1974,6 +2074,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 34
 - title: CDI Today... and Tomorow (A. Goncalves)
   date: '2014-10-23T19:00:00'
@@ -1986,6 +2087,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 64
 - title: La persistance polyglotte ou comment intégrer quatre moteurs de bases de données
   date: '2014-09-25T19:00:00'
@@ -2003,6 +2105,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 45
 - title: Jug Off au Connemara
   date: '2014-07-07T19:00:00'
@@ -2019,6 +2122,7 @@
     address: 14-18 Cours Albret
     city: Bordeaux
     country: France
+  location: 14-18 Cours Albret, Bordeaux
   rsvp_count: 12
 - title: Appliquer le Web aux données
   date: '2014-06-11T19:00:00'
@@ -2034,6 +2138,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 42
 - title: Des applications réactives avec Spring 4, AngularDart et Websocket
   date: '2014-05-22T19:00:00'
@@ -2057,6 +2162,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 51
 - title: Java 8 Lambdas and Devices
   date: '2014-04-09T19:00:00'
@@ -2069,6 +2175,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 21
 - title: Groovy vs Java 8
   date: '2014-04-03T19:00:00'
@@ -2084,6 +2191,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 32
 - title: Wikidata Workshop
   date: '2014-03-22T14:00:00'
@@ -2116,6 +2224,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_limit: 25
   rsvp_count: 12
 - title: 'Live coding: Web temps réel avec Play 2'
@@ -2131,6 +2240,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 36
 - title: Dart Flight school
   date: '2014-02-15T12:00:00'
@@ -2152,6 +2262,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_limit: 1
   rsvp_count: 1
 - title: 'JavaEE : Apache TomEE'
@@ -2170,6 +2281,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 34
 - title: 'Java 8 : lambdas, Streams et Collectors, le nouveau visage de l’API Collection'
   date: '2014-01-16T19:00:00'
@@ -2190,6 +2302,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 55
 - title: AG 2013 du BordeauxJUG
   date: '2013-12-16T19:00:00'
@@ -2209,6 +2322,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 17
 - title: Lambdas, from the great closure war to Java 8, an unexpected journey
   date: '2013-12-11T19:00:00'
@@ -2225,6 +2339,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 48
 - title: 'Jeudi 14 Nov: What''s The Fold'
   date: '2013-11-14T19:00:00'
@@ -2241,6 +2356,7 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 48
 - title: 'Jeudi 17 Oct: Les lambdas arrivent, mais avez-vous bien compris les Generics ?'
   date: '2013-10-17T19:00:00'
@@ -2256,4 +2372,5 @@
     address: 1 Avenue du Docteur Albert Schweitzer
     city: Talence
     country: France
+  location: 1 Avenue du Docteur Albert Schweitzer, Talence
   rsvp_count: 57

@@ -16,6 +16,7 @@
     address: 1 Quai Armand Lalande
     city: Bordeaux
     country: France
+  location: 1 Quai Armand Lalande, Bordeaux
   rsvp_count: 20
 - title: 'Human Talks Bordeaux #9 - Culture & Stratégie Design '
   date: '2025-02-11T18:30:00'
@@ -43,6 +44,7 @@
     address: 26 rue Raze
     city: Bordeaux
     country: France
+  location: 26 rue Raze, Bordeaux
   rsvp_count: 124
 - title: 'Human Talks Bordeaux #8 - Carrières'
   date: '2025-01-14T18:30:00'
@@ -63,6 +65,7 @@
     address: 117 Quai de Bacalan
     city: Bordeaux
     country: France
+  location: 117 Quai de Bacalan, Bordeaux
   rsvp_count: 70
 - title: 'Human Talks Bordeaux #7'
   date: '2024-12-10T18:30:00'
@@ -85,6 +88,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_count: 32
 - title: 'Human Talks Bordeaux #6 - Rencontre avec le CTO de Sellsy'
   date: '2024-09-10T18:30:00'
@@ -110,6 +114,7 @@
     address: 2 Rue Marc Sangnier
     city: Bègles
     country: France
+  location: 2 Rue Marc Sangnier, Bègles
   rsvp_count: 43
 - title: 'Human Talks Bordeaux #5 - Sujet "Gérer son équipe"'
   date: '2024-06-18T18:30:00'
@@ -134,6 +139,7 @@
     address: 20 Rue Saint-François
     city: Bordeaux
     country: France
+  location: 20 Rue Saint-François, Bordeaux
   rsvp_count: 43
 - title: Reprise du meetup Human Talks à Bordeaux !
   date: '2024-05-16T18:00:00'
@@ -158,6 +164,7 @@
     address: 30 Quai Virginie Hériot
     city: Bordeaux
     country: France
+  location: 30 Quai Virginie Hériot, Bordeaux
   rsvp_count: 18
 - title: Human Talks Mars
   date: '2020-03-11T19:15:00'
@@ -176,6 +183,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_count: 13
 - title: Human Talks Décembre
   date: '2019-12-10T19:15:00'
@@ -192,6 +200,7 @@
     address: 9 Rue André Darbon
     city: Bordeaux
     country: France
+  location: 9 Rue André Darbon, Bordeaux
   rsvp_count: 34
 - title: Human Talks Novembre
   date: '2019-11-12T19:15:00'
@@ -207,4 +216,5 @@
     address: 107 Cr Balguerie Stuttenberg
     city: Bordeaux
     country: France
+  location: 107 Cr Balguerie Stuttenberg, Bordeaux
   rsvp_count: 18

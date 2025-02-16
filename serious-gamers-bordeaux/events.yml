@@ -19,6 +19,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 20
   rsvp_count: 14
 - title: 🌟 L’Art de la ruse à travers les 36 Stratagèmes de Sun Tzu 🌟
@@ -41,6 +42,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 20
   rsvp_count: 14
 - title: 🌟 Révéler les besoins cachés derrières nos émotions
@@ -62,6 +64,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 20
   rsvp_count: 11
 - title: 'Biais cognitifs : Qui sera le plus diabolique ?'
@@ -84,6 +87,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 24
   rsvp_count: 23
 - title: '🌟 Forgez une super équipe : Un voyage au cœur de votre équipe'
@@ -107,6 +111,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 20
   rsvp_count: 15
 - title: '🌟 Seriousgamers Bordeaux : Libérez-vous des dépendances inutiles ! #LERUN ⛓️'
@@ -128,6 +133,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 20
   rsvp_count: 17
 - title: 🦴🔥 Explorons les profondeurs de la langue préhistorique au Conseil de pierre !
@@ -151,6 +157,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 8
   rsvp_count: 7
 - title: 🚀🔍 Prêts pour l'Aventure Anti-Sabotage ? Rejoignez-nous ! 🔍🚀
@@ -175,6 +182,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 22
   rsvp_count: 17
 - title: '#LaFabrik : Explorez le Futur du Recrutement avec un Nouveau Serious Game ! 🚀'
@@ -199,6 +207,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 14
   rsvp_count: 13
 - title: 'Au-delà des Guimauves : Décortiquons l''utilité des Serious Games 🚀🎮'
@@ -225,6 +234,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 20
   rsvp_count: 18
 - title: 'Le jeux de rôle, un outil au service de l''équipe - LERUN #8'
@@ -250,6 +260,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 12
   rsvp_count: 12
 - title: 'La vie d''une équipe, de sa formation à sa dissolution - LERUN #7'
@@ -272,6 +283,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 20
   rsvp_count: 14
 - title: 'Les émotions aux commandes - LERUN #6'
@@ -294,6 +306,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 20
   rsvp_count: 20
 - title: 'Devenir les maîtres dans l''art du feedback - LERUN #5'
@@ -313,6 +326,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 20
   rsvp_count: 17
 - title: 'SERIOUS GAMERS BORDEAUX LELAB#5 : Testons les liberating structures'
@@ -346,6 +360,7 @@
     address: ''
     city: Bordeaux
     country: France
+  location: ', Bordeaux'
   rsvp_limit: 25
   rsvp_count: 25
 - title: 'SERIOUS GAMERS BORDEAUX - #LELAB Episode #3'
@@ -364,6 +379,7 @@
     address: 68 Bis Av. Jean Jaurès
     city: Cenon
     country: France
+  location: 68 Bis Av. Jean Jaurès, Cenon
   rsvp_count: 21
 - title: 'SERIOUS GAMERS BORDEAUX - Testons des Serious Games #LELAB Episode #2'
   date: '2019-10-22T19:00:00'
@@ -382,6 +398,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_count: 21
 - title: 'SERIOUS GAMERS BORDEAUX - LELAB Episode #1'
   date: '2019-09-23T19:00:00'
@@ -400,6 +417,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_count: 21
 - title: 'SERIOUS GAMERS BORDEAUX - LAFABRIK #2'
   date: '2019-06-25T19:00:00'
@@ -417,6 +435,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_count: 21
 - title: 'SERIOUS GAMERS BORDEAUX - 1h30 pour construire un serious game - LAFABRIK #1'
   date: '2019-06-04T19:00:00'
@@ -435,4 +454,5 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_count: 39

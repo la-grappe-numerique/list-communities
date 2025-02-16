@@ -17,6 +17,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 10
 - title: Scrum ET Kanban - L’alliage résilient de l’amélioration continue de vos produits
@@ -33,6 +34,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 65
   rsvp_count: 10
 - title: Coaching Dojo 25.1
@@ -52,6 +54,7 @@
     address: 13 Rue Archimède
     city: Mérignac
     country: France
+  location: 13 Rue Archimède, Mérignac
   rsvp_limit: 24
   rsvp_count: 17
 - title: Club de lecture 25.1 - Nexus
@@ -73,6 +76,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 11
 - title: Club de lecture 24.8 - Une sacrée envie de foutre le bordel
@@ -93,6 +97,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 10
 - title: Club de lecture 24.7 - Dans le cerveau des champions
@@ -112,6 +117,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 12
 - title: Club de lecture 24.6 - Les livres de l’été
@@ -129,6 +135,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 12
   rsvp_count: 12
 - title: Coaching Dojo Juin
@@ -154,6 +161,7 @@
     address: 44 Rue Lucien Faure
     city: Bordeaux
     country: France
+  location: 44 Rue Lucien Faure, Bordeaux
   rsvp_limit: 24
   rsvp_count: 15
 - title: Club de lecture 24.5 - Pour en finir avec le machin
@@ -173,6 +181,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 8
 - title: 'Atelier du PO #6 : Mission anti-sabotage'
@@ -189,6 +198,7 @@
     address: 10 Pl. Saint-Christoly
     city: Bordeaux
     country: France
+  location: 10 Pl. Saint-Christoly, Bordeaux
   rsvp_limit: 15
   rsvp_count: 9
 - title: Club de lecture 24.4 - Changer d’altitude
@@ -208,6 +218,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 15
 - title: Club de lecture 24.3 - La boîte à outils de la méthode OKR
@@ -245,6 +256,7 @@
     address: 17 Quai Louis XVIII
     city: Bordeaux
     country: France
+  location: 17 Quai Louis XVIII, Bordeaux
   rsvp_limit: 23
   rsvp_count: 17
 - title: 'Atelier du PO #5 : Lean Coffee'
@@ -262,6 +274,7 @@
     address: 10 Pl. Saint-Christoly
     city: Bordeaux
     country: France
+  location: 10 Pl. Saint-Christoly, Bordeaux
   rsvp_limit: 15
   rsvp_count: 9
 - title: Agile Bordeaux 24.1
@@ -281,6 +294,7 @@
     address: 1 Av. Henri Becquerel
     city: Mérignac
     country: France
+  location: 1 Av. Henri Becquerel, Mérignac
   rsvp_limit: 12
   rsvp_count: 13
 - title: Club de lecture 24.2 - Agile conversations
@@ -300,6 +314,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 13
 - title: 'Atelier du PO #4 : L''évolution du PO : du tacticien au stratège'
@@ -329,6 +344,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 10
   rsvp_count: 10
 - title: 'Atelier du PO #3 - Demoribo : l''art de la pratique de la démo agile'
@@ -351,6 +367,7 @@
     address: 10 Pl. Saint-Christoly
     city: Bordeaux
     country: France
+  location: 10 Pl. Saint-Christoly, Bordeaux
   rsvp_limit: 20
   rsvp_count: 9
 - title: Club de lecture 23.7 - Vivre avec son passé
@@ -369,6 +386,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 15
 - title: 'Atelier du PO #2 - S''essayer à l''eXtreme quotation'
@@ -391,6 +409,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 20
   rsvp_count: 11
 - title: 'Atelier du PO #1 - Découvrir les bases de l''UX / UI'
@@ -410,6 +429,7 @@
     address: Place Saint Christoly
     city: Bordeaux
     country: France
+  location: Place Saint Christoly, Bordeaux
   rsvp_limit: 20
   rsvp_count: 20
 - title: Club de lecture 23.6 - Réparer les Histoires
@@ -428,6 +448,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 15
 - title: Club de lecture 23.5 - Les livres de l’été
@@ -445,6 +466,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 15
 - title: Club de lecture 23.4 - La cinquième discipline
@@ -466,6 +488,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 12
 - title: Club de lecture 23.3 - Moi, toi, nous, petit traité des influences réciproques
@@ -484,6 +507,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 15
 - title: Club de lecture 23.2 - Éloge de l'inattendu
@@ -502,6 +526,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 12
 - title: Club de lecture 23.1 - Ne coupez jamais la poire en deux
@@ -521,6 +546,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 14
 - title: Club de lecture 22.6 - Théorie U, l'essentiel
@@ -540,6 +566,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 12
 - title: Club de lecture 22.5 - Coacher avec l’Appreciative Inquiry
@@ -560,6 +587,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 14
 - title: Club de lecture 22.4 - Coacher les émotions
@@ -577,6 +605,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 14
 - title: Découvrir le rôle de Product Owner par la pratique et en aidant les autres.
@@ -611,6 +640,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 10
 - title: Club de lecture 22.2 - Vous allez commettre une terrible erreur
@@ -630,6 +660,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 11
 - title: Club de lecture 22.1 - Team Topologies
@@ -649,6 +680,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 13
 - title: Club de lecture 21.7 - Les vertus de l’échec
@@ -668,6 +700,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 13
 - title: Club de lecture 21.6 - Que faire des cons ?
@@ -687,6 +720,7 @@
     address: 21 Rue Grateloup
     city: Bordeaux
     country: France
+  location: 21 Rue Grateloup, Bordeaux
   rsvp_limit: 15
   rsvp_count: 10
 - title: Club de lecture 21.5 - La dynamique des groupes
@@ -706,6 +740,7 @@
     address: 21 Rue Grateloup
     city: Bordeaux
     country: France
+  location: 21 Rue Grateloup, Bordeaux
   rsvp_limit: 15
   rsvp_count: 11
 - title: Club de lecture 21.4 - Le thérapeute et le philosophe
@@ -725,6 +760,7 @@
     address: 21 Rue Grateloup
     city: Bordeaux
     country: France
+  location: 21 Rue Grateloup, Bordeaux
   rsvp_limit: 15
   rsvp_count: 14
 - title: Rupture Douce Saison 007 - Rétro-Confinement - Rencontre avec les auteurs
@@ -845,6 +881,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 15
   rsvp_count: 13
 - title: Coaching Dojo 20.2 - Special Online
@@ -919,6 +956,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_limit: 15
   rsvp_count: 14
 - title: Coaching Dojo 20.1
@@ -942,6 +980,7 @@
     address: 11 Av. Henri Becquerel
     city: Mérignac
     country: France
+  location: 11 Av. Henri Becquerel, Mérignac
   rsvp_limit: 30
   rsvp_count: 30
 - title: 'Club de lecture 19.5 - La spirale dynamique '
@@ -961,6 +1000,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_limit: 15
   rsvp_count: 8
 - title: Club de lecture 19.4 - La nuit j’écrirai des soleils
@@ -980,6 +1020,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_limit: 15
   rsvp_count: 6
 - title: Coaching Dojo 19.1
@@ -1003,6 +1044,7 @@
     address: 1 cours Xavier Arnozan
     city: Bordeaux
     country: France
+  location: 1 cours Xavier Arnozan, Bordeaux
   rsvp_limit: 30
   rsvp_count: 30
 - title: Club de lecture 19.3 - À nous la liberté
@@ -1021,6 +1063,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_limit: 15
   rsvp_count: 5
 - title: Agile Bordeaux 19.2
@@ -1044,6 +1087,7 @@
     address: 120 Quai de Bacalan
     city: Bordeaux
     country: France
+  location: 120 Quai de Bacalan, Bordeaux
   rsvp_limit: 50
   rsvp_count: 50
 - title: 'Club de lecture 19.2 - Découvrir un sens à sa vie '
@@ -1062,6 +1106,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_limit: 14
   rsvp_count: 13
 - title: Club de lecture 19.1 - Start With Why
@@ -1079,6 +1124,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_count: 14
 - title: Agile Bordeaux 19.1
   date: '2019-01-24T19:00:00'
@@ -1099,6 +1145,7 @@
     address: 19 Allée James Watt
     city: MERIGNAC
     country: France
+  location: 19 Allée James Watt, MERIGNAC
   rsvp_count: 43
 - title: Lean Coffee @ CoolWorking
   date: '2018-12-14T09:00:00'
@@ -1111,6 +1158,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 12
   rsvp_count: 8
 - title: Club de lecture 18.5 - Changing Your Team From The Inside
@@ -1128,6 +1176,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_count: 12
 - title: Lean Coffee @ CoolWorking
   date: '2018-10-19T09:00:00'
@@ -1140,6 +1189,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 12
   rsvp_count: 2
 - title: Club de lecture 18.4 - The Happiness Equation
@@ -1157,6 +1207,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_count: 9
 - title: Coaching Dojo 18.2
   date: '2018-09-15T09:00:00'
@@ -1178,6 +1229,7 @@
     address: Immeuble grand angle, 25 avenue Perie
     city: Bruges
     country: France
+  location: Immeuble grand angle, 25 avenue Perie, Bruges
   rsvp_limit: 30
   rsvp_count: 30
 - title: Club de lecture 18.3 - Coaching Agile
@@ -1195,6 +1247,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_count: 8
 - title: Club de lecture 18.2
   date: '2018-04-28T09:30:00'
@@ -1211,6 +1264,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_count: 6
 - title: Club de lecture 18.1
   date: '2018-03-10T09:30:00'
@@ -1230,6 +1284,7 @@
     address: AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux
     city: 'Bordeaux '
     country: France
+  location: 'AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bordeaux, Bordeaux '
   rsvp_count: 8
 - title: Coaching Dojo 18.1
   date: '2018-03-03T09:00:00'
@@ -1250,6 +1305,7 @@
     address: 28 Avenue Léonard de Vinci
     city: Pessac
     country: France
+  location: 28 Avenue Léonard de Vinci, Pessac
   rsvp_limit: 24
   rsvp_count: 22
 - title: 'PODOJO Bordeaux #03'
@@ -1293,6 +1349,7 @@
     address: ' 21 chemin du plantey'
     city: Gradignan
     country: France
+  location: ' 21 chemin du plantey, Gradignan'
   rsvp_limit: 25
   rsvp_count: 25
 - title: Agile Bordeaux 18.1
@@ -1309,6 +1366,7 @@
     address: 23 avenue de Léonard de Vinci
     city: PESSAC
     country: France
+  location: 23 avenue de Léonard de Vinci, PESSAC
   rsvp_count: 35
 - title: Club de lecture de novembre
   date: '2017-11-08T19:00:00'
@@ -1325,6 +1383,7 @@
     address: 4 Cours Pasteur
     city: Bordeaux
     country: France
+  location: 4 Cours Pasteur, Bordeaux
   rsvp_count: 3
 - title: 'PODOJO Bordeaux #02'
   date: '2017-10-05T19:00:00'
@@ -1364,6 +1423,7 @@
     address: 23 chemin de marticot
     city: cestas
     country: France
+  location: 23 chemin de marticot, cestas
   rsvp_limit: 25
   rsvp_count: 23
 - title: Coaching Dojo 17.3
@@ -1385,6 +1445,7 @@
     address: Immeuble grand angle, 25 avenue Perie
     city: Bruges
     country: France
+  location: Immeuble grand angle, 25 avenue Perie, Bruges
   rsvp_limit: 25
   rsvp_count: 22
 - title: Club de lecture de juin
@@ -1403,6 +1464,7 @@
     address: 4 Cours Pasteur
     city: Bordeaux
     country: France
+  location: 4 Cours Pasteur, Bordeaux
   rsvp_count: 6
 - title: Coaching Dojo 17.2
   date: '2017-06-17T09:00:00'
@@ -1424,6 +1486,7 @@
     address: Immeuble grand angle, 25 avenue Perie
     city: Bruges
     country: France
+  location: Immeuble grand angle, 25 avenue Perie, Bruges
   rsvp_limit: 28
   rsvp_count: 28
 - title: 1er PODOJO Bordeaux
@@ -1457,6 +1520,7 @@
     address: 38B Allée de Mégévie, 33170 Gradignan
     city: Gradignan
     country: France
+  location: 38B Allée de Mégévie, 33170 Gradignan, Gradignan
   rsvp_limit: 25
   rsvp_count: 23
 - title: Agile Bordeaux 17.1
@@ -1479,6 +1543,7 @@
     address: 27 Avenue de la Poterie
     city: Gradignan
     country: France
+  location: 27 Avenue de la Poterie, Gradignan
   rsvp_limit: 50
   rsvp_count: 28
 - title: Club de lecture d'Avril
@@ -1496,6 +1561,7 @@
     address: 14 Bis Rue Duffour Dubergier, Bordeaux
     city: Bordeaux
     country: France
+  location: 14 Bis Rue Duffour Dubergier, Bordeaux, Bordeaux
   rsvp_limit: 8
   rsvp_count: 4
 - title: Club de lecture de Février
@@ -1514,6 +1580,7 @@
     address: 14 Bis Rue Duffour Dubergier, Bordeaux
     city: Bordeaux
     country: France
+  location: 14 Bis Rue Duffour Dubergier, Bordeaux, Bordeaux
   rsvp_limit: 8
   rsvp_count: 8
 - title: Coaching Dojo 17.1
@@ -1533,6 +1600,7 @@
     address: 13 Avenue Neil Armstrong, 33700 Mérignac
     city: Bordeaux
     country: France
+  location: 13 Avenue Neil Armstrong, 33700 Mérignac, Bordeaux
   rsvp_limit: 14
   rsvp_count: 14
 - title: Club de lecture de Décembre
@@ -1552,6 +1620,7 @@
     address: 14 Bis Rue Duffour Dubergier
     city: Bordeaux
     country: France
+  location: 14 Bis Rue Duffour Dubergier, Bordeaux
   rsvp_limit: 10
   rsvp_count: 5
 - title: Agile Bordeaux 16.3
@@ -1580,6 +1649,7 @@
     address: 38B Allée Megevie
     city: gradignan
     country: France
+  location: 38B Allée Megevie, gradignan
   rsvp_limit: 50
   rsvp_count: 40
 - title: (Lean) Startup (Agile) night - inscription sur le groupe Lean Startup Bordeaux
@@ -1609,6 +1679,7 @@
     address: 26 rue Esprit des Lois
     city: Bordeaux
     country: France
+  location: 26 rue Esprit des Lois, Bordeaux
   rsvp_limit: 1
   rsvp_count: 1
 - title: Club de lecture
@@ -1626,6 +1697,7 @@
     address: 14 Bis Rue Duffour Dubergier
     city: Bordeaux
     country: France
+  location: 14 Bis Rue Duffour Dubergier, Bordeaux
   rsvp_count: 3
 - title: Coaching Dojo 16.2
   date: '2016-04-30T09:30:00'
@@ -1650,6 +1722,7 @@
     address: Avenue René Cassin
     city: MERIGNAC
     country: France
+  location: Avenue René Cassin, MERIGNAC
   rsvp_limit: 20
   rsvp_count: 18
 - title: Club de Lecture
@@ -1667,6 +1740,7 @@
     address: 4 Cours Pasteur
     city: Bordeaux
     country: France
+  location: 4 Cours Pasteur, Bordeaux
   rsvp_count: 10
 - title: Agile Bordeaux 16.2
   date: '2016-03-29T18:30:00'
@@ -1679,6 +1753,7 @@
     address: 140, avenue du 11 Novembre
     city: Blanquefort
     country: France
+  location: 140, avenue du 11 Novembre, Blanquefort
   rsvp_count: 43
 - title: Coaching Dojo 16.1
   date: '2016-01-30T09:30:00'
@@ -1698,6 +1773,7 @@
     address: Avenue René Cassin
     city: MERIGNAC
     country: France
+  location: Avenue René Cassin, MERIGNAC
   rsvp_limit: 20
   rsvp_count: 19
 - title: Club de Lecture "What's Next?"
@@ -1715,6 +1791,7 @@
     address: 4 Cours Pasteur
     city: Bordeaux
     country: France
+  location: 4 Cours Pasteur, Bordeaux
   rsvp_count: 10
 - title: Agile Bordeaux 16.1 (ce qui était le ScrumWine)
   date: '2016-01-12T18:30:00'
@@ -1746,4 +1823,5 @@
     address: 18 rue Sainte Colombe
     city: Bordeaux
     country: France
+  location: 18 rue Sainte Colombe, Bordeaux
   rsvp_count: 37

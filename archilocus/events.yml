@@ -14,6 +14,7 @@
     address: 17 Quai Louis XVIII
     city: Bordeaux
     country: France
+  location: 17 Quai Louis XVIII, Bordeaux
   rsvp_count: 30
 - title: BOF Archilocus à Devoxx France (présentiel Paris)
   date: '2024-04-18T20:00:00'
@@ -29,6 +30,7 @@
     address: 2 Pl. de la Prte Maillot
     city: Paris
     country: France
+  location: 2 Pl. de la Prte Maillot, Paris
   rsvp_count: 5
 - title: 'Archilocus #12 DDD'
   date: '2024-03-14T18:00:00'
@@ -55,6 +57,7 @@
     address: 87 Quai des Queyries
     city: Bordeaux
     country: France
+  location: 87 Quai des Queyries, Bordeaux
   rsvp_count: 28
 - title: 'Archilocus Session #10 - API'
   date: '2023-10-12T18:00:00'
@@ -85,6 +88,7 @@
     address: 44 All. de Tourny
     city: Bordeaux
     country: France
+  location: 44 All. de Tourny, Bordeaux
   rsvp_count: 38
 - title: 'Archilocus Session #8'
   date: '2023-03-30T17:00:00'
@@ -126,6 +130,7 @@
     address: 208 Quai de Paludate
     city: Bordeaux
     country: France
+  location: 208 Quai de Paludate, Bordeaux
   rsvp_count: 9
 - title: Le printemps d'Archilocus
   date: '2022-05-19T17:00:00'
@@ -159,6 +164,7 @@
     address: 44 All. de Tourny
     city: Bordeaux
     country: France
+  location: 44 All. de Tourny, Bordeaux
   rsvp_count: 41
 - title: 'Session #2'
   date: '2021-09-23T16:00:00'

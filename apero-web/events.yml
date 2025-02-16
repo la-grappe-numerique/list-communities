@@ -9,13 +9,14 @@
     Pensez à rejoindre le groupe pour ne pas râter les news !
     🙏 On a besoin de vous pour réunir toutes les personnes qui font le web à Bordeaux et créer un afterwork au top :1️⃣ Partagez & likez ce post2️⃣ Tagguez vos collègues/amis/connaissances qui travaillent dans le web
     On compte sur vous ! 🤩
-  community: apéro-web
+  community: apero-web
   is_online: false
   venue:
     name: Wash Bar
     address: 39 Rue Ausone
     city: Bordeaux
     country: France
+  location: 39 Rue Ausone, Bordeaux
   rsvp_count: 65
 - title: 'Apéro Web #2'
   date: '2024-09-24T19:00:00'
@@ -28,13 +29,14 @@
     Pensez à rejoindre le groupe pour ne pas râter les news !
     🙏 On a besoin de vous pour réunir toutes les personnes qui font le web à Bordeaux et créer un afterwork au top :1️⃣ Partagez & likez ce post2️⃣ Tagguez vos collègues/amis/connaissances qui travaillent dans le web
     On compte sur vous ! 🤩
-  community: apéro-web
+  community: apero-web
   is_online: false
   venue:
     name: Radisson Blu
     address: 63 Rue Lucien Faure Dock G6
     city: Bordeaux
     country: France
+  location: 63 Rue Lucien Faure Dock G6, Bordeaux
   rsvp_count: 45
 - title: 🆕 L'Apéro Web débarque à Bordeaux ! 🥳
   date: '2024-07-03T19:00:00'
@@ -48,11 +50,12 @@
     Pensez à rejoindre le groupe pour ne pas râter les news !
     🙏 On a **besoin de vous** pour réunir toutes les personnes qui font le web à Bordeaux et créer un afterwork au top : **partagez ce groupe** autour de vous, à vos collègues, vos amis et vos connaissances !
     **On compte sur vous ! 🤩**
-  community: apéro-web
+  community: apero-web
   is_online: false
   venue:
     name: Gargalou Bordeaux
     address: 118 Quai de Bacalan
     city: Bordeaux
     country: France
+  location: 118 Quai de Bacalan, Bordeaux
   rsvp_count: 67

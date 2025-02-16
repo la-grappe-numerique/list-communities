@@ -11,6 +11,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 33
 - title: 'Cap sur le Web : Les Navigateurs, Explorateurs du Numérique'
   date: '2025-02-06T19:00:00'
@@ -28,6 +29,7 @@
     address: 2 Rue Marc Sangnier
     city: Bègles
     country: France
+  location: 2 Rue Marc Sangnier, Bègles
   rsvp_count: 35
 - title: TalkIT Tour Bordeaux - Web Workers & Clean Code
   date: '2024-10-10T18:30:00'
@@ -45,6 +47,7 @@
     address: 68 Rue Achard
     city: Bordeaux
     country: France
+  location: 68 Rue Achard, Bordeaux
   rsvp_limit: 1
   rsvp_count: 1
 - title: VueJS au musée
@@ -63,6 +66,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_limit: 70
   rsvp_count: 11
 - title: 'IA générative en action : intégrez les LLM dans vos applications !'
@@ -79,6 +83,7 @@
     address: 68 Rue Achard
     city: Bordeaux
     country: France
+  location: 68 Rue Achard, Bordeaux
   rsvp_limit: 50
   rsvp_count: 26
 - title: Angular change de logo mais pas !
@@ -96,6 +101,7 @@
     address: 2 Rue Marc Sangnier
     city: Bègles
     country: France
+  location: 2 Rue Marc Sangnier, Bègles
   rsvp_count: 28
 - title: La refonte du site France Bleu, une aventure pleine de rebondissements
   date: '2023-09-21T19:00:00'
@@ -115,6 +121,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_count: 39
 - title: Le Starter dont je suis le héros !
   date: '2023-07-11T19:00:00'
@@ -134,6 +141,7 @@
     address: 13 Rue des Cordeliers
     city: Bordeaux
     country: France
+  location: 13 Rue des Cordeliers, Bordeaux
   rsvp_count: 31
 - title: Next.js, module fédération et les 10 travaux d'un reconverti !
   date: '2023-06-20T19:00:00'
@@ -151,6 +159,7 @@
     address: 1 Cr Xavier Arnozan
     city: Bordeaux
     country: France
+  location: 1 Cr Xavier Arnozan, Bordeaux
   rsvp_count: 40
 - title: Introduction à SvelteKit
   date: '2023-05-22T18:30:00'
@@ -171,6 +180,7 @@
     address: 44 All. de Tourny
     city: Bordeaux
     country: France
+  location: 44 All. de Tourny, Bordeaux
   rsvp_count: 26
 - title: Comprendre les stores Svelte
   date: '2023-04-13T19:00:00'
@@ -191,6 +201,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 21
 - title: 'N''écoutez pas twitter: GraphQL, c''est de nouveau cool!'
   date: '2023-04-05T19:00:00'
@@ -208,6 +219,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_count: 32
 - title: Élevez le niveau de vos revues de code !
   date: '2023-03-15T19:00:00'
@@ -227,6 +239,7 @@
     address: 13 Rue des Cordeliers
     city: Bordeaux
     country: France
+  location: 13 Rue des Cordeliers, Bordeaux
   rsvp_count: 72
 - title: Migrer de React à Svelte, un exemple pratique
   date: '2023-03-01T19:00:00'
@@ -243,6 +256,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_count: 27
 - title: Manuel de sabotage du partage de connaissances
   date: '2023-02-23T19:00:00'
@@ -266,6 +280,7 @@
     address: 26 Rue Esprit des Lois
     city: Bordeaux
     country: France
+  location: 26 Rue Esprit des Lois, Bordeaux
   rsvp_count: 22
 - title: Apprendre Svelte... et kiffer sa race !
   date: '2023-01-11T19:00:00'
@@ -286,6 +301,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 35
 - title: Eco-conception numérique & Vite nouveau bundler (feat. Women In Tech Bordeaux)
   date: '2022-12-13T19:00:00'
@@ -308,6 +324,7 @@
     address: 26 Rue Esprit des Lois
     city: Bordeaux
     country: France
+  location: 26 Rue Esprit des Lois, Bordeaux
   rsvp_count: 31
 - title: Standalone componant, le futur d'Angular ? & Accepter la différence dans la tech
   date: '2022-12-06T19:00:00'
@@ -329,6 +346,7 @@
     address: 17 Quai Louis XVIII
     city: Bordeaux
     country: France
+  location: 17 Quai Louis XVIII, Bordeaux
   rsvp_count: 19
 - title: 'Typescript FullStack : L''écosystème TS pour gérer votre application'
   date: '2022-11-08T19:00:00'
@@ -348,6 +366,7 @@
     address: 11 Pl. de la Frm Richemont
     city: Bordeaux
     country: France
+  location: 11 Pl. de la Frm Richemont, Bordeaux
   rsvp_count: 60
 - title: Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)
   date: '2022-10-18T19:00:00'
@@ -368,6 +387,7 @@
     address: 5 Rue de Condé
     city: Bordeaux
     country: France
+  location: 5 Rue de Condé, Bordeaux
   rsvp_count: 23
 - title: Apprivoise les web composants avec StencilJS
   date: '2022-10-13T19:00:00'
@@ -385,6 +405,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 24
 - title: 'Back to Basics : Space Invaders en live coding'
   date: '2022-09-20T19:00:00'
@@ -401,6 +422,7 @@
     address: 171 Rue Lucien Faure
     city: Bordeaux
     country: France
+  location: 171 Rue Lucien Faure, Bordeaux
   rsvp_count: 24
 - title: Svelte, ou pourquoi je ne veux plus faire de React
   date: '2022-06-14T19:00:00'
@@ -417,6 +439,7 @@
     address: 13 Rue des Cordeliers
     city: Bordeaux
     country: France
+  location: 13 Rue des Cordeliers, Bordeaux
   rsvp_count: 48
 - title: React dans tous ses états
   date: '2022-05-25T19:00:00'
@@ -433,6 +456,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 45
 - title: (dé)coder l'écosystème Cypress
   date: '2022-04-20T19:00:00'
@@ -450,6 +474,7 @@
     address: 3 Rue Parlement Sainte-Catherine
     city: Bordeaux
     country: France
+  location: 3 Rue Parlement Sainte-Catherine, Bordeaux
   rsvp_limit: 40
   rsvp_count: 35
 - title: 'Micro-frontends : les usages, contraintes et solutions'
@@ -468,6 +493,7 @@
     address: 2 Rue Marc Sangnier
     city: Bègles
     country: France
+  location: 2 Rue Marc Sangnier, Bègles
   rsvp_limit: 65
   rsvp_count: 62
 - title: '[LIVE] Des channels Go en JS ? Inutile donc indispensable !'
@@ -515,6 +541,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 57
 - title: HIGHWAY TO ELM!
   date: '2019-11-05T19:15:00'
@@ -536,6 +563,7 @@
     address: 107 Cr Balguerie Stuttenberg
     city: Bordeaux
     country: France
+  location: 107 Cr Balguerie Stuttenberg, Bordeaux
   rsvp_count: 56
 - title: Les mains dans le cambouis avec WebAssembly
   date: '2019-09-17T19:00:00'
@@ -555,6 +583,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 43
 - title: Un Backend For Frontend & Je n'ai rien compris à Redux
   date: '2019-07-01T19:00:00'
@@ -574,6 +603,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 45
 - title: Back to Basics - Ne perdez plus votre Temps avec les Dates
   date: '2019-04-11T19:00:00'
@@ -595,6 +625,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 30
 - title: REX - Création d'une webapp B2C utilisée par plus d'un million d'utilisateurs
   date: '2019-01-23T19:00:00'
@@ -613,6 +644,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 60
   rsvp_count: 60
 - title: Atelier - Renforcer sa pratique de NodeJS
@@ -633,6 +665,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_count: 41
 - title: Delivering Fast and Beautiful Images and Video
   date: '2018-10-17T19:00:00'
@@ -651,6 +684,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 60
   rsvp_count: 45
 - title: 'Babel 7 : Nouveautés, babel-preset-env, etc.'
@@ -670,6 +704,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 50
   rsvp_count: 50
 - title: 'PWA & Angular 6 : Live coding'
@@ -688,6 +723,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 60
   rsvp_count: 47
 - title: 'D3.js : Data-Driven Documents'
@@ -703,6 +739,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 40
   rsvp_count: 36
 - title: 'Redux-Saga : Présentation & Live-Coding '
@@ -718,6 +755,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 40
   rsvp_count: 36
 - title: Aurelia
@@ -733,6 +771,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 40
   rsvp_count: 21
 - title: Migration d'AngularJS vers Angular (Retour d'expérience et atelier)
@@ -748,6 +787,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 30
   rsvp_count: 30
 - title: 'Atelier Nuxt.js: Universal Vue.js Applications '
@@ -763,6 +803,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 25
   rsvp_count: 24
 - title: 'Fable: Le meilleur de JS et de F# à votre service'
@@ -782,6 +823,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 25
   rsvp_count: 8
 - title: AperoJS
@@ -797,6 +839,7 @@
     address: 27 Rue Camille Sauvageau
     city: Bordeaux
     country: France
+  location: 27 Rue Camille Sauvageau, Bordeaux
   rsvp_count: 21
 - title: Logiciel multi-plateforme avec JavaScript
   date: '2017-07-11T19:00:00'
@@ -815,6 +858,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 42
 - title: Atelier découverte Wikidata avec Maxime Lathuilière
   date: '2017-03-25T14:00:00'
@@ -831,6 +875,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 17
 - title: Apéro JS
   date: '2016-12-19T19:00:00'
@@ -849,6 +894,7 @@
     address: 27 Rue Camille Sauvageau
     city: Bordeaux
     country: France
+  location: 27 Rue Camille Sauvageau, Bordeaux
   rsvp_count: 39
 - title: Présentation d'une PIC web et mobile avec Jenkins, Selenium et Docker
   date: '2016-06-10T19:00:00'
@@ -864,6 +910,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 25
 - title: Petit retour d’expérience après 6 mois sur une grosse application React
   date: '2016-04-28T19:00:00'
@@ -883,6 +930,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 37
 - title: Migrer une application React de MObservable vers Redux
   date: '2016-03-31T19:00:00'
@@ -904,6 +952,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 70
   rsvp_count: 14
 - title: 'Extension FirefoxOS: les secrets dévoilés !'
@@ -926,6 +975,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 60
   rsvp_count: 15
 - title: Code of War 2015
@@ -946,6 +996,7 @@
     address: Hangar 20, Quai de Bacalan
     city: Bordeaux
     country: France
+  location: Hangar 20, Quai de Bacalan, Bordeaux
   rsvp_count: 1
 - title: Viens rencontrer React et ses copains
   date: '2015-05-19T19:00:00'
@@ -965,6 +1016,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 63
 - title: Les extensions navigateurs (Firefox et Chrome) for fun and profit
   date: '2015-02-10T19:00:00'
@@ -983,6 +1035,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 36
 - title: CoreOS, et la chaussette de l'ambassadeur
   date: '2014-12-18T19:00:00'
@@ -998,6 +1051,7 @@
     address: 18 rue Gratiolet
     city: Bordeaux
     country: France
+  location: 18 rue Gratiolet, Bordeaux
   rsvp_count: 28
 - title: Atelier ReactJS
   date: '2014-09-27T14:00:00'
@@ -1014,6 +1068,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 30
   rsvp_count: 24
 - title: 'Keep calm and React '
@@ -1031,6 +1086,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 33
 - title: Débroussailler Node.js
   date: '2014-05-20T19:00:00'
@@ -1045,6 +1101,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 65
 - title: AngularJS dans la vraie vie
   date: '2014-04-15T19:00:00'
@@ -1059,6 +1116,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 70
   rsvp_count: 69
 - title: Combiner les services Google pour un meilleur Gmail
@@ -1079,6 +1137,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 12
 - title: Global Day of Code Retreat Bordeaux
   date: '2013-12-14T09:00:00'
@@ -1099,6 +1158,7 @@
     address: 19 rue esprit des lois
     city: Bordeaux
     country: France
+  location: 19 rue esprit des lois, Bordeaux
   rsvp_count: 1
 - title: Soirée Haxe
   date: '2013-11-07T20:30:00'
@@ -1116,6 +1176,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 20
 - title: Code of War
   date: '2013-11-02T10:00:00'
@@ -1133,6 +1194,7 @@
     address: 85 rue du jardin publique
     city: Bordeaux
     country: France
+  location: 85 rue du jardin publique, Bordeaux
   rsvp_count: 12
 - title: Geek Camp 2013
   date: '2013-09-27T19:00:00'
@@ -1157,6 +1219,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 44
 - title: Soirée des techniciens du numérique
   date: '2013-09-12T18:30:00'
@@ -1175,6 +1238,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 24
 - title: IDE et Javascript ?
   date: '2013-05-02T19:00:00'
@@ -1187,6 +1251,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 17
 - title: Garbage Collection et Asynchronous Patterns in JS
   date: '2013-04-18T19:00:00'
@@ -1205,6 +1270,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 34
 - title: Faisons discuter d3.js et ElasticSearch
   date: '2013-03-14T19:00:00'
@@ -1220,6 +1286,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 27
 - title: jQuery sans jQuery
   date: '2013-02-07T19:00:00'
@@ -1234,6 +1301,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 26
 - title: 'BordeauxJS #2'
   date: '2012-12-06T19:00:00'
@@ -1249,6 +1317,7 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_count: 25
 - title: 'BordeauxJS #1'
   date: '2012-10-31T19:00:00'
@@ -1264,5 +1333,6 @@
     address: 12 rue des faussets
     city: Bordeaux
     country: France
+  location: 12 rue des faussets, Bordeaux
   rsvp_limit: 20
   rsvp_count: 19

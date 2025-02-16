@@ -12,6 +12,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2026-01-05T18:30:00'
@@ -27,6 +28,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2025-12-01T18:30:00'
@@ -42,6 +44,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2025-11-03T18:30:00'
@@ -57,6 +60,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2025-10-06T18:30:00'
@@ -72,6 +76,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2025-09-01T18:30:00'
@@ -87,6 +92,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2025-08-04T18:30:00'
@@ -102,6 +108,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2025-07-07T18:30:00'
@@ -117,6 +124,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2025-06-02T18:30:00'
@@ -132,6 +140,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2025-05-05T18:30:00'
@@ -147,6 +156,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2025-04-07T18:30:00'
@@ -162,6 +172,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
 - title: Coding dojo
   date: '2025-03-03T18:30:00'
@@ -177,6 +188,7 @@
     address: 9 Rue de Condé
     city: Bordeaux
     country: France
+  location: 9 Rue de Condé, Bordeaux
   rsvp_limit: 15
   rsvp_count: 5
 - title: Redonner du corps au métier avec la programmation fonctionnelle
@@ -190,6 +202,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 80
   rsvp_count: 42
 - title: Geek Camp 2019
@@ -208,6 +221,7 @@
     address: Le Bourg
     city: 47700 Ruffiac
     country: France
+  location: Le Bourg, 47700 Ruffiac
   rsvp_limit: 42
   rsvp_count: 12
 - title: Coding dojo
@@ -226,6 +240,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 13
 - title: DDD stratégique, ou le minimum à savoir sur le sujet pour tout projet
   date: '2019-05-28T19:00:00'
@@ -240,6 +255,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 90
   rsvp_count: 73
 - title: Apéro Okiwi
@@ -253,6 +269,7 @@
     address: 27 Rue Rode
     city: Bordeaux
     country: France
+  location: 27 Rue Rode, Bordeaux
   rsvp_count: 11
 - title: Coding dojo
   date: '2019-05-06T18:30:00'
@@ -270,6 +287,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 10
 - title: Tu ne sais rien de la qualité logicielle, JonSnow, DSI à MarcheurBlancConsulting
   date: '2019-04-16T19:00:00'
@@ -285,6 +303,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 75
   rsvp_count: 64
 - title: Apéro Okiwi
@@ -298,6 +317,7 @@
     address: 15 Rue Rode, 33000 Bordeaux
     city: Bordeaux
     country: France
+  location: 15 Rue Rode, 33000 Bordeaux, Bordeaux
   rsvp_count: 1
 - title: Coding dojo
   date: '2019-04-01T18:30:00'
@@ -315,6 +335,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 11
 - title: Software craftsmanship ? Back to basics
   date: '2019-03-19T19:00:00'
@@ -332,6 +353,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 75
   rsvp_count: 65
 - title: Coding dojo
@@ -350,6 +372,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 7
 - title: Apéro Okiwi
   date: '2019-02-26T19:00:00'
@@ -362,6 +385,7 @@
     address: 15 Rue Rode, 33000 Bordeaux
     city: Bordeaux
     country: France
+  location: 15 Rue Rode, 33000 Bordeaux, Bordeaux
   rsvp_count: 5
 - title: Le Test-driven-development (TDD) dans une app Javascript et React
   date: '2019-02-19T19:00:00'
@@ -379,6 +403,7 @@
     address: 12 Rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 Rue des Faussets, Bordeaux
   rsvp_limit: 75
   rsvp_count: 72
 - title: Réunion d’organisation Agile Tour Bordeaux 2019
@@ -394,6 +419,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 20
   rsvp_count: 6
 - title: Coding dojo
@@ -412,6 +438,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 6
 - title: Apéro Okiwi
   date: '2019-01-30T19:00:00'
@@ -424,6 +451,7 @@
     address: 15 Rue Rode, 33000 Bordeaux
     city: Bordeaux
     country: France
+  location: 15 Rue Rode, 33000 Bordeaux, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2019-01-07T18:30:00'
@@ -441,6 +469,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 10
 - title: Apéro de Noël
   date: '2018-12-13T18:00:00'
@@ -453,6 +482,7 @@
     address: 28 rue latour, 33300
     city: Bordeaux
     country: France
+  location: 28 rue latour, 33300, Bordeaux
   rsvp_count: 7
 - title: Coding dojo
   date: '2018-12-03T18:30:00'
@@ -470,6 +500,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 10
 - title: Apéro Okiwi
   date: '2018-11-19T19:00:00'
@@ -482,6 +513,7 @@
     address: 15 Rue Rode, 33000 Bordeaux
     city: Bordeaux
     country: France
+  location: 15 Rue Rode, 33000 Bordeaux, Bordeaux
   rsvp_count: 5
 - title: Global Day of Code Retreat 2018
   date: '2018-11-17T08:45:00'
@@ -502,6 +534,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 23
   rsvp_count: 19
 - title: Code & Coffee
@@ -517,6 +550,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Coding dojo
   date: '2018-11-05T18:30:00'
@@ -534,6 +568,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 10
 - title: Code & Coffee
   date: '2018-10-31T07:45:00'
@@ -548,6 +583,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-10-24T07:45:00'
@@ -562,6 +598,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2018-10-17T07:45:00'
@@ -576,6 +613,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Apéro Okiwi
   date: '2018-10-15T19:00:00'
@@ -588,6 +626,7 @@
     address: 27 Rue Rode
     city: Bordeaux
     country: France
+  location: 27 Rue Rode, Bordeaux
   rsvp_count: 11
 - title: Code & Coffee
   date: '2018-10-10T07:45:00'
@@ -602,6 +641,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
 - title: Code & Coffee
   date: '2018-10-03T07:45:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbfb/
@@ -615,6 +655,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Coding dojo
   date: '2018-10-01T18:30:00'
@@ -632,6 +673,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 4
 - title: Code & Coffee
   date: '2018-09-26T07:45:00'
@@ -646,6 +688,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
 - title: Code & Coffee
   date: '2018-09-19T07:45:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxmbzb/
@@ -659,6 +702,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Geek Camp 2018
   date: '2018-09-14T17:00:00'
@@ -676,6 +720,7 @@
     address: Le Bourg
     city: 47700 Ruffiac
     country: France
+  location: Le Bourg, 47700 Ruffiac
   rsvp_limit: 42
   rsvp_count: 17
 - title: Code & Coffee
@@ -691,6 +736,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-09-05T07:45:00'
@@ -705,6 +751,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Coding dojo
   date: '2018-09-03T18:30:00'
@@ -722,6 +769,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 9
 - title: Code & Coffee
   date: '2018-08-29T07:45:00'
@@ -736,6 +784,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2018-08-22T07:45:00'
@@ -750,6 +799,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-08-15T07:45:00'
@@ -764,6 +814,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Apéro Okiwi
   date: '2018-08-13T19:00:00'
@@ -776,6 +827,7 @@
     address: 27 Rue Rode
     city: Bordeaux
     country: France
+  location: 27 Rue Rode, Bordeaux
   rsvp_count: 8
 - title: Code & Coffee
   date: '2018-08-08T07:45:00'
@@ -790,6 +842,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Coding dojo
   date: '2018-08-06T18:30:00'
@@ -807,6 +860,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 16
 - title: Code & Coffee
   date: '2018-08-01T07:45:00'
@@ -821,6 +875,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2018-07-25T07:45:00'
@@ -835,6 +890,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-07-18T07:45:00'
@@ -849,6 +905,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Apéro Okiwi
   date: '2018-07-16T19:00:00'
@@ -861,6 +918,7 @@
     address: 27 Rue Rode
     city: Bordeaux
     country: France
+  location: 27 Rue Rode, Bordeaux
   rsvp_count: 10
 - title: Code & Coffee
   date: '2018-07-11T07:45:00'
@@ -875,6 +933,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-07-04T07:45:00'
@@ -889,6 +948,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2018-06-27T07:45:00'
@@ -903,6 +963,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-06-20T07:45:00'
@@ -917,6 +978,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-06-13T07:45:00'
@@ -931,6 +993,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-06-06T07:45:00'
@@ -945,6 +1008,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Coding dojo
   date: '2018-06-04T18:30:00'
@@ -962,6 +1026,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
 - title: Code & Coffee
   date: '2018-05-30T07:45:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbnc/
@@ -975,6 +1040,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2018-05-23T07:45:00'
@@ -989,6 +1055,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2018-05-16T07:45:00'
@@ -1003,6 +1070,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-05-09T07:45:00'
@@ -1017,6 +1085,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Coding dojo
   date: '2018-05-07T18:30:00'
@@ -1034,6 +1103,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 6
 - title: Code & Coffee
   date: '2018-05-02T07:45:00'
@@ -1048,6 +1118,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-04-25T07:45:00'
@@ -1062,6 +1133,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2018-04-18T07:45:00'
@@ -1076,6 +1148,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: AG Okiwi 2018
   date: '2018-04-12T18:00:00'
@@ -1088,6 +1161,7 @@
     address: 28 rue latour, 33300
     city: Bordeaux
     country: France
+  location: 28 rue latour, 33300, Bordeaux
   rsvp_count: 12
 - title: Code & Coffee
   date: '2018-04-11T07:45:00'
@@ -1102,6 +1176,7 @@
     address: 18 rue Gratiolet
     city: Bordeaux
     country: France
+  location: 18 rue Gratiolet, Bordeaux
   rsvp_count: 6
 - title: Préparation de l'Agile Tour Bordeaux 2018
   date: '2018-04-05T19:00:00'
@@ -1116,6 +1191,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 9
 - title: Code & Coffee
   date: '2018-04-04T07:45:00'
@@ -1130,6 +1206,7 @@
     address: 18 rue Gratiolet
     city: Bordeaux
     country: France
+  location: 18 rue Gratiolet, Bordeaux
   rsvp_count: 3
 - title: Coding dojo
   date: '2018-04-02T18:30:00'
@@ -1147,6 +1224,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 7
 - title: Code & Coffee
   date: '2018-03-28T07:45:00'
@@ -1161,6 +1239,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2018-03-21T07:45:00'
@@ -1175,6 +1254,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2018-03-14T07:45:00'
@@ -1189,6 +1269,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Préparation de l'Agile Tour 2018
   date: '2018-03-08T19:00:00'
@@ -1205,6 +1286,7 @@
     address: '83 Quai Chartrons 33300 '
     city: Bordeaux
     country: France
+  location: 83 Quai Chartrons 33300 , Bordeaux
   rsvp_count: 9
 - title: Code & Coffee
   date: '2018-03-07T07:45:00'
@@ -1219,6 +1301,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2018-03-05T18:30:00'
@@ -1236,6 +1319,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 9
 - title: Code & Coffee
   date: '2018-02-28T07:45:00'
@@ -1250,6 +1334,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2018-02-21T07:45:00'
@@ -1264,6 +1349,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-02-14T07:45:00'
@@ -1278,6 +1364,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 4
 - title: Code & Coffee découverte F#
   date: '2018-02-07T07:45:00'
@@ -1290,6 +1377,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Coding dojo
   date: '2018-02-05T18:30:00'
@@ -1307,6 +1395,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 11
 - title: Code & Coffee
   date: '2018-01-31T07:45:00'
@@ -1321,6 +1410,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2018-01-24T07:45:00'
@@ -1335,6 +1425,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2018-01-17T07:45:00'
@@ -1349,6 +1440,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Totalement typé
   date: '2018-01-15T19:00:00'
@@ -1365,6 +1457,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_limit: 35
   rsvp_count: 10
 - title: Code & Coffee
@@ -1380,6 +1473,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2018-01-03T07:45:00'
@@ -1394,6 +1488,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2017-12-27T07:45:00'
@@ -1408,6 +1503,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2017-12-20T07:45:00'
@@ -1422,6 +1518,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
 - title: Code & Coffee
   date: '2017-12-13T07:45:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywqbrb/
@@ -1435,6 +1532,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2017-12-06T07:45:00'
@@ -1449,6 +1547,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2017-11-29T07:45:00'
@@ -1463,6 +1562,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2017-11-22T07:45:00'
@@ -1477,6 +1577,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Global Day of Code Retreat 2017
   date: '2017-11-18T08:45:00'
@@ -1494,6 +1595,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 21
   rsvp_count: 20
 - title: Find My CTO
@@ -1512,6 +1614,7 @@
     address: 137 Rue Achard
     city: Bordeaux
     country: France
+  location: 137 Rue Achard, Bordeaux
   rsvp_count: 25
 - title: Code & Coffee
   date: '2017-11-15T07:45:00'
@@ -1526,6 +1629,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2017-11-08T07:45:00'
@@ -1540,6 +1644,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Bug free, by design, par Johan Martinsson
   date: '2017-11-07T18:45:00'
@@ -1555,6 +1660,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_limit: 40
   rsvp_count: 34
 - title: Coding dojo
@@ -1573,6 +1679,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 12
 - title: Code & Coffee
   date: '2017-11-01T07:45:00'
@@ -1587,6 +1694,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
 - title: Code & Coffee
   date: '2017-10-25T07:45:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywnbhc/
@@ -1600,6 +1708,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2017-10-18T07:45:00'
@@ -1614,6 +1723,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2017-10-11T07:45:00'
@@ -1628,6 +1738,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2017-10-04T07:45:00'
@@ -1642,6 +1753,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Coding dojo
   date: '2017-10-02T18:30:00'
@@ -1659,6 +1771,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 6
 - title: Code & Coffee
   date: '2017-09-27T07:45:00'
@@ -1673,6 +1786,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Retour d'XP et perspectives sur le développement de projets Open Source
   date: '2017-09-21T19:00:00'
@@ -1696,6 +1810,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 18
 - title: Code & Coffee
   date: '2017-09-20T07:45:00'
@@ -1710,6 +1825,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2017-09-13T07:45:00'
@@ -1724,6 +1840,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
 - title: Geek Camp 2017
   date: '2017-09-08T17:00:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/238953527/
@@ -1740,6 +1857,7 @@
     address: Le Bourg
     city: 47700 Ruffiac
     country: France
+  location: Le Bourg, 47700 Ruffiac
   rsvp_limit: 42
   rsvp_count: 31
 - title: Code & Coffee
@@ -1755,6 +1873,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 4
 - title: Security workshop
   date: '2017-09-04T19:00:00'
@@ -1786,6 +1905,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 20
   rsvp_count: 4
 - title: Code & Coffee
@@ -1801,6 +1921,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2017-08-23T07:45:00'
@@ -1815,6 +1936,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Security workshop
   date: '2017-08-21T19:00:00'
@@ -1846,6 +1968,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 20
   rsvp_count: 5
 - title: Code & Coffee
@@ -1861,6 +1984,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2017-08-09T07:45:00'
@@ -1875,6 +1999,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Code & Coffee
   date: '2017-08-02T07:45:00'
@@ -1889,6 +2014,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Types, Domain Driven Design en Javascript avec Node
   date: '2017-07-27T18:45:00'
@@ -1907,6 +2033,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 15
 - title: Code & Coffee
   date: '2017-07-26T07:45:00'
@@ -1921,6 +2048,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 1
 - title: Security workshop
   date: '2017-07-24T19:00:00'
@@ -1952,6 +2080,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 20
   rsvp_count: 5
 - title: Code & Coffee
@@ -1967,6 +2096,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 6
 - title: Code & Coffee
   date: '2017-07-12T07:45:00'
@@ -1981,6 +2111,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Security workshop
   date: '2017-07-10T19:00:00'
@@ -2012,6 +2143,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 20
 - title: Code & Coffee
   date: '2017-07-05T07:45:00'
@@ -2026,6 +2158,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2017-06-28T07:45:00'
@@ -2040,6 +2173,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: TDD & Event Sourcing dans la vraie vie
   date: '2017-06-26T18:45:00'
@@ -2055,6 +2189,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 39
 - title: Code & Coffee
   date: '2017-06-21T07:45:00'
@@ -2069,6 +2204,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 5
 - title: Code & Coffee
   date: '2017-06-14T07:45:00'
@@ -2083,6 +2219,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 4
 - title: Découverte du langage F#
   date: '2017-06-13T19:00:00'
@@ -2100,6 +2237,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 30
   rsvp_count: 17
 - title: Security workshop
@@ -2132,6 +2270,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 20
   rsvp_count: 11
 - title: Code & Coffee
@@ -2147,6 +2286,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 6
 - title: Coding dojo
   date: '2017-06-05T18:30:00'
@@ -2164,6 +2304,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 6
 - title: Code & Coffee
   date: '2017-05-31T07:45:00'
@@ -2178,6 +2319,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 5
 - title: Security workshop
   date: '2017-05-29T19:00:00'
@@ -2209,6 +2351,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 20
   rsvp_count: 8
 - title: Code & Coffee
@@ -2224,6 +2367,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 5
 - title: CQRS, Fonctionnel, Event Sourcing & Domain Driven Design
   date: '2017-05-23T18:45:00'
@@ -2240,6 +2384,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_limit: 65
   rsvp_count: 62
 - title: Code & Coffee
@@ -2255,6 +2400,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
 - title: Code & Coffee
   date: '2017-05-10T07:45:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbnb/
@@ -2268,6 +2414,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2017-05-03T07:45:00'
@@ -2282,6 +2429,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Coding dojo
   date: '2017-05-02T18:30:00'
@@ -2299,6 +2447,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 9
 - title: Coding dojo
   date: '2017-05-02T18:30:00'
@@ -2316,6 +2465,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 2
 - title: Code & Coffee
   date: '2017-04-26T07:45:00'
@@ -2330,6 +2480,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 2
 - title: Find My CTO
   date: '2017-04-19T18:00:00'
@@ -2347,6 +2498,7 @@
     address: 137 Rue Achard
     city: Bordeaux
     country: France
+  location: 137 Rue Achard, Bordeaux
   rsvp_count: 13
 - title: Code & Coffee
   date: '2017-04-19T07:45:00'
@@ -2361,6 +2513,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2017-04-12T07:45:00'
@@ -2375,6 +2528,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 4
 - title: Soirée DDD et plus avec Cyrille Martraire
   date: '2017-04-10T19:30:00'
@@ -2387,6 +2541,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 30
   rsvp_count: 28
 - title: Code & Coffee
@@ -2402,6 +2557,7 @@
     address: 41 Rue du Château d'Eau
     city: Bordeaux
     country: France
+  location: 41 Rue du Château d'Eau, Bordeaux
   rsvp_count: 5
 - title: AG Okiwi
   date: '2017-04-04T19:30:00'
@@ -2414,6 +2570,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 8
 - title: Code & Coffee
   date: '2017-03-29T07:45:00'
@@ -2428,6 +2585,7 @@
     address: 6 Bis Cours du 30 Juillet
     city: Bordeaux
     country: France
+  location: 6 Bis Cours du 30 Juillet, Bordeaux
   rsvp_count: 2
 - title: Coding dojo
   date: '2017-03-27T18:30:00'
@@ -2445,6 +2603,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 6
 - title: Code & Coffee
   date: '2017-03-22T07:45:00'
@@ -2459,6 +2618,7 @@
     address: 6 Bis Cours du 30 Juillet
     city: Bordeaux
     country: France
+  location: 6 Bis Cours du 30 Juillet, Bordeaux
   rsvp_count: 1
 - title: 'Réunion organisation Agile Tour 2017 #2'
   date: '2017-03-15T19:00:00'
@@ -2473,6 +2633,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 13
 - title: Code & Coffee
   date: '2017-03-15T07:45:00'
@@ -2487,6 +2648,7 @@
     address: 6 Bis Cours du 30 Juillet
     city: Bordeaux
     country: France
+  location: 6 Bis Cours du 30 Juillet, Bordeaux
   rsvp_count: 4
 - title: Coding dojo
   date: '2017-03-13T18:30:00'
@@ -2504,6 +2666,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 4
 - title: Code & Coffee
   date: '2017-03-08T07:45:00'
@@ -2518,6 +2681,7 @@
     address: 6 Bis Cours du 30 Juillet
     city: Bordeaux
     country: France
+  location: 6 Bis Cours du 30 Juillet, Bordeaux
   rsvp_count: 3
 - title: Code & Coffee
   date: '2017-03-01T07:45:00'
@@ -2532,6 +2696,7 @@
     address: 6 Bis Cours du 30 Juillet
     city: Bordeaux
     country: France
+  location: 6 Bis Cours du 30 Juillet, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2017-02-27T18:30:00'
@@ -2549,6 +2714,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Code & Coffee
   date: '2017-02-22T07:45:00'
@@ -2563,6 +2729,7 @@
     address: Cours Víctor Hugo
     city: Bordeaux
     country: France
+  location: Cours Víctor Hugo, Bordeaux
   rsvp_count: 5
 - title: Kick-off Agile Tour 2017
   date: '2017-02-16T19:00:00'
@@ -2577,6 +2744,7 @@
     address: '83 Quai Chartrons 33300 '
     city: Bordeaux
     country: France
+  location: 83 Quai Chartrons 33300 , Bordeaux
   rsvp_count: 11
 - title: Coding dojo
   date: '2017-02-13T18:30:00'
@@ -2594,6 +2762,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2017-01-23T18:30:00'
@@ -2611,6 +2780,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2017-01-09T18:30:00'
@@ -2628,6 +2798,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 9
 - title: Coding dojo
   date: '2016-12-26T18:30:00'
@@ -2645,6 +2816,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 3
 - title: Coding dojo
   date: '2016-12-12T18:30:00'
@@ -2662,6 +2834,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 8
 - title: Coding dojo
   date: '2016-11-28T18:30:00'
@@ -2679,6 +2852,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 12
 - title: Coding dojo
   date: '2016-11-14T18:30:00'
@@ -2696,6 +2870,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 9
 - title: Coding dojo
   date: '2016-10-24T18:30:00'
@@ -2713,6 +2888,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 7
 - title: Global Day of Code Retreat 2016
   date: '2016-10-22T08:45:00'
@@ -2730,6 +2906,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_limit: 23
   rsvp_count: 23
 - title: Coding dojo
@@ -2748,6 +2925,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Geek Camp 2016
   date: '2016-09-09T17:00:00'
@@ -2766,6 +2944,7 @@
     address: Le Bourg
     city: 47700 Ruffiac
     country: France
+  location: Le Bourg, 47700 Ruffiac
   rsvp_limit: 30
   rsvp_count: 29
 - title: Coding dojo
@@ -2784,6 +2963,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2016-08-08T18:30:00'
@@ -2801,6 +2981,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 6
 - title: Coding dojo
   date: '2016-07-25T18:30:00'
@@ -2818,6 +2999,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 9
 - title: Coding dojo
   date: '2016-07-11T18:30:00'
@@ -2835,6 +3017,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 1
 - title: Coding dojo
   date: '2016-06-27T18:30:00'
@@ -2852,6 +3035,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2016-06-13T18:30:00'
@@ -2869,6 +3053,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 4
 - title: Coding dojo
   date: '2016-05-23T18:30:00'
@@ -2886,6 +3071,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 4
 - title: Assemblée Générale d'Okiwi
   date: '2016-05-09T20:30:00'
@@ -2898,6 +3084,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 4
 - title: Coding dojo
   date: '2016-05-09T18:30:00'
@@ -2915,6 +3102,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2016-04-25T18:30:00'
@@ -2932,6 +3120,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 9
 - title: Coding dojo
   date: '2016-04-11T18:30:00'
@@ -2949,6 +3138,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 4
 - title: Coding dojo
   date: '2016-03-28T18:30:00'
@@ -2966,6 +3156,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 3
 - title: Coding dojo
   date: '2016-03-14T18:30:00'
@@ -2983,6 +3174,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2016-02-22T18:30:00'
@@ -3000,6 +3192,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2016-02-08T18:30:00'
@@ -3017,6 +3210,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 4
 - title: Late Coding Dojo
   date: '2016-02-02T21:30:00'
@@ -3034,6 +3228,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 4
 - title: Coding dojo
   date: '2016-01-25T18:30:00'
@@ -3051,6 +3246,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2016-01-11T18:30:00'
@@ -3068,6 +3264,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 2
 - title: Coding dojo
   date: '2015-12-28T18:30:00'
@@ -3085,6 +3282,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 1
 - title: Coding dojo
   date: '2015-12-14T18:30:00'
@@ -3102,6 +3300,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2015-11-23T18:30:00'
@@ -3119,6 +3318,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 10
 - title: Coding dojo
   date: '2015-11-09T18:30:00'
@@ -3136,6 +3336,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 5
 - title: Coding dojo
   date: '2015-10-26T18:30:00'
@@ -3153,6 +3354,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 4
 - title: Coding dojo
   date: '2015-10-12T18:30:00'
@@ -3170,6 +3372,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
 - title: Coding dojo
   date: '2015-09-28T18:30:00'
   url: https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytmblc/
@@ -3186,6 +3389,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 7
 - title: Programmation fonctionnelle, retours d'expériences, Elastic Search & Docker
   date: '2015-09-23T13:45:00'
@@ -3208,6 +3412,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 5
 - title: Programmation fonctionnelle, retours d'expériences, Elastic Search & Docker
   date: '2015-09-23T01:45:00'
@@ -3230,6 +3435,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 15
 - title: Geek Camp Week End
   date: '2015-09-18T19:00:00'
@@ -3246,6 +3452,7 @@
     address: Le Bourg
     city: 47700 Ruffiac
     country: France
+  location: Le Bourg, 47700 Ruffiac
   rsvp_count: 2
 - title: Coding dojo
   date: '2015-09-14T18:30:00'
@@ -3263,6 +3470,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 3
 - title: Coding dojo
   date: '2015-08-24T18:30:00'
@@ -3280,6 +3488,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 6
 - title: Coding dojo
   date: '2015-08-10T18:30:00'
@@ -3297,6 +3506,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 13
 - title: Coding dojo
   date: '2015-07-27T18:30:00'
@@ -3314,6 +3524,7 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 13
 - title: Coding dojo
   date: '2015-07-13T18:30:00'
@@ -3331,4 +3542,5 @@
     address: 9 rue de Condé
     city: Bordeaux
     country: France
+  location: 9 rue de Condé, Bordeaux
   rsvp_count: 7

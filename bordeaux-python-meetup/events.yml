@@ -13,6 +13,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 38
 - title: Bordeaux Python Meetup 2024
   date: '2024-06-06T18:30:00'
@@ -29,6 +30,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 41
 - title: Conférence francophone Python 2023 à Bordeaux
   date: '2023-02-16T09:00:00'
@@ -44,6 +46,7 @@
     address: ''
     city: Talence
     country: France
+  location: ', Talence'
   rsvp_count: 14
 - title: 'Afpyro : apéro Python (Okiwi hosted)'
   date: '2019-08-06T19:00:00'
@@ -62,6 +65,7 @@
     address: 15 Rue Rode
     city: Bordeaux
     country: France
+  location: 15 Rue Rode, Bordeaux
   rsvp_count: 8
 - title: Retour expérience S3 / Hadoop
   date: '2018-11-22T19:30:00'
@@ -80,6 +84,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 14
 - title: 'Django Girls Bordeaux: After Session'
   date: '2018-05-02T19:30:00'
@@ -106,6 +111,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_limit: 35
   rsvp_count: 11
 - title: Django Girls Bordeaux (permanence mensuelle)
@@ -129,6 +135,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 18
 - title: 'Python Bordeaux #8 : Visualisation de données'
   date: '2018-03-01T19:30:00'
@@ -147,6 +154,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_limit: 50
   rsvp_count: 49
 - title: Django Girls Bordeaux (permanence mensuelle)
@@ -170,6 +178,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 26
 - title: Django Girls Bordeaux (permanence mensuelle)
   date: '2018-01-24T19:30:00'
@@ -192,6 +201,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 16
 - title: Django Girls Bordeaux (permanence mensuelle)
   date: '2017-12-13T19:30:00'
@@ -223,6 +233,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 18
 - title: Django Girls Bordeaux (permanence mensuelle)
   date: '2017-11-15T19:30:00'
@@ -252,6 +263,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 20
 - title: Django Girls Bordeaux (permanence mensuelle)
   date: '2017-07-12T19:30:00'
@@ -281,6 +293,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 14
 - title: Django Girls Bordeaux (permanence mensuelle)
   date: '2017-06-06T19:30:00'
@@ -310,6 +323,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 12
 - title: Django Girls Bordeaux (permanence mensuelle)
   date: '2017-05-04T19:30:00'
@@ -339,6 +353,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 9
 - title: Django Girls Bordeaux after session DGBdx#4
   date: '2017-03-30T19:30:00'
@@ -367,6 +382,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 17
 - title: 'Python Bordeaux #7 : données géospatiales'
   date: '2017-03-23T19:00:00'
@@ -385,6 +401,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 19
 - title: Django Girls Bordeaux (permanence mensuelle)
   date: '2017-02-14T19:00:00'
@@ -412,6 +429,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 16
 - title: 'Python Bordeaux #6 : microservices et luigi'
   date: '2017-01-17T19:30:00'
@@ -432,6 +450,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 30
 - title: Django Girls Bordeaux (permanence mensuelle)
   date: '2017-01-10T19:30:00'
@@ -459,6 +478,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 13
 - title: Django Girls Bordeaux (permanence mensuelle)
   date: '2016-12-07T19:30:00'
@@ -488,6 +508,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 14
 - title: Django Girls Bordeaux
   date: '2016-11-16T19:30:00'
@@ -511,6 +532,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 22
 - title: 'Python Bordeaux #5: Panda et la fouille de données'
   date: '2016-11-09T19:00:00'
@@ -531,6 +553,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 36
 - title: 'Python Bordeaux #4'
   date: '2016-06-29T19:00:00'
@@ -551,6 +574,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 25
 - title: 'Python Bordeaux #3'
   date: '2016-05-24T19:00:00'
@@ -569,6 +593,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 27
 - title: 'Python Bordeaux #2'
   date: '2016-03-09T19:00:00'
@@ -587,6 +612,7 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 26
 - title: 'Python Bordeaux #1'
   date: '2016-02-04T18:30:00'
@@ -608,4 +634,5 @@
     address: 12 rue des Faussets
     city: Bordeaux
     country: France
+  location: 12 rue des Faussets, Bordeaux
   rsvp_count: 22

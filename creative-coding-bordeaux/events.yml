@@ -16,6 +16,7 @@
     address: 20 Rue Saint-François
     city: Bordeaux
     country: France
+  location: 20 Rue Saint-François, Bordeaux
   rsvp_limit: 10
   rsvp_count: 10
 - title: 'Playground #4 - Creative Coding'
@@ -36,6 +37,7 @@
     address: 20 Rue Saint-François
     city: Bordeaux
     country: France
+  location: 20 Rue Saint-François, Bordeaux
   rsvp_limit: 41
   rsvp_count: 29
 - title: Atelier livecoding sonore
@@ -56,6 +58,7 @@
     address: 20 Rue Saint-François
     city: Bordeaux
     country: France
+  location: 20 Rue Saint-François, Bordeaux
   rsvp_limit: 7
   rsvp_count: 7
 - title: 'Playground #3 - Creative Coding'
@@ -76,6 +79,7 @@
     address: 20 Rue Saint-François
     city: Bordeaux
     country: France
+  location: 20 Rue Saint-François, Bordeaux
   rsvp_limit: 41
   rsvp_count: 41
 - title: 'Playground #2 - Creative Coding'
@@ -96,6 +100,7 @@
     address: 44 Rue Barreyre
     city: Bordeaux
     country: France
+  location: 44 Rue Barreyre, Bordeaux
   rsvp_limit: 41
   rsvp_count: 38
 - title: 'Playground #1 - Creative Coding'
@@ -118,5 +123,6 @@
     address: 20 Rue Saint-François
     city: Bordeaux
     country: France
+  location: 20 Rue Saint-François, Bordeaux
   rsvp_limit: 41
   rsvp_count: 41
