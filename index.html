@@ -17,15 +17,87 @@
     <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
     
     <style>
-        #calendar {
-            background-color: white;
+        /* Isolation du calendrier */
+        .calendar-container {
+            /* Reset des styles Docsify */
+            all: initial;
+            /* Conteneur */
+            display: block;
+            background: white;
             padding: 20px;
             margin: 20px 0;
-            min-height: 600px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-        
-        .fc .fc-toolbar-title {
+
+        /* Reset spécifique pour le calendrier */
+        .calendar-container * {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            box-sizing: border-box;
+        }
+
+        /* Ajustements spécifiques pour FullCalendar */
+        .calendar-container .fc {
+            max-width: 100%;
+            min-height: 600px;
+            background: white;
+        }
+
+        /* Reset des styles Docsify pour les boutons */
+        .calendar-container .fc .fc-button {
+            display: inline-block;
+            font-weight: 400;
+            text-align: center;
+            vertical-align: middle;
+            user-select: none;
+            padding: 0.375rem 0.75rem;
+            font-size: 1rem;
+            line-height: 1.5;
+            border-radius: 0.25rem;
+            transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+        }
+
+        /* Styles des boutons */
+        .calendar-container .fc .fc-button-primary {
+            background-color: #2c3e50;
+            border-color: #2c3e50;
+        }
+
+        .calendar-container .fc .fc-button-primary:not(:disabled):hover {
+            background-color: #1a252f;
+            border-color: #1a252f;
+        }
+
+        /* Styles du titre */
+        .calendar-container .fc .fc-toolbar-title {
             font-size: 1.5em;
+            font-weight: 500;
+        }
+
+        /* Styles des événements */
+        .calendar-container .fc-event {
+            border: none;
+            padding: 2px 4px;
+            background-color: #e3f2fd;
+            border-left: 3px solid #2196f3;
+            color: #1976d2 !important;
+            margin: 1px 0;
+        }
+
+        /* Styles des cellules */
+        .calendar-container .fc-daygrid-day {
+            min-height: 50px;
+        }
+
+        /* Styles pour la vue liste */
+        .calendar-container .fc-list-event {
+            cursor: pointer;
+        }
+
+        /* Reset des styles pour les liens dans les événements */
+        .calendar-container .fc-event-title {
+            color: inherit;
+            text-decoration: none;
         }
     </style>
 </head>
@@ -50,7 +122,10 @@
             plugins: [
                 function(hook) {
                     hook.doneEach(function() {
-                        if (document.getElementById('calendar')) {
+                        const calendarEl = document.getElementById('calendar');
+                        if (calendarEl) {
+                            // Ajouter le conteneur d'isolation
+                            calendarEl.className = 'calendar-container';
                             loadCalendar();
                         }
                     });
@@ -61,7 +136,6 @@
         function loadCalendar() {
             const calendarEl = document.getElementById('calendar');
             
-            // Configuration de base du calendrier
             const calendar = new FullCalendar.Calendar(calendarEl, {
                 initialView: 'listMonth',
                 headerToolbar: {
@@ -71,7 +145,14 @@
                 },
                 locale: 'fr',
                 height: 'auto',
-                firstDay: 1
+                firstDay: 1,
+                eventDidMount: function(info) {
+                    // Ajouter les informations dans le tooltip
+                    const title = info.event.title;
+                    const community = info.event.extendedProps.community;
+                    const location = info.event.extendedProps.location;
+                    info.el.title = `${title}\nCommunauté: ${community || 'N/A'}\nLieu: ${location || 'N/A'}`;
+                }
             });
 
             // Chargement des événements
@@ -90,10 +171,7 @@
                     }));
 
                     calendar.addEventSource({
-                        events: formattedEvents,
-                        failure: function(error) {
-                            console.error('Error loading events:', error);
-                        }
+                        events: formattedEvents
                     });
 
                     calendar.render();
