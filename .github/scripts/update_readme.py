@@ -25,7 +25,12 @@ class ReadmeUpdater:
 
     def format_date_for_display(self, date: datetime) -> str:
         """Format date for display in markdown with day name and month name"""
-        return date.strftime('%A %d %B %Y à %H:%M')
+        # Get French locale
+        locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
+        # Format with French locale
+        formatted = date.strftime('%A %d %B %Y à %H:%M')
+        # Ensure first letter is uppercase
+        return formatted[0].upper() + formatted[1:]
 
     def get_future_events(self, events: List[Dict]) -> List[Dict]:
         """Filter and sort future events"""
