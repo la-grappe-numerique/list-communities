@@ -24,27 +24,123 @@
     <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
     <link rel="icon"
         href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🍷</text></svg>" />
-    <!-- YAML Parser -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    <!-- FullCalendar CSS -->
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.5/main.min.css' rel='stylesheet' />
 </head>
 
 <body>
-    <noscript>This page requires JavaScript to work, please enable it or just read it on <a
-            href="https://github.com/la-grappe-numerique/list-communities">Here</a>.</noscript>
     <div id="app">Loading...</div>
     <script>
         window.$docsify = {
             name: 'La Grappe Numerique',
             repo: 'la-grappe-numerique/list-communities',
             homepage: 'https://raw.githubusercontent.com/la-grappe-numerique/list-communities/main/README.md',
-            search: ['/']
+            search: ['/'],
+            plugins: [
+                function(hook) {
+                    hook.afterEach(function(html) {
+                        if (html.includes('<!-- calendar-container -->')) {
+                            // Initialize calendar after page render
+                            hook.doneEach(function() {
+                                initializeCalendar();
+                            });
+                        }
+                        return html;
+                    });
+                }
+            ]
         }
     </script>
+    <!-- Docsify -->
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+    
+    <!-- YAML Parser -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    
+    <!-- FullCalendar JS -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.5/main.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/5.11.5/locales/fr.min.js'></script>
+
+    <!-- Calendar Initialization Script -->
+    <script>
+        function initializeCalendar() {
+            const calendarEl = document.getElementById('calendar');
+            if (!calendarEl) return;
+
+            // Fonction pour charger les événements
+            async function loadEvents() {
+                try {
+                    const response = await fetch('all_events.yml');
+                    const yamlText = await response.text();
+                    const events = jsyaml.load(yamlText);
+                    
+                    return events.map(event => ({
+                        title: event.title,
+                        start: event.date,
+                        url: event.url,
+                        extendedProps: {
+                            community: event.community,
+                            location: event.location,
+                            isOnline: event.is_online
+                        },
+                        backgroundColor: getEventColor(event.community)
+                    }));
+                } catch (error) {
+                    console.error('Erreur lors du chargement des événements:', error);
+                    return [];
+                }
+            }
+
+            // Fonction pour générer une couleur unique par communauté
+            function getEventColor(community) {
+                let hash = 0;
+                for (let i = 0; i < community.length; i++) {
+                    hash = community.charCodeAt(i) + ((hash << 5) - hash);
+                }
+                const hue = Math.abs(hash % 360);
+                return `hsl(${hue}, 70%, 50%)`;
+            }
+
+            const calendar = new FullCalendar.Calendar(calendarEl, {
+                initialView: 'dayGridMonth',
+                headerToolbar: {
+                    left: 'prev,next today',
+                    center: 'title',
+                    right: 'dayGridMonth,timeGridWeek,listMonth'
+                },
+                locale: 'fr',
+                firstDay: 1,
+                navLinks: true,
+                eventTimeFormat: {
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    hour12: false
+                },
+                eventClick: function(info) {
+                    info.jsEvent.preventDefault();
+                    const event = info.event;
+                    const props = event.extendedProps;
+                    
+                    alert(`
+                        ${event.title}
+                        📅 ${new Date(event.start).toLocaleString('fr-FR')}
+                        🏢 ${props.community}
+                        📍 ${props.location}
+                        ${props.isOnline ? '💻 Événement en ligne' : ''}
+                        
+                        🔗 ${event.url}
+                    `);
+                },
+                events: loadEvents
+            });
+
+            calendar.render();
+        }
+    </script>
+
     <!-- Umami tag -->
     <script async src="https://eu.umami.is/script.js" data-website-id="6f0cde0a-0f58-4d0f-877c-31d35a7642ee"></script>
-    <!-- End of Umami tag -->
 </body>
 
 </html>

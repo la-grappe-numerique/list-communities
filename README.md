@@ -69,7 +69,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](./events.ics ':ign
 
 ## 📅 Calendrier des événements
 
-[calendar](calendar.md ':include')
+<div id="calendar" style="margin: 20px auto; max-width: 1200px; height: 800px;"></div>
+
+<!-- calendar-container -->
 
 ## 🖥  Carte de visite
 
