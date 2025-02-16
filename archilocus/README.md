@@ -7,6 +7,7 @@
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
+
 <details>
 <summary>2024</summary>
 
@@ -16,6 +17,7 @@
 | 2024-04-18 20:00 | BOF Archilocus à Devoxx France (présentiel Paris) | TBD | https://www.meetup.com/archilocus/events/300304641/ |
 | 2024-03-14 18:00 | Archilocus #12 DDD | Online | https://www.meetup.com/archilocus/events/299358241/ |
 </details>
+
 <details>
 <summary>2023</summary>
 
@@ -27,6 +29,7 @@
 | 2023-03-30 17:00 | Archilocus Session #8 | Online | https://www.meetup.com/archilocus/events/291473012/ |
 | 2023-01-19 17:45 | Archilocus - Session 7 | TBD | https://www.meetup.com/archilocus/events/290155119/ |
 </details>
+
 <details>
 <summary>2022</summary>
 
@@ -37,6 +40,7 @@
 | 2022-05-19 17:00 | Le printemps d'Archilocus | Online | https://www.meetup.com/archilocus/events/285247943/ |
 | 2022-03-10 16:30 | Archilocus online | Online | https://www.meetup.com/archilocus/events/283686786/ |
 </details>
+
 <details>
 <summary>2021</summary>
 
@@ -46,5 +50,4 @@
 | 2021-09-23 16:00 | Session #2 | Online | https://www.meetup.com/archilocus/events/279048057/ |
 | 2021-06-24 14:00 | Archilocus MVP | Online | https://www.meetup.com/archilocus/events/278556971/ |
 </details>
-
 <!-- EVENTS:END -->

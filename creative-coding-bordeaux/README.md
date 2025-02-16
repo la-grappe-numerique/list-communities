@@ -6,6 +6,7 @@
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
+
 <details>
 <summary>2024</summary>
 
@@ -16,6 +17,7 @@
 | 2024-06-20 19:00 | Atelier livecoding sonore | TBD | https://www.meetup.com/creative-coding-bordeaux/events/301525559/ |
 | 2024-02-29 18:30 | Playground #3 - Creative Coding | TBD | https://www.meetup.com/creative-coding-bordeaux/events/299114631/ |
 </details>
+
 <details>
 <summary>2023</summary>
 
@@ -24,5 +26,4 @@
 | 2023-11-30 18:30 | Playground #2 - Creative Coding | TBD | https://www.meetup.com/creative-coding-bordeaux/events/297313242/ |
 | 2023-09-14 18:30 | Playground #1 - Creative Coding | TBD | https://www.meetup.com/creative-coding-bordeaux/events/295328666/ |
 </details>
-
 <!-- EVENTS:END -->

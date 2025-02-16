@@ -6,6 +6,7 @@
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
+
 <details>
 <summary>2024</summary>
 
@@ -19,6 +20,7 @@
 | 2024-03-05 18:30 | 🌟 Seriousgamers Bordeaux : Libérez-vous des dépendances inutiles ! #LERUN ⛓️ | TBD | https://www.meetup.com/seriousgamers-bordeaux/events/299309570/ |
 | 2024-02-06 18:30 | 🦴🔥 Explorons les profondeurs de la langue préhistorique au Conseil de pierre ! | TBD | https://www.meetup.com/seriousgamers-bordeaux/events/298714007/ |
 </details>
+
 <details>
 <summary>2023</summary>
 
@@ -32,6 +34,7 @@
 | 2023-05-02 18:30 | Les émotions aux commandes - LERUN #6 | TBD | https://www.meetup.com/seriousgamers-bordeaux/events/292870423/ |
 | 2023-03-28 18:30 | Devenir les maîtres dans l'art du feedback - LERUN #5 | TBD | https://www.meetup.com/seriousgamers-bordeaux/events/292129611/ |
 </details>
+
 <details>
 <summary>2020</summary>
 
@@ -40,6 +43,7 @@
 | 2020-04-16 18:00 | SERIOUS GAMERS BORDEAUX LELAB#5 : Testons les liberating structures | Online | https://www.meetup.com/seriousgamers-bordeaux/events/269968439/ |
 | 2020-02-05 19:00 | SERIOUS GAMERS BORDEAUX - Pratiquez la Communication Non Violente - LELAB #4 | TBD | https://www.meetup.com/seriousgamers-bordeaux/events/268082169/ |
 </details>
+
 <details>
 <summary>2019</summary>
 
@@ -51,5 +55,4 @@
 | 2019-06-25 19:00 | SERIOUS GAMERS BORDEAUX - LAFABRIK #2 | TBD | https://www.meetup.com/seriousgamers-bordeaux/events/262090300/ |
 | 2019-06-04 19:00 | SERIOUS GAMERS BORDEAUX - 1h30 pour construire un serious game - LAFABRIK #1 | TBD | https://www.meetup.com/seriousgamers-bordeaux/events/261255186/ |
 </details>
-
 <!-- EVENTS:END -->

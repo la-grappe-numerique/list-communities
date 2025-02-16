@@ -6,18 +6,23 @@
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
-| Date | Event | Location | Link ||------|--------|----------|------|| 2025-03-13 18:30 | Scrum ET Kanban - L’alliage résilient de l’amélioration continue de vos produits | TBD | https://www.meetup.com/agile-bordeaux/events/305865751/ || 2025-04-05 10:00 | Club de lecture 25.2 - Petit manuel de résistance contemporaine | TBD | https://www.meetup.com/agile-bordeaux/events/306121267/ |
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| 2025-03-13 18:30 | Scrum ET Kanban - L’alliage résilient de l’amélioration continue de vos produits | TBD | https://www.meetup.com/agile-bordeaux/events/305865751/ |
+| 2025-04-05 10:00 | Club de lecture 25.2 - Petit manuel de résistance contemporaine | TBD | https://www.meetup.com/agile-bordeaux/events/306121267/ |
+
 ## 📆 Past Events
+
 <details>
 <summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 2025-04-05 10:00 | Club de lecture 25.2 - Petit manuel de résistance contemporaine | TBD | https://www.meetup.com/agile-bordeaux/events/306121267/ |
-| 2025-03-13 18:30 | Scrum ET Kanban - L’alliage résilient de l’amélioration continue de vos produits | TBD | https://www.meetup.com/agile-bordeaux/events/305865751/ |
 | 2025-02-15 09:00 | Coaching Dojo 25.1 | TBD | https://www.meetup.com/agile-bordeaux/events/305095745/ |
 | 2025-02-08 10:00 | Club de lecture 25.1 - Nexus | TBD | https://www.meetup.com/agile-bordeaux/events/305223231/ |
 </details>
+
 <details>
 <summary>2024</summary>
 
@@ -38,6 +43,7 @@
 | 2024-01-31 19:00 | Atelier du PO #4 : L'évolution du PO : du tacticien au stratège | Online | https://www.meetup.com/agile-bordeaux/events/298588040/ |
 | 2024-01-13 10:00 | Club de lecture 24.1 - Les livres des vacances | TBD | https://www.meetup.com/agile-bordeaux/events/295798791/ |
 </details>
+
 <details>
 <summary>2023</summary>
 
@@ -54,6 +60,7 @@
 | 2023-02-25 10:00 | Club de lecture 23.2 - Éloge de l'inattendu | TBD | https://www.meetup.com/agile-bordeaux/events/291402181/ |
 | 2023-01-28 10:00 | Club de lecture 23.1 - Ne coupez jamais la poire en deux | TBD | https://www.meetup.com/agile-bordeaux/events/290269432/ |
 </details>
+
 <details>
 <summary>2022</summary>
 
@@ -67,6 +74,7 @@
 | 2022-03-26 10:00 | Club de lecture 22.2 - Vous allez commettre une terrible erreur | TBD | https://www.meetup.com/agile-bordeaux/events/283944840/ |
 | 2022-01-29 10:00 | Club de lecture 22.1 - Team Topologies | TBD | https://www.meetup.com/agile-bordeaux/events/282590209/ |
 </details>
+
 <details>
 <summary>2021</summary>
 
@@ -82,6 +90,7 @@
 | 2021-02-04 18:30 | Découvrir le rôle de Product Owner par la pratique et en aidant les autres. | Online | https://www.meetup.com/agile-bordeaux/events/275710937/ |
 | 2021-01-16 10:00 | Club de lecture 21.1 - La posture juste | Online | https://www.meetup.com/agile-bordeaux/events/274884100/ |
 </details>
+
 <details>
 <summary>2020</summary>
 
@@ -96,6 +105,7 @@
 | 2020-02-22 09:30 | Club de lecture 20.1 - Questionnez Mieux et Gagnez en Leadership | TBD | https://www.meetup.com/agile-bordeaux/events/266947585/ |
 | 2020-01-25 09:00 | Coaching Dojo 20.1 | TBD | https://www.meetup.com/agile-bordeaux/events/266214311/ |
 </details>
+
 <details>
 <summary>2019</summary>
 
@@ -110,6 +120,7 @@
 | 2019-02-02 09:30 | Club de lecture 19.1 - Start With Why | TBD | https://www.meetup.com/agile-bordeaux/events/257027302/ |
 | 2019-01-24 19:00 | Agile Bordeaux 19.1 | TBD | https://www.meetup.com/agile-bordeaux/events/257289336/ |
 </details>
+
 <details>
 <summary>2018</summary>
 
@@ -127,6 +138,7 @@
 | 2018-02-05 19:00 | PODOJO Bordeaux #03 | TBD | https://www.meetup.com/agile-bordeaux/events/246787523/ |
 | 2018-01-25 19:00 | Agile Bordeaux 18.1 | TBD | https://www.meetup.com/agile-bordeaux/events/245813517/ |
 </details>
+
 <details>
 <summary>2017</summary>
 
@@ -143,6 +155,7 @@
 | 2017-02-18 10:00 | Club de lecture de Février | TBD | https://www.meetup.com/agile-bordeaux/events/236603347/ |
 | 2017-01-14 09:00 | Coaching Dojo 17.1 | TBD | https://www.meetup.com/agile-bordeaux/events/235134649/ |
 </details>
+
 <details>
 <summary>2016</summary>
 
@@ -159,5 +172,4 @@
 | 2016-01-16 09:30 | Club de Lecture "What's Next?" | TBD | https://www.meetup.com/agile-bordeaux/events/227364116/ |
 | 2016-01-12 18:30 | Agile Bordeaux 16.1 (ce qui était le ScrumWine) | TBD | https://www.meetup.com/agile-bordeaux/events/227009931/ |
 </details>
-
 <!-- EVENTS:END -->

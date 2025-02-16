@@ -6,15 +6,13 @@
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
-| Date | Event | Location | Link ||------|--------|----------|------|| 2025-02-20 18:30 | Meetup AWS re:Invent re:Cap | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/ |
-## 📆 Past Events
-<details>
-<summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | 2025-02-20 18:30 | Meetup AWS re:Invent re:Cap | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/ |
-</details>
+
+## 📆 Past Events
+
 <details>
 <summary>2024</summary>
 
@@ -22,6 +20,7 @@
 |------|--------|----------|------|
 | 2024-11-14 18:30 | Meetup AWS Bordeaux : Serverless, FinOps, et GenAI | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/304288920/ |
 </details>
+
 <details>
 <summary>2022</summary>
 
@@ -29,6 +28,7 @@
 |------|--------|----------|------|
 | 2022-05-11 19:00 | [Présentiel !] Meetup AWS Bordeaux #8 | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/285568376/ |
 </details>
+
 <details>
 <summary>2021</summary>
 
@@ -50,6 +50,7 @@
 | 2021-01-19 17:00 | AWS re:Invent 20 re:Cap - pour les analystes de données | Online | https://www.meetup.com/bordeaux-amazon-web-services/events/275581425/ |
 | 2021-01-18 17:00 | AWS re:Invent 20 re:Cap - pour les architectes IT | Online | https://www.meetup.com/bordeaux-amazon-web-services/events/275581417/ |
 </details>
+
 <details>
 <summary>2020</summary>
 
@@ -75,6 +76,7 @@
 | 2020-03-25 18:50 | Meetup virtuel AWS #1 - AWS dans l'univers du Gaming | Online | https://www.meetup.com/bordeaux-amazon-web-services/events/269643080/ |
 | 2020-02-06 19:00 | Meetup AWS Bordeaux #7 - @Betclic - Résilience & sécurité sur AWS | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/267721451/ |
 </details>
+
 <details>
 <summary>2019</summary>
 
@@ -86,6 +88,7 @@
 | 2019-05-09 19:30 | Meetup AWS Bordeaux #3 - Les piliers de l'observabilité appliqués au Serverless | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/260941625/ |
 | 2019-02-07 19:30 | Meetup AWS Bordeaux #2 - Implémenter une Skill Alexa en serverless avec AWS | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/258187943/ |
 </details>
+
 <details>
 <summary>2017</summary>
 
@@ -93,5 +96,4 @@
 |------|--------|----------|------|
 | 2017-06-07 19:00 | Meetup AWS Bordeaux #1 | TBD | https://www.meetup.com/bordeaux-amazon-web-services/events/229864331/ |
 </details>
-
 <!-- EVENTS:END -->

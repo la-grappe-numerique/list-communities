@@ -6,6 +6,7 @@
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
+
 <details>
 <summary>2025</summary>
 
@@ -13,6 +14,7 @@
 |------|--------|----------|------|
 | 2025-02-06 18:30 | Meetup MTG:Bordeaux #5 | TBD | https://www.meetup.com/mtg-bordeaux/events/305136888/ |
 </details>
+
 <details>
 <summary>2024</summary>
 
@@ -23,5 +25,4 @@
 | 2024-04-04 18:30 | Meetup MTG:Bordeaux #2 | TBD | https://www.meetup.com/mtg-bordeaux/events/298989875/ |
 | 2024-02-01 18:30 | Lancement du MTG:Bordeaux | TBD | https://www.meetup.com/mtg-bordeaux/events/298066350/ |
 </details>
-
 <!-- EVENTS:END -->

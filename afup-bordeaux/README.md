@@ -6,16 +6,21 @@
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
-| Date | Event | Location | Link ||------|--------|----------|------|| 2025-02-26 19:00 | #57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager | TBD | https://www.meetup.com/bordeaux-php-meetup/events/306119819/ |
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| 2025-02-26 19:00 | #57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager | TBD | https://www.meetup.com/bordeaux-php-meetup/events/306119819/ |
+
 ## 📆 Past Events
+
 <details>
 <summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 2025-02-26 19:00 | #57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager | TBD | https://www.meetup.com/bordeaux-php-meetup/events/306119819/ |
 | 2025-01-22 19:00 | #56: Session lightning talks | TBD | https://www.meetup.com/bordeaux-php-meetup/events/304967965/ |
 </details>
+
 <details>
 <summary>2024</summary>
 
@@ -31,6 +36,7 @@
 | 2024-02-28 19:00 | Meetup PHP #49 : PHP + ChatGPT: let's review a generative feature! | TBD | https://www.meetup.com/bordeaux-php-meetup/events/299041870/ |
 | 2024-01-24 19:00 | Meetup PHP #48 : Xdebug, la lumière au bout du tunnel. Cette fois c'est la bonne | TBD | https://www.meetup.com/bordeaux-php-meetup/events/297836117/ |
 </details>
+
 <details>
 <summary>2023</summary>
 
@@ -44,6 +50,7 @@
 | 2023-04-26 19:00 | Meetup PHP #42 : Domaine Riche vs Domaine Anémique | TBD | https://www.meetup.com/bordeaux-php-meetup/events/292368112/ |
 | 2023-03-16 19:00 | Super-Apéro 2023 | TBD | https://www.meetup.com/bordeaux-php-meetup/events/291960656/ |
 </details>
+
 <details>
 <summary>2022</summary>
 
@@ -53,6 +60,7 @@
 | 2022-05-19 19:30 | Meetup PHP #39 : Quoi de neuf dans Symfony 6.1 ? | TBD | https://www.meetup.com/bordeaux-php-meetup/events/285538975/ |
 | 2022-01-20 19:00 | Meetup PHP (online) #37 : Pipeline Pattern | Online | https://www.meetup.com/bordeaux-php-meetup/events/283045545/ |
 </details>
+
 <details>
 <summary>2021</summary>
 
@@ -60,6 +68,7 @@
 |------|--------|----------|------|
 | 2021-11-04 19:00 | Meetup PHP (online) #37 : PHP Static Code Analysis 101 | Online | https://www.meetup.com/bordeaux-php-meetup/events/281446735/ |
 </details>
+
 <details>
 <summary>2020</summary>
 
@@ -70,6 +79,7 @@
 | 2020-02-19 19:30 | Meetup PHP #34 : Concevoir des applications PHP résilientes en 2020 | TBD | https://www.meetup.com/bordeaux-php-meetup/events/268376150/ |
 | 2020-01-30 19:30 | Meetup PHP #33: Playlist preprogramming, from (almost) nothing to something cool | TBD | https://www.meetup.com/bordeaux-php-meetup/events/267694409/ |
 </details>
+
 <details>
 <summary>2019</summary>
 
@@ -85,6 +95,7 @@
 | 2019-02-28 19:30 | Meetup PHP #26 : DDD, CQ(R)S, Clean Architecture ... dans un framework MVC | TBD | https://www.meetup.com/bordeaux-php-meetup/events/258940449/ |
 | 2019-01-24 19:00 | 2018 est mort, vive 2019 ! Apéro de rentrée  | TBD | https://www.meetup.com/bordeaux-php-meetup/events/257987818/ |
 </details>
+
 <details>
 <summary>2018</summary>
 
@@ -100,6 +111,7 @@
 | 2018-02-27 19:00 | PHP meetup #19 - Recruter vos developpeurs | TBD | https://www.meetup.com/bordeaux-php-meetup/events/247423312/ |
 | 2018-01-12 19:00 | SfPot Afup/Afsy du 12 Janvier 2017 avec Nicolas Grekas | TBD | https://www.meetup.com/bordeaux-php-meetup/events/246405038/ |
 </details>
+
 <details>
 <summary>2017</summary>
 
@@ -115,6 +127,7 @@
 | 2017-03-28 19:00 | PHP Meetup #12: sécurité web | TBD | https://www.meetup.com/bordeaux-php-meetup/events/238404985/ |
 | 2017-03-09 19:00 | Super-Apéro au Frog and Rosbif | TBD | https://www.meetup.com/bordeaux-php-meetup/events/237877972/ |
 </details>
+
 <details>
 <summary>2016</summary>
 
@@ -123,6 +136,7 @@
 | 2016-06-20 19:00 | PHP Meetup #11 : Développement d'applications CLI en PHP | TBD | https://www.meetup.com/bordeaux-php-meetup/events/231557035/ |
 | 2016-02-03 18:30 | PHP Meetup #10 : Haxe pour les développeurs web | TBD | https://www.meetup.com/bordeaux-php-meetup/events/227986634/ |
 </details>
+
 <details>
 <summary>2015</summary>
 
@@ -137,6 +151,7 @@
 | 2015-04-22 19:00 | Lightning talks | TBD | https://www.meetup.com/bordeaux-php-meetup/events/221574381/ |
 | 2015-01-21 18:30 | Scalability & High performance of legacy php application | TBD | https://www.meetup.com/bordeaux-php-meetup/events/219713593/ |
 </details>
+
 <details>
 <summary>2014</summary>
 
@@ -144,5 +159,4 @@
 |------|--------|----------|------|
 | 2014-12-11 18:30 | Meetup PHP: Retour sur le Forum PHP / Domain Driven Design | TBD | https://www.meetup.com/bordeaux-php-meetup/events/218821208/ |
 </details>
-
 <!-- EVENTS:END -->

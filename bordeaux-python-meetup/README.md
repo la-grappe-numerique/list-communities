@@ -6,6 +6,7 @@
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
+
 <details>
 <summary>2024</summary>
 
@@ -14,6 +15,7 @@
 | 2024-12-11 18:30 | Bordeaux Python Meetup 2024.2 | TBD | https://www.meetup.com/py-bdx/events/304470904/ |
 | 2024-06-06 18:30 | Bordeaux Python Meetup 2024 | TBD | https://www.meetup.com/py-bdx/events/300614701/ |
 </details>
+
 <details>
 <summary>2023</summary>
 
@@ -21,6 +23,7 @@
 |------|--------|----------|------|
 | 2023-02-16 09:00 | Conférence francophone Python 2023 à Bordeaux | TBD | https://www.meetup.com/py-bdx/events/289726289/ |
 </details>
+
 <details>
 <summary>2019</summary>
 
@@ -28,6 +31,7 @@
 |------|--------|----------|------|
 | 2019-08-06 19:00 | Afpyro : apéro Python (Okiwi hosted) | TBD | https://www.meetup.com/py-bdx/events/263669824/ |
 </details>
+
 <details>
 <summary>2018</summary>
 
@@ -40,6 +44,7 @@
 | 2018-02-21 19:30 | Django Girls Bordeaux (permanence mensuelle) | TBD | https://www.meetup.com/py-bdx/events/247151241/ |
 | 2018-01-24 19:30 | Django Girls Bordeaux (permanence mensuelle) | TBD | https://www.meetup.com/py-bdx/events/246115013/ |
 </details>
+
 <details>
 <summary>2017</summary>
 
@@ -56,6 +61,7 @@
 | 2017-01-17 19:30 | Python Bordeaux #6 : microservices et luigi | TBD | https://www.meetup.com/py-bdx/events/236606920/ |
 | 2017-01-10 19:30 | Django Girls Bordeaux (permanence mensuelle) | TBD | https://www.meetup.com/py-bdx/events/236098698/ |
 </details>
+
 <details>
 <summary>2016</summary>
 
@@ -69,5 +75,4 @@
 | 2016-03-09 19:00 | Python Bordeaux #2 | TBD | https://www.meetup.com/py-bdx/events/228877726/ |
 | 2016-02-04 18:30 | Python Bordeaux #1 | TBD | https://www.meetup.com/py-bdx/events/228109596/ |
 </details>
-
 <!-- EVENTS:END -->

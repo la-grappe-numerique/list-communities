@@ -7,32 +7,24 @@
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
-| Date | Event | Location | Link ||------|--------|----------|------|| 2025-03-03 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcfbfb/ || 2025-04-07 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcgbkb/ || 2025-05-05 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb/ || 2025-06-02 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb/ || 2025-07-07 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb/ || 2025-08-04 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhclbgb/ || 2025-09-01 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcmbcb/ || 2025-10-06 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb/ || 2025-11-03 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb/ || 2025-12-01 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/ || 2026-01-05 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb/ || 2026-02-02 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/ |
-## 📆 Past Events
-<details>
-<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 2026-02-02 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/ |
-| 2026-01-05 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb/ |
-</details>
-<details>
-<summary>2025</summary>
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| 2025-12-01 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/ |
-| 2025-11-03 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb/ |
-| 2025-10-06 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb/ |
-| 2025-09-01 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcmbcb/ |
-| 2025-08-04 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhclbgb/ |
-| 2025-07-07 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb/ |
-| 2025-06-02 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb/ |
-| 2025-05-05 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb/ |
-| 2025-04-07 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcgbkb/ |
 | 2025-03-03 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcfbfb/ |
-</details>
+| 2025-04-07 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcgbkb/ |
+| 2025-05-05 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb/ |
+| 2025-06-02 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb/ |
+| 2025-07-07 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb/ |
+| 2025-08-04 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhclbgb/ |
+| 2025-09-01 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcmbcb/ |
+| 2025-10-06 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb/ |
+| 2025-11-03 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb/ |
+| 2025-12-01 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/ |
+| 2026-01-05 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb/ |
+| 2026-02-02 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/ |
+
+## 📆 Past Events
+
 <details>
 <summary>2019</summary>
 
@@ -56,6 +48,7 @@
 | 2019-01-30 19:00 | Apéro Okiwi | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/258363851/ |
 | 2019-01-07 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzcbkb/ |
 </details>
+
 <details>
 <summary>2018</summary>
 
@@ -128,6 +121,7 @@
 | 2018-01-10 07:45 | Code & Coffee | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbnb/ |
 | 2018-01-03 07:45 | Code & Coffee | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbfb/ |
 </details>
+
 <details>
 <summary>2017</summary>
 
@@ -210,6 +204,7 @@
 | 2017-01-23 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklywcbfc/ |
 | 2017-01-09 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywcbmb/ |
 </details>
+
 <details>
 <summary>2016</summary>
 
@@ -242,6 +237,7 @@
 | 2016-01-25 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvcbhc/ |
 | 2016-01-11 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvcbpb/ |
 </details>
+
 <details>
 <summary>2015</summary>
 
@@ -263,5 +259,4 @@
 | 2015-07-27 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/ctvmjlytkbkc/ |
 | 2015-07-13 18:30 | Coding dojo | TBD | https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytkbrb/ |
 </details>
-
 <!-- EVENTS:END -->

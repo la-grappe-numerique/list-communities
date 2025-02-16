@@ -6,16 +6,21 @@
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
-| Date | Event | Location | Link ||------|--------|----------|------|| 2025-02-26 19:00 | La gestion d'erreurs en Javascript | TBD | https://www.meetup.com/bordeauxjs/events/306025718/ |
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| 2025-02-26 19:00 | La gestion d'erreurs en Javascript | TBD | https://www.meetup.com/bordeauxjs/events/306025718/ |
+
 ## 📆 Past Events
+
 <details>
 <summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 2025-02-26 19:00 | La gestion d'erreurs en Javascript | TBD | https://www.meetup.com/bordeauxjs/events/306025718/ |
 | 2025-02-06 19:00 | Cap sur le Web : Les Navigateurs, Explorateurs du Numérique | TBD | https://www.meetup.com/bordeauxjs/events/305454697/ |
 </details>
+
 <details>
 <summary>2024</summary>
 
@@ -26,6 +31,7 @@
 | 2024-07-02 19:00 | IA générative en action : intégrez les LLM dans vos applications ! | TBD | https://www.meetup.com/bordeauxjs/events/301711664/ |
 | 2024-05-15 19:00 | Angular change de logo mais pas ! | TBD | https://www.meetup.com/bordeauxjs/events/300720488/ |
 </details>
+
 <details>
 <summary>2023</summary>
 
@@ -42,6 +48,7 @@
 | 2023-02-23 19:00 | Manuel de sabotage du partage de connaissances | TBD | https://www.meetup.com/bordeauxjs/events/291437327/ |
 | 2023-01-11 19:00 | Apprendre Svelte... et kiffer sa race ! | TBD | https://www.meetup.com/bordeauxjs/events/289951483/ |
 </details>
+
 <details>
 <summary>2022</summary>
 
@@ -58,6 +65,7 @@
 | 2022-04-20 19:00 | (dé)coder l'écosystème Cypress | TBD | https://www.meetup.com/bordeauxjs/events/285079633/ |
 | 2022-03-15 19:00 | Micro-frontends : les usages, contraintes et solutions | TBD | https://www.meetup.com/bordeauxjs/events/283791744/ |
 </details>
+
 <details>
 <summary>2020</summary>
 
@@ -67,6 +75,7 @@
 | 2020-04-21 19:00 | [LIVE] Monorepo et JavaScript : à la découverte de NX | Online | https://www.meetup.com/bordeauxjs/events/270063441/ |
 | 2020-02-18 19:00 | Build the future with Typescript and NestJS | TBD | https://www.meetup.com/bordeauxjs/events/267901148/ |
 </details>
+
 <details>
 <summary>2019</summary>
 
@@ -79,6 +88,7 @@
 | 2019-01-23 19:00 | REX - Création d'une webapp B2C utilisée par plus d'un million d'utilisateurs | TBD | https://www.meetup.com/bordeauxjs/events/257338440/ |
 | 2019-01-09 19:00 | Atelier - Renforcer sa pratique de NodeJS | TBD | https://www.meetup.com/bordeauxjs/events/257556822/ |
 </details>
+
 <details>
 <summary>2018</summary>
 
@@ -93,6 +103,7 @@
 | 2018-03-12 19:00 | Migration d'AngularJS vers Angular (Retour d'expérience et atelier) | TBD | https://www.meetup.com/bordeauxjs/events/247770121/ |
 | 2018-01-31 19:00 | Atelier Nuxt.js: Universal Vue.js Applications  | TBD | https://www.meetup.com/bordeauxjs/events/246441425/ |
 </details>
+
 <details>
 <summary>2017</summary>
 
@@ -103,6 +114,7 @@
 | 2017-07-11 19:00 | Logiciel multi-plateforme avec JavaScript | TBD | https://www.meetup.com/bordeauxjs/events/241115309/ |
 | 2017-03-25 14:00 | Atelier découverte Wikidata avec Maxime Lathuilière | TBD | https://www.meetup.com/bordeauxjs/events/238384572/ |
 </details>
+
 <details>
 <summary>2016</summary>
 
@@ -114,6 +126,7 @@
 | 2016-03-31 19:00 | Migrer une application React de MObservable vers Redux | TBD | https://www.meetup.com/bordeauxjs/events/229812115/ |
 | 2016-01-26 19:00 | Extension FirefoxOS: les secrets dévoilés ! | TBD | https://www.meetup.com/bordeauxjs/events/228175588/ |
 </details>
+
 <details>
 <summary>2015</summary>
 
@@ -123,6 +136,7 @@
 | 2015-05-19 19:00 | Viens rencontrer React et ses copains | TBD | https://www.meetup.com/bordeauxjs/events/222488666/ |
 | 2015-02-10 19:00 | Les extensions navigateurs (Firefox et Chrome) for fun and profit | TBD | https://www.meetup.com/bordeauxjs/events/219957981/ |
 </details>
+
 <details>
 <summary>2014</summary>
 
@@ -135,6 +149,7 @@
 | 2014-04-15 19:00 | AngularJS dans la vraie vie | TBD | https://www.meetup.com/bordeauxjs/events/173268102/ |
 | 2014-02-27 19:00 | Combiner les services Google pour un meilleur Gmail | TBD | https://www.meetup.com/bordeauxjs/events/167310502/ |
 </details>
+
 <details>
 <summary>2013</summary>
 
@@ -151,6 +166,7 @@
 | 2013-03-14 19:00 | Faisons discuter d3.js et ElasticSearch | TBD | https://www.meetup.com/bordeauxjs/events/100987982/ |
 | 2013-02-07 19:00 | jQuery sans jQuery | TBD | https://www.meetup.com/bordeauxjs/events/100986622/ |
 </details>
+
 <details>
 <summary>2012</summary>
 
@@ -159,5 +175,4 @@
 | 2012-12-06 19:00 | BordeauxJS #2 | TBD | https://www.meetup.com/bordeauxjs/events/92287382/ |
 | 2012-10-31 19:00 | BordeauxJS #1 | TBD | https://www.meetup.com/bordeauxjs/events/88035462/ |
 </details>
-
 <!-- EVENTS:END -->

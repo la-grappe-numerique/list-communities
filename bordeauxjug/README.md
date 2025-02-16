@@ -7,6 +7,7 @@
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
+
 <details>
 <summary>2025</summary>
 
@@ -15,6 +16,7 @@
 | 2025-02-13 19:00 | Tabby & Continue.dev : la dream team pour un IA coding assistant | TBD | https://www.meetup.com/bordeauxjug/events/306028825/ |
 | 2025-01-16 19:00 | Optimisation des images Docker Java avec Jdeps, Jlink et les layers Docker | TBD | https://www.meetup.com/bordeauxjug/events/305522695/ |
 </details>
+
 <details>
 <summary>2024</summary>
 
@@ -34,6 +36,7 @@
 | 2024-02-15 19:00 | Découvrir le Property Based Testing : De la Théorie à la Pratique avec jqwik | TBD | https://www.meetup.com/bordeauxjug/events/298948411/ |
 | 2024-01-18 19:00 | Generative IA par la pratique : cas concrets  d'un LLM en Java, LangChain4J | TBD | https://www.meetup.com/bordeauxjug/events/298313430/ |
 </details>
+
 <details>
 <summary>2023</summary>
 
@@ -48,6 +51,7 @@
 | 2023-03-13 19:00 | AG 2023 | TBD | https://www.meetup.com/bordeauxjug/events/292117139/ |
 | 2023-02-23 19:00 | JOOQ, joy of SQL | TBD | https://www.meetup.com/bordeauxjug/events/291725364/ |
 </details>
+
 <details>
 <summary>2022</summary>
 
@@ -63,6 +67,7 @@
 | 2022-03-24 19:00 | A GraphQL-based Schema Architecture for Microservices | Online | https://www.meetup.com/bordeauxjug/events/284773930/ |
 | 2022-03-10 19:00 | AG 2022 | TBD | https://www.meetup.com/bordeauxjug/events/284450934/ |
 </details>
+
 <details>
 <summary>2021</summary>
 
@@ -80,6 +85,7 @@
 | 2021-02-18 19:00 | Hibernate in complex projects – Can we be a little faster? | Online | https://www.meetup.com/bordeauxjug/events/276178510/ |
 | 2021-01-21 19:00 | Don't fear outdated caches -- change data capture to the rescue!  | Online | https://www.meetup.com/bordeauxjug/events/275773605/ |
 </details>
+
 <details>
 <summary>2020</summary>
 
@@ -97,6 +103,7 @@
 | 2020-01-23 19:00 | News du support de Kotlin dans Spring ? Et Spring Boot avec GraalVM native | TBD | https://www.meetup.com/bordeauxjug/events/267666612/ |
 | 2020-01-16 19:00 | AG 2020 | TBD | https://www.meetup.com/bordeauxjug/events/267863950/ |
 </details>
+
 <details>
 <summary>2019</summary>
 
@@ -115,6 +122,7 @@
 | 2019-01-17 19:00 | Micronaut puis Flutter | TBD | https://www.meetup.com/bordeauxjug/events/257938877/ |
 | 2019-01-10 19:00 | AG 2019 | TBD | https://www.meetup.com/bordeauxjug/events/257862112/ |
 </details>
+
 <details>
 <summary>2018</summary>
 
@@ -132,6 +140,7 @@
 | 2018-02-15 19:00 | Mettez à profit toutes les fonctionnalités de Kubernetes pour vos microservices | TBD | https://www.meetup.com/bordeauxjug/events/247490956/ |
 | 2018-01-18 19:00 | Soirée Gilded-Rose  | TBD | https://www.meetup.com/bordeauxjug/events/246724353/ |
 </details>
+
 <details>
 <summary>2017</summary>
 
@@ -151,6 +160,7 @@
 | 2017-03-23 19:00 | TypeScript : dès lundi sur votre App Legacy | TBD | https://www.meetup.com/bordeauxjug/events/238356406/ |
 | 2017-01-12 19:00 | Functional web applications with Kotlin and Spring 5 | TBD | https://www.meetup.com/bordeauxjug/events/236351273/ |
 </details>
+
 <details>
 <summary>2016</summary>
 
@@ -169,6 +179,7 @@
 | 2016-02-10 19:00 | Let's React | TBD | https://www.meetup.com/bordeauxjug/events/228464263/ |
 | 2016-01-21 19:00 | Quickie Party | TBD | https://www.meetup.com/bordeauxjug/events/228184140/ |
 </details>
+
 <details>
 <summary>2015</summary>
 
@@ -187,6 +198,7 @@
 | 2015-02-05 19:00 | Lucy in the cloud with Docker | TBD | https://www.meetup.com/bordeauxjug/events/220124167/ |
 | 2015-01-22 19:00 | LP4J, a song of Java, MIDI and websockets | TBD | https://www.meetup.com/bordeauxjug/events/219792716/ |
 </details>
+
 <details>
 <summary>2014</summary>
 
@@ -208,6 +220,7 @@
 | 2014-02-13 19:00 | JavaEE : Apache TomEE | TBD | https://www.meetup.com/bordeauxjug/events/164013362/ |
 | 2014-01-16 19:00 | Java 8 : lambdas, Streams et Collectors, le nouveau visage de l’API Collection | TBD | https://www.meetup.com/bordeauxjug/events/158426962/ |
 </details>
+
 <details>
 <summary>2013</summary>
 
@@ -218,5 +231,4 @@
 | 2013-11-14 19:00 | Jeudi 14 Nov: What's The Fold | TBD | https://www.meetup.com/bordeauxjug/events/148668382/ |
 | 2013-10-17 19:00 | Jeudi 17 Oct: Les lambdas arrivent, mais avez-vous bien compris les Generics ? | TBD | https://www.meetup.com/bordeauxjug/events/143511422/ |
 </details>
-
 <!-- EVENTS:END -->
