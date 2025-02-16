@@ -1,62 +1,91 @@
 name: Add Event
 description: Add a new community event
-title: "[Event]: "
-labels: ["event"]
+title: '[Event]: '
+labels:
+- event
 body:
-  - type: input
-    id: title
-    attributes:
-      label: Event Title
-      description: The name of the event
-      placeholder: "ex: Meetup AWS re:Invent re:Cap"
-    validations:
-      required: true
-  - type: input
-    id: date
-    attributes:
-      label: Event Date
-      description: When will the event take place? (YYYY-MM-DD HH:mm)
-      placeholder: "2025-02-20 18:30"
-    validations:
-      required: true
-  - type: input
-    id: url
-    attributes:
-      label: Event URL
-      description: Link to the event page
-      placeholder: "https://www.meetup.com/..."
-    validations:
-      required: true
-  - type: input
-    id: community
-    attributes:
-      label: Community
-      description: Name of the organizing community
-      placeholder: "aws-bordeaux"
-    validations:
-      required: true
-  - type: input
-    id: location
-    attributes:
-      label: Location
-      description: Where will the event take place?
-      placeholder: "Betclic, 117 Quai de Bacalan, Bordeaux, France"
-    validations:
-      required: true
-  - type: textarea
-    id: description
-    attributes:
-      label: Description
-      description: Event description (supports markdown)
-      placeholder: "Description of the event..."
-    validations:
-      required: false
-  - type: dropdown
-    id: is_online
-    attributes:
-      label: Is this an online event?
-      options:
-        - "No"
-        - "Yes"
-    validations:
-      required: true
+- type: input
+  id: title
+  attributes:
+    label: Event Title
+    description: The name of the event
+    placeholder: 'ex: Meetup AWS re:Invent re:Cap'
+  validations:
+    required: true
+- type: input
+  id: date
+  attributes:
+    label: Event Date
+    description: When will the event take place? (YYYY-MM-DD HH:mm)
+    placeholder: 2025-02-20 18:30
+  validations:
+    required: true
+- type: input
+  id: url
+  attributes:
+    label: Event URL
+    description: Link to the event page
+    placeholder: https://www.meetup.com/...
+  validations:
+    required: true
+- type: dropdown
+  id: community
+  attributes:
+    label: Community
+    description: Select the organizing community
+    options:
+    - afup-bordeaux
+    - agile-bordeaux
+    - agile-tour-bordeaux
+    - apero-web
+    - aquilenet
+    - aquinum
+    - archilocus
+    - aws-bordeaux
+    - bdx-io
+    - bordeaux-python-meetup
+    - bordeauxjs
+    - bordeauxjug
+    - bordeauxkt
+    - cafe-ia
+    - cloud-native-bordeaux
+    - creative-coding-bordeaux
+    - data-for-good
+    - framer-bordeaux
+    - france-design-week-bordeaux
+    - friends-of-figma-bordeaux
+    - human-talks
+    - la-boussole-de-la-tech
+    - le-nom-lieu
+    - mtg-bordeaux
+    - okiwi
+    - openstreetmap-bordeaux
+    - serious-gamers-bordeaux
+    - women-in-tech-bordeaux
+  validations:
+    required: true
+- type: input
+  id: location
+  attributes:
+    label: Location
+    description: Where will the event take place?
+    placeholder: Betclic, 117 Quai de Bacalan, Bordeaux, France
+  validations:
+    required: true
+- type: textarea
+  id: description
+  attributes:
+    label: Description
+    description: Event description (supports markdown)
+    placeholder: Description of the event...
+  validations:
+    required: false
+- type: dropdown
+  id: is_online
+  attributes:
+    label: Is this an online event?
+    options:
+    - 'No'
+    - 'Yes'
+  validations:
+    required: true
