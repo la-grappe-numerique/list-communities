@@ -86,6 +86,7 @@ Merci à tous les contributeurs 🙏
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://akiros.it"><img src="https://avatars.githubusercontent.com/u/1411277?v=4?s=100" width="100px;" alt="clark"/><br /><sub><b>clark</b></sub></a><br /><a href="#doc-clark42" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/abenoit"><img src="https://avatars.githubusercontent.com/u/4036546?v=4?s=100" width="100px;" alt="Amélie"/><br /><sub><b>Amélie</b></sub></a><br /><a href="#doc-abenoit" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
