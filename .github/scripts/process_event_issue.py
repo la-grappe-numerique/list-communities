@@ -6,21 +6,49 @@ from github import Github
 import re
 
 def parse_issue_body(body: str) -> dict:
-    """Parse the issue body form data into a dictionary"""
+    """
+    Parse the issue body form data into a dictionary.
+    Handles markdown content in description field while ensuring proper section boundaries.
+    """
     data = {}
     lines = body.split('\n')
     current_field = None
     current_value = []
     
-    for line in lines:
-        if line.startswith('### '):
+    def is_new_field(line: str) -> bool:
+        """Check if a line is a new field header (starts with ### and is followed by known field)"""
+        known_fields = {'title', 'date', 'url', 'description', 'community', 'location', 'is_online'}
+        if not line.startswith('### '):
+            return False
+        field = line.replace('### ', '').strip().lower().replace(' ', '_')
+        return field in known_fields
+
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        
+        # Check for new field
+        if is_new_field(line):
+            # Save previous field if exists
             if current_field and current_value:
                 data[current_field] = '\n'.join(current_value).strip()
                 current_value = []
+            
+            # Start new field
             current_field = line.replace('### ', '').strip().lower().replace(' ', '_')
-        elif line.strip() and current_field:
-            current_value.append(line.strip())
+        
+        # Handle non-header lines
+        elif line or current_field == 'description':  # Keep empty lines only for description
+            if current_field == 'description':
+                # For description, keep all content including markdown
+                current_value.append(line)
+            elif current_field and not line.startswith('#'):
+                # For other fields, only keep non-header content
+                current_value.append(line)
+            
+        i += 1
     
+    # Save the last field
     if current_field and current_value:
         data[current_field] = '\n'.join(current_value).strip()
     
