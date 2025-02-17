@@ -76,9 +76,14 @@ function loadCalendar() {
     const calendarEl = document.getElementById('calendar');
     let currentPopover = null;
     
+    function getInitialView() {
+        // Considérer mobile si largeur < 768px
+        return window.innerWidth < 768 ? 'listMonth' : 'dayGridMonth';
+    }
+    
     const calendar = new FullCalendar.Calendar(calendarEl, {
         themeSystem: 'bootstrap5',
-        initialView: 'dayGridMonth',
+        initialView: getInitialView(),
         headerToolbar: {
             left: 'prev,next today',
             center: 'title',
@@ -87,6 +92,11 @@ function loadCalendar() {
         locale: 'fr',
         height: 'auto',
         firstDay: 1,
+        windowResize: function(arg) {
+            // Changer la vue quand la taille de la fenêtre change
+            const newView = window.innerWidth < 768 ? 'listMonth' : 'dayGridMonth';
+            calendar.changeView(newView);
+        },
         eventDidMount: function(info) {
             const popover = new bootstrap.Popover(info.el, {
                 title: info.event.title,
@@ -119,7 +129,7 @@ function loadCalendar() {
         }
     });
 
-    // Chargement des événements depuis le fichier JSON
+    // Chargement des événements
     fetch('events.json')
         .then(response => response.json())
         .then(events => {
