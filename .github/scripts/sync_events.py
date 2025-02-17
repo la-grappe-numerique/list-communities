@@ -1,12 +1,10 @@
-import os
-from dataclasses import dataclass
-from datetime import datetime
-from typing import List, Optional, Dict
 import json
-import requests
 from pathlib import Path
-import re
+from datetime import datetime
+import requests
 from bs4 import BeautifulSoup
+from dataclasses import dataclass
+from typing import List, Optional, Dict
 
 @dataclass
 class EventVenue:
@@ -18,7 +16,7 @@ class EventVenue:
 
 @dataclass
 class Event:
-    """Represents a single event"""
+    """Represents a single event with all its details"""
     title: str
     date: datetime
     url: str
@@ -34,7 +32,7 @@ class EventSourceParser:
     
     @staticmethod
     def parse_source_file(file_path: Path, community_name: str) -> Optional[Dict]:
-        """Parse an events_src.json file"""
+        """Parse a community's events_src.json file"""
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -49,11 +47,11 @@ class EventSourceParser:
             return None
 
 class MeetupAPIReader:
-    """Handles reading events from Meetup API"""
+    """Handles reading events from the Meetup API"""
     
     @staticmethod
     def extract_meetup_name_from_url(url: str) -> str:
-        """Extract Meetup group name from URL"""
+        """Extract the Meetup group name from its URL"""
         return url.rstrip('/').split('/')[-1]
     
     @staticmethod
@@ -66,7 +64,7 @@ class MeetupAPIReader:
         return re.sub(r'\n\s*\n', '\n', text).strip()
 
     def get_events(self, url: str, community: str, status: List[str]) -> List[Event]:
-        """Fetch events from Meetup API"""
+        """Fetch events from Meetup API for a given community"""
         group_name = self.extract_meetup_name_from_url(url)
         all_events = []
         
@@ -111,16 +109,14 @@ class MeetupAPIReader:
                 
         return all_events
 
-class EventsManager:
-    """Manages both community-specific and global events"""
+class CommunityEventManager:
+    """Manages event synchronization for individual communities"""
     
     def __init__(self, root_dir: Path):
         self.root_dir = root_dir
-        self.global_events_file = root_dir / 'events.json'
-        self.all_new_events: List[Event] = []
 
     def process_community_folder(self, folder_path: Path):
-        """Process a single community folder"""
+        """Process a single community folder and update its events"""
         community_name = folder_path.name
         source_file = folder_path / 'events_src.json'
         events_file = folder_path / 'events.json'
@@ -134,25 +130,11 @@ class EventsManager:
             
         reader = MeetupAPIReader()
         new_events = reader.get_events(source['url'], community_name, source['status'])
-        self.all_new_events.extend(new_events)
-        
-        existing_events = self.read_existing_events(events_file)
-        self.write_events(events_file, new_events, existing_events)
+        self.write_events(events_file, new_events)
         print(f"Updated events for {community_name}")
 
-    def read_existing_events(self, file_path: Path) -> List[Dict]:
-        """Read existing events from JSON file"""
-        if file_path.exists():
-            try:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    return json.load(f)
-            except Exception as e:
-                print(f"Error reading events file {file_path}: {e}")
-                return []
-        return []
-
-    def write_events(self, file_path: Path, events: List[Event], existing_events: List[Dict]):
-        """Write events to a JSON file"""
+    def write_events(self, file_path: Path, events: List[Event]):
+        """Write events to a JSON file with proper formatting"""
         def format_event(event: Event) -> Dict:
             event_dict = {
                 'title': event.title,
@@ -180,40 +162,21 @@ class EventsManager:
                 
             return event_dict
 
-        new_events = [format_event(event) for event in events]
-        existing_urls = {event['url'] for event in existing_events}
-        unique_new_events = [
-            event for event in new_events
-            if event['url'] not in existing_urls
-        ]
-        
-        all_events = existing_events + unique_new_events
-        all_events.sort(
-            key=lambda x: datetime.fromisoformat(x['date']),
-            reverse=True
-        )
+        formatted_events = [format_event(event) for event in events]
+        formatted_events.sort(key=lambda x: x['date'], reverse=True)
 
         with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(all_events, f, indent=2, ensure_ascii=False)
-
-    def update_global_events(self):
-        """Update the global events file with events from all communities"""
-        existing_global_events = self.read_existing_events(self.global_events_file)
-        self.write_events(self.global_events_file, self.all_new_events, existing_global_events)
-        print("Updated global events file")
+            json.dump(formatted_events, f, indent=2, ensure_ascii=False)
 
     def process_all_communities(self):
-        """Process all community folders and update global events"""
+        """Process all community folders in the root directory"""
         for item in self.root_dir.iterdir():
             if item.is_dir() and not item.name.startswith('.'):
                 self.process_community_folder(item)
-        
-        self.update_global_events()
 
 def main():
-    """Main script execution"""
     root_dir = Path('.')
-    manager = EventsManager(root_dir)
+    manager = CommunityEventManager(root_dir)
     manager.process_all_communities()
 
 if __name__ == "__main__":

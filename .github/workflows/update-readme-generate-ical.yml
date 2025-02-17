@@ -39,6 +39,9 @@ jobs:
       - name: Run iCal generator script
         run: python .github/scripts/generate_ical.py
 
+      - name: Run global events generator
+        run: python .github/scripts/generate_global_events.py
+
       - name: Run README updater script
         env:
           LANG: fr_FR.UTF-8

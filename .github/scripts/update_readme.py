@@ -146,7 +146,7 @@ class ReadmeUpdater:
             print("Global README does not exist.")
             return
 
-        future_events = self.get_future_events(events)[:10]  # Only show next 10 events
+        future_events = self.get_future_events(events)[:3]  # Only show next 3 events
         # Generate events table
         table_lines = [
             "| Date | Community | Event | Location | Link |",
