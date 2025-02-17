@@ -1,0 +1,1013 @@
+[
+  {
+    "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
+    "date": "2025-02-26T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
+    "description": "Pour cet événement on se posera des questions sur la mémoire !Pas de jeux pour renforcer notre mémoire 😛 Certes PHP a 30 ans cette année mais quand même 😛\n**Un talk pour en découvrir plus sur la gestion mémoire en PHP par [Nicolas Perussel](https://www.linkedin.com/in/nicolas-perussel-php/), CTO chez [ekino](https://www.ekino.com/).**\n\\-\\-\\-Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\\-\\-\\-\nLa parole au speakeur 📣\n***\\#\\#\\# Une approche du ZMM \\(Zend Memory Manager\\)****Plongez dans les coulisses de la gestion mémoire en PHP*\n*Avez-vous déjà rencontré des problèmes de mémoire avec vos applications PHP ? Savez-vous vraiment comment PHP gère la mémoire en coulisses ?**Venez découvrir les secrets du Zend Memory Manager, le composant crucial qui gère l'allocation mémoire dans le moteur PHP.**Durant cette session technique, nous explorerons :*\n* *L'architecture interne du Zend Memory Manager et son rôle dans le cycle de vie des scripts PHP** *Les stratégies d'allocation et de libération de mémoire** *L'impact des différentes structures de données sur la consommation mémoire** *Les outils de profilage et de debugging pour traquer les fuites mémoire*\n*C'est relativement dense, mais l'approche restera simple et didactique.**J'espère ne rien avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bordeaux,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le 20 mars, réservez votre soirée dés maintenant !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "rsvp_count": 14
+  },
+  {
+    "title": "#56: Session lightning talks",
+    "date": "2025-01-22T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/304967965/",
+    "description": "Bonne année 🥳\nEnfin pas encore mais quand on se retrouvera le jour de ce meetup ça le sera 😛\nNous l’avons annoncé en septembre, chose promise chose due !⚡️ On va vous mettre des lumières pleins les yeux avec des lightning talks ⚡️️\nRappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿\nLe but est de partager un moment sympa, plein d’échanges tout en buvant une bière (ou tout autre boisson 😉) et en mangeant un bout.**Merci d’apporter de quoi manger et boire tous ensemble !**Cet apéro est l’occasion idéale de rencontrer de nouvelles personnes et d’échanger autour de PHP et son écosystème.\nVoici les ⚡️ talks prévus (ordre non contractuel 😛) :\n* *Julien Vitte, Inside,* est Coach en clean code et nous parlera du sujet **Couplage, cohésion : la face cachée de l’iceberg ?**\n*[Description]*Vous le savez certainement, et si vous ne le saviez pas, maintenant vous le saurez, une bonne architecture logicielle nécessite un couplage le plus faible possible et une cohésion la plus forte possible.Un couplage excessif entre composants signifie que chaque changement dans une partie du système peut avoir des conséquences fâcheuses. Et si la cohésion entre modules est mal pensée, ils deviennent des patchworks de responsabilités, incapables de fonctionner efficacement sans l’aide d’autres composants.Heureusement il existe des indicateurs pour nous monitorer tout ça, le Couplage Between Objects (CBO) ou le Lack of Cohesion in Methods (LCOM4) par exemple, que tout le monde connait et suit au quotidien. Ou pas. D’ailleurs, quels chiffres correspondent aux bons seuils ? Et est-ce que mettre en place une clean onion architecture hexagonale by the book ne serait pas suffisant ?Pour répondre à ces questions, nous avons besoin d’apprendre un nouveau mot...\n* *Andoni* *Larzabal* vient de *Conserto*, se considère lui-même un “average Symfony enjoyer” et viens nous présenter **Refaire la base du composant Clock de Symfony quand on est en 5.4**\n*[Liens]**Linkedin : [https://www.linkedin.com/in/andonilarz/](https://www.linkedin.com/in/andonilarz/)**Bluesky & Twitter : andonilarz.bsky.social & AndoniLarz*\n*[Description]*Le composant Clock de Symfony peut être bien utile pour simuler des cas d’usage ou pour reproduire des bugs dépendants d’une heure ou d’une date. Mais il n’est disponible qu’à partir de Symfony 6.2. Nous allons voir comment facilement et rapidement refaire la base de ce composant quand on travaille encore en Symfony 5.4.\n* *Benjamin Clay*, créateur de code, créateur de *JoliCode,* vient quand à lui nous présenter **Il était une fois le Web - Episode 1 : Les user agents**\n*[Liens]**Bluesky: [https://bsky.app/profile/ternel.bsky.social](https://bsky.app/profile/ternel.bsky.social)*\n*[Description]*Découvrons ensemble l’incroyable évolution de ce header HTTPMerci à nos trois speakers de cette session ! 🫶\nPensez à vous inscrire 😎",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 13
+  },
+  {
+    "title": "#55: J'ai hacké puis contribué à Symfony",
+    "date": "2024-11-20T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/304415496/",
+    "description": "Dernier meetup avant les fêtes déjà !\nC'est l'occasion pour Andoni de nous parler de la contribution dans Symfony !\n*\"Quand j'étais étudiant, j'ai été fasciné par l'open source. Depuis, j'avais l'impression que pour pouvoir entrer dans ce monde et contribuer, il fallait être un utilisateur chevronné de ces produits et un expert du langage qu'ils utilisent.*\n*Si cette impression là vous est familière, je vais vous raconter comment je me suis retrouvé à contribuer à Symfony, et comment je me suis rendu compte que personne n'attend de nous d'être un expert.*\n*Ensemble nous allons voir comment à partir d'un besoin urgent :**\\* J'ai hacké le XmlEncoder de Symfony**\\* Proposé une solution propre**\\* Documenté cette contribution**\\* Préparé ce talk\"*\nCe meetup est sponsorisé par [Conserto](https://conserto.pro/) ! Merci à eux !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 20
+  },
+  {
+    "title": "#54: L'OOP au coeur du templating Symfony - TwigComponent & LiveComponent",
+    "date": "2024-10-30T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/303975250/",
+    "description": "Le [Forum PHP 2024](https://event.afup.org/) est fini !Soyez pas triste, en attendant la rediffusion en ligne des différents speakers, nous avons le plaisir d'accueillir Félix ! Il vient nous présenter le talk qu'il vient de présenter au Forum PHP : ***L'Orienté Objet au Cœur du Templating Symfony : Découvrez TwigComponent et LiveComponent*** !\nAvant d'aller plus loin, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿Le but est de partager un moment sympa, plein d'échanges tout en buvant une bière (ou tout autre boisson 😉) et en mangeant un bout.**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nEt donc la parole au speaker **Félix Eymonot** 📣\n*\"Plongez dans l'univers de TwigComponent et LiveComponent pour découvrir comment ces outils peuvent simplifier et dynamiser les interfaces de vos projets Symfony. En adoptant une approche orientée objet, ces packages offrent une structure claire et réutilisable pour vos templates, tout en intégrant des fonctionnalités interactives et réactives. Que vous débutiez ou que vous cherchiez à approfondir vos connaissances, venez explorer des solutions innovantes pour des interfaces utilisateur plus performantes et agréables à utiliser.\"*\n🎁 D'ailleurs à la fin de se meetup quelqu'un partira avec un cadeau ! 🎁",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 19
+  },
+  {
+    "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
+    "date": "2024-09-26T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
+    "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\nPour l'occasion, nous aurons le plaisir d'accueillir 2 speakeurs•euses qui nous présenterons en avant première avant le grand jour au [Forum PHP 2024](https://event.afup.org/) leurs talks respectifs 🎉\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nLa parole aux speakeurs•euses 📣\n**\\#\\#\\#\\# StandAAArdisez vos tests \\!**Par **Nerea Enrique**, ingénieure PHP chez **ekino**\n*Une bonne partie de notre travail consiste à lire et écrire des tests. Mais comment les unifier tout en gardant la maintenabilité et la robustesse ?**Une partie de la réponse pourrait bien se trouver dans le pattern AAA !*\n*Le pattern AAA (Arrange, Act, Assert) est une approche qui permet de structurer l’écriture de tests unitaires. Cela peut améliorer la qualité de notre code en nous forçant à écrire des tests concis et focalisés, ce qui rend le code plus facile à comprendre et à déboguer. Cependant, comme toute approche, le pattern AAA a aussi ses défis. Par exemple, il peut être difficile d’appliquer ce pattern dans des scénarios complexes.*\n*Voyons comment ce pattern peut simplifier notre écriture de tests !*\n**\\#\\#\\#\\# La goutte d’eau qui fait déborder le Cloud**Par **Julien Joye**, ingénieur PHP chez **ekino**\n*Vous déployez votre application Symfony bien architecturée en micro-services sur une infra kubernetes, trop bien !*\n*Mais avez-vous déjà essayé de faire tourner Drupal sur le même type d’infra ?*\n*Ça peut paraître trivial ; pourtant deux mentalités bien différentes viennent se confronter l’une à l’autre. Quand Drupal peut envoyer 800 requêtes SQL sur un cold start, ou faire transiter des téraoctets de données redis sur le réseau par mois, est-ce que k8s est toujours la solution ?*\n*Dans cette conférence, je vous fais un petit rappel de ce qu’est k8s, vous montre pourquoi Drupal (ou l’infra) peut devenir votre pire ennemi dans ce contexte, et comment éviter certains pièges.*",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "HEMERA",
+      "address": "1 cours Xavier Arnozan, ",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 cours Xavier Arnozan, , Bordeaux",
+    "rsvp_count": 25
+  },
+  {
+    "title": "Meetup PHP #52 : Index me baby! Une intro elastic; Parlons search engine",
+    "date": "2024-06-12T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/300806782/",
+    "description": "Le sponsor de ce mois de juin est **[ekino](https://www.ekino.com/)** 🎉\nÀ quelques jours de l'été et d'une pause estivale (on continuera de vous préparer d'autres meetups quand même 😛), c'est le moment de se retrouver !\nNous profiterons de ce meetup pour effectuer les élections du bureau de l'AFUP Bordeaux 🗳️Nous avons besoin de vous ! Venez soutenir la liste qui vous convient le mieux pour gérer l'organisation de l'AFUP Bordeaux !\nDurant ce meetup, **Nerea Enrique**, ingénieure chez **ekino**, nous vulgarisera le fonctionnement d'un search engine 🤓\nLa place à la speakeuse 📣\n*Tu t’es toujours demandé.e comment fonctionnent les moteurs de recherche ? Tu n’as jamais eu envie d’aller plus loin parce que ça te semble trop complexe ?**Dans ce cas, bienvenu.e !**Ici on va vulgariser le fonctionnement des moteurs de recherche en général et le scoring. Allant des explications aux exemples (on se servira de ElasticSearch parfois), en passant par un parallèle dans la vie* 🤫*On va aussi voir que configurer nos index, c’est plus simple qu’il n’y parait quand on comprend les principes !* 😛*Le plus important à comprendre c’est qu’on ne trouvera pas la recherche idéale du premier coup, mais en itérations !*\nLe meetup se termine par un apéro sponsorisé par **ekino** \\- que nous remercions chaleureusement \\! 🥗 🍕🍹Ce sera l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et de son écosystème.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 35
+  },
+  {
+    "title": "Meetup PHP #51 : Symfony - Composant Scheduler + l'intérieur d'un Bundle",
+    "date": "2024-05-22T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/300806648/",
+    "description": "Le sponsor de ce mois de mai est **SensioLabs** 🎉\nBeaucoup de dictons sur le temps et le mois de mai existent.Ce n'est qu'une coïncidence si l'un des talks mentionnera le temps aussi !\nLa place au speakers 📣\nCommençons par **Kélian Bousquet** qui nous fera découvrir le composant **Symfony Scheduler** :*Quand il s'agit d'exécuter notre code de manière périodique, on pense de suite aux Crons. Depuis Symfony 6.3, un nouveau composant \"Scheduler\" a fait son apparition. Grâce à lui vous allez pouvoir gérer plus finement l'exécution de vos tâches sans dépendre de vos ops. Durant cette présentation, je vais vous faire découvrir son fonctionnement et vous montrer des cas pratique de son utilisation.*\nEnsuite nous aurons **Adrien Roches** qui présentera la structure d'un **bundle Symfony** :*Dans symfony on entend toujours parler de bundle sans jamais vraiment comprendre ce que ça représente et / ou quand on doit en créer un. A travers notre prochain Bundle Opensource (GotenbergBundle), je vais vous montrer la structure de base et certains principes intéressant à avoir en tête quand on se lance dans la création d’un bundle comme la configuration semantique.*\nLe meetup se termine par un apéro sponsorisé par **SensioLabs** \\- que nous remercions chaleureusement \\! 🥗 🍕🍹Ce sera l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et de son écosystème.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 30
+  },
+  {
+    "title": "Meetup PHP #50 : Redis, le couteau suisse du développeur",
+    "date": "2024-04-24T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/300013958/",
+    "description": "Au menu de ce soir, vous retrouverez **Jonathan Barbin** (@*papajo*) pour parler de Redis !Ce talk ne sera pas à propos du changement de licence. Vous voulez savoir ce dont on parlera ? Alors laissons le speaker du jour vous le dire :\n*\"Lorsque l'on évoque Redis, on l'assimile souvent à une base de données clé/valeur, majoritairement utilisée pour de la gestion de cache. **Redis ne se limite pas uniquement à cela** !**Il propose de nombreuses structures de données avec des utilités diverses et variées. Je vais vous présenter des cas d'usages où il est très intéressant de l'utiliser.**Creusons ensemble ces aspects qui j'en suis persuadé vous séduiront !\"*\nLe meetup se termine par un **apéro collaboratif** 🍻🍿 Merci d'apporter de quoi manger et boire tous ensemble !C'est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 34
+  },
+  {
+    "title": "Super-Apéro 2024",
+    "date": "2024-03-13T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
+    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "38 Rue Capdeville",
+      "address": "38 Rue Capdeville",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "38 Rue Capdeville, Bordeaux",
+    "rsvp_count": 18
+  },
+  {
+    "title": "Meetup PHP #49 : PHP + ChatGPT: let's review a generative feature!",
+    "date": "2024-02-28T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299041870/",
+    "description": "Thomas Calvet ([@fancyweb](https://github.com/fancyweb)), Senior Software Engineer chez [PlayPlay](https://playplay.com/) et membre de la [Core Team Symfony](https://symfony.com/doc/current/contributing/code/core_team.html), va nous parler AI. Voici le teaser de son talk :\n*\"Difficile d'être passé à côté de la tornade ChatGPT, cet agent conversationnel utilisant l'IA générative qui bouleverse le monde.*\n*Outre une utilisation manuelle, il est aussi possible de s'en servir programmatiquement, ce qui crée de nombreuses opportunités pour les applications que nous développons.*Durant cette présentation, je vous propose de passer en revue une fonctionnalité utilisant l'API Chat Completions d'OpenAI. Cet exercice, simple en apparence, nous donnera l'occasion d'aborder de nombreux sujets intéressants tels que le client HTTP Symfony, le few-shot prompting ou bien encore les générateurs PHP*\"*\nLe meetup se termine par un apéro sponsorisé par [PlayPlay](https://playplay.com/) 🎉🍻🍕C'est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nPS : Pas de connaissances en AI requise.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 46
+  },
+  {
+    "title": "Meetup PHP #48 : Xdebug, la lumière au bout du tunnel. Cette fois c'est la bonne",
+    "date": "2024-01-24T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/297836117/",
+    "description": "Cette fois c'est la bonne ! Les poumons de [Robin Colombier](https://twitter.com/ChinaskiOnRails) vont le laisser vous parler de Xdebug !Entre-temps, il aura eu l'occasion de partager ses connaissances avec [l'AFUP Rennes](https://www.meetup.com/fr-FR/afup-rennes/events/297267125/) 😛\nSi jamais vous avez oubliez, on redonne la parole au speaker :*\"On est tous d'accords, Xdebug est compliqué à configurer. Plutôt que de faire un énième tutoriel qui ne correspondra pas à votre config, mieux vaut vous donner envie d'arpenter ce chemin par vous-même en vous montrant le résultat final : la pratique de Xdebug au sein de votre IDE. Nous nous appuierons ici sur PHPStorm mais des intégrations existent dans quasiment tous les autres. Cet outil permet de gagner en efficacité sur les résolutions de bugs, mais aussi dans l'appréhension d'un nouveau framework ou de code legacy. J'espère réussir à vous montrer que le jeu en vaut largement la chandelle en vous partageant quelques use-cases.\"*\nLe meetup se termine par un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire ! C'est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 26
+  },
+  {
+    "title": "Meetup PHP #47 : Mutation testing et Dette technique",
+    "date": "2023-11-28T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/297177923/",
+    "description": "Ce meetup de mois de novembre est sponsorisé par [Conserto](https://conserto.pro/).Au menu du jour 2 talks (environ 30min chacun) :\n**1 - La dette technique, ou pourquoi la non qualité vous coûtera plus cher que la qualité ?**Des développeurs qui estiment à 2 semaines un travail en apparence simple, des bugs très étranges, difficiles à identifier et régler, ou des développeurs démotivés.Ce n'est pas le résumé d'un film d'horreur pour chef de projet mais les conséquences possibles d'une mauvaise gestion de la dette technique et de la qualité technique d'un projet.Pendant ce talk, nous verrons ensemble ce qu'est la dette technique, pourquoi la qualité du code est un critère important et à quel point cela peut coûter cher de ne pas y porter attention.*Présenté par Andoni Larzabal, artisan du PHP depuis plus de 5 ans maintenant.*\n**2 - Mutation testing ou comment éviter que mon code tombe malade**Dans les bonnes pratiques d'aujourd’hui on valide notre code en faisant du tdd, du bdd, en ayant un maximum de tests unitaires.Mais est-ce suffisant ? Et est-ce fiable à 100% ?Des outils existent pour vérifier et valider cela.Nous verrons ensemble le principe de mutation testing, pourquoi et comment le mettre en œuvre dans du PHP avec Infection PHP.*Présenté par Éric Aboudaram coach technique fort d’une expérience de plus de 20 ans dans l’informatique.*\nLe meetup se termine par un apéro sponsorisé par [Conserto](https://conserto.pro/) ! 🎉🍻🍕\nMerci à eux de nous régaler lors de ce moment de partage !C'est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 31
+  },
+  {
+    "title": "Meetup PHP #46 : Xdebug, la lumière au bout du tunnel.",
+    "date": "2023-10-25T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/296249567/",
+    "description": "En ce jour proche d'halloween, [Robin Colombier](https://twitter.com/ChinaskiOnRails) s'assurera que vous n'ayez plus peur de maitriser Xdebug !La parole au speaker :\n*\"On est tous d'accords, Xdebug est compliqué à configurer. Plutôt que de faire un énième tutoriel qui ne correspondra pas à votre config, mieux vaut vous donner envie d'arpenter ce chemin par vous-même en vous montrant le résultat final : la pratique de Xdebug au sein de votre IDE. Nous nous appuierons ici sur PHPStorm mais des intégrations existent dans quasiment tous les autres. Cet outil permet de gagner en efficacité sur les résolutions de bugs, mais aussi dans l'appréhension d'un nouveau framework ou de code legacy. J'espère réussir à vous montrer que le jeu en vaut largement la chandelle en vous partageant quelques use-cases.\"*\nLe meetup se termine par un apéro sponsorisé par [Seyos](https://www.seyos.fr/) ! 🎉🍻🍕Merci à eux de nous régaler lors de ce moment de partage !C'est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 28
+  },
+  {
+    "title": "Meetup PHP #45 : La mutabilité m’a tué, l’immutabilité m’a sauvé",
+    "date": "2023-09-28T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/295714201/",
+    "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\nPour l'occasion, nous aurons le plaisir d'accueillir [Sadetdin EYILI](https://event.afup.org/forum-php-2023/conferencier-e-s/#3009) qui nous présentera en avant première avant le grand jour au [Forum PHP 2023](https://event.afup.org/) sont talk ***\"La mutabilité m’a tué, l’immutabilité m’a sauvé\"*** !\nLa parole au speaker :\n*Vous ne savez pas ce qu’est l’immutabilité ? Cette conférence est faite pour vous.*\n*Vous allez découvrir (ou redécouvrir) l'immutabilité comme je l'ai découvert. Vous allez voir comment j’ai développé un projet sans immutabilité (car je ne connaissais pas encore) et quels ont été les problèmes rencontrés. Ensuite vous allez voir comment j’ai corrigé ces problèmes toujours sans immutabilité (car je ne connaissais toujours pas). Puis comment je développerai ce projet, aujourd’hui, en utilisant l’immutabilité (c’est quand même le sujet de base).*\n*Vous apprendrez un nouveau concept de programmation, l’immutabilité. Vous entendrez également parler d’autres concepts qui y sont liés comme le Defensive Programming, le Domain Driven Design et d’autres pratiques craft. On ne les détaillera pas, mais on va poser quelques bases. Grâce à l’immutabilité vous limiterez les bugs et les effets de bord sur vos projets, gagnerez en sérénité et vous allez pouvoir profiter de vos temps de repos avec moins de stress.*\nLe meetup se termine par un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire ! C'est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 28
+  },
+  {
+    "title": "Meetup PHP #44 : on parlera AI et Open Source",
+    "date": "2023-06-29T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/293975851/",
+    "description": "Ce meetup sera particulier pour plusieurs raisons !\n* 🤝 il est organisé en collaboration avec [l'association Drupal France](https://www.drupal.fr/association) dans le cadre de leur Warm Up Tour en vue de la DrupalCon qui se déroulera à Lille cette année* ✋ ça sera les élections des coordinateurs et coordinatrices de l'antenne AFUP de Bordeaux* 🎥 nous testons de proposer les talks à la fois en physique et en ligne (information de connexion en ligne tout en bas !). Merci de préciser si vous serez présent sur place ou en ligne afin de prévoir la partie apéro !* 🎉 nous n'avons pas 1 sponsor mais 2 😲\nAu programme nous aurons 2 talks !\n\\- Joachim Desarmenien nous présentera le **module OpenAI / ChatGPT / AI Search Integration**. Il nous fera découvrir ses possibilités, son interfaçage avec d'autres modules, ses avantages et inconvénients.\n\\- Julien Joye quant à lui nous fera part d'un retour d'expérience intitulé \"**REX: Healing me softly — Open-source is not perfect. Neither am I.**\" et dont voici le teaser :*Drupal has long had its share of good and bad surprises.**When promises are not kept, and while doing this observation, we go through a succession of stages which can recall the five stages of grief, grief of the faith that we had placed on a technical solution which is not viable by nature, or unsuited to the context of our project.**Accompany me during that healing process with this return of experience, when we based our development on Opensocial.*\nPour ceux présent physiquement l'apéro sera offert par [Sully Group](https://www.sully-group.com/fr/) 🍻🥗🍕🍹 (emojis de la nourriture et des boissons non contractuels 😛).\nNous serons hébergés dans les locaux d'[ekino](https://www.ekino.com/) qui nous offre aussi la possibilité de diffuser l'évènement en ligne !\n🎥 [Le lien pour assister à l'évènement en ligne est ici !](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmMwODc1N2MtOGJhZi00NjlmLThjMjMtZGRlNDYxMWY5Y2Y0%40thread.v2/0?context=%7b%22Tid%22%3a%22c7ed5557-a5c8-4435-9fab-ada7abcdc01b%22%2c%22Oid%22%3a%221ba2e6ab-a175-45a7-83df-d481a60bd83c%22%7d) 🎥\n**NB**: [l'association Drupal France](https://www.drupal.fr/association) a publié son propre évènement Meetup pour cette soirée, merci de ne vous inscrire qu'**à un seul des deux** et n'oubliez pas de répondre à la question pour qu'on puisse prévoir les bonnes quantités de nourriture ! Leur meetup est par [là](https://www.meetup.com/fr-FR/drupal-france-francophonie/events/293565941/).",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "rsvp_count": 33
+  },
+  {
+    "title": "Meetup PHP #43: ManoMano nous accueille pour 2 talks",
+    "date": "2023-05-24T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/293284178/",
+    "description": "Bonjour à tous !\nNous continuons sur notre série de Meetup et c'est avec un grand plaisir que nous t'invitons au prochain Meetup PHP organisé par l'[AFUP (Association Française des Utilisateurs de PHP)](https://afup.org/home).\nCe mois-ci, nous aurons l'occasion d'être accueilli par ManoMano. Si celle-ci est inconnue pour vous, ManoMano est une entreprise française du secteur du commerce en ligne spécialisée dans le domaine du bricolage et du jardinage.\nAu programme de la soirée, nous aurons l'occasion d'écouter deux talks :\n* **REX Mise en place de la norme Fédération GraphQL sur un microservice PHP** par [Antoine Bousquet](https://www.linkedin.com/in/antoinebousquet), Senior Software Engineer @ ManoMano*L'utilisation de GraphQL dans une architecture micro service n'est pas une mince affaire. À ManoMano, nous utilisons la norme Fédération, développée par Apollo, pour que chaque microservice puisse proposer son API GraphQL, indépendante des autres lors du développement, mais fusionnée en un seul super-graphe en production. Sa mise en place sur un microservice PHP n'est pas triviale, et nous allons ici revenir sur les difficultés rencontrées lors de sa mise en place, et comment elles ont été résolues. Nous parlerons des spécificités de PHP mais également de considérations plus générales liées à GraphQL et la Fédération Apollo.*\n* **Le preloading** par [Grégoire Paris](https://github.com/greg0ire), Staff Engineer @ ManoMano*Le preloading est une méthode apparue il y a 5 ans pour améliorer la performance de vos applications PHP. Beaucoup d'eau a coulé sous les ponts depuis, et PHP a beaucoup évolué. Voyons ensemble ce qu'est le preloading exactement, ce qui s'est passé entre temps, et s'il est toujours pertinent de mettre en place du preloading sur vos applications.*\nLe meetup se termine par un apéro sponsorisé par ManoMano - que nous remercions chaleureusement ! Ce sera l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et de son écosystème.\nNB : les élections du bureau auront lieu lors de notre Meetup de juin, si vous avez des questions ou si vous voulez nous rejoindre, nous serons disponibles toute la soirée pour en discuter.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "43 Rue d'Armagnac",
+      "address": "43 Rue d'Armagnac",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "43 Rue d'Armagnac, Bordeaux",
+    "rsvp_count": 43
+  },
+  {
+    "title": "Meetup PHP #42 : Domaine Riche vs Domaine Anémique",
+    "date": "2023-04-26T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/292368112/",
+    "description": "Bonjour à tous !\nNous repartons plus motivés que jamais cette année et c'est avec un grand plaisir que nous t'invitons au prochain Meetup PHP organisé par l'[AFUP (Association Française des Utilisateurs de PHP)](https://afup.org/home).\nAu programme, un **KATA PHP** permettant de découvrir / approfondir ses connaissances autour de bonne pratiques orientées[ DDD (Domain Driven Design)](https://fr.wikipedia.org/wiki/Conception_pilot%C3%A9e_par_le_domaine).Ici, Julien VITTE (aka [@pitchart](https://twitter.com/pitchart?lang=fr)) animera ce KATA avec joie, passion et bonne humeur ! Julien est un [Crafter](https://fr.wikipedia.org/wiki/Software_craftsmanship) du code, il a beaucoup de connaissance et de pratique à diffuser. Ça vaut le coup de venir, vraiment !\nTu l'as compris, il ne s'agit pas d'un talk en tant que tel mais d'un atelier dans lequel tu mets les mains dans le cambouis !\nSi tu ne connais pas le concept de KATA, sache que ce terme est tiré directement des arts martiaux. En gros, tu étudies des techniques afin de gagner en précision et qualité de mouvement, puis arrive le moment d'assembler tout ça dans un combat imaginaire. L'exercice est intense puisque tu donnes le meilleur de toi même pour réaliser ce combat et tu essaies d'être à l'état de l'art. Grâce à ce KATA, tu peux imaginer et mettre en pratique des applications directes en combat; dans les arts martiaux, on parle de KATA BUNKAÏ. L'important dans le KATA BUNKAÏ, c'est le dialogue avec ton partenaire et l'intensité que tu y mets. C'est primordial.\nBen là, c'est pareil, mais dédié au développement. Tu dév tous les jours puis arrive le moment où tu vas devoir concevoir, innover ou refactoriser; grâce à ton entrainement tu vas pouvoir avoir les bons réflexes afin d'éviter la galère ! Le KATA PHP va te permettre de bénéficier d'un échange entre dév et d'apprendre des autres. Cerise sur le gâteau, ton niveau de connaissance aura level up après la séance. Bref, c'est tout bénéf ;)\nLe meetup se termine par un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire ! C'est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 18
+  },
+  {
+    "title": "Super-Apéro 2023",
+    "date": "2023-03-16T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/291960656/",
+    "description": "Le jeudi 16 mars se tiendra le Super Apéro PHP 2023.Cet événement a lieu dans plusieurs antennes de l’AFUP en même temps.Vous pouvez découvrir la liste en ligne ici : [https://afup.org/association/super-apero](https://afup.org/association/super-apero)\nÀ Bordeaux on se donne rendez-vous au Frog & Rosbif à partir de 19h pour une soirée d’enfer ! Au programme de cette soirée il y aura :\n* Plein de discussions super intéressantes 😄* Un concours photo avec toutes les autres antennes 📸* De la bière mais pas que ! 🍻🥤",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "The Frog & Rosbif, Bordeaux",
+      "address": "23 Rue Ausone",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "23 Rue Ausone, Bordeaux",
+    "rsvp_count": 29
+  },
+  {
+    "title": "Super-Apéro 2022",
+    "date": "2022-06-23T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/286552197/",
+    "description": "Le jeudi 23 juin se tient LE Super Apéro 2022 de l'AFUP.Cette année il sera sponsorisé par [ekino](https://www.ekino.com/) qui nous accueillera dans leur locaux.\nAu programme :\\- ✋ Élection des coordinateurs et coordinatrices de l'antenne\\- 🎲 Une compétition acharnée face aux autres antennes lors d'un jeu surprise \\!\\- 💻 Et d'autres surprises \\!\nPour plus d'info n'hésitez pas à aller voir https://afup.org/news/1159-super-apero-phpxelections-23-juin !\nNotre sponsor [ekino](https://www.ekino.com/) nous offrira de quoi s'enjailler et boire pour passer un bon moment !Comme à l'accoutumé n'hésitez pas à apporter des choses pour participer à l'apéro collaboratif !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "rsvp_count": 14
+  },
+  {
+    "title": "Meetup PHP #39 : Quoi de neuf dans Symfony 6.1 ?",
+    "date": "2022-05-19T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/285538975/",
+    "description": "C'est avec un grand plaisir que nous revenons pour vous proposer d'assister à un talk de Thomas Calvet (@fancyweb_), membre de la Symfony Core Team !\nVenez découvrir les nouveautés de la nouvelle version de Symfony qui sortira à la fin du mois de mai !\nDurant cette présentation, nous reviendrons sur une sélection totalement subjective des contributions apportées au projet durant ces derniers mois. Ces changements vous permettrons également de (re)découvrir les processus qui encadrent l'évolution du projet Symfony. Enfin, ils seront aussi l'occasion de discuter ensemble de certaines nouveautés de PHP 8.1 et 8.2.\nLe meetup se termine par un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !\nNous allons essayer de le diffuser aussi en live sur [https://meet.google.com/iuc-abuv-phg](https://meet.google.com/iuc-abuv-phg?authuser=0)",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Wild Code School, Formation Développeur Web & Data Analyst",
+      "address": "171 Rue Lucien Faure",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "171 Rue Lucien Faure, Bordeaux",
+    "rsvp_count": 44
+  },
+  {
+    "title": "Meetup PHP (online) #37 : Pipeline Pattern",
+    "date": "2022-01-20T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/283045545/",
+    "description": "Découvrons ensemble ce dont Jonathan Barbin (@_papajo_) nous parlera !\nOn va parler CI/CD …? Eh non, ce n’est pas le sujet de ce meetup :)\nLe pipeline pattern peut être assimilé à une chaîne de montage.Mais oui vous savez, c’est une méthode de travail qui a été mise en oeuvre par le fondateur d’une célèbre marque automobile. Figurez-vous qu’elle a permis entre autres d’améliorer la productivité.\nEt si on pouvez appliquer cette méthode dans nos développements ? Qu’est-ce que cela pourrait apporter à nos applications ?\nSi vous voulez le savoir, inscrivez-vous et venez découvrir ce patron de conception qui va révolutionner votre façon de développer :)\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :P",
+    "community": "afup-bordeaux",
+    "is_online": true,
+    "rsvp_count": 47
+  },
+  {
+    "title": "Meetup PHP (online) #37 : PHP Static Code Analysis 101",
+    "date": "2021-11-04T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/281446735/",
+    "description": "Nous sommes de retour !\nVous êtes curieux de connaître les bases de l'analyse statique en PHP ?Ça tombe bien ! Benjamin Rambaud (@rambaud_b) vous en parlera lors de ce meetup !\nAujourd'hui, nous utilisons quasiment tous des outils pour analyser statiquement notre code. Ces outils sont puissants et nous permettent d'avoir un code davantage robuste par exemple.Avant de pouvoir comprendre comment ils fonctionnent, il faudra parcourir comment fonctionne PHP ! Que c'est excitant !\nÀ la fin de ce meetup, vous devriez être capable d'écrire vous même des outils basiques d'analyse statique :P(Mais si vous voulez approfondir pour créer des outils plus complexes (style phpstan, psalm etc..), stay tuned pour une partie 2)\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
+    "community": "afup-bordeaux",
+    "is_online": true,
+    "rsvp_count": 46
+  },
+  {
+    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
+    "date": "2020-09-30T18:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
+    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
+    "community": "afup-bordeaux",
+    "is_online": true,
+    "rsvp_count": 36
+  },
+  {
+    "title": "Meetup PHP (online) #35 : 1 Monolithe, N microservices",
+    "date": "2020-05-19T18:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/270601172/",
+    "description": "Pour ce premier meetup en ligne, Julien VITTE (@pitchart) présentera comment créer une architecture en micro services tout en développant un monolithe, en se basant sur le framework Symfony :---L’architecture microservice a pour but d’apporter une solution à un certain nombre de problématiques liées aux grosses applications : évolutivité, fiabilité, scalabilité …Mais après avoir passé la phase de hype, une certaine idée se dégage de la mise en place de cette architecture : partir de zéro est plus compliqué. Déterminer les limites et le découpage sans idée des directions d’évolutions des différents projets relève de la voyance, et faire du refactoring cross-projet rends les évolutions plus coûteuses.Partant du principe que nous maitrisions mieux les monolithes que des architectures distribuées, nous avons opté pour la mise en place d’une approche « Monolithe microservice ready™ », ou Monolithe modulaire.Je vous propose un retour d’expérience sur la mise en place de cette architecture : comment déployer plusieurs microservices à partir d’une seule base de code, tout en se protégeant contre l’apparition d’une complexité inhérente aux monolithes.---Ce premier meetup en ligne, est organisé en partenariat avec l'agence Inside de Bordeaux, qui nous fourni les moyens de visio conférence.Pas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
+    "community": "afup-bordeaux",
+    "is_online": true,
+    "rsvp_count": 40
+  },
+  {
+    "title": "Meetup PHP #34 : Concevoir des applications PHP résilientes en 2020",
+    "date": "2020-02-19T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/268376150/",
+    "description": "Mickael Andrieux (@AndrieuMickael), architecte web & formateur indépendant, nous présentera son talk effectué lors du dernier Forum PHP :---Vous souhaitez créer une architecture en micro services, ou une API REST et un joli front en React parce que c'est à la mode. Mais que se passe-t-il quand l'un de vos micro services tombe, ou si un de vos appels à votre API met un peu trop de temps à répondre ?En gros, comment gérez-vous vous la résilience de vos applications ?En vingt minutes, je vous montrerai comment faire : notamment à l'aide d'une librairie PHP que j'ai créée et qui est intégrée dans le projet Open Source PrestaShop.Vous comprendrez comment fonctionne un \"Circuit Breaker\", comment le configurer et comment le tester.A la fin de cette session, vous aurez les clés pour ne plus craindre les problèmes de réseau. Et vous aurez acquis un nouveau réflexe: penser au pire, pour garantir le minimum vital à vos utilisateurs.---Le meetup se termine par un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_limit": 60,
+    "rsvp_count": 49
+  },
+  {
+    "title": "Meetup PHP #33: Playlist preprogramming, from (almost) nothing to something cool",
+    "date": "2020-01-30T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/267694409/",
+    "description": "Bonne Année ! Bonne santé !\nCe premier meetup de l'année \"Playlist preprogramming, from (almost) nothing to something cool, ASKIP\" sera présenté par Pierre BERTRAND, ingénieur chez Deezer :\nRetour d'expérience sur la mise en place de la publication différée des playlists éditoriales chez Deezer.Challenges techniques et solutions mises en place.\nLe meetup se terminera par un apéro offert par Deezer !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Deezer Bordeaux",
+      "address": "20 Rue Saint-François",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "20 Rue Saint-François, Bordeaux",
+    "rsvp_limit": 60,
+    "rsvp_count": 46
+  },
+  {
+    "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
+    "date": "2019-12-17T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
+    "description": "PHP 7.4 est sorti ! Forcément vous souhaitez savoir ce que cette version contient :)\nPour ce dernier meetup de l'année nous vous proposons donc de découvrir les nouveautés de PHP 7.4 à travers un Apéro Quizz !\nQui gagnera des cadeaux ? Qui sera le grand vainqueur ? Quel est l'âge du capitaine ? Est-ce que le mystère des lettres O., D., I., et L sera résolu ? Où habite le Père Noël ?\nIl faudra venir pour découvrir les réponses ;)\nC'est un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "rsvp_limit": 40,
+    "rsvp_count": 29
+  },
+  {
+    "title": "Meetup PHP #31 : De la performance, même avec Doctrine !",
+    "date": "2019-11-28T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/266311873/",
+    "description": "Présentation par Thomas Calvet (https://github.com/fancyweb), Ingénieur PHP sénior chez ekino :\nL'utilisation d'un ORM entraîne obligatoirement un overhead qui impacte de manière négative la performance de nos applications. Cette incidence, acceptable lors d'une utilisation maîtrisée, croît en revanche exponentiellement lors d'une utilisation naïve. Ne pas comprendre les mécaniques internes d'un ORM ou en ignorer certaines de ses fonctionnalités clés peut être fatal. Doctrine, l'ORM PHP le plus populaire, n'échappe évidemment pas à ces problèmes.\nDurant cette présentation, dans le but de produire du code plus performant, je vous inviterai à vous intéresser au fonctionnement interne de Doctrine. Je vous parlerai également de ses fonctionnalités les moins connues. Enfin, je vous donnerai des conseils et astuces sur comment mieux l'utiliser. Au programme : Unit of Work, listeners, caches, héritage et bien d'autres sujets encore !\nLe meetup se termine par un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_limit": 60,
+    "rsvp_count": 51
+  },
+  {
+    "title": "Meetup PHP #30 : L'e-commerce sans accroc avec Sylius",
+    "date": "2019-09-26T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/264307234/",
+    "description": "Fini les vacances ! Les meetups PHP sont de retours ;)\nOlivier ALLAIN (@oallain33), lead développeur chez Synolia, nous fera l'honneur de nous présenter la conférence qu'il donnera au Forum PHP 2019 (Profitez-en pour regarder le programme https://event.afup.org/forumphp2019/programme/)\nQuand les solutions e-commerce ne peuvent plus rien pour vous, il ne vous reste plus qu’un recours, un seul : Sylius ! Venez découvrir ce qui se cache sous le capot : de l’architecture à la roadmap en passant par les plugins ou les tests afin que le lancement de votre prochain projet de site e-commerce se déroule comme votre plan préféré, c’est-à-dire, sans accroc !\nLe meetup se terminera par un apéro. Synolia prendra en charge la bière et les pizzas <3 !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Synolia, agence conseil, e-commerce, CRM, PIM et Business Intelligence",
+      "address": "23 Quai de Paludate",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "23 Quai de Paludate, Bordeaux",
+    "rsvp_limit": 40,
+    "rsvp_count": 30
+  },
+  {
+    "title": "Meetup PHP #29 : Deep dive into the Symfony Debug component",
+    "date": "2019-06-26T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/261859060/",
+    "description": "Nous commencerons ce meetup par un bilan rapide de l'année écoulée, et l'élection des représentants de l'antenne bordelaise de l'AFUP !Une seule liste se présente cette année; elle est constituée de :- Julien Vitte : Coordinateur- Nicolas Perussel : Modérateur- Adrien Roches : Vice-coordinateur- Benjamin Rambaud : Vice-modérateur\nToutes les personnes présentes peuvent voter, adhérentes ou non à l'AFUP (~15 minutes).\nEnsuite on aura le plaisir d'écouter Thomas Calvet (https://github.com/fancyweb) nous parler du composant Debug de Symfony.\nPrésentation par Thomas Calvet (https://github.com/fancyweb) :\nCe sera l’occasion de voir ou de revoir ensemble de nombreux sujets de base en PHP tels que les mécanismes d’autoload, la gestion des erreurs ou bien encore la gestion des exceptions, le tout, à travers le composant Debug du framework Symfony.\nNous parlerons de ses fonctionnalités, des problématiques qu’elles résolvent ainsi que de la manière dont elles sont implémentés techniquement.\nMinimaliste et plutôt méconnu, le composant Debug est pourtant l’un des plus téléchargé et utilisé car il fournit un gros plus à l’expérience développeur.\nLe meetup se termine par un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 50
+  },
+  {
+    "title": "Meetup PHP #28 : Architecture extensible avec Laravel",
+    "date": "2019-05-22T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/261041713/",
+    "description": "Ce meetup sera animé par Marty Lamoureux qui nous présentera une architecture extensible avec Laravel. Le meetup sera accueilli par la société Mink.\nLe Meetup se terminera par un apéro collaboratif !Pensez à amener un petit quelque chose à manger ou à boire !\nGrâce aux Éditions Eyrolles un livre sur \"PHP 7 Avancé\" sera à gagner !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Mink",
+      "address": "88 Cr de Verdun",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "88 Cr de Verdun, Bordeaux",
+    "rsvp_count": 24
+  },
+  {
+    "title": "Meetup PHP #27 : Le container d'injections de dépendances aux petits oignons !",
+    "date": "2019-04-18T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/260445410/",
+    "description": "Plusieurs meetups ont été effectués sur ce sujet depuis plusieurs années, Nicolas Grekas était notamment venu nous en parler l'année dernière !\nCette fois ci c'est Nicolas Perussel qui nous détaillera comment le DIC est implémenté dans un projet open source comme Drupal.Nous irons explorer les entrailles du Kernel pour répondre à de multiples questions :Comment le composant de Symfony est-il utilisé ?Pourquoi l'est-il ?etc..",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "1 Cr Xavier Arnozan",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "rsvp_count": 23
+  },
+  {
+    "title": "Super Apéro PHP 2019",
+    "date": "2019-03-14T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/259321285/",
+    "description": "En 2018, le Super Apéro a rassemblé plus de 500 développeurs·ses sur toute la France...\nLe soir du jeudi 14 mars, tous les développeurs·ses PHP sont invités à rejoindre la communauté locale pour célébrer PHP autour de quelques bières et de quoi grignotter !\nÀ partir de 19h, retrouvez-nous au bar The Frog & Rosbif. Réservation au doux petit nom AFUP ;)\nPour avoir les informations de toutes les autres antennes : https://afup.org/association/super-apero",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "The Frog & Rosbif, Bordeaux",
+      "address": "23 Rue Ausone",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "23 Rue Ausone, Bordeaux",
+    "rsvp_count": 42
+  },
+  {
+    "title": "Meetup PHP #26 : DDD, CQ(R)S, Clean Architecture ... dans un framework MVC",
+    "date": "2019-02-28T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/258940449/",
+    "description": "Le premier meetup de cette année sera animé par Julien VITTE (@pitchart) qui nous présentera un REX d'architecture logicielle dans Symfony 4 :\n\"A ma gauche, des architectures logicielles permettant de créer un code propre, maintenable, et de faire émerger des tests.A ma droite, le quotidien d'une majorité des développeurs, fiable, robuste, s'appuyant sur un pattern qui a fait ses preuves mais parfois limité et contraignant dans son approche.\nEt si on essayait de concilier les 2 camps en se basant sur des exemples concrets ?\"\nLe Meetup se terminera par un apéro collaboratif !Pensez à amener un petit quelque chose à manger ou à boire !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 50,
+    "rsvp_count": 50
+  },
+  {
+    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
+    "date": "2019-01-24T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
+    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Zytho",
+      "address": "28 Rue Latour",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "28 Rue Latour, Bordeaux",
+    "rsvp_count": 22
+  },
+  {
+    "title": "Meetup PHP #25 : Lightning Talks: Back to the Future - Rétrospective 2018",
+    "date": "2018-11-29T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/256158020/",
+    "description": "Pour fêter l'année qui se termine bientôt nous vous invitons à un meetup dont vous êtes le héros : une série de lightning talks sur une thématique que vous avez découverte, ou approfondie cette année.\nLe format : 1 thème - 5 slides (maximum) - 10 minutes par participantVenez nous présenter un sujet qui vous a marqué cette année, en rapport avec votre langage préféré.Pour vous inscrire, remplissez le formulaire suivant : https://goo.gl/forms/217hffSjejlfLoyk1\nLa liste des thèmes abordées sera communiquée au fur et à mesure.\nN'hésitez pas à nous solliciter si vous avez besoin d'un peu d'aide pour vous mettre à l'eau.\nLe Meetup se terminera par un apéro et des pizzas, gracieusement offerts par notre sponsor Externatic : https://www.externatic.fr/",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "MOTA COWORKING",
+      "address": "13 rue de la manutention",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "13 rue de la manutention, Bordeaux",
+    "rsvp_limit": 60,
+    "rsvp_count": 33
+  },
+  {
+    "title": "Meetup PHP #24 : contribuer à des projets opensource",
+    "date": "2018-10-30T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/255739189/",
+    "description": "A l'occasion du Hacktoberfest, Mickaël Andrieu (@mickael_andrieu) nous fera un retour d'expérience sur la contribution à des projets opensource.\nRésumé :\nDepuis maintenant 3 ans, je suis rémunéré essentiellement pour contribuer à des projets open source.\nMais comment, pourquoi et avec quel argent une entreprise peut-elle payer des développeurs, des architectes pour développer des projets open source qui sont majoritairement gratuits de surcroît?\nAu travers de mes différentes expériences professionnelles chez les plus gros éditeurs open source français (SensioLabs, Lp Digital, PrestaShop, Akeneo…), nous découvrirons les différents business models de l’open source, leurs qualités et leurs défauts.\nEn toute sincérité, je vous expliquerai pourquoi j’en suis arrivé à ne travailler que pour des entreprises qui font de l’open source: ce que j’en retire d’un point de vue social, technique et en termes d’image.\nJe répondrai également à toute question sur le sujet, sans tabous! Si vous vous demandez s’il faut vous lancer sur votre projet et le mettre en open source, s’il y a un intérêt à contribuer sur GitHub ou si vous voulez me rejoindre chez PrestaShop: discutons-en autour d’une bière :)\nLe Meetup se terminera par un apéro collaboratif !Pensez à amener un petit quelque chose à manger ou à boire !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 50,
+    "rsvp_count": 29
+  },
+  {
+    "title": "Defensive programming",
+    "date": "2018-09-25T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/254348414/",
+    "description": "Le \"Defensive Programming\" est une technique de conception logiciel visant à améliorer la qualité du code produit en verrouillant le comportement de celui-ci afin qu'il soit prévisible.L'objectif du \"Defensive Programming\" est d'assurer le fonctionnement continu de l'application dans des circonstances imprévues. (saisies utilisateurs par exemple).\nIssu principalement de l'Industrie, les pratiques de programmation défensives sont souvent utilisées lorsque la haute disponibilité, la sécurité ou la sûreté sont stricts et nécessaires.\nAujourd'hui, beaucoup de développeurs l'utilisent dans la conception de leurs librairies Open-Source.\nVoyons ensemble un aperçu de ces \"techniques\" avec notre langage préféré : PHP 7.2\nLe Meetup se terminera par un apéro collaboratif !Pensez à amener un petit quelque chose à manger ou à boire !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 60,
+    "rsvp_count": 38
+  },
+  {
+    "title": "API, REST ou GraphQL ? Par Kevin Dunglas. Elections des représentants",
+    "date": "2018-06-29T19:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/251523532/",
+    "description": "Nous commencerons ce meetup par un bilan rapide de l'année écoulée, et l'élection des représentants de l'antenne bordelaise de l'AFUP.Une seule liste se présente; elle est constituée de- Julien Vitte : Coordinateur- Nicolas Perussel: Modérateur- Mikaël Létang : Vice-coordinateur- Benjamin Rambaud : Vice-modérateur\nToutes les personnes présentes peuvent voter, adhérentes ou non à l'AFUP (~15 minutes).\nOn aura ensuite le plaisir d'écouter Kevin Dunglas (https://twitter.com/dunglas), créateur d'APiPlatform et core team member Symfony. Rien que ça !\nGraphQL est une alternative de plus en plus populaire aux architectures REST pour la réalisation d'API web.Le langage de requêtage promu par Facebook a des avantages indéniables : récupération des données utiles au client uniquement, limitation du nombre de requêtes effectuées, typage fort, syntaxe puissante et extrêmement bien pensée…Cependant, il souffre aussi de défauts souvent sous-estimés parmi lesquels l'incompatibilité avec les mécanismes de cache, de log, de sécurité ou d'authentification qui forment la base du stack web d'aujourd'hui, ou la nécessité d'utiliser un format non-standard nécessitant un parser spécifique.De plus, les formats hypermedias modernes s'appuyant sur REST tel que JSON-LD ou JSON API disposent de fonctionnalités très similaires à celles de GraphQL (et d'autres plus avancées) tout en restant compatibles avec les fondements du web.\nLe framework API Platform, basé sur Symfony, permet de créer très facilement des API REST (JSON-LD, JSON API, HAL…) tout comme GraphQL.Après avoir énuméré les avantages et inconvénients des différents formats, nous étudierons au travers de différents cas d'usages fréquents quand il est préférable d'utiliser GraphQL, REST ou les deux en complément.\nLa conf parlera surtout des formats, pas besoin d’être développeur #PHP ou #JavaScript pour y assister.\nLe meetup sera clôturé par un apéro, offert par notre sponsor Ekino ! http://www.ekino.com/",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 55
+  },
+  {
+    "title": "meetup php #21 : CQRS, FONCTIONNEL, EVENT SOURCING & DOMAIN DRIVEN DESIGN",
+    "date": "2018-06-06T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/250837322/",
+    "description": "Présentation par Arnaud Lemaire (@lilobase)\nAvec autant de buzzwords dans le titre, explicitons le menu :– Nous commencerons avec une étude des principes du CQRS et la notion de projection pour construire les modèles de données dédiées à la lecture, le tout avec un datastore traditionnel (relationnel).– Nous continuerons avec le concept d’état en programmation fonctionnelle, et comment les gérer au sein d’une application tout en respectant le principe d’immutabilité. Et comment ils ont transformé la gestion d’états pour la construction d’interface utilisateur.– Dans un troisième temps, nous nous intéresserons aux évènements du domaine-métier dans le Domain Driven Design et comment ceux-ci s’intègrent dans la mécanique de construction des projections.– Enfin, nous assemblerons toutes ces notions pour faire apparaitre l’«event sourcing» comme modèle de persistance pour nos données.– Pour clôturer, nous verrons les erreurs les plus courantes rencontrées lors de l’implémentation d’un modèle en event sourcing.\nTake away:– Utiliser CQRS (sans event-sourcing) pour simplifier la gestion de la persistance dans son application.– Comprendre comment gérer des états dans un contexte fonctionnel– Gérer facilement les évènements-métier au sein d’une architecture DDD.– Savoir comment implémenter correctement un système basé sur l’event sourcing.\nLe meetup se termine par un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 60,
+    "rsvp_count": 41
+  },
+  {
+    "title": "PHP meetup #20 : Des projets de qualité avec l'intégration continue ! ",
+    "date": "2018-04-26T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/249219313/",
+    "description": "L'Intégration Continue permet d'améliorer la qualité des projets, et, grâce à l'évolution des outils, devient de plus en plus facile à mettre en place. Pourquoi s'en priver ?\nNicolas Perussel (@mamoot64) nous expliquera comment mettre en place une chaine d'intégration continue avec GitLab CI\nJulien Vitte (@pitchart) nous montrera les implications de la mise en place d'un pipeline de CI sur le code produit, l'environnement et le workflow de développement.\nComme d'habitude, la présentation se terminera par des échanges autour d'un apéro collaboratif.\nPour cet évènement, INSIDE Group, spécialisé principalement sur les métiers de l'infrastructures, les applications et le conseil est sponsor de l'évènement et nous offre les consommations.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 60
+  },
+  {
+    "title": "Super Apéro AFUP",
+    "date": "2018-03-08T18:45:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/248368183/",
+    "description": "Rendez-vous à partir de 18h45 au Casey's Pub, 14 Rue Castelnau d'Auros, pour la 2ème édition du super apéro AFUP, organisé en parallèle dans toutes les antennes de France.\nAu programme, rencontre et échange dans une ambiance détendue, et participation au Quizz inter-antenne !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Casey's Pub",
+      "address": "14 Rue Castelnau D'auros",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "14 Rue Castelnau D'auros, Bordeaux",
+    "rsvp_limit": 30,
+    "rsvp_count": 13
+  },
+  {
+    "title": "PHP meetup #19 - Recruter vos developpeurs",
+    "date": "2018-02-27T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/247423312/",
+    "description": "Fabien Furet (@RETFU) nous parlera de recrutement de profils techniques : \"Comment attirer des talents dans votre entreprise qui n'est connu d'Eve ni d'Adam?Etre efficace et organisé dans ce processus qui peut être long.Challenger vos candidats avec autre chose qu'un algo sur papier.\n10 ans de recrutement sans compétence particulière pour cela,seulement être un développeur qui peut se mettre à la place du candidat, et ça change tout.\"",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 35
+  },
+  {
+    "title": "SfPot Afup/Afsy du 12 Janvier 2017 avec Nicolas Grekas",
+    "date": "2018-01-12T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/246405038/",
+    "description": "Pour ce premier meetup de l'année en partenariat avec l'AFSY, Nous avons l'honneur d'accueillir Nicolas Grekas @nicolasgrekas ( #Symfony core team contributor et CTO de @blackfireio ) qui nous parlera de Symfony 4 et de son composant d'injection de dépendances.(Note : merci de vous inscrire sur le meetup de l'AFSY uniquement : https://www.meetup.com/fr-FR/Symfony-User-Group-Bordeaux/events/246173130/ pour faciliter la gestion de l'événement)\n\"Le composant Dependency Injection est l'un des éléments centraux de toutes les applications Symfony depuis la version 2.0. Dès cet hiver, il a acquis de nombreuses nouvelles fonctionnalités nécessaires pour créer la nouvelle expérience Symfony 4 autour de Flex.Bien que largement utilisé dans le noyau, pouvez-vous les utiliser dans vos propres applications? Au cours de cette présentation, il vous parlera des nouveaux tags, interfaces ou annotations qui permettent de créer de puissants services. L'objectif: rendre vos applications toujours plus expressives, donc maintenables.\"\nUn gros merci à l'AFUP et à Nicolas sans qui ce meetup ne pourrait pas avoir lieu. On terminera par un apéro dans un bar proche du Meetup !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 15
+  },
+  {
+    "title": "PHP Meetup #18: SOAP vs REST, on en parle ?",
+    "date": "2017-12-19T19:15:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/245559102/",
+    "description": "Pour ce dernier meetup de l'année, Mikaël Delsol (@mikaelcom) nous propose couragement un sujet controversé !\n\"SOAP (Simple Object Access Protocol) a été créé il y a tellement longtemps qu'il est difficile d'en trouver la date de première mise à disposition.Cependant, je me rappelle de la première fois où j'ai fait appel à un Web Service SOAP.C'était en 2008 pour créer et mettre à jour des noms de domaine avec l'API SOAP d'OVH.Aujourd'hui, l'API d'OVH existe aussi en REST et l'API SOAP est doucement mise de côté depuis début 2016.Cette situation de duplicité d'API existe chez les plus grands (ex : eBay, PayPal, Amazon, MS Exchange).Chez d'autre SOAP est légion (OTA).Faisons un état des lieux des API SOAP et REST.Puis voyons quels sont nos moyens de les consommer avec plus ou moins de facilité.\"\nOn terminera comme d'habitude par un apéro participatif - ramenez un petit quelques choses à boire ou à manger pour féter les vacances !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 18
+  },
+  {
+    "title": "PHP Meetup #17: Tester son application PHP",
+    "date": "2017-11-21T19:15:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/245072350/",
+    "description": "Ce prochain Meetup s'organisera autour de 3 talks de 20 minutes traitant d'un sujet commun : le \"testing\" de son application PHP.\nPREMIER TALK20 minutes - JUNIOR\nJulien Vitte (@pichart) : Tu peux pas test !\nLes tests, tout le monde en parle, trop peu de projets les utilisent et surtout dans la durée. Essayons de casser les préjugés et de trouver des cas d'utilisation permettant la mise en place de stratégies de test efficaces.\nSECOND TALK20 minutes - MEDIOR\nMikael Letang (@mikael_letang) : Faire émerger son architecture via du TDD (Test-Driven Development) double boucle \nLa conception dirigée par les tests : une exploration.\nDERNIER TALK20 minutes - JUNIOR\nNicolas Perussel (@mamoot64) : Une approche du BDD(Behavior-Driven Development) avec Behat\nBehat est un framework vous permettant de jouer des tests fonctionnels à partir de scénarios que vous décrivez (sous forme textuelle). Nous verrons, comment en quelques minutes, intégrer Behat dans vos projets. Nous jouerons également quelques tests sous forme d'exploration afin de vous donnez les clés pour un apprentissage plus poussé de ce framework.\nECHANGE & CONVIVIALITE\nLe Meetup se terminera, comme toujours, par un apéro collaboratif - Pensez à amener un petit quelque chose à boire et/ou grignoter !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 32
+  },
+  {
+    "title": "PHP Meetup #16:  Architecture REST & API RESTful",
+    "date": "2017-09-28T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/243354825/",
+    "description": "Présentation par Nicolas Perussel (@mamoot64) :\nREST est devenu, depuis ses quelques dernières année, un style d’architecture incontournable pour la création de services web. \nAprès un gros rappel sur ce qu’est REST, nous analyserons l’écosystème de celui-ci, et je vous fournirai des pistes pour créer des API RESTful (également appelées Hypermédia).\nPour étayer mes propos, j’accompagnerai ce talk avec une démonstration d’APIPlatform, un nouveau framework RAD pour la mise en place d’API REST solide et rapide avec Symfony.\nLe meetup se termine par un apéro collaboratif - pensez à ramener un petit quelque chose à boire ou grignoter !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 26
+  },
+  {
+    "title": "PHP Meetup #15 : Le passé doit mourir; migrer vers PHP 7.2",
+    "date": "2017-08-09T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/241998031/",
+    "description": "Ce talk est assuré par Damien Seguy (@faguo)\nContenu du talk :\nPHP 7.2 est déjà en version beta ! Cette nouvelle version continue le travail d'assainissement et modernisation du langage. Deux directions importantes : l'obsolescence et la sophistication! \nLors de la migration, il faut relire tout le code, et cibler uniquement les points les plus intéressants. Pour cela, nous allons connecter ensemble les incompatibilités PHP 7.2 avec leurs occurrences dans le code ancien, en utilisant différentes techniques d'analyse statique. Grâce à notre connaissance du code, et l'expérience capitalisée des outils, nous nous assurons d'une transition en douceur, et même le luxe des nouvelles capacités de PHP 7.2.\nNous terminerons ce talk par un apéro collaboratif !Pensez à amener des boisons et/ou des petits trucs à manger... \nA propos du conférencier :\nDamien Seguy est directeur technique chez Exakat Ltd., société spécialisée dans les solutions pour la qualité du code source en PHP. Il dirige le développement du moteur d'analyse statique d'Exakat, qui assure la revue de code pour les migrations, la clarté et la sécurité. Avec plus de quinze ans de contributions au monde PHP, son expérience l'a fait passer par la rédaction de la documentation, l'élevage d'elephants, l'animation de groupes d'utilisateurs sur trois continents. Il aime faire du gremlin, des 狮子头 et du camembert.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 31
+  },
+  {
+    "title": "PHP Meetup #14 : Mieux comprendre les PHP Standards Recommandations (PSR)",
+    "date": "2017-06-20T19:15:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/240387941/",
+    "description": "Cette présentation est proposée par Nicolas Perussel (@mamouth64)\n\"Dans ce talk, je vais tenter de vous faire découvrir les PSR’s (PHP Standards Recommandations) de manière ludique.\nAprès un bref historique du PHP FIG, je vous propose de comprendre ce qu'est une PSR puis de parcourir brièvement l'ensemble des recommandations existantes, qu'elles soient validées, acceptées ou en cours d'écriture.  Nous verrons également comment les PSR sont proposées et votées.Je vous proposerai de vous transformer en « Request », en « Response », de participer à l’élaboration d’un « Middleware » humain, de devenir une « LoggerInterface » tout ceci afin de comprendre l’intérêt de ces standards.\"\nOn terminera comme d'habitude par un apéro collaboratif !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 21
+  },
+  {
+    "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
+    "date": "2017-05-23T18:45:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
+    "description": "Hello à tous, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi, qui va traiter de \nCQRS, Fonctionnel, Event Sourcing & Domain Driven Design, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est dans le lien - il s'agit d'une présentation qui permettra de prendre un peu de hauteur sur des concepts qui sortent des spécificités des langages, et que je vous promet être très intéressante !\nPour faciliter la gestion de l'événement, inscrivez-vous de préférence via le lien ci-dessus :) \nTrès bonne journée à tous,",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 10,
+    "rsvp_count": 9
+  },
+  {
+    "title": "PHP Meetup #13: analyse statique de code",
+    "date": "2017-04-18T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/239125374/",
+    "description": "Bonjour à tous, \nPour ce meetup, hébergé par la Wild Code School dans ses locaux du quartier Saint-Michel, Julien Vitte (@pitchart) va présenter les outils d'analyse statique de code :\nL'analyse statique, c'est l'analyse d'un code source sans l'exécuter. Elle n'a besoin d'aucun effort particulier et concerne n'importe quel type de code : testable  ou spaghetti, récent ou legacy. Bref c'est une alliée puissante dans la création d'applications au quotidien.\nLa présentation abordera les outils historiques et les nouveaux venus avec des mises en pratiques. Puis nous verrons ce qui nous attends dans un future proche grâce aux nouveautés de PHP7.\nOn pourra ensuite échanger autour d'un apéro, offert par la Wild Code School :)",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Wild Code School Bordeaux",
+      "address": "15, Place Canteloup",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "15, Place Canteloup, Bordeaux",
+    "rsvp_count": 16
+  },
+  {
+    "title": "PHP Meetup #12: sécurité web",
+    "date": "2017-03-28T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/238404985/",
+    "description": "Les Meetups PHP sont de retour !\nAprès le succès de l'apéro de l'AFUP du 9 mars, on enchaine sur une présentation de Alexandre Gravel-Raymond (@alexgrweb) sur la sécurité web.\nSi l'on n'a pas les bons réflexes, la sécurité est trop souvent l'une des dernières questions qu'on se pose (si on se la pose) concernant un projet web.On abordera les failles les plus courantes (et certaines plus obscures), comment elles sont utilisées et comment s'en prémunir en PHP.On tentera également de poser les bases pour faire l'audit sécurité d'une application legacy (ou pas) avec nos yeux et avec l'aide d'outils appropriés. Newbies bienvenu/e/s !\nL'événement se terminera comme toujours par un apéro collaboratif : chacun est invité a amener un petit quelque chose à boire ou à grignoter.\nNote : la présentation initialement prévue \"analyse de code statique\" est reportée, probablement au prochain meetup.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 17
+  },
+  {
+    "title": "Super-Apéro au Frog and Rosbif",
+    "date": "2017-03-09T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/237877972/",
+    "description": "Bonjour à tous !\nA l'occasion du Super-Apéro de l'AFUP, nous vous proposons de nous retrouver au Frog and Rosbif (23 Rue Ausone à Bordeaux), le jeudi 9 mars à partir de 19h.\nNous devenons également officiellement l'antenne bordelaise de l'AFUP !\nAu programme de la soirée : un moment convivial de rencontres et d'échange autour d'un verre.\nLes inscriptions se font sur aperophp.net : http://www.aperophp.net/423/view.html \nPas de présentation, pas de pression, juste du bon temps :)\nPar ailleurs, nous prévoyons d'organiser, par la suite, des meetups plus régulièrement. Pour cela, je vous propose d'indiquer dans ce document les sujets qui vous intéressent. J'ai mis quelques sujets divers et variés, mais n'hésitez pas à en rajouter ! \nEnfin, un nouveau meetup Symfony vient de se lancer, avec une présentation dès jeud prochain sur l'implémentation des design patterns avec php: https://www.meetup.com/fr-FR/Symfony-User-Group-Bordeaux/\nExcellente soirée,",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Frog and Rosbif",
+      "address": "23 Rue Ausone",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "23 Rue Ausone, Bordeaux",
+    "rsvp_limit": 25,
+    "rsvp_count": 15
+  },
+  {
+    "title": "PHP Meetup #11 : Développement d'applications CLI en PHP",
+    "date": "2016-06-20T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/231557035/",
+    "description": "Bonjour à tous, \nAprès une petite pause printanière, les meetup PHP sont de retour !\nCe mois-ci, Julien Vitte (@pitchart) va nous parler d'environnement de développement pour les appli CLI : \nPHP offre des facilités pour le développement d'applications utilisables en ligne de commande. Des librairies comme symfony/console offrent des outils dans ce sens. Si la possibilité de packager l'application dans un conteneur PHAR permet la distribution et l'utilisation sur différentes plateformes, d'autres librairies viennent en faciliter la maintenance, le build et la mise à jour.\nEn suivant les bonnes pratiques utilisées par des outils tels que Composer ou PhpUnit, voyons comment mettre en place un environnement de travail qui permettra le développement de commandes en PHP.\nLa présentation sera accompagnée d'un apéro collaboratif : vous êtes donc invité.e.s à ramener de quoi boire ou grignoter :)\nA très bientôt !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 11
+  },
+  {
+    "title": "PHP Meetup #10 : Haxe pour les développeurs web",
+    "date": "2016-02-03T18:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/227986634/",
+    "description": "Excellente année 2016 à tous !\nPour ce 10eme meetup PHP, François Barbut (@bablukid) var nous présenter Haxe, un language multi plateforme et open source. \nAu programme : \n- Rapide historique- Démo : Compiler le même code en C++, PHP, Neko, JS, Android, IOS et Java ! - Découverte du langage (syntaxe, fonctionnalités, targets, IDE...) \nHaxe pour le web : - Partager du code et des structures entre le client et le serveur - SPOD, un ORM avec typage fort - Sugoï, framework web simple et robuste - Exemple de Cagette.net, web app open-source en Haxe",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 17
+  },
+  {
+    "title": "PHP Meetup #9 : Rétrospective d’une mutation technique d’un projet digital",
+    "date": "2015-11-26T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/226237783/",
+    "description": "Damien Perrier (@damienp33) va faire un retour d'expérience sur le développement d'une application de MOOC: \n\"Derrière ce gros titre barbare, je vous propose un retour d'expérience sur la mutation d'un projet sous Symfony 2 et de ses nombreuses péripéties. On y parlera d'API REST, de micro-services, de mobile hybride et plus encore ...\"\nLa présentation sera comme toujours accompagnée d'un apéro collaboratif : ramenez-donc une petite bouteille et / ou un morceau à grignoter !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 11
+  },
+  {
+    "title": "PHP Meetup #8: Typo3 & PHP: Trollons peu mais trollons bien",
+    "date": "2015-10-14T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/225890851/",
+    "description": "Julien Vitte va nous présenter TYPO3 : \nTYPO3 est un Système de gestion de contenus Open Source orienté entreprise permettant de construire du simple site web de présentation au portail applicatif multi-sites.Il s'est doté au cours de son évolution des principales composantes d'un CMS : séparation des contenus et de la mise en forme, travail collaboratif, chaîne de publication, granularité des droits utilisateurs, gestion des assets  ...D'un point de vue développement, il a su évoluer en s'orientant sur quatre principes fondamentaux : OOP, DDD, MVC et TDD. Je vous propose de faire connaissance ;)\nArnaud Langlade va nous présenter en avant-première son lightning talk à bdx.io : PHP: Trollons mais trollons bien\nComme toujours, on fera un apéro collaboratif: pensez à ramener un petit quelque chose à boire et à manger ! \nAttention : ce meetup aura lieu à Coolworking, et Google Maps tend à placer cet espace incorrectement sur la carte, utilisant une ancienne adresse !\nIl se trouve au 9, rue de Condé, la rue de Condé étant entre la rue de l'Esprit des lois (à gauche du grand théatre), et l'Allée d'Orléans\nhttps://www.google.fr/maps/place/9+Rue+de+Cond%C3%A9,+33000+Bordeaux/@44.8435849,-0.5733138,17z/data=!3m1!4b1!4m2!3m1!1s0xd5527da095b8fe5:0x9a606def10441ea9?hl=fr\nL'accès nécessite un digicode. Quelqu'un sera en bas pour vous accueillir et vous ouvrir avant le début de la conf. \nSi vous êtes en retard, et que personne ne répond quand vous sonnez à l'interphone, vous pouvez appeler Arnaud : [masked]",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking",
+      "address": "9 rue de Condé",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "9 rue de Condé, Bordeaux",
+    "rsvp_count": 8
+  },
+  {
+    "title": "Lightning talk : Les design patterns",
+    "date": "2015-09-15T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/224737500/",
+    "description": "Pour le prochain meetup nous parlerons des design patterns (patrons de conception). Ce meetup est ouvert à tous ceux qui veulent parler de leur pattern préféré. N’hésitez à nous faire signe avant le meetup histoire d’éviter les doublons.\nEt comme toujours, des débats et du trolling autour d'un apéro collaboratif. Pensez à amener un petit quelque chose à boire ou à grignoter !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 19
+  },
+  {
+    "title": "PHP Meetup #6: REST in peace",
+    "date": "2015-07-31T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/223574747/",
+    "description": "Pour cette session, c'est Fabien Furet, CTO de IWD, qui nous présente REST in peace: \nBonnes pratiques pour construire une API \"REST\" pragmatique et efficace  en 2015.\nNo bullshit, on se concentre sur ce qu'il faut faire et pas sur les débats de chapelles.\nCette présentation n'est pas spécialement orientée PHP, elle peut s’adresser à n'importe quel dev.\nEt comme toujours, des débats et du trolling autour d'un apéro collaboratif. Pensez à amener un petit quelque chose à boire ou à grignoter !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 22
+  },
+  {
+    "title": "PHP Meetup #5: Introduction à la programmation fonctionnelle",
+    "date": "2015-06-24T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/222955952/",
+    "description": "Arnaud Lemaire va nous présenter la programmation fonctionnelle : \nLa « programmation fonctionnelle » est un terme qui revient de plus en plus fréquemment dans notre industrie. Cependant, beaucoup de développeurs trouvent ce paradigme particulièrement cryptique. C’est la raison pour laquelle je vous proposerai le 24 juin une introduction aux notions utilisées dans la programmation fonctionnelle.Après avoir survolé les fondements théoriques, nous verrons ce que recouvre la programmation fonctionnelle, et comment elle peut être utilisée au sein de PHP pour améliorer la qualité de vos développements.Même si des cas d’usages liés à PHP seront présentés, les notions liées à la programmation fonctionnelle sont universelles, les autres développeurs sont donc bienvenus.\nEt comme toujours, la présentation sera suivi d'un apéro collaboratif - pensez donc à amener un petit quelque chose à boire ou grignoter :)",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking",
+      "address": "9 rue de Condé",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "9 rue de Condé, Bordeaux",
+    "rsvp_count": 28
+  },
+  {
+    "title": "PHPMeetup #4 : STUPID vs SOLID ",
+    "date": "2015-05-26T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/222318186/",
+    "description": "Pour ce 4eme meetup, Arnaud Langlade (core developer de Sylius, présentateur à la conférence SymfonyLive ...), nous présentera deux principes de la programmation orientée objet : STUPID et SOLID. Soit, pour résumer, les mauvaises versus les bonnes pratiques. Alors, vous êtes plutôt SOLID ou STUPID ?\nComme toujours, la présentation sera suivie/accompagnée d'un apéro collaboratif.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 29
+  },
+  {
+    "title": "Lightning talks",
+    "date": "2015-04-22T19:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/221574381/",
+    "description": "Bonjour à tous, et bienvenu à tous les nouveaux membres !\nPour ce prochain Meetup, je propose qu'on fasse une session de Lightning Talks c'est-à-dire une session de courtes présentations de 5 min.\nPour ceux qui ne sont pas familiers avec ce format: http://perl.plover.com/lt/osc2003/lightning-talks.html [EN]\nLes avantages\n- plein de sujets couverts\n- une bonne occasion de s'essayer à faire des présentations sur un format court\n- si la présentation est inintéressante, au pire, ça ne dire que 5 min\nLes règles pour les présentations\n- pas plus de 5 min par présentation\n- un sujet susceptible d’intéresser les gens brillants que nous sommes (donc, à peu près n'importe quoi)\nPropositions de présentations\nhttps://docs.google.com/spreadsheets/d/1TKCbWi0lak1-BREamF9-ySa67meGVK0HS8sGat60WWY/edit?usp=sharing\nA vos suggestions !",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 12
+  },
+  {
+    "title": "Scalability & High performance of legacy php application",
+    "date": "2015-01-21T18:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/219713593/",
+    "description": "Pour ce second Meetup PHP, c'est Arnaud Lemaire qui va puiser dans son stock (semble-t'il inépuisable!) de sujets, et nous parler Scaling et Haute Performance d'applications PHP legacy. \nAu programme:\n- Quels sont les concepts clés autour de ces sujets ?- Comment améliorer les perfs de l'application avec un minimum d'intervention sur le code ?- Comment améliorer les perfs de la base de donnée ?- Le tout à travers des retours d'XP\nOn terminera comme la dernière fois par une bonne discussion autour d'un apéro collaboratif.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 30,
+    "rsvp_count": 8
+  },
+  {
+    "title": "Meetup PHP: Retour sur le Forum PHP / Domain Driven Design",
+    "date": "2014-12-11T18:30:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/218821208/",
+    "description": "Au programme: \nEric Colinet fera un retour sur le Forum PHP 2014 qui a eu lieu en Octobre dernier.\nJe parlerai ensuite de mon retour d'expérience sur l'intégration de principes SOLID et de concepts de Domain Driven Design dans une grosse appli initialement developpée en mode (c)RAD(e) -  avec ses succès et ses échecs.\nOn finira sur un apéro collaboratif, chacun pouvant amener un petit quelque chose à manger ou à boire.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 30,
+    "rsvp_count": 13
+  }
+]

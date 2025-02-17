@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - '**/events.yml'
+      - '**/events.json'
   workflow_dispatch:
 
 jobs:

@@ -1,11 +1,11 @@
 from pathlib import Path
-import yaml
+import json
 from icalendar import Calendar, Event
 from datetime import datetime
 from typing import List, Dict
 
 class ICalendarGenerator:
-    """Generates iCal files from YAML event data"""
+    """Generates iCal files from JSON event data"""
     
     @staticmethod
     def create_calendar(name: str, description: str = "") -> Calendar:
@@ -19,8 +19,8 @@ class ICalendarGenerator:
         return cal
 
     @staticmethod
-    def create_event_from_yaml(event_data: Dict) -> Event:
-        """Convert a YAML event entry to an iCal event"""
+    def create_event_from_json(event_data: Dict) -> Event:
+        """Convert a JSON event entry to an iCal event"""
         event = Event()
         
         # Required fields
@@ -36,14 +36,14 @@ class ICalendarGenerator:
         if 'venue' in event_data:
             venue = event_data['venue']
             location = f"{venue['name']}, {venue['address']}, {venue['city']}, {venue['country']}"
-        elif 'location' in event_data:  # For global events file
+        elif 'location' in event_data:
             location = event_data['location']
             
         if location:
             event.add('location', location)
             description_parts.append(f"📍 {location}")
         
-        # Add full description if available (for community-specific calendars)
+        # Add description if available
         if 'description' in event_data:
             description_parts.append("\n" + event_data['description'])
         
@@ -62,22 +62,20 @@ class ICalendarGenerator:
         
         # Combine all description parts
         event.add('description', "\n".join(description_parts))
-        
-        # Add unique identifier
         event.add('uid', f"{event_data['url']}@community-events")
         
         return event
 
     def process_community_folder(self, folder_path: Path, global_calendar: Calendar) -> None:
         """Process a community folder and create its calendar"""
-        events_file = folder_path / 'events.yml'
+        events_file = folder_path / 'events.json'
         if not events_file.exists():
             return
             
         # Read events
         try:
             with open(events_file, 'r', encoding='utf-8') as f:
-                events_data = yaml.safe_load(f) or []
+                events_data = json.load(f)
         except Exception as e:
             print(f"Error reading events file {events_file}: {e}")
             return
@@ -92,7 +90,7 @@ class ICalendarGenerator:
         # Process each event
         for event_data in events_data:
             try:
-                ical_event = self.create_event_from_yaml(event_data)
+                ical_event = self.create_event_from_json(event_data)
                 community_cal.add_component(ical_event)
                 global_calendar.add_component(ical_event)
             except Exception as e:
