@@ -60,7 +60,7 @@ class ReadmeUpdater:
         date = datetime.fromisoformat(event['date'])
         formatted_date = self.format_date_for_display(date)
         location = event.get('location', 'Online' if event.get('is_online') else 'TBD')
-        return f"| {formatted_date} | [{event['community']}]({event['community']}/) | {event['title']} | {location} | {event['url']} |"
+        return f"| {formatted_date} | [{event['community']}]({event['community']}/) | [{event['title']}]({event['url']}) | {location} |"
 
     def group_events_by_year(self, events: List[Dict]) -> Dict[int, List[Dict]]:
         """Group events by year"""
@@ -149,8 +149,8 @@ class ReadmeUpdater:
         future_events = self.get_future_events(events)[:3]  # Only show next 3 events
         # Generate events table
         table_lines = [
-            "| Date | Community | Event | Location | Link |",
-            "|------|------------|--------|-----------|------|",
+            "| Date | Community | Event | Location |",
+            "|------|------------|--------|-----------|",
             *[self.format_event_row_global(event) for event in future_events]
         ]
         events_table = "\n".join(table_lines)
