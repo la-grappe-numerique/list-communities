@@ -21,7 +21,7 @@ function createGoogleMapsLink(location) {
 // Fonction pour créer le lien de la communauté
 function createCommunityLink(community) {
     if (!community) return null;
-    return `./${community}/`;
+    return `/#/./${community}/`;
 }
 
 // Fonction pour créer le contenu du popover
