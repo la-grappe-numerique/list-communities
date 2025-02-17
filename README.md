@@ -14,7 +14,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 
 <!-- ALL-EVENTS:START - Do not remove or modify this section -->
 <!-- ALL-EVENTS-LIST:START -->
-| Date | Community | Event | Location |
+| Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
 | Jeudi 20 février 2025 à 18:30 | [aws-bordeaux](aws-bordeaux/) | [Meetup AWS re:Invent re:Cap](https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/) | Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux |
 | Mercredi 26 février 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [La gestion d'erreurs en Javascript](https://www.meetup.com/bordeauxjs/events/306025718/) | 12 rue des Faussets, Bordeaux |

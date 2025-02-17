@@ -5,6 +5,12 @@ from datetime import datetime
 from github import Github
 import re
 
+import os,sys
+current_dir = Path(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(str(current_dir))
+from utils.event_matcher import EventMatcher
+
+
 def parse_issue_body(body: str) -> dict:
     """
     Parse the issue body form data into a dictionary.
@@ -114,34 +120,39 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
         pass
     
     new_event = format_event_json(community, event_data)
-    exists = any(event['url'] == new_event['url'] for event in current_content)
     
-    if not exists:
-        current_content.append(new_event)
-        current_content.sort(key=lambda x: x['date'], reverse=True)
-        
-        file_content = json.dumps(current_content, indent=2, ensure_ascii=False)
-        commit_message = f"Add event: {event_data['event_title']}"
-        
-        if file_sha:
-            repo.update_file(
-                file_path,
-                commit_message,
-                file_content,
-                file_sha,
-                branch=branch_name
-            )
-        else:
-            repo.create_file(
-                file_path,
-                commit_message,
-                file_content,
-                branch=branch_name
-            )
-        
-        return branch_name, "Event added successfully"
+    # Use EventMatcher to check for existing events
+    matcher = EventMatcher()
+    matching_event = matcher.find_matching_event(new_event, current_content)
     
-    return branch_name, "Event already exists"
+    if matching_event:
+        # If we found a match, we might want to update its communities
+        return branch_name, "Event already exists"
+    
+    # No match found, add as new event
+    current_content.append(new_event)
+    current_content.sort(key=lambda x: x['date'], reverse=True)
+    
+    file_content = json.dumps(current_content, indent=2, ensure_ascii=False)
+    commit_message = f"Add event: {event_data['event_title']}"
+    
+    if file_sha:
+        repo.update_file(
+            file_path,
+            commit_message,
+            file_content,
+            file_sha,
+            branch=branch_name
+        )
+    else:
+        repo.create_file(
+            file_path,
+            commit_message,
+            file_content,
+            branch=branch_name
+        )
+    
+    return branch_name, "Event added successfully"
 
 def main():
     # Get issue data from environment

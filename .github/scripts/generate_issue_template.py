@@ -1,6 +1,8 @@
 from pathlib import Path
 import yaml
 
+from utils.event_matcher import EventMatcher
+
 def get_communities():
     """Get list of communities from directories"""
     root_dir = Path('.')

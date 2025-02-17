@@ -60,7 +60,24 @@ class ReadmeUpdater:
         date = datetime.fromisoformat(event['date'])
         formatted_date = self.format_date_for_display(date)
         location = event.get('location', 'Online' if event.get('is_online') else 'TBD')
-        return f"| {formatted_date} | [{event['community']}]({event['community']}/) | [{event['title']}]({event['url']}) | {location} |"
+        # Handle multiple communities
+        if 'communities' in event:
+            # Sort communities: primary first, then alphabetically
+            sorted_communities = sorted(
+                event['communities'],
+                key=lambda x: (not x['primary'], x['name'])
+            )
+            community_links = [
+                f"[{comm['name']}]({comm['name']}/)"
+                for comm in sorted_communities
+            ]
+            community_cell = ' & '.join(community_links)
+        else:
+            # Backward compatibility for single community events
+            community = event.get('community', '')
+            community_cell = f"[{community}]({community}/)"
+
+        return f"| {formatted_date} | {community_cell} | [{event['title']}]({event['url']}) | {location} |"
 
     def group_events_by_year(self, events: List[Dict]) -> Dict[int, List[Dict]]:
         """Group events by year"""
@@ -149,7 +166,7 @@ class ReadmeUpdater:
         future_events = self.get_future_events(events)[:3]  # Only show next 3 events
         # Generate events table
         table_lines = [
-            "| Date | Community | Event | Location |",
+            "| Date | Community(ies) | Event | Location |",
             "|------|------------|--------|-----------|",
             *[self.format_event_row_global(event) for event in future_events]
         ]
@@ -175,7 +192,7 @@ class ReadmeUpdater:
     def process_all(self):
         """Process all community directories and update READMEs"""
         for community_dir in self.root_dir.iterdir():
-            if community_dir.is_dir() and not community_dir.name.startswith('.'):
+            if community_dir.is_dir() and not community_dir.name.startswith('.') and not community_dir.name in ['docs', 'template']:
                 events_file = community_dir / 'events.json'
                 if events_file.exists():
                     events = self.read_events(events_file)
