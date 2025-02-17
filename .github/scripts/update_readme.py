@@ -3,6 +3,8 @@ import json
 from datetime import datetime
 import locale
 from collections import defaultdict
+from typing import List, Dict, Optional
+import re
 
 class ReadmeUpdater:
     """Updates README files with event information"""
@@ -133,6 +135,7 @@ class ReadmeUpdater:
             new_content = f"# {community_dir.name}\n\n<!-- EVENTS:START -->\n{full_content}<!-- EVENTS:END -->\n"
 
         # Write the updated content
+        print(f"Update {readme_path} with {len(future_events)} future events")
         with open(readme_path, 'w', encoding='utf-8') as f:
             f.write(new_content)
 
