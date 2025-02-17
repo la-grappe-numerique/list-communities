@@ -45,6 +45,10 @@ Vous pouvez joindre les communauté du numeriaque bordelais et échanger avec no
 - [BDX.IO](https://bdxio.fr/)
 - [Agile Tour Bordeaux](https://agiletourbordeaux.fr/)
 
+## 📅 Calendrier des événements
+
+<div id="calendar"></div>
+
 ## 📅 Les évènements à venir
 
 Le calendrier des évènements est également disponible au format iCal.
@@ -66,10 +70,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](./events.ics ':ign
 | Lundi 02 juin 2025 à 18:30 | [okiwi](./okiwi/) | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb/ |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
-
-## 📅 Calendrier des événements
-
-<div id="calendar"></div>
 
 ## 🖥  Carte de visite
 
