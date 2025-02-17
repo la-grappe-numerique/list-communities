@@ -1,7 +1,6 @@
 import os
-import yaml
-from pathlib import Path
 import json
+from pathlib import Path
 from datetime import datetime
 from github import Github
 import re
@@ -29,38 +28,27 @@ def parse_issue_body(body: str) -> dict:
 
 def validate_event_data(data: dict) -> tuple[bool, str]:
     """Validate the event data"""
-    required_fields = ['event_title', 'event_date', 'event_url', 'community', 'location', 'description']
-    
+    required_fields = ['event_title', 'event_date', 'event_url', 'community', 'location']
+
     # Check required fields
     for field in required_fields:
         if field not in data or not data[field]:
             return False, f"Missing required field: {field}"
-    
+
     # Validate date format
     try:
         datetime.strptime(data['event_date'], '%Y-%m-%d %H:%M')
     except ValueError:
         return False, "Invalid date format. Use YYYY-MM-DD HH:MM"
-    
+
     # Validate URL
     if not data['event_url'].startswith('http'):
         return False, "Invalid URL format"
-    
+
     return True, ""
 
-def format_event_yaml(community: str, event_data: dict) -> str:
-    """Format the event data as YAML"""
-    class CustomYAMLDumper(yaml.SafeDumper):
-        pass
-        
-    def str_presenter(dumper, data):
-        """Custom string presenter for YAML"""
-        if '\n' in data:
-            return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
-        return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='')
-        
-    CustomYAMLDumper.add_representer(str, str_presenter)
-    
+def format_event_json(community: str, event_data: dict) -> dict:
+    """Format event data as a JSON object"""
     event = {
         'title': event_data['event_title'],
         'date': datetime.strptime(event_data['event_date'], '%Y-%m-%d %H:%M').isoformat(),
@@ -70,80 +58,44 @@ def format_event_yaml(community: str, event_data: dict) -> str:
         'location': event_data['location'],
         'is_online': event_data.get('is_this_an_online_event', 'No') == 'Yes'
     }
-    
-    return yaml.dump([event], allow_unicode=True, sort_keys=False, Dumper=CustomYAMLDumper)
+    return event
 
 def create_or_update_branch(repo, base_branch: str, community: str, event_data: dict) -> tuple[str, str]:
     """Create a new branch and update the events file"""
-
-    class CustomYAMLDumper(yaml.SafeDumper):
-        pass
-        
-    def str_presenter(dumper, data):
-        """Custom string presenter for YAML"""
-        if '\n' in data:
-            return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
-        return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='')
-    
-    CustomYAMLDumper.add_representer(str, str_presenter)
-
-    # Generate branch name from event details
     safe_title = re.sub(r'[^a-zA-Z0-9]', '-', event_data['event_title'].lower())
     branch_name = f"add-event/{safe_title}"
     
-    print(f"Creating/updating branch: {branch_name}")
-    
-    # Get the latest commit from base branch
-    base_ref = repo.get_git_ref(f"heads/{base_branch}")
-    base_sha = base_ref.object.sha
-    
     try:
-        # Try to create new branch
+        base_ref = repo.get_git_ref(f"heads/{base_branch}")
+        base_sha = base_ref.object.sha
         repo.create_git_ref(f"refs/heads/{branch_name}", base_sha)
-        print(f"Created new branch: {branch_name}")
-    except Exception as e:
-        print(f"Branch might already exist: {str(e)}")
-        # Branch might already exist - get its latest commit
+    except Exception:
         branch_ref = repo.get_git_ref(f"heads/{branch_name}")
         base_sha = branch_ref.object.sha
     
-    # Get current file content if exists
-    file_path = f"{community}/events.yml"
+    file_path = f"{community}/events.json"
     file_sha = None
     current_content = []
     
-    print(f"Checking file: {file_path}")
     try:
         contents = repo.get_contents(file_path, ref=branch_name)
         if contents.content:
-            current_content = yaml.safe_load(contents.decoded_content.decode('utf-8')) or []
+            current_content = json.loads(contents.decoded_content.decode('utf-8'))
             file_sha = contents.sha
-            print(f"Found existing content with {len(current_content)} events")
-            for event in current_content:
-                print(f"Existing event URL: {event.get('url')}")
-    except Exception as e:
-        print(f"No existing file found: {str(e)}")
+    except Exception:
+        pass
     
-    # Add new event
-    formatted_yaml = format_event_yaml(community, event_data)
-    new_event = yaml.safe_load(formatted_yaml)[0]  # Charge le premier événement du YAML
-    
-    print(f"New event URL: {new_event['url']}")
-    
-    # Check if event already exists
+    new_event = format_event_json(community, event_data)
     exists = any(event['url'] == new_event['url'] for event in current_content)
-    print(f"Event exists check: {exists}")
     
     if not exists:
         current_content.append(new_event)
         current_content.sort(key=lambda x: x['date'], reverse=True)
         
-        # Create or update file
-        file_content = yaml.dump(current_content, allow_unicode=True, sort_keys=False, Dumper=CustomYAMLDumper)
+        file_content = json.dumps(current_content, indent=2, ensure_ascii=False)
         commit_message = f"Add event: {event_data['event_title']}"
         
         if file_sha:
-            print(f"Updating existing file")
             repo.update_file(
                 file_path,
                 commit_message,
@@ -152,7 +104,6 @@ def create_or_update_branch(repo, base_branch: str, community: str, event_data: 
                 branch=branch_name
             )
         else:
-            print(f"Creating new file")
             repo.create_file(
                 file_path,
                 commit_message,

@@ -1,35 +1,29 @@
 from pathlib import Path
-import yaml
+import json
 from datetime import datetime
-from typing import List, Dict
-import re
-from collections import defaultdict
 import locale
+from collections import defaultdict
 
 class ReadmeUpdater:
     """Updates README files with event information"""
     
     def __init__(self, root_dir: Path):
         self.root_dir = root_dir
-        # Set locale for date formatting
         locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
 
     def read_events(self, events_file: Path) -> List[Dict]:
-        """Read and parse events from YAML file"""
+        """Read and parse events from JSON file"""
         try:
             with open(events_file, 'r', encoding='utf-8') as f:
-                return yaml.safe_load(f) or []
+                return json.load(f)
         except Exception as e:
             print(f"Error reading events file {events_file}: {e}")
             return []
 
     def format_date_for_display(self, date: datetime) -> str:
         """Format date for display in markdown with day name and month name"""
-        # Get French locale
         locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
-        # Format with French locale
         formatted = date.strftime('%A %d %B %Y à %H:%M')
-        # Ensure first letter is uppercase
         return formatted[0].upper() + formatted[1:]
 
     def get_future_events(self, events: List[Dict]) -> List[Dict]:
@@ -39,7 +33,7 @@ class ReadmeUpdater:
             event for event in events
             if datetime.fromisoformat(event['date']) > now
         ]
-        future_events.sort(key=lambda x: x['date'])  # Sort by date ascending
+        future_events.sort(key=lambda x: x['date'])
         return future_events
 
     def get_past_events(self, events: List[Dict]) -> List[Dict]:
@@ -49,7 +43,7 @@ class ReadmeUpdater:
             event for event in events
             if datetime.fromisoformat(event['date']) <= now
         ]
-        past_events.sort(key=lambda x: x['date'], reverse=True)  # Sort by date descending
+        past_events.sort(key=lambda x: x['date'], reverse=True)
         return past_events
 
     def format_event_row_community(self, event: Dict) -> str:
@@ -70,21 +64,21 @@ class ReadmeUpdater:
         """Group events by year"""
         # Only use past events
         past_events = self.get_past_events(events)
-        
+
         events_by_year = defaultdict(list)
         for event in past_events:
             year = datetime.fromisoformat(event['date']).year
             events_by_year[year].append(event)
-        
+
         return dict(sorted(events_by_year.items(), reverse=True))
 
     def update_community_readme(self, community_dir: Path, events: List[Dict]):
         """Update a community's README with its events"""
         readme_path = community_dir / 'README.md'
-        
+
         # Prepare content sections
         content_parts = []
-        
+
         # Upcoming events section
         future_events = self.get_future_events(events)
         if future_events:
@@ -97,7 +91,7 @@ class ReadmeUpdater:
                 ""
             ]
             content_parts.extend(upcoming_section)
-        
+
         # Past events by year
         events_by_year = self.group_events_by_year(events)
         if events_by_year:
@@ -114,15 +108,15 @@ class ReadmeUpdater:
                     ""
                 ]
                 content_parts.extend(year_section)
-        
+
         # Join all content parts
         full_content = "\n".join(content_parts)
-        
+
         # Read existing README if it exists
         if readme_path.exists():
             with open(readme_path, 'r', encoding='utf-8') as f:
                 current_content = f.read()
-            
+
             # Replace between markers or append
             marker_pattern = r"<!-- EVENTS:START -->.*<!-- EVENTS:END -->"
             if re.search(marker_pattern, current_content, re.DOTALL):
@@ -137,7 +131,7 @@ class ReadmeUpdater:
         else:
             # Create new README
             new_content = f"# {community_dir.name}\n\n<!-- EVENTS:START -->\n{full_content}<!-- EVENTS:END -->\n"
-        
+
         # Write the updated content
         with open(readme_path, 'w', encoding='utf-8') as f:
             f.write(new_content)
@@ -175,23 +169,25 @@ class ReadmeUpdater:
         with open(readme_path, 'w', encoding='utf-8') as f:
             f.write(new_content)
 
-
     def process_all(self):
         """Process all community directories and update READMEs"""
-        all_events = []
-        
-        # Process each community
         for community_dir in self.root_dir.iterdir():
             if community_dir.is_dir() and not community_dir.name.startswith('.'):
-                events_file = community_dir / 'events.yml'
+                events_file = community_dir / 'events.json'
                 if events_file.exists():
                     events = self.read_events(events_file)
-                    all_events.extend(events)
                     self.update_community_readme(community_dir, events)
         
         # Update global README
-        print(f"Total events: {len(all_events)}")
-        self.update_global_readme(all_events)
+        global_events = []
+        for community_dir in self.root_dir.iterdir():
+            if community_dir.is_dir() and not community_dir.name.startswith('.'):
+                events_file = community_dir / 'events.json'
+                if events_file.exists():
+                    events = self.read_events(events_file)
+                    global_events.extend(events)
+        
+        self.update_global_readme(global_events)
 
 def main():
     """Main script execution"""

@@ -105,11 +105,10 @@ function loadCalendar() {
         }
     });
 
-    // Chargement des événements
-    fetch('events.yml')
-        .then(response => response.text())
-        .then(yamlText => {
-            const events = jsyaml.load(yamlText);
+    // Chargement des événements depuis le fichier JSON
+    fetch('events.json')
+        .then(response => response.json())
+        .then(events => {
             const formattedEvents = events.map(event => ({
                 title: event.title,
                 start: event.date,
