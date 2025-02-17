@@ -18,10 +18,24 @@ function createGoogleMapsLink(location) {
     return `https://www.google.com/maps/search/?api=1&query=${encodedLocation}`;
 }
 
+// Fonction utilitaire pour obtenir l'URL de base
+function getBaseUrl() {
+    // Si nous sommes dans Docsify
+    if (window.$docsify) {
+        // Construire l'URL de base à partir de location
+        const basePath = window.location.pathname.replace(/\/$/, '');
+        const baseHash = '#/';
+        return `${basePath}${baseHash}`;
+    }
+    // Pour un site web standard
+    return window.location.pathname.replace(/\/$/, '') + '/';
+}
+
 // Fonction pour créer le lien de la communauté
 function createCommunityLink(community) {
     if (!community) return null;
-    return `/#/./${community}/`;
+    const baseUrl = getBaseUrl();
+    return `${baseUrl}${community}/`;
 }
 
 // Fonction pour créer le contenu du popover
