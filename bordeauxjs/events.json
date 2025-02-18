@@ -1,1 +1,1169 @@
-[]
+[
+  {
+    "title": "La gestion d'erreurs en Javascript",
+    "date": "2025-02-26T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/306025718/",
+    "description": "“Peut-être a-t-on besoin d’erreurs pour se sentir humain” a dit l’architecte Frank Gehry. Si nous ne tenterons pas de répondre à cette vaste question, l’architecture logicielle a elle besoin de gérer nos erreurs… Comment prendre en compte l’imprévu en gardant un code testable, typé et expressif ? En partant d’exemples concrets, je vous propose de passer en revue plusieurs patterns, de l’impératif au fonctionnel, et examiner leurs trade-offs pour en tirer le meilleur.\nUn immense merci à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil ! 🍾",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 34
+  },
+  {
+    "title": "Cap sur le Web : Les Navigateurs, Explorateurs du Numérique",
+    "date": "2025-02-06T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/305454697/",
+    "description": "À l'image de Christophe Colomb qui a ouvert de nouvelles voies vers des terres inconnues, les navigateurs internet sont des piliers de notre ère numérique.\nExplorons comment ces outils essentiels ont révolutionné notre manière de naviguer sur le web.Nous plongerons dans leur histoire, dévoilerons les technologies qui les animent et discuteront des innovations qui continuent de transformer notre expérience en ligne.\nQue vous soyez un explorateur du numérique ou simplement curieux, cette conférence vous offrira une vision enrichie des navigateurs en tant que guides de notre monde connecté.\nUn petit retour aux bases CPU, GPU, traitement IP, process de rendering, JS...\nUn grand merci à [OnePoint](https://www.groupeonepoint.com/fr/nos-implantations/onepoint-sud-ouest/) qui nous accueillera dans ses locaux pour ce BordeauxJS 🍾",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Onepoint Bordeaux - Transformation Digital",
+      "address": "2 Rue Marc Sangnier",
+      "city": "Bègles",
+      "country": "France"
+    },
+    "location": "2 Rue Marc Sangnier, Bègles",
+    "rsvp_count": 35
+  },
+  {
+    "title": "TalkIT Tour Bordeaux - Web Workers & Clean Code",
+    "date": "2024-10-10T16:30:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/303782977/",
+    "description": "Nos amis de **[Younup](https://www.younup.fr/)** organisent dans leurs locaux un TALK IT Tour Bordeaux et un des sujets porte sur notre thématique, le JS 😄\nAttention, inscription obligatoire sur [EventBrite](https://www.eventbrite.fr/e/billets-talk-it-tour-bordeaux-web-workers-clean-code-1026722563827)\n**Lors de cet événement, on parlera de Web Workers et de Clean Code :**\n**#1 - Les Web Workers au service du front UX - Romain Guinand, Lead JS**Grâce aux Web Workers, les traitements en JavaScript peuvent être parallélisés, permettant au navigateur de gérer des tâches en arrière-plan pour un meilleur confort d’utilisation. Romain nous partagera son expérience et nous expliquera comment, en choisissant cette solution, on peut renforcer l’expérience utilisateur.\n**#2 - Prôner le Clean Code en entreprise - Nicolas Saulnier, Dev Back**Au travers de ce talk Nicolas nous présentera les avantages issus du clean code mais aussi les bonnes pratiques grâce au concept SOLID. Ce qui permet d’évoluer sur un projet, où il est plaisant de coder, sans perdre du temps et du budget à déchiffrer le code existant.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Younup Bordeaux",
+      "address": "68 Rue Achard",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "68 Rue Achard, Bordeaux",
+    "rsvp_limit": 1,
+    "rsvp_count": 1
+  },
+  {
+    "title": "VueJS au musée",
+    "date": "2024-07-11T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/302118166/",
+    "description": "Le dernier meetup BordeauxJS avant les vacances 🌴 !\n**Michael Bonfils** vous présentera dans un format court le retour d'expérience sur le développement d'une application mobile en VueJS pour un escape game au sein d'un musée !\nLa seconde partie sera dédié à un échange au sein de la communauté en mode apéro sur le futur de BordeauxJS (thèmes, plateforme, fréquence, ...)\nMerci à Aquinum de nous accueillir au Node ce jeudi 11 juillet à 19h 🍾\n📣 Le meetup de rentrée aura lieu fin août, plus de news à venir 📣",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 70,
+    "rsvp_count": 11
+  },
+  {
+    "title": "IA générative en action : intégrez les LLM dans vos applications !",
+    "date": "2024-07-02T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/301711664/",
+    "description": "Bientôt les vacances !\nPour cet avant dernier meetup, nous serons hébergé parYounup et Laurent Mangin nous parlera des LLMs dans nos applications\nL'IA generative et les grands modèles de langage (LLM) sont devenus les nouveaux sujets à la mode depuis le lancement de ChatGPT fin 2022 … Aujourd'hui au-delà de la hype et des polémiques, qu'en est-il de l'état de l'art sur le plan technique ? Quels sont les concepts et pratiques clés ? Génération augmentée par récupération, agent autonomes, LLM multimodal… Autant de sujets passionnants mêlant un champ immense de possibilités mais aussi de challenges techniques.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Younup Bordeaux",
+      "address": "68 Rue Achard",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "68 Rue Achard, Bordeaux",
+    "rsvp_limit": 50,
+    "rsvp_count": 26
+  },
+  {
+    "title": "Angular change de logo mais pas !",
+    "date": "2024-05-15T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/300720488/",
+    "description": "Florian et Rémi nous parlerons de l'évolution d'Angular au cours de ce nouveau meetup BordeauxJS:\n\"Angular est entré dans une période de profondes modifications. Cette évolution, plébiscité par la communauté, laisse entrevoir un renouveau pour ce framework qui n'arrivait pas à séduire les nouveaux développeurs.Ces nouveautés vous font peur ? Nous aussi... au moins au début. Nous proposons de vous accompagner dans cette découverte.\"\n* Signal arrive et change profondément Angular. La détection de changement se faisait grâce à zoneJS (Un outil majeur d'Angular et très ancien).* Control-flow remplace la façon dont nous construisons la vue d'un composant Angular. Il se rapproche davantage de React avec du JSX/TSX.\nUn grand merci à [OnePoint](https://www.groupeonepoint.com/fr/nos-implantations/onepoint-sud-ouest/) qui nous accueillera dans ses locaux pour ce BordeauxJS 🍾",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Onepoint Bordeaux - Transformation Digital",
+      "address": "2 Rue Marc Sangnier",
+      "city": "Bègles",
+      "country": "France"
+    },
+    "location": "2 Rue Marc Sangnier, Bègles",
+    "rsvp_count": 28
+  },
+  {
+    "title": "La refonte du site France Bleu, une aventure pleine de rebondissements",
+    "date": "2023-09-21T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/295650742/",
+    "description": "Au programme de ce meetup :\nDev JS avec un passé sulfureux en Java et Scala, Lang a découvert Svelte en 2019 et depuis essayé de partager son enthousiasme à propos de ce framework.\nAujourd’hui Lead Dev sur le site [francebleu.fr](http://francebleu.fr/) , Lang vient nous faire un retour d’expérience : comment refaire complètement un grand site public existant avec des contraintes de run et un framework performant mais resté longtemps en version beta, SvelteKit.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nNous serons reçus **au Node à Bordeaux**, n'hesitez pas a amener de quoi grignoter et boire si vous le souhaitez.\n🍻 si vous amenez\n📌 Le Node, 12 rue des Faussets, 33000 Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 39
+  },
+  {
+    "title": "Le Starter dont je suis le héros !",
+    "date": "2023-07-11T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/294469714/",
+    "description": "**Hugo** et **Quentin** nous proposent de partir à l'aventure, au travers le starter dont nous sommes le héros !\nToi aussi tu aimes React (ou pas 😅) ? Mais choisir les bonnes librairies et connaître les bonnes pratiques pour un projet qui va en production c’est pas toujours facile.\nEn effet, l’éco-système React est l’un des plus riches, amenant plus d’un héros à se perdre dans cette jungle d’options.\nOn aurait tous aimé pouvoir arriver directement à la bonne solution. Aujourd’hui on vous propose de détailler les choix techniques et les bonnes pratiques qu’on a mis en place sur 🚀 Start UI, notre starter de projets d’application web à plus de 500 stars. L’aventure Start UI est le résultat de plusieurs années d’expérimentation sur des projets en production dont nous avons extrait le meilleur.\nConférence 100% subjective mais conférence 100% retour d’expérience sur un starter de projet Open Source.\nPour ce dernier meetup de la \"saison\" on vous propose de se retrouver dans les locaux de **Wanteeed** où nous aurons le plaisir de terminer se meetup en nous vous invitant à rester pour partager un verre tous ensemble.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-🍻 En fin d'évènement📌 **WANTEEED**, 13 Rue des Cordeliers, 33300 Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "13 Rue des Cordeliers",
+      "address": "13 Rue des Cordeliers",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "13 Rue des Cordeliers, Bordeaux",
+    "rsvp_count": 31
+  },
+  {
+    "title": "Next.js, module fédération et les 10 travaux d'un reconverti !",
+    "date": "2023-06-20T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/294061290/",
+    "description": "Pour ce meetup on vous propose de se retrouver dans les locaux d'**Ekino** afin d'assister à 2 conférences !\n**Florian**, développeur chez **Onepoint** nous parlera de son retour d'expérience après une reconversion et comment il a finalement obtenu le fameux \"*laissez-passer A-38*\"\nQuant à **Josselin**, développeur chez **ManoMano**, lui nous propose de résoudre le défi de déployer un site Next.js aussi souvent que possible en se lançant dans l’aventure Module Federation et de (re)découper le site en micro front-ends.\nEt enfin, pour terminer, nous aurons le plaisir de terminer se meetup en nous vous invitant à rester pour partager un verre tous ensemble.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-🍻 En fin d'évènement📌 **EKINO**, 1 cours Xavier Arnozan, Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "rsvp_count": 40
+  },
+  {
+    "title": "Introduction à SvelteKit",
+    "date": "2023-05-22T16:30:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/293317353/",
+    "description": "Au programme de ce meetup :\n**Venez découvrir SvelteKit !**\nSvelteKit est le meta-framework associé à Svelte. Très inspiré de Next, son équivalent React le plus populaire, SvelteKit facilite le développement d'applications web sous Svelte en proposant du routing intégré, différentes stratégies de chargement de données, de l'outillage moderne, et plein d'autres choses. C'est un outil aujourd'hui incontournable pour qui veut développer une application web performante en Svelte.\nDéveloppeur depuis plus de 10 ans, Adrien a une belle expérience autour de Java, mais a aussi cultivé une forte attirance pour les technologies front-end, en particulier Angular... et bien sûr Svelte !\nEn se basant sur une application initialement développée en Angular puis migrée sous SvelteKit, Adrien nous propose un **tour d'horizon des principales fonctionnalités** de ce meta-framework.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nNous serons reçus une fois n'est pas coutume **dans les locaux d'Ippon Technologies à Bordeaux**, qui nous proposera également de quoi prendre l'apéro à la fin du meetup.\n🍻 Offert par Ippon Technologies📌 Ippon Technologies, 44 allée de Tourny (2e étage), 33000 Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Ippon Technologies Bordeaux",
+      "address": "44 All. de Tourny",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "44 All. de Tourny, Bordeaux",
+    "rsvp_count": 26
+  },
+  {
+    "title": "Comprendre les stores Svelte",
+    "date": "2023-04-13T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/292251002/",
+    "description": "Au programme de ce meetup :\n**Comprendre les stores Svelte** par **Romain Crestey**, développeur Svelte depuis 2020.\nSvelte est une alternative à React qui est au top des frameworks les plus appréciés selon plusieurs sondages ([JAMStack survey](https://jamstack.org/survey/2022/#frameworks-by-usage-and-satisfaction), [State Of JS](https://2021.stateofjs.com/en-US/libraries/front-end-frameworks)), et ce depuis quelques années.\nLa notion de store pour gérer des états globaux est aujourd'hui bien répandue dans l'écosystème front-end. Beaucoup de librairies de stores sont aujourd'hui disponibles, la plus connue étant probablement Redux.\nSvelte a sa propre gestion des stores, qui s'intègre très naturellement dans la réactivité du framework, et a le gros avantage d'être à la fois simple à utiliser et pourtant très polyvalente.Nous vous proposons de venir découvrir comment s'en servir dans une présentation qui combine théorie et exemples pratiques.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup au Node, espace de coworking d'Aquinum.\nN'hésitez pas à amener de quoi boire et/ou manger pour finir l'atelier autour d'une bière ou d'une chips.\n🍻 Si vous amenez📌 Le Node, 12 rue des Faussets, 33000 Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 21
+  },
+  {
+    "title": "N'écoutez pas twitter: GraphQL, c'est de nouveau cool!",
+    "date": "2023-04-05T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/292401675/",
+    "description": "Vous en avez marre de jongler entre des dizaines d'APIs pour avoir toutes les données dont vous avez besoin ? Vous voulez simplifier la communication entre votre frontend et votre backend ? N'écoutez pas twitter, **GraphQL** est la solution qu'il vous faut ! Avec son approche flexible et sa capacité à récupérer uniquement les données nécessaires, GraphQL vous permet de gagner un temps précieux dans le développement de vos applications.\nDébutant ou expert du sujet, Jean-Yves va nous aider à prendre en main les différents concepts et revenir à l'origine de la promesse grâce à une nouvelle librairie: [Houdini](https://houdinigraphql.com/), \"The disappearing GraphQL client\".\n**Jean-Yves** se défini comme \"*système enthousiaste*\" car il touche un peu à tout mais n'aime pas le terme \"Full-Stack\"! Il nous vient de Vienne (en Autriche) pour partager sa passion du code et de GraphQL.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup au **Node** où à la suite de ce meetup nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 **Le Node**, 12 Rue des Faussets",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 32
+  },
+  {
+    "title": "Élevez le niveau de vos revues de code !",
+    "date": "2023-03-15T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/292064025/",
+    "description": "Arthur Magne et Erik Uzureau nous propose lors de ce meetup d'élever le niveau de vos revues de code !\nAu début, l’idée que quelqu’un d’autre va lire votre code peut être effrayante ; ce n’est pas quelque chose que l’on apprend à l’école ! Mais n’ayez crainte : écrire du code pour la revue de code est un art et vous pouvez l’apprendre.\nErik a passé les 10 dernières années de sa carrière à écrire et à reviewer du code dans des entreprises ayant une culture stricte de révision du code (Google, Criteo, Datadog). Il expliquera le changement mental dont nous avons besoin pour commencer à écrire du code pour la revue. Il montrera certains des anti-patterns les plus courants et leurs remèdes ainsi que des conseils opérationnels pour créer des pull-requests exceptionnelles.\nÀ l’origine, la revue de code visait à bloquer la mise en production lorsque des problèmes bloquants étaient identifiés. Assez rapidement, on s’est rendu compte qu’elle était aussi l’occasion parfaite pour une \"revue de pratiques\". Même avec des PRs super-bien-écrits, ce style de revue prend parfois trop de temps (trop de commentaires, souvent les mêmes commentaires d’ailleurs, trop d’aller retours, etc.). Encore pire: toute l’énergie dépensée par le reviewer ne profite qu’à l’auteur.\nArthur Magne nous présentera un nouveau format d’échange qui permet de fluidifier ces revues de code et aussi d’étendre le scope du partage de connaissances à l’ensemble de l’équipe (ou une communauté de pratiques). Aligner les pratiques de développement d’une équipe est une étape essentielle pour progresser et accélérer ces revues de code et le développement en soi !\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de **Wanteeed** où à la suite de ce meetup nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 Wanteeed, 13 rue des Cordeliers",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "13 Rue des Cordeliers",
+      "address": "13 Rue des Cordeliers",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "13 Rue des Cordeliers, Bordeaux",
+    "rsvp_count": 72
+  },
+  {
+    "title": "Migrer de React à Svelte, un exemple pratique",
+    "date": "2023-03-01T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/291366708/",
+    "description": "Thibaud Marazano, ingénieur Système Électronique Embarqué depuis 2018, Full-Stack Python, .NET et ReactJS / Svelte sur le front, vient nous présenter un exemple illustré de migration de React vers Svelte.\nDans le cadre d'une refonte d'un dashboard administrateur de l'entreprise Sinch dans laquelle il travaille, un projet a été démarré avec la stack courante des équipes techniques : ReactJS + Back For Front.Une opportunité s'est donc présentée : tester Svelte en convertissant un morceau de l'existant React à Svelte.\nDans cette présentation, Thibaud va donc nous montrer sur un exemple concret les différences entre React et Svelte, les gains de performances et surtout comment Svelte simplifie le frontend en le ramenant à ce qu'il aurait du toujours être : du HTML, du JS, et du CSS.\nDébut à 19h, apéro participatif à 20h: amenez du glou et du miam !",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 27
+  },
+  {
+    "title": "Manuel de sabotage du partage de connaissances",
+    "date": "2023-02-23T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/291437327/",
+    "description": "Au programme de ce meetup :\n**Manuel de sabotage du partage de connaissances** Par Cédric Teyton, CEO & Co-Founder chez Promyze.\nContribuer à sauver le climat en infiltrant l'ennemi, ça vous tente ?\nVoici une mission digne des plus grands films d'espionnage. Vous le savez surement, le potentiel du partage d'expertises et de connaissances est largement sous-exploité dans les entreprises Tech.\nLa faute parfois à un manque d'initiative en interne et de moyens pour soutenir la démarche, mais aussi à des mauvaises pratiques dans les processus d'interactions au sein des équipes.\nVotre mission consiste à infiltrer une multinationale dont l'action est nocive pour le climat, et de nuire à toute initiative de partage de connaissances dans les équipes d'ingénierie. Cela permettra de retarder les livraisons de leurs applications, d'augmenter les défauts de qualité, de frustrer les équipes et d'augmenter le turnover.\nCe talk vous donnera une formation accélérer pour atteindre vos objectifs, avec des astuces sur:\n* Comment nuire aux communautés de pratiques* Comment mal se comporter lors des sessions de Pair/Mob programming et les revues de code* Comment ennuyer les guildes en demandant des ROIs injustifiés sur leurs sessions* Comment indiquer au management qu'il ne faut surtout pas financer les livres discutés lors des book clubs\nNous verrons donc quelques conseils pour avancer masqué.e, atteindre votre objectif, et contribuer à sauver le climat.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de l'**ECV** où à la suite de ce meetup nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 ECV, 26 Rue Esprit des Lois",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "26 Rue Esprit des Lois",
+      "address": "26 Rue Esprit des Lois",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "26 Rue Esprit des Lois, Bordeaux",
+    "rsvp_count": 22
+  },
+  {
+    "title": "Apprendre Svelte... et kiffer sa race !",
+    "date": "2023-01-11T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/289951483/",
+    "description": "Au programme de ce meetup :\n**Apprendre Svelte... et kiffer sa race !** Par **Romain Crestey**, développeur Svelte depuis 2020.\nSvelte est une alternative à React qui est au top des frameworks les plus appréciés selon plusieurs sondages ([JAMStack survey](https://jamstack.org/survey/2022/#frameworks-by-usage-and-satisfaction), [State Of JS](https://2021.stateofjs.com/en-US/libraries/front-end-frameworks)), et ce depuis quelques années.\nBeaucoup de développeurs et développeuses qui s'essaient à Svelte tombent très vite sous le charme. Au delà des performances techniques, qui font de Svelte un outil plus rapide, plus léger, moins énergivore et plus facile à apprendre que React, c'est surtout le plaisir d'écrire du code Svelte qui fait sa popularité.\nOn vous propose donc de venir essayer Svelte, dans le cadre d'un atelier guidé, pour vous permettre de vous mettre le pied à l'étrier, et qui sait, vous donner envie de plonger plus loin dans cet outil formidable qu'est Svelte.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup au Node, espace de coworking d'Aquinum.\nN'hésitez pas à amener de quoi boire et/ou manger pour finir l'atelier autour d'une bière ou d'une chips.\n🍻 Si vous amenez📌 Le Node, 12 rue des Faussets, 33000 Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 35
+  },
+  {
+    "title": "Eco-conception numérique & Vite nouveau bundler (feat. Women In Tech Bordeaux)",
+    "date": "2022-12-13T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/290159255/",
+    "description": "Au programme de ce meetup en collaboration avec Women In Tech Bordeaux, nous assisterons à deux présentations :\n**Eco-conception numérique : la part mobile.** Par **Delphine Bugner**, tech lead chez Bam.tech.\nLe réchauffement climatique est le défi de notre siècle. Comment nous, développeurs, pouvons-nous agir, quand chaque année la part d'émission de gaz à effet de serre liée au numérique augmente ? Via l’éco-conception de nos apps et logiciels. Delphine, tech lead React Native, présentera ce que cela signifie pour le développement mobile ; en s'appuyant sur une matrice de 15 indicateurs, elle donnera des clés pour mesurer, comprendre et améliorer l'impact environnemental de nos applis.\n**Vite un nouveau Bundler.** Par **Florian Allainmat**, développeur chez OnePoint.\nPour mieux comprendre Vite, nous allons nous plonger dans l’histoire des bundlers. Et ainsi découvrir leurs évolutions et leur raison d’être.\nNous nous intéresserons ensuite à ce nouvel arrivant : Vite. De plus, nous analyserons en détails ses caractéristiques. Enfin, nous regarderons de plus près ses avantages et ses inconvénients par rapport au bundler Webpack, un des plus utilisés aujourd’hui.\n15 minutes pour l'histoire des bundlers, 20 minutes pour Vite sa description et son installation.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nNous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de l'ECV où à la suite de cette présentation nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 Amphi de l'ECV, 26 Rue Esprit des Lois · Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "26 Rue Esprit des Lois",
+      "address": "26 Rue Esprit des Lois",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "26 Rue Esprit des Lois, Bordeaux",
+    "rsvp_count": 31
+  },
+  {
+    "title": "Standalone componant, le futur d'Angular ? & Accepter la différence dans la tech",
+    "date": "2022-12-06T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/289947392/",
+    "description": "Au programme de ce meetup, 2 présentations :\n**Standalone component, le futur d'Angular ?** Par Jimmy Kasprzak, CTO à Zenika Nantes.\nQuiconque a déjà utilisé Angular pour construire une application a déjà eu a manipuler des composants et des modules.\nDepuis quelques temps maintenant, au sein de la communauté Angular, nous pouvons entendre parler de la notion de \"Standalone component\". Mais c'est quoi exactement un standalone component ? D'où est ce que ça sort, à quels besoins répondent ils et finalement sont ils le futur du développement avec Angular ?\nEn bref, on part à la découverte des Angular Standalone component 😁\n**Mieux accepter la différence psy dans la tech.** Par **Arthur Havlicek**, développeur Pyhton.\nLes personnes en situation de handicap mental font face à une situation d'emploi fragile. En plus de devoir surmonter ces difficultés supplémentaires,elles font face à une discrimination sournoise, les contraignant à cacher leur handicap, sous peine de rejet. Dans cette meetup, je vous présenterai des chiffres, des anecdotes de notre vécu en tant que bipolaires sur le marché de la tech, et des conseils pour trouver, aménager ou créer des conditions d'emploi plus inclusives.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de l'**Zenika** où à la suite de ce meetup nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 Zenika, 17 Quai Louis XVIII, Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Zenika Bordeaux",
+      "address": "17 Quai Louis XVIII",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "17 Quai Louis XVIII, Bordeaux",
+    "rsvp_count": 19
+  },
+  {
+    "title": "Typescript FullStack : L'écosystème TS pour gérer votre application",
+    "date": "2022-11-08T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/289330790/",
+    "description": "Au programme de ce meetup :\n**Typescript FullStack : L'écosystème TS pour gérer une application de votre navigateur à sa base de données.** Par **Frédéric Camblor**, co-créateur de la conférence BDX I/O et ancien Bordeaux JUG leader, actuellement Tech Lead sur les technos web/mobile chez 4SH\nD'après le StateOfJS 2021/2, Typescript est un langage qui est passé de 21% d'usage en 2016 à 69% lors du sondage 2021.\nLe typage qu'il apporte permet en premier lieu d'exprimer certaines contraintes qui seront vérifiées à la transpilation plutôt qu'au runtime. Ça, ainsi que le fait que le typage ne soit pas \"intrusif\" (superset à Javascript), ce sont les raisons principales pour lesquelles j'ai adoré ce langage dès mes premières utilisations en 2016, exclusivement coté front.Récemment, lors du lancement d'une nouvelle application, j'ai voulu, pour la première fois, mettre du Typescript coté back afin de me faire une idée sur son écosystème sur le serveur : ce talk est un REX sur cette nouvelle expérience de dev.\nL'écosystème TS est-il suffisamment riche coté back pour tirer partie des features du langage (types, decorators, etc.) ? Quelles synergies apporte l'aspect \"monoglotte\" d'une app TS front + back ? Dois-je être un ninja de webpack pour réussir à builder tout ça correctement ?Nous aborderons ces sujets ensemble en parcourant le code de cette application utilisée dans la vraie vie.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de l'**ESD** où à la suite de cette présentation nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 ESD, 11 place de la Ferme de Richemont, 33000 Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "11 Pl. de la Frm Richemont",
+      "address": "11 Pl. de la Frm Richemont",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "11 Pl. de la Frm Richemont, Bordeaux",
+    "rsvp_count": 60
+  },
+  {
+    "title": "Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)",
+    "date": "2022-10-18T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/289042639/",
+    "description": "Au programme de ce meetup en collaboration avec Women In Tech Bordeaux, nous assisterons à deux présentations :\n**Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital ?** par **Noémie** M. Rivière, Senior Product Designer UX/UI chez Onepoint.\nL’inclusivité gagne du terrain dans le débat public, les marques s’y mettent timidement… comment les services et produits digitaux peuvent-ils se faire les porte-parole des minorités dans le fond comme dans la forme ?\n**0100(2) actions simples pour favoriser l’inclusion des femmes dans la Tech.** Par **Anne-Laure** Gaillard, Staff Quality Advisor chez ManoMano et **Coralie** Broteille, Développeuse chez Mano Mano\n20% : c’est la proportion de femmes dans l’informatique. Vous trouvez ça suffisant ? Nous, non ! Nous croyons que la solution n’est pas simplement de féminiser les équipes. Nous pensons qu’être toutes et tous intégré⸱e⸱s dans un environnement de travail plus inclusif est une vraie opportunité pour l'entreprise, d'un point de vue humain et économique. Ces 6 derniers mois, nous avons cherché à comprendre pourquoi les femmes dans la Tech sont sous représentées et vont jusqu’à parfois quitter le domaine. Lors de cette intervention, nous partagerons nos vécues ainsi que celui des femmes autour de nous : les challenges quotidiens que nous sommes nombreuses à vivre. Quelles solutions / actions concrètes pouvons-nous y apporter ? Nous vous présenterons des actions et propositions simples pour favoriser l'inclusion des femmes dans la Tech.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nNous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de SFEiR où à la suite de cette présentation nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 SFEiR, 5 rue de condé, 33300 Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "SFEIR Bordeaux",
+      "address": "5 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "5 Rue de Condé, Bordeaux",
+    "rsvp_count": 23
+  },
+  {
+    "title": "Apprivoise les web composants avec StencilJS",
+    "date": "2022-10-13T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/288874812/",
+    "description": "**Romain**, développeur, chez Younup, nous présentera StencilJS en répondant à différentes questions, comme :\nQu’est-ce qu'un web composant ? Quel intérêt d'utiliser un framework pour créer un composant? Comment les intégrer dans mon application React, Vue ou Angular ?\nAutant de questions qui trouveront leur réponse. Lors de cette présentation, découvrons une nouvelle approche pour concevoir une application, maintenable, avec des composants réutilisables et testables, facilement et de manière évolutive.\nNous aurons le plaisir de vous accueillir pour ce meetup au **Node** où à la suite de cette présentation nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 Le Node, 12 rue des faussets, 33300 Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 24
+  },
+  {
+    "title": "Back to Basics : Space Invaders en live coding",
+    "date": "2022-09-20T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/288323446/",
+    "description": "**Fabien**, développeur, CIO chez Great Place to Work, nous propose en cette rentrée de revenir aux basiques !\nRepartons de zéro, sans framework ou librairie et re-codons ensemble le jeu mythique, Space Invaders 👾, uniquement avec du JavaScript et deux lignes d'HTML. Le tout en 45min !\nNous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de **la WILD CODE SCHOOL**, où à la suite de ce live coding nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 Prévu en fin d'évènement📌 Wild Code School, 171 Rue Lucien Faure, 33300 Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Wild Code School, Formation Développeur Web & Data Analyst",
+      "address": "171 Rue Lucien Faure",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "171 Rue Lucien Faure, Bordeaux",
+    "rsvp_count": 24
+  },
+  {
+    "title": "Svelte, ou pourquoi je ne veux plus faire de React",
+    "date": "2022-06-14T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/286258968/",
+    "description": "**Romain**, développeur front-end senior chez MesAidesPubliques, formateur Javascript, React et Svelte pour HumanCoders et ECV Digital.Après plus de 5 ans sur des stacks React, il découvre Svelte en 2019, et décide que React, c’est terminé !\nQuand on développe en web front-end aujourd’hui, on ne peut pas ignorer React. Artisan du déclin de jQuery depuis 2013, React a posé les bases du développement front-end moderne. Il trône depuis 2016 au sommet des frameworks les plus utilisés ([2021.stateofjs.com](https://2021.stateofjs.com/en-US/libraries/front-end-frameworks)), laissant ses vaillants challengers Angular et Vue assez loin derrière.Pourtant, depuis quelques années de nombreux frameworks tentent de faire vaciller le géant. Svelte mène la charge, inspirant au passage ses congénères (Vue 3, Solid).Au delà des concepts techniques qui en font une alternative crédible, nous allons découvrir ensemble au travers d’une démonstration live comment Svelte propose une expérience de développement front-end léchée, dont il est difficile de revenir.\nNous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de **WANTEEED**, où à la suite de la présentation nous vous inviterons à rester pour partager un verre tous ensemble et une part de pizza offert par **Externatic.**\n🍻 Prévu en fin d'évènement📌 Wanteeed, 13 Rue des Cordeliers, Bordeaux",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "13 Rue des Cordeliers",
+      "address": "13 Rue des Cordeliers",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "13 Rue des Cordeliers, Bordeaux",
+    "rsvp_count": 48
+  },
+  {
+    "title": "React dans tous ses états",
+    "date": "2022-05-25T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/285567585/",
+    "description": "Amélie, développeuse full-stack chez busbud, spécialisée dans le développement front (JS, TS et ReasonML), également organisatrice du meetup React & React native sur Bordeaux qui co-organise ce meetup, vient nous présenter son talk : \"React dans tous ses états\".\nQue nos applications soient legacy ou complètement nouvelles, la question du stockage et de la gestion des données est une constante. Il existe aujourd'hui de nombreuses façon de gérer ce state, mais peu de guidelines fortes.Avec des exemples de code, nous verrons ensemble trois acteurs majeurs de la gestion du state en React aujourd'hui: de la solution native à Recoil en passant par Redux-toolkit.\nC'est avec le soutien d'Externatic que nous avons le plaisir de vous accueillir pour ce meetup au Node, où à la suite de la présentation nous vous inviterons pour partager un verre tous ensemble.\n🍻 Prévu en fin d'évènement📌 Le Node, 12 rue des faussets, Bordeaux.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 45
+  },
+  {
+    "title": "(dé)coder l'écosystème Cypress",
+    "date": "2022-04-20T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/285079633/",
+    "description": "⚠️ Places limitées à 25/30 !\nFamilier avec Cypress mais désireux d'en découvrir plus ? Vous êtes développeur ou automaticien ? Mettez votre casquette de forestier, car on va élaguer les couches successives pour parler en détail de certaines fonctionnalités, comme les tests de composants, mock et stub, les tests mobiles, intégrations et automatisation avec la toute dernière version de Squash... et plus encore. Retour d'expérience, astuces et démonstration sont au programme ! \nVoici ce que Nicolas, un peu touche à tout, nous propose. Il navigue entre plusieurs eaux, entre technique et fonctionnel, il passe d'une rive à l'autre selon les besoins. Avec près de 20 ans d'expérience dans le domaine des tests et l'automatisation il souhaite nous partager ses connaissances et expériences.\nC'est avec le soutien d'Externatic que nous avons le plaisir de vous accueillir pour ce meetup au Bistrot du Fromager (rue du parlement), où à la suite de la présentation nous vous inviterons pour une petite dégustation (planche mixte charcuterie / fromage + dégustation de vin rouge et blanc).\n🍷🧀 Prévu en fin d'évènement📌 Bistrot du Fromager, rue du Parlement Sainte Catherine",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Le Bistrot du Fromager",
+      "address": "3 Rue Parlement Sainte-Catherine",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "3 Rue Parlement Sainte-Catherine, Bordeaux",
+    "rsvp_limit": 40,
+    "rsvp_count": 35
+  },
+  {
+    "title": "Micro-frontends : les usages, contraintes et solutions",
+    "date": "2022-03-15T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/283791744/",
+    "description": "C'est avec le soutien d'Externatic que nous vous proposons de nous retrouver pour parler JS et plus particulièrement de micro-frontends dans les locaux de la FrenchTech Bordeaux.\nSébastien, manageur technique et développeur full-stack chez Ippon, nous proposes d'aborder les micro-frontends\nAvez-vous déjà eu envie de mélanger de l’Angular avec un petit composant Vue et une grosse application React autonome ? Si vous êtes curieux de ce mélange de technologies hétéroclites, venez découvrir les incroyables solutions qui s’offrent à vous !\nAlors que les micro-services côté back sont bien établis aujourd’hui, les architectures micro-frontend représentent encore un vaste terrain d’investigation. Illustrée par les contraintes d’un projet aux ambitions d’extensions conséquentes, cette présentation vous fera découvrir les différentes possibilités qui s’offrent à vous pour intégrer différentes technologies et frameworks au sein d’une seule application Web !\n🍻 🍕 Prévu en fin d'évènement😷 Port du masque obligatoire🪟 Espace aéré📌 Cité Numérique de Bègles (2 rue Marc Sangnier, tram C La Belle Rose)(Depuis l'allée central entrée 4b, 2ème étage)",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Cité Numérique",
+      "address": "2 Rue Marc Sangnier",
+      "city": "Bègles",
+      "country": "France"
+    },
+    "location": "2 Rue Marc Sangnier, Bègles",
+    "rsvp_limit": 65,
+    "rsvp_count": 62
+  },
+  {
+    "title": "[LIVE] Des channels Go en JS ? Inutile donc indispensable !",
+    "date": "2020-11-26T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/274509520/",
+    "description": "Nicolas, Développeur JS durant la journée, se transforme en une créature difforme, mi dev JS mi gopher, pour s'adonner à des rituels de contribution open source... Ce dernier vous propose de découvrir les channels GO en JS !\nEn Go, afin d'éviter les problèmes d'accès concurrent à de la mémoire partagée, on utilise des channels qui permettent l'échange de valeurs entre goroutines.\nAlors que en JS, l'event loop nous garantie que l'accès à de la mémoire partagée sera toujours sans risque, des channels seraient donc totalement inutiles !\nEt c'est bien connu, tout ce qui est inutile est absolument indispensable... Alors c'est parti, implémentons ensemble des channels en JS.\nQue vous soyez dev JS ou gopher, venez apprendre le fonctionnement des channels tout en découvrant des features d'ES que vous ne soupçonniez pas, avec au menu : des fonctions génératrices, des WeakMaps, ou encore des itérateurs asynchrones !\n📹 LE LIVE : https://youtu.be/62HySuTJbUU 📹",
+    "community": "bordeauxjs",
+    "is_online": true,
+    "rsvp_count": 21
+  },
+  {
+    "title": "[LIVE] Monorepo et JavaScript : à la découverte de NX",
+    "date": "2020-04-21T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/270063441/",
+    "description": "Frédéric Hémery, actuellement Leader Technique Front chez Betclic et développeur fullstack dans de nombreux langages depuis 15 ans. Il adore commencer des projets perso qu'il ne finira jamais. Vous propose de partir à la découverte de NX !\nPublié début 2018, l'outil NX créé par la société Nrwl est une solution simplifiant la gestion d'un monorepo pour les applications JavaScript. Qu'est-ce qu'un monorepo ? Pourquoi cette organisation est-elle efficace ? En quoi NX nous rend-il service au quotidien, que votre front soit en Angular ou en React, et que votre backend soit en Next ou en Nestjs ?\nDans cette présentation mêlant live coding et exploration d'une base de code existante, nous ferons un tour d'horizon des problématiques liées à l'architecture applicative JavaScript, et explorerons les fonctionnalités de l'outil NX : création de librairie simplifiée, contrôle des dépendances des dépendances entre les librairies, partage de code entre le front et le back...\nCette présentation se basera sur des exemples en Angular + NestJS, mais il n'est pas nécessaire de bien connaitre ces langages pour apprécier la puissance de l'outil.\nEn espérant vous voir nombreuses et nombreux.\n📹 LE LIVE : https://youtu.be/mrlxUNlgJQU 📹",
+    "community": "bordeauxjs",
+    "is_online": true,
+    "rsvp_count": 39
+  },
+  {
+    "title": "Build the future with Typescript and NestJS",
+    "date": "2020-02-18T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/267901148/",
+    "description": "Maxence Guyonvarho, 25 ans, développeur FullStack chez AT Internet depuis novembre dernier. Il a quitté son précédent poste et la Corse pour venir s’installer sur Bordeaux.\nDéveloppeur passionné, comme un grand nombre d'entre nous, également grand fan de JavaScript et de son écosystème. Toujours en veille à tester et comprendre ce qui gravite autours de son métier.\nIl nous propose de faire un tour d'horizon de NestJS :\nNestJS est le framework avec la croissance la plus rapide dans l’écosystème NodeJS, sa croissance à \"explosé\" en 2019.\nIl est écrit en TypeScript, combine des éléments de programmation objet, fonctionnelle et réactive, et nous permet d’écrire du code clean et testable.\nMaxence nous invite à faire un tour d’horizon de ses avantages et une session de live coding pour comprendre les principaux mécanismes qu'offre ce framework.\nNous terminerons ce meetup par un verre tous ensemble 🍻\n# Ce qu'il faut emmener* De la bonne humeur",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 57
+  },
+  {
+    "title": "HIGHWAY TO ELM!",
+    "date": "2019-11-05T18:15:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/265015769/",
+    "description": "Jordane, développeur chez Viseo, passionné par la découverte de tout ce qui sort de l'ordinaire. Il assouvit sa passion à coup de projets perso jamais finis et en écumant les conférences en compagnie des autres développeurs férus de nouveautés. En vrac : Elm, F#, nouveau-framework-à-la-mode-JS, ...\nIl vous propose de prendre l'autoroute de ELM 🤘:\nEntre les problèmes de null et d'undefined, les cas d'erreur non traités, les régressions dans les dépendances npm et les refactoring hasardeux, il est compliqué de livrer sereinement du JavaScript en production !\nC'est un mal nécessaire, puisqu'il s'agit du seul langage compatible avec tous les navigateurs, non ? Non !\nJe vous propose de découvrir une alternative, Elm, dont la première promesse est troublante mais limpide : plus d'erreurs au runtime !\nNous verrons comment ce langage spécialement pensé pour créer des applications web garantit des mises en production sereines, loin de tous ces soucis que posent les applications JavaScript.\nNous terminerons ce meetup par un verre tous ensemble 🍻\n# Ce qu'il faut emmener* De la bonne humeur\n# Bonus🎟️Un tirage au sort sera organiser pour remporter une place pour BDX I/O",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Le Wagon Bordeaux, Training Development Web, Data Analytics & Data Science",
+      "address": "107 Cr Balguerie Stuttenberg",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "107 Cr Balguerie Stuttenberg, Bordeaux",
+    "rsvp_count": 56
+  },
+  {
+    "title": "Les mains dans le cambouis avec WebAssembly",
+    "date": "2019-09-17T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/264316553/",
+    "description": "Afin de débuter cette nouvelle saison de BordeauxJS, Horacio Gonzalez, Developer Advocate chez OVH ainsi que Google Developer Expert (GDE) en Web Technologies et Flutter, propose de nous présenter :\n\"LES MAINS DANS LE CAMBOUIS AVEC WEBASEMBLY\" (Atelier / Lab)\nVous avez, sans doute, entendu parler de WebAssembly, vous avez peut-être vu des talks, lu des posts, discuté à la machine à café... mais avez-vous déjà essayé ?\nSupporté par tous les navigateurs actuels, et avec de plus en plus de success stories , il semble que WebAssembly va changer le paysage du développement web. Cela ne veut pas dire que JavaScript va devenir obsolète, loin de là, mais que tout un éventail de possibilités s'ouvre à nous en tant que devs web. Et maintenant c'est le bon moment pour s'y plonger !\nDans cet atelier, vous allez développer vos premières bibliothèques en WebAssembly, vous allez les utiliser depuis une application web, et vous allez comprendre comment et pourquoi WebAssembly peut vous aider dans vos applications, le tout de la meilleure façon qui soit: en mettant les mains dans le cambouis.\nNous terminerons ce meetup par un verre tous ensemble 🍻\n# Ce qu'il faut emmener* Son PC / Mac* De la bonne humeur",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 43
+  },
+  {
+    "title": "Un Backend For Frontend & Je n'ai rien compris à Redux",
+    "date": "2019-07-01T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/262392800/",
+    "description": "Afin de clôturer cette \"saison\" de BordeauxJS, je vous propose de nous retrouver autour de deux présentations :\n\"Un Backend For Frontend\" par Pierre Trollé (15min)\nPierre, développeur WebFront Craft Passionné chez Manomano et Tour-du-mondiste le reste du temps, fort de son expérience il propose de nous présenter les indispensables d’un projet frontend.\n\"Je n'ai rien compris à Redux, donc je vais le recoder\" par Florian Kauder (45min)\nFlorian Kauder, directeur technique d'une petite entreprise bordelaise spécialisée dans les applications Javascript, a réalisé une version de Redux entièrement typée pour Typescript. En créeant cette version, il a remarqué que Redux était une bibliothèque incroyablement simple si on prend le temps de se pencher dessus. Et que la meilleure des manière d'ouvrir cette boîte noire est tout simplement de la réécrire, et c'est ce qu'il souhaite vous présenter.\nCe talk abordera :- L'histoire de redux,- Le fonctionnement- Son usage- Les alternatives (React Context API, Hooks API, ...)\nNous terminerons ce meetup par un verre tous ensemble.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 45
+  },
+  {
+    "title": "Back to Basics - Ne perdez plus votre Temps avec les Dates",
+    "date": "2019-04-11T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/260199987/",
+    "description": "# Au programme\nFrédéric Camblor (@fcamblor), Lead dev chez 4SH, se propose de parler d'un sujet important dans chacun de nos projets à savoir, la gestion du Temps !\nLa gestion du Temps sur une application client/serveur peut sembler simple de prime abord, mais se révélera beaucoup plus complexe au fur et à mesure des usages : timezones multiples, heures récurrentes, heure d'été/d'hiver, traitements cron, leap seconds sont des exemples parmi tant d'autres.Saviez-vous même que la Commission Européenne envisage d'abolir le passage en heure d'hiver ? Quels impacts cela aurait sur nos applications ?\nMon objectif : qu'à partir de lundi prochain, vous vous posiez les bonnes questions à chaque fois que vous travaillerez sur une date ou une heure dans vos applications.\nPour cela, reprenons les bases du Temps en informatique : composantes d'une date, norme ISO 8601, Timezones et IANA.\nUne fois ces bases posées, nous verrons, au travers d'un certain nombre de cas d'utilisation issus de la vraie vie, les bonnes questions qu'il convient de se poser pour mettre le doigt sur les complexités d'implémentation et éviter de tomber dans une faille spatio-temporelle lors du prochain changement d'heure.\nCe talk est accessible à tous et ne se focalisera pas sur un langage / une API en particulier : les concepts prévaudront sur le code.\nNous terminerons ce meetup autour d'un verre et quelques pizzas offerts par la société Externatic.\n# Ce qu'il faut emmener* De la bonne humeur",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 30
+  },
+  {
+    "title": "REX - Création d'une webapp B2C utilisée par plus d'un million d'utilisateurs",
+    "date": "2019-01-23T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/257338440/",
+    "description": "# Au programme\n\"Avez-vous déjà dû faire face à la refonte d'une application B2C ayant plus d'un million de membres actifs, avec des pics allant jusqu'à 4 500 utilisateurs simultanés ?\nC'est un challenge auquel nous avons dû faire face. C'est pourquoi nous souhaitons à travers ce REX vous partager les contraintes techniques et organisationnelles rencontrées , ainsi que tout ce que nous avons pu en apprendre afin de vous permettre à vous aussi de réaliser ce défi.\"\nL'équipe Angular Betclic nous présentera les solutions techniques (Angular, Server Side Rendering, Architecture), process (Intégration continue, qualité du code, etc.), et organisationelles mises en place ces dix-huit derniers mois.\nNous terminerons ce meetup par un verre tous ensemble offert par Betclic.\n# Ce qu'il faut emmener* De la bonne humeur",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 60,
+    "rsvp_count": 60
+  },
+  {
+    "title": "Atelier - Renforcer sa pratique de NodeJS",
+    "date": "2019-01-09T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/257556822/",
+    "description": "# Au programme\nNous en sommes à la v10 de Node.js et à la v6 de npm. C'est un moment idéal pour renforcer ses connaissances de Node.js, de JavaScript et de npm.\nThomas nous propose un atelier organisé de manière collaborative : d'abord nous exprimerons nos attentes d'apprentissage, nous les organiserons de sorte à garder des objectifs clairs tout au long de la soirée.\nNous aborderons ces sujets par la pratique à l'aide d'un vidéoprojecteur, d'un ordinateur et des fragments/intuitions de réponse que chacun·e possède dans sa tête. Quelque chose n'est pas clair ? Nous reformulerons les concepts qui posent problème.\nVous repartirez avec de nouvelles connaissances de programmation Node.js utiles au quotidien, peut-être en ayant appris quelque chose à quelqu'un·e d'autre et dans une ambiance où se tromper est source d'apprentissage.\nNous terminerons ce meetup par un verre tous ensemble 🍻\n# Ce qu'il faut emmener* Son PC / Mac* De la bonne humeur",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "rsvp_count": 41
+  },
+  {
+    "title": "Delivering Fast and Beautiful Images and Video",
+    "date": "2018-10-17T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/255058438/",
+    "description": "# Au programme\nDoug Sillar, développeur expert de la performance web, également Google Developer Expert et auteur du livre \"High Performance Android Apps\" d'O’Reilly vous propose de vous parler des stratégies pour délivrer l'image ou la vidéo à chaque client (mobile, desktop, etc.) en assurant un rendu fluide et beau de votre contenu.\nA ce jour, les images d'un site web représentent 50% de sont poids (25% pour des vidéos), les temps de chargement des sites deviennent de plus en plus lent. Une autre des complications est qu'il y existe des milliers d'écrans et d'appareils recevant ce contenu ayant des résolutions et des puissances différentes.\nNous terminerons ce meetup par un verre tous ensemble offert par BordeauxJS.\n# Note* Ce talk sera donné en anglais\n# Ce qu'il faut emmener* De la bonne humeur",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 60,
+    "rsvp_count": 45
+  },
+  {
+    "title": "Babel 7 : Nouveautés, babel-preset-env, etc.",
+    "date": "2018-10-03T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/254474417/",
+    "description": "# Au programme\nAvec plus de 18M de téléchargements par mois et plus de 600 contributeurs, Babel est un outil incontournable du développement web moderne.\nComme vous le savez, Babel est en constante évolution, Sven Sauleau, participant activement au projet, nous propose un tour d’horizon des nouveautés (dont l'outil permettant la mise à jour de vos projets) ainsi qu'une note sur \"babel-preset-env\",\nBordeauxJS sera l’occasion de parler un peu plus en détail du projet, et de découvrir les nouveautés associées à l’aboutissement d’une longue période de recherche et de développement.\nNous terminerons ce meetup par bières et pizza offert par la société Conserto.\n# Ce qu'il faut emmener* De la bonne humeur",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 50,
+    "rsvp_count": 50
+  },
+  {
+    "title": "PWA & Angular 6 : Live coding",
+    "date": "2018-07-04T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/251491875/",
+    "description": "# Au programme\nMarc Lardy et Arnaud Leray, architectes chez Niji, rappelleront brièvement ce qu’est une Progressive Web App, et présenteront en live coding comment utiliser efficacement les nouveautés d’Angular 6 pour créer une PWA et comment gérer les notifications push.\nIls nous montreront également qu’il est facile de passer d’une PWA à une application mobile hybride si besoin !\nNous terminerons cette présentation par un apéro offert par Niji !\n# Ce qu'il faut emmener* de la bonne humeur !",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 60,
+    "rsvp_count": 47
+  },
+  {
+    "title": "D3.js : Data-Driven Documents",
+    "date": "2018-05-17T17:30:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/249937687/",
+    "description": "# Au programmeSamuel DESRÉ, développeur front-end senior chez NP6, nous présentera les bases du data driven et le principe de fonctionnement de D3.js. Il nous propose également de découvrir comment utiliser D3.js au sein d'un frameworks JS tel qu'Angular.\n# Ce qu'il faut emmener* à boire et à manger ;* de la bonne humeur.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 40,
+    "rsvp_count": 36
+  },
+  {
+    "title": "Redux-Saga : Présentation & Live-Coding ",
+    "date": "2018-04-24T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/248776992/",
+    "description": "# Au programmeJulien Viala, ingénieur front-end chez Ekino, nous parlera de Redux-Saga au travers d'une présentation et d'un live-coding.Ce dernier nous dit : « Redux-Saga et ses fonctions “generators” introduites avec l’ECMAScript 6 permettent de pallier la gestion des side-effects à laquelle nous, développeurs, faisons face avec les navigateurs web modernes offrants pourtant des APIs puissantes mais parfois très impératives. »\n# Ce qu'il faut emmener* à boire et à manger ;* de la bonne humeur.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 40,
+    "rsvp_count": 36
+  },
+  {
+    "title": "Aurelia",
+    "date": "2018-04-03T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/248920575/",
+    "description": "# Au programmeBruno LACOMBE, directeur technique chez Multimédia SOLUTIONS, utilise Aurelia dans différents projets depuis plus d'an.Durant ce meetup Bruno nous présentera Aurelia une alternative à Angular, Vuejs, React, etc. en bootstrappant notre première application.\n# Ce qu'il faut emmener* à boire et à manger ;* de la bonne humeur.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 40,
+    "rsvp_count": 21
+  },
+  {
+    "title": "Migration d'AngularJS vers Angular (Retour d'expérience et atelier)",
+    "date": "2018-03-12T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/247770121/",
+    "description": "# Ce que l'on feraJérémie Richardeau (@jRichardeau), Senior Web Developer chez AT Internet, viendra nous faire un retour d'expérience sur la migration d'applications AngularJS vers Angular, en mettant en place une cohabitation entre les deux frameworks.La présentation sera suivie d'un atelier pour créer une application web hybride (AngularJS/Angular), pour une migration \"en douceur\".\n# Ce qu'il faut emmener* un portable avec un environnement NodeJS ;* à boire et à manger ;* de la bonne humeur.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 30,
+    "rsvp_count": 30
+  },
+  {
+    "title": "Atelier Nuxt.js: Universal Vue.js Applications ",
+    "date": "2018-01-31T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/246441425/",
+    "description": "# What we'll doAlexandre Chopin, co-créateur de Nuxt.js, présentera rapidement le projet avant de faciliter un atelier.\n# What to bring* un portable avec un environnement NodeJS ;* à boire et à manger ;* de la bonne humeur.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 25,
+    "rsvp_count": 24
+  },
+  {
+    "title": "Fable: Le meilleur de JS et de F# à votre service",
+    "date": "2017-10-26T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/244309766/",
+    "description": "Maxime Mangel (@MangelMaxime) a testé beaucoup de langage durant les 10 dernières années. Finalement, il s'est arrêté avec F# (F sharp) grâce à la découverte de Fable. \nIl propose de nous faire faire un petit tour d'horizon et nous partager son expérience.\nFable est un transpiler (F# vers JavaScript) qui ne réinvente pas tout. En effet, Fable utilisent les outils que vous connaissez déjà (Babel, Webpack, etc.) pour fournir une solution complète à vos besoins et vous permettre d'utiliser tout l'éco-système JavaScript.\nDurant ce meetup, Maxime abordera :\n- Les apports de F# vis à vis de JavaScript- Le fonctionnement d'un projet Fable - Comment Elmish vous permet de reprendre le contrôle de vos applications web grâce à l'architecture Model-View-Update.\nUn sujet légèrement en marge du JS mais tout aussi riche et intéressant ^^",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking",
+      "address": "9 rue de Condé",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "9 rue de Condé, Bordeaux",
+    "rsvp_limit": 25,
+    "rsvp_count": 8
+  },
+  {
+    "title": "AperoJS",
+    "date": "2017-09-21T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/243276773/",
+    "description": "C'est la rentrée ! \nPourquoi ne pas se retrouver dans une ambiance décontractée aux Copains d'abord, rien de formel, l'objectif est de se retrouver, de discuter JS et des technos du web tout cela autour d'un verre.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Les Copains d'abord",
+      "address": "27 Rue Camille Sauvageau",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "27 Rue Camille Sauvageau, Bordeaux",
+    "rsvp_count": 21
+  },
+  {
+    "title": "Logiciel multi-plateforme avec JavaScript",
+    "date": "2017-07-11T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/241115309/",
+    "description": "Demain on change de thème et c'est Guillaume Vincent qui vient nous présenter comment gérer le développement d'un logiciel multi-plateformes grâce à JavaScript.\nComment supporter un même logiciel sur Android, Chrome, Opera, Firefox, Cozy Cloud, Client lourd, Web, etc.\nOn parlera de NPM, de tests, d'intégration continue, de travis-ci, d'automatisation.\nGuillaume Vincent est développeur front-end chez RedHat. Il aime le code, le design, l'UX et les chats.\nApéro\nMerci de ramener un petit trucs à partager :)",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 42
+  },
+  {
+    "title": "Atelier découverte Wikidata avec Maxime Lathuilière",
+    "date": "2017-03-25T13:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/238384572/",
+    "description": "Le BordeauxJS revient en format atelier !\nPour cette première, nous accueillons l'incroyable, le magnifique Maxime Lathuilière ! ( https://twitter.com/maxlath )Maxime viendra nous parler de Wikidata, la version base de données structurée de Wikipédia.\nIl nous parlera de Wikidata, de quelles informations on y trouve, de comment les récupérer et des retours d'expérience sur la réalité de Wikidata.Il nous présentera aussi son package npm wikidata-sdk ( https://www.npmjs.com/package/wikidata-sdk )\nLe format atelier est un format nouveau. Il dure environ 3 heures. On peut venir à n'importe quelle heure et partir quand on veut sans problème.Les ateliers sont basés sur l'apprendre ensemble et la pratique. Venir avec un ordinateur de préférence.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 17
+  },
+  {
+    "title": "Apéro JS",
+    "date": "2016-12-19T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/236113115/",
+    "description": "Reprenons doucement, tranquillement.\nPas de projecteur, de chaises inconfortables, de speaker, de thème précis.\nVoyons-nous pour parler de JS et technos web dans une ambiance décontractée aux Copains d'abord.\nEt parlons de JS, d'Angular 2, de redux ou bien de pourquoi on a un drame par semaine et que le dernier concerne une opposition futile entre \"les gens du JS\" et \"les gens du CSS\" liée au progressive enhancement alors que tout le monde sait que le progressive enhancement c'est juste une bonne idée.\nOn y parlera aussi des changements qui vont avoir lieu dans les BordeauxJS en général :-)\nA très bientôt !",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Les Copains d'abord",
+      "address": "27 Rue Camille Sauvageau",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "27 Rue Camille Sauvageau, Bordeaux",
+    "rsvp_count": 39
+  },
+  {
+    "title": "Présentation d'une PIC web et mobile avec Jenkins, Selenium et Docker",
+    "date": "2016-06-10T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/230853443/",
+    "description": "\" Lorsqu'on souhaite industrialiser une application on se pose généralement un certain nombre de questions :- Comment maitriser les environnements de tests ?- Comment intégrer toutes les branches de dev sur la PIC ?- Comment faire des tests sur mobiles et tablettes ?- Quel workflow doit-on mettre en place ?- Comment déployer plusieurs branches sur la même machine ?\nDans cette présentation, je propose quelques pistes de reflexion autour d'une stack et d'un workflow que j'ai eu l'occasion de mettre en place en entreprise sur une base de Jenkins, docker et Selenium / Appium. \"\nComme d'habitude, l'évènement sera suivi d'un apéritif, donc n'hésitez pas à amener de quoi s'hydrater et grignoter ;)",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 25
+  },
+  {
+    "title": "Petit retour d’expérience après 6 mois sur une grosse application React",
+    "date": "2016-04-28T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/230539532/",
+    "description": "Hello à tous !\nAprès le talk de Vladimir Barsukov sur Redux, on continue avec React, en accueillant Damien Varron, qui nous propose un retour d'expérience sur plusieurs mois de développement.\nReact c'est magique, tout le monde en parle, tout le monde vous l'a dit. \nMais passé l'exemple du Hello World ou de la TodoMVC comment ça se passe dans la vraie vie ? Est-ce que je m'y retrouve encore dans mon code après plusieurs mois ? Quel est l'intérêt de toutes ces librairies qui fleurissent autour de React ? \nVoici quelques observations et leçons apprises au cours du développement de l'application Voxeet et de son TimeZoneNinja.\nVoxeet\nTimeZoneNinja",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 37
+  },
+  {
+    "title": "Migrer une application React de MObservable vers Redux",
+    "date": "2016-03-31T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/229812115/",
+    "description": "Hello,\nBordeauxJS reprend du service le 31 Mars, à 19 h au Node ! \nNous accueillons pour cette session Vladimir Barsukov, qui présentera un talk sur la migration d'une application React de MObservable vers Redux. Pourquoi migrer, quelles sont les contraintes, comment effectuer la transition en douceur ? L'occasion d'en apprendre plus sur les techniques d'architecture d'une application React.\nVladimir est développeur à Berlin pour Scrivito, un CMS Rails, et travaille depuis un an et demi avec React et Redux.\nAttention, le talk sera en anglais !\nCette soirée sera aussi l'occasion pour nous de vous présenter nos projets et nos envies, et de discuter avec vous des formats que pourrons prendre ces rencontres, que nous espérons plus fréquentes dans les mois à venir.\nOn terminera la session par un apéro collaboratif pour prolonger les discussions, alors amenez de quoi boire et grignoter !\nSee you there,\nl'équipe BordeauxJS",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 70,
+    "rsvp_count": 14
+  },
+  {
+    "title": "Extension FirefoxOS: les secrets dévoilés !",
+    "date": "2016-01-26T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/228175588/",
+    "description": "Extension FirefoxOS par Guillaume Marty\nDepuis la v2.5 Firefox OS permet le développement et la distribution d'extensions. Cette fonctionnalité unique dans le monde du mobile permet d'enrichir et de personnaliser l’expérience utilisateur. Avec cette présentation vous aurez toutes les connaissances techniques pour commencer a développer vos propres extensions pour Firefox OS.\nLightning Talks\n• <talk require=\"you\">\n• <talk require=\"suggestion\">\nOrateur·trice·s\nGuillaume Marty est un passionné de techno web, fan de jeu vidéo, Japanophile et polyglotte. C'est tout naturellement qu'il contribue à des projets open-source et après un temps sur Bordeaux il a fini par traverser la Manche pour rejoindre l'équipe Mozilla et travailler sur FirefoxOS.\nContact les Orgas\n@Edouard_Lopez & @DavidBruant.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 60,
+    "rsvp_count": 15
+  },
+  {
+    "title": "Code of War 2015",
+    "date": "2015-11-18T23:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/225841618/",
+    "description": "L'édition de cette année vous propose un capture \"the chicken\"En effet, un coq est enfermé dans un labyrinthe sans sortie, et les joueurs vont s'affronter en 1 vs 1 pour être le premier à mettre la main dessus.\nLa recette de cette année contient une pincée de league of legends, un peu de pathfinding, 2 ou 3 morceaux de sockets, et 3 arduino bien dodu.\nEn finale, vos IA piloteront des robots en arduino dans une maquette de 4x4m à CapScience.\nJe vous laisse découvrir le reste sur http://codeofwar.net/\nRassemblez vous, et codez, ça va saigner :)\nDavid\nPS : Un équipe m'a dit qu'on pouvait pas coder une IA en JS, et que c'était pas un vrai langage. Je dis ça...",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Cap Science",
+      "address": "Hangar 20, Quai de Bacalan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "Hangar 20, Quai de Bacalan, Bordeaux",
+    "rsvp_count": 1
+  },
+  {
+    "title": "Viens rencontrer React et ses copains",
+    "date": "2015-05-19T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/222488666/",
+    "description": "Un BordeauxJS !!\nC'est Damien Varron qui s'y colle cette fois-ci.\nReact est une librairie fantastique, dont l'un des attraits réside dans sa grande simplicité d'utilisation. Elle est capable de réconcilier n'importe quel développeur avec le javascript et le DOM. Mais elle prend surtout tout son sens avec la pléthore d'outils et de projets développés par la communauté. Nous verrons comment démarrer rapidement un développement avec React, et le faire évoluer selon nos besoins.\nMais ce n'est pas tout ! Nous avons à Bordeaux l'une des oratrice du SudWeb de cette année en la personne de Marie Aline Millot !\nMarie-Aline nous fera donc profiter de son Lightning Talk avant le public de SudWeb. Ce lightning talk a pour titre \"Et toi, c'est quoi tes UX tips ?\".\nEn se basant sur un cas concret de refonte d'onboarding, elle nous partagera les méthodologies et outils utilisés. \nA la semaine prochaine !",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 63
+  },
+  {
+    "title": "Les extensions navigateurs (Firefox et Chrome) for fun and profit",
+    "date": "2015-02-10T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/219957981/",
+    "description": "He hoooo !\nMardi 10 février à 19h au Node, l'équipe de Le Même en Mieux et moi-même (David Bruant) présenterons les potentiels inexploités des addons navigateurs.\nNous ferons une introduction générale et technique sur les addons puis décrirons les spécificité du dév d'addon Firefox et extension Chrome. Enfin, nous ferons un retour d'expérience très concret sur nos expériences respectives avec nos addons.\nComme à l'habitude, on se fera un apéro collaboratif (chacun ramène un petit truc à boire/grignoter).\nA vous voir,\nDavid Bruant, organisateur du BordeauxJS",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 36
+  },
+  {
+    "title": "CoreOS, et la chaussette de l'ambassadeur",
+    "date": "2014-12-18T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/218850797/",
+    "description": "CoreOS, et la chaussette de l'ambassadeur\n...ou comment donner accès à l'IndieWeb à Monsieur et Madame Michu\nPierre Ozoux viendra nous parler du mouvement IndieWeb. Lors de cette présentation, nous allons voir comment les dernières technos en matière d'infrastructure peuvent nous permettre de redécentraliser Internet.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Chez Yaal",
+      "address": "18 rue Gratiolet",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "18 rue Gratiolet, Bordeaux",
+    "rsvp_count": 28
+  },
+  {
+    "title": "Atelier ReactJS",
+    "date": "2014-09-27T12:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/203904952/",
+    "description": "Un samedi aprèm entre gens bien (ou pas) pour mettre les doigts dans le code. On codera\n• Sa première appli React ;\n• pour voir comment améliorer son code D3js avec du React ;\n• etc.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 30,
+    "rsvp_count": 24
+  },
+  {
+    "title": "Keep calm and React ",
+    "date": "2014-06-24T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/188670332/",
+    "description": "Mardi 24 juin, c'est Thibaut Séguy (https://twitter.com/thibautseguy ) qui viendra nous parler de l'excellente bibliothèque React http://facebook.github.io/react/\nQu'est ce que React ? Comment ça marche ? Qu'est ce que ça apporte de nouveau ?\nVenez découvrir comment React donne une 2ème jeunesse au développement d'UIs en Javascript.\nRepartez avec les connaissances nécessaire pour développer votre 1ère app, un retour d'expérience et des arguments pour convaincre.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 33
+  },
+  {
+    "title": "Débroussailler Node.js",
+    "date": "2014-05-20T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/177878782/",
+    "description": "Que nous reste-t-il à apprendre de Node.js en 2014 ?Quels sont les patterns qui vous paraissent obscurs ?Comment faire X ?Quid de la sécurité ?Comment je construis une app ?Comment je déploie une app ?\nBref tout ce paraît compliqué/obscur/difficilement compréhensible … parlons-en :-)",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 65
+  },
+  {
+    "title": "AngularJS dans la vraie vie",
+    "date": "2014-04-15T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/173268102/",
+    "description": "Mardi 15 avril, c'est Sylvain Peigney alias volpeo qui s'y colle pour nous parler d'AngularJS\nDécouvrez en quelques cas pratiques comment AngularJS fait preuve de pragmatisme et de productivité.Cette présentation donnera quelques réponses à ceux qui sont en recherche d'un outil solide et fiable pour leurs développements front-end.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 70,
+    "rsvp_count": 69
+  },
+  {
+    "title": "Combiner les services Google pour un meilleur Gmail",
+    "date": "2014-02-27T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/167310502/",
+    "description": "Bonjour à toutes et à tous,\nJeudi prochain (27 février), 19h au Node Bordeaux, c'est Louis Dorard [1] qui sera speaker du BordeauxJS.\nBordeauxJS devient BordeauxGS le temps d’une soirée où l’on va parler Data! GS pour Google (Apps) Script, qui est un language quasi équivalent à Javascript, mais aussi une plateforme sur laquelle exécuter des scripts qui vont facilement communiquer avec des services Google. Au programme de cette démo : récupérer des données Gmail et Contacts, les exporter vers Google Spreadsheets, et en faire des models prédictifs avec Google Prediction API!\nCette fois encore, le BordeauxJS sera en mode \"apéro collaboratif\" où chacun est invité à ramener un petit truc à boire et/ou à manger.\nA la semaine prochaine !\nDavid\n[1] https://twitter.com/louisdorard",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 12
+  },
+  {
+    "title": "Global Day of Code Retreat Bordeaux",
+    "date": "2013-12-14T08:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/154310552/",
+    "description": "Pour les développeurs (quelque soit le langage) qui veulent perfectionner leur façon d’écrire leur code, un Code Retreat est une journée découpées en 5/6 itérations de 45 minutes chacune où des paires de développeurs cherchent à améliorer leur façon de coder.\nS’appuyant sur un exercice simple les binômes prendrons le temps d’écrire le code qu’ils ont toujours voulu écrire en s’appliquant à respecter les 4 règles du design simple de Kent Beck :\nPasser tous les testsAucune duplication de codeRévéler les intentions par le code, être très attentif au nommageRéduire le nombre de classes et de méthodes\nUn Code Retreat est une journée intense de concentration et de réflexion. Chaque itération se conclut par une rétrospective, un changement de binôme, de nouvelles règles et surtout le code est jeté ! Et oui, car ce qui compte c’est la répétition pour chercher l’amélioration continue.\nCette année, comme chaque année depuis maintenant 3 ans, Okiwi organise l'édition Bordelaise du Global Day Of Code Retreat.\nPour s'inscrire c'est par ici. Attention il ne reste que 9 places!\nL'évènement est gratuit. Nous irons manger rue St Rémi, le repas est offert par Okiwi. N'oubliez pas que sans les cotisations de ses membres Okiwi ne ferait rien.\nhttps://plus.google.com/events/c9covge92csc8fkcq0utb472elk",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "CoolWorking",
+      "address": "19 rue esprit des lois",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "19 rue esprit des lois, Bordeaux",
+    "rsvp_count": 1
+  },
+  {
+    "title": "Soirée Haxe",
+    "date": "2013-11-07T19:30:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/148038932/",
+    "description": "Bonjour bonjour !\nJeudi 7 novembre, c'est Nicolas Cannasse qui viendra nous parler du langage de programmation Haxe et de comment Shiro Games l'utilise.\nCette fois-ci, je propose d'adopter la formule dite \"apéro communautaire\", ce qui en vrai français signifie \"amène un truc à manger et/ou à boire et à partager\".\nJavaScriptement,\nDavid",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 20
+  },
+  {
+    "title": "Code of War",
+    "date": "2013-11-02T09:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/144845672/",
+    "description": "Code of War est une compétition de programmation en équipe, gratuite et ouverte à tous.\nDeux ou trois personnes peuvent composer une équipe, dont au moins une personne avec des notions de programmation.Ce tournoi ne va pas récompenser le meilleur programmeur, mais la meilleure tactique.\nChaque équipe aura à programmer l'IA de son robot au travers d'un SDK disponible en Javascript, TypeScript, CoffeeScript, Haxe, ou Dart. Les robots s'affronteront alors dans des batailles sans merci d'où un seul sortira vainqueur.Stratégie et tactique de jeux sont les compétences nécessaires pour s'assurer la victoire.\nAvec un SDK disponible en Javascript, il est impenssable que BordeauxJS n'ai pas une équipe à ses couleurs.\nPlus d'info sur http://codeofwar.eventbrite.com/",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Epitech Bordeaux",
+      "address": "85 rue du jardin publique",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "85 rue du jardin publique, Bordeaux",
+    "rsvp_count": 12
+  },
+  {
+    "title": "Geek Camp 2013",
+    "date": "2013-09-27T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/135898092/",
+    "description": "un conférence participative, un weekend à la campagne entre geeks pour discuter des technos, bonnes pratiques, outils et environnements de travail pour coder sur des projets libres, former et informer les gens sur nos sujets de prédilection, manger des grillades et dormir à la belle étoileplus de details - http://okiwi.org/geek_camp/2013/",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "rsvp_count": 8
+  },
+  {
+    "title": "Développement Mobile HTML5",
+    "date": "2013-09-26T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/137641142/",
+    "description": "Bonjour,\nUn BordeauxJS !! Enfin !\nLe 26 septembre, 19h au Node, Pierre Renaudin, développeur chez Azendoo, start-up bordelaise, viendra nous parler du développement mobile HTML5.\nVenez nombreux !\nDavid",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 44
+  },
+  {
+    "title": "Soirée des techniciens du numérique",
+    "date": "2013-09-12T16:30:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/138088572/",
+    "description": "Bonjour,\nA l'occasion du premier anniversaire du Node [1], l'association Aquinum (qui gère le Node notamment) organise une soirée où les différents \"groupes techniques\" bordelais pourront se rencontrer.\nLe BordeauxJS est de la partie et vous êtes donc toutes et tous invités. Cette soirée aura lieu le jeudi 12 septembre à 18h30 au Node.\nAu plaisir de vous y voir,\nDavid\n[1] http://bxno.de/2013/aquinum-fete-le-node/",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 24
+  },
+  {
+    "title": "IDE et Javascript ?",
+    "date": "2013-05-02T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/116842092/",
+    "description": "Damien Riccio va nous faire découvrir et discuter des éditeurs de Javascript. Pas de slide, que du code pour illustrer ce que l'on peut attendre d'un IDE Javascript en terme de codage mais aussi de navigation.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 17
+  },
+  {
+    "title": "Garbage Collection et Asynchronous Patterns in JS",
+    "date": "2013-04-18T17:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/100987882/",
+    "description": "David Bruant va parler du processus de Garbage Collection dans les navigateurs à FluentConf ; LA conférence organisée par O'Reilly à San Francisco.\nOn a droit à une avant-première (et répétition) du sujet, en exclusivité à Bordeaux City !\nUn des aspects qui rend JavaScript facile à manipuler est le fait que la gestion de la mémoire est prise en charge par le moteur d'exécution de JavaScript. Mais alors que cette abstraction est pratique quand on débute, cela devient beaucoup moins évident lorsque l'on a affaire à des applications persistantes ou nécessitant des temps de réponses chronométrés, comme dans les jeux vidéo.\nOn abordera les basiques de la gestion mémoire, les algorithmes de garbage collection et les optimisations mises en œuvre par les moteurs d'exécution JavaScript pour rendre ce travail aussi discret et efficace que possible.\nIl nous fera aussi une avant-première de son talk à ScotlandJS: Asynchronous Patterns\nLa programmation asynchrone est compliqué à comprendre pour les personnes venant d'autres langages ou même parfois pour les experts du JS. Dans ce talk, je ferai un petit rappel sur les aspects théoriques de la boucle évènementielle et du modèle concurrentiel de JavaScript. Je passerai ensuite à différents design patterns asynchrones, cas d'utilisations où ils s'appliquent, conseils pour les reconnaître et une API JavaScript adaptée",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 34
+  },
+  {
+    "title": "Faisons discuter d3.js et ElasticSearch",
+    "date": "2013-03-14T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/100987982/",
+    "description": "Nous avons plein de données Open Data à disposition (ville, communauté urbaine, département et région !) mais qu'en faire ?\nEn injectant les données dans ElasticSearch, elles peuvent être facilement mises en forme grâce à d3.js. Une exploration interactive des données peut alors commencer.\nMathieu Elie mènera cette présentation et répondra à vos questions !",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 27
+  },
+  {
+    "title": "jQuery sans jQuery",
+    "date": "2013-02-07T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/100986622/",
+    "description": "Pour cette troisième session, nous procèderons à un atelier participatif. Son but ? Nous aider à développer pour le navigateur sans avoir à utiliser jQuery, pour économiser 30Ko et des plugins qui peuvent être bien lourdingues.\nOn pourra aussi en profiter pour parler d'alternatives comme jquip, ender ou encore jQuery Lite.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 26
+  },
+  {
+    "title": "BordeauxJS #2",
+    "date": "2012-12-06T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/92287382/",
+    "description": "Pour cette prochaine session, on tentera de réaliser une application Facebook hébergée sur Heroku. Cette application sera rattachable à une page et listera des tweets correspondants à un hashtag/recherche de son choix.\nOn utilisera vraisemblablement Cloud9, IDE permettant de coder en JavaScript depuis son navigateur.On utilisera aussi git pour le versionning du code.\nOn apprendra ainsi à débuter un projet NodeJS, installer les dépendances, démarrer une application etc.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_count": 25
+  },
+  {
+    "title": "BordeauxJS #1",
+    "date": "2012-10-31T18:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/88035462/",
+    "description": "Première rencontre entre amateurs de JavaScript à Bordeaux.\nOn va se la jouer cool : pas de présentation formelle ; à chacun de partager ses coups de coeur ou sa dernière lib favorite.\nPossibilité de brancher les ordis sur vidéoprojecteur ou télévision + Wi-Fi.",
+    "community": "bordeauxjs",
+    "is_online": false,
+    "venue": {
+      "name": "Node",
+      "address": "12 rue des faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des faussets, Bordeaux",
+    "rsvp_limit": 20,
+    "rsvp_count": 19
+  }
+]

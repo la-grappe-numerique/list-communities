@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": "🍷🍻 L'Apéro Web Bordeaux, la dernière (ou pas) !",
+    "date": "2024-11-27T18:00:00",
+    "url": "https://www.meetup.com/apero-web-bordeaux/events/304412420/",
+    "description": "Ne râtez pas ce dernier Apéro Web... de l'année 2024 ! 😅Rassurez-vous, vu le succès des 2 dernières éditions, l'Apéro Web est là pour durer !\nEn cette fin d'année, retrouvons-nous dans un lieu pour le moins original, le Wash Bar !Un bar, une laverie, une scène, des spectacles... Le Wash Bar c'est tout ça à la fois !\nLe principe de l'Apéro Web est simple : réunir les personnes qui font la tech lors d'un afterwork convivial dans un bar bordelais: CEO, CTO, Devs, PO, PM, UX/UI, SEO, SEM, CM, SRE, DA, DevOps, growth hackers etc...Si votre métier à un rapport avec le web ou la tech, cet apéro est fait pour vous !\n📆 Rendez-vous le mercredi 27 novembre (à partir de 19h)📍 Wash Bar (39 Rue Ausone, 33000 Bordeaux)\nPensez à rejoindre le groupe pour ne pas râter les news !\n🙏 On a besoin de vous pour réunir toutes les personnes qui font le web à Bordeaux et créer un afterwork au top :1️⃣ Partagez & likez ce post2️⃣ Tagguez vos collègues/amis/connaissances qui travaillent dans le web\nOn compte sur vous ! 🤩",
+    "community": "apero-web",
+    "is_online": false,
+    "venue": {
+      "name": "Wash Bar",
+      "address": "39 Rue Ausone",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "39 Rue Ausone, Bordeaux",
+    "rsvp_count": 65
+  },
+  {
+    "title": "Apéro Web #2",
+    "date": "2024-09-24T17:00:00",
+    "url": "https://www.meetup.com/apero-web-bordeaux/events/303251987/",
+    "description": "🍷🍻 L'Apéro Web Bordeaux fait sa rentrée !\nAprès le succès de sa première édition en juillet, l'Apéro Web Bordeaux revient en force et en forme !Et quoi de mieux en cette fin d'été que de se retrouver sur un rooftop pour profiter du coucher de soleil 🌆 😎\nLe principe de l'Apéro Web est simple : réunir les personnes qui font la tech lors d'un afterwork convivial dans un bar bordelais: CEO, CTO, Devs, PO, PM, UX/UI, SEO, SEM, CM, SRE, DA, DevOps, growth hackers etc...Si votre métier à un rapport avec le web ou la tech, cet apéro est fait pour vous !\n📆 Rendez-vous le mardi 24 septembre (à partir de 19h)📍 Rooftop du Radisson Blu\nPensez à rejoindre le groupe pour ne pas râter les news !\n🙏 On a besoin de vous pour réunir toutes les personnes qui font le web à Bordeaux et créer un afterwork au top :1️⃣ Partagez & likez ce post2️⃣ Tagguez vos collègues/amis/connaissances qui travaillent dans le web\nOn compte sur vous ! 🤩",
+    "community": "apero-web",
+    "is_online": false,
+    "venue": {
+      "name": "Radisson Blu",
+      "address": "63 Rue Lucien Faure Dock G6",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "63 Rue Lucien Faure Dock G6, Bordeaux",
+    "rsvp_count": 45
+  },
+  {
+    "title": "🆕 L'Apéro Web débarque à Bordeaux ! 🥳",
+    "date": "2024-07-03T17:00:00",
+    "url": "https://www.meetup.com/apero-web-bordeaux/events/301716042/",
+    "description": "🆕 L'**Apéro Web** débarque à **Bordeaux** ! 🥳\nAprès le succès dingue de l'*Apéro Web Lille*, il était temps de ramener ce superbe événement dans notre ville bien aimée qu'est Bordeaux !\nLe principe est simple : **réunir** les **personnes** qui font la **tech** lors d'un afterwork convivial dans un bar bordelais.\nCEO, CTO, Devs, PO, PM, UX/UI, SEO, SEM, CM, SRE, DA, DevOps, growth hackers etc...Si **votre métier** a un **rapport** avec le **web** ou la **tech**, cet **apéro est fait pour vous** !\n📆 Rendez-vous le mercredi 3 juillet (à partir de 19h).Et pour cette première estivale, on va pouvoir profiter d'une énorme terrasse et d'un bar très sympathique, le Gargalou !📍 Bar Gargalou (118 Quai de Bacalan, 33300 Bordeaux)\nPensez à rejoindre le groupe pour ne pas râter les news !\n🙏 On a **besoin de vous** pour réunir toutes les personnes qui font le web à Bordeaux et créer un afterwork au top : **partagez ce groupe** autour de vous, à vos collègues, vos amis et vos connaissances !\n**On compte sur vous ! 🤩**",
+    "community": "apero-web",
+    "is_online": false,
+    "venue": {
+      "name": "Gargalou Bordeaux",
+      "address": "118 Quai de Bacalan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "118 Quai de Bacalan, Bordeaux",
+    "rsvp_count": 67
+  }
+]
