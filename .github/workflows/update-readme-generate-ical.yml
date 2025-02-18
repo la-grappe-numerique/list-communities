@@ -6,6 +6,12 @@ on:
       - main
     paths:
       - '**/events.json'
+  workflow_run:
+    workflows: ["Sync Community Events"]
+    types:
+      - completed
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
