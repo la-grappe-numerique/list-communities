@@ -1,11 +1,14 @@
-# 🌍 La Grappe Numérique - Liste des communautés du numerique Bordelais
+# 🌍 La Grappe Numérique - Rassemblement de presque 33 communauté du numerique bordelais
 
 [![All Contributors](https://img.shields.io/github/all-contributors/la-grappe-numerique/list-communities?color=ee8449&style=flat-square)](#contributors)
 
 <div class="logo"><img src="docs/logo-commu.png"  width="600"/></div>
 
-Ce projet permet de lister les communautés bénévoles bordelaises et d'offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
-Vous pouvez joindre les communauté du numeriaque bordelais et échanger avec nous le Slack d'Okiwi ici: https://okiwi.org/slack/
+Cette page permet de retrouver l'ensemble des communautés de la grappe numérique et d'acceder à notre calendrier commun.
+
+## Nous rejoindre numériquement
+
+Vous pouvez joindre les communauté du numerique bordelais et échanger avec nous sur le Slack d'Okiwi ici: https://okiwi.org/slack/
 
 ## 📅 Les évènements à venir
 
@@ -54,7 +57,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 - [Women in Tech Bordeaux](women-in-tech-bordeaux/)
 
 
-## 📅 Les événements Bordelais
+## 📅 Les grands événements de la Grappe numérique
 
 - [BDX.IO](https://bdxio.fr/)
 - [Agile Tour Bordeaux](https://agiletourbordeaux.fr/)
@@ -75,7 +78,7 @@ Toute contribution est la bienvenue. Vous organisez un meetup qui n'apparait pas
 
 Un template de fiche de communauté est disponible [👉 ici](template/template.md).
 
-Mention spéciale au travail des communautés tech de Nantes d'ou nous avons répliquer le modèle https://nantes.community
+Mention spéciale au travail des communautés tech de Nantes dont nous avons répliqué le modèle https://nantes.community
 
 Merci à tous les contributeurs 🙏
 
