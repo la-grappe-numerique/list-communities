@@ -7,7 +7,7 @@ X-WR-CALDESC:Calendrier des événements de la communauté creative-coding
 X-WR-CALNAME:Événements creative-coding-bordeaux
 BEGIN:VEVENT
 SUMMARY:Atelier livecoding audiovisuel
-DTSTART:20241024T190000
+DTSTART:20241024T170000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/303995439/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/30
@@ -30,7 +30,7 @@ URL:https://www.meetup.com/creative-coding-bordeaux/events/303995439/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playground #4 - Creative Coding
-DTSTART:20240912T183000
+DTSTART:20240912T163000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/302826374/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/30
@@ -64,7 +64,7 @@ URL:https://www.meetup.com/creative-coding-bordeaux/events/302826374/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier livecoding sonore
-DTSTART:20240620T190000
+DTSTART:20240620T170000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/301525559/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/30
@@ -87,7 +87,7 @@ URL:https://www.meetup.com/creative-coding-bordeaux/events/301525559/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playground #3 - Creative Coding
-DTSTART:20240229T183000
+DTSTART:20240229T173000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/299114631/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/29
@@ -117,7 +117,7 @@ URL:https://www.meetup.com/creative-coding-bordeaux/events/299114631/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playground #2 - Creative Coding
-DTSTART:20231130T183000
+DTSTART:20231130T173000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/297313242/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/29
@@ -143,7 +143,7 @@ URL:https://www.meetup.com/creative-coding-bordeaux/events/297313242/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playground #1 - Creative Coding
-DTSTART:20230914T183000
+DTSTART:20230914T163000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/295328666/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/29

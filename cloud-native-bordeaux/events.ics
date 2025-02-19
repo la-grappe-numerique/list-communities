@@ -7,7 +7,7 @@ X-WR-CALDESC:Calendrier des événements de la communauté cloud-native-bo
 X-WR-CALNAME:Événements cloud-native-bordeaux
 BEGIN:VEVENT
 SUMMARY:Meetup #7 @Spaces @ManoMano @Elastic : ElasticSearch & Kubernetes
-DTSTART:20200114T191500
+DTSTART:20200114T181500
 UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/26757758
  1/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup #6 @LeWagon @Gekko : Tour d'horizon du monitoring dans Kube
  rnetes
-DTSTART:20191024T190000
+DTSTART:20191024T170000
 UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/26565728
  9/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
@@ -115,7 +115,7 @@ URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/26565728
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup #5 @Fieldbox.ai K3S et déploiement sur Kubernetes
-DTSTART:20190604T191500
+DTSTART:20190604T171500
 UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/26180399
  8/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
@@ -157,7 +157,7 @@ URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/26180399
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup#4 @OVH Kubernetes et Traefik
-DTSTART:20190402T191500
+DTSTART:20190402T171500
 UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/25999141
  8/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
@@ -202,7 +202,7 @@ URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/25999141
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup #3 @SQLI Rex Kubernetes et Chaos Engineering
-DTSTART:20190212T191500
+DTSTART:20190212T181500
 UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/25835114
  2/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
@@ -248,7 +248,7 @@ URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/25835114
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup #2 @NP6 Kubernetes CI/CD et bonnes pratiques
-DTSTART:20181211T191500
+DTSTART:20181211T181500
 UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/25683386
  2/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
@@ -286,7 +286,7 @@ URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/25683386
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup #1 @LeWagon Kickoff & Prometheus
-DTSTART:20181023T191500
+DTSTART:20181023T171500
 UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/25498828
  1/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev

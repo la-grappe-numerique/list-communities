@@ -5,7 +5,7 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjug
 X-WR-CALNAME:Événements bordeauxjug
 BEGIN:VEVENT
 SUMMARY:Tabby & Continue.dev : la dream team pour un IA coding assistant
-DTSTART:20250213T190000
+DTSTART:20250213T180000
 UID:https://www.meetup.com/bordeauxjug/events/306028825/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/306028825/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Optimisation des images Docker Java avec Jdeps\, Jlink et les laye
  rs Docker
-DTSTART:20250116T190000
+DTSTART:20250116T180000
 UID:https://www.meetup.com/bordeauxjug/events/305522695/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/305522695/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -67,7 +67,7 @@ URL:https://www.meetup.com/bordeauxjug/events/305522695/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Picocli : mets du Java dans ton terminal ! 
-DTSTART:20241212T190000
+DTSTART:20241212T180000
 UID:https://www.meetup.com/bordeauxjug/events/304849722/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/304849722/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -91,7 +91,7 @@ URL:https://www.meetup.com/bordeauxjug/events/304849722/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IA générative en action: Intégrez les LLM dans vos applications
-DTSTART:20241114T190000
+DTSTART:20241114T180000
 UID:https://www.meetup.com/bordeauxjug/events/304423651/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/304423651/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -107,7 +107,7 @@ URL:https://www.meetup.com/bordeauxjug/events/304423651/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarkus : Greener\, Better\, Faster\, stronger.
-DTSTART:20241010T190000
+DTSTART:20241010T170000
 UID:https://www.meetup.com/bordeauxjug/events/303769488/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/303769488/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -130,7 +130,7 @@ URL:https://www.meetup.com/bordeauxjug/events/303769488/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Design First : OpenApi et AsyncApi en action !
-DTSTART:20240926T190000
+DTSTART:20240926T170000
 UID:https://www.meetup.com/bordeauxjug/events/303373620/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/303373620/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -154,7 +154,7 @@ URL:https://www.meetup.com/bordeauxjug/events/303373620/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JUG Off 2024
-DTSTART:20240718T190000
+DTSTART:20240718T170000
 UID:https://www.meetup.com/bordeauxjug/events/302240218/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/302240218/\n
  📍 Alcala\, Place Alcala de Henares\, 33400\, Talence\, France\n\nLe moi
@@ -173,7 +173,7 @@ URL:https://www.meetup.com/bordeauxjug/events/302240218/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Java 22+
-DTSTART:20240619T190000
+DTSTART:20240619T170000
 UID:https://www.meetup.com/bordeauxjug/events/301614999/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/301614999/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -193,7 +193,7 @@ URL:https://www.meetup.com/bordeauxjug/events/301614999/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wargames - Java vulnerabilities and why you should care
-DTSTART:20240606T190000
+DTSTART:20240606T170000
 UID:https://www.meetup.com/bordeauxjug/events/301350591/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/301350591/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -215,7 +215,7 @@ URL:https://www.meetup.com/bordeauxjug/events/301350591/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comment être un développeur à 360° en 2024
-DTSTART:20240523T190000
+DTSTART:20240523T170000
 UID:https://www.meetup.com/bordeauxjug/events/300982636/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/300982636/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -252,7 +252,7 @@ URL:https://www.meetup.com/bordeauxjug/events/300982636/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Builds Reproductibles avec Apache Maven
-DTSTART:20240404T190000
+DTSTART:20240404T170000
 UID:https://www.meetup.com/bordeauxjug/events/299990747/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/299990747/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -278,7 +278,7 @@ URL:https://www.meetup.com/bordeauxjug/events/299990747/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le versioning des APIs REST: dans la vraie vie on fait comment?
-DTSTART:20240321T190000
+DTSTART:20240321T180000
 UID:https://www.meetup.com/bordeauxjug/events/299719481/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/299719481/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -302,7 +302,7 @@ URL:https://www.meetup.com/bordeauxjug/events/299719481/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Assemblée Générales 2024
-DTSTART:20240311T190000
+DTSTART:20240311T180000
 UID:https://www.meetup.com/bordeauxjug/events/299601637/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/299601637/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -324,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Découvrir le Property Based Testing : De la Théorie à la Pratiq
  ue avec jqwik
-DTSTART:20240215T190000
+DTSTART:20240215T180000
 UID:https://www.meetup.com/bordeauxjug/events/298948411/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/298948411/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -354,7 +354,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Generative IA par la pratique : cas concrets  d'un LLM en Java\, L
  angChain4J
-DTSTART:20240118T190000
+DTSTART:20240118T180000
 UID:https://www.meetup.com/bordeauxjug/events/298313430/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/298313430/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -379,7 +379,7 @@ URL:https://www.meetup.com/bordeauxjug/events/298313430/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les promesses de Loom ... Soyez au rendez-vous !
-DTSTART:20231123T190000
+DTSTART:20231123T180000
 UID:https://www.meetup.com/bordeauxjug/events/297384459/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/297384459/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -418,7 +418,7 @@ URL:https://www.meetup.com/bordeauxjug/events/297384459/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La recherche à l'ère de l'IA
-DTSTART:20231026T190000
+DTSTART:20231026T170000
 UID:https://www.meetup.com/bordeauxjug/events/296632690/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/296632690/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -438,7 +438,7 @@ URL:https://www.meetup.com/bordeauxjug/events/296632690/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JUG Off 2023
-DTSTART:20230706T190000
+DTSTART:20230706T170000
 UID:https://www.meetup.com/bordeauxjug/events/294526561/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/294526561/\n
  📍 Yamato\, 20 All. du 7ème art\, Talence\, France\n\nLe mois de Juille
@@ -457,7 +457,7 @@ URL:https://www.meetup.com/bordeauxjug/events/294526561/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laptop as Code
-DTSTART:20230608T190000
+DTSTART:20230608T170000
 UID:https://www.meetup.com/bordeauxjug/events/293890281/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/293890281/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -475,7 +475,7 @@ URL:https://www.meetup.com/bordeauxjug/events/293890281/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fluid Pull Request
-DTSTART:20230427T190000
+DTSTART:20230427T170000
 UID:https://www.meetup.com/bordeauxjug/events/292991518/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/292991518/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -499,7 +499,7 @@ URL:https://www.meetup.com/bordeauxjug/events/292991518/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CRaC vs GraalVM\, pour un démarrage rapide
-DTSTART:20230406T190000
+DTSTART:20230406T170000
 UID:https://www.meetup.com/bordeauxjug/events/292473540/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/292473540/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -518,7 +518,7 @@ URL:https://www.meetup.com/bordeauxjug/events/292473540/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG 2023
-DTSTART:20230313T190000
+DTSTART:20230313T180000
 UID:https://www.meetup.com/bordeauxjug/events/292117139/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/292117139/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -539,7 +539,7 @@ URL:https://www.meetup.com/bordeauxjug/events/292117139/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JOOQ\, joy of SQL
-DTSTART:20230223T190000
+DTSTART:20230223T180000
 UID:https://www.meetup.com/bordeauxjug/events/291725364/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/291725364/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -559,7 +559,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:400 API et 2000 types : genèse du nouveau client Java pour Elasti
  csearch
-DTSTART:20221215T190000
+DTSTART:20221215T180000
 UID:https://www.meetup.com/bordeauxjug/events/290213190/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/290213190/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -584,7 +584,7 @@ URL:https://www.meetup.com/bordeauxjug/events/290213190/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Micronaut Test Resources
-DTSTART:20221018T190000
+DTSTART:20221018T170000
 UID:https://www.meetup.com/bordeauxjug/events/289013582/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/289013582/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -621,7 +621,7 @@ URL:https://www.meetup.com/bordeauxjug/events/289013582/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programmation Asynchrone avec Loom
-DTSTART:20220922T190000
+DTSTART:20220922T170000
 UID:https://www.meetup.com/bordeauxjug/events/288362719/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/288362719/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -644,7 +644,7 @@ URL:https://www.meetup.com/bordeauxjug/events/288362719/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarkus World Tour 2022 s'arrête au BordeauxJUG
-DTSTART:20220609T190000
+DTSTART:20220609T170000
 UID:https://www.meetup.com/bordeauxjug/events/286319172/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/286319172/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -668,7 +668,7 @@ URL:https://www.meetup.com/bordeauxjug/events/286319172/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Workshop Kafka Streams 101
-DTSTART:20220528T100000
+DTSTART:20220528T080000
 UID:https://www.meetup.com/bordeauxjug/events/285941366/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/285941366/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -712,7 +712,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Architecture microservices & cohérence des données : mais commen
  t pour de vrai ?
-DTSTART:20220512T190000
+DTSTART:20220512T170000
 UID:https://www.meetup.com/bordeauxjug/events/285680552/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/285680552/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -739,7 +739,7 @@ URL:https://www.meetup.com/bordeauxjug/events/285680552/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Développer un opérateur Kubernetes en Java\, c'est possible !
-DTSTART:20220407T190000
+DTSTART:20220407T170000
 UID:https://www.meetup.com/bordeauxjug/events/284935523/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/284935523/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -772,7 +772,7 @@ URL:https://www.meetup.com/bordeauxjug/events/284935523/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A GraphQL-based Schema Architecture for Microservices
-DTSTART:20220324T190000
+DTSTART:20220324T180000
 UID:https://www.meetup.com/bordeauxjug/events/284773930/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/284773930/\n\nR
  egardless of the schema language\, there are three key problems in a schem
@@ -804,7 +804,7 @@ URL:https://www.meetup.com/bordeauxjug/events/284773930/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG 2022
-DTSTART:20220310T190000
+DTSTART:20220310T180000
 UID:https://www.meetup.com/bordeauxjug/events/284450934/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/284450934/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -827,7 +827,7 @@ URL:https://www.meetup.com/bordeauxjug/events/284450934/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blockchain: fondements technologiques et cas d'usage
-DTSTART:20211209T190000
+DTSTART:20211209T180000
 UID:https://www.meetup.com/bordeauxjug/events/282476863/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/282476863/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -851,7 +851,7 @@ URL:https://www.meetup.com/bordeauxjug/events/282476863/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Java 17 la dernière LTS par Rémi Forax
-DTSTART:20211116T190000
+DTSTART:20211116T180000
 UID:https://www.meetup.com/bordeauxjug/events/281736541/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/281736541/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -877,7 +877,7 @@ URL:https://www.meetup.com/bordeauxjug/events/281736541/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarkus World Tour s'arrête à Bordeaux
-DTSTART:20210916T190000
+DTSTART:20210916T170000
 UID:https://www.meetup.com/bordeauxjug/events/280673402/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/280673402/\n\nT
  rois Conférenciers :- Andy Damevin- Clément Escoffier- Loic Mathieu\nEmp
@@ -903,7 +903,7 @@ URL:https://www.meetup.com/bordeauxjug/events/280673402/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JUG Off 2021
-DTSTART:20210708T190000
+DTSTART:20210708T170000
 UID:https://www.meetup.com/bordeauxjug/events/279257003/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/279257003/\n
  📍 Alcala\, Place Alcala de Henares\, 33400\, Talence\, France\n\nRassur
@@ -923,7 +923,7 @@ URL:https://www.meetup.com/bordeauxjug/events/279257003/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Java côté serveur : 22 ans et toujours fringuant !
-DTSTART:20210624T190000
+DTSTART:20210624T170000
 UID:https://www.meetup.com/bordeauxjug/events/278914207/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/278914207/\n\nP
  endant 20 ans\, Java EE a évolué à un train sénatorial. Depuis une diz
@@ -946,7 +946,7 @@ URL:https://www.meetup.com/bordeauxjug/events/278914207/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gradle 7: Le guide de survie Gradle
-DTSTART:20210520T190000
+DTSTART:20210520T170000
 UID:https://www.meetup.com/bordeauxjug/events/278050081/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/278050081/\n\nG
  radle est un outil de build puissant\, souvent comparé à Maven\, mais ce
@@ -962,7 +962,7 @@ URL:https://www.meetup.com/bordeauxjug/events/278050081/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Java 16 - Les nouveautés
-DTSTART:20210422T190000
+DTSTART:20210422T170000
 UID:https://www.meetup.com/bordeauxjug/events/277451860/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/277451860/\n\nJ
  ava 16 est disponible depuis mars 2021. Java évolue rapidement avec cette
@@ -984,7 +984,7 @@ URL:https://www.meetup.com/bordeauxjug/events/277451860/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG 2021
-DTSTART:20210322T190000
+DTSTART:20210322T180000
 UID:https://www.meetup.com/bordeauxjug/events/277008416/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/277008416/\n\nL
  undi 22 Mars à 19h00 en visio (sans inscription) se tiendra l'Assemblée 
@@ -1003,7 +1003,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JHipster ❤️ Quarkus: Supersonic\, Subatomic Full Stack Applica
  tion
-DTSTART:20210311T190000
+DTSTART:20210311T180000
 UID:https://www.meetup.com/bordeauxjug/events/276719004/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/276719004/\n\nD
  'un côté JHipster\, LE générateur d'application le plus connus de l'é
@@ -1024,7 +1024,7 @@ URL:https://www.meetup.com/bordeauxjug/events/276719004/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hibernate in complex projects – Can we be a little faster?
-DTSTART:20210218T190000
+DTSTART:20210218T180000
 UID:https://www.meetup.com/bordeauxjug/events/276178510/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/276178510/\n\nH
  ibernate is the de-facto standard for persisting data in a relational data
@@ -1046,7 +1046,7 @@ URL:https://www.meetup.com/bordeauxjug/events/276178510/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don't fear outdated caches -- change data capture to the rescue! 
-DTSTART:20210121T190000
+DTSTART:20210121T180000
 UID:https://www.meetup.com/bordeauxjug/events/275773605/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/275773605/\n\nT
  he saying goes that there are only two hard things in Computer Science: ca
@@ -1071,7 +1071,7 @@ URL:https://www.meetup.com/bordeauxjug/events/275773605/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 easy improvements in your microservices architecture
-DTSTART:20201217T190000
+DTSTART:20201217T180000
 UID:https://www.meetup.com/bordeauxjug/events/275058477/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/275058477/\n\nW
  hile a microservices architecture is more scalable than a monolith\, it ha
@@ -1088,7 +1088,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Plug-in Architectures for Java with Layrry and the Java Module Sys
  tem
-DTSTART:20201119T190000
+DTSTART:20201119T180000
 UID:https://www.meetup.com/bordeauxjug/events/274507026/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/274507026/\n\nT
  he Java Module System lays the foundation for building modularized applica
@@ -1111,7 +1111,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mieux maîtriser la performance applicative avec la librairie de t
  est QuickPerf
-DTSTART:20201015T190000
+DTSTART:20201015T170000
 UID:https://www.meetup.com/bordeauxjug/events/273864451/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/273864451/\n\nL
  a performance est souvent considérée de manière tardive\, voire ignoré
@@ -1129,7 +1129,7 @@ URL:https://www.meetup.com/bordeauxjug/events/273864451/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring Boot Loves K8s
-DTSTART:20200910T190000
+DTSTART:20200910T170000
 UID:https://www.meetup.com/bordeauxjug/events/272912566/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/272912566/\n\nC
  ontainers and platforms are now part of the developer’s toolbox\;\nit’
@@ -1147,7 +1147,7 @@ URL:https://www.meetup.com/bordeauxjug/events/272912566/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JUG Off 2020
-DTSTART:20200709T190000
+DTSTART:20200709T170000
 UID:https://www.meetup.com/bordeauxjug/events/271759227/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/271759227/\n
  📍 Alcala\, Place Alcala de Henares\, 33400\, Talence\, France\n\nLe moi
@@ -1167,7 +1167,7 @@ URL:https://www.meetup.com/bordeauxjug/events/271759227/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Profiling et monitoring de JVM avec Arthas
-DTSTART:20200625T190000
+DTSTART:20200625T170000
 UID:https://www.meetup.com/bordeauxjug/events/271338389/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/271338389/\n\nA
  rthas est un outil open source de diagnostic Java open source développé 
@@ -1185,7 +1185,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Artificial Intelligence on Quarkus: I love it when an OptaPlan com
  es together
-DTSTART:20200528T190000
+DTSTART:20200528T170000
 UID:https://www.meetup.com/bordeauxjug/events/270786885/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/270786885/\n\nF
  orget about Machine Learning. Planning optimization is the most profitable
@@ -1207,7 +1207,7 @@ URL:https://www.meetup.com/bordeauxjug/events/270786885/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La concurrence sans s’emmêler les ficelles avec Project Loom
-DTSTART:20200430T190000
+DTSTART:20200430T170000
 UID:https://www.meetup.com/bordeauxjug/events/270182876/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/270182876/\n\nL
  e domaine de la programmation concurrente utilise le champ lexical de la f
@@ -1227,7 +1227,7 @@ URL:https://www.meetup.com/bordeauxjug/events/270182876/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Montée de version sans interruption de services
-DTSTART:20200220T190000
+DTSTART:20200220T180000
 UID:https://www.meetup.com/bordeauxjug/events/268624020/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/268624020/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1259,7 +1259,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:News du support de Kotlin dans Spring ? Et Spring Boot avec GraalV
  M native
-DTSTART:20200123T190000
+DTSTART:20200123T180000
 UID:https://www.meetup.com/bordeauxjug/events/267666612/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/267666612/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1295,7 +1295,7 @@ URL:https://www.meetup.com/bordeauxjug/events/267666612/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG 2020
-DTSTART:20200116T190000
+DTSTART:20200116T180000
 UID:https://www.meetup.com/bordeauxjug/events/267863950/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/267863950/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1317,7 +1317,7 @@ URL:https://www.meetup.com/bordeauxjug/events/267863950/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La modularité au (micro) service de l'espace client Orange
-DTSTART:20191212T190000
+DTSTART:20191212T180000
 UID:https://www.meetup.com/bordeauxjug/events/266994044/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/266994044/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1357,7 +1357,7 @@ URL:https://www.meetup.com/bordeauxjug/events/266994044/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Introduction à la programmation par contraintes
-DTSTART:20191121T190000
+DTSTART:20191121T180000
 UID:https://www.meetup.com/bordeauxjug/events/266232132/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/266232132/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1378,7 +1378,7 @@ URL:https://www.meetup.com/bordeauxjug/events/266232132/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La JVM et Docker\, vers une symbiose parfaite !
-DTSTART:20191017T190000
+DTSTART:20191017T170000
 UID:https://www.meetup.com/bordeauxjug/events/265368300/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/265368300/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1407,7 +1407,7 @@ URL:https://www.meetup.com/bordeauxjug/events/265368300/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quarkus: Supersonique Subatomique Java 
-DTSTART:20190905T190000
+DTSTART:20190905T170000
 UID:https://www.meetup.com/bordeauxjug/events/263399748/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/263399748/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1432,7 +1432,7 @@ URL:https://www.meetup.com/bordeauxjug/events/263399748/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JUG Off 2019
-DTSTART:20190711T193000
+DTSTART:20190711T173000
 UID:https://www.meetup.com/bordeauxjug/events/262595991/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/262595991/\n
  📍 Alcala\, Place Alcala de Henares\, 33400\, Talence\, France\n\nLe moi
@@ -1451,7 +1451,7 @@ URL:https://www.meetup.com/bordeauxjug/events/262595991/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le DDD et les patterns tactiques
-DTSTART:20190606T190000
+DTSTART:20190606T170000
 UID:https://www.meetup.com/bordeauxjug/events/261789353/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/261789353/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1469,7 +1469,7 @@ URL:https://www.meetup.com/bordeauxjug/events/261789353/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Java 11\, 12.. c'est le moment de remplacer son JDK 8
-DTSTART:20190516T190000
+DTSTART:20190516T170000
 UID:https://www.meetup.com/bordeauxjug/events/261250540/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/261250540/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1489,7 +1489,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Construire une architecture élastique basée sur les événements
   dans AWS
-DTSTART:20190425T190000
+DTSTART:20190425T170000
 UID:https://www.meetup.com/bordeauxjug/events/260351006/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/260351006/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1507,7 +1507,7 @@ URL:https://www.meetup.com/bordeauxjug/events/260351006/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Etre productif avec JHipster
-DTSTART:20190321T190000
+DTSTART:20190321T180000
 UID:https://www.meetup.com/bordeauxjug/events/259556423/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/259556423/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1532,7 +1532,7 @@ URL:https://www.meetup.com/bordeauxjug/events/259556423/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back to Basics : Ne perdez plus votre Temps avec les Dates
-DTSTART:20190221T190000
+DTSTART:20190221T180000
 UID:https://www.meetup.com/bordeauxjug/events/258695264/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/258695264/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1560,7 +1560,7 @@ URL:https://www.meetup.com/bordeauxjug/events/258695264/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Micronaut puis Flutter
-DTSTART:20190117T190000
+DTSTART:20190117T180000
 UID:https://www.meetup.com/bordeauxjug/events/257938877/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/257938877/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1603,7 +1603,7 @@ URL:https://www.meetup.com/bordeauxjug/events/257938877/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG 2019
-DTSTART:20190110T190000
+DTSTART:20190110T180000
 UID:https://www.meetup.com/bordeauxjug/events/257862112/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/257862112/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1625,7 +1625,7 @@ URL:https://www.meetup.com/bordeauxjug/events/257862112/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web components en 2018\, on en est où ?
-DTSTART:20181213T190000
+DTSTART:20181213T180000
 UID:https://www.meetup.com/bordeauxjug/events/257016263/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/257016263/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1662,7 +1662,7 @@ URL:https://www.meetup.com/bordeauxjug/events/257016263/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Au delà des brokers: un tour de l'environnement Kafka
-DTSTART:20181115T190000
+DTSTART:20181115T180000
 UID:https://www.meetup.com/bordeauxjug/events/256161168/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/256161168/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1680,7 +1680,7 @@ URL:https://www.meetup.com/bordeauxjug/events/256161168/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ceinture noire Karate en tests d'API REST
-DTSTART:20181011T190000
+DTSTART:20181011T170000
 UID:https://www.meetup.com/bordeauxjug/events/255244535/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/255244535/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1705,7 +1705,7 @@ URL:https://www.meetup.com/bordeauxjug/events/255244535/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soirée Apache Maven
-DTSTART:20180920T190000
+DTSTART:20180920T170000
 UID:https://www.meetup.com/bordeauxjug/events/254457225/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/254457225/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1736,7 +1736,7 @@ URL:https://www.meetup.com/bordeauxjug/events/254457225/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JUG Off 2018
-DTSTART:20180712T190000
+DTSTART:20180712T170000
 UID:https://www.meetup.com/bordeauxjug/events/252304027/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/252304027/\n
  📍 Alcala\, Place Alcala de Henares\, 33400\, Talence\, France\n\nLes va
@@ -1753,7 +1753,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mettre en place simplement la sécurité de ces applications avec 
  Keycloak
-DTSTART:20180620T190000
+DTSTART:20180620T170000
 UID:https://www.meetup.com/bordeauxjug/events/251623732/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/251623732/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1777,7 +1777,7 @@ URL:https://www.meetup.com/bordeauxjug/events/251623732/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soirée BlockChain
-DTSTART:20180517T190000
+DTSTART:20180517T170000
 UID:https://www.meetup.com/bordeauxjug/events/250558478/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/250558478/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1817,7 +1817,7 @@ URL:https://www.meetup.com/bordeauxjug/events/250558478/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Applications réactives avec Eclipse Vert.x
-DTSTART:20180425T190000
+DTSTART:20180425T170000
 UID:https://www.meetup.com/bordeauxjug/events/249581959/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/249581959/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1839,7 +1839,7 @@ URL:https://www.meetup.com/bordeauxjug/events/249581959/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boîte à outils mémoire de la JVM ...
-DTSTART:20180329T190000
+DTSTART:20180329T170000
 UID:https://www.meetup.com/bordeauxjug/events/248955519/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/248955519/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1862,7 +1862,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mettez à profit toutes les fonctionnalités de Kubernetes pour vo
  s microservices
-DTSTART:20180215T190000
+DTSTART:20180215T180000
 UID:https://www.meetup.com/bordeauxjug/events/247490956/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/247490956/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1881,7 +1881,7 @@ URL:https://www.meetup.com/bordeauxjug/events/247490956/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soirée Gilded-Rose 
-DTSTART:20180118T190000
+DTSTART:20180118T180000
 UID:https://www.meetup.com/bordeauxjug/events/246724353/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/246724353/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1906,7 +1906,7 @@ URL:https://www.meetup.com/bordeauxjug/events/246724353/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG 2017
-DTSTART:20171214T190000
+DTSTART:20171214T180000
 UID:https://www.meetup.com/bordeauxjug/events/245811130/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/245811130/\n
  📍 Alcala\, Place Alcala de Henares\, 33400\, Talence\, France\n\nJeudi 
@@ -1924,7 +1924,7 @@ URL:https://www.meetup.com/bordeauxjug/events/245811130/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Modernisez vos API\, passez à GraphQL!
-DTSTART:20171207T190000
+DTSTART:20171207T180000
 UID:https://www.meetup.com/bordeauxjug/events/245214238/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/245214238/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1943,7 +1943,7 @@ URL:https://www.meetup.com/bordeauxjug/events/245214238/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clean Code – Comment coder propre
-DTSTART:20171116T190000
+DTSTART:20171116T180000
 UID:https://www.meetup.com/bordeauxjug/events/244964590/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/244964590/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1967,7 +1967,7 @@ URL:https://www.meetup.com/bordeauxjug/events/244964590/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Serverless avec AWS Lambda ?
-DTSTART:20171012T190000
+DTSTART:20171012T170000
 UID:https://www.meetup.com/bordeauxjug/events/243960460/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/243960460/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -1988,7 +1988,7 @@ URL:https://www.meetup.com/bordeauxjug/events/243960460/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Préparez vous à la modularité selon Java 9 par Alexis Hassler
-DTSTART:20170913T190000
+DTSTART:20170913T170000
 UID:https://www.meetup.com/bordeauxjug/events/243122966/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/243122966/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2009,7 +2009,7 @@ URL:https://www.meetup.com/bordeauxjug/events/243122966/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JUG OFF
-DTSTART:20170706T213000
+DTSTART:20170706T193000
 UID:https://www.meetup.com/bordeauxjug/events/241343292/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/241343292/\n
  📍 Alcala\, Place Alcala de Henares\, 33400\, Talence\, France\n\nIl s'a
@@ -2023,7 +2023,7 @@ URL:https://www.meetup.com/bordeauxjug/events/241343292/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Raspberry Pi with Java 9 (au LABRI)
-DTSTART:20170706T190000
+DTSTART:20170706T170000
 UID:https://www.meetup.com/bordeauxjug/events/241198031/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/241198031/\n
  📍 LABRI\, Domaine universitaire\, 351\, cours de la Libération\, 33405
@@ -2049,7 +2049,7 @@ URL:https://www.meetup.com/bordeauxjug/events/241198031/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DDD\, P&A\, ES\, CQRS\, ETC
-DTSTART:20170622T190000
+DTSTART:20170622T170000
 UID:https://www.meetup.com/bordeauxjug/events/240754591/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/240754591/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2087,7 +2087,7 @@ URL:https://www.meetup.com/bordeauxjug/events/240754591/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stream Processing avec Apache Flink
-DTSTART:20170608T190000
+DTSTART:20170608T170000
 UID:https://www.meetup.com/bordeauxjug/events/240460871/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/240460871/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2124,7 +2124,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ingest Node : (Ré)indexer et enrichir des documents dans ElasticS
  earch
-DTSTART:20170504T190000
+DTSTART:20170504T170000
 UID:https://www.meetup.com/bordeauxjug/events/239283917/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/239283917/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2151,7 +2151,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Living documentation\, ou comment faire de la documentation sans l
  'écrire.
-DTSTART:20170413T190000
+DTSTART:20170413T170000
 UID:https://www.meetup.com/bordeauxjug/events/238993162/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/238993162/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2176,7 +2176,7 @@ URL:https://www.meetup.com/bordeauxjug/events/238993162/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TypeScript : dès lundi sur votre App Legacy
-DTSTART:20170323T190000
+DTSTART:20170323T180000
 UID:https://www.meetup.com/bordeauxjug/events/238356406/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/238356406/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2208,7 +2208,7 @@ URL:https://www.meetup.com/bordeauxjug/events/238356406/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Functional web applications with Kotlin and Spring 5
-DTSTART:20170112T190000
+DTSTART:20170112T180000
 UID:https://www.meetup.com/bordeauxjug/events/236351273/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/236351273/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2237,7 +2237,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Plateforme dynamique\, #docker #dns #scalabilité... Où sont mes
   microservices ?"
-DTSTART:20161215T190000
+DTSTART:20161215T180000
 UID:https://www.meetup.com/bordeauxjug/events/235866651/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/235866651/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2263,7 +2263,7 @@ URL:https://www.meetup.com/bordeauxjug/events/235866651/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG 2016
-DTSTART:20161207T190000
+DTSTART:20161207T180000
 UID:https://www.meetup.com/bordeauxjug/events/235866508/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/235866508/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2284,7 +2284,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SonarLint et SonarQube pour détecter les bugs\, code smells et vu
  lnérabilités
-DTSTART:20161117T190000
+DTSTART:20161117T180000
 UID:https://www.meetup.com/bordeauxjug/events/235485040/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/235485040/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2302,7 +2302,7 @@ URL:https://www.meetup.com/bordeauxjug/events/235485040/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Java EE\, Micro Profile\, TypeScript et Angular 2
-DTSTART:20161027T190000
+DTSTART:20161027T170000
 UID:https://www.meetup.com/bordeauxjug/events/234702577/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/234702577/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2331,7 +2331,7 @@ URL:https://www.meetup.com/bordeauxjug/events/234702577/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ionic\, un framework mobile hybride fun et addictif
-DTSTART:20160922T190000
+DTSTART:20160922T170000
 UID:https://www.meetup.com/bordeauxjug/events/233895791/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/233895791/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2354,7 +2354,7 @@ URL:https://www.meetup.com/bordeauxjug/events/233895791/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bordeaux JUG Off 2016
-DTSTART:20160705T190000
+DTSTART:20160705T170000
 UID:https://www.meetup.com/bordeauxjug/events/232348696/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/232348696/\n
  📍 The Connemara\, 14-18 Cours Albret\, Bordeaux\, France\n\nComme chaqu
@@ -2369,7 +2369,7 @@ URL:https://www.meetup.com/bordeauxjug/events/232348696/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eclipse Che: the Next-Gen Eclipse IDE
-DTSTART:20160609T190000
+DTSTART:20160609T170000
 UID:https://www.meetup.com/bordeauxjug/events/231401974/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/231401974/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2394,7 +2394,7 @@ URL:https://www.meetup.com/bordeauxjug/events/231401974/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hawkular Powers: Le Dev au pistolet d'Ops
-DTSTART:20160512T190000
+DTSTART:20160512T170000
 UID:https://www.meetup.com/bordeauxjug/events/230822572/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/230822572/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2414,7 +2414,7 @@ URL:https://www.meetup.com/bordeauxjug/events/230822572/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JIGSAW notre sauveur
-DTSTART:20160412T190000
+DTSTART:20160412T170000
 UID:https://www.meetup.com/bordeauxjug/events/230045752/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/230045752/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2435,7 +2435,7 @@ URL:https://www.meetup.com/bordeauxjug/events/230045752/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:De Zéro à Héros avec Spring Boot
-DTSTART:20160331T190000
+DTSTART:20160331T170000
 UID:https://www.meetup.com/bordeauxjug/events/229566440/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/229566440/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2457,7 +2457,7 @@ URL:https://www.meetup.com/bordeauxjug/events/229566440/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Let's React
-DTSTART:20160210T190000
+DTSTART:20160210T180000
 UID:https://www.meetup.com/bordeauxjug/events/228464263/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/228464263/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2480,7 +2480,7 @@ URL:https://www.meetup.com/bordeauxjug/events/228464263/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quickie Party
-DTSTART:20160121T190000
+DTSTART:20160121T180000
 UID:https://www.meetup.com/bordeauxjug/events/228184140/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/228184140/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2500,7 +2500,7 @@ URL:https://www.meetup.com/bordeauxjug/events/228184140/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG 2015
-DTSTART:20151215T190000
+DTSTART:20151215T180000
 UID:https://www.meetup.com/bordeauxjug/events/227402106/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/227402106/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2521,7 +2521,7 @@ URL:https://www.meetup.com/bordeauxjug/events/227402106/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intégration Spark/Cassandra\, théorie et pratique
-DTSTART:20151210T190000
+DTSTART:20151210T180000
 UID:https://www.meetup.com/bordeauxjug/events/227072081/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/227072081/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2546,7 +2546,7 @@ URL:https://www.meetup.com/bordeauxjug/events/227072081/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Machine Learning avec Spark
-DTSTART:20151119T190000
+DTSTART:20151119T180000
 UID:https://www.meetup.com/bordeauxjug/events/226638295/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/226638295/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2569,7 +2569,7 @@ URL:https://www.meetup.com/bordeauxjug/events/226638295/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Continuous Delivery avec Jenkins et Docker
-DTSTART:20151022T190000
+DTSTART:20151022T170000
 UID:https://www.meetup.com/bordeauxjug/events/226039925/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/226039925/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2591,7 +2591,7 @@ URL:https://www.meetup.com/bordeauxjug/events/226039925/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asciidoctor RTFM
-DTSTART:20150924T190000
+DTSTART:20150924T170000
 UID:https://www.meetup.com/bordeauxjug/events/225140026/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/225140026/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2614,7 +2614,7 @@ URL:https://www.meetup.com/bordeauxjug/events/225140026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jug Off 2015
-DTSTART:20150708T190000
+DTSTART:20150708T170000
 UID:https://www.meetup.com/bordeauxjug/events/223699329/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/223699329/\n
  📍 The Connemara\, 14-18 Cours Albret\, Bordeaux\, France\n\nComme chaqu
@@ -2629,7 +2629,7 @@ URL:https://www.meetup.com/bordeauxjug/events/223699329/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hibernate OGM : ORM et NoSQL sont-ils solubles?
-DTSTART:20150617T190000
+DTSTART:20150617T170000
 UID:https://www.meetup.com/bordeauxjug/events/222982961/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/222982961/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2662,7 +2662,7 @@ URL:https://www.meetup.com/bordeauxjug/events/222982961/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Convention over configuration: the Gradle Way
-DTSTART:20150505T190000
+DTSTART:20150505T170000
 UID:https://www.meetup.com/bordeauxjug/events/222040907/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/222040907/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2684,7 +2684,7 @@ URL:https://www.meetup.com/bordeauxjug/events/222040907/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:À la découverte de MongoDB 3.0 !
-DTSTART:20150416T190000
+DTSTART:20150416T170000
 UID:https://www.meetup.com/bordeauxjug/events/221648599/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/221648599/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2701,7 +2701,7 @@ URL:https://www.meetup.com/bordeauxjug/events/221648599/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soirée Cassandra avec Sébastien Augereau
-DTSTART:20150319T190000
+DTSTART:20150319T180000
 UID:https://www.meetup.com/bordeauxjug/events/220850469/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/220850469/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2722,7 +2722,7 @@ URL:https://www.meetup.com/bordeauxjug/events/220850469/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lucy in the cloud with Docker
-DTSTART:20150205T190000
+DTSTART:20150205T180000
 UID:https://www.meetup.com/bordeauxjug/events/220124167/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/220124167/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2740,7 +2740,7 @@ URL:https://www.meetup.com/bordeauxjug/events/220124167/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LP4J\, a song of Java\, MIDI and websockets
-DTSTART:20150122T190000
+DTSTART:20150122T180000
 UID:https://www.meetup.com/bordeauxjug/events/219792716/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/219792716/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2759,7 +2759,7 @@ URL:https://www.meetup.com/bordeauxjug/events/219792716/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jeudi 11 décembre : AG du JUG
-DTSTART:20141211T190000
+DTSTART:20141211T180000
 UID:https://www.meetup.com/bordeauxjug/events/218973416/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/218973416/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2794,7 +2794,7 @@ URL:https://www.meetup.com/bordeauxjug/events/218973416/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jeudi 4 Décembre : Soirée JHipster
-DTSTART:20141204T190000
+DTSTART:20141204T180000
 UID:https://www.meetup.com/bordeauxjug/events/218765429/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/218765429/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2818,7 +2818,7 @@ URL:https://www.meetup.com/bordeauxjug/events/218765429/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Introduction à Clojure et Live Coding
-DTSTART:20141113T190000
+DTSTART:20141113T180000
 UID:https://www.meetup.com/bordeauxjug/events/218255602/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/218255602/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2836,7 +2836,7 @@ URL:https://www.meetup.com/bordeauxjug/events/218255602/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CDI Today... and Tomorow (A. Goncalves)
-DTSTART:20141023T190000
+DTSTART:20141023T170000
 UID:https://www.meetup.com/bordeauxjug/events/213012482/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/213012482/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2853,7 +2853,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La persistance polyglotte ou comment intégrer quatre moteurs de b
  ases de données
-DTSTART:20140925T190000
+DTSTART:20140925T170000
 UID:https://www.meetup.com/bordeauxjug/events/207221112/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/207221112/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2885,7 +2885,7 @@ URL:https://www.meetup.com/bordeauxjug/events/207221112/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jug Off au Connemara
-DTSTART:20140707T190000
+DTSTART:20140707T170000
 UID:https://www.meetup.com/bordeauxjug/events/192113902/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/192113902/\n
  📍 The Connemara\, 14-18 Cours Albret\, Bordeaux\, France\n\nComme chaqu
@@ -2901,7 +2901,7 @@ URL:https://www.meetup.com/bordeauxjug/events/192113902/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Appliquer le Web aux données
-DTSTART:20140611T190000
+DTSTART:20140611T170000
 UID:https://www.meetup.com/bordeauxjug/events/186439052/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/186439052/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2924,7 +2924,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Des applications réactives avec Spring 4\, AngularDart et Websock
  et
-DTSTART:20140522T190000
+DTSTART:20140522T170000
 UID:https://www.meetup.com/bordeauxjug/events/182201392/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/182201392/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2949,7 +2949,7 @@ URL:https://www.meetup.com/bordeauxjug/events/182201392/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Java 8 Lambdas and Devices
-DTSTART:20140409T190000
+DTSTART:20140409T170000
 UID:https://www.meetup.com/bordeauxjug/events/170169002/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/170169002/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2969,7 +2969,7 @@ URL:https://www.meetup.com/bordeauxjug/events/170169002/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Groovy vs Java 8
-DTSTART:20140403T190000
+DTSTART:20140403T170000
 UID:https://www.meetup.com/bordeauxjug/events/173192882/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/173192882/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -2990,7 +2990,7 @@ URL:https://www.meetup.com/bordeauxjug/events/173192882/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wikidata Workshop
-DTSTART:20140322T140000
+DTSTART:20140322T130000
 UID:https://www.meetup.com/bordeauxjug/events/168636382/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/168636382/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -3025,7 +3025,7 @@ URL:https://www.meetup.com/bordeauxjug/events/168636382/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live coding: Web temps réel avec Play 2
-DTSTART:20140313T190000
+DTSTART:20140313T180000
 UID:https://www.meetup.com/bordeauxjug/events/170163822/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/170163822/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -3043,7 +3043,7 @@ URL:https://www.meetup.com/bordeauxjug/events/170163822/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dart Flight school
-DTSTART:20140215T120000
+DTSTART:20140215T110000
 UID:https://www.meetup.com/bordeauxjug/events/164822362/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/164822362/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -3072,7 +3072,7 @@ URL:https://www.meetup.com/bordeauxjug/events/164822362/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JavaEE : Apache TomEE
-DTSTART:20140213T190000
+DTSTART:20140213T180000
 UID:https://www.meetup.com/bordeauxjug/events/164013362/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/164013362/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -3100,7 +3100,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Java 8 : lambdas\, Streams et Collectors\, le nouveau visage de l
  ’API Collection
-DTSTART:20140116T190000
+DTSTART:20140116T180000
 UID:https://www.meetup.com/bordeauxjug/events/158426962/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/158426962/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -3127,7 +3127,7 @@ URL:https://www.meetup.com/bordeauxjug/events/158426962/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG 2013 du BordeauxJUG
-DTSTART:20131216T190000
+DTSTART:20131216T180000
 UID:https://www.meetup.com/bordeauxjug/events/149668812/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/149668812/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -3150,7 +3150,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lambdas\, from the great closure war to Java 8\, an unexpected jou
  rney
-DTSTART:20131211T190000
+DTSTART:20131211T180000
 UID:https://www.meetup.com/bordeauxjug/events/153792532/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/153792532/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -3170,7 +3170,7 @@ URL:https://www.meetup.com/bordeauxjug/events/153792532/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jeudi 14 Nov: What's The Fold
-DTSTART:20131114T190000
+DTSTART:20131114T180000
 UID:https://www.meetup.com/bordeauxjug/events/148668382/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/148668382/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
@@ -3191,7 +3191,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jeudi 17 Oct: Les lambdas arrivent\, mais avez-vous bien compris l
  es Generics ?
-DTSTART:20131017T190000
+DTSTART:20131017T170000
 UID:https://www.meetup.com/bordeauxjug/events/143511422/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/143511422/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\

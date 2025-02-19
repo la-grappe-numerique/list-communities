@@ -5,7 +5,7 @@ X-WR-CALDESC:Calendrier des événements de la communauté agile-bordeaux
 X-WR-CALNAME:Événements agile-bordeaux
 BEGIN:VEVENT
 SUMMARY:Club de lecture 25.2 - Petit manuel de résistance contemporaine
-DTSTART:20250405T100000
+DTSTART:20250405T080000
 UID:https://www.meetup.com/agile-bordeaux/events/306121267/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/306121267/\n
@@ -44,7 +44,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scrum ET Kanban - L’alliage résilient de l’amélioration cont
  inue de vos produits
-DTSTART:20250313T183000
+DTSTART:20250313T173000
 UID:https://www.meetup.com/agile-bordeaux/events/305865751/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305865751/\n
@@ -66,13 +66,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305865751/\n
  lk lors de meetups réguliers.L’objectif est de mettre en lumière des s
  ujets variés\, techniques ou non\, et de permettre aux orateurs\, quel qu
  e soit leur niveau d’expérience\, de partager leurs idées.\n\nCommunau
- té: agile-bordeaux\n👥 11 participant(s)\nLimité à 65 places
+ té: agile-bordeaux\n👥 12 participant(s)\nLimité à 65 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 URL:https://www.meetup.com/agile-bordeaux/events/305865751/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 25.1
-DTSTART:20250215T090000
+DTSTART:20250215T080000
 UID:https://www.meetup.com/agile-bordeaux/events/305095745/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305095745/\n
@@ -109,7 +109,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/305095745/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 25.1 - Nexus
-DTSTART:20250208T100000
+DTSTART:20250208T090000
 UID:https://www.meetup.com/agile-bordeaux/events/305223231/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305223231/\n
@@ -140,7 +140,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/305223231/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.8 - Une sacrée envie de foutre le bordel
-DTSTART:20241130T100000
+DTSTART:20241130T090000
 UID:https://www.meetup.com/agile-bordeaux/events/303986394/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/303986394/\n
@@ -166,7 +166,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/303986394/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.7 - Dans le cerveau des champions
-DTSTART:20241005T100000
+DTSTART:20241005T080000
 UID:https://www.meetup.com/agile-bordeaux/events/302002220/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/302002220/\n
@@ -195,7 +195,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/302002220/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.6 - Les livres de l’été
-DTSTART:20240907T100000
+DTSTART:20240907T080000
 UID:https://www.meetup.com/agile-bordeaux/events/302002044/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/302002044/\n
@@ -211,7 +211,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/302002044/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo Juin
-DTSTART:20240629T090000
+DTSTART:20240629T070000
 UID:https://www.meetup.com/agile-bordeaux/events/301323388/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/301323388/\n
@@ -249,7 +249,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/301323388/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.5 - Pour en finir avec le machin
-DTSTART:20240615T100000
+DTSTART:20240615T080000
 UID:https://www.meetup.com/agile-bordeaux/events/301013894/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/301013894/\n
@@ -284,7 +284,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/301013894/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #6 : Mission anti-sabotage
-DTSTART:20240507T190000
+DTSTART:20240507T170000
 UID:https://www.meetup.com/agile-bordeaux/events/300755558/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/300755558/\n
@@ -320,7 +320,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/300755558/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.4 - Changer d’altitude
-DTSTART:20240504T100000
+DTSTART:20240504T080000
 UID:https://www.meetup.com/agile-bordeaux/events/299362757/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299362757/\n
@@ -346,7 +346,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/299362757/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.3 - La boîte à outils de la méthode OKR
-DTSTART:20240323T093000
+DTSTART:20240323T083000
 UID:https://www.meetup.com/agile-bordeaux/events/298848223/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/298848223/\n
@@ -379,7 +379,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/298848223/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo Mars
-DTSTART:20240316T090000
+DTSTART:20240316T080000
 UID:https://www.meetup.com/agile-bordeaux/events/299213788/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299213788/\n
@@ -413,7 +413,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/299213788/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #5 : Lean Coffee
-DTSTART:20240313T190000
+DTSTART:20240313T180000
 UID:https://www.meetup.com/agile-bordeaux/events/299637290/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299637290/\n
@@ -446,7 +446,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/299637290/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 24.1
-DTSTART:20240227T190000
+DTSTART:20240227T180000
 UID:https://www.meetup.com/agile-bordeaux/events/298910561/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/298910561/\n
@@ -466,7 +466,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/298910561/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.2 - Agile conversations
-DTSTART:20240210T100000
+DTSTART:20240210T090000
 UID:https://www.meetup.com/agile-bordeaux/events/297716202/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297716202/\n
@@ -499,7 +499,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/297716202/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #4 : L'évolution du PO : du tacticien au stratège
-DTSTART:20240131T190000
+DTSTART:20240131T180000
 UID:https://www.meetup.com/agile-bordeaux/events/298588040/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/298588040/\n
@@ -533,7 +533,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/298588040/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.1 - Les livres des vacances
-DTSTART:20240113T100000
+DTSTART:20240113T090000
 UID:https://www.meetup.com/agile-bordeaux/events/295798791/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/295798791/\n
@@ -551,7 +551,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #3 - Demoribo : l'art de la pratique de la démo agi
  le
-DTSTART:20231213T190000
+DTSTART:20231213T180000
 UID:https://www.meetup.com/agile-bordeaux/events/297759784/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297759784/\n
@@ -584,7 +584,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/297759784/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.7 - Vivre avec son passé
-DTSTART:20231118T100000
+DTSTART:20231118T090000
 UID:https://www.meetup.com/agile-bordeaux/events/296337309/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/296337309/\n
@@ -614,7 +614,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/296337309/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #2 - S'essayer à l'eXtreme quotation
-DTSTART:20231115T183000
+DTSTART:20231115T173000
 UID:https://www.meetup.com/agile-bordeaux/events/297211586/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297211586/\n
@@ -647,7 +647,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/297211586/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #1 - Découvrir les bases de l'UX / UI
-DTSTART:20231010T190000
+DTSTART:20231010T170000
 UID:https://www.meetup.com/agile-bordeaux/events/293450726/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/293450726/\n
@@ -675,7 +675,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/293450726/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.6 - Réparer les Histoires
-DTSTART:20230923T100000
+DTSTART:20230923T080000
 UID:https://www.meetup.com/agile-bordeaux/events/294707236/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/294707236/\n
@@ -712,7 +712,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/294707236/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.5 - Les livres de l’été
-DTSTART:20230826T100000
+DTSTART:20230826T080000
 UID:https://www.meetup.com/agile-bordeaux/events/294707074/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/294707074/\n
@@ -728,7 +728,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/294707074/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.4 - La cinquième discipline
-DTSTART:20230617T100000
+DTSTART:20230617T080000
 UID:https://www.meetup.com/agile-bordeaux/events/293404784/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/293404784/\n
@@ -756,7 +756,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.3 - Moi\, toi\, nous\, petit traité des influe
  nces réciproques
-DTSTART:20230422T100000
+DTSTART:20230422T080000
 UID:https://www.meetup.com/agile-bordeaux/events/291918981/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/291918981/\n
@@ -790,7 +790,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/291918981/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.2 - Éloge de l'inattendu
-DTSTART:20230225T100000
+DTSTART:20230225T090000
 UID:https://www.meetup.com/agile-bordeaux/events/291402181/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/291402181/\n
@@ -822,7 +822,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/291402181/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.1 - Ne coupez jamais la poire en deux
-DTSTART:20230128T100000
+DTSTART:20230128T090000
 UID:https://www.meetup.com/agile-bordeaux/events/290269432/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/290269432/\n
@@ -852,7 +852,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/290269432/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.6 - Théorie U\, l'essentiel
-DTSTART:20221203T100000
+DTSTART:20221203T090000
 UID:https://www.meetup.com/agile-bordeaux/events/288650730/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/288650730/\n
@@ -890,7 +890,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/288650730/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.5 - Coacher avec l’Appreciative Inquiry
-DTSTART:20220917T100000
+DTSTART:20220917T080000
 UID:https://www.meetup.com/agile-bordeaux/events/286846272/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/286846272/\n
@@ -919,7 +919,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/286846272/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.4 - Coacher les émotions
-DTSTART:20220618T100000
+DTSTART:20220618T080000
 UID:https://www.meetup.com/agile-bordeaux/events/285883383/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/285883383/\n
@@ -945,7 +945,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Découvrir le rôle de Product Owner par la pratique et en aidant 
  les autres.
-DTSTART:20220614T183000
+DTSTART:20220614T163000
 UID:https://www.meetup.com/agile-bordeaux/events/285783764/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/285783764/\n
@@ -974,7 +974,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/285783764/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.3 - Optimisez votre équipe
-DTSTART:20220507T100000
+DTSTART:20220507T080000
 UID:https://www.meetup.com/agile-bordeaux/events/284996319/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/284996319/\n
@@ -1008,7 +1008,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/284996319/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.2 - Vous allez commettre une terrible erreur
-DTSTART:20220326T100000
+DTSTART:20220326T090000
 UID:https://www.meetup.com/agile-bordeaux/events/283944840/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/283944840/\n
@@ -1038,7 +1038,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/283944840/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.1 - Team Topologies
-DTSTART:20220129T100000
+DTSTART:20220129T090000
 UID:https://www.meetup.com/agile-bordeaux/events/282590209/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/282590209/\n
@@ -1072,7 +1072,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/282590209/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.7 - Les vertus de l’échec
-DTSTART:20211120T100000
+DTSTART:20211120T090000
 UID:https://www.meetup.com/agile-bordeaux/events/280890878/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/280890878/\n
@@ -1100,7 +1100,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/280890878/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.6 - Que faire des cons ?
-DTSTART:20210918T100000
+DTSTART:20210918T080000
 UID:https://www.meetup.com/agile-bordeaux/events/278697415/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/278697415/\n
@@ -1124,7 +1124,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/278697415/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.5 - La dynamique des groupes
-DTSTART:20210605T100000
+DTSTART:20210605T080000
 UID:https://www.meetup.com/agile-bordeaux/events/278079384/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/278079384/\n
@@ -1151,7 +1151,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/278079384/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.4 - Le thérapeute et le philosophe
-DTSTART:20210508T100000
+DTSTART:20210508T080000
 UID:https://www.meetup.com/agile-bordeaux/events/277263118/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/277263118/\n
@@ -1183,7 +1183,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rupture Douce Saison 007 - Rétro-Confinement - Rencontre avec les
   auteurs
-DTSTART:20210413T183000
+DTSTART:20210413T163000
 UID:https://www.meetup.com/agile-bordeaux/events/277286242/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/277286242/\n
@@ -1217,7 +1217,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/277286242/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.3 - L'espèce fabulatrice
-DTSTART:20210320T100000
+DTSTART:20210320T090000
 UID:https://www.meetup.com/agile-bordeaux/events/276525708/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/276525708/\n
@@ -1236,7 +1236,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/276525708/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.2 -  La logique de l'acouphène
-DTSTART:20210220T100000
+DTSTART:20210220T090000
 UID:https://www.meetup.com/agile-bordeaux/events/275827555/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/275827555/\n
@@ -1266,7 +1266,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Découvrir le rôle de Product Owner par la pratique et en aidant 
  les autres.
-DTSTART:20210204T183000
+DTSTART:20210204T173000
 UID:https://www.meetup.com/agile-bordeaux/events/275710937/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/275710937/\n
@@ -1294,7 +1294,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/275710937/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.1 - La posture juste
-DTSTART:20210116T100000
+DTSTART:20210116T090000
 UID:https://www.meetup.com/agile-bordeaux/events/274884100/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/274884100/\n
@@ -1325,7 +1325,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/274884100/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.6 - Ecoute\, petit homme !
-DTSTART:20201219T100000
+DTSTART:20201219T090000
 UID:https://www.meetup.com/agile-bordeaux/events/274774397/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/274774397/\n
@@ -1350,7 +1350,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/274774397/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.5 - L'approche systémique
-DTSTART:20201121T100000
+DTSTART:20201121T090000
 UID:https://www.meetup.com/agile-bordeaux/events/273366174/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/273366174/\n
@@ -1381,7 +1381,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/273366174/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.4 - Coacher avec l’approche narrative
-DTSTART:20200912T093000
+DTSTART:20200912T073000
 UID:https://www.meetup.com/agile-bordeaux/events/272108470/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/272108470/\n
@@ -1403,7 +1403,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/272108470/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 20.2 - Special Online
-DTSTART:20200627T090000
+DTSTART:20200627T070000
 UID:https://www.meetup.com/agile-bordeaux/events/271203421/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/271203421/\n
@@ -1455,7 +1455,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/271203421/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.3 - Notre corps ne ment jamais
-DTSTART:20200606T093000
+DTSTART:20200606T073000
 UID:https://www.meetup.com/agile-bordeaux/events/270256889/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/270256889/\n
@@ -1491,7 +1491,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.2 - La dynamique des équipes et l'intelligence
   collective
-DTSTART:20200418T093000
+DTSTART:20200418T073000
 UID:https://www.meetup.com/agile-bordeaux/events/269028247/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/269028247/\n
@@ -1514,7 +1514,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/269028247/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.1 - Questionnez Mieux et Gagnez en Leadership
-DTSTART:20200222T093000
+DTSTART:20200222T083000
 UID:https://www.meetup.com/agile-bordeaux/events/266947585/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/266947585/\n
@@ -1547,7 +1547,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/266947585/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 20.1
-DTSTART:20200125T090000
+DTSTART:20200125T080000
 UID:https://www.meetup.com/agile-bordeaux/events/266214311/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/266214311/\n
@@ -1593,7 +1593,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/266214311/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 19.5 - La spirale dynamique 
-DTSTART:20191130T093000
+DTSTART:20191130T083000
 UID:https://www.meetup.com/agile-bordeaux/events/265397378/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/265397378/\n
@@ -1623,7 +1623,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/265397378/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 19.4 - La nuit j’écrirai des soleils
-DTSTART:20190928T093000
+DTSTART:20190928T073000
 UID:https://www.meetup.com/agile-bordeaux/events/262665679/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/262665679/\n
@@ -1645,7 +1645,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/262665679/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 19.1
-DTSTART:20190914T090000
+DTSTART:20190914T070000
 UID:https://www.meetup.com/agile-bordeaux/events/260531263/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/260531263/\n
@@ -1690,7 +1690,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/260531263/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 19.3 - À nous la liberté
-DTSTART:20190615T093000
+DTSTART:20190615T073000
 UID:https://www.meetup.com/agile-bordeaux/events/258815870/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/258815870/\n
@@ -1719,7 +1719,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/258815870/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 19.2
-DTSTART:20190606T184500
+DTSTART:20190606T164500
 UID:https://www.meetup.com/agile-bordeaux/events/261328959/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/261328959/\n
@@ -1742,7 +1742,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/261328959/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 19.2 - Découvrir un sens à sa vie 
-DTSTART:20190323T093000
+DTSTART:20190323T083000
 UID:https://www.meetup.com/agile-bordeaux/events/258813843/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/258813843/\n
@@ -1766,7 +1766,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/258813843/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 19.1 - Start With Why
-DTSTART:20190202T093000
+DTSTART:20190202T083000
 UID:https://www.meetup.com/agile-bordeaux/events/257027302/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/257027302/\n
@@ -1786,7 +1786,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/257027302/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 19.1
-DTSTART:20190124T190000
+DTSTART:20190124T180000
 UID:https://www.meetup.com/agile-bordeaux/events/257289336/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/257289336/\n
@@ -1812,7 +1812,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/257289336/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lean Coffee @ CoolWorking
-DTSTART:20181214T090000
+DTSTART:20181214T080000
 UID:https://www.meetup.com/agile-bordeaux/events/256836472/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/256836472/\n
@@ -1836,7 +1836,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/256836472/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 18.5 - Changing Your Team From The Inside
-DTSTART:20181201T093000
+DTSTART:20181201T083000
 UID:https://www.meetup.com/agile-bordeaux/events/255454948/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/255454948/\n
@@ -1857,7 +1857,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/255454948/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lean Coffee @ CoolWorking
-DTSTART:20181019T090000
+DTSTART:20181019T070000
 UID:https://www.meetup.com/agile-bordeaux/events/255449522/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/255449522/\n
@@ -1881,7 +1881,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/255449522/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 18.4 - The Happiness Equation
-DTSTART:20181006T093000
+DTSTART:20181006T073000
 UID:https://www.meetup.com/agile-bordeaux/events/252773386/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/252773386/\n
@@ -1899,7 +1899,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/252773386/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 18.2
-DTSTART:20180915T090000
+DTSTART:20180915T070000
 UID:https://www.meetup.com/agile-bordeaux/events/251155460/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/251155460/\n
@@ -1944,7 +1944,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/251155460/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 18.3 - Coaching Agile
-DTSTART:20180630T093000
+DTSTART:20180630T073000
 UID:https://www.meetup.com/agile-bordeaux/events/250678700/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/250678700/\n
@@ -1962,7 +1962,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/250678700/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 18.2
-DTSTART:20180428T093000
+DTSTART:20180428T073000
 UID:https://www.meetup.com/agile-bordeaux/events/249376904/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/249376904/\n
@@ -1981,7 +1981,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/249376904/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 18.1
-DTSTART:20180310T093000
+DTSTART:20180310T083000
 UID:https://www.meetup.com/agile-bordeaux/events/247286123/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/247286123/\n
@@ -2002,7 +2002,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/247286123/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 18.1
-DTSTART:20180303T090000
+DTSTART:20180303T080000
 UID:https://www.meetup.com/agile-bordeaux/events/246239159/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/246239159/\n
@@ -2033,7 +2033,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/246239159/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PODOJO Bordeaux #03
-DTSTART:20180205T190000
+DTSTART:20180205T180000
 UID:https://www.meetup.com/agile-bordeaux/events/246787523/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/246787523/\n
@@ -2077,7 +2077,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/246787523/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 18.1
-DTSTART:20180125T190000
+DTSTART:20180125T180000
 UID:https://www.meetup.com/agile-bordeaux/events/245813517/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/245813517/\n
@@ -2097,7 +2097,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/245813517/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture de novembre
-DTSTART:20171108T190000
+DTSTART:20171108T180000
 UID:https://www.meetup.com/agile-bordeaux/events/244046292/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/244046292/\n
@@ -2115,7 +2115,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/244046292/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PODOJO Bordeaux #02
-DTSTART:20171005T190000
+DTSTART:20171005T170000
 UID:https://www.meetup.com/agile-bordeaux/events/242640113/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/242640113/\n
@@ -2152,7 +2152,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/242640113/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 17.3
-DTSTART:20170930T090000
+DTSTART:20170930T070000
 UID:https://www.meetup.com/agile-bordeaux/events/241093981/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/241093981/\n
@@ -2180,7 +2180,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/241093981/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture de juin
-DTSTART:20170628T190000
+DTSTART:20170628T170000
 UID:https://www.meetup.com/agile-bordeaux/events/240370727/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/240370727/\n
@@ -2197,7 +2197,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/240370727/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 17.2
-DTSTART:20170617T090000
+DTSTART:20170617T070000
 UID:https://www.meetup.com/agile-bordeaux/events/237430705/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/237430705/\n
@@ -2232,7 +2232,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/237430705/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1er PODOJO Bordeaux
-DTSTART:20170601T190000
+DTSTART:20170601T170000
 UID:https://www.meetup.com/agile-bordeaux/events/239292968/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/239292968/\n
@@ -2263,7 +2263,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/239292968/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 17.1
-DTSTART:20170406T190000
+DTSTART:20170406T170000
 UID:https://www.meetup.com/agile-bordeaux/events/238642143/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/238642143/\n
@@ -2281,7 +2281,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/238642143/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture d'Avril
-DTSTART:20170404T190000
+DTSTART:20170404T170000
 UID:https://www.meetup.com/agile-bordeaux/events/237956575/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/237956575/\n
@@ -2298,7 +2298,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/237956575/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture de Février
-DTSTART:20170218T100000
+DTSTART:20170218T090000
 UID:https://www.meetup.com/agile-bordeaux/events/236603347/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/236603347/\n
@@ -2317,7 +2317,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/236603347/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 17.1
-DTSTART:20170114T090000
+DTSTART:20170114T080000
 UID:https://www.meetup.com/agile-bordeaux/events/235134649/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/235134649/\n
@@ -2340,7 +2340,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/235134649/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture de Décembre
-DTSTART:20161217T093000
+DTSTART:20161217T083000
 UID:https://www.meetup.com/agile-bordeaux/events/235327204/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/235327204/\n
@@ -2359,7 +2359,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/235327204/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 16.3
-DTSTART:20161208T190000
+DTSTART:20161208T180000
 UID:https://www.meetup.com/agile-bordeaux/events/235472479/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/235472479/\n
@@ -2384,7 +2384,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(Lean) Startup (Agile) night - inscription sur le groupe Lean Star
  tup Bordeaux
-DTSTART:20161017T190000
+DTSTART:20161017T170000
 UID:https://www.meetup.com/agile-bordeaux/events/234663839/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/234663839/\n
@@ -2424,7 +2424,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/234663839/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture
-DTSTART:20161015T093000
+DTSTART:20161015T073000
 UID:https://www.meetup.com/agile-bordeaux/events/234571728/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/234571728/\n
@@ -2439,7 +2439,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/234571728/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 16.2
-DTSTART:20160430T093000
+DTSTART:20160430T073000
 UID:https://www.meetup.com/agile-bordeaux/events/228982013/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/228982013/\n
@@ -2464,7 +2464,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/228982013/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de Lecture
-DTSTART:20160402T093000
+DTSTART:20160402T073000
 UID:https://www.meetup.com/agile-bordeaux/events/228153250/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/228153250/\n
@@ -2479,7 +2479,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/228153250/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 16.2
-DTSTART:20160329T183000
+DTSTART:20160329T163000
 UID:https://www.meetup.com/agile-bordeaux/events/228059408/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/228059408/\n
@@ -2520,7 +2520,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/228059408/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 16.1
-DTSTART:20160130T093000
+DTSTART:20160130T083000
 UID:https://www.meetup.com/agile-bordeaux/events/227883030/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/227883030/\n
@@ -2550,7 +2550,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/227883030/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de Lecture "What's Next?"
-DTSTART:20160116T093000
+DTSTART:20160116T083000
 UID:https://www.meetup.com/agile-bordeaux/events/227364116/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/227364116/\n
@@ -2566,7 +2566,7 @@ URL:https://www.meetup.com/agile-bordeaux/events/227364116/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 16.1 (ce qui était le ScrumWine)
-DTSTART:20160112T183000
+DTSTART:20160112T173000
 UID:https://www.meetup.com/agile-bordeaux/events/227009931/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/227009931/\n
