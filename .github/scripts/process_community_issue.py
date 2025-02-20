@@ -1,31 +1,14 @@
 # process_community_issue.py
-import os
+import os,sys
 import json
 from pathlib import Path
 from typing import Dict, List
 from github import Github
 import re
 
-def parse_issue_body(body: str) -> dict:
-    """Parse the issue body form data into a dictionary"""
-    data = {}
-    lines = body.split('\n')
-    current_field = None
-    current_value = []
-    
-    for line in lines:
-        if line.startswith('### '):
-            if current_field and current_value:
-                data[current_field] = '\n'.join(current_value).strip()
-                current_value = []
-            current_field = line.replace('### ', '').strip().lower().replace(' ', '_')
-        elif line.strip() and current_field:
-            current_value.append(line.strip())
-    
-    if current_field and current_value:
-        data[current_field] = '\n'.join(current_value).strip()
-    
-    return data
+current_dir = Path(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(str(current_dir))
+from utils.issue_parser import IssueParser
 
 def create_community_folder(repo, base_branch: str, community_data: Dict) -> tuple[str, str]:
     """Create a new branch and initialize community structure"""
@@ -139,8 +122,23 @@ def main():
         issue_body = json.loads(os.environ['ISSUE_BODY'])
         issue_number = os.environ['ISSUE_NUMBER']
         
+        print("\n=== Processing Issue Body ===")
+        print(issue_body)
+        
         # Parse issue body
-        community_data = parse_issue_body(issue_body)
+        community_data = IssueParser.parse_issue_body(issue_body, issue_type='community')
+        
+        if 'community_name' in community_data:
+            community_data['name'] = community_data.pop('community_name')
+            
+        required_fields = ['name', 'display_name', 'contacts']
+        missing_fields = [field for field in required_fields if field not in community_data]
+        
+        if missing_fields:
+            raise ValueError(f"Missing required fields: {', '.join(missing_fields)}")
+            
+        print("\n=== Parsed Community Data ===")
+        print(json.dumps(community_data, indent=2))
         
         # Initialize GitHub client
         gh = Github(os.environ['GITHUB_TOKEN'])
