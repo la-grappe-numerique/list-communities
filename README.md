@@ -91,6 +91,7 @@ Merci à tous les contributeurs 🙏
       <td align="center" valign="top" width="14.28%"><a href="http://akiros.it"><img src="https://avatars.githubusercontent.com/u/1411277?v=4?s=100" width="100px;" alt="clark"/><br /><sub><b>clark</b></sub></a><br /><a href="#doc-clark42" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/abenoit"><img src="https://avatars.githubusercontent.com/u/4036546?v=4?s=100" width="100px;" alt="Amélie"/><br /><sub><b>Amélie</b></sub></a><br /><a href="#doc-abenoit" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/pierrebenayoun1976/"><img src="https://avatars.githubusercontent.com/u/9553035?v=4?s=100" width="100px;" alt="Pierre Benayoun"/><br /><sub><b>Pierre Benayoun</b></sub></a><br /><a href="#doc-BenayounP" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://techwatching.dev"><img src="https://avatars.githubusercontent.com/u/15186176?v=4?s=100" width="100px;" alt="Alexandre Nédélec"/><br /><sub><b>Alexandre Nédélec</b></sub></a><br /><a href="#doc-TechWatching" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
