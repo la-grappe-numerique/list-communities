@@ -9,56 +9,7 @@ import os,sys
 current_dir = Path(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(str(current_dir))
 from utils.event_matcher import EventMatcher
-
-
-def parse_issue_body(body: str) -> dict:
-    """
-    Parse the issue body form data into a dictionary.
-    Handles markdown content in description field while ensuring proper section boundaries.
-    """
-    data = {}
-    lines = body.split('\n')
-    current_field = None
-    current_value = []
-    
-    def is_new_field(line: str) -> bool:
-        """Check if a line is a new field header (starts with ### and is followed by known field)"""
-        known_fields = {'title', 'date', 'url', 'description', 'community', 'location', 'is_online'}
-        if not line.startswith('### '):
-            return False
-        field = line.replace('### ', '').strip().lower().replace(' ', '_')
-        return field in known_fields
-
-    i = 0
-    while i < len(lines):
-        line = lines[i].strip()
-        
-        # Check for new field
-        if is_new_field(line):
-            # Save previous field if exists
-            if current_field and current_value:
-                data[current_field] = '\n'.join(current_value).strip()
-                current_value = []
-            
-            # Start new field
-            current_field = line.replace('### ', '').strip().lower().replace(' ', '_')
-        
-        # Handle non-header lines
-        elif line or current_field == 'description':  # Keep empty lines only for description
-            if current_field == 'description':
-                # For description, keep all content including markdown
-                current_value.append(line)
-            elif current_field and not line.startswith('#'):
-                # For other fields, only keep non-header content
-                current_value.append(line)
-            
-        i += 1
-    
-    # Save the last field
-    if current_field and current_value:
-        data[current_field] = '\n'.join(current_value).strip()
-    
-    return data
+from utils.issue_parser import IssueParser
 
 def validate_event_data(data: dict) -> tuple[bool, str]:
     """Validate the event data"""
@@ -160,7 +111,7 @@ def main():
     issue_number = os.environ['ISSUE_NUMBER']
     
     # Parse issue body
-    event_data = parse_issue_body(issue_body)
+    event_data = IssueParser.parse_issue_body(issue_body, issue_type='event')
     
     # Initialize GitHub client
     gh = Github(os.environ['GITHUB_TOKEN'])

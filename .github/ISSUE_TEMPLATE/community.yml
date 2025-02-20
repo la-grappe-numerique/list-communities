@@ -115,7 +115,7 @@ body:
         - upcoming
         - past
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: description
