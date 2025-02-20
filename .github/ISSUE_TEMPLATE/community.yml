@@ -1,0 +1,149 @@
+name: Initialize Community
+description: Add a new community to the list
+title: "[Community]: "
+labels: ["community"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to add a new community! Please fill out the information below.
+
+  - type: input
+    id: name
+    attributes:
+      label: Community name (as folder name)
+      description: The name that will be used for the folder (no spaces, lowercase, use hyphens)
+      placeholder: "e.g., aws-bordeaux"
+    validations:
+      required: true
+
+  - type: input
+    id: display_name
+    attributes:
+      label: Display name
+      description: The name as it will be displayed
+      placeholder: "e.g., AWS User Group Bordeaux"
+    validations:
+      required: true
+
+  - type: textarea
+    id: contacts
+    attributes:
+      label: Contact persons
+      description: Who are the contacts for this community? One contact per line with their role if applicable
+      placeholder: |
+        Jean Dupont (Community Leader)
+        Marie Martin (Event Organizer)
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      description: Official website URL (if any)
+      placeholder: "https://..."
+    validations:
+      required: false
+
+  - type: input
+    id: meetup_url
+    attributes:
+      label: Meetup URL
+      description: URL of the Meetup group (if exists)
+      placeholder: "https://www.meetup.com/..."
+    validations:
+      required: false
+
+  - type: input
+    id: linkedin
+    attributes:
+      label: LinkedIn URL
+      description: LinkedIn group or page URL (if exists)
+      placeholder: "https://www.linkedin.com/..."
+    validations:
+      required: false
+
+  - type: input
+    id: twitter
+    attributes:
+      label: X/Twitter URL
+      description: X/Twitter profile URL (if exists)
+      placeholder: "https://twitter.com/..."
+    validations:
+      required: false
+
+  - type: input
+    id: mastodon
+    attributes:
+      label: Mastodon URL
+      description: Mastodon profile URL (if exists)
+      placeholder: "https://mastodon.social/@..."
+    validations:
+      required: false
+
+  - type: input
+    id: bluesky
+    attributes:
+      label: Bluesky URL
+      description: Bluesky profile URL (if exists)
+      placeholder: "https://bsky.app/profile/..."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: event_source
+    attributes:
+      label: Event source
+      description: |
+        Main source for community events.
+        Note: Currently, only Meetup.com is supported for automatic synchronization.
+        Other sources will require manual event addition.
+      options:
+        - Meetup.com
+        - Manual (no automatic sync)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: event_statuses
+    attributes:
+      label: Event statuses to sync
+      description: Which events should be synchronized? (Only applies to Meetup.com)
+      multiple: true
+      options:
+        - upcoming
+        - past
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief description of the community (will be added to README)
+      placeholder: "Describe what the community is about..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional information
+      description: Any additional information or notes
+      placeholder: "Any other details that might be helpful..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      description: Please confirm the following
+      options:
+        - label: I am authorized to add this community
+          required: true
+        - label: The community is active in Bordeaux area
+          required: true
+        - label: I understand this will be publicly visible
+          required: true
