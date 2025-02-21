@@ -1,14 +1,14 @@
-# 🌍 La Grappe Numérique - Rassemblement de presque 33 communauté du numerique bordelais
+# 🌍 La Grappe Numérique - Rassemblement de presque 33 communautés du numérique bordelais
 
 [![All Contributors](https://img.shields.io/github/all-contributors/la-grappe-numerique/list-communities?color=ee8449&style=flat-square)](#contributors)
 
 <div class="logo"><img src="docs/logo-commu.png"  width="600"/></div>
 
-Cette page permet de retrouver l'ensemble des communautés de la grappe numérique et d'acceder à notre calendrier commun.
+Cette page permet de retrouver l'ensemble des communautés de la grappe numérique et d'accéder à notre calendrier commun.
 
 ## Nous rejoindre numériquement
 
-Vous pouvez joindre les communauté du numerique bordelais et échanger avec nous sur le Slack d'Okiwi ici: https://okiwi.org/slack/
+Vous pouvez joindre les communautés du numérique bordelais et échanger avec nous sur le Slack d'Okiwi ici : https://okiwi.org/slack/
 
 ## 📅 Les évènements à venir
 
