@@ -1,3 +1,4 @@
+# .github/scripts/utils/issue_parser.py
 from typing import Dict, Set
 
 class IssueParser:
@@ -9,10 +10,10 @@ class IssueParser:
     }
 
     COMMUNITY_FIELDS = {
-        'community_name', 'display_name', 'contacts',
-        'website', 'meetup_url', 'linkedin', 'twitter',
-        'mastodon', 'bluesky', 'event_source',
-        'event_statuses', 'description', 'additional_info'
+        'community_name', 'display_name', 'contact_persons',  # Updated from contacts
+        'website', 'meetup_url', 'linkedin_url', 'x/twitter_url',  # Updated URLs
+        'mastodon_url', 'bluesky_url', 'event_source',
+        'event_statuses_to_sync', 'description', 'additional_information'
     }
 
     @classmethod
@@ -34,23 +35,44 @@ class IssueParser:
         
         known_fields = cls.EVENT_FIELDS if issue_type == 'event' else cls.COMMUNITY_FIELDS
         special_fields = ['description', 'additional_info']
+        
+        def clean_value(value: str) -> str:
+            """Clean a field value, handling empty responses"""
+            cleaned = value.strip()
+            if cleaned == '_No response_':
+                return ''
+            return cleaned
 
         def is_new_field(line: str) -> bool:
             """Check if a line is a new field header"""
             if not line.startswith('### '):
                 return False
-            # Handle special case for community name field
-            if line.lower().startswith('### community name'):
-                return True
-            field = line.replace('### ', '').strip().lower().replace(' ', '_')
+            # Handle known field variations
+            field = process_field_name(line)
             return field in known_fields
 
         def process_field_name(field_header: str) -> str:
             """Process a field header into a field name"""
-            # Special handling for "Community name" -> "community_name"
-            if field_header.lower().startswith('### community name'):
-                return 'community_name'
-            return field_header.replace('### ', '').strip().lower().replace(' ', '_')
+            # Remove ### and clean up
+            field = field_header.replace('### ', '').strip()
+            
+            # Special case mappings
+            field_mappings = {
+                'Community name (as folder name)': 'community_name',
+                'Contact persons': 'contact_persons',
+                'LinkedIn URL': 'linkedin_url',
+                'X/Twitter URL': 'x/twitter_url',
+                'Mastodon URL': 'mastodon_url',
+                'Bluesky URL': 'bluesky_url',
+                'Event statuses to sync': 'event_statuses_to_sync',
+                'Additional information': 'additional_information'
+            }
+            
+            if field in field_mappings:
+                return field_mappings[field]
+                
+            # Default processing
+            return field.lower().replace(' ', '_')
 
         i = 0
         while i < len(lines):
@@ -65,7 +87,7 @@ class IssueParser:
             if is_new_field(line):
                 # Save previous field if exists
                 if current_field and current_value:
-                    data[current_field] = '\n'.join(current_value).strip()
+                    data[current_field] = clean_value('\n'.join(current_value).strip())
                     current_value = []
                 
                 # Start new field
@@ -84,6 +106,10 @@ class IssueParser:
         
         # Save the last field
         if current_field and current_value:
-            data[current_field] = '\n'.join(current_value).strip()
+            data[current_field] = clean_value('\n'.join(current_value).strip())
+
+        # Map contact_persons to contacts for backward compatibility
+        if issue_type == 'community' and 'contact_persons' in data:
+            data['contacts'] = data['contact_persons']
         
         return data

@@ -13,7 +13,7 @@ from utils.issue_parser import IssueParser
 def create_community_folder(repo, base_branch: str, community_data: Dict) -> tuple[str, str]:
     """Create a new branch and initialize community structure"""
     try:
-        community_name = community_data['name'].strip()
+        community_name = community_data['community_name'].strip()
         # Sanitize community name
         if not re.match(r'^[a-z0-9-]+$', community_name):
             return "", "Invalid community name format. Use only lowercase letters, numbers, and hyphens."
@@ -39,7 +39,7 @@ def create_community_folder(repo, base_branch: str, community_data: Dict) -> tup
         }
 
         # Add events_src.json if using Meetup
-        if community_data.get('event_source') == 'Meetup.com':
+        if community_data.get('meetup_url'):
             files_to_create[f"{community_name}/events_src.json"] = generate_events_src(community_data)
 
         # Create all files
@@ -70,21 +70,29 @@ def generate_readme(data: Dict) -> str:
         social_links.append(f"| 🌐 Site web | {data['website']} |")
     if data.get('meetup_url'):
         social_links.append(f"| 👥 Meetup | {data['meetup_url']} |")
-    if data.get('linkedin'):
-        social_links.append(f"| 💼 LinkedIn | {data['linkedin']} |")
-    if data.get('twitter'):
-        social_links.append(f"| 🐦 X/Twitter | {data['twitter']} |")
-    if data.get('mastodon'):
-        social_links.append(f"| 🐘 Mastodon | {data['mastodon']} |")
-    if data.get('bluesky'):
-        social_links.append(f"| ☁️ Bluesky | {data['bluesky']} |")
+    if data.get('linkedin_url'):
+        social_links.append(f"| 💼 LinkedIn | {data['linkedin_url']} |")
+    if data.get('x/twitter_url'):
+        social_links.append(f"| 🐦 X/Twitter | {data['x/twitter_url']} |")
+    if data.get('mastodon_url'):
+        social_links.append(f"| 🐘 Mastodon | {data['mastodon_url']} |")
+    if data.get('bluesky_url'):
+        social_links.append(f"| ☁️ Bluesky | {data['bluesky_url']} |")
 
-    contacts = data.get('contacts', '').split('\n')
-    contact_lines = [f"| ✉️ {contact.strip()} |" for contact in contacts if contact.strip()]
+    # Get contacts from contact_persons field
+    contact_text = data.get('contact_persons', '').strip()
+    contact_lines = []
+    if contact_text:
+        # Split on actual newlines and handle potential carriage returns
+        contact_lines = [
+            f"| ✉️ {contact.strip()} |" 
+            for contact in contact_text.split('\n') 
+            if contact.strip()
+        ]
 
     readme = f"# {data['display_name']}\n\n"
     
-    # Add contact and social info table
+    # Add contact and social info table if any information exists
     if contact_lines or social_links:
         readme += "|                                |     |\n"
         readme += "| ------------------------------ | --- |\n"
@@ -96,7 +104,7 @@ def generate_readme(data: Dict) -> str:
 
     # Add iCal info
     readme += (f"Le calendrier des évènements est disponible au format iCal.\n"
-              f"Voici son URL : [https://www.lagrappenumerique.fr/{data['name']}/events.ics](./events.ics ':ignore')\n\n")
+              f"Voici son URL : [https://www.lagrappenumerique.fr/{data['community_name']}/events.ics](./events.ics ':ignore')\n\n")
 
     # Add events placeholder
     readme += "<!-- EVENTS:START -->\n<!-- EVENTS:END -->\n"
@@ -104,21 +112,16 @@ def generate_readme(data: Dict) -> str:
     return readme
 
 def generate_events_src(data: Dict) -> str:
-    """Generate events_src.json content"""
-    if not data.get('meetup_url'):
-        return ""
-
-    event_src = {
+    """Generate events_src.json content for Meetup configuration"""
+    return json.dumps({
         "type": "meetup",
         "url": data['meetup_url'],
-        "status": data.get('event_statuses', ['upcoming']).split(', ')
-    }
-    return json.dumps(event_src, indent=2)
+        "status": ["upcoming", "past"]  # Default to both statuses
+    }, indent=2)
 
 def main():
     """Main script execution"""
     try:
-        # Get issue data from environment
         issue_body = json.loads(os.environ['ISSUE_BODY'])
         issue_number = os.environ['ISSUE_NUMBER']
         
@@ -128,11 +131,13 @@ def main():
         # Parse issue body
         community_data = IssueParser.parse_issue_body(issue_body, issue_type='community')
         
-        if 'community_name' in community_data:
-            community_data['name'] = community_data.pop('community_name')
-            
-        required_fields = ['name', 'display_name', 'contacts']
-        missing_fields = [field for field in required_fields if field not in community_data]
+        # Add debug output for contact persons
+        print("\n=== Contact Persons Content ===")
+        print(f"Raw contact_persons: {community_data.get('contact_persons', 'Not found')}")
+        
+        # Validate required fields
+        required_fields = ['community_name', 'display_name', 'contact_persons']
+        missing_fields = [field for field in required_fields if not community_data.get(field)]
         
         if missing_fields:
             raise ValueError(f"Missing required fields: {', '.join(missing_fields)}")
@@ -156,7 +161,7 @@ def main():
                     f"Initializes new community from issue #{issue_number}\n\n"
                     f"Community details:\n"
                     f"- Name: {community_data['display_name']}\n"
-                    f"- Folder: {community_data['name']}\n"
+                    f"- Folder: {community_data['community_name']}\n"
                     f"- Event source: {community_data.get('event_source', 'Manual')}"
                 ),
                 head=branch_name,
