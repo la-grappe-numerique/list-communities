@@ -67,5 +67,5 @@ jobs:
       - name: Commit and push if there are changes
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          git commit -m "Update iCal files and READMEs [skip ci]"
+          git commit -m "Update iCal files and READMEs"
           git push
