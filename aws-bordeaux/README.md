@@ -12,13 +12,15 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/aws-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 20 février 2025 à 17:30 | Meetup AWS re:Invent re:Cap | Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/ |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2024</summary>
