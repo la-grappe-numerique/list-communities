@@ -5,7 +5,7 @@ X-WR-CALDESC:Calendrier des événements de la communauté apero-web
 X-WR-CALNAME:Événements apero-web
 BEGIN:VEVENT
 SUMMARY:🍷🍻 L'Apéro Web Bordeaux
-DTSTART:20250305T180000
+DTSTART;TZID=Africa/Bangui:20250305T190000
 UID:https://www.meetup.com/apero-web-bordeaux/events/306321282/@community-
  events
 DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30632128
@@ -27,7 +27,7 @@ URL:https://www.meetup.com/apero-web-bordeaux/events/306321282/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🍷🍻 L'Apéro Web Bordeaux\, la dernière (ou pas) !
-DTSTART:20241127T180000
+DTSTART;TZID=Africa/Bangui:20241127T190000
 UID:https://www.meetup.com/apero-web-bordeaux/events/304412420/@community-
  events
 DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30441242
@@ -53,7 +53,7 @@ URL:https://www.meetup.com/apero-web-bordeaux/events/304412420/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro Web #2
-DTSTART:20240924T170000
+DTSTART;TZID=Africa/Blantyre:20240924T190000
 UID:https://www.meetup.com/apero-web-bordeaux/events/303251987/@community-
  events
 DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30325198
@@ -78,7 +78,7 @@ URL:https://www.meetup.com/apero-web-bordeaux/events/303251987/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🆕 L'Apéro Web débarque à Bordeaux ! 🥳
-DTSTART:20240703T170000
+DTSTART;TZID=Africa/Blantyre:20240703T190000
 UID:https://www.meetup.com/apero-web-bordeaux/events/301716042/@community-
  events
 DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30171604

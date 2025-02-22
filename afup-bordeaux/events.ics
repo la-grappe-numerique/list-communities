@@ -6,7 +6,7 @@ X-WR-CALNAME:Événements afup-bordeaux
 BEGIN:VEVENT
 SUMMARY:#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory
   Manager
-DTSTART:20250226T180000
+DTSTART;TZID=Africa/Bangui:20250226T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/306119819/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3061198
@@ -41,7 +41,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/306119819/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#56: Session lightning talks
-DTSTART:20250122T180000
+DTSTART;TZID=Africa/Bangui:20250122T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/304967965/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3049679
@@ -93,7 +93,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/304967965/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#55: J'ai hacké puis contribué à Symfony
-DTSTART:20241120T180000
+DTSTART;TZID=Africa/Bangui:20241120T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/304415496/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3044154
@@ -117,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#54: L'OOP au coeur du templating Symfony - TwigComponent & LiveCo
  mponent
-DTSTART:20241030T180000
+DTSTART;TZID=Africa/Bangui:20241030T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/303975250/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3039752
@@ -149,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborde
  r le Cloud
-DTSTART:20240926T170000
+DTSTART;TZID=Africa/Blantyre:20240926T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/303353062/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3033530
@@ -192,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #52 : Index me baby! Une intro elastic\; Parlons search
   engine
-DTSTART:20240612T170000
+DTSTART;TZID=Africa/Blantyre:20240612T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/300806782/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3008067
@@ -225,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #51 : Symfony - Composant Scheduler + l'intérieur d'un
   Bundle
-DTSTART:20240522T170000
+DTSTART;TZID=Africa/Blantyre:20240522T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/300806648/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3008066
@@ -256,7 +256,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/300806648/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #50 : Redis\, le couteau suisse du développeur
-DTSTART:20240424T170000
+DTSTART;TZID=Africa/Blantyre:20240424T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/300013958/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3000139
@@ -280,7 +280,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/300013958/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super-Apéro 2024
-DTSTART:20240313T180000
+DTSTART;TZID=Africa/Bangui:20240313T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/299275583/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2992755
@@ -298,7 +298,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/299275583/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #49 : PHP + ChatGPT: let's review a generative feature!
-DTSTART:20240228T180000
+DTSTART;TZID=Africa/Bangui:20240228T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/299041870/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2990418
@@ -326,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #48 : Xdebug\, la lumière au bout du tunnel. Cette foi
  s c'est la bonne
-DTSTART:20240124T180000
+DTSTART;TZID=Africa/Bangui:20240124T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/297836117/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2978361
@@ -354,7 +354,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/297836117/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #47 : Mutation testing et Dette technique
-DTSTART:20231128T180000
+DTSTART;TZID=Africa/Bangui:20231128T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/297177923/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2971779
@@ -388,7 +388,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/297177923/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #46 : Xdebug\, la lumière au bout du tunnel.
-DTSTART:20231025T170000
+DTSTART;TZID=Africa/Blantyre:20231025T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/296249567/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2962495
@@ -415,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #45 : La mutabilité m’a tué\, l’immutabilité m
  ’a sauvé
-DTSTART:20230928T170000
+DTSTART;TZID=Africa/Blantyre:20230928T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/295714201/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2957142
@@ -449,7 +449,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/295714201/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #44 : on parlera AI et Open Source
-DTSTART:20230629T170000
+DTSTART;TZID=Africa/Blantyre:20230629T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/293975851/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2939758
@@ -495,7 +495,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/293975851/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #43: ManoMano nous accueille pour 2 talks
-DTSTART:20230524T170000
+DTSTART;TZID=Africa/Blantyre:20230524T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/293284178/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2932841
@@ -537,7 +537,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/293284178/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #42 : Domaine Riche vs Domaine Anémique
-DTSTART:20230426T170000
+DTSTART;TZID=Africa/Blantyre:20230426T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/292368112/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2923681
@@ -579,7 +579,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/292368112/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super-Apéro 2023
-DTSTART:20230316T180000
+DTSTART;TZID=Africa/Bangui:20230316T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/291960656/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2919606
@@ -598,7 +598,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/291960656/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super-Apéro 2022
-DTSTART:20220623T173000
+DTSTART;TZID=Africa/Blantyre:20220623T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/286552197/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2865521
@@ -619,7 +619,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/286552197/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #39 : Quoi de neuf dans Symfony 6.1 ?
-DTSTART:20220519T173000
+DTSTART;TZID=Africa/Blantyre:20220519T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/285538975/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2855389
@@ -644,7 +644,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/285538975/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP (online) #37 : Pipeline Pattern
-DTSTART:20220120T180000
+DTSTART;TZID=Africa/Bangui:20220120T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/283045545/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2830455
@@ -666,7 +666,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/283045545/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP (online) #37 : PHP Static Code Analysis 101
-DTSTART:20211104T180000
+DTSTART;TZID=Africa/Bangui:20211104T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/281446735/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2814467
@@ -689,7 +689,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/281446735/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP (online) #36 : Travailler avec un projet legacy
-DTSTART:20200930T163000
+DTSTART;TZID=Africa/Blantyre:20200930T183000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/273572868/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2735728
@@ -705,7 +705,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/273572868/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP (online) #35 : 1 Monolithe\, N microservices
-DTSTART:20200519T160000
+DTSTART;TZID=Africa/Blantyre:20200519T180000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/270601172/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2706011
@@ -736,7 +736,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #34 : Concevoir des applications PHP résilientes en 20
  20
-DTSTART:20200219T183000
+DTSTART;TZID=Africa/Bangui:20200219T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/268376150/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2683761
@@ -763,7 +763,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #33: Playlist preprogramming\, from (almost) nothing to
   something cool
-DTSTART:20200130T183000
+DTSTART;TZID=Africa/Bangui:20200130T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/267694409/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2676944
@@ -780,7 +780,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/267694409/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #32 : Apéro Quizz -> PHP 7.4
-DTSTART:20191217T183000
+DTSTART;TZID=Africa/Bangui:20191217T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/266824505/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2668245
@@ -799,7 +799,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/266824505/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #31 : De la performance\, même avec Doctrine !
-DTSTART:20191128T183000
+DTSTART;TZID=Africa/Bangui:20191128T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/266311873/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2663118
@@ -825,7 +825,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/266311873/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #30 : L'e-commerce sans accroc avec Sylius
-DTSTART:20190926T173000
+DTSTART;TZID=Africa/Blantyre:20190926T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/264307234/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2643072
@@ -849,7 +849,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/264307234/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #29 : Deep dive into the Symfony Debug component
-DTSTART:20190626T173000
+DTSTART;TZID=Africa/Blantyre:20190626T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/261859060/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2618590
@@ -878,7 +878,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/261859060/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #28 : Architecture extensible avec Laravel
-DTSTART:20190522T173000
+DTSTART;TZID=Africa/Blantyre:20190522T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/261041713/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2610417
@@ -895,7 +895,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #27 : Le container d'injections de dépendances aux pet
  its oignons !
-DTSTART:20190418T173000
+DTSTART;TZID=Africa/Blantyre:20190418T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/260445410/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2604454
@@ -912,7 +912,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/260445410/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Apéro PHP 2019
-DTSTART:20190314T180000
+DTSTART;TZID=Africa/Bangui:20190314T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/259321285/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2593212
@@ -931,7 +931,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #26 : DDD\, CQ(R)S\, Clean Architecture ... dans un fra
  mework MVC
-DTSTART:20190228T183000
+DTSTART;TZID=Africa/Bangui:20190228T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/258940449/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2589404
@@ -951,7 +951,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/258940449/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2018 est mort\, vive 2019 ! Apéro de rentrée 
-DTSTART:20190124T180000
+DTSTART;TZID=Africa/Bangui:20190124T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/257987818/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2579878
@@ -967,7 +967,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #25 : Lightning Talks: Back to the Future - Rétrospect
  ive 2018
-DTSTART:20181129T183000
+DTSTART;TZID=Africa/Bangui:20181129T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/256158020/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2561580
@@ -989,7 +989,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/256158020/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #24 : contribuer à des projets opensource
-DTSTART:20181030T183000
+DTSTART;TZID=Africa/Bangui:20181030T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/255739189/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2557391
@@ -1019,7 +1019,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/255739189/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Defensive programming
-DTSTART:20180925T173000
+DTSTART;TZID=Africa/Blantyre:20180925T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/254348414/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2543484
@@ -1043,7 +1043,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:API\, REST ou GraphQL ? Par Kevin Dunglas. Elections des représen
  tants
-DTSTART:20180629T173000
+DTSTART;TZID=Africa/Blantyre:20180629T193000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/251523532/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2515235
@@ -1083,7 +1083,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:meetup php #21 : CQRS\, FONCTIONNEL\, EVENT SOURCING & DOMAIN DRIV
  EN DESIGN
-DTSTART:20180606T170000
+DTSTART;TZID=Africa/Blantyre:20180606T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/250837322/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2508373
@@ -1116,7 +1116,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP meetup #20 : Des projets de qualité avec l'intégration conti
  nue ! 
-DTSTART:20180426T170000
+DTSTART;TZID=Africa/Blantyre:20180426T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/249219313/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2492193
@@ -1138,7 +1138,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/249219313/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Apéro AFUP
-DTSTART:20180308T174500
+DTSTART;TZID=Africa/Bangui:20180308T184500
 UID:https://www.meetup.com/bordeaux-php-meetup/events/248368183/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2483681
@@ -1153,7 +1153,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/248368183/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP meetup #19 - Recruter vos developpeurs
-DTSTART:20180227T180000
+DTSTART;TZID=Africa/Bangui:20180227T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/247423312/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2474233
@@ -1170,7 +1170,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/247423312/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SfPot Afup/Afsy du 12 Janvier 2017 avec Nicolas Grekas
-DTSTART:20180112T180000
+DTSTART;TZID=Africa/Bangui:20180112T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/246405038/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2464050
@@ -1197,7 +1197,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/246405038/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #18: SOAP vs REST\, on en parle ?
-DTSTART:20171219T181500
+DTSTART;TZID=Africa/Bangui:20171219T191500
 UID:https://www.meetup.com/bordeaux-php-meetup/events/245559102/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2455591
@@ -1221,7 +1221,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/245559102/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #17: Tester son application PHP
-DTSTART:20171121T181500
+DTSTART;TZID=Africa/Bangui:20171121T191500
 UID:https://www.meetup.com/bordeaux-php-meetup/events/245072350/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2450723
@@ -1250,7 +1250,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/245072350/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #16:  Architecture REST & API RESTful
-DTSTART:20170928T170000
+DTSTART;TZID=Africa/Blantyre:20170928T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/243354825/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2433548
@@ -1270,7 +1270,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/243354825/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #15 : Le passé doit mourir\; migrer vers PHP 7.2
-DTSTART:20170809T170000
+DTSTART;TZID=Africa/Blantyre:20170809T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/241998031/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2419980
@@ -1302,7 +1302,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #14 : Mieux comprendre les PHP Standards Recommandation
  s (PSR)
-DTSTART:20170620T171500
+DTSTART;TZID=Africa/Blantyre:20170620T191500
 UID:https://www.meetup.com/bordeaux-php-meetup/events/240387941/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2403879
@@ -1324,7 +1324,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/240387941/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup hors-série : CQRS\, FP\, ES et DDD (Okiwi)
-DTSTART:20170523T164500
+DTSTART;TZID=Africa/Blantyre:20170523T184500
 UID:https://www.meetup.com/bordeaux-php-meetup/events/239873606/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2398736
@@ -1344,7 +1344,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/239873606/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #13: analyse statique de code
-DTSTART:20170418T170000
+DTSTART;TZID=Africa/Blantyre:20170418T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/239125374/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2391253
@@ -1367,7 +1367,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/239125374/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #12: sécurité web
-DTSTART:20170328T170000
+DTSTART;TZID=Africa/Blantyre:20170328T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/238404985/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2384049
@@ -1391,7 +1391,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/238404985/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super-Apéro au Frog and Rosbif
-DTSTART:20170309T180000
+DTSTART;TZID=Africa/Bangui:20170309T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/237877972/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2378779
@@ -1416,7 +1416,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/237877972/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #11 : Développement d'applications CLI en PHP
-DTSTART:20160620T170000
+DTSTART;TZID=Africa/Blantyre:20160620T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/231557035/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2315570
@@ -1440,7 +1440,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/231557035/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #10 : Haxe pour les développeurs web
-DTSTART:20160203T173000
+DTSTART;TZID=Africa/Bangui:20160203T183000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/227986634/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2279866
@@ -1460,7 +1460,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #9 : Rétrospective d’une mutation technique d’un p
  rojet digital
-DTSTART:20151126T180000
+DTSTART;TZID=Africa/Bangui:20151126T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/226237783/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2262377
@@ -1478,7 +1478,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/226237783/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #8: Typo3 & PHP: Trollons peu mais trollons bien
-DTSTART:20151014T170000
+DTSTART;TZID=Africa/Blantyre:20151014T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/225890851/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2258908
@@ -1510,7 +1510,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/225890851/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lightning talk : Les design patterns
-DTSTART:20150915T170000
+DTSTART;TZID=Africa/Blantyre:20150915T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/224737500/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2247375
@@ -1526,7 +1526,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/224737500/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #6: REST in peace
-DTSTART:20150731T170000
+DTSTART;TZID=Africa/Blantyre:20150731T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/223574747/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2235747
@@ -1544,7 +1544,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/223574747/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #5: Introduction à la programmation fonctionnelle
-DTSTART:20150624T170000
+DTSTART;TZID=Africa/Blantyre:20150624T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/222955952/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2229559
@@ -1568,7 +1568,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/222955952/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHPMeetup #4 : STUPID vs SOLID 
-DTSTART:20150526T170000
+DTSTART;TZID=Africa/Blantyre:20150526T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/222318186/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2223181
@@ -1584,7 +1584,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/222318186/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lightning talks
-DTSTART:20150422T170000
+DTSTART;TZID=Africa/Blantyre:20150422T190000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/221574381/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2215743
@@ -1607,7 +1607,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/221574381/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scalability & High performance of legacy php application
-DTSTART:20150121T173000
+DTSTART;TZID=Africa/Bangui:20150121T183000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/219713593/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2197135
@@ -1626,7 +1626,7 @@ URL:https://www.meetup.com/bordeaux-php-meetup/events/219713593/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP: Retour sur le Forum PHP / Domain Driven Design
-DTSTART:20141211T173000
+DTSTART;TZID=Africa/Bangui:20141211T183000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/218821208/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2188212

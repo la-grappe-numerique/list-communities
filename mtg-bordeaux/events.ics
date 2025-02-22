@@ -5,7 +5,7 @@ X-WR-CALDESC:Calendrier des événements de la communauté mtg-bordeaux
 X-WR-CALNAME:Événements mtg-bordeaux
 BEGIN:VEVENT
 SUMMARY:Meetup MTG:Bordeaux #5
-DTSTART:20250206T173000
+DTSTART;TZID=Africa/Bangui:20250206T183000
 UID:https://www.meetup.com/mtg-bordeaux/events/305136888/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/305136888/\n
  📍 SFEIR Bordeaux\, 5 Rue de Condé\, Bordeaux\, France\n\nCe 1er meetup
@@ -22,7 +22,7 @@ URL:https://www.meetup.com/mtg-bordeaux/events/305136888/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup MTG:Bordeaux #4
-DTSTART:20241003T163000
+DTSTART;TZID=Africa/Blantyre:20241003T183000
 UID:https://www.meetup.com/mtg-bordeaux/events/302549137/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/302549137/\n
  📍 Betclic\, 117 Quai de Bacalan\, Bordeaux\, France\n\nCe 4ème meetup 
@@ -41,7 +41,7 @@ URL:https://www.meetup.com/mtg-bordeaux/events/302549137/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup MTG:Bordeaux #3
-DTSTART:20240611T163000
+DTSTART;TZID=Africa/Blantyre:20240611T183000
 UID:https://www.meetup.com/mtg-bordeaux/events/300232411/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/300232411/\n
  📍 Wellio Bordeaux Cité Numérique\, 2 Rue Marc Sangnier\, Bègles\, Fr
@@ -58,7 +58,7 @@ URL:https://www.meetup.com/mtg-bordeaux/events/300232411/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup MTG:Bordeaux #2
-DTSTART:20240404T163000
+DTSTART;TZID=Africa/Blantyre:20240404T183000
 UID:https://www.meetup.com/mtg-bordeaux/events/298989875/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/298989875/\n
  📍 Ippon Technologies Bordeaux\, 44 All. de Tourny\, Bordeaux\, France\n
@@ -76,7 +76,7 @@ URL:https://www.meetup.com/mtg-bordeaux/events/298989875/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lancement du MTG:Bordeaux
-DTSTART:20240201T173000
+DTSTART;TZID=Africa/Bangui:20240201T183000
 UID:https://www.meetup.com/mtg-bordeaux/events/298066350/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/298066350/\n
  📍 Le Wagon Bordeaux - Training Développement Web\, Data Science & Data

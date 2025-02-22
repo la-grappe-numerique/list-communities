@@ -5,7 +5,7 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 BEGIN:VEVENT
 SUMMARY:La gestion d'erreurs en Javascript
-DTSTART:20250226T180000
+DTSTART;TZID=Africa/Bangui:20250226T190000
 UID:https://www.meetup.com/bordeauxjs/events/306025718/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/306025718/\n📍
   le node\, 12 rue des Faussets\, Bordeaux\, France\n\n“Peut-être a-t-on
@@ -18,13 +18,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/306025718/\n📍
  trade-offs pour en tirer le meilleur.\nMerci à [Guiild](https://www.guiil
  d.fr/) qui nous propose un apéritif pour clore le meetup.Un immense merci
   à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil !
-  🍾\n\nCommunauté: bordeauxjs\n👥 37 participant(s)
+  🍾\n\nCommunauté: bordeauxjs\n👥 38 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 URL:https://www.meetup.com/bordeauxjs/events/306025718/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cap sur le Web : Les Navigateurs\, Explorateurs du Numérique
-DTSTART:20250206T180000
+DTSTART;TZID=Africa/Bangui:20250206T190000
 UID:https://www.meetup.com/bordeauxjs/events/305454697/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/305454697/\n📍
   Onepoint Bordeaux - Transformation Digital\, 2 Rue Marc Sangnier\, Bègle
@@ -47,7 +47,7 @@ URL:https://www.meetup.com/bordeauxjs/events/305454697/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TalkIT Tour Bordeaux - Web Workers & Clean Code
-DTSTART:20241010T163000
+DTSTART;TZID=Africa/Blantyre:20241010T183000
 UID:https://www.meetup.com/bordeauxjs/events/303782977/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/303782977/\n📍
   Younup Bordeaux\, 68 Rue Achard\, Bordeaux\, France\n\nNos amis de **[You
@@ -73,7 +73,7 @@ URL:https://www.meetup.com/bordeauxjs/events/303782977/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VueJS au musée
-DTSTART:20240711T170000
+DTSTART;TZID=Africa/Blantyre:20240711T190000
 UID:https://www.meetup.com/bordeauxjs/events/302118166/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/302118166/\n📍
   le node\, 12 rue des Faussets\, Bordeaux\, France\n\nLe dernier meetup Bo
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IA générative en action : intégrez les LLM dans vos applicatio
  ns !
-DTSTART:20240702T170000
+DTSTART;TZID=Africa/Blantyre:20240702T190000
 UID:https://www.meetup.com/bordeauxjs/events/301711664/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/301711664/\n📍
   Younup Bordeaux\, 68 Rue Achard\, Bordeaux\, France\n\nBientôt les vacan
@@ -111,7 +111,7 @@ URL:https://www.meetup.com/bordeauxjs/events/301711664/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Angular change de logo mais pas !
-DTSTART:20240515T170000
+DTSTART;TZID=Africa/Blantyre:20240515T190000
 UID:https://www.meetup.com/bordeauxjs/events/300720488/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/300720488/\n📍
   Onepoint Bordeaux - Transformation Digital\, 2 Rue Marc Sangnier\, Bègle
@@ -136,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La refonte du site France Bleu\, une aventure pleine de rebondisse
  ments
-DTSTART:20230921T170000
+DTSTART;TZID=Africa/Blantyre:20230921T190000
 UID:https://www.meetup.com/bordeauxjs/events/295650742/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/295650742/\n📍
   Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\nAu program
@@ -157,7 +157,7 @@ URL:https://www.meetup.com/bordeauxjs/events/295650742/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Starter dont je suis le héros !
-DTSTART:20230711T170000
+DTSTART;TZID=Africa/Blantyre:20230711T190000
 UID:https://www.meetup.com/bordeauxjs/events/294469714/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/294469714/\n📍
   13 Rue des Cordeliers\, 13 Rue des Cordeliers\, Bordeaux\, France\n\n**Hu
@@ -186,7 +186,7 @@ URL:https://www.meetup.com/bordeauxjs/events/294469714/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Next.js\, module fédération et les 10 travaux d'un reconverti !
-DTSTART:20230620T170000
+DTSTART;TZID=Africa/Blantyre:20230620T190000
 UID:https://www.meetup.com/bordeauxjs/events/294061290/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/294061290/\n📍
   EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France\n\nPour ce meetup
@@ -208,7 +208,7 @@ URL:https://www.meetup.com/bordeauxjs/events/294061290/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Introduction à SvelteKit
-DTSTART:20230522T163000
+DTSTART;TZID=Africa/Blantyre:20230522T183000
 UID:https://www.meetup.com/bordeauxjs/events/293317353/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/293317353/\n📍
   Ippon Technologies Bordeaux\, 44 All. de Tourny\, Bordeaux\, France\n\nAu
@@ -237,7 +237,7 @@ URL:https://www.meetup.com/bordeauxjs/events/293317353/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comprendre les stores Svelte
-DTSTART:20230413T170000
+DTSTART;TZID=Africa/Blantyre:20230413T190000
 UID:https://www.meetup.com/bordeauxjs/events/292251002/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/292251002/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nAu programme de ce meet
@@ -266,7 +266,7 @@ URL:https://www.meetup.com/bordeauxjs/events/292251002/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:N'écoutez pas twitter: GraphQL\, c'est de nouveau cool!
-DTSTART:20230405T170000
+DTSTART;TZID=Africa/Blantyre:20230405T190000
 UID:https://www.meetup.com/bordeauxjs/events/292401675/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/292401675/\n📍
   Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\nVous en av
@@ -293,7 +293,7 @@ URL:https://www.meetup.com/bordeauxjs/events/292401675/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Élevez le niveau de vos revues de code !
-DTSTART:20230315T180000
+DTSTART;TZID=Africa/Bangui:20230315T190000
 UID:https://www.meetup.com/bordeauxjs/events/292064025/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/292064025/\n📍
   13 Rue des Cordeliers\, 13 Rue des Cordeliers\, Bordeaux\, France\n\nArth
@@ -332,7 +332,7 @@ URL:https://www.meetup.com/bordeauxjs/events/292064025/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Migrer de React à Svelte\, un exemple pratique
-DTSTART:20230301T180000
+DTSTART;TZID=Africa/Bangui:20230301T190000
 UID:https://www.meetup.com/bordeauxjs/events/291366708/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/291366708/\n📍
   Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\nThibaud Ma
@@ -354,7 +354,7 @@ URL:https://www.meetup.com/bordeauxjs/events/291366708/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manuel de sabotage du partage de connaissances
-DTSTART:20230223T180000
+DTSTART;TZID=Africa/Bangui:20230223T190000
 UID:https://www.meetup.com/bordeauxjs/events/291437327/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/291437327/\n📍
   26 Rue Esprit des Lois\, 26 Rue Esprit des Lois\, Bordeaux\, France\n\nAu
@@ -390,7 +390,7 @@ URL:https://www.meetup.com/bordeauxjs/events/291437327/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apprendre Svelte... et kiffer sa race !
-DTSTART:20230111T180000
+DTSTART;TZID=Africa/Bangui:20230111T190000
 UID:https://www.meetup.com/bordeauxjs/events/289951483/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/289951483/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nAu programme de ce meet
@@ -420,7 +420,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eco-conception numérique & Vite nouveau bundler (feat. Women In T
  ech Bordeaux)
-DTSTART:20221213T180000
+DTSTART;TZID=Africa/Bangui:20221213T190000
 UID:https://www.meetup.com/bordeauxjs/events/290159255/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/290159255/\n📍
   26 Rue Esprit des Lois\, 26 Rue Esprit des Lois\, Bordeaux\, France\n\nAu
@@ -456,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Standalone componant\, le futur d'Angular ? & Accepter la différe
  nce dans la tech
-DTSTART:20221206T180000
+DTSTART;TZID=Africa/Bangui:20221206T190000
 UID:https://www.meetup.com/bordeauxjs/events/289947392/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/289947392/\n📍
   Zenika Bordeaux\, 17 Quai Louis XVIII\, Bordeaux\, France\n\nAu programme
@@ -489,7 +489,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Typescript FullStack : L'écosystème TS pour gérer votre applica
  tion
-DTSTART:20221108T180000
+DTSTART;TZID=Africa/Bangui:20221108T190000
 UID:https://www.meetup.com/bordeauxjs/events/289330790/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/289330790/\n📍
   11 Pl. de la Frm Richemont\, 11 Pl. de la Frm Richemont\, Bordeaux\, Fran
@@ -525,7 +525,7 @@ URL:https://www.meetup.com/bordeauxjs/events/289330790/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)
-DTSTART:20221018T170000
+DTSTART;TZID=Africa/Blantyre:20221018T190000
 UID:https://www.meetup.com/bordeauxjs/events/289042639/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/289042639/\n📍
   SFEIR Bordeaux\, 5 Rue de Condé\, Bordeaux\, France\n\nAu programme de c
@@ -562,7 +562,7 @@ URL:https://www.meetup.com/bordeauxjs/events/289042639/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apprivoise les web composants avec StencilJS
-DTSTART:20221013T170000
+DTSTART;TZID=Africa/Blantyre:20221013T190000
 UID:https://www.meetup.com/bordeauxjs/events/288874812/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/288874812/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n**Romain**\, développe
@@ -583,7 +583,7 @@ URL:https://www.meetup.com/bordeauxjs/events/288874812/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back to Basics : Space Invaders en live coding
-DTSTART:20220920T170000
+DTSTART;TZID=Africa/Blantyre:20220920T190000
 UID:https://www.meetup.com/bordeauxjs/events/288323446/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/288323446/\n📍
   Wild Code School\, Formation Développeur Web & Data Analyst\, 171 Rue Lu
@@ -603,7 +603,7 @@ URL:https://www.meetup.com/bordeauxjs/events/288323446/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Svelte\, ou pourquoi je ne veux plus faire de React
-DTSTART:20220614T170000
+DTSTART;TZID=Africa/Blantyre:20220614T190000
 UID:https://www.meetup.com/bordeauxjs/events/286258968/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/286258968/\n📍
   13 Rue des Cordeliers\, 13 Rue des Cordeliers\, Bordeaux\, France\n\n**Ro
@@ -632,7 +632,7 @@ URL:https://www.meetup.com/bordeauxjs/events/286258968/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:React dans tous ses états
-DTSTART:20220525T170000
+DTSTART;TZID=Africa/Blantyre:20220525T190000
 UID:https://www.meetup.com/bordeauxjs/events/285567585/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/285567585/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nAmélie\, développeuse
@@ -655,7 +655,7 @@ URL:https://www.meetup.com/bordeauxjs/events/285567585/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(dé)coder l'écosystème Cypress
-DTSTART:20220420T170000
+DTSTART;TZID=Africa/Blantyre:20220420T190000
 UID:https://www.meetup.com/bordeauxjs/events/285079633/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/285079633/\n📍
   Le Bistrot du Fromager\, 3 Rue Parlement Sainte-Catherine\, Bordeaux\, Fr
@@ -683,7 +683,7 @@ URL:https://www.meetup.com/bordeauxjs/events/285079633/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Micro-frontends : les usages\, contraintes et solutions
-DTSTART:20220315T180000
+DTSTART;TZID=Africa/Bangui:20220315T190000
 UID:https://www.meetup.com/bordeauxjs/events/283791744/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/283791744/\n📍
   Cité Numérique\, 2 Rue Marc Sangnier\, Bègles\, France\n\nC'est avec l
@@ -710,7 +710,7 @@ URL:https://www.meetup.com/bordeauxjs/events/283791744/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[LIVE] Des channels Go en JS ? Inutile donc indispensable !
-DTSTART:20201126T180000
+DTSTART;TZID=Africa/Bangui:20201126T190000
 UID:https://www.meetup.com/bordeauxjs/events/274509520/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/274509520/\n\nNi
  colas\, Développeur JS durant la journée\, se transforme en une créatur
@@ -732,7 +732,7 @@ URL:https://www.meetup.com/bordeauxjs/events/274509520/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[LIVE] Monorepo et JavaScript : à la découverte de NX
-DTSTART:20200421T170000
+DTSTART;TZID=Africa/Blantyre:20200421T190000
 UID:https://www.meetup.com/bordeauxjs/events/270063441/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/270063441/\n\nFr
  édéric Hémery\, actuellement Leader Technique Front chez Betclic et dé
@@ -758,7 +758,7 @@ URL:https://www.meetup.com/bordeauxjs/events/270063441/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Build the future with Typescript and NestJS
-DTSTART:20200218T180000
+DTSTART;TZID=Africa/Bangui:20200218T190000
 UID:https://www.meetup.com/bordeauxjs/events/267901148/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/267901148/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nMaxence Guyonvarho\, 25
@@ -781,7 +781,7 @@ URL:https://www.meetup.com/bordeauxjs/events/267901148/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIGHWAY TO ELM!
-DTSTART:20191105T181500
+DTSTART;TZID=Africa/Bangui:20191105T191500
 UID:https://www.meetup.com/bordeauxjs/events/265015769/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/265015769/\n📍
   Le Wagon Bordeaux\, Training Development Web\, Data Analytics & Data Scie
@@ -810,7 +810,7 @@ URL:https://www.meetup.com/bordeauxjs/events/265015769/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les mains dans le cambouis avec WebAssembly
-DTSTART:20190917T170000
+DTSTART;TZID=Africa/Blantyre:20190917T190000
 UID:https://www.meetup.com/bordeauxjs/events/264316553/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/264316553/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nAfin de débuter cette 
@@ -837,7 +837,7 @@ URL:https://www.meetup.com/bordeauxjs/events/264316553/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un Backend For Frontend & Je n'ai rien compris à Redux
-DTSTART:20190701T170000
+DTSTART;TZID=Africa/Blantyre:20190701T190000
 UID:https://www.meetup.com/bordeauxjs/events/262392800/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/262392800/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nAfin de clôturer cette
@@ -862,7 +862,7 @@ URL:https://www.meetup.com/bordeauxjs/events/262392800/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back to Basics - Ne perdez plus votre Temps avec les Dates
-DTSTART:20190411T170000
+DTSTART;TZID=Africa/Blantyre:20190411T190000
 UID:https://www.meetup.com/bordeauxjs/events/260199987/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/260199987/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n# Au programme\nFrédé
@@ -893,7 +893,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REX - Création d'une webapp B2C utilisée par plus d'un million d
  'utilisateurs
-DTSTART:20190123T180000
+DTSTART;TZID=Africa/Bangui:20190123T190000
 UID:https://www.meetup.com/bordeauxjs/events/257338440/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/257338440/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n# Au programme\n"Avez-v
@@ -915,7 +915,7 @@ URL:https://www.meetup.com/bordeauxjs/events/257338440/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier - Renforcer sa pratique de NodeJS
-DTSTART:20190109T180000
+DTSTART;TZID=Africa/Bangui:20190109T190000
 UID:https://www.meetup.com/bordeauxjs/events/257556822/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/257556822/\n📍
   Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\n# Au progr
@@ -938,7 +938,7 @@ URL:https://www.meetup.com/bordeauxjs/events/257556822/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Delivering Fast and Beautiful Images and Video
-DTSTART:20181017T170000
+DTSTART;TZID=Africa/Blantyre:20181017T190000
 UID:https://www.meetup.com/bordeauxjs/events/255058438/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/255058438/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n# Au programme\nDoug Si
@@ -959,7 +959,7 @@ URL:https://www.meetup.com/bordeauxjs/events/255058438/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Babel 7 : Nouveautés\, babel-preset-env\, etc.
-DTSTART:20181003T170000
+DTSTART;TZID=Africa/Blantyre:20181003T190000
 UID:https://www.meetup.com/bordeauxjs/events/254474417/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/254474417/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n# Au programme\nAvec pl
@@ -979,7 +979,7 @@ URL:https://www.meetup.com/bordeauxjs/events/254474417/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PWA & Angular 6 : Live coding
-DTSTART:20180704T170000
+DTSTART;TZID=Africa/Blantyre:20180704T190000
 UID:https://www.meetup.com/bordeauxjs/events/251491875/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/251491875/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n# Au programme\nMarc La
@@ -996,7 +996,7 @@ URL:https://www.meetup.com/bordeauxjs/events/251491875/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D3.js : Data-Driven Documents
-DTSTART:20180517T173000
+DTSTART;TZID=Africa/Blantyre:20180517T193000
 UID:https://www.meetup.com/bordeauxjs/events/249937687/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/249937687/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n# Au programmeSamuel DE
@@ -1011,7 +1011,7 @@ URL:https://www.meetup.com/bordeauxjs/events/249937687/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Redux-Saga : Présentation & Live-Coding 
-DTSTART:20180424T170000
+DTSTART;TZID=Africa/Blantyre:20180424T190000
 UID:https://www.meetup.com/bordeauxjs/events/248776992/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/248776992/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n# Au programmeJulien Vi
@@ -1028,7 +1028,7 @@ URL:https://www.meetup.com/bordeauxjs/events/248776992/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aurelia
-DTSTART:20180403T170000
+DTSTART;TZID=Africa/Blantyre:20180403T190000
 UID:https://www.meetup.com/bordeauxjs/events/248920575/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/248920575/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n# Au programmeBruno LAC
@@ -1044,7 +1044,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Migration d'AngularJS vers Angular (Retour d'expérience et atelie
  r)
-DTSTART:20180312T180000
+DTSTART;TZID=Africa/Bangui:20180312T190000
 UID:https://www.meetup.com/bordeauxjs/events/247770121/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/247770121/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n# Ce que l'on feraJér
@@ -1061,7 +1061,7 @@ URL:https://www.meetup.com/bordeauxjs/events/247770121/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier Nuxt.js: Universal Vue.js Applications 
-DTSTART:20180131T180000
+DTSTART;TZID=Africa/Bangui:20180131T190000
 UID:https://www.meetup.com/bordeauxjs/events/246441425/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/246441425/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n# What we'll doAlexandr
@@ -1074,7 +1074,7 @@ URL:https://www.meetup.com/bordeauxjs/events/246441425/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fable: Le meilleur de JS et de F# à votre service
-DTSTART:20171026T170000
+DTSTART;TZID=Africa/Blantyre:20171026T190000
 UID:https://www.meetup.com/bordeauxjs/events/244309766/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/244309766/\n📍
   Coolworking\, 9 rue de Condé\, Bordeaux\, France\n\nMaxime Mangel (@Man
@@ -1096,7 +1096,7 @@ URL:https://www.meetup.com/bordeauxjs/events/244309766/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AperoJS
-DTSTART:20170921T170000
+DTSTART;TZID=Africa/Blantyre:20170921T190000
 UID:https://www.meetup.com/bordeauxjs/events/243276773/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/243276773/\n📍
   Les Copains d'abord\, 27 Rue Camille Sauvageau\, Bordeaux\, France\n\nC'e
@@ -1110,7 +1110,7 @@ URL:https://www.meetup.com/bordeauxjs/events/243276773/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Logiciel multi-plateforme avec JavaScript
-DTSTART:20170711T170000
+DTSTART;TZID=Africa/Blantyre:20170711T190000
 UID:https://www.meetup.com/bordeauxjs/events/241115309/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/241115309/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nDemain on change de th
@@ -1127,7 +1127,7 @@ URL:https://www.meetup.com/bordeauxjs/events/241115309/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier découverte Wikidata avec Maxime Lathuilière
-DTSTART:20170325T130000
+DTSTART;TZID=Africa/Bangui:20170325T140000
 UID:https://www.meetup.com/bordeauxjs/events/238384572/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/238384572/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nLe BordeauxJS revient e
@@ -1147,7 +1147,7 @@ URL:https://www.meetup.com/bordeauxjs/events/238384572/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro JS
-DTSTART:20161219T180000
+DTSTART;TZID=Africa/Bangui:20161219T190000
 UID:https://www.meetup.com/bordeauxjs/events/236113115/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/236113115/\n📍
   Les Copains d'abord\, 27 Rue Camille Sauvageau\, Bordeaux\, France\n\nRep
@@ -1168,7 +1168,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Présentation d'une PIC web et mobile avec Jenkins\, Selenium et D
  ocker
-DTSTART:20160610T170000
+DTSTART;TZID=Africa/Blantyre:20160610T190000
 UID:https://www.meetup.com/bordeauxjs/events/230853443/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/230853443/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\n" Lorsqu'on souhaite in
@@ -1189,7 +1189,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Petit retour d’expérience après 6 mois sur une grosse applicat
  ion React
-DTSTART:20160428T170000
+DTSTART;TZID=Africa/Blantyre:20160428T190000
 UID:https://www.meetup.com/bordeauxjs/events/230539532/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/230539532/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nHello à tous !\nAprès
@@ -1208,7 +1208,7 @@ URL:https://www.meetup.com/bordeauxjs/events/230539532/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Migrer une application React de MObservable vers Redux
-DTSTART:20160331T170000
+DTSTART;TZID=Africa/Blantyre:20160331T190000
 UID:https://www.meetup.com/bordeauxjs/events/229812115/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/229812115/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nHello\,\nBordeauxJS rep
@@ -1231,7 +1231,7 @@ URL:https://www.meetup.com/bordeauxjs/events/229812115/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Extension FirefoxOS: les secrets dévoilés !
-DTSTART:20160126T180000
+DTSTART;TZID=Africa/Bangui:20160126T190000
 UID:https://www.meetup.com/bordeauxjs/events/228175588/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/228175588/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nExtension FirefoxOS par
@@ -1252,7 +1252,7 @@ URL:https://www.meetup.com/bordeauxjs/events/228175588/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code of War 2015
-DTSTART:20151118T230000
+DTSTART;TZID=Africa/Bangui:20151119T000000
 UID:https://www.meetup.com/bordeauxjs/events/225841618/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/225841618/\n📍
   Cap Science\, Hangar 20\, Quai de Bacalan\, Bordeaux\, France\n\nL'éditi
@@ -1271,7 +1271,7 @@ URL:https://www.meetup.com/bordeauxjs/events/225841618/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Viens rencontrer React et ses copains
-DTSTART:20150519T170000
+DTSTART;TZID=Africa/Blantyre:20150519T190000
 UID:https://www.meetup.com/bordeauxjs/events/222488666/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/222488666/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nUn BordeauxJS !!\nC'est
@@ -1293,7 +1293,7 @@ URL:https://www.meetup.com/bordeauxjs/events/222488666/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les extensions navigateurs (Firefox et Chrome) for fun and profit
-DTSTART:20150210T180000
+DTSTART;TZID=Africa/Bangui:20150210T190000
 UID:https://www.meetup.com/bordeauxjs/events/219957981/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/219957981/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nHe hoooo !\nMardi 10 f
@@ -1311,7 +1311,7 @@ URL:https://www.meetup.com/bordeauxjs/events/219957981/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CoreOS\, et la chaussette de l'ambassadeur
-DTSTART:20141218T180000
+DTSTART;TZID=Africa/Bangui:20141218T190000
 UID:https://www.meetup.com/bordeauxjs/events/218850797/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/218850797/\n📍
   Chez Yaal\, 18 rue Gratiolet\, Bordeaux\, France\n\nCoreOS\, et la chauss
@@ -1325,7 +1325,7 @@ URL:https://www.meetup.com/bordeauxjs/events/218850797/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier ReactJS
-DTSTART:20140927T120000
+DTSTART;TZID=Africa/Blantyre:20140927T140000
 UID:https://www.meetup.com/bordeauxjs/events/203904952/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/203904952/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nUn samedi aprèm entre 
@@ -1338,7 +1338,7 @@ URL:https://www.meetup.com/bordeauxjs/events/203904952/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Keep calm and React 
-DTSTART:20140624T170000
+DTSTART;TZID=Africa/Blantyre:20140624T190000
 UID:https://www.meetup.com/bordeauxjs/events/188670332/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/188670332/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nMardi 24 juin\, c'est T
@@ -1354,7 +1354,7 @@ URL:https://www.meetup.com/bordeauxjs/events/188670332/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Débroussailler Node.js
-DTSTART:20140520T170000
+DTSTART;TZID=Africa/Blantyre:20140520T190000
 UID:https://www.meetup.com/bordeauxjs/events/177878782/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/177878782/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nQue nous reste-t-il à 
@@ -1368,7 +1368,7 @@ URL:https://www.meetup.com/bordeauxjs/events/177878782/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AngularJS dans la vraie vie
-DTSTART:20140415T170000
+DTSTART;TZID=Africa/Blantyre:20140415T190000
 UID:https://www.meetup.com/bordeauxjs/events/173268102/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/173268102/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nMardi 15 avril\, c'est 
@@ -1383,7 +1383,7 @@ URL:https://www.meetup.com/bordeauxjs/events/173268102/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Combiner les services Google pour un meilleur Gmail
-DTSTART:20140227T180000
+DTSTART;TZID=Africa/Bangui:20140227T190000
 UID:https://www.meetup.com/bordeauxjs/events/167310502/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/167310502/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nBonjour à toutes et à
@@ -1404,7 +1404,7 @@ URL:https://www.meetup.com/bordeauxjs/events/167310502/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Global Day of Code Retreat Bordeaux
-DTSTART:20131214T080000
+DTSTART;TZID=Africa/Bangui:20131214T090000
 UID:https://www.meetup.com/bordeauxjs/events/154310552/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/154310552/\n📍
   CoolWorking\, 19 rue esprit des lois\, Bordeaux\, France\n\nPour les dév
@@ -1433,7 +1433,7 @@ URL:https://www.meetup.com/bordeauxjs/events/154310552/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soirée Haxe
-DTSTART:20131107T193000
+DTSTART;TZID=Africa/Bangui:20131107T203000
 UID:https://www.meetup.com/bordeauxjs/events/148038932/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/148038932/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nBonjour bonjour !\nJeud
@@ -1448,7 +1448,7 @@ URL:https://www.meetup.com/bordeauxjs/events/148038932/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code of War
-DTSTART:20131102T090000
+DTSTART;TZID=Africa/Bangui:20131102T100000
 UID:https://www.meetup.com/bordeauxjs/events/144845672/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/144845672/\n📍
   Epitech Bordeaux\, 85 rue du jardin publique\, Bordeaux\, France\n\nCode 
@@ -1469,7 +1469,7 @@ URL:https://www.meetup.com/bordeauxjs/events/144845672/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geek Camp 2013
-DTSTART:20130927T170000
+DTSTART;TZID=Africa/Blantyre:20130927T190000
 UID:https://www.meetup.com/bordeauxjs/events/135898092/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/135898092/\n\nun
   conférence participative\, un weekend à la campagne entre geeks pour di
@@ -1482,7 +1482,7 @@ URL:https://www.meetup.com/bordeauxjs/events/135898092/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Développement Mobile HTML5
-DTSTART:20130926T170000
+DTSTART;TZID=Africa/Blantyre:20130926T190000
 UID:https://www.meetup.com/bordeauxjs/events/137641142/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/137641142/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nBonjour\,\nUn BordeauxJ
@@ -1495,7 +1495,7 @@ URL:https://www.meetup.com/bordeauxjs/events/137641142/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soirée des techniciens du numérique
-DTSTART:20130912T163000
+DTSTART;TZID=Africa/Blantyre:20130912T183000
 UID:https://www.meetup.com/bordeauxjs/events/138088572/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/138088572/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nBonjour\,\nA l'occasion
@@ -1511,7 +1511,7 @@ URL:https://www.meetup.com/bordeauxjs/events/138088572/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IDE et Javascript ?
-DTSTART:20130502T170000
+DTSTART;TZID=Africa/Blantyre:20130502T190000
 UID:https://www.meetup.com/bordeauxjs/events/116842092/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/116842092/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nDamien Riccio va nous f
@@ -1524,7 +1524,7 @@ URL:https://www.meetup.com/bordeauxjs/events/116842092/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garbage Collection et Asynchronous Patterns in JS
-DTSTART:20130418T170000
+DTSTART;TZID=Africa/Blantyre:20130418T190000
 UID:https://www.meetup.com/bordeauxjs/events/100987882/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/100987882/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nDavid Bruant va parler 
@@ -1553,7 +1553,7 @@ URL:https://www.meetup.com/bordeauxjs/events/100987882/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Faisons discuter d3.js et ElasticSearch
-DTSTART:20130314T180000
+DTSTART;TZID=Africa/Bangui:20130314T190000
 UID:https://www.meetup.com/bordeauxjs/events/100987982/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/100987982/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nNous avons plein de don
@@ -1568,7 +1568,7 @@ URL:https://www.meetup.com/bordeauxjs/events/100987982/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:jQuery sans jQuery
-DTSTART:20130207T180000
+DTSTART;TZID=Africa/Bangui:20130207T190000
 UID:https://www.meetup.com/bordeauxjs/events/100986622/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/100986622/\n📍
   Node\, 12 rue des faussets\, Bordeaux\, France\n\nPour cette troisième s
@@ -1582,7 +1582,7 @@ URL:https://www.meetup.com/bordeauxjs/events/100986622/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BordeauxJS #2
-DTSTART:20121206T180000
+DTSTART;TZID=Africa/Bangui:20121206T190000
 UID:https://www.meetup.com/bordeauxjs/events/92287382/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/92287382/\n📍 
  Node\, 12 rue des faussets\, Bordeaux\, France\n\nPour cette prochaine ses
@@ -1598,7 +1598,7 @@ URL:https://www.meetup.com/bordeauxjs/events/92287382/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BordeauxJS #1
-DTSTART:20121031T180000
+DTSTART;TZID=Africa/Bangui:20121031T190000
 UID:https://www.meetup.com/bordeauxjs/events/88035462/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/88035462/\n📍 
  Node\, 12 rue des faussets\, Bordeaux\, France\n\nPremière rencontre entr

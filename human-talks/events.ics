@@ -5,7 +5,7 @@ X-WR-CALDESC:Calendrier des événements de la communauté human-talks
 X-WR-CALNAME:Événements human-talks
 BEGIN:VEVENT
 SUMMARY:Human Talks Bordeaux #10 - Organisation & Leadership
-DTSTART:20250311T173000
+DTSTART;TZID=Africa/Bangui:20250311T183000
 UID:https://www.meetup.com/human-talks-bordeaux/events/306118686/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/306118
@@ -56,13 +56,13 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/306118
  a son expérience de transition de l'industrie lourde à la Tech\, en iden
  tifiant les compétences transférables et l'adaptation nécessaire à un 
  nouvel environnement.*\n20h - Discussions autour d’un verre\n21h30 - Fin
- \n\nCommunauté: human-talks\n👥 29 participant(s)
+ \n\nCommunauté: human-talks\n👥 30 participant(s)
 LOCATION:Cdiscount\, 1 Quai Armand Lalande\, Bordeaux\, France
 URL:https://www.meetup.com/human-talks-bordeaux/events/306118686/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Talks Bordeaux #9 - Culture & Stratégie Design 
-DTSTART:20250211T173000
+DTSTART;TZID=Africa/Bangui:20250211T183000
 UID:https://www.meetup.com/human-talks-bordeaux/events/305610389/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/305610
@@ -129,7 +129,7 @@ URL:https://www.meetup.com/human-talks-bordeaux/events/305610389/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Talks Bordeaux #8 - Carrières
-DTSTART:20250114T173000
+DTSTART;TZID=Africa/Bangui:20250114T183000
 UID:https://www.meetup.com/human-talks-bordeaux/events/305180987/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/305180
@@ -181,7 +181,7 @@ URL:https://www.meetup.com/human-talks-bordeaux/events/305180987/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Talks Bordeaux #7
-DTSTART:20241210T173000
+DTSTART;TZID=Africa/Bangui:20241210T183000
 UID:https://www.meetup.com/human-talks-bordeaux/events/304521021/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/304521
@@ -240,7 +240,7 @@ URL:https://www.meetup.com/human-talks-bordeaux/events/304521021/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Talks Bordeaux #6 - Rencontre avec le CTO de Sellsy
-DTSTART:20240910T163000
+DTSTART;TZID=Africa/Blantyre:20240910T183000
 UID:https://www.meetup.com/human-talks-bordeaux/events/302988117/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/302988
@@ -298,7 +298,7 @@ URL:https://www.meetup.com/human-talks-bordeaux/events/302988117/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Talks Bordeaux #5 - Sujet "Gérer son équipe"
-DTSTART:20240618T163000
+DTSTART;TZID=Africa/Blantyre:20240618T183000
 UID:https://www.meetup.com/human-talks-bordeaux/events/301358624/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/301358
@@ -375,7 +375,7 @@ URL:https://www.meetup.com/human-talks-bordeaux/events/301358624/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reprise du meetup Human Talks à Bordeaux !
-DTSTART:20240516T160000
+DTSTART;TZID=Africa/Blantyre:20240516T180000
 UID:https://www.meetup.com/human-talks-bordeaux/events/300608622/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/300608
@@ -435,7 +435,7 @@ URL:https://www.meetup.com/human-talks-bordeaux/events/300608622/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Talks Mars
-DTSTART:20200311T181500
+DTSTART;TZID=Africa/Bangui:20200311T191500
 UID:https://www.meetup.com/human-talks-bordeaux/events/269153276/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/269153
@@ -464,7 +464,7 @@ URL:https://www.meetup.com/human-talks-bordeaux/events/269153276/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Talks Décembre
-DTSTART:20191210T181500
+DTSTART;TZID=Africa/Bangui:20191210T191500
 UID:https://www.meetup.com/human-talks-bordeaux/events/266467329/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/266467
@@ -486,7 +486,7 @@ URL:https://www.meetup.com/human-talks-bordeaux/events/266467329/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Human Talks Novembre
-DTSTART:20191112T181500
+DTSTART;TZID=Africa/Bangui:20191112T191500
 UID:https://www.meetup.com/human-talks-bordeaux/events/265926025/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/265926

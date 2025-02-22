@@ -8,7 +8,7 @@ X-WR-CALNAME:Événements serious-gamers-bordeaux
 BEGIN:VEVENT
 SUMMARY:🌟 Wicked AI: Relevez les défis de demain dans un monde BANI 
  🌟
-DTSTART:20241107T173000
+DTSTART;TZID=Africa/Bangui:20241107T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/304141350/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/3041
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🌟 L’Art de la ruse à travers les 36 Stratagèmes de Sun Tzu 
  🌟
-DTSTART:20240926T163000
+DTSTART;TZID=Africa/Blantyre:20240926T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/303328122/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/3033
@@ -83,7 +83,7 @@ URL:https://www.meetup.com/seriousgamers-bordeaux/events/303328122/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🌟 Révéler les besoins cachés derrières nos émotions
-DTSTART:20240620T163000
+DTSTART;TZID=Africa/Blantyre:20240620T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/301436123/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/3014
@@ -116,7 +116,7 @@ URL:https://www.meetup.com/seriousgamers-bordeaux/events/301436123/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Biais cognitifs : Qui sera le plus diabolique ?
-DTSTART:20240529T163000
+DTSTART;TZID=Africa/Blantyre:20240529T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/300994730/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/3009
@@ -153,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🌟 Forgez une super équipe : Un voyage au cœur de votre équip
  e
-DTSTART:20240411T163000
+DTSTART;TZID=Africa/Blantyre:20240411T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/299889329/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2998
@@ -188,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🌟 Seriousgamers Bordeaux : Libérez-vous des dépendances inuti
  les ! #LERUN ⛓️
-DTSTART:20240305T173000
+DTSTART;TZID=Africa/Bangui:20240305T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/299309570/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2993
@@ -220,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🦴🔥 Explorons les profondeurs de la langue préhistorique au 
  Conseil de pierre !
-DTSTART:20240206T173000
+DTSTART;TZID=Africa/Bangui:20240206T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/298714007/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2987
@@ -253,7 +253,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🚀🔍 Prêts pour l'Aventure Anti-Sabotage ? Rejoignez-nous ! 
  🔍🚀
-DTSTART:20231205T173000
+DTSTART;TZID=Africa/Bangui:20231205T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/297547006/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2975
@@ -286,7 +286,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#LaFabrik : Explorez le Futur du Recrutement avec un Nouveau Serio
  us Game ! 🚀
-DTSTART:20231107T173000
+DTSTART;TZID=Africa/Bangui:20231107T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/296908673/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2969
@@ -323,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Au-delà des Guimauves : Décortiquons l'utilité des Serious Game
  s 🚀🎮
-DTSTART:20231003T163000
+DTSTART;TZID=Africa/Blantyre:20231003T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/296187117/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2961
@@ -359,7 +359,7 @@ URL:https://www.meetup.com/seriousgamers-bordeaux/events/296187117/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le jeux de rôle\, un outil au service de l'équipe - LERUN #8
-DTSTART:20230704T163000
+DTSTART;TZID=Africa/Blantyre:20230704T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/294429317/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2944
@@ -400,7 +400,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La vie d'une équipe\, de sa formation à sa dissolution - LERUN #
  7
-DTSTART:20230606T163000
+DTSTART;TZID=Africa/Blantyre:20230606T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/293761300/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2937
@@ -435,7 +435,7 @@ URL:https://www.meetup.com/seriousgamers-bordeaux/events/293761300/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Les émotions aux commandes - LERUN #6
-DTSTART:20230502T163000
+DTSTART;TZID=Africa/Blantyre:20230502T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/292870423/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2928
@@ -464,7 +464,7 @@ URL:https://www.meetup.com/seriousgamers-bordeaux/events/292870423/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Devenir les maîtres dans l'art du feedback - LERUN #5
-DTSTART:20230328T163000
+DTSTART;TZID=Africa/Blantyre:20230328T183000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/292129611/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2921
@@ -490,7 +490,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SERIOUS GAMERS BORDEAUX LELAB#5 : Testons les liberating structure
  s
-DTSTART:20200416T160000
+DTSTART;TZID=Africa/Blantyre:20200416T180000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/269968439/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2699
@@ -520,7 +520,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SERIOUS GAMERS BORDEAUX - Pratiquez la Communication Non Violente 
  - LELAB #4
-DTSTART:20200205T180000
+DTSTART;TZID=Africa/Bangui:20200205T190000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/268082169/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2680
@@ -549,7 +549,7 @@ URL:https://www.meetup.com/seriousgamers-bordeaux/events/268082169/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SERIOUS GAMERS BORDEAUX - #LELAB Episode #3
-DTSTART:20191217T183000
+DTSTART;TZID=Africa/Bangui:20191217T193000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/266780381/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2667
@@ -572,7 +572,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SERIOUS GAMERS BORDEAUX - Testons des Serious Games #LELAB Episode
   #2
-DTSTART:20191022T170000
+DTSTART;TZID=Africa/Blantyre:20191022T190000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/265507162/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2655
@@ -598,7 +598,7 @@ URL:https://www.meetup.com/seriousgamers-bordeaux/events/265507162/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SERIOUS GAMERS BORDEAUX - LELAB Episode #1
-DTSTART:20190923T170000
+DTSTART;TZID=Africa/Blantyre:20190923T190000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/264517005/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2645
@@ -623,7 +623,7 @@ URL:https://www.meetup.com/seriousgamers-bordeaux/events/264517005/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SERIOUS GAMERS BORDEAUX - LAFABRIK #2
-DTSTART:20190625T170000
+DTSTART;TZID=Africa/Blantyre:20190625T190000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/262090300/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2620
@@ -647,7 +647,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SERIOUS GAMERS BORDEAUX - 1h30 pour construire un serious game - L
  AFABRIK #1
-DTSTART:20190604T170000
+DTSTART;TZID=Africa/Blantyre:20190604T190000
 UID:https://www.meetup.com/seriousgamers-bordeaux/events/261255186/@commun
  ity-events
 DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2612
