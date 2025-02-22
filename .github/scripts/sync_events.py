@@ -29,6 +29,25 @@ class Event:
     rsvp_count: Optional[int] = None
     is_online: bool = False
 
+class EventSourceParser:
+    """Handles parsing of event source configuration files"""
+    
+    @staticmethod
+    def parse_source_file(file_path: Path, community_name: str) -> Optional[Dict]:
+        """Parse a community's events_src.json file"""
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                return {
+                    'type': data.get('type'),
+                    'url': data.get('url'),
+                    'community': community_name,
+                    'status': data.get('status', ['upcoming'])
+                }
+        except Exception as e:
+            print(f"Error parsing source file {file_path}: {e}")
+            return None
+
 class MeetupAPIReader:
     """Handles reading events from the Meetup API"""
     
