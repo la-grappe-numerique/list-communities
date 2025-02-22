@@ -5,10 +5,12 @@ PRODID:-//Événements women-in-tech-bordeaux//Bordeaux Community Events//
 X-WR-CALDESC:Calendrier des événements de la communauté women-in-tech-b
  ordeaux
 X-WR-CALNAME:Événements women-in-tech-bordeaux
+X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Révolutionnez votre UX avec les PWA / L'utilisateur au cœur de l
  a QA
-DTSTART:20250212T190000
+DTSTART;TZID=Europe/Paris:20250212T190000
+DTEND;TZID=Europe/Paris:20250212T210000
 UID:https://www.linkedin.com/events/r-volutionnezvotreuxaveclespwa-7284501
  845102727168/@community-events
 DESCRIPTION:🔗 https://www.linkedin.com/events/r-volutionnezvotreuxavecl
@@ -19,6 +21,7 @@ DESCRIPTION:🔗 https://www.linkedin.com/events/r-volutionnezvotreuxavecl
  - Discussions et échanges\n21:00 - Fermeture des locaux\n\nCommunauté: w
  omen-in-tech-bordeaux
 LOCATION:13\, Rue des Cordeliers\, Bordeaux
+TZID:Europe/Paris
 URL:https://www.linkedin.com/events/r-volutionnezvotreuxaveclespwa-7284501
  845102727168/
 END:VEVENT

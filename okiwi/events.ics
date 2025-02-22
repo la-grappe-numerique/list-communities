@@ -3,9 +3,11 @@ VERSION:2.0
 PRODID:-//Événements okiwi//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté okiwi
 X-WR-CALNAME:Événements okiwi
+X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20260202T173000
+DTSTART;TZID=Europe/Paris:20260202T183000
+DTEND;TZID=Europe/Paris:20260202T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -22,12 +24,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20260105T173000
+DTSTART;TZID=Europe/Paris:20260105T183000
+DTEND;TZID=Europe/Paris:20260105T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -44,12 +48,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20251201T173000
+DTSTART;TZID=Europe/Paris:20251201T183000
+DTEND;TZID=Europe/Paris:20251201T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -66,12 +72,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20251103T173000
+DTSTART;TZID=Europe/Paris:20251103T183000
+DTEND;TZID=Europe/Paris:20251103T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -88,12 +96,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20251006T163000
+DTSTART;TZID=Europe/Paris:20251006T183000
+DTEND;TZID=Europe/Paris:20251006T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -110,12 +120,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20250901T163000
+DTSTART;TZID=Europe/Paris:20250901T183000
+DTEND;TZID=Europe/Paris:20250901T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcmbcb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -132,12 +144,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcmbcb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20250804T163000
+DTSTART;TZID=Europe/Paris:20250804T183000
+DTEND;TZID=Europe/Paris:20250804T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhclbgb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -154,12 +168,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhclbgb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20250707T163000
+DTSTART;TZID=Europe/Paris:20250707T183000
+DTEND;TZID=Europe/Paris:20250707T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -176,12 +192,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20250602T163000
+DTSTART;TZID=Europe/Paris:20250602T183000
+DTEND;TZID=Europe/Paris:20250602T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -198,12 +216,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20250505T163000
+DTSTART;TZID=Europe/Paris:20250505T183000
+DTEND;TZID=Europe/Paris:20250505T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -220,12 +240,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20250407T163000
+DTSTART;TZID=Europe/Paris:20250407T183000
+DTEND;TZID=Europe/Paris:20250407T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcgbkb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -242,12 +264,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcgbkb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Okiwi #3
-DTSTART:20250404T070000
+DTSTART;TZID=Europe/Paris:20250404T090000
+DTEND;TZID=Europe/Paris:20250404T110000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/306324474/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -262,13 +286,15 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par Okiwi.\n**Attention : l'inscription est limitée à 30 personnes et 
  l'évènement est en présentiel**\, si vous êtes inscrit vous vous engag
  ez à venir\, vérifiez votre disponibilité pour la journée 😄\n\nComm
- unauté: okiwi\n👥 10 participant(s)\nLimité à 33 places
+ unauté: okiwi\n👥 12 participant(s)\nLimité à 33 places
 LOCATION:44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/306324474/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20250303T173000
+DTSTART;TZID=Europe/Paris:20250303T183000
+DTEND;TZID=Europe/Paris:20250303T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcfbfb
  /@community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -286,12 +312,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  15 places
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcfbfb
  /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Redonner du corps au métier avec la programmation fonctionnelle
-DTSTART:20190618T170000
+DTSTART;TZID=Europe/Paris:20190618T190000
+DTEND;TZID=Europe/Paris:20190618T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/262015342/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -299,11 +327,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ce\n\nLes types algébriques pour le DDD\n\nCommunauté: okiwi\n👥 42 pa
  rticipant(s)\nLimité à 80 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/262015342/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geek Camp 2019
-DTSTART:20190614T150000
+DTSTART;TZID=Europe/Paris:20190614T170000
+DTEND;TZID=Europe/Paris:20190614T190000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/257215113/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -316,11 +346,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   ne pouvez pas venir\, SVP\, annulez votre inscription.\n\nCommunauté: ok
  iwi\n👥 12 participant(s)\nLimité à 42 places
 LOCATION:Salle des fêtes\, Le Bourg\, 47700 Ruffiac\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/257215113/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20190603T163000
+DTSTART;TZID=Europe/Paris:20190603T183000
+DTEND;TZID=Europe/Paris:20190603T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzjbfb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -334,12 +366,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
  des.\n\nCommunauté: okiwi\n👥 13 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzjbfb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DDD stratégique\, ou le minimum à savoir sur le sujet pour tout 
  projet
-DTSTART:20190528T170000
+DTSTART;TZID=Europe/Paris:20190528T190000
+DTEND;TZID=Europe/Paris:20190528T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/260247917/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -354,22 +388,26 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  tterns tactiques\, et découvrir quel est le plus grand paradoxe du DDD.\n
  \nCommunauté: okiwi\n👥 73 participant(s)\nLimité à 90 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/260247917/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro Okiwi
-DTSTART:20190521T170000
+DTSTART;TZID=Europe/Paris:20190521T190000
+DTEND;TZID=Europe/Paris:20190521T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/261047020/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  261047020/\n📍 Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France\n\nEncor
  e un bel Apéro Okiwi :-)\n\nCommunauté: okiwi\n👥 11 participant(s)
 LOCATION:Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/261047020/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20190506T163000
+DTSTART;TZID=Europe/Paris:20190506T183000
+DTEND;TZID=Europe/Paris:20190506T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzhbjb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -383,12 +421,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
  des.\n\nCommunauté: okiwi\n👥 10 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzhbjb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tu ne sais rien de la qualité logicielle\, JonSnow\, DSI à March
  eurBlancConsulting
-DTSTART:20190416T170000
+DTSTART;TZID=Europe/Paris:20190416T190000
+DTEND;TZID=Europe/Paris:20190416T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/260048427/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -416,11 +456,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   parlerons de Mutation Testing et irons à la chasse aux mutants avec Stry
  ker !\n\nCommunauté: okiwi\n👥 64 participant(s)\nLimité à 75 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/260048427/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro Okiwi
-DTSTART:20190409T170000
+DTSTART;TZID=Europe/Paris:20190409T190000
+DTEND;TZID=Europe/Paris:20190409T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/260247973/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -429,11 +471,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  1 participant(s)
 LOCATION:The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordeaux\, Fra
  nce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/260247973/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20190401T163000
+DTSTART;TZID=Europe/Paris:20190401T183000
+DTEND;TZID=Europe/Paris:20190401T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzgbcb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -447,11 +491,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
  des.\n\nCommunauté: okiwi\n👥 11 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzgbcb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software craftsmanship ? Back to basics
-DTSTART:20190319T180000
+DTSTART;TZID=Europe/Paris:20190319T190000
+DTEND;TZID=Europe/Paris:20190319T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/259185088/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -470,11 +516,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ns d’autres concepts à appliquer dès le lendemain sur votre code de pr
  od.\n\nCommunauté: okiwi\n👥 65 participant(s)\nLimité à 75 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/259185088/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20190304T173000
+DTSTART;TZID=Europe/Paris:20190304T183000
+DTEND;TZID=Europe/Paris:20190304T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzfbgb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -488,11 +536,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
  des.\n\nCommunauté: okiwi\n👥 7 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzfbgb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro Okiwi
-DTSTART:20190226T180000
+DTSTART;TZID=Europe/Paris:20190226T190000
+DTEND;TZID=Europe/Paris:20190226T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/259091267/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -501,11 +551,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  5 participant(s)
 LOCATION:The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordeaux\, Fra
  nce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/259091267/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Test-driven-development (TDD) dans une app Javascript et React
-DTSTART:20190219T180000
+DTSTART;TZID=Europe/Paris:20190219T190000
+DTEND;TZID=Europe/Paris:20190219T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/258667265/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -525,11 +577,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  de niveau minimum requis :)\n\nCommunauté: okiwi\n👥 72 participant(s)\
  nLimité à 75 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/258667265/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Réunion d’organisation Agile Tour Bordeaux 2019
-DTSTART:20190206T180000
+DTSTART;TZID=Europe/Paris:20190206T190000
+DTEND;TZID=Europe/Paris:20190206T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/258697742/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -545,11 +599,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  , ...)\, n’hésitez pas à nous en faire part en commentaire ou message 
  privé.\n\nCommunauté: okiwi\n👥 6 participant(s)\nLimité à 20 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/258697742/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20190204T173000
+DTSTART;TZID=Europe/Paris:20190204T183000
+DTEND;TZID=Europe/Paris:20190204T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzdbgb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -563,11 +619,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
  des.\n\nCommunauté: okiwi\n👥 6 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzdbgb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro Okiwi
-DTSTART:20190130T180000
+DTSTART;TZID=Europe/Paris:20190130T190000
+DTEND;TZID=Europe/Paris:20190130T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/258363851/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -576,11 +634,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   5 participant(s)
 LOCATION:The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordeaux\, Fra
  nce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/258363851/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20190107T173000
+DTSTART;TZID=Europe/Paris:20190107T183000
+DTEND;TZID=Europe/Paris:20190107T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzcbkb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -594,22 +654,26 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
  des.\n\nCommunauté: okiwi\n👥 10 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzcbkb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro de Noël
-DTSTART:20181213T170000
+DTSTART;TZID=Europe/Paris:20181213T180000
+DTEND;TZID=Europe/Paris:20181213T200000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/257102692/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  257102692/\n📍 Le Zytho\, 28 rue latour\, 33300\, Bordeaux\, France\n\nT
  out est dans le titre\n\nCommunauté: okiwi\n👥 7 participant(s)
 LOCATION:Le Zytho\, 28 rue latour\, 33300\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/257102692/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20181203T173000
+DTSTART;TZID=Europe/Paris:20181203T183000
+DTEND;TZID=Europe/Paris:20181203T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxqbfb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -623,11 +687,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 10 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxqbfb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro Okiwi
-DTSTART:20181119T180000
+DTSTART;TZID=Europe/Paris:20181119T190000
+DTEND;TZID=Europe/Paris:20181119T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/255575477/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -636,11 +702,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   5 participant(s)
 LOCATION:The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordeaux\, Fra
  nce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/255575477/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Global Day of Code Retreat 2018
-DTSTART:20181117T074500
+DTSTART;TZID=Europe/Paris:20181117T084500
+DTEND;TZID=Europe/Paris:20181117T104500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/255768579/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -665,11 +733,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  pas venir)\n\nCommunauté: okiwi\n👥 19 participant(s)\nLimité à 23 pl
  aces
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/255768579/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20181107T064500
+DTSTART;TZID=Europe/Paris:20181107T074500
+DTEND;TZID=Europe/Paris:20181107T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxpbkb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -682,11 +752,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxpbkb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20181105T173000
+DTSTART;TZID=Europe/Paris:20181105T183000
+DTEND;TZID=Europe/Paris:20181105T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxpbhb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -700,11 +772,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 10 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxpbhb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20181031T064500
+DTSTART;TZID=Europe/Paris:20181031T074500
+DTEND;TZID=Europe/Paris:20181031T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbpc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -717,11 +791,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbpc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20181024T054500
+DTSTART;TZID=Europe/Paris:20181024T074500
+DTEND;TZID=Europe/Paris:20181024T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbgc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -734,11 +810,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbgc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20181017T054500
+DTSTART;TZID=Europe/Paris:20181017T074500
+DTEND;TZID=Europe/Paris:20181017T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbwb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -751,22 +829,26 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbwb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro Okiwi
-DTSTART:20181015T170000
+DTSTART;TZID=Europe/Paris:20181015T190000
+DTEND;TZID=Europe/Paris:20181015T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/255163082/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  255163082/\n📍 Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France\n\nLe re
  tour des Apéros Okiwi :-)\n\nCommunauté: okiwi\n👥 11 participant(s)
 LOCATION:Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/255163082/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20181010T054500
+DTSTART;TZID=Europe/Paris:20181010T074500
+DTEND;TZID=Europe/Paris:20181010T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbnb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -778,11 +860,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbnb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20181003T054500
+DTSTART;TZID=Europe/Paris:20181003T074500
+DTEND;TZID=Europe/Paris:20181003T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbfb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -795,11 +879,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxnbfb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20181001T163000
+DTSTART;TZID=Europe/Paris:20181001T183000
+DTEND;TZID=Europe/Paris:20181001T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxnbcb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -813,11 +899,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxnbcb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180926T054500
+DTSTART;TZID=Europe/Paris:20180926T074500
+DTEND;TZID=Europe/Paris:20180926T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxmbjc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -829,11 +917,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxmbjc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180919T054500
+DTSTART;TZID=Europe/Paris:20180919T074500
+DTEND;TZID=Europe/Paris:20180919T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxmbzb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -846,11 +936,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxmbzb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geek Camp 2018
-DTSTART:20180914T150000
+DTSTART;TZID=Europe/Paris:20180914T170000
+DTEND;TZID=Europe/Paris:20180914T190000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/252589669/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -863,11 +955,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  i vous ne pouvez pas venir\, SVP\, annulez votre inscription.\n\nCommunaut
  é: okiwi\n👥 17 participant(s)\nLimité à 42 places
 LOCATION:Salle des fêtes\, Le Bourg\, 47700 Ruffiac\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/252589669/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180912T054500
+DTSTART;TZID=Europe/Paris:20180912T074500
+DTEND;TZID=Europe/Paris:20180912T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxmbqb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -880,11 +974,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxmbqb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180905T054500
+DTSTART;TZID=Europe/Paris:20180905T074500
+DTEND;TZID=Europe/Paris:20180905T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxmbhb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -897,11 +993,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxmbhb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20180903T163000
+DTSTART;TZID=Europe/Paris:20180903T183000
+DTEND;TZID=Europe/Paris:20180903T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxmbfb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -915,11 +1013,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxmbfb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180829T054500
+DTSTART;TZID=Europe/Paris:20180829T074500
+DTEND;TZID=Europe/Paris:20180829T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxlbmc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -932,11 +1032,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxlbmc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180822T054500
+DTSTART;TZID=Europe/Paris:20180822T074500
+DTEND;TZID=Europe/Paris:20180822T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxlbdc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -949,11 +1051,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxlbdc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180815T054500
+DTSTART;TZID=Europe/Paris:20180815T074500
+DTEND;TZID=Europe/Paris:20180815T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxlbtb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -966,11 +1070,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxlbtb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro Okiwi
-DTSTART:20180813T170000
+DTSTART;TZID=Europe/Paris:20180813T190000
+DTEND;TZID=Europe/Paris:20180813T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/253091109/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -978,11 +1084,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  tour des Apéros Okiwi\, pour profiter un peu de l'été :-)\n\nCommunaut
  é: okiwi\n👥 8 participant(s)
 LOCATION:Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/253091109/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180808T054500
+DTSTART;TZID=Europe/Paris:20180808T074500
+DTEND;TZID=Europe/Paris:20180808T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxlblb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -995,11 +1103,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxlblb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20180806T163000
+DTSTART;TZID=Europe/Paris:20180806T183000
+DTEND;TZID=Europe/Paris:20180806T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxlbjb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1013,11 +1123,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 16 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxlbjb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180801T054500
+DTSTART;TZID=Europe/Paris:20180801T074500
+DTEND;TZID=Europe/Paris:20180801T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxlbcb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1030,11 +1142,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxlbcb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180725T054500
+DTSTART;TZID=Europe/Paris:20180725T074500
+DTEND;TZID=Europe/Paris:20180725T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxkbhc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1047,11 +1161,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxkbhc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180718T054500
+DTSTART;TZID=Europe/Paris:20180718T074500
+DTEND;TZID=Europe/Paris:20180718T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxkbxb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1064,11 +1180,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxkbxb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro Okiwi
-DTSTART:20180716T170000
+DTSTART;TZID=Europe/Paris:20180716T190000
+DTEND;TZID=Europe/Paris:20180716T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/252266260/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1076,11 +1194,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  tour des Apéros Okiwi\, pour profiter un peu de l'été :-)\n\nCommunaut
  é: okiwi\n👥 10 participant(s)
 LOCATION:Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/252266260/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180711T054500
+DTSTART;TZID=Europe/Paris:20180711T074500
+DTEND;TZID=Europe/Paris:20180711T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxkbpb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1093,11 +1213,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxkbpb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180704T054500
+DTSTART;TZID=Europe/Paris:20180704T074500
+DTEND;TZID=Europe/Paris:20180704T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxkbgb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1110,11 +1232,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxkbgb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180627T054500
+DTSTART;TZID=Europe/Paris:20180627T074500
+DTEND;TZID=Europe/Paris:20180627T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxjbkc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1127,11 +1251,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxjbkc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180620T054500
+DTSTART;TZID=Europe/Paris:20180620T074500
+DTEND;TZID=Europe/Paris:20180620T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxjbbc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1144,11 +1270,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxjbbc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180613T054500
+DTSTART;TZID=Europe/Paris:20180613T074500
+DTEND;TZID=Europe/Paris:20180613T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxjbrb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1161,11 +1289,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxjbrb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180606T054500
+DTSTART;TZID=Europe/Paris:20180606T074500
+DTEND;TZID=Europe/Paris:20180606T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxjbjb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1178,11 +1308,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxjbjb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20180604T163000
+DTSTART;TZID=Europe/Paris:20180604T183000
+DTEND;TZID=Europe/Paris:20180604T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxjbgb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1196,11 +1328,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxjbgb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180530T054500
+DTSTART;TZID=Europe/Paris:20180530T074500
+DTEND;TZID=Europe/Paris:20180530T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbnc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1213,11 +1347,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbnc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180523T054500
+DTSTART;TZID=Europe/Paris:20180523T074500
+DTEND;TZID=Europe/Paris:20180523T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbfc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1230,11 +1366,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbfc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180516T054500
+DTSTART;TZID=Europe/Paris:20180516T074500
+DTEND;TZID=Europe/Paris:20180516T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbvb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1247,11 +1385,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbvb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180509T054500
+DTSTART;TZID=Europe/Paris:20180509T074500
+DTEND;TZID=Europe/Paris:20180509T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbmb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1264,11 +1404,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbmb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20180507T163000
+DTSTART;TZID=Europe/Paris:20180507T183000
+DTEND;TZID=Europe/Paris:20180507T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxhbkb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1282,11 +1424,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxhbkb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180502T054500
+DTSTART;TZID=Europe/Paris:20180502T074500
+DTEND;TZID=Europe/Paris:20180502T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbdb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1299,11 +1443,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxhbdb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180425T054500
+DTSTART;TZID=Europe/Paris:20180425T074500
+DTEND;TZID=Europe/Paris:20180425T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxgbhc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1316,11 +1462,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxgbhc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180418T054500
+DTSTART;TZID=Europe/Paris:20180418T074500
+DTEND;TZID=Europe/Paris:20180418T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxgbxb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1333,22 +1481,26 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxgbxb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG Okiwi 2018
-DTSTART:20180412T160000
+DTSTART;TZID=Europe/Paris:20180412T180000
+DTEND;TZID=Europe/Paris:20180412T200000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/249427405/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  249427405/\n📍 Le Zytho\, 28 rue latour\, 33300\, Bordeaux\, France\n\nA
  ssemblée générale d'Okiwi\n\nCommunauté: okiwi\n👥 12 participant(s)
 LOCATION:Le Zytho\, 28 rue latour\, 33300\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/249427405/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180411T054500
+DTSTART;TZID=Europe/Paris:20180411T074500
+DTEND;TZID=Europe/Paris:20180411T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxgbpb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1359,11 +1511,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  trainte autre que passer un bon moment et échanger sur les sujets qui nou
  s tiennent à coeur.\n\nCommunauté: okiwi\n👥 6 participant(s)
 LOCATION:Chez Yaal\, 18 rue Gratiolet\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxgbpb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Préparation de l'Agile Tour Bordeaux 2018
-DTSTART:20180405T170000
+DTSTART;TZID=Europe/Paris:20180405T190000
+DTEND;TZID=Europe/Paris:20180405T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/249005029/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1373,11 +1527,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  organisation ou que vous ne soyez que simple curieux !\n\nCommunauté: oki
  wi\n👥 9 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/249005029/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180404T054500
+DTSTART;TZID=Europe/Paris:20180404T074500
+DTEND;TZID=Europe/Paris:20180404T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxgbgb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1388,11 +1544,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  trainte autre que passer un bon moment et échanger sur les sujets qui nou
  s tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 participant(s)
 LOCATION:Chez Yaal\, 18 rue Gratiolet\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxgbgb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20180402T163000
+DTSTART;TZID=Europe/Paris:20180402T183000
+DTEND;TZID=Europe/Paris:20180402T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxgbdb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1406,11 +1564,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 7 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxgbdb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180328T054500
+DTSTART;TZID=Europe/Paris:20180328T074500
+DTEND;TZID=Europe/Paris:20180328T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxfblc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1423,11 +1583,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxfblc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180321T064500
+DTSTART;TZID=Europe/Paris:20180321T074500
+DTEND;TZID=Europe/Paris:20180321T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxfbcc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1440,11 +1602,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxfbcc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180314T064500
+DTSTART;TZID=Europe/Paris:20180314T074500
+DTEND;TZID=Europe/Paris:20180314T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxfbsb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1457,11 +1621,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxfbsb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Préparation de l'Agile Tour 2018
-DTSTART:20180308T180000
+DTSTART;TZID=Europe/Paris:20180308T190000
+DTEND;TZID=Europe/Paris:20180308T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/247745695/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1472,11 +1638,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  curieux !\nÀ prendre avec vous\nImportant\n\nCommunauté: okiwi\n👥 9 p
  articipant(s)
 LOCATION:Le Molly Malone's\, 83 Quai Chartrons 33300 \, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/247745695/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180307T064500
+DTSTART;TZID=Europe/Paris:20180307T074500
+DTEND;TZID=Europe/Paris:20180307T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxfbkb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1489,11 +1657,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxfbkb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20180305T173000
+DTSTART;TZID=Europe/Paris:20180305T183000
+DTEND;TZID=Europe/Paris:20180305T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxfbhb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1507,11 +1677,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxfbhb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180228T064500
+DTSTART;TZID=Europe/Paris:20180228T074500
+DTEND;TZID=Europe/Paris:20180228T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxdblc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1524,11 +1696,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxdblc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180221T064500
+DTSTART;TZID=Europe/Paris:20180221T074500
+DTEND;TZID=Europe/Paris:20180221T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxdbcc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1541,11 +1715,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxdbcc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180214T064500
+DTSTART;TZID=Europe/Paris:20180214T074500
+DTEND;TZID=Europe/Paris:20180214T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxdbsb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1558,11 +1734,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxdbsb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee découverte F#
-DTSTART:20180207T064500
+DTSTART;TZID=Europe/Paris:20180207T074500
+DTEND;TZID=Europe/Paris:20180207T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxdbkb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1572,11 +1750,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  cipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxdbkb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20180205T173000
+DTSTART;TZID=Europe/Paris:20180205T183000
+DTEND;TZID=Europe/Paris:20180205T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxdbhb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1590,11 +1770,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 11 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxdbhb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180131T064500
+DTSTART;TZID=Europe/Paris:20180131T074500
+DTEND;TZID=Europe/Paris:20180131T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbpc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1607,11 +1789,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbpc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180124T064500
+DTSTART;TZID=Europe/Paris:20180124T074500
+DTEND;TZID=Europe/Paris:20180124T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbgc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1624,11 +1808,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbgc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180117T064500
+DTSTART;TZID=Europe/Paris:20180117T074500
+DTEND;TZID=Europe/Paris:20180117T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbwb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1641,11 +1827,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbwb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Totalement typé
-DTSTART:20180115T180000
+DTSTART;TZID=Europe/Paris:20180115T190000
+DTEND;TZID=Europe/Paris:20180115T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/246776894/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1662,11 +1850,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  avec vousCe que vous voulez manger ou boire\n\nCommunauté: okiwi\n👥 10
   participant(s)\nLimité à 35 places
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/246776894/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180110T064500
+DTSTART;TZID=Europe/Paris:20180110T074500
+DTEND;TZID=Europe/Paris:20180110T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbnb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1679,11 +1869,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbnb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20180103T064500
+DTSTART;TZID=Europe/Paris:20180103T074500
+DTEND;TZID=Europe/Paris:20180103T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbfb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1696,11 +1888,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxcbfb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171227T064500
+DTSTART;TZID=Europe/Paris:20171227T074500
+DTEND;TZID=Europe/Paris:20171227T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywqbkc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1713,11 +1907,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywqbkc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171220T064500
+DTSTART;TZID=Europe/Paris:20171220T074500
+DTEND;TZID=Europe/Paris:20171220T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywqbbc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1729,11 +1925,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywqbbc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171213T064500
+DTSTART;TZID=Europe/Paris:20171213T074500
+DTEND;TZID=Europe/Paris:20171213T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywqbrb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1746,11 +1944,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywqbrb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171206T064500
+DTSTART;TZID=Europe/Paris:20171206T074500
+DTEND;TZID=Europe/Paris:20171206T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywqbjb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1763,11 +1963,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywqbjb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171129T064500
+DTSTART;TZID=Europe/Paris:20171129T074500
+DTEND;TZID=Europe/Paris:20171129T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywpbmc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1780,11 +1982,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywpbmc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171122T064500
+DTSTART;TZID=Europe/Paris:20171122T074500
+DTEND;TZID=Europe/Paris:20171122T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywpbdc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1797,11 +2001,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywpbdc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Global Day of Code Retreat 2017
-DTSTART:20171118T074500
+DTSTART;TZID=Europe/Paris:20171118T084500
+DTEND;TZID=Europe/Paris:20171118T104500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/242467166/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1820,11 +2026,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  i on mange ensemble et le soir on prend un verre avec ceux qui le souhaite
  nt.\n\nCommunauté: okiwi\n👥 20 participant(s)\nLimité à 21 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/242467166/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Find My CTO
-DTSTART:20171116T170000
+DTSTART;TZID=Europe/Paris:20171116T180000
+DTEND;TZID=Europe/Paris:20171116T200000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/244457868/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1848,11 +2056,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  .\nToutes les informations complémentaires sur le site de l'AEC\n\nCommun
  auté: okiwi\n👥 25 participant(s)
 LOCATION:auberge numérique\, 137 Rue Achard\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/244457868/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171115T064500
+DTSTART;TZID=Europe/Paris:20171115T074500
+DTEND;TZID=Europe/Paris:20171115T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywpbtb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1865,11 +2075,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywpbtb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171108T064500
+DTSTART;TZID=Europe/Paris:20171108T074500
+DTEND;TZID=Europe/Paris:20171108T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywpblb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1882,11 +2094,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywpblb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bug free\, by design\, par Johan Martinsson
-DTSTART:20171107T174500
+DTSTART;TZID=Europe/Paris:20171107T184500
+DTEND;TZID=Europe/Paris:20171107T204500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/244680898/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1908,11 +2122,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  as limites.\n\nCommunauté: okiwi\n👥 34 participant(s)\nLimité à 40 p
  laces
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/244680898/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20171106T173000
+DTSTART;TZID=Europe/Paris:20171106T183000
+DTEND;TZID=Europe/Paris:20171106T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywpbjb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1926,11 +2142,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 12 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywpbjb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171101T064500
+DTSTART;TZID=Europe/Paris:20171101T074500
+DTEND;TZID=Europe/Paris:20171101T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywpbcb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1942,11 +2160,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywpbcb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171025T054500
+DTSTART;TZID=Europe/Paris:20171025T074500
+DTEND;TZID=Europe/Paris:20171025T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywnbhc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1959,11 +2179,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywnbhc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171018T054500
+DTSTART;TZID=Europe/Paris:20171018T074500
+DTEND;TZID=Europe/Paris:20171018T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywnbxb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1976,11 +2198,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywnbxb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171011T054500
+DTSTART;TZID=Europe/Paris:20171011T074500
+DTEND;TZID=Europe/Paris:20171011T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywnbpb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -1993,11 +2217,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywnbpb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20171004T054500
+DTSTART;TZID=Europe/Paris:20171004T074500
+DTEND;TZID=Europe/Paris:20171004T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywnbgb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2010,11 +2236,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywnbgb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20171002T163000
+DTSTART;TZID=Europe/Paris:20171002T183000
+DTEND;TZID=Europe/Paris:20171002T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywnbdb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2028,11 +2256,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywnbdb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170927T054500
+DTSTART;TZID=Europe/Paris:20170927T074500
+DTEND;TZID=Europe/Paris:20170927T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywmbkc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2045,12 +2275,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywmbkc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Retour d'XP et perspectives sur le développement de projets Open 
  Source
-DTSTART:20170921T170000
+DTSTART;TZID=Europe/Paris:20170921T190000
+DTEND;TZID=Europe/Paris:20170921T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/240001683/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2100,11 +2332,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  rtify Alfonso has zero improvisation skills!\n\nCommunauté: okiwi\n👥 1
  8 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/240001683/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170920T054500
+DTSTART;TZID=Europe/Paris:20170920T074500
+DTEND;TZID=Europe/Paris:20170920T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywmbbc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2117,11 +2351,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywmbbc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170913T054500
+DTSTART;TZID=Europe/Paris:20170913T074500
+DTEND;TZID=Europe/Paris:20170913T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywmbrb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2133,11 +2369,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywmbrb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geek Camp 2017
-DTSTART:20170908T150000
+DTSTART;TZID=Europe/Paris:20170908T170000
+DTEND;TZID=Europe/Paris:20170908T190000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/238953527/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2150,11 +2388,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  annuler votre inscription.\n\nCommunauté: okiwi\n👥 31 participant(s)\n
  Limité à 42 places
 LOCATION:Salle des fêtes\, Le Bourg\, 47700 Ruffiac\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/238953527/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170906T054500
+DTSTART;TZID=Europe/Paris:20170906T074500
+DTEND;TZID=Europe/Paris:20170906T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywmbjb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2167,11 +2407,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywmbjb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Security workshop
-DTSTART:20170904T170000
+DTSTART;TZID=Europe/Paris:20170904T190000
+DTEND;TZID=Europe/Paris:20170904T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywmbgb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2196,11 +2438,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\n👥 
  4 participant(s)\nLimité à 20 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywmbgb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170830T054500
+DTSTART;TZID=Europe/Paris:20170830T074500
+DTEND;TZID=Europe/Paris:20170830T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywlbnc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2213,11 +2457,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywlbnc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170823T054500
+DTSTART;TZID=Europe/Paris:20170823T074500
+DTEND;TZID=Europe/Paris:20170823T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywlbfc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2230,11 +2476,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywlbfc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Security workshop
-DTSTART:20170821T170000
+DTSTART;TZID=Europe/Paris:20170821T190000
+DTEND;TZID=Europe/Paris:20170821T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywlbcc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2259,11 +2507,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\n👥 
  5 participant(s)\nLimité à 20 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywlbcc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170816T054500
+DTSTART;TZID=Europe/Paris:20170816T074500
+DTEND;TZID=Europe/Paris:20170816T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywlbvb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2276,11 +2526,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywlbvb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170809T054500
+DTSTART;TZID=Europe/Paris:20170809T074500
+DTEND;TZID=Europe/Paris:20170809T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywlbmb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2293,11 +2545,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywlbmb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170802T054500
+DTSTART;TZID=Europe/Paris:20170802T074500
+DTEND;TZID=Europe/Paris:20170802T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywlbdb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2310,11 +2564,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywlbdb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Types\, Domain Driven Design en Javascript avec Node
-DTSTART:20170727T164500
+DTSTART;TZID=Europe/Paris:20170727T184500
+DTEND;TZID=Europe/Paris:20170727T204500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/241975276/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2341,11 +2597,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  r nous aider dans notre parcours.\nEt ça se passe chez CoolWorking !\n\
  nCommunauté: okiwi\n👥 15 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/241975276/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170726T054500
+DTSTART;TZID=Europe/Paris:20170726T074500
+DTEND;TZID=Europe/Paris:20170726T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywkbjc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2358,11 +2616,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywkbjc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Security workshop
-DTSTART:20170724T170000
+DTSTART;TZID=Europe/Paris:20170724T190000
+DTEND;TZID=Europe/Paris:20170724T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywkbgc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2387,11 +2647,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\n👥 
  5 participant(s)\nLimité à 20 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywkbgc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170719T054500
+DTSTART;TZID=Europe/Paris:20170719T074500
+DTEND;TZID=Europe/Paris:20170719T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywkbzb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2404,11 +2666,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywkbzb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170712T054500
+DTSTART;TZID=Europe/Paris:20170712T074500
+DTEND;TZID=Europe/Paris:20170712T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywkbqb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2421,11 +2685,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywkbqb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Security workshop
-DTSTART:20170710T170000
+DTSTART;TZID=Europe/Paris:20170710T190000
+DTEND;TZID=Europe/Paris:20170710T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywkbnb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2450,11 +2716,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\nLimit
  é à 20 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywkbnb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170705T054500
+DTSTART;TZID=Europe/Paris:20170705T074500
+DTEND;TZID=Europe/Paris:20170705T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywkbhb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2467,11 +2735,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywkbhb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170628T054500
+DTSTART;TZID=Europe/Paris:20170628T074500
+DTEND;TZID=Europe/Paris:20170628T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywjblc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2484,11 +2754,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywjblc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TDD & Event Sourcing dans la vraie vie
-DTSTART:20170626T164500
+DTSTART;TZID=Europe/Paris:20170626T184500
+DTEND;TZID=Europe/Paris:20170626T204500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/239929002/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2503,11 +2775,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  et mon code de tous les jours.\n\nCommunauté: okiwi\n👥 39 participant(
  s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/239929002/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170621T054500
+DTSTART;TZID=Europe/Paris:20170621T074500
+DTEND;TZID=Europe/Paris:20170621T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywjbcc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2520,11 +2794,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywjbcc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170614T054500
+DTSTART;TZID=Europe/Paris:20170614T074500
+DTEND;TZID=Europe/Paris:20170614T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywjbsb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2537,11 +2813,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywjbsb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Découverte du langage F#
-DTSTART:20170613T170000
+DTSTART;TZID=Europe/Paris:20170613T190000
+DTEND;TZID=Europe/Paris:20170613T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/240204501/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2556,11 +2834,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  caise (@thewhitetigle).\n\nCommunauté: okiwi\n👥 17 participant(s)\nLim
  ité à 30 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/240204501/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Security workshop
-DTSTART:20170612T170000
+DTSTART;TZID=Europe/Paris:20170612T190000
+DTEND;TZID=Europe/Paris:20170612T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywjbqb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2585,11 +2865,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\n👥 
  11 participant(s)\nLimité à 20 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywjbqb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170607T054500
+DTSTART;TZID=Europe/Paris:20170607T074500
+DTEND;TZID=Europe/Paris:20170607T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywjbkb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2602,11 +2884,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywjbkb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20170605T163000
+DTSTART;TZID=Europe/Paris:20170605T183000
+DTEND;TZID=Europe/Paris:20170605T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywjbhb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2620,11 +2904,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywjbhb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170531T054500
+DTSTART;TZID=Europe/Paris:20170531T074500
+DTEND;TZID=Europe/Paris:20170531T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbpc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2637,11 +2923,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbpc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Security workshop
-DTSTART:20170529T170000
+DTSTART;TZID=Europe/Paris:20170529T190000
+DTEND;TZID=Europe/Paris:20170529T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywhbmc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2666,11 +2954,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\n👥 
  8 participant(s)\nLimité à 20 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywhbmc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170524T054500
+DTSTART;TZID=Europe/Paris:20170524T074500
+DTEND;TZID=Europe/Paris:20170524T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbgc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2683,11 +2973,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbgc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CQRS\, Fonctionnel\, Event Sourcing & Domain Driven Design
-DTSTART:20170523T164500
+DTSTART;TZID=Europe/Paris:20170523T184500
+DTEND;TZID=Europe/Paris:20170523T204500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/239156476/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2714,11 +3006,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ésentation sera assurée par Arnaud LEMAIRE (@lilobase)\n\nCommunauté: o
  kiwi\n👥 62 participant(s)\nLimité à 65 places
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/239156476/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170517T054500
+DTSTART;TZID=Europe/Paris:20170517T074500
+DTEND;TZID=Europe/Paris:20170517T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbwb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2730,11 +3024,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbwb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170510T054500
+DTSTART;TZID=Europe/Paris:20170510T074500
+DTEND;TZID=Europe/Paris:20170510T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbnb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2747,11 +3043,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbnb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170503T054500
+DTSTART;TZID=Europe/Paris:20170503T074500
+DTEND;TZID=Europe/Paris:20170503T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbfb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2764,11 +3062,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywhbfb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20170502T163000
+DTSTART;TZID=Europe/Paris:20170502T183000
+DTEND;TZID=Europe/Paris:20170502T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywgbnb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2782,11 +3082,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywgbnb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20170502T163000
+DTSTART;TZID=Europe/Paris:20170502T183000
+DTEND;TZID=Europe/Paris:20170502T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywhbcb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2800,11 +3102,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 2 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywhbcb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170426T054500
+DTSTART;TZID=Europe/Paris:20170426T074500
+DTEND;TZID=Europe/Paris:20170426T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywgbjc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2817,11 +3121,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywgbjc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Find My CTO
-DTSTART:20170419T160000
+DTSTART;TZID=Europe/Paris:20170419T180000
+DTEND;TZID=Europe/Paris:20170419T200000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/239126813/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2845,11 +3151,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  le.\nToutes les informations complémentaires sur le site de l'AEC\n\nComm
  unauté: okiwi\n👥 13 participant(s)
 LOCATION:auberge numérique\, 137 Rue Achard\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/239126813/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170419T054500
+DTSTART;TZID=Europe/Paris:20170419T074500
+DTEND;TZID=Europe/Paris:20170419T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywgbzb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2862,11 +3170,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywgbzb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170412T054500
+DTSTART;TZID=Europe/Paris:20170412T074500
+DTEND;TZID=Europe/Paris:20170412T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywgbqb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2879,11 +3189,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywgbqb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soirée DDD et plus avec Cyrille Martraire
-DTSTART:20170410T173000
+DTSTART;TZID=Europe/Paris:20170410T193000
+DTEND;TZID=Europe/Paris:20170410T213000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/239009815/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2892,11 +3204,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  parler Domain Driven Design.\n\nCommunauté: okiwi\n👥 28 participant(s)
  \nLimité à 30 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/239009815/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170405T054500
+DTSTART;TZID=Europe/Paris:20170405T074500
+DTEND;TZID=Europe/Paris:20170405T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywgbhb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2909,22 +3223,26 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywgbhb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AG Okiwi
-DTSTART:20170404T173000
+DTSTART;TZID=Europe/Paris:20170404T193000
+DTEND;TZID=Europe/Paris:20170404T213000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/238927888/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  238927888/\n📍 Coolworking\, 9 rue de Condé\, Bordeaux\, France\n\nAsse
  mblée générale d'Okiwi\n\nCommunauté: okiwi\n👥 8 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/238927888/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170329T054500
+DTSTART;TZID=Europe/Paris:20170329T074500
+DTEND;TZID=Europe/Paris:20170329T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfbmc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2937,11 +3255,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Café Napoléon III\, 6 Bis Cours du 30 Juillet\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfbmc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20170327T163000
+DTSTART;TZID=Europe/Paris:20170327T183000
+DTEND;TZID=Europe/Paris:20170327T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklywfbkc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2955,11 +3275,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklywfbkc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170322T064500
+DTSTART;TZID=Europe/Paris:20170322T074500
+DTEND;TZID=Europe/Paris:20170322T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfbdc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2972,11 +3294,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Café Napoléon III\, 6 Bis Cours du 30 Juillet\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfbdc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Réunion organisation Agile Tour 2017 #2
-DTSTART:20170315T180000
+DTSTART;TZID=Europe/Paris:20170315T190000
+DTEND;TZID=Europe/Paris:20170315T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/238078747/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -2986,11 +3310,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  l'organisation ou que vous ne soyez que simple curieux !\n\nCommunauté: o
  kiwi\n👥 13 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/238078747/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170315T064500
+DTSTART;TZID=Europe/Paris:20170315T074500
+DTEND;TZID=Europe/Paris:20170315T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfbtb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3003,11 +3329,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Café Napoléon III\, 6 Bis Cours du 30 Juillet\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfbtb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20170313T173000
+DTSTART;TZID=Europe/Paris:20170313T183000
+DTEND;TZID=Europe/Paris:20170313T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywfbrb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3021,11 +3349,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywfbrb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170308T064500
+DTSTART;TZID=Europe/Paris:20170308T074500
+DTEND;TZID=Europe/Paris:20170308T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfblb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3038,11 +3368,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Café Napoléon III\, 6 Bis Cours du 30 Juillet\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfblb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170301T064500
+DTSTART;TZID=Europe/Paris:20170301T074500
+DTEND;TZID=Europe/Paris:20170301T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfbcb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3055,11 +3387,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  icipant(s)
 LOCATION:Café Napoléon III\, 6 Bis Cours du 30 Juillet\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmywfbcb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20170227T173000
+DTSTART;TZID=Europe/Paris:20170227T183000
+DTEND;TZID=Europe/Paris:20170227T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklywdbkc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3073,11 +3407,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklywdbkc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Code & Coffee
-DTSTART:20170222T064500
+DTSTART;TZID=Europe/Paris:20170222T074500
+DTEND;TZID=Europe/Paris:20170222T094500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/237680074/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3088,11 +3424,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   contrainte autre que passer un bon moment et échanger sur les sujets qui
   nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Café Des Arts\, Cours Víctor Hugo\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/237680074/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kick-off Agile Tour 2017
-DTSTART:20170216T180000
+DTSTART;TZID=Europe/Paris:20170216T190000
+DTEND;TZID=Europe/Paris:20170216T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/237520474/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3102,11 +3440,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  impliquer dans l'organisation ou que vous ne soyez que simple curieux !\n\
  nCommunauté: okiwi\n👥 11 participant(s)
 LOCATION:Le Molly Malone's\, 83 Quai Chartrons 33300 \, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/237520474/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20170213T173000
+DTSTART;TZID=Europe/Paris:20170213T183000
+DTEND;TZID=Europe/Paris:20170213T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywdbrb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3120,11 +3460,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywdbrb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20170123T173000
+DTSTART;TZID=Europe/Paris:20170123T183000
+DTEND;TZID=Europe/Paris:20170123T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklywcbfc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3138,11 +3480,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklywcbfc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20170109T173000
+DTSTART;TZID=Europe/Paris:20170109T183000
+DTEND;TZID=Europe/Paris:20170109T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywcbmb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3156,11 +3500,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywcbmb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20161226T173000
+DTSTART;TZID=Europe/Paris:20161226T183000
+DTEND;TZID=Europe/Paris:20161226T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvqbjc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3174,11 +3520,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 3 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvqbjc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20161212T173000
+DTSTART;TZID=Europe/Paris:20161212T183000
+DTEND;TZID=Europe/Paris:20161212T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvqbqb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3192,11 +3540,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 8 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvqbqb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20161128T173000
+DTSTART;TZID=Europe/Paris:20161128T183000
+DTEND;TZID=Europe/Paris:20161128T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvpblc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3210,11 +3560,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 12 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvpblc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20161114T173000
+DTSTART;TZID=Europe/Paris:20161114T183000
+DTEND;TZID=Europe/Paris:20161114T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvpbsb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3228,11 +3580,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvpbsb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20161024T163000
+DTSTART;TZID=Europe/Paris:20161024T183000
+DTEND;TZID=Europe/Paris:20161024T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvnbgc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3246,11 +3600,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 7 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvnbgc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Global Day of Code Retreat 2016
-DTSTART:20161022T064500
+DTSTART;TZID=Europe/Paris:20161022T084500
+DTEND;TZID=Europe/Paris:20161022T104500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/232841559/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3269,11 +3625,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   on prend un verre avec ceux qui le souhaitent.\n\nCommunauté: okiwi\n
  👥 23 participant(s)\nLimité à 23 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/232841559/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160926T163000
+DTSTART;TZID=Europe/Paris:20160926T183000
+DTEND;TZID=Europe/Paris:20160926T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvmbjc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3287,11 +3645,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvmbjc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geek Camp 2016
-DTSTART:20160909T150000
+DTSTART;TZID=Europe/Paris:20160909T170000
+DTEND;TZID=Europe/Paris:20160909T190000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/230739321/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3305,11 +3665,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  P\, annuler votre inscription.\n\nCommunauté: okiwi\n👥 29 participant(
  s)\nLimité à 30 places
 LOCATION:Salle des fêtes\, Le Bourg\, 47700 Ruffiac\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/230739321/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160822T163000
+DTSTART;TZID=Europe/Paris:20160822T183000
+DTEND;TZID=Europe/Paris:20160822T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvlbdc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3323,11 +3685,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvlbdc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160808T163000
+DTSTART;TZID=Europe/Paris:20160808T183000
+DTEND;TZID=Europe/Paris:20160808T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvlblb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3341,11 +3705,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvlblb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160725T163000
+DTSTART;TZID=Europe/Paris:20160725T183000
+DTEND;TZID=Europe/Paris:20160725T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvkbhc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3359,11 +3725,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvkbhc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160711T163000
+DTSTART;TZID=Europe/Paris:20160711T183000
+DTEND;TZID=Europe/Paris:20160711T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvkbpb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3377,11 +3745,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 1 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvkbpb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160627T163000
+DTSTART;TZID=Europe/Paris:20160627T183000
+DTEND;TZID=Europe/Paris:20160627T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvjbkc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3395,11 +3765,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvjbkc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160613T163000
+DTSTART;TZID=Europe/Paris:20160613T183000
+DTEND;TZID=Europe/Paris:20160613T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvjbrb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3413,11 +3785,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvjbrb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160523T163000
+DTSTART;TZID=Europe/Paris:20160523T183000
+DTEND;TZID=Europe/Paris:20160523T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvhbfc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3431,11 +3805,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvhbfc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Assemblée Générale d'Okiwi
-DTSTART:20160509T183000
+DTSTART;TZID=Europe/Paris:20160509T203000
+DTEND;TZID=Europe/Paris:20160509T223000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/230739296/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3444,11 +3820,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  près le dojo déjà planifié.\n\nCommunauté: okiwi\n👥 4 participant(
  s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/230739296/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160509T163000
+DTSTART;TZID=Europe/Paris:20160509T183000
+DTEND;TZID=Europe/Paris:20160509T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvhbmb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3462,11 +3840,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvhbmb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160425T163000
+DTSTART;TZID=Europe/Paris:20160425T183000
+DTEND;TZID=Europe/Paris:20160425T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvgbhc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3480,11 +3860,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvgbhc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160411T163000
+DTSTART;TZID=Europe/Paris:20160411T183000
+DTEND;TZID=Europe/Paris:20160411T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvgbpb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3498,11 +3880,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvgbpb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160328T163000
+DTSTART;TZID=Europe/Paris:20160328T183000
+DTEND;TZID=Europe/Paris:20160328T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvfblc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3516,11 +3900,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 3 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvfblc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160314T173000
+DTSTART;TZID=Europe/Paris:20160314T183000
+DTEND;TZID=Europe/Paris:20160314T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvfbsb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3534,11 +3920,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvfbsb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160222T173000
+DTSTART;TZID=Europe/Paris:20160222T183000
+DTEND;TZID=Europe/Paris:20160222T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvdbdc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3552,11 +3940,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvdbdc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160208T173000
+DTSTART;TZID=Europe/Paris:20160208T183000
+DTEND;TZID=Europe/Paris:20160208T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvdblb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3570,11 +3960,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvdblb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Late Coding Dojo
-DTSTART:20160202T203000
+DTSTART;TZID=Europe/Paris:20160202T213000
+DTEND;TZID=Europe/Paris:20160202T233000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/228422928/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3588,11 +3980,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  attentif au nommage \;\n• réduire le nombre de classes et de méthodes.
  \n\nCommunauté: okiwi\n👥 4 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/228422928/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160125T173000
+DTSTART;TZID=Europe/Paris:20160125T183000
+DTEND;TZID=Europe/Paris:20160125T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvcbhc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3606,11 +4000,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvcbhc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20160111T173000
+DTSTART;TZID=Europe/Paris:20160111T183000
+DTEND;TZID=Europe/Paris:20160111T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvcbpb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3624,11 +4020,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 2 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvcbpb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20151228T173000
+DTSTART;TZID=Europe/Paris:20151228T183000
+DTEND;TZID=Europe/Paris:20151228T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytqblc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3642,11 +4040,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 1 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytqblc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20151214T173000
+DTSTART;TZID=Europe/Paris:20151214T183000
+DTEND;TZID=Europe/Paris:20151214T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytqbsb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3660,11 +4060,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytqbsb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20151123T173000
+DTSTART;TZID=Europe/Paris:20151123T183000
+DTEND;TZID=Europe/Paris:20151123T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytpbfc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3678,11 +4080,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 10 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytpbfc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20151109T173000
+DTSTART;TZID=Europe/Paris:20151109T183000
+DTEND;TZID=Europe/Paris:20151109T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytpbmb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3696,11 +4100,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytpbmb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20151026T173000
+DTSTART;TZID=Europe/Paris:20151026T183000
+DTEND;TZID=Europe/Paris:20151026T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytnbjc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3714,11 +4120,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytnbjc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20151012T163000
+DTSTART;TZID=Europe/Paris:20151012T183000
+DTEND;TZID=Europe/Paris:20151012T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytnbqb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3732,11 +4140,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytnbqb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20150928T163000
+DTSTART;TZID=Europe/Paris:20150928T183000
+DTEND;TZID=Europe/Paris:20150928T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytmblc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3750,12 +4160,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 7 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytmblc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programmation fonctionnelle\, retours d'expériences\, Elastic Sea
  rch & Docker
-DTSTART:20150923T114500
+DTSTART;TZID=Europe/Paris:20150923T134500
+DTEND;TZID=Europe/Paris:20150923T154500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/225554945/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3778,12 +4190,14 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  earch dans un environnement Docker.\n\nCommunauté: okiwi\n👥 5 particip
  ant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/225554945/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programmation fonctionnelle\, retours d'expériences\, Elastic Sea
  rch & Docker
-DTSTART:20150922T234500
+DTSTART;TZID=Europe/Paris:20150923T014500
+DTEND;TZID=Europe/Paris:20150923T034500
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/224989229/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3806,11 +4220,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  earch dans un environnement Docker.\n\nCommunauté: okiwi\n👥 15 partici
  pant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/224989229/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Geek Camp Week End
-DTSTART:20150918T170000
+DTSTART;TZID=Europe/Paris:20150918T190000
+DTEND;TZID=Europe/Paris:20150918T210000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/224762015/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3827,11 +4243,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ilité civile\nN'hésitez pas à partager\n\nCommunauté: okiwi\n👥 2 pa
  rticipant(s)
 LOCATION:Salle des fêtes\, Le Bourg\, 47700 Ruffiac\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/224762015/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20150914T163000
+DTSTART;TZID=Europe/Paris:20150914T183000
+DTEND;TZID=Europe/Paris:20150914T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytmbsb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3845,11 +4263,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 3 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytmbsb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20150824T163000
+DTSTART;TZID=Europe/Paris:20150824T183000
+DTEND;TZID=Europe/Paris:20150824T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytlbgc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3863,11 +4283,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytlbgc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20150810T163000
+DTSTART;TZID=Europe/Paris:20150810T183000
+DTEND;TZID=Europe/Paris:20150810T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytlbnb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3881,11 +4303,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 13 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytlbnb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20150727T163000
+DTSTART;TZID=Europe/Paris:20150727T183000
+DTEND;TZID=Europe/Paris:20150727T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/ctvmjlytkbkc/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3899,11 +4323,13 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 13 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/ctvmjlytkbkc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
-DTSTART:20150713T163000
+DTSTART;TZID=Europe/Paris:20150713T183000
+DTEND;TZID=Europe/Paris:20150713T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytkbrb/
  @community-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
@@ -3917,6 +4343,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  être très attentif au nommage \;\n• réduire le nombre de classes et
   de méthodes.\n\nCommunauté: okiwi\n👥 7 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytkbrb/
 END:VEVENT
 END:VCALENDAR

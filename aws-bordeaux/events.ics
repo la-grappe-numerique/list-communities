@@ -3,9 +3,11 @@ VERSION:2.0
 PRODID:-//Événements aws-bordeaux//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté aws-bordeaux
 X-WR-CALNAME:Événements aws-bordeaux
+X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Meetup AWS re:Invent re:Cap
-DTSTART:20250220T173000
+DTSTART;TZID=Europe/Paris:20250220T183000
+DTEND;TZID=Europe/Paris:20250220T203000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -26,11 +28,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  uté: aws-bordeaux\n👥 10 participant(s)\nLimité à 80 places
 LOCATION:Beltic\, Betclic Group 117 Quai de Bacalan Bordeaux\, Nouvelle-Aq
  uitaine 33300\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS Bordeaux : Serverless\, FinOps\, et GenAI
-DTSTART:20241114T173000
+DTSTART;TZID=Europe/Paris:20241114T183000
+DTEND;TZID=Europe/Paris:20241114T203000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/304288920/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -93,11 +97,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  (s)\nLimité à 80 places
 LOCATION:Beltic\, Betclic Group 117 Quai de Bacalan Bordeaux\, Nouvelle-Aq
  uitaine 33300\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/304288920/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Présentiel !] Meetup AWS Bordeaux #8
-DTSTART:20220511T170000
+DTSTART;TZID=Europe/Paris:20220511T190000
+DTEND;TZID=Europe/Paris:20220511T210000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/285568376/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -113,11 +119,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ko / Accenture\n🍕🍺\n\nCommunauté: aws-bordeaux\n👥 37 participant
  (s)
 LOCATION:Halle Héméra\, 132 Rue Fondaudège\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/285568376/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS virtuel #12 - Migration
-DTSTART:20211213T180000
+DTSTART;TZID=Europe/Paris:20211213T190000
+DTEND;TZID=Europe/Paris:20211213T210000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/282446411/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -152,11 +160,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  te\, storage\, network) et ouverture sur le challenge de la mesure d'impac
  t environnemental du cloud.\n\nCommunauté: aws-bordeaux\n💻 Événement
   en ligne\n👥 10 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/282446411/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS virtuel #10 - IoT sur AWS
-DTSTART:20211116T180000
+DTSTART;TZID=Europe/Paris:20211116T190000
+DTEND;TZID=Europe/Paris:20211116T210000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -186,11 +196,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  d'usines de fabrication\, d'installations d'assemblage ou encore de raffin
  eries.\n\nCommunauté: aws-bordeaux\n💻 Événement en ligne\n👥 3 par
  ticipant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS virtuel #10 - Data sur AWS
-DTSTART:20210915T170000
+DTSTART;TZID=Europe/Paris:20210915T190000
+DTEND;TZID=Europe/Paris:20210915T210000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/280378703/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -216,12 +228,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ésentation d'un usecase sur la prédiction des ventes de Walmart à l'éc
  helle des Etats-Unis.\n\nCommunauté: aws-bordeaux\n💻 Événement en li
  gne\n👥 5 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/280378703/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup virtuel AWS #9 - FinOps : Maitriser ses coûts dans le clou
  d
-DTSTART:20210608T163000
+DTSTART;TZID=Europe/Paris:20210608T183000
+DTEND;TZID=Europe/Paris:20210608T203000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/278427584/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -259,12 +273,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  es EC2\, ASG\, RDS\, de mes environnements hors production\, multicompte e
  t tout cela de façon automatisée.\n\nCommunauté: aws-bordeaux\n💻 Év
  énement en ligne\n👥 7 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/278427584/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup virtuel AWS #8 - La gestion de la scalabilité et des pics 
  de charge
-DTSTART:20210519T163000
+DTSTART;TZID=Europe/Paris:20210519T183000
+DTEND;TZID=Europe/Paris:20210519T203000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/278017587/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -294,12 +310,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  érationnelles fortement simplifiées grâces à EKS et son écosystème.\
  n\nCommunauté: aws-bordeaux\n💻 Événement en ligne\n👥 8 participan
  t(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/278017587/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup Special - Participez à une expérience d'apprentissage ent
  re pairs
-DTSTART:20210331T160000
+DTSTART;TZID=Europe/Paris:20210331T180000
+DTEND;TZID=Europe/Paris:20210331T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/277242569/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -319,11 +337,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ion est co-organisée avec WAP - We Are Peers\, spécialiste de l'apprenti
  ssage entre pairs.\n\nCommunauté: aws-bordeaux\n💻 Événement en ligne
  \n👥 2 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/277242569/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS Community Day France
-DTSTART:20210330T070000
+DTSTART;TZID=Europe/Paris:20210330T090000
+DTEND;TZID=Europe/Paris:20210330T110000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/277030683/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -350,12 +370,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  le monde de dormir - Level 200 (Intermédiaire)\n🌙 17h00 à 17h30 : Tal
  k 9 : Les coûts de la gratuité - Level 100 (débutant)\n\nCommunauté: a
  ws-bordeaux\n💻 Événement en ligne\n👥 7 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/277030683/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS re:Invent 20 re:Cap - résumé des résumés pour les décideu
  rs IT
-DTSTART:20210128T160000
+DTSTART;TZID=Europe/Paris:20210128T170000
+DTEND;TZID=Europe/Paris:20210128T190000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/275581480/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -371,12 +393,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  session est interactive\, avec au minimum 15 minutes après la session pou
  r répondre à vos questions.\nPublic cible\, les IT Managers / CIOs\n\nCo
  mmunauté: aws-bordeaux\n💻 Événement en ligne\n👥 13 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581480/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS re:Invent 20 re:Cap - Informatique industrielle & technologies
   émergentes
-DTSTART:20210127T160000
+DTSTART;TZID=Europe/Paris:20210127T170000
+DTEND;TZID=Europe/Paris:20210127T190000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/275581471/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -402,11 +426,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  elles implémentations\, services et les cas d'utilisation\, tout en élar
  gissant leurs connaissances et leurs domaines de couverture.\n\nCommunaut
  é: aws-bordeaux\n💻 Événement en ligne\n👥 10 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581471/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS re:Invent 20 re:Cap - pour les responsables de la sécurité
-DTSTART:20210126T160000
+DTSTART;TZID=Europe/Paris:20210126T170000
+DTEND;TZID=Europe/Paris:20210126T190000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/275581452/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -434,12 +460,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  evée et de gérer les risques associés aux logiciels et aux systèmes qu
  'une organisation exécute.\n\nCommunauté: aws-bordeaux\n💻 Événement
   en ligne\n👥 10 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581452/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS re:Invent 20 re:Cap - pour les administrateurs/trices de syst
  èmes
-DTSTART:20210125T160000
+DTSTART;TZID=Europe/Paris:20210125T170000
+DTEND;TZID=Europe/Paris:20210125T190000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/275581450/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -470,11 +498,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ar conséquent\, ils fonctionnent en tant qu'ingénieurs DevOps pour garan
  tir que les systèmes sont testés et déployés de manière fiable.\n\nCo
  mmunauté: aws-bordeaux\n💻 Événement en ligne\n👥 7 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581450/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS re:Invent 20 re:Cap - pour les développeurs / euses
-DTSTART:20210121T160000
+DTSTART;TZID=Europe/Paris:20210121T170000
+DTEND;TZID=Europe/Paris:20210121T190000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/275581443/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -502,11 +532,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ment participer à l'automatisation et à l'accélération du cycle de pub
  lication des logiciels (DevOps).\n\nCommunauté: aws-bordeaux\n💻 Évén
  ement en ligne\n👥 19 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581443/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS re:Invent 20 re:Cap - pour les ingénieurs de données (AIML)
-DTSTART:20210120T160000
+DTSTART;TZID=Europe/Paris:20210120T170000
+DTEND;TZID=Europe/Paris:20210120T190000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/275581433/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -534,11 +566,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  s\, aidant les entreprises à prendre des décisions basées sur les donn
  ées pour stimuler la stratégie d'entreprise.\n\nCommunauté: aws-bordeau
  x\n💻 Événement en ligne\n👥 8 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581433/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS re:Invent 20 re:Cap - pour les analystes de données
-DTSTART:20210119T160000
+DTSTART;TZID=Europe/Paris:20210119T170000
+DTEND;TZID=Europe/Paris:20210119T190000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/275581425/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -570,11 +604,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  onnées\, des entrepôts de données ou des lacs de données\, transforman
  t les données en informations.\n\nCommunauté: aws-bordeaux\n💻 Événe
  ment en ligne\n👥 9 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581425/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS re:Invent 20 re:Cap - pour les architectes IT
-DTSTART:20210118T160000
+DTSTART;TZID=Europe/Paris:20210118T170000
+DTEND;TZID=Europe/Paris:20210118T190000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/275581417/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -602,12 +638,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et d'autres lignes directrices à transmettre aux équipes opérationnelle
  s pour la mise en œuvre.\n\nCommunauté: aws-bordeaux\n💻 Événement e
  n ligne\n👥 17 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581417/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup virtuel AWS #7 - Automatisation\, orchestration et gouverna
  nce sur AWS
-DTSTART:20201119T173000
+DTSTART;TZID=Europe/Paris:20201119T183000
+DTEND;TZID=Europe/Paris:20201119T203000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/274511001/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -652,11 +690,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  éploiement à l'échelle des ressources\, de notre account factory et de 
  notre API interne pour gérer les affectations aux applications.\n\nCommun
  auté: aws-bordeaux\n💻 Événement en ligne\n👥 12 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/274511001/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS Virtual Meetup #6 - AWS et les media-techs
-DTSTART:20200930T163000
+DTSTART;TZID=Europe/Paris:20200930T183000
+DTEND;TZID=Europe/Paris:20200930T203000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -686,11 +726,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  astic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEff
  ectively use of Messaging / Spot instances and lambda\n\nCommunauté: aws-
  bordeaux\n💻 Événement en ligne\n👥 5 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200730T160000
+DTSTART;TZID=Europe/Paris:20200730T180000
+DTEND;TZID=Europe/Paris:20200730T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  nc/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -702,12 +744,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 5 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  nc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200723T160000
+DTSTART;TZID=Europe/Paris:20200723T180000
+DTEND;TZID=Europe/Paris:20200723T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  fc/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -719,12 +763,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 6 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  fc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200716T160000
+DTSTART;TZID=Europe/Paris:20200716T180000
+DTEND;TZID=Europe/Paris:20200716T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  vb/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -736,12 +782,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 6 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  vb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200709T160000
+DTSTART;TZID=Europe/Paris:20200709T180000
+DTEND;TZID=Europe/Paris:20200709T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  mb/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -753,12 +801,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 7 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  mb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200702T160000
+DTSTART;TZID=Europe/Paris:20200702T180000
+DTEND;TZID=Europe/Paris:20200702T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  db/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -770,12 +820,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 5 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  db/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AWS Virtual Meetup #5 - Chaos engineering
-DTSTART:20200701T170000
+DTSTART;TZID=Europe/Paris:20200701T190000
+DTEND;TZID=Europe/Paris:20200701T210000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/271494821/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -815,11 +867,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  want is continuously available\, and our backup plans will work when we ne
  ed them.\n\nCommunauté: aws-bordeaux\n💻 Événement en ligne\n👥 10 
  participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/271494821/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200625T160000
+DTSTART;TZID=Europe/Paris:20200625T180000
+DTEND;TZID=Europe/Paris:20200625T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  hc/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -831,12 +885,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 7 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  hc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200618T160000
+DTSTART;TZID=Europe/Paris:20200618T180000
+DTEND;TZID=Europe/Paris:20200618T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  xb/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -848,12 +904,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 4 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  xb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200611T160000
+DTSTART;TZID=Europe/Paris:20200611T180000
+DTEND;TZID=Europe/Paris:20200611T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  pb/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -865,12 +923,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 7 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  pb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200604T160000
+DTSTART;TZID=Europe/Paris:20200604T180000
+DTEND;TZID=Europe/Paris:20200604T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  gb/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -882,12 +942,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 7 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  gb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200528T160000
+DTSTART;TZID=Europe/Paris:20200528T180000
+DTEND;TZID=Europe/Paris:20200528T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  lc/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -899,12 +961,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 9 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  lc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200521T160000
+DTSTART;TZID=Europe/Paris:20200521T180000
+DTEND;TZID=Europe/Paris:20200521T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  cc/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -916,12 +980,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 13 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  cc/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200514T160000
+DTSTART;TZID=Europe/Paris:20200514T180000
+DTEND;TZID=Europe/Paris:20200514T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  sb/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -933,12 +999,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 11 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  sb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live Coding with Bashar : Migration et transformation d'une app 
-DTSTART:20200507T160000
+DTSTART;TZID=Europe/Paris:20200507T180000
+DTEND;TZID=Europe/Paris:20200507T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  kb/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -950,12 +1018,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
  vénement en ligne\n👥 27 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  kb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup virtuel AWS #2 - L'orchestration Kubernetes sur AWS
-DTSTART:20200423T165000
+DTSTART;TZID=Europe/Paris:20200423T185000
+DTEND;TZID=Europe/Paris:20200423T205000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/270058143/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -991,11 +1061,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  écurité open source disponibles aujourd'hui ? Quel est l'avenir de la s
  écurité des conteneurs ? Qu'adviendra-t-il des conteneurs ?\n\nCommunaut
  é: aws-bordeaux\n💻 Événement en ligne\n👥 43 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/270058143/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup virtuel AWS #1 - AWS dans l'univers du Gaming
-DTSTART:20200325T175000
+DTSTART;TZID=Europe/Paris:20200325T185000
+DTEND;TZID=Europe/Paris:20200325T205000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/269643080/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -1018,12 +1090,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ez la stratégie de migration cloud de Gameloft et posez toutes vos questi
  ons à Gilles Chervy.\n\nCommunauté: aws-bordeaux\n💻 Événement en li
  gne\n👥 11 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/269643080/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS Bordeaux #7 - @Betclic - Résilience & sécurité sur A
  WS
-DTSTART:20200206T180000
+DTSTART;TZID=Europe/Paris:20200206T190000
+DTEND;TZID=Europe/Paris:20200206T210000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/267721451/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -1040,11 +1114,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ommunauté: aws-bordeaux\n👥 93 participant(s)
 LOCATION:Whoorks Bordeaux Bacalan\, 117 Quai de Bacalan\, Bordeaux\, Franc
  e
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/267721451/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS Bordeaux #6 - re:Invent 2019 re:Cap
-DTSTART:20191219T180000
+DTSTART;TZID=Europe/Paris:20191219T190000
+DTEND;TZID=Europe/Paris:20191219T210000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/265659080/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -1059,11 +1135,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  articipant(s)
 LOCATION:School Data Processing Bordeaux - Epitech\, 16 Rue Théodore Blan
  c\, Bruges\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/265659080/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS Bordeaux #5 - Architectures modernes & Serverless
-DTSTART:20191017T170000
+DTSTART;TZID=Europe/Paris:20191017T190000
+DTEND;TZID=Europe/Paris:20191017T210000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -1078,12 +1156,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  amais de mal 😊\n🎙️Thibaut Charlier\, Cloud Evangelist @ Gekko\n
  🍕🍺\n🙏Gekko\n\nCommunauté: aws-bordeaux\n👥 54 participant(s)
 LOCATION:Halle Héméra\, 132 Rue Fondaudège\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS Bordeaux #4 - Retours d'expériences AT Internet & Betc
  lic
-DTSTART:20190613T170000
+DTSTART;TZID=Europe/Paris:20190613T190000
+DTEND;TZID=Europe/Paris:20190613T210000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/261322618/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -1107,12 +1187,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  articipant(s)
 LOCATION:School Data Processing Bordeaux - Epitech\, 16 Rue Théodore Blan
  c\, Bruges\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/261322618/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS Bordeaux #3 - Les piliers de l'observabilité appliqué
  s au Serverless
-DTSTART:20190509T173000
+DTSTART;TZID=Europe/Paris:20190509T193000
+DTEND;TZID=Europe/Paris:20190509T213000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/260941625/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -1140,12 +1222,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  Enthusiast.\nPierre Baillet (@octplane) - DataDog\n\nCommunauté: aws-bord
  eaux\n👥 91 participant(s)
 LOCATION:Halle Héméra\, 132 Rue Fondaudège\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/260941625/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS Bordeaux #2 - Implémenter une Skill Alexa en serverles
  s avec AWS
-DTSTART:20190207T183000
+DTSTART;TZID=Europe/Paris:20190207T193000
+DTEND;TZID=Europe/Paris:20190207T213000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/258187943/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -1165,11 +1249,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ommunauté: aws-bordeaux\n👥 29 participant(s)\nLimité à 50 places
 LOCATION:Le Wagon Bordeaux\, 1 107 Cours Balguerie Stuttenberg\, Bordeaux\
  , France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/258187943/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup AWS Bordeaux #1
-DTSTART:20170607T170000
+DTSTART;TZID=Europe/Paris:20170607T190000
+DTEND;TZID=Europe/Paris:20170607T210000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/229864331/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
@@ -1186,6 +1272,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  nt(s)
 LOCATION:AT Internet\, 85 Avenue John Fitzgerald Kennedy\, Merignac\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/229864331/
 END:VEVENT
 END:VCALENDAR

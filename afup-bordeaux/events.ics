@@ -3,10 +3,12 @@ VERSION:2.0
 PRODID:-//Événements afup-bordeaux//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté afup-bordeaux
 X-WR-CALNAME:Événements afup-bordeaux
+X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory
   Manager
-DTSTART:20250226T180000
+DTSTART;TZID=Europe/Paris:20250226T190000
+DTEND;TZID=Europe/Paris:20250226T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/306119819/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3061198
@@ -37,11 +39,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3061198
   20 mars\, réservez votre soirée dés maintenant !\n\nCommunauté: afup-
  bordeaux\n👥 20 participant(s)
 LOCATION:EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/306119819/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#56: Session lightning talks
-DTSTART:20250122T180000
+DTSTART;TZID=Europe/Paris:20250122T190000
+DTEND;TZID=Europe/Paris:20250122T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/304967965/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3049679
@@ -89,11 +93,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3049679
  eakers de cette session ! 🫶\nPensez à vous inscrire 😎\n\nCommunaut
  é: afup-bordeaux\n👥 13 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/304967965/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#55: J'ai hacké puis contribué à Symfony
-DTSTART:20241120T180000
+DTSTART;TZID=Europe/Paris:20241120T190000
+DTEND;TZID=Europe/Paris:20241120T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/304415496/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3044154
@@ -112,12 +118,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3044154
   par [Conserto](https://conserto.pro/) ! Merci à eux !\n\nCommunauté: af
  up-bordeaux\n👥 20 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/304415496/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#54: L'OOP au coeur du templating Symfony - TwigComponent & LiveCo
  mponent
-DTSTART:20241030T180000
+DTSTART;TZID=Europe/Paris:20241030T190000
+DTEND;TZID=Europe/Paris:20241030T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/303975250/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3039752
@@ -144,12 +152,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3039752
   fin de se meetup quelqu'un partira avec un cadeau ! 🎁\n\nCommunauté: 
  afup-bordeaux\n👥 19 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/303975250/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborde
  r le Cloud
-DTSTART:20240926T170000
+DTSTART;TZID=Europe/Paris:20240926T190000
+DTEND;TZID=Europe/Paris:20240926T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/303353062/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3033530
@@ -187,12 +197,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3033530
  ra) peut devenir votre pire ennemi dans ce contexte\, et comment éviter c
  ertains pièges.*\n\nCommunauté: afup-bordeaux\n👥 25 participant(s)
 LOCATION:HEMERA\, 1 cours Xavier Arnozan\, \, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/303353062/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #52 : Index me baby! Une intro elastic\; Parlons search
   engine
-DTSTART:20240612T170000
+DTSTART;TZID=Europe/Paris:20240612T190000
+DTEND;TZID=Europe/Paris:20240612T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/300806782/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3008067
@@ -220,12 +232,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3008067
  tour de PHP et de son écosystème.\n\nCommunauté: afup-bordeaux\n👥 35
   participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/300806782/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #51 : Symfony - Composant Scheduler + l'intérieur d'un
   Bundle
-DTSTART:20240522T170000
+DTSTART;TZID=Europe/Paris:20240522T190000
+DTEND;TZID=Europe/Paris:20240522T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/300806648/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3008066
@@ -252,11 +266,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3008066
  er autour de PHP et de son écosystème.\n\nCommunauté: afup-bordeaux\n
  👥 30 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/300806648/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #50 : Redis\, le couteau suisse du développeur
-DTSTART:20240424T170000
+DTSTART;TZID=Europe/Paris:20240424T190000
+DTEND;TZID=Europe/Paris:20240424T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/300013958/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3000139
@@ -276,11 +292,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3000139
  PHP et son écosystème.\n\nCommunauté: afup-bordeaux\n👥 34 participan
  t(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/300013958/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super-Apéro 2024
-DTSTART:20240313T180000
+DTSTART;TZID=Europe/Paris:20240313T190000
+DTEND;TZID=Europe/Paris:20240313T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/299275583/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2992755
@@ -294,11 +312,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2992755
  rira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 
  🍕🍕🍕\n\nCommunauté: afup-bordeaux\n👥 18 participant(s)
 LOCATION:38 Rue Capdeville\, 38 Rue Capdeville\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/299275583/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #49 : PHP + ChatGPT: let's review a generative feature!
-DTSTART:20240228T180000
+DTSTART;TZID=Europe/Paris:20240228T190000
+DTEND;TZID=Europe/Paris:20240228T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/299041870/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2990418
@@ -321,12 +341,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2990418
  P et son écosystème.\nPS : Pas de connaissances en AI requise.\n\nCommun
  auté: afup-bordeaux\n👥 46 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/299041870/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #48 : Xdebug\, la lumière au bout du tunnel. Cette foi
  s c'est la bonne
-DTSTART:20240124T180000
+DTSTART;TZID=Europe/Paris:20240124T190000
+DTEND;TZID=Europe/Paris:20240124T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/297836117/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2978361
@@ -350,11 +372,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2978361
  sonnes et d'échanger autour de PHP et son écosystème.\n\nCommunauté: a
  fup-bordeaux\n👥 26 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/297836117/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #47 : Mutation testing et Dette technique
-DTSTART:20231128T180000
+DTSTART;TZID=Europe/Paris:20231128T190000
+DTEND;TZID=Europe/Paris:20231128T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/297177923/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2971779
@@ -384,11 +408,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2971779
  rsonnes et d'échanger autour de PHP et son écosystème.\n\nCommunauté: 
  afup-bordeaux\n👥 31 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/297177923/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #46 : Xdebug\, la lumière au bout du tunnel.
-DTSTART:20231025T170000
+DTSTART;TZID=Europe/Paris:20231025T190000
+DTEND;TZID=Europe/Paris:20231025T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/296249567/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2962495
@@ -410,12 +436,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2962495
  s personnes et d'échanger autour de PHP et son écosystème.\n\nCommunaut
  é: afup-bordeaux\n👥 28 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/296249567/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #45 : La mutabilité m’a tué\, l’immutabilité m
  ’a sauvé
-DTSTART:20230928T170000
+DTSTART;TZID=Europe/Paris:20230928T190000
+DTEND;TZID=Europe/Paris:20230928T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/295714201/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2957142
@@ -445,11 +473,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2957142
  idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP 
  et son écosystème.\n\nCommunauté: afup-bordeaux\n👥 28 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/295714201/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #44 : on parlera AI et Open Source
-DTSTART:20230629T170000
+DTSTART;TZID=Europe/Paris:20230629T190000
+DTEND;TZID=Europe/Paris:20230629T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/293975851/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2939758
@@ -491,11 +521,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2939758
  .com/fr-FR/drupal-france-francophonie/events/293565941/).\n\nCommunauté: 
  afup-bordeaux\n👥 33 participant(s)
 LOCATION:EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/293975851/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #43: ManoMano nous accueille pour 2 talks
-DTSTART:20230524T170000
+DTSTART;TZID=Europe/Paris:20230524T190000
+DTEND;TZID=Europe/Paris:20230524T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/293284178/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2932841
@@ -533,11 +565,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2932841
  isponibles toute la soirée pour en discuter.\n\nCommunauté: afup-bordeau
  x\n👥 43 participant(s)
 LOCATION:43 Rue d'Armagnac\, 43 Rue d'Armagnac\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/293284178/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #42 : Domaine Riche vs Domaine Anémique
-DTSTART:20230426T170000
+DTSTART;TZID=Europe/Paris:20230426T190000
+DTEND;TZID=Europe/Paris:20230426T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/292368112/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2923681
@@ -575,11 +609,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2923681
   et d'échanger autour de PHP et son écosystème.\n\nCommunauté: afup-bo
  rdeaux\n👥 18 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/292368112/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super-Apéro 2023
-DTSTART:20230316T180000
+DTSTART;TZID=Europe/Paris:20230316T190000
+DTEND;TZID=Europe/Paris:20230316T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/291960656/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2919606
@@ -594,11 +630,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2919606
  bière mais pas que ! 🍻🥤\n\nCommunauté: afup-bordeaux\n👥 29 part
  icipant(s)
 LOCATION:The Frog & Rosbif\, Bordeaux\, 23 Rue Ausone\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/291960656/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super-Apéro 2022
-DTSTART:20220623T173000
+DTSTART;TZID=Europe/Paris:20220623T193000
+DTEND;TZID=Europe/Paris:20220623T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/286552197/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2865521
@@ -615,11 +653,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2865521
  à l'apéro collaboratif !\n\nCommunauté: afup-bordeaux\n👥 14 particip
  ant(s)
 LOCATION:EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/286552197/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #39 : Quoi de neuf dans Symfony 6.1 ?
-DTSTART:20220519T173000
+DTSTART;TZID=Europe/Paris:20220519T193000
+DTEND;TZID=Europe/Paris:20220519T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/285538975/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2855389
@@ -640,11 +680,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2855389
  ux\n👥 44 participant(s)
 LOCATION:Wild Code School\, Formation Développeur Web & Data Analyst\, 17
  1 Rue Lucien Faure\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/285538975/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP (online) #37 : Pipeline Pattern
-DTSTART:20220120T180000
+DTSTART;TZID=Europe/Paris:20220120T190000
+DTEND;TZID=Europe/Paris:20220120T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/283045545/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2830455
@@ -662,11 +704,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2830455
  de visioconférence.\nPas d'apéro collaboratif pour cet événement mais 
  vous pouvez prévoir ce que vous voulez chez vous :P\n\nCommunauté: afup-
  bordeaux\n💻 Événement en ligne\n👥 47 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/283045545/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP (online) #37 : PHP Static Code Analysis 101
-DTSTART:20211104T180000
+DTSTART;TZID=Europe/Paris:20211104T190000
+DTEND;TZID=Europe/Paris:20211104T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/281446735/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2814467
@@ -685,11 +729,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2814467
  collaboratif pour cet événement mais vous pouvez prévoir ce que vous vo
  ulez chez vous :p\n\nCommunauté: afup-bordeaux\n💻 Événement en ligne
  \n👥 46 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/281446735/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP (online) #36 : Travailler avec un projet legacy
-DTSTART:20200930T163000
+DTSTART;TZID=Europe/Paris:20200930T183000
+DTEND;TZID=Europe/Paris:20200930T203000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/273572868/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2735728
@@ -701,11 +747,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2735728
  ioconférence.\nPas d'apéro collaboratif pour cet événement mais vous p
  ouvez prévoir ce que vous voulez chez vous :p\n\nCommunauté: afup-bordea
  ux\n💻 Événement en ligne\n👥 36 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/273572868/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP (online) #35 : 1 Monolithe\, N microservices
-DTSTART:20200519T160000
+DTSTART;TZID=Europe/Paris:20200519T180000
+DTEND;TZID=Europe/Paris:20200519T200000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/270601172/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2706011
@@ -731,12 +779,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2706011
  et événement mais vous pouvez prévoir ce que vous voulez chez vous :p\n
  \nCommunauté: afup-bordeaux\n💻 Événement en ligne\n👥 40 participa
  nt(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/270601172/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #34 : Concevoir des applications PHP résilientes en 20
  20
-DTSTART:20200219T183000
+DTSTART;TZID=Europe/Paris:20200219T193000
+DTEND;TZID=Europe/Paris:20200219T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/268376150/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2683761
@@ -758,12 +808,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2683761
  petit quelque chose à manger ou à boire !\n\nCommunauté: afup-bordeaux\
  n👥 49 participant(s)\nLimité à 60 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/268376150/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #33: Playlist preprogramming\, from (almost) nothing to
   something cool
-DTSTART:20200130T183000
+DTSTART;TZID=Europe/Paris:20200130T193000
+DTEND;TZID=Europe/Paris:20200130T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/267694409/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2676944
@@ -776,11 +828,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2676944
  up se terminera par un apéro offert par Deezer !\n\nCommunauté: afup-bor
  deaux\n👥 46 participant(s)\nLimité à 60 places
 LOCATION:Deezer Bordeaux\, 20 Rue Saint-François\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/267694409/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #32 : Apéro Quizz -> PHP 7.4
-DTSTART:20191217T183000
+DTSTART;TZID=Europe/Paris:20191217T193000
+DTEND;TZID=Europe/Paris:20191217T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/266824505/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2668245
@@ -795,11 +849,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2668245
  se à manger ou à boire !\n\nCommunauté: afup-bordeaux\n👥 29 particip
  ant(s)\nLimité à 40 places
 LOCATION:EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/266824505/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #31 : De la performance\, même avec Doctrine !
-DTSTART:20191128T183000
+DTSTART;TZID=Europe/Paris:20191128T193000
+DTEND;TZID=Europe/Paris:20191128T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/266311873/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2663118
@@ -821,11 +877,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2663118
  à amener un petit quelque chose à manger ou à boire !\n\nCommunauté: a
  fup-bordeaux\n👥 51 participant(s)\nLimité à 60 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/266311873/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #30 : L'e-commerce sans accroc avec Sylius
-DTSTART:20190926T173000
+DTSTART;TZID=Europe/Paris:20190926T193000
+DTEND;TZID=Europe/Paris:20190926T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/264307234/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2643072
@@ -845,11 +903,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2643072
  mité à 40 places
 LOCATION:Synolia\, agence conseil\, e-commerce\, CRM\, PIM et Business Int
  elligence\, 23 Quai de Paludate\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/264307234/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #29 : Deep dive into the Symfony Debug component
-DTSTART:20190626T173000
+DTSTART;TZID=Europe/Paris:20190626T193000
+DTEND;TZID=Europe/Paris:20190626T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/261859060/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2618590
@@ -874,11 +934,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2618590
  pensez à amener un petit quelque chose à manger ou à boire !\n\nCommuna
  uté: afup-bordeaux\n👥 50 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/261859060/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #28 : Architecture extensible avec Laravel
-DTSTART:20190522T173000
+DTSTART;TZID=Europe/Paris:20190522T193000
+DTEND;TZID=Europe/Paris:20190522T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/261041713/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2610417
@@ -890,12 +952,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2610417
  PHP 7 Avancé" sera à gagner !\n\nCommunauté: afup-bordeaux\n👥 24 par
  ticipant(s)
 LOCATION:Mink\, 88 Cr de Verdun\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/261041713/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #27 : Le container d'injections de dépendances aux pet
  its oignons !
-DTSTART:20190418T173000
+DTSTART;TZID=Europe/Paris:20190418T193000
+DTEND;TZID=Europe/Paris:20190418T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/260445410/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2604454
@@ -908,11 +972,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2604454
  s :Comment le composant de Symfony est-il utilisé ?Pourquoi l'est-il ?etc
  ..\n\nCommunauté: afup-bordeaux\n👥 23 participant(s)
 LOCATION:1 Cr Xavier Arnozan\, 1 Cr Xavier Arnozan\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/260445410/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Apéro PHP 2019
-DTSTART:20190314T180000
+DTSTART;TZID=Europe/Paris:20190314T190000
+DTEND;TZID=Europe/Paris:20190314T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/259321285/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2593212
@@ -926,12 +992,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2593212
  s://afup.org/association/super-apero\n\nCommunauté: afup-bordeaux\n👥 4
  2 participant(s)
 LOCATION:The Frog & Rosbif\, Bordeaux\, 23 Rue Ausone\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/259321285/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #26 : DDD\, CQ(R)S\, Clean Architecture ... dans un fra
  mework MVC
-DTSTART:20190228T183000
+DTSTART;TZID=Europe/Paris:20190228T193000
+DTEND;TZID=Europe/Paris:20190228T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/258940449/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2589404
@@ -947,11 +1015,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2589404
  sez à amener un petit quelque chose à manger ou à boire !\n\nCommunaut
  é: afup-bordeaux\n👥 50 participant(s)\nLimité à 50 places
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/258940449/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2018 est mort\, vive 2019 ! Apéro de rentrée 
-DTSTART:20190124T180000
+DTSTART;TZID=Europe/Paris:20190124T190000
+DTEND;TZID=Europe/Paris:20190124T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/257987818/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2579878
@@ -962,12 +1032,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2579878
   n'ont pas encore sauté le pas\, d'échanger et poser leurs questions.\n\
  nCommunauté: afup-bordeaux\n👥 22 participant(s)
 LOCATION:Le Zytho\, 28 Rue Latour\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/257987818/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #25 : Lightning Talks: Back to the Future - Rétrospect
  ive 2018
-DTSTART:20181129T183000
+DTSTART;TZID=Europe/Paris:20181129T193000
+DTEND;TZID=Europe/Paris:20181129T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/256158020/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2561580
@@ -985,11 +1057,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2561580
  sponsor Externatic : https://www.externatic.fr/\n\nCommunauté: afup-borde
  aux\n👥 33 participant(s)\nLimité à 60 places
 LOCATION:MOTA COWORKING\, 13 rue de la manutention\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/256158020/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP #24 : contribuer à des projets opensource
-DTSTART:20181030T183000
+DTSTART;TZID=Europe/Paris:20181030T193000
+DTEND;TZID=Europe/Paris:20181030T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/255739189/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2557391
@@ -1015,11 +1089,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2557391
  etit quelque chose à manger ou à boire !\n\nCommunauté: afup-bordeaux\n
  👥 29 participant(s)\nLimité à 50 places
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/255739189/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Defensive programming
-DTSTART:20180925T173000
+DTSTART;TZID=Europe/Paris:20180925T193000
+DTEND;TZID=Europe/Paris:20180925T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/254348414/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2543484
@@ -1038,12 +1114,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2543484
  uelque chose à manger ou à boire !\n\nCommunauté: afup-bordeaux\n👥 3
  8 participant(s)\nLimité à 60 places
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/254348414/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:API\, REST ou GraphQL ? Par Kevin Dunglas. Elections des représen
  tants
-DTSTART:20180629T173000
+DTSTART;TZID=Europe/Paris:20180629T193000
+DTEND;TZID=Europe/Paris:20180629T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/251523532/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2515235
@@ -1078,12 +1156,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2515235
  fert par notre sponsor Ekino ! http://www.ekino.com/\n\nCommunauté: afup-
  bordeaux\n👥 55 participant(s)
 LOCATION:Node\, 12 rue des faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/251523532/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:meetup php #21 : CQRS\, FONCTIONNEL\, EVENT SOURCING & DOMAIN DRIV
  EN DESIGN
-DTSTART:20180606T170000
+DTSTART;TZID=Europe/Paris:20180606T190000
+DTEND;TZID=Europe/Paris:20180606T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/250837322/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2508373
@@ -1111,12 +1191,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2508373
  ez à amener un petit quelque chose à manger ou à boire !\n\nCommunauté
  : afup-bordeaux\n👥 41 participant(s)\nLimité à 60 places
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/250837322/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP meetup #20 : Des projets de qualité avec l'intégration conti
  nue ! 
-DTSTART:20180426T170000
+DTSTART;TZID=Europe/Paris:20180426T190000
+DTEND;TZID=Europe/Paris:20180426T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/249219313/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2492193
@@ -1134,11 +1216,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2492193
  s offre les consommations.\n\nCommunauté: afup-bordeaux\n👥 60 particip
  ant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/249219313/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super Apéro AFUP
-DTSTART:20180308T174500
+DTSTART;TZID=Europe/Paris:20180308T184500
+DTEND;TZID=Europe/Paris:20180308T204500
 UID:https://www.meetup.com/bordeaux-php-meetup/events/248368183/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2483681
@@ -1149,11 +1233,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2483681
  une ambiance détendue\, et participation au Quizz inter-antenne !\n\nComm
  unauté: afup-bordeaux\n👥 13 participant(s)\nLimité à 30 places
 LOCATION:Casey's Pub\, 14 Rue Castelnau D'auros\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/248368183/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP meetup #19 - Recruter vos developpeurs
-DTSTART:20180227T180000
+DTSTART;TZID=Europe/Paris:20180227T190000
+DTEND;TZID=Europe/Paris:20180227T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/247423312/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2474233
@@ -1166,11 +1252,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2474233
  ur qui peut se mettre à la place du candidat\, et ça change tout."\n\nCo
  mmunauté: afup-bordeaux\n👥 35 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/247423312/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SfPot Afup/Afsy du 12 Janvier 2017 avec Nicolas Grekas
-DTSTART:20180112T180000
+DTSTART;TZID=Europe/Paris:20180112T190000
+DTEND;TZID=Europe/Paris:20180112T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/246405038/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2464050
@@ -1193,11 +1281,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2464050
  as avoir lieu. On terminera par un apéro dans un bar proche du Meetup !\n
  \nCommunauté: afup-bordeaux\n👥 15 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/246405038/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #18: SOAP vs REST\, on en parle ?
-DTSTART:20171219T181500
+DTSTART;TZID=Europe/Paris:20171219T191500
+DTEND;TZID=Europe/Paris:20171219T211500
 UID:https://www.meetup.com/bordeaux-php-meetup/events/245559102/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2455591
@@ -1217,11 +1307,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2455591
  enez un petit quelques choses à boire ou à manger pour féter les vacanc
  es !\n\nCommunauté: afup-bordeaux\n👥 18 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/245559102/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #17: Tester son application PHP
-DTSTART:20171121T181500
+DTSTART;TZID=Europe/Paris:20171121T191500
+DTEND;TZID=Europe/Paris:20171121T211500
 UID:https://www.meetup.com/bordeaux-php-meetup/events/245072350/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2450723
@@ -1246,11 +1338,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2450723
  chose à boire et/ou grignoter !\n\nCommunauté: afup-bordeaux\n👥 32 pa
  rticipant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/245072350/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #16:  Architecture REST & API RESTful
-DTSTART:20170928T170000
+DTSTART;TZID=Europe/Paris:20170928T190000
+DTEND;TZID=Europe/Paris:20170928T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/243354825/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2433548
@@ -1266,11 +1360,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2433548
  aboratif - pensez à ramener un petit quelque chose à boire ou grignoter 
  !\n\nCommunauté: afup-bordeaux\n👥 26 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/243354825/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #15 : Le passé doit mourir\; migrer vers PHP 7.2
-DTSTART:20170809T170000
+DTSTART;TZID=Europe/Paris:20170809T190000
+DTEND;TZID=Europe/Paris:20170809T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/241998031/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2419980
@@ -1297,12 +1393,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2419980
  子头 et du camembert.\n\nCommunauté: afup-bordeaux\n👥 31 participan
  t(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/241998031/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #14 : Mieux comprendre les PHP Standards Recommandation
  s (PSR)
-DTSTART:20170620T171500
+DTSTART;TZID=Europe/Paris:20170620T191500
+DTEND;TZID=Europe/Paris:20170620T211500
 UID:https://www.meetup.com/bordeaux-php-meetup/events/240387941/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2403879
@@ -1320,11 +1418,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2403879
  habitude par un apéro collaboratif !\n\nCommunauté: afup-bordeaux\n👥 
  21 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/240387941/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup hors-série : CQRS\, FP\, ES et DDD (Okiwi)
-DTSTART:20170523T164500
+DTSTART;TZID=Europe/Paris:20170523T184500
+DTEND;TZID=Europe/Paris:20170523T204500
 UID:https://www.meetup.com/bordeaux-php-meetup/events/239873606/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2398736
@@ -1340,11 +1440,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2398736
  s :) \nTrès bonne journée à tous\,\n\nCommunauté: afup-bordeaux\n👥
   9 participant(s)\nLimité à 10 places
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/239873606/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #13: analyse statique de code
-DTSTART:20170418T170000
+DTSTART;TZID=Europe/Paris:20170418T190000
+DTEND;TZID=Europe/Paris:20170418T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/239125374/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2391253
@@ -1363,11 +1465,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2391253
  t(s)
 LOCATION:Wild Code School Bordeaux\, 15\, Place Canteloup\, Bordeaux\, Fra
  nce
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/239125374/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #12: sécurité web
-DTSTART:20170328T170000
+DTSTART;TZID=Europe/Paris:20170328T190000
+DTEND;TZID=Europe/Paris:20170328T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/238404985/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2384049
@@ -1387,11 +1491,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2384049
  bablement au prochain meetup.\n\nCommunauté: afup-bordeaux\n👥 17 parti
  cipant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/238404985/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Super-Apéro au Frog and Rosbif
-DTSTART:20170309T180000
+DTSTART;TZID=Europe/Paris:20170309T190000
+DTEND;TZID=Europe/Paris:20170309T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/237877972/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2378779
@@ -1412,11 +1518,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2378779
  ordeaux/\nExcellente soirée\,\n\nCommunauté: afup-bordeaux\n👥 15 part
  icipant(s)\nLimité à 25 places
 LOCATION:Frog and Rosbif\, 23 Rue Ausone\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/237877972/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #11 : Développement d'applications CLI en PHP
-DTSTART:20160620T170000
+DTSTART;TZID=Europe/Paris:20160620T190000
+DTEND;TZID=Europe/Paris:20160620T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/231557035/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2315570
@@ -1436,11 +1544,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2315570
  er de quoi boire ou grignoter :)\nA très bientôt !\n\nCommunauté: afup-
  bordeaux\n👥 11 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/231557035/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #10 : Haxe pour les développeurs web
-DTSTART:20160203T173000
+DTSTART;TZID=Europe/Paris:20160203T183000
+DTEND;TZID=Europe/Paris:20160203T203000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/227986634/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2279866
@@ -1455,12 +1565,14 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2279866
  - Exemple de Cagette.net\, web app open-source en Haxe\n\nCommunauté: afu
  p-bordeaux\n👥 17 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/227986634/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #9 : Rétrospective d’une mutation technique d’un p
  rojet digital
-DTSTART:20151126T180000
+DTSTART;TZID=Europe/Paris:20151126T190000
+DTEND;TZID=Europe/Paris:20151126T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/226237783/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2262377
@@ -1474,11 +1586,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2262377
  teille et / ou un morceau à grignoter !\n\nCommunauté: afup-bordeaux\n
  👥 11 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/226237783/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #8: Typo3 & PHP: Trollons peu mais trollons bien
-DTSTART:20151014T170000
+DTSTART;TZID=Europe/Paris:20151014T190000
+DTEND;TZID=Europe/Paris:20151014T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/225890851/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2258908
@@ -1506,11 +1620,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2258908
  ersonne ne répond quand vous sonnez à l'interphone\, vous pouvez appeler
   Arnaud : [masked]\n\nCommunauté: afup-bordeaux\n👥 8 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/225890851/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lightning talk : Les design patterns
-DTSTART:20150915T170000
+DTSTART;TZID=Europe/Paris:20150915T190000
+DTEND;TZID=Europe/Paris:20150915T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/224737500/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2247375
@@ -1522,11 +1638,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2247375
  un apéro collaboratif. Pensez à amener un petit quelque chose à boire o
  u à grignoter !\n\nCommunauté: afup-bordeaux\n👥 19 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/224737500/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #6: REST in peace
-DTSTART:20150731T170000
+DTSTART;TZID=Europe/Paris:20150731T190000
+DTEND;TZID=Europe/Paris:20150731T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/223574747/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2235747
@@ -1540,11 +1658,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2235747
  . Pensez à amener un petit quelque chose à boire ou à grignoter !\n\nCo
  mmunauté: afup-bordeaux\n👥 22 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/223574747/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHP Meetup #5: Introduction à la programmation fonctionnelle
-DTSTART:20150624T170000
+DTSTART;TZID=Europe/Paris:20150624T190000
+DTEND;TZID=Europe/Paris:20150624T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/222955952/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2229559
@@ -1564,11 +1684,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2229559
  amener un petit quelque chose à boire ou grignoter :)\n\nCommunauté: afu
  p-bordeaux\n👥 28 participant(s)
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/222955952/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHPMeetup #4 : STUPID vs SOLID 
-DTSTART:20150526T170000
+DTSTART;TZID=Europe/Paris:20150526T190000
+DTEND;TZID=Europe/Paris:20150526T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/222318186/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2223181
@@ -1580,11 +1702,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2223181
  TUPID ?\nComme toujours\, la présentation sera suivie/accompagnée d'un a
  péro collaboratif.\n\nCommunauté: afup-bordeaux\n👥 29 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/222318186/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lightning talks
-DTSTART:20150422T170000
+DTSTART;TZID=Europe/Paris:20150422T190000
+DTEND;TZID=Europe/Paris:20150422T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/221574381/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2215743
@@ -1603,11 +1727,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2215743
  /edit?usp=sharing\nA vos suggestions !\n\nCommunauté: afup-bordeaux\n👥
   12 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/221574381/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scalability & High performance of legacy php application
-DTSTART:20150121T173000
+DTSTART;TZID=Europe/Paris:20150121T183000
+DTEND;TZID=Europe/Paris:20150121T203000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/219713593/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2197135
@@ -1622,11 +1748,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2197135
  llaboratif.\n\nCommunauté: afup-bordeaux\n👥 8 participant(s)\nLimité 
  à 30 places
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/219713593/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup PHP: Retour sur le Forum PHP / Domain Driven Design
-DTSTART:20141211T173000
+DTSTART;TZID=Europe/Paris:20141211T183000
+DTEND;TZID=Europe/Paris:20141211T203000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/218821208/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2188212
@@ -1639,6 +1767,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2188212
  nt amener un petit quelque chose à manger ou à boire.\n\nCommunauté: af
  up-bordeaux\n👥 13 participant(s)\nLimité à 30 places
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/218821208/
 END:VEVENT
 END:VCALENDAR

@@ -3,9 +3,11 @@ VERSION:2.0
 PRODID:-//Événements apero-web//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté apero-web
 X-WR-CALNAME:Événements apero-web
+X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:🍷🍻 L'Apéro Web Bordeaux
-DTSTART:20250305T180000
+DTSTART;TZID=Europe/Paris:20250305T190000
+DTEND;TZID=Europe/Paris:20250305T210000
 UID:https://www.meetup.com/apero-web-bordeaux/events/306321282/@community-
  events
 DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30632128
@@ -23,11 +25,13 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30632128
   dans le web\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web\n👥 19
   participant(s)
 LOCATION:Bordeaux\, Bordeaux\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/306321282/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🍷🍻 L'Apéro Web Bordeaux\, la dernière (ou pas) !
-DTSTART:20241127T180000
+DTSTART;TZID=Europe/Paris:20241127T190000
+DTEND;TZID=Europe/Paris:20241127T210000
 UID:https://www.meetup.com/apero-web-bordeaux/events/304412420/@community-
  events
 DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30441242
@@ -49,11 +53,13 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30441242
  eb\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web\n👥 65 participa
  nt(s)
 LOCATION:Wash Bar\, 39 Rue Ausone\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/304412420/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Apéro Web #2
-DTSTART:20240924T170000
+DTSTART;TZID=Europe/Paris:20240924T190000
+DTEND;TZID=Europe/Paris:20240924T210000
 UID:https://www.meetup.com/apero-web-bordeaux/events/303251987/@community-
  events
 DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30325198
@@ -74,11 +80,13 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30325198
  ans le web\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web\n👥 45 p
  articipant(s)
 LOCATION:Radisson Blu\, 63 Rue Lucien Faure Dock G6\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/303251987/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🆕 L'Apéro Web débarque à Bordeaux ! 🥳
-DTSTART:20240703T170000
+DTSTART;TZID=Europe/Paris:20240703T190000
+DTEND;TZID=Europe/Paris:20240703T210000
 UID:https://www.meetup.com/apero-web-bordeaux/events/301716042/@community-
  events
 DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30171604
@@ -100,6 +108,7 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30171604
  vos connaissances !\n**On compte sur vous ! 🤩**\n\nCommunauté: apero-w
  eb\n👥 67 participant(s)
 LOCATION:Gargalou Bordeaux\, 118 Quai de Bacalan\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/301716042/
 END:VEVENT
 END:VCALENDAR

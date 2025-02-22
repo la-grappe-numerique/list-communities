@@ -3,9 +3,11 @@ VERSION:2.0
 PRODID:-//Événements archilocus//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté archilocus
 X-WR-CALNAME:Événements archilocus
+X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Archilocus #13 Infrastructure
-DTSTART:20240530T160000
+DTSTART;TZID=Europe/Paris:20240530T180000
+DTEND;TZID=Europe/Paris:20240530T200000
 UID:https://www.meetup.com/archilocus/events/300879794/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/300879794/\n📍
   17 Quai Louis XVIII\, 17 Quai Louis XVIII\, Bordeaux\, France\n\n📺 Dif
@@ -20,11 +22,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/300879794/\n📍
  ** *CTO chez CyberVadis*\n\nCommunauté: archilocus\n👥 30 participant(s
  )
 LOCATION:17 Quai Louis XVIII\, 17 Quai Louis XVIII\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/300879794/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BOF Archilocus à Devoxx France (présentiel Paris)
-DTSTART:20240418T180000
+DTSTART;TZID=Europe/Paris:20240418T200000
+DTEND;TZID=Europe/Paris:20240418T220000
 UID:https://www.meetup.com/archilocus/events/300304641/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/300304641/\n📍
   Le Palais des Congrès de Paris\, 2 Pl. de la Prte Maillot\, Paris\, Fran
@@ -41,11 +45,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/300304641/\n📍
  👥 5 participant(s)
 LOCATION:Le Palais des Congrès de Paris\, 2 Pl. de la Prte Maillot\, Pari
  s\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/300304641/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Archilocus #12 DDD
-DTSTART:20240314T170000
+DTSTART;TZID=Europe/Paris:20240314T180000
+DTEND;TZID=Europe/Paris:20240314T200000
 UID:https://www.meetup.com/archilocus/events/299358241/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/299358241/\n\nBa
  nalisation du DDD ou pas ?Bruno Boucard*Trainer\, coach agile et speaker*\
@@ -54,11 +60,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/299358241/\n\nBa
  cate\, Architect\, FOSS expert\, Yoga Teacher*\nTable ronde*Les anti-patte
  rns d'une approche DDD - ReX around the table*\n\nCommunauté: archilocus\
  n💻 Événement en ligne\n👥 53 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/299358241/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Archilocus Chez CtrlUp
-DTSTART:20231207T170000
+DTSTART;TZID=Europe/Paris:20231207T180000
+DTEND;TZID=Europe/Paris:20231207T200000
 UID:https://www.meetup.com/archilocus/events/297556058/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/297556058/\n📍
   87 Quai des Queyries\, 87 Quai des Queyries\, Bordeaux\, France\n\n📺 D
@@ -73,11 +81,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/297556058/\n📍
  rchitecte Entreprise* chez *Peaksys*\\- Cyril Beslay *Solution Architect* 
  chez *ManoMano*\n\nCommunauté: archilocus\n👥 28 participant(s)
 LOCATION:87 Quai des Queyries\, 87 Quai des Queyries\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/297556058/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Archilocus Session #10 - API
-DTSTART:20231012T160000
+DTSTART;TZID=Europe/Paris:20231012T180000
+DTEND;TZID=Europe/Paris:20231012T200000
 UID:https://www.meetup.com/archilocus/events/296530263/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/296530263/\n\n18
  :00 - 18:05Accueil et Introduction\n18:05 - 18:45**Design First : Boostez 
@@ -96,11 +106,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/296530263/\n\n18
  sur les API ?**Laurent Brisse*Enterprise Architecter Leader*Philippe Bousq
  uet*Architecte - Directeur Technique Java*\n20:10 - 20:15Conclusion\n\nCom
  munauté: archilocus\n💻 Événement en ligne\n👥 40 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/296530263/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L'Architecture d'Entreprise dans le Nord et le Sud-Ouest
-DTSTART:20230601T160000
+DTSTART;TZID=Europe/Paris:20230601T180000
+DTEND;TZID=Europe/Paris:20230601T200000
 UID:https://www.meetup.com/archilocus/events/293545147/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/293545147/\n📍
   Ippon Technologies Bordeaux\, 44 All. de Tourny\, Bordeaux\, France\n\nS
@@ -115,11 +127,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/293545147/\n📍
  ilocus\n👥 38 participant(s)
 LOCATION:Ippon Technologies Bordeaux\, 44 All. de Tourny\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/293545147/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Archilocus Session #8
-DTSTART:20230330T150000
+DTSTART;TZID=Europe/Paris:20230330T170000
+DTEND;TZID=Europe/Paris:20230330T190000
 UID:https://www.meetup.com/archilocus/events/291473012/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/291473012/\n\n17
  :00 - 17:10Accueil et Introduction\n17:10 - 17:50**La Clean Archigonale**C
@@ -145,21 +159,25 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/291473012/\n\n17
  r*Dorine Periolat*Architecte SI*Simon Bachelet*Leader Success of Stores Di
  gitalization*\n19:10 - 19:15Conclusion\n\nCommunauté: archilocus\n💻 É
  vénement en ligne\n👥 63 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/291473012/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Archilocus - Session 7
-DTSTART:20230119T164500
+DTSTART;TZID=Europe/Paris:20230119T174500
+DTEND;TZID=Europe/Paris:20230119T194500
 UID:https://www.meetup.com/archilocus/events/290155119/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/290155119/\n\nEn
   live et en présentiel dans les locaux de Zenika Bordeaux (17 Quai Louis 
  XVIII\, 33000 Bordeaux).\n\nCommunauté: archilocus\n👥 28 participant(s
  )
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/290155119/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L'automne chez Archilocus
-DTSTART:20221027T153000
+DTSTART;TZID=Europe/Paris:20221027T173000
+DTEND;TZID=Europe/Paris:20221027T193000
 UID:https://www.meetup.com/archilocus/events/288769670/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/288769670/\n\n**
  Gouvernance des données dans un écosystème de micro-services**par Meidi
@@ -168,11 +186,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/288769670/\n\n**
  r BERTHIAUX - *Architecte solutions chez IpponTechnology*\n[https://www.ar
  chilocus.tech/#agenda](https://www.archilocus.tech/#agenda)\n\nCommunauté
  : archilocus\n💻 Événement en ligne\n👥 33 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/288769670/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Un an d'Archilocus
-DTSTART:20220623T163000
+DTSTART;TZID=Europe/Paris:20220623T183000
+DTEND;TZID=Europe/Paris:20220623T203000
 UID:https://www.meetup.com/archilocus/events/286388725/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/286388725/\n📍
   Halle Boca\, 208 Quai de Paludate\, Bordeaux\, France\n\nPour les un an d
@@ -180,11 +200,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/286388725/\n📍
  un verre (ou plus) et manger un bout.\n\nCommunauté: archilocus\n👥 9 p
  articipant(s)
 LOCATION:Halle Boca\, 208 Quai de Paludate\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/286388725/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le printemps d'Archilocus
-DTSTART:20220519T150000
+DTSTART;TZID=Europe/Paris:20220519T170000
+DTEND;TZID=Europe/Paris:20220519T190000
 UID:https://www.meetup.com/archilocus/events/285247943/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/285247943/\n\nEn
   ligne\, 2 talks:\n* Secure GraphQL APIs with TypeScript par **Pierre MARC
@@ -195,11 +217,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/285247943/\n\nEn
  tps://www.archilocus.tech/#agenda) détaillé est disponible sur le site [
  www.archilocus.tech](https://www.archilocus.tech)\n\nCommunauté: archiloc
  us\n💻 Événement en ligne\n👥 45 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/285247943/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Archilocus online
-DTSTART:20220310T153000
+DTSTART;TZID=Europe/Paris:20220310T163000
+DTEND;TZID=Europe/Paris:20220310T183000
 UID:https://www.meetup.com/archilocus/events/283686786/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/283686786/\n\nAp
  rès une session en physique à Bordeaux\, nous reprenons le format en lig
@@ -209,11 +233,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/283686786/\n\nAp
  ain COMBRAQUE terminera avec "**Du cache pour vos applications : oui et sa
  ns Varnish**"\n\nCommunauté: archilocus\n💻 Événement en ligne\n👥 
  65 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/283686786/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Archilocus #3 en vrai (et online)
-DTSTART:20211202T160000
+DTSTART;TZID=Europe/Paris:20211202T170000
+DTEND;TZID=Europe/Paris:20211202T190000
 UID:https://www.meetup.com/archilocus/events/280992564/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/280992564/\n📍
   44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France\n\nNotre 3ème 
@@ -222,11 +248,13 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/280992564/\n📍
  ées\, on continuera sur des discussions autour d'un verre de l'amitié\n\
  nCommunauté: archilocus\n👥 41 participant(s)
 LOCATION:44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/280992564/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Session #2
-DTSTART:20210923T140000
+DTSTART;TZID=Europe/Paris:20210923T160000
+DTEND;TZID=Europe/Paris:20210923T180000
 UID:https://www.meetup.com/archilocus/events/279048057/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/279048057/\n\n3 
  présentations :* Création d'audience/segmentation combinant des données
@@ -237,17 +265,20 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/279048057/\n\n3
  e ronde sur SLI / SLO / SLA avec BlaBlaCar\, ManoMano et vous\, si vous le
   souhaitez (appel en début de meetup) !\n\nCommunauté: archilocus\n💻 
  Événement en ligne\n👥 85 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/279048057/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Archilocus MVP
-DTSTART:20210624T120000
+DTSTART;TZID=Europe/Paris:20210624T140000
+DTEND;TZID=Europe/Paris:20210624T160000
 UID:https://www.meetup.com/archilocus/events/278556971/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/278556971/\n\nNo
  tre MVP « Archilocus : la place des architectes IT » le jeudi 24 juin (4
   sessions « live » et une table ronde).Avec des interlocuteurs de Manoma
  no\, Cdiscount\, La Redoute et Blablacar.\n\nCommunauté: archilocus\n💻
   Événement en ligne\n👥 345 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/278556971/
 END:VEVENT
 END:VCALENDAR
