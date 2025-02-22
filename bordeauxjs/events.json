@@ -3,7 +3,7 @@
     "title": "La gestion d'erreurs en Javascript",
     "date": "2025-02-26T18:00:00",
     "url": "https://www.meetup.com/bordeauxjs/events/306025718/",
-    "description": "“Peut-être a-t-on besoin d’erreurs pour se sentir humain” a dit l’architecte Frank Gehry. Si nous ne tenterons pas de répondre à cette vaste question, l’architecture logicielle a elle besoin de gérer nos erreurs… Comment prendre en compte l’imprévu en gardant un code testable, typé et expressif ? En partant d’exemples concrets, je vous propose de passer en revue plusieurs patterns, de l’impératif au fonctionnel, et examiner leurs trade-offs pour en tirer le meilleur.\nUn immense merci à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil ! 🍾",
+    "description": "“Peut-être a-t-on besoin d’erreurs pour se sentir humain” a dit l’architecte Frank Gehry. Si nous ne tenterons pas de répondre à cette vaste question, l’architecture logicielle a elle besoin de gérer nos erreurs… Comment prendre en compte l’imprévu en gardant un code testable, typé et expressif ? En partant d’exemples concrets, je vous propose de passer en revue plusieurs patterns, de l’impératif au fonctionnel, et examiner leurs trade-offs pour en tirer le meilleur.\nMerci à [Guiild](https://www.guiild.fr/) qui nous propose un apéritif pour clore le meetup.Un immense merci à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil ! 🍾",
     "community": "bordeauxjs",
     "is_online": false,
     "venue": {
@@ -13,7 +13,7 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 33
+    "rsvp_count": 37
   },
   {
     "title": "Cap sur le Web : Les Navigateurs, Explorateurs du Numérique",

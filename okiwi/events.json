@@ -176,6 +176,23 @@
     "rsvp_limit": 15
   },
   {
+    "title": "Open Okiwi #3",
+    "date": "2025-04-04T07:00:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/306324474/",
+    "description": "Un [forum ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) organisé par Okiwi. Attendez-vous à l'inattendu.\nUn forum ouvert est une \"non-conférence\" où les participants apportent les sujets dont ils souhaitent parler, le planning est créé en début de journée tous ensemble, puis chacun suit ses envies et participe aux sessions qui l'intéresse (plusieurs salles sont disponibles et permettent plusieurs discussions simultanées).\nLe petit déjeuner et le repas du midi sont offerts par Okiwi.\n**Attention : l'inscription est limitée à 30 personnes et l'évènement est en présentiel**, si vous êtes inscrit vous vous engagez à venir, vérifiez votre disponibilité pour la journée 😄",
+    "community": "okiwi",
+    "is_online": false,
+    "venue": {
+      "name": "44 All. de Tourny",
+      "address": "44 All. de Tourny",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "44 All. de Tourny, Bordeaux",
+    "rsvp_limit": 33,
+    "rsvp_count": 10
+  },
+  {
     "title": "Coding dojo",
     "date": "2025-03-03T17:30:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcfbfb/",
