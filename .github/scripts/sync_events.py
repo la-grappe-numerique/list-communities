@@ -6,6 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
 from typing import List, Optional, Dict
+import pytz
 
 @dataclass
 class EventVenue:
@@ -28,27 +29,12 @@ class Event:
     rsvp_count: Optional[int] = None
     is_online: bool = False
 
-class EventSourceParser:
-    """Handles parsing of event source configuration files"""
-    
-    @staticmethod
-    def parse_source_file(file_path: Path, community_name: str) -> Optional[Dict]:
-        """Parse a community's events_src.json file"""
-        try:
-            with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                return {
-                    'type': data.get('type'),
-                    'url': data.get('url'),
-                    'community': community_name,
-                    'status': data.get('status', ['upcoming'])
-                }
-        except Exception as e:
-            print(f"Error parsing source file {file_path}: {e}")
-            return None
-
 class MeetupAPIReader:
     """Handles reading events from the Meetup API"""
+    
+    def __init__(self):
+        # Timezone for France, used if no specific timezone is provided
+        self.default_timezone = pytz.timezone('Europe/Paris')
     
     @staticmethod
     def extract_meetup_name_from_url(url: str) -> str:
@@ -63,6 +49,42 @@ class MeetupAPIReader:
             br.replace_with('\n' + br.text + '\n')
         text = soup.get_text()
         return re.sub(r'\n\s*\n', '\n', text).strip()
+
+    def get_event_timezone(self, event_data: Dict) -> pytz.timezone:
+        """
+        Extract timezone from event data.
+        Falls back to Europe/Paris if no timezone is found or if it's invalid.
+        """
+        try:
+            # Get timezone from event data
+            if 'group' in event_data and 'timezone' in event_data['group']:
+                return pytz.timezone(event_data['group']['timezone'])
+            # Try venue timezone
+            elif 'venue' in event_data and 'timezone' in event_data['venue']:
+                return pytz.timezone(event_data['venue']['timezone'])
+        except pytz.exceptions.UnknownTimeZoneError:
+            pass
+        
+        # Default to French timezone if no valid timezone found
+        return self.default_timezone
+
+    def parse_event_time(self, event_data: Dict) -> datetime:
+        """
+        Parse event time with proper timezone handling.
+        Returns datetime in the event's local timezone.
+        """
+        event_tz = self.get_event_timezone(event_data)
+        
+        # Convert milliseconds timestamp to seconds
+        timestamp = event_data['time'] / 1000
+        
+        # Create UTC time first
+        utc_time = datetime.fromtimestamp(timestamp, pytz.UTC)
+        
+        # Convert to event's timezone
+        local_time = utc_time.astimezone(event_tz)
+        
+        return local_time
 
     def get_events(self, url: str, community: str, status: List[str]) -> List[Event]:
         """Fetch events from Meetup API for a given community"""
@@ -89,7 +111,8 @@ class MeetupAPIReader:
                             country=v.get('localized_country_name', '')
                         )
                     
-                    event_time = datetime.fromtimestamp(event_data['time'] / 1000)
+                    # Get event time in its local timezone
+                    event_time = self.parse_event_time(event_data)
                     
                     event = Event(
                         title=event_data['name'],
@@ -103,6 +126,13 @@ class MeetupAPIReader:
                         is_online=event_data.get('is_online_event', False)
                     )
                     all_events.append(event)
+                    
+                    # Debug log
+                    print(f"Event: {event.title}")
+                    print(f"Original timestamp: {event_data['time']}")
+                    print(f"Parsed time: {event_time}")
+                    print(f"Timezone: {event_time.tzinfo}")
+                    print("---")
                     
             except Exception as e:
                 print(f"Error fetching API data for {group_name} with status {event_status}: {e}")
