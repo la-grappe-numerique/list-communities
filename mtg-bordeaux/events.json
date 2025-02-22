@@ -1,7 +1,7 @@
 [
   {
     "title": "Meetup MTG:Bordeaux #5",
-    "date": "2025-02-06T17:30:00",
+    "date": "2025-02-06T18:30:00+01:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/305136888/",
     "description": "Ce 1er meetup de 2025 pour le MTG:Bordeaux se déroulera dans les locaux de SFEIR le jeudi 06 Février 2025 :\n[5 Rue de Condé, 33000 Bordeaux](https://maps.app.goo.gl/B9aekRZbo7x4qEha7)\nVoici le programme de la soirée :\n* 18h00 - 18h30 => Accueil* 18H30 - 18H40 => Introduction* 18H40 - 19h25 => \"Notre premier déploiement sur Azure China ?\"par Jean Villette & Vincenzo Scalzi* 19h25 - 20h10 => \"Automatisation du Release Management\" par Tristan Isambart* 20h10 => Moment convivial",
     "community": "mtg-bordeaux",
@@ -18,7 +18,7 @@
   },
   {
     "title": "Meetup MTG:Bordeaux #4",
-    "date": "2024-10-03T16:30:00",
+    "date": "2024-10-03T18:30:00+02:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/302549137/",
     "description": "Ce 4ème meetup du MTG:Bordeaux se déroulera dans les locaux de Betclic, le 03 Octobre 2024 :\n117 Quai de Bacalan, 33300 Bordeauxhttps://maps.app.goo.gl/Qe4aDPaSXuc4Jemc8\nVoici le programme de la soirée :\n* 18h00 - 18h30 => Accueil* 18H30 - 18H45 => Introduction* 18H45 - 19h30 => Pourquoi privilégierons nous les services managés chez Betclic ? par Guillaume LANNEBERE* 19h30 - 20h00 => .NET MAUI : un framework (mobile) pour les dominer tous ? par Julien DAUGARON et Stéphane LOUGE* 20h => Moment convivial\n**Note importante : les personnes qui ne se seront pas inscrites en amont ne pourront pas rentrer dans le batiment**",
     "community": "mtg-bordeaux",
@@ -34,7 +34,7 @@
   },
   {
     "title": "Meetup MTG:Bordeaux #3",
-    "date": "2024-06-11T16:30:00",
+    "date": "2024-06-11T18:30:00+02:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/300232411/",
     "description": "Ce 3ème meetup du MTG:Bordeaux se déroulera au Microsoft Experiences Lab Bordeaux (https://experiences.microsoft.fr/lab-experiences/?ville=bordeaux).\nNous aurons le plaisir d'accueillir Engin Diri, Customer Experience Architecte chez Pulumi.\nLe programme :\\- Pulumi ❤️ Azure: Getting Started with Modern Infrastructure as Code par Engin Diri\\- Industrialiser la configuration de ses dépôts Github avec de l'IaC par Alexandre Nédélec",
     "community": "mtg-bordeaux",
@@ -50,7 +50,7 @@
   },
   {
     "title": "Meetup MTG:Bordeaux #2",
-    "date": "2024-04-04T16:30:00",
+    "date": "2024-04-04T18:30:00+02:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/298989875/",
     "description": "Ce second Meetup du MTG:Bordeaux est hébergé et sponsorisé par Ippon Technologies (https://fr.ippon.tech/offices/agence-bordeaux).\nAu programme :\n1. \"Au delà du mythe, développez confortablement sur Windows\" par Sébastien Oddo (Ippon Technologies)2. \"Suivi de voitures connectées en temps réel\" par Thomas Gaignard, Victor Lohezic, Rebecca Pinoteau, Florian Bour (Enseirb-Matmeca)3. \"Comment économiser de l'argent et donc du Co2 dans Azure ?\" par Eddy Montus (Hello Asso)4. Temps convivial",
     "community": "mtg-bordeaux",
@@ -66,7 +66,7 @@
   },
   {
     "title": "Lancement du MTG:Bordeaux",
-    "date": "2024-02-01T17:30:00",
+    "date": "2024-02-01T18:30:00+01:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/298066350/",
     "description": "Soirée de lancement du MTG:Bordeaux co-organisée par Le Wagon Bordeaux (https://www.lewagon.com/fr/bordeaux).\nAu programme :\n1. Introduction au MTG:Bordeaux avec la participation de Julien Bichon (Microsoft)2. \"Migration de Time Series Insights Gen1 vers Azure Data Explorer\" par Thomas Rouchaud (Hager Group)3. \"Abstraire mon architecture distribuée ? Pourquoi et Comment ?\" par Vivien Maleze (Ippon Technologies)4. Temps convivial",
     "community": "mtg-bordeaux",
