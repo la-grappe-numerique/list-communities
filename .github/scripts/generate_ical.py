@@ -147,6 +147,36 @@ class ICalendarGenerator:
                 traceback.print_exc()  # Print full stack trace
                 continue
 
+        # Write community calendar
+        output_path = folder_path / 'events.ics'
+        try:
+            with open(output_path, 'wb') as f:
+                f.write(community_cal.to_ical())
+            print(f"Created calendar for {community_name}")
+        except Exception as e:
+            print(f"Error writing calendar file for {community_name}: {e}")
+
+    def generate_calendars(self, root_dir: Path):
+        """Generate iCal files for each community and a global calendar"""
+        # Create global calendar
+        global_cal = self.create_calendar(
+            "Tous les événements communautaires",
+            "Calendrier global de tous les événements communautaires"
+        )
+        
+        # Process each community folder
+        for item in root_dir.iterdir():
+            if item.is_dir() and not item.name.startswith('.'):
+                self.process_community_folder(item, global_cal)
+        
+        # Write global calendar
+        try:
+            with open(root_dir / 'events.ics', 'wb') as f:
+                f.write(global_cal.to_ical())
+            print("Created global calendar")
+        except Exception as e:
+            print(f"Error writing global calendar: {e}")
+
 def main():
     """Main script execution"""
     root_dir = Path('.')
