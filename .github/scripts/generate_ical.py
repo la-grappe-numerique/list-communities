@@ -34,7 +34,7 @@ class ICalendarGenerator:
             date = date.astimezone(self.timezone)
         return date
 
-def create_event_from_json(self, event_data: Dict) -> Event:
+    def create_event_from_json(self, event_data: Dict) -> Event:
         """Convert a JSON event entry to an iCal event"""
         event = Event()
         
@@ -146,68 +146,6 @@ def create_event_from_json(self, event_data: Dict) -> Event:
                 import traceback
                 traceback.print_exc()  # Print full stack trace
                 continue
-
-    def process_community_folder(self, folder_path: Path, global_calendar: Calendar) -> None:
-        """Process a community folder and create its calendar"""
-        events_file = folder_path / 'events.json'
-        if not events_file.exists():
-            return
-            
-        # Read events
-        try:
-            with open(events_file, 'r', encoding='utf-8') as f:
-                events_data = json.load(f)
-        except Exception as e:
-            print(f"Error reading events file {events_file}: {e}")
-            return
-            
-        # Create community calendar
-        community_name = folder_path.name
-        community_cal = self.create_calendar(
-            f"Événements {community_name}",
-            f"Calendrier des événements de la communauté {community_name}"
-        )
-        
-        # Process each event
-        for event_data in events_data:
-            try:
-                ical_event = self.create_event_from_json(event_data)
-                community_cal.add_component(ical_event)
-                global_calendar.add_component(ical_event)
-            except Exception as e:
-                print(f"Error processing event {event_data.get('title', 'Unknown')}: {e}")
-                print(f"Event data: {event_data}")  # Add debug info
-                continue
-        
-        # Write community calendar
-        output_path = folder_path / 'events.ics'
-        try:
-            with open(output_path, 'wb') as f:
-                f.write(community_cal.to_ical())
-            print(f"Created calendar for {community_name}")
-        except Exception as e:
-            print(f"Error writing calendar file for {community_name}: {e}")
-
-    def generate_calendars(self, root_dir: Path):
-        """Generate iCal files for each community and a global calendar"""
-        # Create global calendar
-        global_cal = self.create_calendar(
-            "Tous les événements communautaires",
-            "Calendrier global de tous les événements communautaires"
-        )
-        
-        # Process each community folder
-        for item in root_dir.iterdir():
-            if item.is_dir() and not item.name.startswith('.'):
-                self.process_community_folder(item, global_cal)
-        
-        # Write global calendar
-        try:
-            with open(root_dir / 'events.ics', 'wb') as f:
-                f.write(global_cal.to_ical())
-            print("Created global calendar")
-        except Exception as e:
-            print(f"Error writing global calendar: {e}")
 
 def main():
     """Main script execution"""
