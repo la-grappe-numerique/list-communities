@@ -1,3 +1,4 @@
+import pytz
 from pathlib import Path
 import json
 from datetime import datetime
@@ -11,6 +12,7 @@ class ReadmeUpdater:
     
     def __init__(self, root_dir: Path):
         self.root_dir = root_dir
+        self.timezone = pytz.timezone('Europe/Paris')
         locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
 
     def read_events(self, events_file: Path) -> List[Dict]:
@@ -24,42 +26,51 @@ class ReadmeUpdater:
 
     def format_date_for_display(self, date: datetime) -> str:
         """Format date for display in markdown with day name and month name"""
-        locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
+        # Format in French locale
         formatted = date.strftime('%A %d %B %Y à %H:%M')
         return formatted[0].upper() + formatted[1:]
 
+    def parse_date(self, date_str: str) -> datetime:
+        """Parse an ISO format date string to timezone-aware datetime"""
+        date = datetime.fromisoformat(date_str)
+        # If the date has no timezone, assume it's in French time
+        if date.tzinfo is None:
+            date = self.timezone.localize(date)
+        return date
+
     def get_future_events(self, events: List[Dict]) -> List[Dict]:
         """Filter and sort future events"""
-        now = datetime.now()
+        now = datetime.now(self.timezone)
         future_events = [
             event for event in events
-            if datetime.fromisoformat(event['date']) > now
+            if self.parse_date(event['date']) > now
         ]
-        future_events.sort(key=lambda x: x['date'])
+        future_events.sort(key=lambda x: self.parse_date(x['date']))
         return future_events
 
     def get_past_events(self, events: List[Dict]) -> List[Dict]:
         """Filter and sort past events"""
-        now = datetime.now()
+        now = datetime.now(self.timezone)
         past_events = [
             event for event in events
-            if datetime.fromisoformat(event['date']) <= now
+            if self.parse_date(event['date']) <= now
         ]
-        past_events.sort(key=lambda x: x['date'], reverse=True)
+        past_events.sort(key=lambda x: self.parse_date(x['date']), reverse=True)
         return past_events
 
     def format_event_row_community(self, event: Dict) -> str:
         """Format event for community README table"""
-        date = datetime.fromisoformat(event['date'])
+        date = self.parse_date(event['date'])
         formatted_date = self.format_date_for_display(date)
         location = event.get('location', 'Online' if event.get('is_online') else 'TBD')
         return f"| {formatted_date} | {event['title']} | {location} | {event['url']} |"
 
     def format_event_row_global(self, event: Dict) -> str:
         """Format event for global README table"""
-        date = datetime.fromisoformat(event['date'])
+        date = self.parse_date(event['date'])
         formatted_date = self.format_date_for_display(date)
         location = event.get('location', 'Online' if event.get('is_online') else 'TBD')
+        
         # Handle multiple communities
         if 'communities' in event:
             # Sort communities: primary first, then alphabetically
@@ -81,14 +92,12 @@ class ReadmeUpdater:
 
     def group_events_by_year(self, events: List[Dict]) -> Dict[int, List[Dict]]:
         """Group events by year"""
-        # Only use past events
         past_events = self.get_past_events(events)
-
         events_by_year = defaultdict(list)
         for event in past_events:
-            year = datetime.fromisoformat(event['date']).year
+            year = self.parse_date(event['date']).year
             events_by_year[year].append(event)
-
+        
         return dict(sorted(events_by_year.items(), reverse=True))
 
     def update_community_readme(self, community_dir: Path, events: List[Dict]):
