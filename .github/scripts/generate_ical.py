@@ -34,20 +34,28 @@ class ICalendarGenerator:
             date = date.astimezone(self.timezone)
         return date
 
-    def create_event_from_json(self, event_data: Dict) -> Event:
+def create_event_from_json(self, event_data: Dict) -> Event:
         """Convert a JSON event entry to an iCal event"""
         event = Event()
         
         # Required fields with timezone
         event_date = self.parse_date(event_data['date'])
         event.add('summary', event_data['title'])
-        event.add('dtstart', event_date)
         
-        # Add duration (default 2 hours if not specified)
+        # Add datetime as a vDatetime
+        from icalendar import vDatetime
+        event.add('dtstart', vDatetime(event_date))
+        
+        # Add end time (2 hours by default)
+        from datetime import timedelta
         duration = event_data.get('duration', '2:00:00')
         if isinstance(duration, str):
             hours, minutes, seconds = map(int, duration.split(':'))
-            event.add('duration', {'hours': hours, 'minutes': minutes, 'seconds': seconds})
+            end_date = event_date + timedelta(hours=hours, minutes=minutes, seconds=seconds)
+            event.add('dtend', vDatetime(end_date))
+        
+        # Add timezone information
+        event.add('tzid', 'Europe/Paris')
         
         # Add URL both as a property and in description
         event.add('url', event_data['url'])
@@ -91,13 +99,53 @@ class ICalendarGenerator:
         if 'rsvp_limit' in event_data:
             description_parts.append(f"Limité à {event_data['rsvp_limit']} places")
         
-        # Combine all description parts
-        event.add('description', '\n'.join(description_parts))
+        # Combine all description parts and ensure it's converted to string
+        description = '\n'.join(description_parts)
+        if not isinstance(description, str):
+            description = str(description)
+        event.add('description', description)
         
         # Add unique identifier
         event.add('uid', f"{event_data['url']}@community-events")
         
         return event
+
+    def process_community_folder(self, folder_path: Path, global_calendar: Calendar) -> None:
+        """Process a community folder and create its calendar"""
+        events_file = folder_path / 'events.json'
+        if not events_file.exists():
+            return
+            
+        # Read events
+        try:
+            with open(events_file, 'r', encoding='utf-8') as f:
+                events_data = json.load(f)
+                print(f"Found {len(events_data)} events in {folder_path}")  # Debug info
+        except Exception as e:
+            print(f"Error reading events file {events_file}: {e}")
+            return
+            
+        # Create community calendar
+        community_name = folder_path.name
+        community_cal = self.create_calendar(
+            f"Événements {community_name}",
+            f"Calendrier des événements de la communauté {community_name}"
+        )
+        
+        # Process each event
+        for event_data in events_data:
+            try:
+                print(f"Processing event: {event_data.get('title')}")  # Debug info
+                ical_event = self.create_event_from_json(event_data)
+                community_cal.add_component(ical_event)
+                global_calendar.add_component(ical_event)
+                print(f"Successfully processed event: {event_data.get('title')}")  # Debug info
+            except Exception as e:
+                print(f"Error processing event {event_data.get('title', 'Unknown')}: {e}")
+                print(f"Event data: {event_data}")  # Add debug info
+                import traceback
+                traceback.print_exc()  # Print full stack trace
+                continue
 
     def process_community_folder(self, folder_path: Path, global_calendar: Calendar) -> None:
         """Process a community folder and create its calendar"""
