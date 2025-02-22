@@ -4,4 +4,526 @@ PRODID:-//Événements human-talks//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté human-talks
 X-WR-CALNAME:Événements human-talks
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Human Talks Bordeaux #10 - Organisation & Leadership
+DTSTART;TZID=Europe/Paris:20250311T183000
+DTEND;TZID=Europe/Paris:20250311T203000
+UID:https://www.meetup.com/human-talks-bordeaux/events/306118686/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/306118
+ 686/\n📍 Cdiscount\, 1 Quai Armand Lalande\, Bordeaux\, France\n\nLe pro
+ chain Meetup Human Talks Bordeaux c’est le **mardi 11 mars** à partir d
+ e 18h30 ! Nous sommes ravis de vous proposer une édition spéciale Organi
+ sation avec 3 intervenants qui occupent des postes transverses et/ou de ma
+ nagers dans leurs entreprises. Au programme\, une perspective complète su
+ r les défis et opportunités du management en organisation Tech\, en mett
+ ant l'accent sur le développement personnel\, le leadership\, et la gesti
+ on des relations entre stakeholders. Cette fois-ci\, c’est Cdiscount qui
+  nous héberge dans leurs bureaux situés au **1 Quai Armand Laland** et\,
+  après les conférences\, nous irons boire un verre à la Cervoiserie. Au
+  plaisir de vous y voir !\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\
+ -\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-18h30 - Accueil\n19h - **L’engagement en entrepri
+ se - définition\, causes\, limites et dérives** par [Denis Migot](https:
+ //www.linkedin.com/in/denis-migot/)\, Chief of Staff @ [Fabriq](https://fa
+ briq.tech/)*L’engagement en entreprise est devenu un point essentiel des
+  stratégies RH mais aussi un élément récurrent de la novlangue managé
+ riale. Pourtant ce terme est mal compris\, confus et parfois confondu avec
+  des concepts voisins comme le sens ou la performance. Nous verrons dans c
+ ette présentation ce que signifie l’engagement en entreprise\, comment 
+ le cultiver et quelles sont ses limites et ce au travers de différents tr
+ avaux de recherche en sciences sociales.*\n19h20 - **Repenser le managemen
+ t : la confiance avant tout** par [Sébastien Robert](https://www.linkedin
+ .com/in/sebastienrobert89/)\, Chief Transformation Officer (AI\, Data\, In
+ novation & Sustainability) @ [FLOA](https://www.floabank.fr/)*Au cours de 
+ ce talk\, j’aimerais explorer avec vous des questions passionnantes : po
+ urquoi la confiance au sein d’un collectif est-elle si cruciale pour une
+  performance durable ? Je vous proposerai aussi de repenser la relation en
+ tre confiance et contrôle dans le monde professionnel actuel. En m’appu
+ yant sur la théorie des jeux\, je dévoilerai des enseignements que nous 
+ pouvons tirer à ce sujet. Une fois l’importance de la confiance et de l
+ a redistribution du contrôle établie\, je partagerai humblement à trave
+ rs des exemples concrets la démarche dans laquelle nous nous sommes lanc
+ és. Nous discuterons aussi des interrogations et des défis auxquels nous
+  faisons face pour rendre notre organisation plus humaine\, responsabilisa
+ nte\, collaborative\, apprenante\, créative et vivante.*\n19h40 - **Renco
+ ntre avec [Marina Prevosto](https://www.linkedin.com/in/marinaprevosto)**\
+ , Strategy Director @ [Cdiscount](https://www.cdiscount.com/)*Lors d'un é
+ change en direct avec Marina\, nous explorerons les bonnes pratiques en st
+ akeholder management\, en mettant l'accent sur l'identification\, la gesti
+ on des attentes et la communication efficace avec les acteurs clés. Marin
+ a partagera également son retour d'expérience en tant que Chief of Staff
+ \, soulignant les défis rencontrés\, les solutions mises en place et les
+  leçons tirées de cette expérience stratégique. Enfin\, elle commenter
+ a son expérience de transition de l'industrie lourde à la Tech\, en iden
+ tifiant les compétences transférables et l'adaptation nécessaire à un 
+ nouvel environnement.*\n20h - Discussions autour d’un verre\n21h30 - Fin
+ \n\nCommunauté: human-talks\n👥 30 participant(s)
+LOCATION:Cdiscount\, 1 Quai Armand Lalande\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/306118686/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Talks Bordeaux #9 - Culture & Stratégie Design 
+DTSTART;TZID=Europe/Paris:20250211T183000
+DTEND;TZID=Europe/Paris:20250211T203000
+UID:https://www.meetup.com/human-talks-bordeaux/events/305610389/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/305610
+ 389/\n📍 ECV Bordeaux\, 26 rue Raze\, Bordeaux\, France\n\nDISCLAIMER : 
+ format "Auberge Espagnole"\, merci de ramener de quoi boire et de quoi gri
+ gnoter pour les échanges après les interventions.\n\\-\\-\\-\\-Le procha
+ in Meetup Human Talks Bordeaux c’est le **mardi 11 février à partir de
+  18h30** sur le campus de l’ECV Bordeaux ! Nous sommes ravis de vous pro
+ poser une édition spéciale Design avec 3 intervenants qui évoluent dans
+ /avec des équipes Design. Ce meetup est organisé en collaboration avec l
+ a communauté [Friends of Figma Bordeaux](https://friends.figma.com/bordea
+ ux-fr/). Au plaisir de vous y voir !\n**AGENDA**18h30 - Accueil\n19h - **C
+ réer une culture du design dans une organisation Produit / Tech** par [Si
+ mon Letellier](https://www.linkedin.com/in/simon-letellier/)\, Head of Des
+ ign @ [Legalstart](https://www.legalstart.fr/)*Comment faire pour que le d
+ esign passe d'un statut de prestataire de service ou simple exécutant à 
+ un rôle central dans la définition de la stratégie produit et dans l'ex
+ écution ?*\n19h20 - **REX Comment les rôles transverses Design / Product
+  / User Research peuvent collaborer efficacement avec les équipes de dév
+ eloppement ?** par [Emilie Duciel](https://www.linkedin.com/in/duciel/)\, 
+ Product Research & User Insights @ [Dataiku](https://www.dataiku.com/)*Ret
+ our d’expérience sur la collaboration entre les différents métiers im
+ pliqués dans la création de fonctionnalités au sein d’une scale-up Sa
+ aS B2B. Repartez avec des clés que vous pourrez mettre en place facilemen
+ t dans vos équipes !*\n19h40 - **La stratégie: ingrédient 99% invisible
+  de tout bon design** par [Chloé Mackie](https://www.linkedin.com/in/mack
+ iechloe/)\, CPO @Exploration X. Ex Mozilla\, Barclays\, Kahoot.*Un produit
+  réussi va bien au-delà de son apparence. La stratégie produit agit com
+ me un une colonne vertébrale\, transformant un design attractif en une ex
+ périence engageante. Comprendre en profondeur les besoins des utilisateur
+ s et élaborer une proposition de valeur qui y répond\, tout en restant a
+ ligné avec la vision de l’entreprise\, voici les clés pour concevoir d
+ es produits à fort impact.*\n20h - Discussions autour d’un verre\n21h30
+  - Fin\n**INTERVENANTS**\n* **A propos de Simon Letellier**\nAprès 15 ans
+  passés dans le monde de la presse (photo reporter\, rédacteur en chef
+ …)\, j’ai entamé une reconversion dans le design en 2017. Après quel
+ ques années en freelance puis en SAAS B2B\, je m’occupe aujourd’hui d
+ e l’équipe Design et de la Brand au sein de Legalstart\, une legaltech 
+ qui accompagne les entrepreneurs dans leurs démarches administratives. Pa
+ ssionné de nouvelles technologies\, d’entreprenariat\, de no code et de
+  growth hacking\, je défends l’idée que le design\, au-delà des enjeu
+ x d’expérience\, peut et doit avoir un impact sur le business des entre
+ prises et des startups.\n* **A propos d'Emilie Duciel**\nIl y a un peu plu
+ s de 15 ans\, je débutais ma carrière d’”Ergonome web” (oui\, oui 
+ ce mot existait à l’époque !) en tant que consultante en agence. Puis 
+ le titre a changé pour devenir UX Designer. Je découvre le monde du logi
+ ciel B2B il y a 10 ans où j’ai vraiment pu approfondir et mettre en pra
+ tique les techniques de recherche utilisateur. De projet en projet\, la pa
+ rt de recherche devient de plus en plus importante par rapport à la part 
+ de design. Je me consacre aujourd’hui à 100% à la recherche utilisateu
+ r.\n* **A propos de Chloé MacKie**\nAprès plus de 12 ans passés à Lond
+ res en tant que Product Leader\, je me suis spécialisée dans l’explora
+ tion de domaines “new frontiers” à la pointe de l’innovation. Je m
+ ’appuie sur une compréhension approfondie des besoins utilisateurs et d
+ e rapides expérimentations pour concevoir des solutions à fort impact. M
+ on expérience au sein de startups\, scale-ups et labs d’innovation en e
+ ntreprise m’a permis de développer une capacité à transformer la comp
+ lexité en plan d’action. Toujours curieuse et animée par l’envie d
+ ’apprendre\, je cherche constamment à repousser les limites pour créer
+  les solutions de demain.\n\nCommunauté: human-talks\n👥 124 participan
+ t(s)
+LOCATION:ECV Bordeaux\, 26 rue Raze\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/305610389/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Talks Bordeaux #8 - Carrières
+DTSTART;TZID=Europe/Paris:20250114T183000
+DTEND;TZID=Europe/Paris:20250114T203000
+UID:https://www.meetup.com/human-talks-bordeaux/events/305180987/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/305180
+ 987/\n📍 Betclic Group\, 117 Quai de Bacalan\, Bordeaux\, France\n\nLe p
+ rochain Human Talks Bordeaux c’est **mardi 14 janvier** dans les bureaux
+  de **Betclic** ! Nous vous donnons rendez-vous à partir de 18h30\, nous 
+ vous avons préparé un beau programme articulé autour de la thématique 
+ Carrière dans Tech. Nous commencerons par une intervention sur les choix 
+ de carrière par un architecte logiciel ancien développeur\, puis nous re
+ traçerons le parcours d’une Engineering Manager et enfin nous finirons 
+ sur retour d’expérience sur la culture du feedback en entreprise par un
+  profil ressources humaines.\nAu plaisir de vous y voir !\n\\-\\-\\-\\-\\-
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\
+ -\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-18h30 - Accueil\n19
+ h - **Veux-tu devenir autre chose que développeur ?** par [Charles Huet](
+ https://www.linkedin.com/in/charleshuet/)\, Software Architect @ RATP Smar
+ t Systems*Il n'y a pas si longtemps que ça\, la seule perspective d'évol
+ ution pour un ingénieur informaticien était Chef de Projet. Aujourd'hui 
+ les perspectives sont plus nombreuses et variées (Scrum Master\, Product 
+ Owner\, Tech Lead\, Team Lead\, Chef de Projet\, Engineering Manager\, Arc
+ hitecte\, etc). Mais pourquoi ne pas rester "juste" un développeur ? Je v
+ ais vous parler de mon expérience en tant que développeur\, Product Owne
+ r\, puis enfin Architecte pour vous faire vous poser la question "est-ce q
+ ue je veux vraiment devenir autre chose que développeur ?"\, et vous aide
+ r à voir quelle option vous correspond le plus. Mieux que la conseillère
+  d'orientation du lycée !*\n19h20 - **Témoignage sur le rôle d’Engine
+ ering Manager** par [Anaïs Molina](https://www.linkedin.com/in/ana%C3%AFs
+ -molina/)\, Engineering Manager @ Betclic\, animé par Alexandre Sutra*Je 
+ suis Anaïs\, je travaille depuis plus de 10 ans dans le monde de la Data 
+ à Bordeaux. En tant qu’Engineering Manager\, j’accompagne aujourd’h
+ ui une équipe de quatre Data engineers chez Betclic pour piloter au mieux
+  l’activité du Gaming. J’aime les voir évoluer\, progresser et répo
+ ndre avec eux aux différents challenges de notre métier. Lors de cet éc
+ hange avec Alexandre\, je raconterai mon parcours\, mon quotidien et comme
+ nt j'envisage mon futur.*\n19h40 - **La culture du feedback : enjeux et bo
+ nnes pratiques** par [Emilie Ornon](https://www.linkedin.com/in/emilie-orn
+ on/)\, HR Business Partner & Lead Recruiter @ Jobteaser*Découvrez pourquo
+ i la culture du feedback est essentielle à l’épanouissement des collab
+ orateurs\, les enjeux que cela représente notamment avec le full remote\,
+  et comment l'implanter efficacement en s'inspirant de modèles comme Netf
+ lix et les principes du "Radical Candor" de Kim Scott. Nous aborderons les
+  avantages\, les défis\, et les retours d’expérience de membres de l
+ ’équipe Tech de JobTeaser concernant la généralisation d’un feedbac
+ k transparent et constructif qui renforce l'engagement et la performance c
+ ollective.*\n20h - Discussions autour d’un verre\n21h30 - Fin\n\nCommuna
+ uté: human-talks\n👥 70 participant(s)
+LOCATION:Betclic Group\, 117 Quai de Bacalan\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/305180987/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Talks Bordeaux #7
+DTSTART;TZID=Europe/Paris:20241210T183000
+DTEND;TZID=Europe/Paris:20241210T203000
+UID:https://www.meetup.com/human-talks-bordeaux/events/304521021/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/304521
+ 021/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\n
+ Le prochain Human Talks Bordeaux c’est le mardi 10 décembre\, à partir
+  de 18h30 et c’est Le Node qui nous accueille ! Nous avons au programme\
+ , 3 interventions d’orateurs locaux : un sujet gestion d’équipe propo
+ sée par Jasmine\, un sujet développement de carrière proposé par Geoff
+ rey et un témoignage personnel proposé par Pierre.\nAu plaisir de vous y
+  voir !\n\\-\\-\\-\\-\\-\\-\\-\\-\n### Agenda\n18h30 - Accueil\n19h - **#E
+ QUIPE L'Organisation Évolutive : Comment Boby Cultive la Collaboration et
+  l'Innovation** par [Jasmine Seren Rosso](https://www.linkedin.com/in/jasm
+ inesr/)\, Managing Director & CPO @ [Boby](https://boby.net/)*Découvrez c
+ omment Boby a transformé ses méthodes de travail pour renforcer la colla
+ boration entre équipes (Commerce\, Produit/Design\, Marketing\, Développ
+ ement). Grâce à des rituels de prise de décision partagée\, des atelie
+ rs créatifs\, des rotations inter-équipes\, et des retours d'expérience
+  réguliers\, Boby crée un environnement où chacun contribue à l'innova
+ tion et à l'amélioration continue.*\n19h20 - **#CARRIÈRE La parole\, ce
+ t outil formidable au bout de vos lèvres** par [Geoffrey Graveaud](https:
+ //www.linkedin.com/in/geoffrey-graveaud-033319b0/)\, DevSecOps Leader & Co
+ ach*La parole nous sert au quotidien. Pour pitcher\, pour convaincre\, pou
+ r passer un entretien\, pour débattre\, pour se plaindre ou pour séduire
+ ... Mais\, cet art est difficilement abordable lorsque l’on démarre. Et
+  il malheureusement peu enseigné en France au profit de l'écrit. Notre d
+ iscours en devient affaibli\, la compréhension de son intérêt égalemen
+ t et par conséquent son décryptage aussi. Nous devenons ainsi plus facil
+ ement les proies du discours des manipulateurs\, des beaux-parleurs et des
+  politiciens sans scrupule. Et pourtant cet héritage vieux de plus de 250
+ 0 ans est simple à prendre en main et est à la portée de tous et de tou
+ tes. Alors comment renforcer sa prise de parole ? Comment la structurer et
+  comment s'assurer qu'elle aura un impact sur les personnes qui nous écou
+ tent en restant dans un cadre de bienveillance ? Au cours de cet atelier\,
+  nous verrons et nous pratiquerons des techniques qui permettront d'améli
+ orer votre discours. Vous apprendrez à analyser leurs effets sur le publi
+ c et aussi à améliorer leur efficacité pour faire passer un message imp
+ ortant lors d'une prise de parole. Nous verrons également la frontière e
+ ntre convaincre et manipuler. Virelangue\, congruence et anaphore n'auront
+  presque plus de secrets pour vous !*\n19h40 - **#ORGANISATION Faire table
+  rase d’un périmètre... quand personne ne t'a rien demandé !** par [P
+ ierre Segalen](https://www.linkedin.com/in/pierre-segalen/)\, Mobile & Web
+  Maker @ [Douze](https://douze.info/)*En février 2015\, me voici nommé 
+ à la tête d’une équipe dont le périmètre hétéroclite mêle site m
+ obile\, applications iOS et Android\, et une API à bout de souffle. Rien 
+ que ça. Le défi est de taille\, surtout quand une restructuration surpri
+ se paralyse la DSI et laisse mon équipe en roue libre. Devant l'absence d
+ e directives\, j’ai pris plusieurs initiatives afin d’assainir au maxi
+ mum les différents composants pour gagner en sérénité. Résultat ? Une
+  refonte complète de toute l’architecture mobile\, un coup de jeune au 
+ site web\, et une API flambant neuve. Moralité : parfois\, innover\, c’
+ est savoir saisir sa chance quand personne n’est là pour te dire "non" 
+ !*\n20h - Discussions autour d’un verre\n21h30 - Fin\n\nCommunauté: hum
+ an-talks\n👥 32 participant(s)
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/304521021/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Talks Bordeaux #6 - Rencontre avec le CTO de Sellsy
+DTSTART;TZID=Europe/Paris:20240910T183000
+DTEND;TZID=Europe/Paris:20240910T203000
+UID:https://www.meetup.com/human-talks-bordeaux/events/302988117/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/302988
+ 117/\n📍 HelloAsso\, 2 Rue Marc Sangnier\, Bègles\, France\n\nLa rentr
+ ée des Human Talks Bordeaux c’est le **mardi 10 septembre\, à partir d
+ e 18h30** dans les bureaux de HelloAsso à la Cité Numérique à Bègles 
+ ! Au programme : nous accueillons [Michael Durand](https://fr.linkedin.com
+ /in/mickdur)\, CTO @ [Sellsy](https://go.sellsy.com/)\, pour une discussio
+ n longue et en direct sur ce qui fait de lui un leader technique aujourd
+ ’hui. Eddy\, co-organisateur de ce meetup et Head of Infra et Dev Advoca
+ te @ HelloAsso\, animera l'échange.\nNous avons apprécié le parcours de
+  Michael qui\, avant de rejoindre Sellsy\, a dirigé les équipes de Meero
+  et Kartable en France\, ainsi que 3 autres startups aux États-Unis et au
+  Canada. Initialement orienté vers le management par nécessité\, il a c
+ hoisi d'y rester par passion. Aujourd’hui\, Michael se concentre chez Se
+ llsy sur le développement des managers\, l'autonomie des équipes\, l'exp
+ érience des collaborateurs\, ainsi que sur les questions d'inclusion et d
+ e diversité. Autant de sujets qui font de cet intervenant un “match” 
+ parfait pour les Human Talks.\nEn fin de discussion\, **Michael prendra le
+  temps d’adresser et de commenter au mieux VOS CAS D'USAGE** de situatio
+ n complexes ou problématiques\, ainsi nous vous invitons à les partager 
+ à [Alexandre](https://www.linkedin.com/in/sutraalexandre/) en amont pour 
+ un traitement optimal : quel contexte ? quel(s) stakeholder(s) ? quel(s) p
+ roblème(s) ?\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\
+ -\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n* **Agenda**\n18h30 - Ouv
+ erture du meetup18h55 - Kick-off par Eddy & Alexandre19h - **Discussion en
+  direct entre Michael Durand**\, CTO @ Sellsy\, et Eddy Montus\, co-organi
+ sateur des Human Talks Bordeaux20h30 - Échange autour d’un apéro offer
+ t par HelloAsso21h30 - Fin\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ \\-\n* **A propos de HelloAsso**\n*[HelloAsso](https://www.helloasso.com/q
+ ui-sommes-nous) est la plateforme qui permet aux citoyens de participer au
+ x activités d’une association près de chez eux. Nos services sont offe
+ rts aux responsables associatifs grâce aux contributions volontaires des 
+ citoyens. A l’aide de ces soutiens et de nos outils\, les associations p
+ euvent gérer leurs activités et collecter des paiements en ligne dont el
+ les perçoivent 100% de chaque somme\, sans frais ni commission.*\n* **A p
+ ropos de Human Talks**\n*Human Talks Bordeaux est une communauté de prati
+ que\, le contenu de chaque événement s’adresse aux professionnels de l
+ ’industrie Tech désireux de développer leurs compétences interpersonn
+ elles à travers des cas d’usage concrets. Par la dénomination “Tech
+ ”\, nous incluons tous les professionnels de la technologie (ingénieurs
+ \, développeurs\, designers\, concepteurs\, analystes\, chercheurs ...) m
+ ais aussi les enseignants\, les entrepreneurs et tous les curieux qui souh
+ aitent découvrir cette industrie. L'événement reste un événement à 1
+ 00% OUVERT à toutes les personnes curieuses.*\n* **A propos de Human Code
+ rs**\n*Human Talks est un format d'événement lancé par [Human Coders](h
+ ttps://www.humancoders.com/) en 2012. Human Coders est un centre de format
+ ion aux techniques de développement informatiques. À suivre sur [Linkedi
+ n](https://www.linkedin.com/company/human-coders/) également.*\n\nCommuna
+ uté: human-talks\n👥 43 participant(s)
+LOCATION:HelloAsso\, 2 Rue Marc Sangnier\, Bègles\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/302988117/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Talks Bordeaux #5 - Sujet "Gérer son équipe"
+DTSTART;TZID=Europe/Paris:20240618T183000
+DTEND;TZID=Europe/Paris:20240618T203000
+UID:https://www.meetup.com/human-talks-bordeaux/events/301358624/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/301358
+ 624/\n📍 Deezer Bordeaux\, 20 Rue Saint-François\, Bordeaux\, France\n\
+ nPour la relance officielle de Human Talks Bordeaux\, nous organisons un m
+ eetup sur le sujet "gérer son équipe" le **mardi 18 juin\, à partir de 
+ 18h30** dans les bureaux de Deezer Bordeaux\, quartier Saint-Michel.\nCe m
+ eetup sera articulé autour de la thématique de la gestion d’équipe. C
+ ’est un vaste sujet et nous aurons la chance de pouvoir l'adresser sous 
+ trois angles grâce à 3 intervenants locaux de qualité : l’angle de l'
+ authenticité raconté au travers du parcours de Didier Colin chez HelloAs
+ so\, l’angle de l’engagement dans une équipe avec le témoignage de P
+ ascal Maria et enfin l’angle de l’inclusivité avec le regard de Anaï
+ s Huet.\nMerci à Deezer de nous héberger et nous offrir l'apéro\, au pl
+ aisir de vous rencontrer sur place !\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\
+ -\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n##
+ # Agenda\n18h30 - Ouverture du meetup18h55 - Kick-off par Eddy & Alexandre
+ 19h - **Retour d'expérience sur 13 ans chez HelloAsso**\, discussion en d
+ irect avec [Didier Colin](https://www.linkedin.com/in/didier-colin-5b1b1a3
+ 3/)\, Directeur de recherche @ HelloAsso*Le parcours de Didier est riche e
+ t varié. Le genre de personne avec qui on peut discuter longtemps. Son pa
+ rcours : il a commencé sa carrière chez HelloAsso comme premier équipie
+ r\, il occupe aujourd'hui le poste de Directeur de recherche. Il nous raco
+ ntera son parcours professionnel\, depuis ses débuts en tant que dévelop
+ peur puis CTO jusqu'à la gestion d'une équipe de 50 personnes\, avant de
+  revenir à sa passion première : la recherche. Le fil conducteur de ses 
+ 13 années de carrière ? L'adaptabilité. Malgré les nombreux défis ren
+ contrés\, il a passé les étapes une à une. Didier partagera à travers
+  des exemples concrets\, les difficultés auxquelles il a fait face en tan
+ t qu'introverti dans le rôle de manager. Il abordera des sujets tels que 
+ la gestion de la compatibilité au sein de son équipe\, le dépassement d
+ u seuil des 10 collaborateurs\, et le savoir-être qu'il a dû développer
+ .*\n19h20 - **Fédérer une équipe tech et prendre des décisions straté
+ giques avec un impact très significatif pour l'organisation !** par [Pasc
+ al Maria](https://www.linkedin.com/in/pascalmaria/)\, Senior Engineering M
+ anager @ AVIV Group*Cette présentation examine les méthodes pour fédér
+ er une équipe technique et prendre des décisions stratégiques ayant un 
+ impact significatif sur l'organisation. Après avoir rejoint une nouvelle 
+ entreprise\, j'ai dû rapidement démontrer ma valeur et mon impact au sei
+ n de l'équipe et de l'organisation. La présentation met l'accent sur les
+  compétences nécessaires pour devenir un leader technique efficace\, les
+  techniques pour renforcer l'esprit d'équipe et la cohésion au sein des 
+ équipes tech\, ainsi que les approches structurées pour maximiser l'impa
+ ct organisationnel. En partageant un cas concret de ma propre expérience\
+ , je fournirai des clés pratiques pour les leaders techniques souhaitant 
+ renforcer leurs équipes et obtenir des résultats tangibles pour leur org
+ anisation.*\n19h40 - **Comment faire parler mes introverti·e·s ?** par [
+ Anaïs Huet](https://www.linkedin.com/in/anais-huet-coach-agile/)\, Coach 
+ agile passionnée et ancienne développeuse*Mince\, j'ai des personnes int
+ roverties dans mon équipe. Ils·elles vont être timides\, rester dans le
+ ur coin\, je sens que ça va être compliqué pour les tirer de l'avant. C
+ omment faire pour les extravertir un peu ? Et si on commençait par se dem
+ ander qu'est-ce que c'est vraiment\, un·e introverti·e\, un·e extravert
+ i·e ? Et si l'introversion avait une place dans l'équipe\, avec ses prop
+ res forces ? Est-ce qu'il faut absolument faire parler quelqu'un pour réu
+ ssir en équipe ?*\n20h - Échange autour d’un apéro offert par Deezer\
+ n21h - Fin\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\
+ -\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-**A propos de
+  Deezer**[Deezer](https://www.deezer.com/fr/) est l’une des principales 
+ plateformes indépendantes au monde dédiées aux expériences musicales\,
+  réunissant les artistes et les fans\, en offrant aux utilisateurs la pos
+ sibilité de vivre la musique (Live the music). La société permet\, grâ
+ ce à sa plateforme évolutive disponible dans plus de 180 pays\, d’acc
+ éder à un catalogue musical complet et de qualité\, une expérience aud
+ io HiFi sans perte\, ainsi que des fonctionnalités innovantes.\n**A propo
+ s de Human Coders**Human Talks est un format d'événement lancé par [Hum
+ an Coders](https://www.humancoders.com/) en 2012. Human Coders est un cent
+ re de formation aux techniques de développement informatiques. À suivre 
+ sur [Linkedin](https://www.linkedin.com/company/human-coders/) également.
+ \n\nCommunauté: human-talks\n👥 43 participant(s)
+LOCATION:Deezer Bordeaux\, 20 Rue Saint-François\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/301358624/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reprise du meetup Human Talks à Bordeaux !
+DTSTART;TZID=Europe/Paris:20240516T180000
+DTEND;TZID=Europe/Paris:20240516T200000
+UID:https://www.meetup.com/human-talks-bordeaux/events/300608622/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/300608
+ 622/\n📍 DELIRIUM CAFÉ BORDEAUX - Sports Bar & Fun Place\, 30 Quai Virg
+ inie Hériot\, Bordeaux\, France\n\nÀ l'occasion de la reprise des meetup
+  Human Talks Bordeaux\, nous sommes ravis de vous convier à une rencontre
+  informelle le **jeudi 16 mai\, à partir de 18h** au Délirium Café Bord
+ eaux. Viens et ramène du monde avec toi pour l'occasion !\nAu programme :
+  avoir un premier contact\, faire plus ample connaissance et collecter vos
+  envies de sujets futurs. Nous aimerions reprendre les conférences à par
+ tir de juin. Plus d'informations sur ce groupe meetup ci-dessous.\n\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-**🏠 C'est quoi Human Talks ?**
+ Human Talks est une communauté où l'expérience se transforme en experti
+ se et la collaboration en croissance professionnelle continue. Un espace o
+ ù nous cultivons ensemble des compétences humaines pour exceller dans l'
+ univers technologique en constante évolution.\nIl existe des groupes acti
+ fs à Paris\, Nantes & Grenoble également. Human Talks Bordeaux existe de
+ puis 2019.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-**🙋 A qui s
+ 'adresse Human Talks Bordeaux ?**Human Talks Bordeaux est une communauté 
+ de pratique\, le contenu de chaque événement s’adresse aux professionn
+ els de l’industrie Tech désireux de développer leurs compétences inte
+ rpersonnelles à travers des cas d’usage concrets. Par la dénomination 
+ “Tech”\, nous incluons tous les professionnels de la technologie (ing
+ énieurs\, développeurs\, designers\, concepteurs\, analystes\, chercheur
+ s ...) mais aussi les enseignants\, les entrepreneurs et tous les curieux 
+ qui souhaitent découvrir cette industrie.\nL'événement reste un événe
+ ment à 100% OUVERT à toutes les personnes curieuses.\n\\-\\-\\-\\-\\-\\-
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-🌳 **Quels sujets seront abordés pendant 
+ les événements Human Talks Bordeaux ?**Nous aimerions permettre à chacu
+ n & chacune de développer significativement ses compétences interpersonn
+ elles\, à travers des témoignages sur 4 grandes thématiques :\\- le mon
+ tage\\\, la structuration et la gestion d'une **équipe**\\- la sélection
+  de **technologies**\, d'outils et d'architectures stratégiques\\- l'appl
+ ication de **modèles** d'organisations et de **méthodes** de production 
+ innovantes\\- l'optimisation de la gestion de sa **carrière**\n\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-**🧱 Comment participer\, interven
+ ir ou supporter l'initiative ?**Tu souhaites participer ? Alors\, inscris-
+ toi au prochain événement.\nTu souhaites proposer un sujet en tant qu’
+ intervenant ? Alors\, écris-nous et prenons le temps de discuter ensemble
+  de ton sujet\, nous sommes [Eddy](https://www.linkedin.com/in/eddymontus/
+ ?originalSubdomain=fr) & [Alexandre](https://www.linkedin.com/in/sutraalex
+ andre/).\nTu souhaites nous héberger dans les bureaux de ton entreprise\,
+  ou nous soutenir de quelconque manière ? Alors\, écris-nous et prenons 
+ le temps d'en parler plus en détail.\nNous aimerions que cette communaut
+ é se retrouve plusieurs fois par an\, à l’occasion de soirées articul
+ ées autour de conférences courtes et d’échanges informels\, dans des 
+ bureaux d'entreprises locales.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ \\-\\-🧑‍🏫 **À propos de Human Coders**Human Talks est un format d
+ 'événement lancé par [Human Coders](https://www.humancoders.com/) en 20
+ 12. Human Coders est un centre de formation aux techniques de développeme
+ nt informatiques. À suivre sur [Linkedin](https://www.linkedin.com/compan
+ y/human-coders) également.\n\nCommunauté: human-talks\n👥 18 participa
+ nt(s)
+LOCATION:DELIRIUM CAFÉ BORDEAUX - Sports Bar & Fun Place\, 30 Quai Virgin
+ ie Hériot\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/300608622/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Talks Mars
+DTSTART;TZID=Europe/Paris:20200311T191500
+DTEND;TZID=Europe/Paris:20200311T211500
+UID:https://www.meetup.com/human-talks-bordeaux/events/269153276/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/269153
+ 276/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\n
+ Bienvenue à la troisième session des Human Talks ! 🙏🏻\nVenez déco
+ uvrir ou présenter des sujets autour du développement (mais pas que !).L
+ e plan: 3-5 petites conférences de 10min (+ 5min de questions) suivies d'
+ un apéro. 🍻\nPour proposer un talk\, n'hésitez pas à contacter le co
+ mpte officiel sur Twitter @HumanTalksBdx 🐦 ou via e-mail: [masked] 📮
+ \n_____Au programme de ce meetup:- Comment faire des revues de code\, par 
+ Fabien Lamarque (@Fabinout)- Introduction au Cloud DevOps\, par Ludwig Vaa
+ n (@kala83)- Présentation du monde merveilleux (et bizarre) des claviers 
+ mécaniques\, par Konstantin BIFERT (@kissu_io)\nDescriptif détaillé de 
+ talks:* Introduction au Cloud DevOps"--> La maîtrise du Cloud devient une
+  compétence fondamentale pour les développeurs web. Qu'est ce que nous a
+ pporte ce nouveau paradigme\, quels sont les bénéfices ? Durant ce talk 
+ nous feront un état de l'art de ce que nous apporte le Cloud et décriron
+ s des termes comme : Scalabilité\, Disponibilité\, Durabilité ou Elasti
+ cité 💪\n*Présentation du monde merveilleux (et bizarre) des claviers 
+ mécaniques--> Présentation rapide et simple des possibilité que vous po
+ uvez avoir si vous vous lancez dans ce hobby. Que ce soit de la custom est
+ hétique\, du hardware choisi au petit grain ou les bienfaits que vous pou
+ rriez en tirer. 😻\n\nCommunauté: human-talks\n👥 13 participant(s)
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/269153276/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Talks Décembre
+DTSTART;TZID=Europe/Paris:20191210T191500
+DTEND;TZID=Europe/Paris:20191210T211500
+UID:https://www.meetup.com/human-talks-bordeaux/events/266467329/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/266467
+ 329/\n📍 eco-creative incubator Bordeaux Chartrons\, 9 Rue André Darbon
+ \, Bordeaux\, France\n\nBienvenue à la deuxième session des Human Talks 
+ ! 🙏🏻\nVenez découvrir ou présenter des sujets autour du développe
+ ment (mais pas que !). Le plan: 3-5 petites conférences de 10min (+ 5min 
+ de questions) suivies d'un apéro. 🍻\nPour proposer un talk\, n'hésite
+ z pas à contacter le compte officiel sur Twitter @HumanTalksBdx 🐦 ou v
+ ia e-mail: [masked] 📮\nAu programme de ce meetup:- Introduction à l'ac
+ cessibilité web\, par Quentin Bellanger- Présentation de Traefik - Rever
+ se Proxy simple et moderne\, par Cyril Beslay- "L'UX design c'est pas qu'd
+ u beau !" par Anne Pedro- "Comment et pourquoi passer son infrastructure f
+ ull serverless" (retour d'expérience) par Mauduit Florian\n\nCommunauté:
+  human-talks\n👥 34 participant(s)
+LOCATION:eco-creative incubator Bordeaux Chartrons\, 9 Rue André Darbon\,
+  Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/266467329/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Talks Novembre
+DTSTART;TZID=Europe/Paris:20191112T191500
+DTEND;TZID=Europe/Paris:20191112T211500
+UID:https://www.meetup.com/human-talks-bordeaux/events/265926025/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/265926
+ 025/\n📍 Le Wagon Bordeaux\, Training Development Web\, Data Analytics &
+  Data Science\, 107 Cr Balguerie Stuttenberg\, Bordeaux\, France\n\nBienve
+ nue aux Human Talks ! 🙏🏻\nVenez découvrir ou présenter des sujets 
+ autour du développement (mais pas que !). Le plan: 3-5 petites conférenc
+ es de 10min (+5min de questions) suivies d'un apéro. 🍻\nAu programme d
+ e ce meetup:- Cas d'usage pratique de la JAMstack via l'implémentation d'
+ un blog et de son CMS headless\, par Konstantin BIFERT- La nécessité des
+  langages fonctionnels: bienfaits de l'immutabilité au travers d'une dém
+ o\, par Jérôme MOLIÈRE- Infra As Code: Terraform / Terraformer - Commen
+ t versionner son infra comme notre code\, par Pierre ERRAUD\n\nCommunauté
+ : human-talks\n👥 18 participant(s)
+LOCATION:Le Wagon Bordeaux\, Training Development Web\, Data Analytics & D
+ ata Science\, 107 Cr Balguerie Stuttenberg\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/265926025/
+END:VEVENT
 END:VCALENDAR
