@@ -10,6 +10,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 05 mars 2025 à 18:00 | 🍷🍻 L'Apéro Web Bordeaux | Bordeaux, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/306321282/ |
+
 ## 📆 Past Events
 
 <details>

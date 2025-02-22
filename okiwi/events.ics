@@ -246,6 +246,27 @@ URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcgbkb
  /
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Okiwi #3
+DTSTART:20250404T070000
+UID:https://www.meetup.com/software-craftsmanship-bdx/events/306324474/@co
+ mmunity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
+ 306324474/\n📍 44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France
+ \n\nUn [forum ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Foru
+ m_Ouvert) organisé par Okiwi. Attendez-vous à l'inattendu.\nUn forum ouv
+ ert est une "non-conférence" où les participants apportent les sujets do
+ nt ils souhaitent parler\, le planning est créé en début de journée to
+ us ensemble\, puis chacun suit ses envies et participe aux sessions qui l'
+ intéresse (plusieurs salles sont disponibles et permettent plusieurs disc
+ ussions simultanées).\nLe petit déjeuner et le repas du midi sont offert
+ s par Okiwi.\n**Attention : l'inscription est limitée à 30 personnes et 
+ l'évènement est en présentiel**\, si vous êtes inscrit vous vous engag
+ ez à venir\, vérifiez votre disponibilité pour la journée 😄\n\nComm
+ unauté: okiwi\n👥 10 participant(s)\nLimité à 33 places
+LOCATION:44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France
+URL:https://www.meetup.com/software-craftsmanship-bdx/events/306324474/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coding dojo
 DTSTART:20250303T173000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcfbfb

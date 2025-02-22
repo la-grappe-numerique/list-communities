@@ -619,7 +619,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/306118
  a son expérience de transition de l'industrie lourde à la Tech\, en iden
  tifiant les compétences transférables et l'adaptation nécessaire à un 
  nouvel environnement.*\n20h - Discussions autour d’un verre\n21h30 - Fin
- \n\nCommunauté: human-talks\n👥 28 participant(s)
+ \n\nCommunauté: human-talks\n👥 29 participant(s)
 LOCATION:Cdiscount\, 1 Quai Armand Lalande\, Bordeaux\, France
 URL:https://www.meetup.com/human-talks-bordeaux/events/306118686/
 END:VEVENT
@@ -1131,7 +1131,7 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305865751/\n
  lk lors de meetups réguliers.L’objectif est de mettre en lumière des s
  ujets variés\, techniques ou non\, et de permettre aux orateurs\, quel qu
  e soit leur niveau d’expérience\, de partager leurs idées.\n\nCommunau
- té: agile-bordeaux\n👥 16 participant(s)\nLimité à 65 places
+ té: agile-bordeaux\n👥 17 participant(s)\nLimité à 65 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 URL:https://www.meetup.com/agile-bordeaux/events/305865751/
 END:VEVENT
@@ -3904,6 +3904,27 @@ LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcgbkb
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Okiwi #3
+DTSTART:20250404T070000
+UID:https://www.meetup.com/software-craftsmanship-bdx/events/306324474/@co
+ mmunity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
+ 306324474/\n📍 44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France
+ \n\nUn [forum ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Foru
+ m_Ouvert) organisé par Okiwi. Attendez-vous à l'inattendu.\nUn forum ouv
+ ert est une "non-conférence" où les participants apportent les sujets do
+ nt ils souhaitent parler\, le planning est créé en début de journée to
+ us ensemble\, puis chacun suit ses envies et participe aux sessions qui l'
+ intéresse (plusieurs salles sont disponibles et permettent plusieurs disc
+ ussions simultanées).\nLe petit déjeuner et le repas du midi sont offert
+ s par Okiwi.\n**Attention : l'inscription est limitée à 30 personnes et 
+ l'évènement est en présentiel**\, si vous êtes inscrit vous vous engag
+ ez à venir\, vérifiez votre disponibilité pour la journée 😄\n\nComm
+ unauté: okiwi\n👥 10 participant(s)\nLimité à 33 places
+LOCATION:44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France
+URL:https://www.meetup.com/software-craftsmanship-bdx/events/306324474/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
@@ -8494,6 +8515,28 @@ LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 URL:https://www.meetup.com/seriousgamers-bordeaux/events/261255186/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🍷🍻 L'Apéro Web Bordeaux
+DTSTART:20250305T180000
+UID:https://www.meetup.com/apero-web-bordeaux/events/306321282/@community-
+ events
+DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30632128
+ 2/\n📍 Bordeaux\, Bordeaux\, Bordeaux\, France\n\n🍷 🍻 L'Apéro Web
+  Bordeaux est de retour après un léger retard !\nLe principe de l'Apéro
+  Web est simple : réunir les personnes qui font la tech lors d'un afterwo
+ rk convivial dans un bar bordelais: CEO\, CTO\, Devs\, PO\, PM\, UX/UI\, S
+ EO\, SEM\, CM\, SRE\, DA\, DevOps\, growth hackers etc...Si votre métier 
+ à un rapport avec le web ou la tech\, cet apéro est fait pour vous !\n
+ 📆 Rendez-vous le mercredi 5 mars (à partir de 19h)📍 Le lieu sera co
+ mmuniqué sous peu\nPensez à rejoindre le groupe pour ne pas râter les n
+ ews !\n🙏 On a besoin de vous pour réunir toutes les personnes qui font
+  le web à Bordeaux et créer un afterwork au top :1️⃣ Partagez & like
+ z ce post2️⃣ Tagguez vos collègues/amis/connaissances qui travaillent
+  dans le web\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web\n👥 19
+  participant(s)
+LOCATION:Bordeaux\, Bordeaux\, Bordeaux\, France
+URL:https://www.meetup.com/apero-web-bordeaux/events/306321282/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🍷🍻 L'Apéro Web Bordeaux\, la dernière (ou pas) !
 DTSTART:20241127T180000
 UID:https://www.meetup.com/apero-web-bordeaux/events/304412420/@community-
@@ -8582,9 +8625,10 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/306025718/\n📍
  dre en compte l’imprévu en gardant un code testable\, typé et expressi
  f ? En partant d’exemples concrets\, je vous propose de passer en revue 
  plusieurs patterns\, de l’impératif au fonctionnel\, et examiner leurs 
- trade-offs pour en tirer le meilleur.\nUn immense merci à [Aquinum](https
- ://www.aquinum.fr/coworking-bordeaux/) pour l'accueil ! 🍾\n\nCommunaut
- é: bordeauxjs\n👥 33 participant(s)
+ trade-offs pour en tirer le meilleur.\nMerci à [Guiild](https://www.guiil
+ d.fr/) qui nous propose un apéritif pour clore le meetup.Un immense merci
+  à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil !
+  🍾\n\nCommunauté: bordeauxjs\n👥 37 participant(s)
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 URL:https://www.meetup.com/bordeauxjs/events/306025718/
 END:VEVENT
@@ -10208,7 +10252,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3061198
  en avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bo
  rdeaux\,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le
   20 mars\, réservez votre soirée dés maintenant !\n\nCommunauté: afup-
- bordeaux\n👥 17 participant(s)
+ bordeaux\n👥 20 participant(s)
 LOCATION:EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France
 URL:https://www.meetup.com/bordeaux-php-meetup/events/306119819/
 END:VEVENT
