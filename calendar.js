@@ -1,14 +1,17 @@
 // Format date and time for display
 function formatDateTime(dateStr) {
+    // Ensure the date is parsed with its timezone information
     const date = new Date(dateStr);
-    return date.toLocaleString('fr-FR', {
+    // Force the display in French timezone
+    return new Intl.DateTimeFormat('fr-FR', {
         weekday: 'long',
         year: 'numeric',
         month: 'long',
         day: 'numeric',
         hour: '2-digit',
-        minute: '2-digit'
-    });
+        minute: '2-digit',
+        timeZone: 'Europe/Paris'
+    }).format(date);
 }
 
 // Create Google Maps link from location
@@ -107,11 +110,16 @@ function loadCalendar() {
         locale: 'fr',
         height: 'auto',
         firstDay: 1,
+        
+        // Add timezone configuration
+        timeZone: 'Europe/Paris',
+        
         // Handle responsive view changes
         windowResize: function(arg) {
             const newView = window.innerWidth < 768 ? 'listMonth' : 'dayGridMonth';
             calendar.changeView(newView);
         },
+        
         // Setup event popovers
         eventDidMount: function(info) {
             const popover = new bootstrap.Popover(info.el, {
@@ -151,7 +159,7 @@ function loadCalendar() {
         .then(events => {
             const formattedEvents = events.map(event => ({
                 title: event.title,
-                start: event.date,
+                start: event.date,  // FullCalendar will handle timezone conversion
                 url: event.url || null,
                 extendedProps: {
                     communities: event.communities || [event.community],
