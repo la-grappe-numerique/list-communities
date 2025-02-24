@@ -14,7 +14,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](./events
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 05 mars 2025 à 18:00 | 🍷🍻 L'Apéro Web Bordeaux | Bordeaux, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/306321282/ |
+| Mercredi 05 mars 2025 à 19:00 | 🍷🍻 L'Apéro Web Bordeaux | Bordeaux, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/306321282/ |
 
 ## 📆 Past Events
 
@@ -23,8 +23,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](./events
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 27 novembre 2024 à 18:00 | 🍷🍻 L'Apéro Web Bordeaux, la dernière (ou pas) ! | 39 Rue Ausone, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/304412420/ |
-| Mardi 24 septembre 2024 à 17:00 | Apéro Web #2 | 63 Rue Lucien Faure Dock G6, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/303251987/ |
-| Mercredi 03 juillet 2024 à 17:00 | 🆕 L'Apéro Web débarque à Bordeaux ! 🥳 | 118 Quai de Bacalan, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/301716042/ |
+| Mercredi 27 novembre 2024 à 19:00 | 🍷🍻 L'Apéro Web Bordeaux, la dernière (ou pas) ! | 39 Rue Ausone, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/304412420/ |
+| Mardi 24 septembre 2024 à 19:00 | Apéro Web #2 | 63 Rue Lucien Faure Dock G6, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/303251987/ |
+| Mercredi 03 juillet 2024 à 19:00 | 🆕 L'Apéro Web débarque à Bordeaux ! 🥳 | 118 Quai de Bacalan, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/301716042/ |
 </details>
 <!-- EVENTS:END -->

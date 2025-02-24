@@ -5,9 +5,11 @@ PRODID:-//Événements creative-coding-bordeaux//Bordeaux Community Events
 X-WR-CALDESC:Calendrier des événements de la communauté creative-coding
  -bordeaux
 X-WR-CALNAME:Événements creative-coding-bordeaux
+X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Atelier livecoding audiovisuel
-DTSTART:20241024T170000
+DTSTART;TZID=Europe/Paris:20241024T190000
+DTEND;TZID=Europe/Paris:20241024T210000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/303995439/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/30
@@ -26,11 +28,13 @@ DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/30
  icipant(s)\nLimité à 10 places
 LOCATION:20 Rue Saint-François\, 20 Rue Saint-François\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/creative-coding-bordeaux/events/303995439/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playground #4 - Creative Coding
-DTSTART:20240912T163000
+DTSTART;TZID=Europe/Paris:20240912T183000
+DTEND;TZID=Europe/Paris:20240912T203000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/302826374/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/30
@@ -60,11 +64,13 @@ DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/30
  laces
 LOCATION:20 Rue Saint-François\, 20 Rue Saint-François\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/creative-coding-bordeaux/events/302826374/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier livecoding sonore
-DTSTART:20240620T170000
+DTSTART;TZID=Europe/Paris:20240620T190000
+DTEND;TZID=Europe/Paris:20240620T210000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/301525559/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/30
@@ -83,11 +89,13 @@ DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/30
  participant(s)\nLimité à 7 places
 LOCATION:20 Rue Saint-François\, 20 Rue Saint-François\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/creative-coding-bordeaux/events/301525559/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playground #3 - Creative Coding
-DTSTART:20240229T173000
+DTSTART;TZID=Europe/Paris:20240229T183000
+DTEND;TZID=Europe/Paris:20240229T203000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/299114631/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/29
@@ -113,11 +121,13 @@ DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/29
  t(s)\nLimité à 41 places
 LOCATION:20 Rue Saint-François\, 20 Rue Saint-François\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/creative-coding-bordeaux/events/299114631/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playground #2 - Creative Coding
-DTSTART:20231130T173000
+DTSTART;TZID=Europe/Paris:20231130T183000
+DTEND;TZID=Europe/Paris:20231130T203000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/297313242/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/29
@@ -139,11 +149,13 @@ DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/29
  .\n\nCommunauté: creative-coding-bordeaux\n👥 38 participant(s)\nLimit
  é à 41 places
 LOCATION:44 Rue Barreyre\, 44 Rue Barreyre\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/creative-coding-bordeaux/events/297313242/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Playground #1 - Creative Coding
-DTSTART:20230914T163000
+DTSTART;TZID=Europe/Paris:20230914T183000
+DTEND;TZID=Europe/Paris:20230914T203000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/295328666/@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/29
@@ -169,6 +181,7 @@ DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/29
  ive-coding-bordeaux\n👥 41 participant(s)\nLimité à 41 places
 LOCATION:20 Rue Saint-François\, 20 Rue Saint-François\, Bordeaux\, Fran
  ce
+TZID:Europe/Paris
 URL:https://www.meetup.com/creative-coding-bordeaux/events/295328666/
 END:VEVENT
 END:VCALENDAR

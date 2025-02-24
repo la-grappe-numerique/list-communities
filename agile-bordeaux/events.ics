@@ -3,9 +3,11 @@ VERSION:2.0
 PRODID:-//Événements agile-bordeaux//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté agile-bordeaux
 X-WR-CALNAME:Événements agile-bordeaux
+X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Club de lecture 25.2 - Petit manuel de résistance contemporaine
-DTSTART:20250405T080000
+DTSTART;TZID=Europe/Paris:20250405T100000
+DTEND;TZID=Europe/Paris:20250405T120000
 UID:https://www.meetup.com/agile-bordeaux/events/306121267/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/306121267/\n
@@ -39,12 +41,14 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/306121267/\n
  re à nous.\n\nCommunauté: agile-bordeaux\n👥 10 participant(s)\nLimit
  é à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/306121267/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scrum ET Kanban - L’alliage résilient de l’amélioration cont
  inue de vos produits
-DTSTART:20250313T173000
+DTSTART;TZID=Europe/Paris:20250313T183000
+DTEND;TZID=Europe/Paris:20250313T203000
 UID:https://www.meetup.com/agile-bordeaux/events/305865751/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305865751/\n
@@ -68,11 +72,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305865751/\n
  e soit leur niveau d’expérience\, de partager leurs idées.\n\nCommunau
  té: agile-bordeaux\n👥 17 participant(s)\nLimité à 65 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/305865751/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 25.1
-DTSTART:20250215T080000
+DTSTART;TZID=Europe/Paris:20250215T090000
+DTEND;TZID=Europe/Paris:20250215T110000
 UID:https://www.meetup.com/agile-bordeaux/events/305095745/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305095745/\n
@@ -105,11 +111,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305095745/\n
  us le **15 février** ?\n\nCommunauté: agile-bordeaux\n👥 17 participan
  t(s)\nLimité à 24 places
 LOCATION:EDF\, 13 Rue Archimède\, Mérignac\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/305095745/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 25.1 - Nexus
-DTSTART:20250208T090000
+DTSTART;TZID=Europe/Paris:20250208T100000
+DTEND;TZID=Europe/Paris:20250208T120000
 UID:https://www.meetup.com/agile-bordeaux/events/305223231/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305223231/\n
@@ -136,11 +144,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305223231/\n
  e à nous.\n\nCommunauté: agile-bordeaux\n👥 11 participant(s)\nLimité
   à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/305223231/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.8 - Une sacrée envie de foutre le bordel
-DTSTART:20241130T090000
+DTSTART;TZID=Europe/Paris:20241130T100000
+DTEND;TZID=Europe/Paris:20241130T120000
 UID:https://www.meetup.com/agile-bordeaux/events/303986394/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/303986394/\n
@@ -162,11 +172,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/303986394/\n
  joindre à nous.\n\nCommunauté: agile-bordeaux\n👥 10 participant(s)\nL
  imité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/303986394/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.7 - Dans le cerveau des champions
-DTSTART:20241005T080000
+DTSTART;TZID=Europe/Paris:20241005T100000
+DTEND;TZID=Europe/Paris:20241005T120000
 UID:https://www.meetup.com/agile-bordeaux/events/302002220/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/302002220/\n
@@ -191,11 +203,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/302002220/\n
  vez plus vous joindre à nous.\n\nCommunauté: agile-bordeaux\n👥 12 par
  ticipant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/302002220/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.6 - Les livres de l’été
-DTSTART:20240907T080000
+DTSTART;TZID=Europe/Paris:20240907T100000
+DTEND;TZID=Europe/Paris:20240907T120000
 UID:https://www.meetup.com/agile-bordeaux/events/302002044/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/302002044/\n
@@ -207,11 +221,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/302002044/\n
  à nous.\n\nCommunauté: agile-bordeaux\n👥 12 participant(s)\nLimité 
  à 12 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/302002044/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo Juin
-DTSTART:20240629T070000
+DTSTART;TZID=Europe/Paris:20240629T090000
+DTEND;TZID=Europe/Paris:20240629T110000
 UID:https://www.meetup.com/agile-bordeaux/events/301323388/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/301323388/\n
@@ -245,11 +261,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/301323388/\n
  ront un samedi.\nLa joyeuse équipe encadrante.\n\nCommunauté: agile-bord
  eaux\n👥 15 participant(s)\nLimité à 24 places
 LOCATION:Peaksys\, 44 Rue Lucien Faure\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/301323388/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.5 - Pour en finir avec le machin
-DTSTART:20240615T080000
+DTSTART;TZID=Europe/Paris:20240615T100000
+DTEND;TZID=Europe/Paris:20240615T120000
 UID:https://www.meetup.com/agile-bordeaux/events/301013894/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/301013894/\n
@@ -280,11 +298,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/301013894/\n
  oindre à nous.\n\nCommunauté: agile-bordeaux\n👥 8 participant(s)\nLim
  ité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/301013894/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #6 : Mission anti-sabotage
-DTSTART:20240507T170000
+DTSTART;TZID=Europe/Paris:20240507T190000
+DTEND;TZID=Europe/Paris:20240507T210000
 UID:https://www.meetup.com/agile-bordeaux/events/300755558/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/300755558/\n
@@ -316,11 +336,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/300755558/\n
  !\n\nCommunauté: agile-bordeaux\n👥 9 participant(s)\nLimité à 15 pla
  ces
 LOCATION:Athénée Municipal\, 10 Pl. Saint-Christoly\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/300755558/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.4 - Changer d’altitude
-DTSTART:20240504T080000
+DTSTART;TZID=Europe/Paris:20240504T100000
+DTEND;TZID=Europe/Paris:20240504T120000
 UID:https://www.meetup.com/agile-bordeaux/events/299362757/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299362757/\n
@@ -342,11 +364,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299362757/\n
   désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunauté:
   agile-bordeaux\n👥 15 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/299362757/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.3 - La boîte à outils de la méthode OKR
-DTSTART:20240323T083000
+DTSTART;TZID=Europe/Paris:20240323T093000
+DTEND;TZID=Europe/Paris:20240323T113000
 UID:https://www.meetup.com/agile-bordeaux/events/298848223/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/298848223/\n
@@ -375,11 +399,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/298848223/\n
  mité\, merci de vous désinscrire si vous ne pouvez plus vous joindre à 
  nous.\n\nCommunauté: agile-bordeaux\n💻 Événement en ligne\n👥 9 pa
  rticipant(s)\nLimité à 15 places
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/298848223/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo Mars
-DTSTART:20240316T080000
+DTSTART;TZID=Europe/Paris:20240316T090000
+DTEND;TZID=Europe/Paris:20240316T110000
 UID:https://www.meetup.com/agile-bordeaux/events/299213788/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299213788/\n
@@ -409,11 +435,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299213788/\n
   réalités de l'autre.\nLa joyeuse équipe encadrante.\n\nCommunauté: ag
  ile-bordeaux\n👥 17 participant(s)\nLimité à 23 places
 LOCATION:Zenika Bordeaux\, 17 Quai Louis XVIII\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/299213788/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #5 : Lean Coffee
-DTSTART:20240313T180000
+DTSTART;TZID=Europe/Paris:20240313T190000
+DTEND;TZID=Europe/Paris:20240313T210000
 UID:https://www.meetup.com/agile-bordeaux/events/299637290/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299637290/\n
@@ -442,11 +470,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299637290/\n
  reux. A vos inscriptions !\n\nCommunauté: agile-bordeaux\n👥 9 particip
  ant(s)\nLimité à 15 places
 LOCATION:Athénée Municipal\, 10 Pl. Saint-Christoly\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/299637290/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 24.1
-DTSTART:20240227T180000
+DTSTART;TZID=Europe/Paris:20240227T190000
+DTEND;TZID=Europe/Paris:20240227T210000
 UID:https://www.meetup.com/agile-bordeaux/events/298910561/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/298910561/\n
@@ -462,11 +492,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/298910561/\n
  ordeaux\n👥 13 participant(s)\nLimité à 12 places
 LOCATION:Randstad Digital Bordeaux (ex Ausy)\, 1 Av. Henri Becquerel\, Mé
  rignac\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/298910561/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.2 - Agile conversations
-DTSTART:20240210T090000
+DTSTART;TZID=Europe/Paris:20240210T100000
+DTEND;TZID=Europe/Paris:20240210T120000
 UID:https://www.meetup.com/agile-bordeaux/events/297716202/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297716202/\n
@@ -495,11 +527,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297716202/\n
  s désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunauté
  : agile-bordeaux\n👥 13 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/297716202/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #4 : L'évolution du PO : du tacticien au stratège
-DTSTART:20240131T180000
+DTSTART;TZID=Europe/Paris:20240131T190000
+DTEND;TZID=Europe/Paris:20240131T210000
 UID:https://www.meetup.com/agile-bordeaux/events/298588040/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/298588040/\n
@@ -529,11 +563,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/298588040/\n
  rs\, telle est la proposition que vous offre l’Atelier du PO.On vous att
  end nombreux. A vos inscriptions !\n\nCommunauté: agile-bordeaux\n💻 É
  vénement en ligne\n👥 35 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/298588040/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 24.1 - Les livres des vacances
-DTSTART:20240113T090000
+DTSTART;TZID=Europe/Paris:20240113T100000
+DTEND;TZID=Europe/Paris:20240113T120000
 UID:https://www.meetup.com/agile-bordeaux/events/295798791/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/295798791/\n
@@ -546,12 +582,14 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/295798791/\n
  vous ne pouvez plus vous joindre à nous.\n\nCommunauté: agile-bordeaux\n
  👥 10 participant(s)\nLimité à 10 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/295798791/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #3 - Demoribo : l'art de la pratique de la démo agi
  le
-DTSTART:20231213T180000
+DTSTART;TZID=Europe/Paris:20231213T190000
+DTEND;TZID=Europe/Paris:20231213T210000
 UID:https://www.meetup.com/agile-bordeaux/events/297759784/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297759784/\n
@@ -580,11 +618,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297759784/\n
  ons !\n\nCommunauté: agile-bordeaux\n👥 9 participant(s)\nLimité à 20
   places
 LOCATION:Athénée Municipal\, 10 Pl. Saint-Christoly\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/297759784/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.7 - Vivre avec son passé
-DTSTART:20231118T090000
+DTSTART;TZID=Europe/Paris:20231118T100000
+DTEND;TZID=Europe/Paris:20231118T120000
 UID:https://www.meetup.com/agile-bordeaux/events/296337309/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/296337309/\n
@@ -610,11 +650,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/296337309/\n
  us désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunaut
  é: agile-bordeaux\n👥 15 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/296337309/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #2 - S'essayer à l'eXtreme quotation
-DTSTART:20231115T173000
+DTSTART;TZID=Europe/Paris:20231115T183000
+DTEND;TZID=Europe/Paris:20231115T203000
 UID:https://www.meetup.com/agile-bordeaux/events/297211586/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297211586/\n
@@ -643,11 +685,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297211586/\n
  nombreux. A vos inscriptions !\n\nCommunauté: agile-bordeaux\n👥 11 par
  ticipant(s)\nLimité à 20 places
 LOCATION:BeTomorrow\, 44 Rue Barreyre\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/297211586/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Atelier du PO #1 - Découvrir les bases de l'UX / UI
-DTSTART:20231010T170000
+DTSTART;TZID=Europe/Paris:20231010T190000
+DTEND;TZID=Europe/Paris:20231010T210000
 UID:https://www.meetup.com/agile-bordeaux/events/293450726/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/293450726/\n
@@ -671,11 +715,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/293450726/\n
  e l’Atelier PO.\nOn vous attend nombreux. A vos inscriptions !\n\nCommun
  auté: agile-bordeaux\n👥 20 participant(s)\nLimité à 20 places
 LOCATION:Athénée Municipal\, Place Saint Christoly\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/293450726/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.6 - Réparer les Histoires
-DTSTART:20230923T080000
+DTSTART;TZID=Europe/Paris:20230923T100000
+DTEND;TZID=Europe/Paris:20230923T120000
 UID:https://www.meetup.com/agile-bordeaux/events/294707236/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/294707236/\n
@@ -708,11 +754,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/294707236/\n
  indre à nous.\n\nCommunauté: agile-bordeaux\n👥 15 participant(s)\nLim
  ité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/294707236/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.5 - Les livres de l’été
-DTSTART:20230826T080000
+DTSTART;TZID=Europe/Paris:20230826T100000
+DTEND;TZID=Europe/Paris:20230826T120000
 UID:https://www.meetup.com/agile-bordeaux/events/294707074/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/294707074/\n
@@ -724,11 +772,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/294707074/\n
  nous.\n\nCommunauté: agile-bordeaux\n👥 15 participant(s)\nLimité à 1
  5 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/294707074/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.4 - La cinquième discipline
-DTSTART:20230617T080000
+DTSTART;TZID=Europe/Paris:20230617T100000
+DTEND;TZID=Europe/Paris:20230617T120000
 UID:https://www.meetup.com/agile-bordeaux/events/293404784/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/293404784/\n
@@ -751,12 +801,14 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/293404784/\n
  us désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunaut
  é: agile-bordeaux\n👥 12 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/293404784/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.3 - Moi\, toi\, nous\, petit traité des influe
  nces réciproques
-DTSTART:20230422T080000
+DTSTART;TZID=Europe/Paris:20230422T100000
+DTEND;TZID=Europe/Paris:20230422T120000
 UID:https://www.meetup.com/agile-bordeaux/events/291918981/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/291918981/\n
@@ -786,11 +838,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/291918981/\n
  i de vous désinscrire.\n\nCommunauté: agile-bordeaux\n👥 15 participan
  t(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/291918981/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.2 - Éloge de l'inattendu
-DTSTART:20230225T090000
+DTSTART;TZID=Europe/Paris:20230225T100000
+DTEND;TZID=Europe/Paris:20230225T120000
 UID:https://www.meetup.com/agile-bordeaux/events/291402181/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/291402181/\n
@@ -818,11 +872,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/291402181/\n
  merci de vous désinscrire.\n\nCommunauté: agile-bordeaux\n👥 12 partic
  ipant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/291402181/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 23.1 - Ne coupez jamais la poire en deux
-DTSTART:20230128T090000
+DTSTART;TZID=Europe/Paris:20230128T100000
+DTEND;TZID=Europe/Paris:20230128T120000
 UID:https://www.meetup.com/agile-bordeaux/events/290269432/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/290269432/\n
@@ -848,11 +904,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/290269432/\n
   pas participer merci de vous désinscrire.\n\nCommunauté: agile-bordeaux
  \n👥 14 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/290269432/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.6 - Théorie U\, l'essentiel
-DTSTART:20221203T090000
+DTSTART;TZID=Europe/Paris:20221203T100000
+DTEND;TZID=Europe/Paris:20221203T120000
 UID:https://www.meetup.com/agile-bordeaux/events/288650730/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/288650730/\n
@@ -886,11 +944,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/288650730/\n
  ticiper merci de vous désinscrire.\n\nCommunauté: agile-bordeaux\n👥 1
  2 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/288650730/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.5 - Coacher avec l’Appreciative Inquiry
-DTSTART:20220917T080000
+DTSTART;TZID=Europe/Paris:20220917T100000
+DTEND;TZID=Europe/Paris:20220917T120000
 UID:https://www.meetup.com/agile-bordeaux/events/286846272/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/286846272/\n
@@ -915,11 +975,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/286846272/\n
   participer merci de vous désinscrire.\n\nCommunauté: agile-bordeaux\n
  👥 14 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/286846272/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.4 - Coacher les émotions
-DTSTART:20220618T080000
+DTSTART;TZID=Europe/Paris:20220618T100000
+DTEND;TZID=Europe/Paris:20220618T120000
 UID:https://www.meetup.com/agile-bordeaux/events/285883383/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/285883383/\n
@@ -940,12 +1002,14 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/285883383/\n
  es émotions positives dans le cadre professionnel et les équipes.\n\nCom
  munauté: agile-bordeaux\n👥 14 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/285883383/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Découvrir le rôle de Product Owner par la pratique et en aidant 
  les autres.
-DTSTART:20220614T163000
+DTSTART;TZID=Europe/Paris:20220614T183000
+DTEND;TZID=Europe/Paris:20220614T203000
 UID:https://www.meetup.com/agile-bordeaux/events/285783764/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/285783764/\n
@@ -970,11 +1034,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/285783764/\n
  !\nMerci à Okiwi\, Agile Bordeaux\, Agile Tour Bordeaux et Agile Toulouse
   pour leur aide et soutien.\n\nCommunauté: agile-bordeaux\n💻 Événeme
  nt en ligne\n👥 68 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/285783764/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.3 - Optimisez votre équipe
-DTSTART:20220507T080000
+DTSTART;TZID=Europe/Paris:20220507T100000
+DTEND;TZID=Europe/Paris:20220507T120000
 UID:https://www.meetup.com/agile-bordeaux/events/284996319/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/284996319/\n
@@ -1004,11 +1070,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/284996319/\n
  pas participer merci de vous désinscrire.\n\nCommunauté: agile-bordeaux\
  n👥 10 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/284996319/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.2 - Vous allez commettre une terrible erreur
-DTSTART:20220326T090000
+DTSTART;TZID=Europe/Paris:20220326T100000
+DTEND;TZID=Europe/Paris:20220326T120000
 UID:https://www.meetup.com/agile-bordeaux/events/283944840/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/283944840/\n
@@ -1034,11 +1102,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/283944840/\n
  n\nCommunauté: agile-bordeaux\n👥 11 participant(s)\nLimité à 15 plac
  es
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/283944840/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 22.1 - Team Topologies
-DTSTART:20220129T090000
+DTSTART;TZID=Europe/Paris:20220129T100000
+DTEND;TZID=Europe/Paris:20220129T120000
 UID:https://www.meetup.com/agile-bordeaux/events/282590209/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/282590209/\n
@@ -1068,11 +1138,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/282590209/\n
  e.\n\nCommunauté: agile-bordeaux\n👥 13 participant(s)\nLimité à 15 p
  laces
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/282590209/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.7 - Les vertus de l’échec
-DTSTART:20211120T090000
+DTSTART;TZID=Europe/Paris:20211120T100000
+DTEND;TZID=Europe/Paris:20211120T120000
 UID:https://www.meetup.com/agile-bordeaux/events/280890878/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/280890878/\n
@@ -1096,11 +1168,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/280890878/\n
  nscrits et que ne pouviez pas participer merci de vous désinscrire.\n\nCo
  mmunauté: agile-bordeaux\n👥 13 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/280890878/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.6 - Que faire des cons ?
-DTSTART:20210918T080000
+DTSTART;TZID=Europe/Paris:20210918T100000
+DTEND;TZID=Europe/Paris:20210918T120000
 UID:https://www.meetup.com/agile-bordeaux/events/278697415/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/278697415/\n
@@ -1120,11 +1194,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/278697415/\n
  ant(s)\nLimité à 15 places
 LOCATION:Ecosphère Aggelos - Eugène! - Triple-C\, 21 Rue Grateloup\, Bor
  deaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/278697415/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.5 - La dynamique des groupes
-DTSTART:20210605T080000
+DTSTART;TZID=Europe/Paris:20210605T100000
+DTEND;TZID=Europe/Paris:20210605T120000
 UID:https://www.meetup.com/agile-bordeaux/events/278079384/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/278079384/\n
@@ -1147,11 +1223,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/278079384/\n
  nauté: agile-bordeaux\n👥 11 participant(s)\nLimité à 15 places
 LOCATION:Ecosphère Aggelos - Eugène! - Triple-C\, 21 Rue Grateloup\, Bor
  deaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/278079384/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.4 - Le thérapeute et le philosophe
-DTSTART:20210508T080000
+DTSTART;TZID=Europe/Paris:20210508T100000
+DTEND;TZID=Europe/Paris:20210508T120000
 UID:https://www.meetup.com/agile-bordeaux/events/277263118/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/277263118/\n
@@ -1178,12 +1256,14 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/277263118/\n
  mité à 15 places
 LOCATION:Ecosphère Aggelos - Eugène! - Triple-C\, 21 Rue Grateloup\, Bor
  deaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/277263118/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rupture Douce Saison 007 - Rétro-Confinement - Rencontre avec les
   auteurs
-DTSTART:20210413T163000
+DTSTART;TZID=Europe/Paris:20210413T183000
+DTEND;TZID=Europe/Paris:20210413T203000
 UID:https://www.meetup.com/agile-bordeaux/events/277286242/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/277286242/\n
@@ -1213,11 +1293,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/277286242/\n
  ked]Code secret :[masked]\nMerci enfin à Agile Bordeaux ne nous ouvrir so
  n Meetup pour l'occasion.\n\nCommunauté: agile-bordeaux\n💻 Événement
   en ligne\n👥 31 participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/277286242/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.3 - L'espèce fabulatrice
-DTSTART:20210320T090000
+DTSTART;TZID=Europe/Paris:20210320T100000
+DTEND;TZID=Europe/Paris:20210320T120000
 UID:https://www.meetup.com/agile-bordeaux/events/276525708/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/276525708/\n
@@ -1232,11 +1314,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/276525708/\n
  pouviez pas participer merci de vous désinscrire.\n\nCommunauté: agile-b
  ordeaux\n💻 Événement en ligne\n👥 14 participant(s)\nLimité à 15 
  places
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/276525708/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.2 -  La logique de l'acouphène
-DTSTART:20210220T090000
+DTSTART;TZID=Europe/Paris:20210220T100000
+DTEND;TZID=Europe/Paris:20210220T120000
 UID:https://www.meetup.com/agile-bordeaux/events/275827555/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/275827555/\n
@@ -1261,12 +1345,14 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/275827555/\n
  limité\, si vous étiez inscrits et que ne pouviez pas participer merci d
  e vous désinscrire.\n\nCommunauté: agile-bordeaux\n💻 Événement en l
  igne\n👥 15 participant(s)\nLimité à 15 places
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/275827555/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Découvrir le rôle de Product Owner par la pratique et en aidant 
  les autres.
-DTSTART:20210204T173000
+DTSTART;TZID=Europe/Paris:20210204T183000
+DTEND;TZID=Europe/Paris:20210204T203000
 UID:https://www.meetup.com/agile-bordeaux/events/275710937/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/275710937/\n
@@ -1290,11 +1376,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/275710937/\n
   Agile Bordeaux\, Agile Tour Bordeaux et AgileToulouse pour leur aide et s
  outien.\n\nCommunauté: agile-bordeaux\n💻 Événement en ligne\n👥 94
   participant(s)
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/275710937/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 21.1 - La posture juste
-DTSTART:20210116T090000
+DTSTART;TZID=Europe/Paris:20210116T100000
+DTEND;TZID=Europe/Paris:20210116T120000
 UID:https://www.meetup.com/agile-bordeaux/events/274884100/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/274884100/\n
@@ -1321,11 +1409,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/274884100/\n
  t que ne pouviez pas participer merci de vous désinscrire.\n\nCommunauté
  : agile-bordeaux\n💻 Événement en ligne\n👥 14 participant(s)\nLimit
  é à 15 places
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/274884100/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.6 - Ecoute\, petit homme !
-DTSTART:20201219T090000
+DTSTART;TZID=Europe/Paris:20201219T100000
+DTEND;TZID=Europe/Paris:20201219T120000
 UID:https://www.meetup.com/agile-bordeaux/events/274774397/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/274774397/\n
@@ -1346,11 +1436,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/274774397/\n
  nt limité\, si vous étiez inscrits et que ne pouviez pas participer merc
  i de vous désinscrire.\n\nCommunauté: agile-bordeaux\n💻 Événement e
  n ligne\n👥 9 participant(s)\nLimité à 15 places
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/274774397/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.5 - L'approche systémique
-DTSTART:20201121T090000
+DTSTART;TZID=Europe/Paris:20201121T100000
+DTEND;TZID=Europe/Paris:20201121T120000
 UID:https://www.meetup.com/agile-bordeaux/events/273366174/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/273366174/\n
@@ -1377,11 +1469,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/273366174/\n
  s désinscrire si vous étiez inscrits et que ne pouviez pas participer.\n
  \nCommunauté: agile-bordeaux\n💻 Événement en ligne\n👥 14 particip
  ant(s)\nLimité à 16 places
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/273366174/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.4 - Coacher avec l’approche narrative
-DTSTART:20200912T073000
+DTSTART;TZID=Europe/Paris:20200912T093000
+DTEND;TZID=Europe/Paris:20200912T113000
 UID:https://www.meetup.com/agile-bordeaux/events/272108470/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/272108470/\n
@@ -1399,11 +1493,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/272108470/\n
  scrire si vous étiez inscrits et que ne pouviez pas participer.\n\nCommun
  auté: agile-bordeaux\n👥 13 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/272108470/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 20.2 - Special Online
-DTSTART:20200627T070000
+DTSTART;TZID=Europe/Paris:20200627T090000
+DTEND;TZID=Europe/Paris:20200627T110000
 UID:https://www.meetup.com/agile-bordeaux/events/271203421/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/271203421/\n
@@ -1451,11 +1547,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/271203421/\n
  le texte\, vous serez cité au Courageous Hall.\nA bientôtL'organisation\
  n\nCommunauté: agile-bordeaux\n💻 Événement en ligne\n👥 21 partici
  pant(s)\nLimité à 23 places
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/271203421/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.3 - Notre corps ne ment jamais
-DTSTART:20200606T073000
+DTSTART;TZID=Europe/Paris:20200606T093000
+DTEND;TZID=Europe/Paris:20200606T113000
 UID:https://www.meetup.com/agile-bordeaux/events/270256889/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/270256889/\n
@@ -1486,12 +1584,14 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/270256889/\n
  rci d’avoir l’élégance de vous désinscrire si vous l’étiez et qu
  e ne pouviez pas participer.\n\nCommunauté: agile-bordeaux\n💻 Événem
  ent en ligne\n👥 11 participant(s)\nLimité à 15 places
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/270256889/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.2 - La dynamique des équipes et l'intelligence
   collective
-DTSTART:20200418T073000
+DTSTART;TZID=Europe/Paris:20200418T093000
+DTEND;TZID=Europe/Paris:20200418T113000
 UID:https://www.meetup.com/agile-bordeaux/events/269028247/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/269028247/\n
@@ -1510,11 +1610,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/269028247/\n
  ur d’un livre.Les participants ont lu l’ouvrage ou tout au moins une p
  artie significative.\n\nCommunauté: agile-bordeaux\n💻 Événement en l
  igne\n👥 17 participant(s)\nLimité à 20 places
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/269028247/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 20.1 - Questionnez Mieux et Gagnez en Leadership
-DTSTART:20200222T083000
+DTSTART;TZID=Europe/Paris:20200222T093000
+DTEND;TZID=Europe/Paris:20200222T113000
 UID:https://www.meetup.com/agile-bordeaux/events/266947585/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/266947585/\n
@@ -1543,11 +1645,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/266947585/\n
   places
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/266947585/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 20.1
-DTSTART:20200125T080000
+DTSTART;TZID=Europe/Paris:20200125T090000
+DTEND;TZID=Europe/Paris:20200125T110000
 UID:https://www.meetup.com/agile-bordeaux/events/266214311/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/266214311/\n
@@ -1589,11 +1693,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/266214311/\n
   agile-bordeaux\n👥 30 participant(s)\nLimité à 30 places
 LOCATION:11 Av. Henri Becquerel\, 11 Av. Henri Becquerel\, Mérignac\, Fra
  nce
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/266214311/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 19.5 - La spirale dynamique 
-DTSTART:20191130T083000
+DTSTART;TZID=Europe/Paris:20191130T093000
+DTEND;TZID=Europe/Paris:20191130T113000
 UID:https://www.meetup.com/agile-bordeaux/events/265397378/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/265397378/\n
@@ -1619,11 +1725,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/265397378/\n
   agile-bordeaux\n👥 8 participant(s)\nLimité à 15 places
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/265397378/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 19.4 - La nuit j’écrirai des soleils
-DTSTART:20190928T073000
+DTSTART;TZID=Europe/Paris:20190928T093000
+DTEND;TZID=Europe/Paris:20190928T113000
 UID:https://www.meetup.com/agile-bordeaux/events/262665679/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/262665679/\n
@@ -1641,11 +1749,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/262665679/\n
  eaux\n👥 6 participant(s)\nLimité à 15 places
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/262665679/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 19.1
-DTSTART:20190914T070000
+DTSTART;TZID=Europe/Paris:20190914T090000
+DTEND;TZID=Europe/Paris:20190914T110000
 UID:https://www.meetup.com/agile-bordeaux/events/260531263/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/260531263/\n
@@ -1686,11 +1796,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/260531263/\n
  ez pas à revenir vers nous 😉.\n\nCommunauté: agile-bordeaux\n👥 30 
  participant(s)\nLimité à 30 places
 LOCATION:EKINO BORDEAUX\, 1 cours Xavier Arnozan\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/260531263/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 19.3 - À nous la liberté
-DTSTART:20190615T073000
+DTSTART;TZID=Europe/Paris:20190615T093000
+DTEND;TZID=Europe/Paris:20190615T113000
 UID:https://www.meetup.com/agile-bordeaux/events/258815870/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/258815870/\n
@@ -1715,11 +1827,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/258815870/\n
   places
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/258815870/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 19.2
-DTSTART:20190606T164500
+DTSTART;TZID=Europe/Paris:20190606T184500
+DTEND;TZID=Europe/Paris:20190606T204500
 UID:https://www.meetup.com/agile-bordeaux/events/261328959/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/261328959/\n
@@ -1738,11 +1852,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/261328959/\n
  pour cette édition et/ou des lieux d’accueils pour les prochaines\n\nCo
  mmunauté: agile-bordeaux\n👥 50 participant(s)\nLimité à 50 places
 LOCATION:120 Quai de Bacalan\, 120 Quai de Bacalan\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/261328959/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 19.2 - Découvrir un sens à sa vie 
-DTSTART:20190323T083000
+DTSTART;TZID=Europe/Paris:20190323T093000
+DTEND;TZID=Europe/Paris:20190323T113000
 UID:https://www.meetup.com/agile-bordeaux/events/258813843/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/258813843/\n
@@ -1762,11 +1878,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/258813843/\n
  s)\nLimité à 14 places
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/258813843/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 19.1 - Start With Why
-DTSTART:20190202T083000
+DTSTART;TZID=Europe/Paris:20190202T093000
+DTEND;TZID=Europe/Paris:20190202T113000
 UID:https://www.meetup.com/agile-bordeaux/events/257027302/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/257027302/\n
@@ -1782,11 +1900,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/257027302/\n
  Communauté: agile-bordeaux\n👥 14 participant(s)
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/257027302/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 19.1
-DTSTART:20190124T180000
+DTSTART;TZID=Europe/Paris:20190124T190000
+DTEND;TZID=Europe/Paris:20190124T210000
 UID:https://www.meetup.com/agile-bordeaux/events/257289336/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/257289336/\n
@@ -1808,11 +1928,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/257289336/\n
  cueils pour les prochaines\n\nCommunauté: agile-bordeaux\n👥 43 partici
  pant(s)
 LOCATION:Capgemini\, 19 Allée James Watt\, MERIGNAC\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/257289336/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lean Coffee @ CoolWorking
-DTSTART:20181214T080000
+DTSTART;TZID=Europe/Paris:20181214T090000
+DTEND;TZID=Europe/Paris:20181214T110000
 UID:https://www.meetup.com/agile-bordeaux/events/256836472/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/256836472/\n
@@ -1832,11 +1954,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/256836472/\n
  ORDEAUX.\n\nCommunauté: agile-bordeaux\n👥 8 participant(s)\nLimité à
   12 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/256836472/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 18.5 - Changing Your Team From The Inside
-DTSTART:20181201T083000
+DTSTART;TZID=Europe/Paris:20181201T093000
+DTEND;TZID=Europe/Paris:20181201T113000
 UID:https://www.meetup.com/agile-bordeaux/events/255454948/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/255454948/\n
@@ -1853,11 +1977,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/255454948/\n
  nt(s)
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/255454948/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lean Coffee @ CoolWorking
-DTSTART:20181019T070000
+DTSTART;TZID=Europe/Paris:20181019T090000
+DTEND;TZID=Europe/Paris:20181019T110000
 UID:https://www.meetup.com/agile-bordeaux/events/255449522/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/255449522/\n
@@ -1877,11 +2003,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/255449522/\n
  ORDEAUX.\n\nCommunauté: agile-bordeaux\n👥 2 participant(s)\nLimité à
   12 places
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/255449522/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 18.4 - The Happiness Equation
-DTSTART:20181006T073000
+DTSTART;TZID=Europe/Paris:20181006T093000
+DTEND;TZID=Europe/Paris:20181006T113000
 UID:https://www.meetup.com/agile-bordeaux/events/252773386/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/252773386/\n
@@ -1895,11 +2023,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/252773386/\n
   agile-bordeaux\n👥 9 participant(s)
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/252773386/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 18.2
-DTSTART:20180915T070000
+DTSTART;TZID=Europe/Paris:20180915T090000
+DTEND;TZID=Europe/Paris:20180915T110000
 UID:https://www.meetup.com/agile-bordeaux/events/251155460/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/251155460/\n
@@ -1940,11 +2070,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/251155460/\n
  té à 30 places
 LOCATION:Zenika Bordeaux\, Immeuble grand angle\, 25 avenue Perie\, Bruges
  \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/251155460/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 18.3 - Coaching Agile
-DTSTART:20180630T073000
+DTSTART;TZID=Europe/Paris:20180630T093000
+DTEND;TZID=Europe/Paris:20180630T113000
 UID:https://www.meetup.com/agile-bordeaux/events/250678700/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/250678700/\n
@@ -1958,11 +2090,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/250678700/\n
  \n\nCommunauté: agile-bordeaux\n👥 8 participant(s)
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/250678700/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 18.2
-DTSTART:20180428T073000
+DTSTART;TZID=Europe/Paris:20180428T093000
+DTEND;TZID=Europe/Paris:20180428T113000
 UID:https://www.meetup.com/agile-bordeaux/events/249376904/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/249376904/\n
@@ -1977,11 +2111,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/249376904/\n
  ture !\n\nCommunauté: agile-bordeaux\n👥 6 participant(s)
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/249376904/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture 18.1
-DTSTART:20180310T083000
+DTSTART;TZID=Europe/Paris:20180310T093000
+DTEND;TZID=Europe/Paris:20180310T113000
 UID:https://www.meetup.com/agile-bordeaux/events/247286123/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/247286123/\n
@@ -1998,11 +2134,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/247286123/\n
  gile-bordeaux\n👥 8 participant(s)
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/247286123/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 18.1
-DTSTART:20180303T080000
+DTSTART;TZID=Europe/Paris:20180303T090000
+DTEND;TZID=Europe/Paris:20180303T110000
 UID:https://www.meetup.com/agile-bordeaux/events/246239159/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/246239159/\n
@@ -2029,11 +2167,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/246239159/\n
  ésitez pas à revenir vers nous 😉.\nA bientôt !\n\nCommunauté: agile
  -bordeaux\n👥 22 participant(s)\nLimité à 24 places
 LOCATION:OnePoint\, 28 Avenue Léonard de Vinci\, Pessac\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/246239159/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PODOJO Bordeaux #03
-DTSTART:20180205T180000
+DTSTART;TZID=Europe/Paris:20180205T190000
+DTEND;TZID=Europe/Paris:20180205T210000
 UID:https://www.meetup.com/agile-bordeaux/events/246787523/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/246787523/\n
@@ -2073,11 +2213,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/246787523/\n
  u à manger...\n\nCommunauté: agile-bordeaux\n👥 25 participant(s)\nLim
  ité à 25 places
 LOCATION:Agirc-Arrco\,  21 chemin du plantey\, Gradignan\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/246787523/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 18.1
-DTSTART:20180125T180000
+DTSTART;TZID=Europe/Paris:20180125T190000
+DTEND;TZID=Europe/Paris:20180125T210000
 UID:https://www.meetup.com/agile-bordeaux/events/245813517/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/245813517/\n
@@ -2093,11 +2235,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/245813517/\n
  ils pour les prochaines\n\nCommunauté: agile-bordeaux\n👥 35 participan
  t(s)
 LOCATION:SQLI\, 23 avenue de Léonard de Vinci\, PESSAC\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/245813517/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture de novembre
-DTSTART:20171108T180000
+DTSTART;TZID=Europe/Paris:20171108T190000
+DTEND;TZID=Europe/Paris:20171108T210000
 UID:https://www.meetup.com/agile-bordeaux/events/244046292/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/244046292/\n
@@ -2111,11 +2255,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/244046292/\n
  the impact of such problems.\nBonne lecture !\n\nCommunauté: agile-bordea
  ux\n👥 3 participant(s)
 LOCATION:Le New York\, 4 Cours Pasteur\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/244046292/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PODOJO Bordeaux #02
-DTSTART:20171005T170000
+DTSTART;TZID=Europe/Paris:20171005T190000
+DTEND;TZID=Europe/Paris:20171005T210000
 UID:https://www.meetup.com/agile-bordeaux/events/242640113/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/242640113/\n
@@ -2148,11 +2294,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/242640113/\n
  hose à boire ou à manger...\n\nCommunauté: agile-bordeaux\n👥 23 part
  icipant(s)\nLimité à 25 places
 LOCATION:Lectra\, 23 chemin de marticot\, cestas\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/242640113/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 17.3
-DTSTART:20170930T070000
+DTSTART;TZID=Europe/Paris:20170930T090000
+DTEND;TZID=Europe/Paris:20170930T110000
 UID:https://www.meetup.com/agile-bordeaux/events/241093981/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/241093981/\n
@@ -2176,11 +2324,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/241093981/\n
  mité à 25 places
 LOCATION:Zenika Bordeaux\, Immeuble grand angle\, 25 avenue Perie\, Bruges
  \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/241093981/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture de juin
-DTSTART:20170628T170000
+DTSTART;TZID=Europe/Paris:20170628T190000
+DTEND;TZID=Europe/Paris:20170628T210000
 UID:https://www.meetup.com/agile-bordeaux/events/240370727/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/240370727/\n
@@ -2193,11 +2343,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/240370727/\n
  sein de l'entreprise\, y compris dans les plus grosses structures."\nBonne
   lecture !\n\nCommunauté: agile-bordeaux\n👥 6 participant(s)
 LOCATION:Le New York\, 4 Cours Pasteur\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/240370727/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 17.2
-DTSTART:20170617T070000
+DTSTART;TZID=Europe/Paris:20170617T090000
+DTEND;TZID=Europe/Paris:20170617T110000
 UID:https://www.meetup.com/agile-bordeaux/events/237430705/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/237430705/\n
@@ -2228,11 +2380,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/237430705/\n
  laces
 LOCATION:Zenika Bordeaux\, Immeuble grand angle\, 25 avenue Perie\, Bruges
  \, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/237430705/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1er PODOJO Bordeaux
-DTSTART:20170601T170000
+DTSTART;TZID=Europe/Paris:20170601T190000
+DTEND;TZID=Europe/Paris:20170601T210000
 UID:https://www.meetup.com/agile-bordeaux/events/239292968/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/239292968/\n
@@ -2259,11 +2413,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/239292968/\n
  es
 LOCATION:Pôle Emploi\, 38B Allée de Mégévie\, 33170 Gradignan\, Gradig
  nan\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/239292968/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 17.1
-DTSTART:20170406T170000
+DTSTART;TZID=Europe/Paris:20170406T190000
+DTEND;TZID=Europe/Paris:20170406T210000
 UID:https://www.meetup.com/agile-bordeaux/events/238642143/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/238642143/\n
@@ -2277,11 +2433,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/238642143/\n
   Echanges autour d'un verre\n\nCommunauté: agile-bordeaux\n👥 28 partic
  ipant(s)\nLimité à 50 places
 LOCATION:Deal Informatique\, 27 Avenue de la Poterie\, Gradignan\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/238642143/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture d'Avril
-DTSTART:20170404T170000
+DTSTART;TZID=Europe/Paris:20170404T190000
+DTEND;TZID=Europe/Paris:20170404T210000
 UID:https://www.meetup.com/agile-bordeaux/events/237956575/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/237956575/\n
@@ -2294,11 +2452,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/237956575/\n
  \nCommunauté: agile-bordeaux\n👥 4 participant(s)\nLimité à 8 places
 LOCATION:Le Duffour par Alfredo\, 14 Bis Rue Duffour Dubergier\, Bordeaux\
  , Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/237956575/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture de Février
-DTSTART:20170218T090000
+DTSTART;TZID=Europe/Paris:20170218T100000
+DTEND;TZID=Europe/Paris:20170218T120000
 UID:https://www.meetup.com/agile-bordeaux/events/236603347/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/236603347/\n
@@ -2313,11 +2473,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/236603347/\n
  ux\n👥 8 participant(s)\nLimité à 8 places
 LOCATION:Le Duffour par Alfredo\, 14 Bis Rue Duffour Dubergier\, Bordeaux\
  , Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/236603347/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 17.1
-DTSTART:20170114T080000
+DTSTART;TZID=Europe/Paris:20170114T090000
+DTEND;TZID=Europe/Paris:20170114T110000
 UID:https://www.meetup.com/agile-bordeaux/events/235134649/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/235134649/\n
@@ -2336,11 +2498,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/235134649/\n
  imité à 14 places
 LOCATION:Ausy Mérignac\, 13 Avenue Neil Armstrong\, 33700 Mérignac\, Bor
  deaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/235134649/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture de Décembre
-DTSTART:20161217T083000
+DTSTART;TZID=Europe/Paris:20161217T093000
+DTEND;TZID=Europe/Paris:20161217T113000
 UID:https://www.meetup.com/agile-bordeaux/events/235327204/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/235327204/\n
@@ -2355,11 +2519,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/235327204/\n
  \nLimité à 10 places
 LOCATION:Les Pains D'Alfredo\, 14 Bis Rue Duffour Dubergier\, Bordeaux\, F
  rance
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/235327204/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 16.3
-DTSTART:20161208T180000
+DTSTART;TZID=Europe/Paris:20161208T190000
+DTEND;TZID=Europe/Paris:20161208T210000
 UID:https://www.meetup.com/agile-bordeaux/events/235472479/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/235472479/\n
@@ -2379,12 +2545,14 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/235472479/\n
  __________________________________________\n\nCommunauté: agile-bordeaux\
  n👥 40 participant(s)\nLimité à 50 places
 LOCATION:Notre hôte\, 38B Allée Megevie\, gradignan\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/235472479/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(Lean) Startup (Agile) night - inscription sur le groupe Lean Star
  tup Bordeaux
-DTSTART:20161017T170000
+DTSTART;TZID=Europe/Paris:20161017T190000
+DTEND;TZID=Europe/Paris:20161017T210000
 UID:https://www.meetup.com/agile-bordeaux/events/234663839/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/234663839/\n
@@ -2420,11 +2588,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/234663839/\n
  bordeaux\n👥 1 participant(s)\nLimité à 1 places
 LOCATION:ECV Digital Bordeaux (Amphi)\, 26 rue Esprit des Lois\, Bordeaux\
  , France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/234663839/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de lecture
-DTSTART:20161015T073000
+DTSTART;TZID=Europe/Paris:20161015T093000
+DTEND;TZID=Europe/Paris:20161015T113000
 UID:https://www.meetup.com/agile-bordeaux/events/234571728/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/234571728/\n
@@ -2435,11 +2605,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/234571728/\n
  e-bordeaux\n\nCommunauté: agile-bordeaux\n👥 3 participant(s)
 LOCATION:Les Pains D'Alfredo\, 14 Bis Rue Duffour Dubergier\, Bordeaux\, F
  rance
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/234571728/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 16.2
-DTSTART:20160430T073000
+DTSTART;TZID=Europe/Paris:20160430T093000
+DTEND;TZID=Europe/Paris:20160430T113000
 UID:https://www.meetup.com/agile-bordeaux/events/228982013/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/228982013/\n
@@ -2460,11 +2632,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/228982013/\n
  ces
 LOCATION:Aéroport de Bordeaux-Mérignac\, Avenue René Cassin\, MERIGNAC\
  , France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/228982013/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de Lecture
-DTSTART:20160402T073000
+DTSTART;TZID=Europe/Paris:20160402T093000
+DTEND;TZID=Europe/Paris:20160402T113000
 UID:https://www.meetup.com/agile-bordeaux/events/228153250/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/228153250/\n
@@ -2475,11 +2649,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/228153250/\n
  /club-de-lecture-bordeaux\n\nCommunauté: agile-bordeaux\n👥 10 particip
  ant(s)
 LOCATION:Le New-York\, 4 Cours Pasteur\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/228153250/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 16.2
-DTSTART:20160329T163000
+DTSTART;TZID=Europe/Paris:20160329T183000
+DTEND;TZID=Europe/Paris:20160329T203000
 UID:https://www.meetup.com/agile-bordeaux/events/228059408/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/228059408/\n
@@ -2516,11 +2692,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/228059408/\n
  r-b5oMVC2eTQcFc/edit?usp=sharing\n________________________________________
  _______\n\nCommunauté: agile-bordeaux\n👥 43 participant(s)
 LOCATION:CESI\, 140\, avenue du 11 Novembre\, Blanquefort\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/228059408/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coaching Dojo 16.1
-DTSTART:20160130T083000
+DTSTART;TZID=Europe/Paris:20160130T093000
+DTEND;TZID=Europe/Paris:20160130T113000
 UID:https://www.meetup.com/agile-bordeaux/events/227883030/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/227883030/\n
@@ -2546,11 +2724,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/227883030/\n
  s)\nLimité à 20 places
 LOCATION:Aéroport de Bordeaux-Mérignac\, Avenue René Cassin\, MERIGNAC\
  , France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/227883030/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Club de Lecture "What's Next?"
-DTSTART:20160116T083000
+DTSTART;TZID=Europe/Paris:20160116T093000
+DTEND;TZID=Europe/Paris:20160116T113000
 UID:https://www.meetup.com/agile-bordeaux/events/227364116/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/227364116/\n
@@ -2562,11 +2742,13 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/227364116/\n
  -de-lecture-bordeaux\nPour avoir accès au panneau\, demander à @alexismo
  nville\n\nCommunauté: agile-bordeaux\n👥 10 participant(s)
 LOCATION:Le New-York\, 4 Cours Pasteur\, Bordeaux\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/227364116/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Bordeaux 16.1 (ce qui était le ScrumWine)
-DTSTART:20160112T173000
+DTSTART;TZID=Europe/Paris:20160112T183000
+DTEND;TZID=Europe/Paris:20160112T203000
 UID:https://www.meetup.com/agile-bordeaux/events/227009931/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/227009931/\n
@@ -2596,6 +2778,7 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/227009931/\n
  aux\n👥 37 participant(s)
 LOCATION:Le Bac à Sable (working café)\, 18 rue Sainte Colombe\, Bordeau
  x\, France
+TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/227009931/
 END:VEVENT
 END:VCALENDAR
