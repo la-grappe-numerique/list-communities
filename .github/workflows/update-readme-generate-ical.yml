@@ -57,7 +57,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add */events.ics events.ics */README.md README.md
+          git add */events.ics events.ics events.json */README.md README.md
 
       - name: Check for changes
         id: check_changes

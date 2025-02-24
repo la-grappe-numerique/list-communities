@@ -50,7 +50,6 @@ class GlobalEventsGenerator:
             
             # Look for matching events
             for j, other_event in enumerate(events[i+1:], start=i+1):
-                print(f"  Comparing with event {j}: {other_event.get('title')}")
                 if j not in processed_events and self.event_matcher.are_same_event(event, other_event):
                     print(f"  Found match! Event {i} matches with event {j}")
                     # Merge communities
