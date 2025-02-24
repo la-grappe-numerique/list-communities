@@ -4,7 +4,15 @@ from typing import Dict, List
 
 class EventMatcher:
     """Utility class for matching and comparing events"""
-    
+
+    def normalize_url(url: str) -> str:
+        """Normalize URL by removing language prefix and trailing slashes"""
+        # Remove language code (e.g., /fr-FR/)
+        url = re.sub(r'meetup\.com/[a-z]{2}-[A-Z]{2}/', 'meetup.com/', url)
+        # Remove trailing slash
+        url = url.rstrip('/')
+        return url
+
     @staticmethod
     def normalize_location(location: str) -> str:
         """
@@ -45,9 +53,12 @@ class EventMatcher:
         Determine if two events are actually the same event based on multiple criteria.
         Returns True if events are considered the same.
         """
-        # If URLs are same, it's definitely the same event
-        if event1.get('url') == event2.get('url'):
-            return True
+        # If URLs are same after normalization, it's definitely the same event
+        if 'url' in event1 and 'url' in event2:
+            url1 = cls.normalize_url(event1['url'])
+            url2 = cls.normalize_url(event2['url'])
+            if url1 == url2:
+                return True
         
         # Compare dates (must be exactly the same)
         try:
