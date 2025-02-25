@@ -267,7 +267,7 @@
       "country": "France"
     },
     "location": "1 Quai Armand Lalande, Bordeaux",
-    "rsvp_count": 30,
+    "rsvp_count": 31,
     "communities": [
       "human-talks"
     ]
@@ -285,7 +285,7 @@
       "country": "France"
     },
     "location": "Bordeaux, Bordeaux",
-    "rsvp_count": 20,
+    "rsvp_count": 21,
     "communities": [
       "apero-web"
     ]
@@ -322,7 +322,7 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 38,
+    "rsvp_count": 39,
     "communities": [
       "bordeauxjs"
     ]
@@ -340,7 +340,7 @@
       "country": "France"
     },
     "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "rsvp_count": 19,
+    "rsvp_count": 20,
     "communities": [
       "afup-bordeaux"
     ]
