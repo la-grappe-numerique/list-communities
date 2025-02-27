@@ -10,12 +10,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Mercredi 26 février 2025 à 19:00 | La gestion d'erreurs en Javascript | 12 rue des Faussets, Bordeaux | https://www.meetup.com/bordeauxjs/events/306025718/ |
-
 ## 📆 Past Events
 
 <details>
@@ -23,6 +17,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](./event
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mercredi 26 février 2025 à 19:00 | La gestion d'erreurs en Javascript | 12 rue des Faussets, Bordeaux | https://www.meetup.com/bordeauxjs/events/306025718/ |
 | Jeudi 06 février 2025 à 19:00 | Cap sur le Web : Les Navigateurs, Explorateurs du Numérique | 2 Rue Marc Sangnier, Bègles | https://www.meetup.com/bordeauxjs/events/305454697/ |
 </details>
 

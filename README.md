@@ -19,9 +19,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 26 février 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [La gestion d'erreurs en Javascript](https://www.meetup.com/bordeauxjs/events/306025718/) | 12 rue des Faussets, Bordeaux |
-| Mercredi 26 février 2025 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager](https://www.meetup.com/bordeaux-php-meetup/events/306119819/) | 1 Cr Xavier Arnozan, Bordeaux |
 | Lundi 03 mars 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcfbfb/) | 9 Rue de Condé, Bordeaux |
+| Mercredi 05 mars 2025 à 19:00 | [apero-web](apero-web/) | [🍷🍻 L'Apéro Web Bordeaux](https://www.meetup.com/apero-web-bordeaux/events/306321282/) | 40 Allées d'Orléans , Bordeaux |
+| Mardi 11 mars 2025 à 18:30 | [human-talks](human-talks/) | [Human Talks Bordeaux #10 - Organisation & Leadership](https://www.meetup.com/human-talks-bordeaux/events/306118686/) | 1 Quai Armand Lalande, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

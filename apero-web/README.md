@@ -14,7 +14,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](./events
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 05 mars 2025 à 19:00 | 🍷🍻 L'Apéro Web Bordeaux | Bordeaux, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/306321282/ |
+| Mercredi 05 mars 2025 à 19:00 | 🍷🍻 L'Apéro Web Bordeaux | 40 Allées d'Orléans , Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/306321282/ |
 
 ## 📆 Past Events
 

@@ -9,12 +9,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Mercredi 26 février 2025 à 19:00 | #57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager | 1 Cr Xavier Arnozan, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/306119819/ |
-
 ## 📆 Past Events
 
 <details>
@@ -22,6 +16,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](./ev
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mercredi 26 février 2025 à 19:00 | #57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager | 1 Cr Xavier Arnozan, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/306119819/ |
 | Mercredi 22 janvier 2025 à 19:00 | #56: Session lightning talks | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/304967965/ |
 </details>
 
