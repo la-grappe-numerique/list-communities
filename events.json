@@ -249,7 +249,7 @@
     },
     "location": "12 Rue des Faussets, Bordeaux",
     "rsvp_limit": 65,
-    "rsvp_count": 19,
+    "rsvp_count": 21,
     "communities": [
       "agile-bordeaux"
     ]
@@ -267,7 +267,7 @@
       "country": "France"
     },
     "location": "1 Quai Armand Lalande, Bordeaux",
-    "rsvp_count": 43,
+    "rsvp_count": 45,
     "communities": [
       "human-talks"
     ]
@@ -285,7 +285,7 @@
       "country": "France"
     },
     "location": "40 Allées d'Orléans , Bordeaux",
-    "rsvp_count": 29,
+    "rsvp_count": 30,
     "communities": [
       "apero-web"
     ]
@@ -304,7 +304,7 @@
     },
     "location": "9 Rue de Condé, Bordeaux",
     "rsvp_limit": 15,
-    "rsvp_count": 5,
+    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
