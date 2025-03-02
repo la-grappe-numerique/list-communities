@@ -204,6 +204,30 @@ URL:https://www.linkedin.com/events/r-volutionnezvotreuxaveclespwa-7284501
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20260302T183000
+DTEND;TZID=Europe/Paris:20260302T203000
+UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb
+ /@community-events
+DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
+ pkmrktyjcfbdb/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Co
+ ndé\, Bordeaux\, France\n\nDes coding dojos\, sessions amusantes et inten
+ ses pendant lesquelles des développeurs améliorent leurs compétences en
+  programmation. Le principe est simple : on prend un exercice de programma
+ tion simple\, on choisit un langage\, et on essaie de coder une solution e
+ n respectant les 4 règles du design simple de Kent Beck :\n• passer tou
+ s les tests \;• aucune duplication de code \;• révéler les intention
+ s par le code\, être très attentif au nommage \;• réduire le nombre d
+ e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
+ , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
+ /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb
+ /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
 DTSTART;TZID=Europe/Paris:20260202T183000
 DTEND;TZID=Europe/Paris:20260202T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb
@@ -4601,7 +4625,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/306118
  ition de l'industrie lourde à la Tech\, en mettant en lumière les compé
  tences transférables et les ajustements nécessaires pour réussir dans u
  n secteur en perpétuelle évolution.*\n20h - Discussions autour d’un ve
- rre\n21h30 - Fin\n\nCommunauté: human-talks\n👥 47 participant(s)
+ rre\n21h30 - Fin\n\nCommunauté: human-talks\n👥 48 participant(s)
 LOCATION:Cdiscount\, 1 Quai Armand Lalande\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/306118686/
@@ -5088,7 +5112,7 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30632128
  ui font le web à Bordeaux et créer un afterwork au top :1️⃣ Partagez
   & likez ce post2️⃣ Tagguez vos collègues/amis/connaissances qui trav
  aillent dans le web\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web\n
- 👥 30 participant(s)
+ 👥 31 participant(s)
 LOCATION:Backyard\, 40 Allées d'Orléans \, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/306321282/

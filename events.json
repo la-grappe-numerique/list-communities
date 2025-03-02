@@ -1,6 +1,24 @@
 [
   {
     "title": "Coding dojo",
+    "date": "2026-03-02T18:30:00+01:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n• passer tous les tests ;• aucune duplication de code ;• révéler les intentions par le code, être très attentif au nommage ;• réduire le nombre de classes et de méthodes.\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "9 Rue de Condé, Bordeaux",
+    "rsvp_limit": 15,
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
+    "title": "Coding dojo",
     "date": "2026-02-02T18:30:00+01:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/",
     "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n• passer tous les tests ;• aucune duplication de code ;• révéler les intentions par le code, être très attentif au nommage ;• réduire le nombre de classes et de méthodes.\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
@@ -267,7 +285,7 @@
       "country": "France"
     },
     "location": "1 Quai Armand Lalande, Bordeaux",
-    "rsvp_count": 47,
+    "rsvp_count": 48,
     "communities": [
       "human-talks"
     ]
@@ -285,7 +303,7 @@
       "country": "France"
     },
     "location": "40 Allées d'Orléans , Bordeaux",
-    "rsvp_count": 30,
+    "rsvp_count": 31,
     "communities": [
       "apero-web"
     ]
