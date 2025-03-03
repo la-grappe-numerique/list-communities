@@ -273,6 +273,17 @@
     ]
   },
   {
+    "title": "Archilocus #14",
+    "date": "2025-03-13T18:00:00+01:00",
+    "url": "https://www.meetup.com/archilocus/events/306500977/",
+    "description": "* 2 sessions autour des API* 1 table ronde sur la Tech Governance : \"Adopte ta tech\" ou comment vous choisissez et gérez la vie de vos langages, middlewares, outils de développement...",
+    "is_online": true,
+    "rsvp_count": 6,
+    "communities": [
+      "archilocus"
+    ]
+  },
+  {
     "title": "Human Talks Bordeaux #10 - Organisation & Leadership",
     "date": "2025-03-11T18:30:00+01:00",
     "url": "https://www.meetup.com/human-talks-bordeaux/events/306118686/",
@@ -285,7 +296,7 @@
       "country": "France"
     },
     "location": "1 Quai Armand Lalande, Bordeaux",
-    "rsvp_count": 48,
+    "rsvp_count": 49,
     "communities": [
       "human-talks"
     ]

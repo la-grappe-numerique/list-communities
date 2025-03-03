@@ -4625,7 +4625,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/306118
  ition de l'industrie lourde à la Tech\, en mettant en lumière les compé
  tences transférables et les ajustements nécessaires pour réussir dans u
  n secteur en perpétuelle évolution.*\n20h - Discussions autour d’un ve
- rre\n21h30 - Fin\n\nCommunauté: human-talks\n👥 48 participant(s)
+ rre\n21h30 - Fin\n\nCommunauté: human-talks\n👥 49 participant(s)
 LOCATION:Cdiscount\, 1 Quai Armand Lalande\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/306118686/
@@ -10040,6 +10040,19 @@ LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/143511422/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archilocus #14
+DTSTART;TZID=Europe/Paris:20250313T180000
+DTEND;TZID=Europe/Paris:20250313T200000
+UID:https://www.meetup.com/archilocus/events/306500977/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/306500977/\n\n* 
+ 2 sessions autour des API* 1 table ronde sur la Tech Governance : "Adopte 
+ ta tech" ou comment vous choisissez et gérez la vie de vos langages\, mid
+ dlewares\, outils de développement...\n\nCommunauté: archilocus\n💻 É
+ vénement en ligne\n👥 6 participant(s)
+TZID:Europe/Paris
+URL:https://www.meetup.com/archilocus/events/306500977/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Archilocus #13 Infrastructure

@@ -10,6 +10,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/archilocus/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 13 mars 2025 à 18:00 | Archilocus #14 | Online | https://www.meetup.com/archilocus/events/306500977/ |
+
 ## 📆 Past Events
 
 <details>

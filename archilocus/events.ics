@@ -5,6 +5,19 @@ X-WR-CALDESC:Calendrier des événements de la communauté archilocus
 X-WR-CALNAME:Événements archilocus
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Archilocus #14
+DTSTART;TZID=Europe/Paris:20250313T180000
+DTEND;TZID=Europe/Paris:20250313T200000
+UID:https://www.meetup.com/archilocus/events/306500977/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/306500977/\n\n* 
+ 2 sessions autour des API* 1 table ronde sur la Tech Governance : "Adopte 
+ ta tech" ou comment vous choisissez et gérez la vie de vos langages\, mid
+ dlewares\, outils de développement...\n\nCommunauté: archilocus\n💻 É
+ vénement en ligne\n👥 6 participant(s)
+TZID:Europe/Paris
+URL:https://www.meetup.com/archilocus/events/306500977/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Archilocus #13 Infrastructure
 DTSTART;TZID=Europe/Paris:20240530T180000
 DTEND;TZID=Europe/Paris:20240530T200000
