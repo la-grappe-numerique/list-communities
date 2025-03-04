@@ -14,7 +14,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](./events.ics
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Lundi 03 mars 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcfbfb/ |
 | Vendredi 04 avril 2025 à 09:00 | Open Okiwi #3 | 44 All. de Tourny, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/306324474/ |
 | Lundi 07 avril 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcgbkb/ |
 | Lundi 05 mai 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb/ |

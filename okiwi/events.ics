@@ -310,35 +310,10 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par Okiwi.\n**Attention : l'inscription est limitée à 30 personnes et 
  l'évènement est en présentiel**\, si vous êtes inscrit vous vous engag
  ez à venir\, vérifiez votre disponibilité pour la journée 😄\n\nComm
- unauté: okiwi\n👥 15 participant(s)\nLimité à 33 places
+ unauté: okiwi\n👥 16 participant(s)\nLimité à 33 places
 LOCATION:44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/306324474/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coding dojo
-DTSTART;TZID=Europe/Paris:20250303T183000
-DTEND;TZID=Europe/Paris:20250303T203000
-UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcfbfb
- /@community-events
-DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
- pkmrktyhcfbfb/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Co
- ndé\, Bordeaux\, France\n\nDes coding dojos\, sessions amusantes et inten
- ses pendant lesquelles des développeurs améliorent leurs compétences en
-  programmation. Le principe est simple : on prend un exercice de programma
- tion simple\, on choisit un langage\, et on essaie de coder une solution e
- n respectant les 4 règles du design simple de Kent Beck :\n• passer tou
- s les tests \;• aucune duplication de code \;• révéler les intention
- s par le code\, être très attentif au nommage \;• réduire le nombre d
- e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
- , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\n👥 6 participant(s)\nLimité à 
- 15 places
-LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
- aux\, France
-TZID:Europe/Paris
-URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcfbfb
- /
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Redonner du corps au métier avec la programmation fonctionnelle
