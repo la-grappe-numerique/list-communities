@@ -9,6 +9,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 20 mars 2025 à 19:00 | Super-Apéro 2025 | 23 Rue Ausone, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/306530360/ |
+
 ## 📆 Past Events
 
 <details>

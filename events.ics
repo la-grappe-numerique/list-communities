@@ -508,7 +508,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par Okiwi.\n**Attention : l'inscription est limitée à 30 personnes et 
  l'évènement est en présentiel**\, si vous êtes inscrit vous vous engag
  ez à venir\, vérifiez votre disponibilité pour la journée 😄\n\nComm
- unauté: okiwi\n👥 16 participant(s)\nLimité à 33 places
+ unauté: okiwi\n👥 17 participant(s)\nLimité à 33 places
 LOCATION:44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/306324474/
@@ -4600,7 +4600,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/306118
  ition de l'industrie lourde à la Tech\, en mettant en lumière les compé
  tences transférables et les ajustements nécessaires pour réussir dans u
  n secteur en perpétuelle évolution.*\n20h - Discussions autour d’un ve
- rre\n21h30 - Fin\n\nCommunauté: human-talks\n👥 52 participant(s)
+ rre\n21h30 - Fin\n\nCommunauté: human-talks\n👥 54 participant(s)
 LOCATION:Cdiscount\, 1 Quai Armand Lalande\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/306118686/
@@ -5087,7 +5087,7 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30632128
  ui font le web à Bordeaux et créer un afterwork au top :1️⃣ Partagez
   & likez ce post2️⃣ Tagguez vos collègues/amis/connaissances qui trav
  aillent dans le web\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web\n
- 👥 33 participant(s)
+ 👥 35 participant(s)
 LOCATION:Backyard\, 40 Allées d'Orléans \, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/306321282/
@@ -10025,7 +10025,7 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/306500977/\n\n*
  2 sessions autour des API* 1 table ronde sur la Tech Governance : "Adopte 
  ta tech" ou comment vous choisissez et gérez la vie de vos langages\, mid
  dlewares\, outils de développement...\n\nCommunauté: archilocus\n💻 É
- vénement en ligne\n👥 11 participant(s)
+ vénement en ligne\n👥 13 participant(s)
 TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/306500977/
 END:VEVENT
@@ -10305,6 +10305,51 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/278556971/\n\nNo
   Événement en ligne\n👥 345 participant(s)
 TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/278556971/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meetup #8 @BDX/IO @Deezer : Falco et Karpenter
+DTSTART;TZID=Europe/Paris:20250313T190000
+DTEND;TZID=Europe/Paris:20250313T210000
+UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/30653417
+ 4/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
+ ents/306534174/\n📍 Deezer Bdx\, 20 rue Saint-François\, Bordeaux\, Fra
+ nce\n\n**Seconde Vague** 🤝 **CNCF Bordeaux**\n**Lieu**Deezer Bordeaux 2
+ 0 Rue Saint-François\, 33000 Bordeaux**Détails**18:30 - Accueil des part
+ icipantes et participants19:00 - Début des talks20:15 - Discussions et é
+ changes21:00 - Fermeture des locaux\n**Présentations**\n*"Réagir à temp
+ s aux menaces dans vos clusters Kubernetes avec Falco et son écosystème"
+ * par **Thomas Labarussias**\nLes applications et clusters Kubernetes sont
+  de plus en plus exposés aux menaces extérieures. Bien que l'écosystèm
+ e CNCF offre des outils de protection\, ceux-ci peuvent ne pas être suffi
+ sants. Se pose alors la question: Comment détecter et réagir aux comport
+ ements suspects au sein de nos systèmes ?C'est là qu'intervient Falco\, 
+ un projet "Graduated" de la CNCF\, qui sert de caméra de sécurité en te
+ mps réel pour les applications\, les conteneurs\, les clusters Kubernetes
+  et autres technologies cloud natives. Reconnaissant le besoin d'une répo
+ nse rapide\, l'équipe derrière Falco a récemment introduit Falco Talon:
+  un puissant moteur no-code de réponse automatisée.Dans cette session\, 
+ nous explorerons comment Falco détecte les actions suspectes et comment T
+ alon permet aux utilisateurs de se défendre avec ses actions pré-constru
+ ites - le tout sans écrire une seule ligne de code.\n*"Comment nous avons
+  migré nos clusters EKS de Cluster Autoscaler à Karpenter et pourquoi ?"
+ * par **Vivien RAMAHANDRY**\nQuand on parle de scalabilité au sein d’un
+  cluster Kubernetes il y a celle au niveau des pods (HPA\, VPA) mais égal
+ ement celle au niveau des nodes auquels on associe généralement le Clust
+ er Autoscaler.Mais depuis 2021 un nouveau venu est arrivé dans la course 
+ sortie des labs AWS il s’agit de Karpenter.Ce projet open-source qui est
+  en version stable 1.0 depuis Octobre 2024 promets de choisir pour vous le
+ s bonnes instances au bon moment mais pas que..Dans ce talk\, je vais vous
+  faire un retour d’expérience sur notre migration vers Karpenter. Pour 
+ cela\, nous allons comprendre les concepts-clés de Karpenter ainsi que le
+ s bénéfices par rapport à Cluster Autoscaler. Enfin\, je vous donnerai 
+ des conseils à mettre en place avant et après l’utilisation de Karpent
+ er.\n\nCommunauté: cloud-native-bordeaux\n👥 3 participant(s)\nLimité 
+ à 50 places
+LOCATION:Deezer Bdx\, 20 rue Saint-François\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/30653417
+ 4/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup #7 @Spaces @ManoMano @Elastic : ElasticSearch & Kubernetes
@@ -16714,6 +16759,25 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/88035462/\n📍
 LOCATION:Node\, 12 rue des faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/88035462/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super-Apéro 2025
+DTSTART;TZID=Europe/Paris:20250320T190000
+DTEND;TZID=Europe/Paris:20250320T210000
+UID:https://www.meetup.com/bordeaux-php-meetup/events/306530360/@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3065303
+ 60/\n📍 The Frog & Rosbif\, Bordeaux\, 23 Rue Ausone\, Bordeaux\, France
+ \n\nLe 20 mars se tient **THE Super Apéro 2025** de l'AFUP 🎉\nCet év
+ énement a lieu dans plusieurs antennes de l’AFUP en même temps !Vous p
+ ouvez découvrir la liste en ligne ici : [https://afup.org/association/sup
+ er-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fê
+ tez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻
+ 🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super int
+ éressantes 😄 🤓\n\nCommunauté: afup-bordeaux\n👥 5 participant(s)
+LOCATION:The Frog & Rosbif\, Bordeaux\, 23 Rue Ausone\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-php-meetup/events/306530360/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory

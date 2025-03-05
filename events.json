@@ -248,9 +248,46 @@
     },
     "location": "44 All. de Tourny, Bordeaux",
     "rsvp_limit": 33,
-    "rsvp_count": 16,
+    "rsvp_count": 17,
     "communities": [
       "okiwi"
+    ]
+  },
+  {
+    "title": "Super-Apéro 2025",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
+    "description": "Le 20 mars se tient **THE Super Apéro 2025** de l'AFUP 🎉\nCet événement a lieu dans plusieurs antennes de l’AFUP en même temps !Vous pouvez découvrir la liste en ligne ici : [https://afup.org/association/super-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fêtez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super intéressantes 😄 🤓",
+    "is_online": false,
+    "venue": {
+      "name": "The Frog & Rosbif, Bordeaux",
+      "address": "23 Rue Ausone",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "23 Rue Ausone, Bordeaux",
+    "rsvp_count": 5,
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Meetup #8 @BDX/IO @Deezer : Falco et Karpenter",
+    "date": "2025-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/cloud-native-computing-bordeaux/events/306534174/",
+    "description": "**Seconde Vague** 🤝 **CNCF Bordeaux**\n**Lieu**Deezer Bordeaux 20 Rue Saint-François, 33000 Bordeaux**Détails**18:30 - Accueil des participantes et participants19:00 - Début des talks20:15 - Discussions et échanges21:00 - Fermeture des locaux\n**Présentations**\n*\"Réagir à temps aux menaces dans vos clusters Kubernetes avec Falco et son écosystème\"* par **Thomas Labarussias**\nLes applications et clusters Kubernetes sont de plus en plus exposés aux menaces extérieures. Bien que l'écosystème CNCF offre des outils de protection, ceux-ci peuvent ne pas être suffisants. Se pose alors la question: Comment détecter et réagir aux comportements suspects au sein de nos systèmes ?C'est là qu'intervient Falco, un projet \"Graduated\" de la CNCF, qui sert de caméra de sécurité en temps réel pour les applications, les conteneurs, les clusters Kubernetes et autres technologies cloud natives. Reconnaissant le besoin d'une réponse rapide, l'équipe derrière Falco a récemment introduit Falco Talon: un puissant moteur no-code de réponse automatisée.Dans cette session, nous explorerons comment Falco détecte les actions suspectes et comment Talon permet aux utilisateurs de se défendre avec ses actions pré-construites - le tout sans écrire une seule ligne de code.\n*\"Comment nous avons migré nos clusters EKS de Cluster Autoscaler à Karpenter et pourquoi ?\"* par **Vivien RAMAHANDRY**\nQuand on parle de scalabilité au sein d’un cluster Kubernetes il y a celle au niveau des pods (HPA, VPA) mais également celle au niveau des nodes auquels on associe généralement le Cluster Autoscaler.Mais depuis 2021 un nouveau venu est arrivé dans la course sortie des labs AWS il s’agit de Karpenter.Ce projet open-source qui est en version stable 1.0 depuis Octobre 2024 promets de choisir pour vous les bonnes instances au bon moment mais pas que..Dans ce talk, je vais vous faire un retour d’expérience sur notre migration vers Karpenter. Pour cela, nous allons comprendre les concepts-clés de Karpenter ainsi que les bénéfices par rapport à Cluster Autoscaler. Enfin, je vous donnerai des conseils à mettre en place avant et après l’utilisation de Karpenter.",
+    "is_online": false,
+    "venue": {
+      "name": "Deezer Bdx",
+      "address": "20 rue Saint-François",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "20 rue Saint-François, Bordeaux",
+    "rsvp_limit": 50,
+    "rsvp_count": 3,
+    "communities": [
+      "cloud-native-bordeaux"
     ]
   },
   {
@@ -278,7 +315,7 @@
     "url": "https://www.meetup.com/archilocus/events/306500977/",
     "description": "* 2 sessions autour des API* 1 table ronde sur la Tech Governance : \"Adopte ta tech\" ou comment vous choisissez et gérez la vie de vos langages, middlewares, outils de développement...",
     "is_online": true,
-    "rsvp_count": 11,
+    "rsvp_count": 13,
     "communities": [
       "archilocus"
     ]
@@ -296,7 +333,7 @@
       "country": "France"
     },
     "location": "1 Quai Armand Lalande, Bordeaux",
-    "rsvp_count": 52,
+    "rsvp_count": 54,
     "communities": [
       "human-talks"
     ]
@@ -314,7 +351,7 @@
       "country": "France"
     },
     "location": "40 Allées d'Orléans , Bordeaux",
-    "rsvp_count": 33,
+    "rsvp_count": 35,
     "communities": [
       "apero-web"
     ]

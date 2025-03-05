@@ -7,6 +7,51 @@ X-WR-CALDESC:Calendrier des événements de la communauté cloud-native-bo
 X-WR-CALNAME:Événements cloud-native-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Meetup #8 @BDX/IO @Deezer : Falco et Karpenter
+DTSTART;TZID=Europe/Paris:20250313T190000
+DTEND;TZID=Europe/Paris:20250313T210000
+UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/30653417
+ 4/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
+ ents/306534174/\n📍 Deezer Bdx\, 20 rue Saint-François\, Bordeaux\, Fra
+ nce\n\n**Seconde Vague** 🤝 **CNCF Bordeaux**\n**Lieu**Deezer Bordeaux 2
+ 0 Rue Saint-François\, 33000 Bordeaux**Détails**18:30 - Accueil des part
+ icipantes et participants19:00 - Début des talks20:15 - Discussions et é
+ changes21:00 - Fermeture des locaux\n**Présentations**\n*"Réagir à temp
+ s aux menaces dans vos clusters Kubernetes avec Falco et son écosystème"
+ * par **Thomas Labarussias**\nLes applications et clusters Kubernetes sont
+  de plus en plus exposés aux menaces extérieures. Bien que l'écosystèm
+ e CNCF offre des outils de protection\, ceux-ci peuvent ne pas être suffi
+ sants. Se pose alors la question: Comment détecter et réagir aux comport
+ ements suspects au sein de nos systèmes ?C'est là qu'intervient Falco\, 
+ un projet "Graduated" de la CNCF\, qui sert de caméra de sécurité en te
+ mps réel pour les applications\, les conteneurs\, les clusters Kubernetes
+  et autres technologies cloud natives. Reconnaissant le besoin d'une répo
+ nse rapide\, l'équipe derrière Falco a récemment introduit Falco Talon:
+  un puissant moteur no-code de réponse automatisée.Dans cette session\, 
+ nous explorerons comment Falco détecte les actions suspectes et comment T
+ alon permet aux utilisateurs de se défendre avec ses actions pré-constru
+ ites - le tout sans écrire une seule ligne de code.\n*"Comment nous avons
+  migré nos clusters EKS de Cluster Autoscaler à Karpenter et pourquoi ?"
+ * par **Vivien RAMAHANDRY**\nQuand on parle de scalabilité au sein d’un
+  cluster Kubernetes il y a celle au niveau des pods (HPA\, VPA) mais égal
+ ement celle au niveau des nodes auquels on associe généralement le Clust
+ er Autoscaler.Mais depuis 2021 un nouveau venu est arrivé dans la course 
+ sortie des labs AWS il s’agit de Karpenter.Ce projet open-source qui est
+  en version stable 1.0 depuis Octobre 2024 promets de choisir pour vous le
+ s bonnes instances au bon moment mais pas que..Dans ce talk\, je vais vous
+  faire un retour d’expérience sur notre migration vers Karpenter. Pour 
+ cela\, nous allons comprendre les concepts-clés de Karpenter ainsi que le
+ s bénéfices par rapport à Cluster Autoscaler. Enfin\, je vous donnerai 
+ des conseils à mettre en place avant et après l’utilisation de Karpent
+ er.\n\nCommunauté: cloud-native-bordeaux\n👥 3 participant(s)\nLimité 
+ à 50 places
+LOCATION:Deezer Bdx\, 20 rue Saint-François\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/30653417
+ 4/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meetup #7 @Spaces @ManoMano @Elastic : ElasticSearch & Kubernetes
 DTSTART;TZID=Europe/Paris:20200114T191500
 DTEND;TZID=Europe/Paris:20200114T211500

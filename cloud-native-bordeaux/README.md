@@ -10,6 +10,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/cloud-native-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 13 mars 2025 à 19:00 | Meetup #8 @BDX/IO @Deezer : Falco et Karpenter | 20 rue Saint-François, Bordeaux | https://www.meetup.com/cloud-native-computing-bordeaux/events/306534174/ |
+
 ## 📆 Past Events
 
 <details>

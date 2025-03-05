@@ -5,6 +5,25 @@ X-WR-CALDESC:Calendrier des événements de la communauté afup-bordeaux
 X-WR-CALNAME:Événements afup-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Super-Apéro 2025
+DTSTART;TZID=Europe/Paris:20250320T190000
+DTEND;TZID=Europe/Paris:20250320T210000
+UID:https://www.meetup.com/bordeaux-php-meetup/events/306530360/@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3065303
+ 60/\n📍 The Frog & Rosbif\, Bordeaux\, 23 Rue Ausone\, Bordeaux\, France
+ \n\nLe 20 mars se tient **THE Super Apéro 2025** de l'AFUP 🎉\nCet év
+ énement a lieu dans plusieurs antennes de l’AFUP en même temps !Vous p
+ ouvez découvrir la liste en ligne ici : [https://afup.org/association/sup
+ er-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fê
+ tez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻
+ 🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super int
+ éressantes 😄 🤓\n\nCommunauté: afup-bordeaux\n👥 5 participant(s)
+LOCATION:The Frog & Rosbif\, Bordeaux\, 23 Rue Ausone\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-php-meetup/events/306530360/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory
   Manager
 DTSTART;TZID=Europe/Paris:20250226T190000
