@@ -1,5 +1,21 @@
 [
   {
+    "title": "Super-Apéro 2025",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
+    "description": "Le 20 mars se tient **THE Super Apéro 2025** de l'AFUP 🎉\nCet événement a lieu dans plusieurs antennes de l’AFUP en même temps !Vous pouvez découvrir la liste en ligne ici : [https://afup.org/association/super-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fêtez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super intéressantes 😄 🤓",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "The Frog & Rosbif, Bordeaux",
+      "address": "23 Rue Ausone",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "23 Rue Ausone, Bordeaux",
+    "rsvp_count": 5
+  },
+  {
     "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
     "date": "2025-02-26T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
