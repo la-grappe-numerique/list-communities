@@ -19,9 +19,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 05 mars 2025 à 19:00 | [apero-web](apero-web/) | [🍷🍻 L'Apéro Web Bordeaux](https://www.meetup.com/apero-web-bordeaux/events/306321282/) | 40 Allées d'Orléans , Bordeaux |
 | Mardi 11 mars 2025 à 18:30 | [human-talks](human-talks/) | [Human Talks Bordeaux #10 - Organisation & Leadership](https://www.meetup.com/human-talks-bordeaux/events/306118686/) | 1 Quai Armand Lalande, Bordeaux |
 | Jeudi 13 mars 2025 à 18:00 | [archilocus](archilocus/) | [Archilocus #14](https://www.meetup.com/archilocus/events/306500977/) | Online |
+| Jeudi 13 mars 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Scrum ET Kanban - L’alliage résilient de l’amélioration continue de vos produits](https://www.meetup.com/agile-bordeaux/events/305865751/) | 12 Rue des Faussets, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

@@ -10,10 +10,13 @@ DTSTART;TZID=Europe/Paris:20250313T180000
 DTEND;TZID=Europe/Paris:20250313T200000
 UID:https://www.meetup.com/archilocus/events/306500977/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/306500977/\n\n* 
- 2 sessions autour des API* 1 table ronde sur la Tech Governance : "Adopte 
- ta tech" ou comment vous choisissez et gérez la vie de vos langages\, mid
- dlewares\, outils de développement...\n\nCommunauté: archilocus\n💻 É
- vénement en ligne\n👥 13 participant(s)
+ Le versioning des APIs REST : dans la vraie vie\, on fait comment ?Alexand
+ re Touret - Wordline* Venez découvrir une nouvelle solution d'intégratio
+ n pour interconnecter rapidement n'importe quel système...Matthieu Lagast
+  - Apizr* 1 table ronde sur la Tech Governance : "Adopte ta tech" ou comme
+ nt vous choisissez et gérez la vie de vos langages\, middlewares\, outils
+  de développement...Julien Roynette (Adeo) et Cyril Beslay (ManoMano)\n\n
+ Communauté: archilocus\n💻 Événement en ligne\n👥 13 participant(s)
 TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/306500977/
 END:VEVENT

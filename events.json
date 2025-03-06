@@ -248,7 +248,7 @@
     },
     "location": "44 All. de Tourny, Bordeaux",
     "rsvp_limit": 33,
-    "rsvp_count": 17,
+    "rsvp_count": 18,
     "communities": [
       "okiwi"
     ]
@@ -266,7 +266,7 @@
       "country": "France"
     },
     "location": "23 Rue Ausone, Bordeaux",
-    "rsvp_count": 5,
+    "rsvp_count": 8,
     "communities": [
       "afup-bordeaux"
     ]
@@ -313,7 +313,7 @@
     "title": "Archilocus #14",
     "date": "2025-03-13T18:00:00+01:00",
     "url": "https://www.meetup.com/archilocus/events/306500977/",
-    "description": "* 2 sessions autour des API* 1 table ronde sur la Tech Governance : \"Adopte ta tech\" ou comment vous choisissez et gérez la vie de vos langages, middlewares, outils de développement...",
+    "description": "* Le versioning des APIs REST : dans la vraie vie, on fait comment ?Alexandre Touret - Wordline* Venez découvrir une nouvelle solution d'intégration pour interconnecter rapidement n'importe quel système...Matthieu Lagast - Apizr* 1 table ronde sur la Tech Governance : \"Adopte ta tech\" ou comment vous choisissez et gérez la vie de vos langages, middlewares, outils de développement...Julien Roynette (Adeo) et Cyril Beslay (ManoMano)",
     "is_online": true,
     "rsvp_count": 13,
     "communities": [
@@ -333,7 +333,7 @@
       "country": "France"
     },
     "location": "1 Quai Armand Lalande, Bordeaux",
-    "rsvp_count": 54,
+    "rsvp_count": 57,
     "communities": [
       "human-talks"
     ]
@@ -351,7 +351,7 @@
       "country": "France"
     },
     "location": "40 Allées d'Orléans , Bordeaux",
-    "rsvp_count": 35,
+    "rsvp_count": 42,
     "communities": [
       "apero-web"
     ]
