@@ -266,7 +266,7 @@
       "country": "France"
     },
     "location": "23 Rue Ausone, Bordeaux",
-    "rsvp_count": 10,
+    "rsvp_count": 11,
     "communities": [
       "afup-bordeaux"
     ]
@@ -315,7 +315,7 @@
     "url": "https://www.meetup.com/archilocus/events/306500977/",
     "description": "* Le versioning des APIs REST : dans la vraie vie, on fait comment ?Alexandre Touret - Wordline* Venez découvrir une nouvelle solution d'intégration pour interconnecter rapidement n'importe quel système...Matthieu Lagast - Apizr* 1 table ronde sur la Tech Governance : \"Adopte ta tech\" ou comment vous choisissez et gérez la vie de vos langages, middlewares, outils de développement...Julien Roynette (Adeo), Philippe Kernevez (Co-Founder of Kleis Technology & Chief Engineer @ Light Frame) et Philippe Bousquet (Directeur Technique SQLI Bordeaux).",
     "is_online": true,
-    "rsvp_count": 14,
+    "rsvp_count": 16,
     "communities": [
       "archilocus"
     ]
@@ -333,7 +333,7 @@
       "country": "France"
     },
     "location": "1 Quai Armand Lalande, Bordeaux",
-    "rsvp_count": 58,
+    "rsvp_count": 59,
     "communities": [
       "human-talks"
     ]
