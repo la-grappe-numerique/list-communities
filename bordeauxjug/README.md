@@ -10,6 +10,13 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 13 mars 2025 à 19:00 | Assemblée Générales 2025 | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/306640736/ |
+| Jeudi 20 mars 2025 à 19:00 | Elasticsearch Query Language: ES|QL | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/306640938/ |
+
 ## 📆 Past Events
 
 <details>

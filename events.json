@@ -198,6 +198,25 @@
     ]
   },
   {
+    "title": "Meetup MTG:Bordeaux #6",
+    "date": "2025-04-10T18:30:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/306572236/",
+    "description": "Ce second meetup de 2025 pour le MTG:Bordeaux se déroulera dans les locaux d'Hager le jeudi 10 avril 2025 :\n[198 Av. du Haut Lévêque, 33600 Pessac](https://www.google.fr/maps/place/Hager/@44.7824611,-0.6532651,17z/data=!3m1!5s0xd54d93065b8aad1:0x7924d24c0b3a37e0!4m14!1m7!3m6!1s0xd54d9f80e1fdd89:0x3a6b762f64d3b74a!2sHager!8m2!3d44.7824573!4d-0.6506902!16s%2Fg%2F1pp2vkg4l!3m5!1s0xd54d9f80e1fdd89:0x3a6b762f64d3b74a!8m2!3d44.7824573!4d-0.6506902!16s%2Fg%2F1pp2vkg4l?entry=ttu&g_ep=EgoyMDI1MDMwMy4wIKXMDSoASAFQAw%3D%3D)\nVoici le programme de la soirée :\n* 18h00 - 18h30 => Accueil* 18H30 - 18H40 => Introduction* 18H40 - 19h25 => Talk 1* 19h25 - 20h10 => Talk 2* 20h10 => Moment convivial\nLes détails du programme (talks et speakers) sont communiqués prochainement.",
+    "is_online": false,
+    "venue": {
+      "name": "Hager",
+      "address": "198 Av. du Haut Lévêque, 33600 Pessac",
+      "city": "Pessac",
+      "country": "France"
+    },
+    "location": "198 Av. du Haut Lévêque, 33600 Pessac, Pessac",
+    "rsvp_limit": 40,
+    "rsvp_count": 6,
+    "communities": [
+      "mtg-bordeaux"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2025-04-07T18:30:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcgbkb/",
@@ -254,6 +273,24 @@
     ]
   },
   {
+    "title": "Elasticsearch Query Language: ES|QL",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
+    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 4,
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "Super-Apéro 2025",
     "date": "2025-03-20T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
@@ -272,10 +309,28 @@
     ]
   },
   {
+    "title": "Assemblée Générales 2025",
+    "date": "2025-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
+    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 6,
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "Meetup #8 @BDX/IO @Deezer : Falco et Karpenter",
     "date": "2025-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/cloud-native-computing-bordeaux/events/306534174/",
-    "description": "**Seconde Vague** 🤝 **CNCF Bordeaux**\n**Lieu**Deezer Bordeaux 20 Rue Saint-François, 33000 Bordeaux**Détails**18:30 - Accueil des participantes et participants19:00 - Début des talks20:15 - Discussions et échanges21:00 - Fermeture des locaux\n**Présentations**\n*\"Réagir à temps aux menaces dans vos clusters Kubernetes avec Falco et son écosystème\"* par **Thomas Labarussias**\nLes applications et clusters Kubernetes sont de plus en plus exposés aux menaces extérieures. Bien que l'écosystème CNCF offre des outils de protection, ceux-ci peuvent ne pas être suffisants. Se pose alors la question: Comment détecter et réagir aux comportements suspects au sein de nos systèmes ?C'est là qu'intervient Falco, un projet \"Graduated\" de la CNCF, qui sert de caméra de sécurité en temps réel pour les applications, les conteneurs, les clusters Kubernetes et autres technologies cloud natives. Reconnaissant le besoin d'une réponse rapide, l'équipe derrière Falco a récemment introduit Falco Talon: un puissant moteur no-code de réponse automatisée.Dans cette session, nous explorerons comment Falco détecte les actions suspectes et comment Talon permet aux utilisateurs de se défendre avec ses actions pré-construites - le tout sans écrire une seule ligne de code.\n*\"Comment nous avons migré nos clusters EKS de Cluster Autoscaler à Karpenter et pourquoi ?\"* par **Vivien RAMAHANDRY**\nQuand on parle de scalabilité au sein d’un cluster Kubernetes il y a celle au niveau des pods (HPA, VPA) mais également celle au niveau des nodes auquels on associe généralement le Cluster Autoscaler.Mais depuis 2021 un nouveau venu est arrivé dans la course sortie des labs AWS il s’agit de Karpenter.Ce projet open-source qui est en version stable 1.0 depuis Octobre 2024 promets de choisir pour vous les bonnes instances au bon moment mais pas que..Dans ce talk, je vais vous faire un retour d’expérience sur notre migration vers Karpenter. Pour cela, nous allons comprendre les concepts-clés de Karpenter ainsi que les bénéfices par rapport à Cluster Autoscaler. Enfin, je vous donnerai des conseils à mettre en place avant et après l’utilisation de Karpenter.",
+    "description": "**Seconde Vague** 🤝 **CNCF Bordeaux**\n**Lieu**Deezer Bordeaux 20 Rue Saint-François, 33000 Bordeaux**Détails**18:30 - Accueil des participantes et participants19:00 - Début des talks20:15 - Discussions et échanges21:00 - Fermeture des locaux\n**Présentations**\n*\"Réagir à temps aux menaces dans vos clusters Kubernetes avec Falco et son écosystème\"* par **Thomas LABARUSSIAS**\nLes applications et clusters Kubernetes sont de plus en plus exposés aux menaces extérieures. Bien que l'écosystème CNCF offre des outils de protection, ceux-ci peuvent ne pas être suffisants. Se pose alors la question: Comment détecter et réagir aux comportements suspects au sein de nos systèmes ?C'est là qu'intervient Falco, un projet \"Graduated\" de la CNCF, qui sert de caméra de sécurité en temps réel pour les applications, les conteneurs, les clusters Kubernetes et autres technologies cloud natives. Reconnaissant le besoin d'une réponse rapide, l'équipe derrière Falco a récemment introduit Falco Talon: un puissant moteur no-code de réponse automatisée.Dans cette session, nous explorerons comment Falco détecte les actions suspectes et comment Talon permet aux utilisateurs de se défendre avec ses actions pré-construites - le tout sans écrire une seule ligne de code.\n*\"Comment nous avons migré nos clusters EKS de Cluster Autoscaler à Karpenter et pourquoi ?\"* par **Vivien RAMAHANDRY**\nQuand on parle de scalabilité au sein d’un cluster Kubernetes il y a celle au niveau des pods (HPA, VPA) mais également celle au niveau des nodes auquels on associe généralement le Cluster Autoscaler.Mais depuis 2021 un nouveau venu est arrivé dans la course sortie des labs AWS il s’agit de Karpenter.Ce projet open-source qui est en version stable 1.0 depuis Octobre 2024 promets de choisir pour vous les bonnes instances au bon moment mais pas que..Dans ce talk, je vais vous faire un retour d’expérience sur notre migration vers Karpenter. Pour cela, nous allons comprendre les concepts-clés de Karpenter ainsi que les bénéfices par rapport à Cluster Autoscaler. Enfin, je vous donnerai des conseils à mettre en place avant et après l’utilisation de Karpenter.",
     "is_online": false,
     "venue": {
       "name": "Deezer Bdx",
@@ -285,7 +340,7 @@
     },
     "location": "20 rue Saint-François, Bordeaux",
     "rsvp_limit": 50,
-    "rsvp_count": 3,
+    "rsvp_count": 8,
     "communities": [
       "cloud-native-bordeaux"
     ]
@@ -304,7 +359,7 @@
     },
     "location": "12 Rue des Faussets, Bordeaux",
     "rsvp_limit": 65,
-    "rsvp_count": 24,
+    "rsvp_count": 26,
     "communities": [
       "agile-bordeaux"
     ]
@@ -315,7 +370,7 @@
     "url": "https://www.meetup.com/archilocus/events/306500977/",
     "description": "* Le versioning des APIs REST : dans la vraie vie, on fait comment ?Alexandre Touret - Wordline* Venez découvrir une nouvelle solution d'intégration pour interconnecter rapidement n'importe quel système...Matthieu Lagast - Apizr* 1 table ronde sur la Tech Governance : \"Adopte ta tech\" ou comment vous choisissez et gérez la vie de vos langages, middlewares, outils de développement...Julien Roynette (Adeo), Philippe Kernevez (Co-Founder of Kleis Technology & Chief Engineer @ Light Frame) et Philippe Bousquet (Directeur Technique SQLI Bordeaux).",
     "is_online": true,
-    "rsvp_count": 20,
+    "rsvp_count": 21,
     "communities": [
       "archilocus"
     ]
@@ -333,7 +388,7 @@
       "country": "France"
     },
     "location": "1 Quai Armand Lalande, Bordeaux",
-    "rsvp_count": 62,
+    "rsvp_count": 67,
     "communities": [
       "human-talks"
     ]

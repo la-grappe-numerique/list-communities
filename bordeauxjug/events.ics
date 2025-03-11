@@ -5,6 +5,57 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjug
 X-WR-CALNAME:Événements bordeauxjug
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Elasticsearch Query Language: ES|QL
+DTSTART;TZID=Europe/Paris:20250320T190000
+DTEND;TZID=Europe/Paris:20250320T210000
+UID:https://www.meetup.com/bordeauxjug/events/306640938/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/306640938/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
+ nElasticsearch et Kibana apportent un tout nouveau langage\, **ES\\|QL**\,
+  avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\
+ nCela vous permet d'affiner vos résultats\, étape par étape et ajouter 
+ de nouvelles fonctionnalités comme par exemple l'enrichissement de donné
+ es et la transformation à la volée\, directement dans votre requête.\nE
+ t vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis le
+ s API Elasticsearch jusqu'aux fonctions de **"Discover" et d'"Alerting"** 
+ de Kibana.\nMais le changement principal n'est pas celui que vous verrez :
+  les ingénieurs ont développé un **tout nouveau moteur de calcul**\, co
+ nstruit avec la performance comme guide.\nVenez découvrir un aperçu de c
+ e **nouveau moteur avec découverte** de la syntaxe et du fonctionnement i
+ nterne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meeti
+ ngs/20250320-elasticsearch_query_language:_es_ql\n\nCommunauté: bordeauxj
+ ug\n👥 4 participant(s)
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
+ e
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/306640938/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Assemblée Générales 2025
+DTSTART;TZID=Europe/Paris:20250313T190000
+DTEND;TZID=Europe/Paris:20250313T210000
+UID:https://www.meetup.com/bordeauxjug/events/306640736/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/306640736/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
+ nLes soirées du BordeauxJUG sont organisées par des bénévoles. **L'ass
+ ociation a besoin de volontaire comme vous pour poursuivre ces activités*
+ *\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'ann
+ ée passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG
+  est ouverte à tous**. Par contre\, seules les personnes ayant fait un do
+ n ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux 
+ votes\, et notamment à l'élection du futur bureau.\n**N'hésitez donc pa
+ s à verser votre obole**\nVérifier que vous êtes à jour au niveau des 
+ cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'
+ AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à
+  coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/me
+ etings/20250313-assemble_generale_2025\n\nCommunauté: bordeauxjug\n👥 6
+  participant(s)
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
+ e
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/306640736/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tabby & Continue.dev : la dream team pour un IA coding assistant
 DTSTART;TZID=Europe/Paris:20250213T190000
 DTEND;TZID=Europe/Paris:20250213T210000

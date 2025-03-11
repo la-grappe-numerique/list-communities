@@ -19,7 +19,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  icipantes et participants19:00 - Début des talks20:15 - Discussions et é
  changes21:00 - Fermeture des locaux\n**Présentations**\n*"Réagir à temp
  s aux menaces dans vos clusters Kubernetes avec Falco et son écosystème"
- * par **Thomas Labarussias**\nLes applications et clusters Kubernetes sont
+ * par **Thomas LABARUSSIAS**\nLes applications et clusters Kubernetes sont
   de plus en plus exposés aux menaces extérieures. Bien que l'écosystèm
  e CNCF offre des outils de protection\, ceux-ci peuvent ne pas être suffi
  sants. Se pose alors la question: Comment détecter et réagir aux comport
@@ -44,7 +44,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  cela\, nous allons comprendre les concepts-clés de Karpenter ainsi que le
  s bénéfices par rapport à Cluster Autoscaler. Enfin\, je vous donnerai 
  des conseils à mettre en place avant et après l’utilisation de Karpent
- er.\n\nCommunauté: cloud-native-bordeaux\n👥 3 participant(s)\nLimité 
+ er.\n\nCommunauté: cloud-native-bordeaux\n👥 8 participant(s)\nLimité 
  à 50 places
 LOCATION:Deezer Bdx\, 20 rue Saint-François\, Bordeaux\, France
 TZID:Europe/Paris

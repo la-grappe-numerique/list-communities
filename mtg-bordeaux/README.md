@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 10 avril 2025 à 18:30 | Meetup MTG:Bordeaux #6 | 198 Av. du Haut Lévêque, 33600 Pessac, Pessac | https://www.meetup.com/mtg-bordeaux/events/306572236/ |
+
 ## 📆 Past Events
 
 <details>

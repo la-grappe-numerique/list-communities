@@ -4600,7 +4600,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/306118
  ition de l'industrie lourde à la Tech\, en mettant en lumière les compé
  tences transférables et les ajustements nécessaires pour réussir dans u
  n secteur en perpétuelle évolution.*\n20h - Discussions autour d’un ve
- rre\n21h30 - Fin\n\nCommunauté: human-talks\n👥 62 participant(s)
+ rre\n21h30 - Fin\n\nCommunauté: human-talks\n👥 67 participant(s)
 LOCATION:Cdiscount\, 1 Quai Armand Lalande\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/306118686/
@@ -5174,6 +5174,30 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30171604
 LOCATION:Gargalou Bordeaux\, 118 Quai de Bacalan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/301716042/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meetup MTG:Bordeaux #6
+DTSTART;TZID=Europe/Paris:20250410T183000
+DTEND;TZID=Europe/Paris:20250410T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/306572236/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/306572236/\n
+ 📍 Hager\, 198 Av. du Haut Lévêque\, 33600 Pessac\, Pessac\, France\n\
+ nCe second meetup de 2025 pour le MTG:Bordeaux se déroulera dans les loca
+ ux d'Hager le jeudi 10 avril 2025 :\n[198 Av. du Haut Lévêque\, 33600 Pe
+ ssac](https://www.google.fr/maps/place/Hager/@44.7824611\,-0.6532651\,17z/
+ data=!3m1!5s0xd54d93065b8aad1:0x7924d24c0b3a37e0!4m14!1m7!3m6!1s0xd54d9f80
+ e1fdd89:0x3a6b762f64d3b74a!2sHager!8m2!3d44.7824573!4d-0.6506902!16s%2Fg%2
+ F1pp2vkg4l!3m5!1s0xd54d9f80e1fdd89:0x3a6b762f64d3b74a!8m2!3d44.7824573!4d-
+ 0.6506902!16s%2Fg%2F1pp2vkg4l?entry=ttu&g_ep=EgoyMDI1MDMwMy4wIKXMDSoASAFQA
+ w%3D%3D)\nVoici le programme de la soirée :\n* 18h00 - 18h30 => Accueil* 
+ 18H30 - 18H40 => Introduction* 18H40 - 19h25 => Talk 1* 19h25 - 20h10 => T
+ alk 2* 20h10 => Moment convivial\nLes détails du programme (talks et spea
+ kers) sont communiqués prochainement.\n\nCommunauté: mtg-bordeaux\n👥 
+ 6 participant(s)\nLimité à 40 places
+LOCATION:Hager\, 198 Av. du Haut Lévêque\, 33600 Pessac\, Pessac\, Franc
+ e
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/306572236/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meetup MTG:Bordeaux #5
@@ -6544,6 +6568,57 @@ LOCATION:AT Internet\, 85 Avenue John Fitzgerald Kennedy\, Merignac\, Fran
  ce
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/229864331/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elasticsearch Query Language: ES|QL
+DTSTART;TZID=Europe/Paris:20250320T190000
+DTEND;TZID=Europe/Paris:20250320T210000
+UID:https://www.meetup.com/bordeauxjug/events/306640938/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/306640938/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
+ nElasticsearch et Kibana apportent un tout nouveau langage\, **ES\\|QL**\,
+  avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\
+ nCela vous permet d'affiner vos résultats\, étape par étape et ajouter 
+ de nouvelles fonctionnalités comme par exemple l'enrichissement de donné
+ es et la transformation à la volée\, directement dans votre requête.\nE
+ t vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis le
+ s API Elasticsearch jusqu'aux fonctions de **"Discover" et d'"Alerting"** 
+ de Kibana.\nMais le changement principal n'est pas celui que vous verrez :
+  les ingénieurs ont développé un **tout nouveau moteur de calcul**\, co
+ nstruit avec la performance comme guide.\nVenez découvrir un aperçu de c
+ e **nouveau moteur avec découverte** de la syntaxe et du fonctionnement i
+ nterne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meeti
+ ngs/20250320-elasticsearch_query_language:_es_ql\n\nCommunauté: bordeauxj
+ ug\n👥 4 participant(s)
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
+ e
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/306640938/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Assemblée Générales 2025
+DTSTART;TZID=Europe/Paris:20250313T190000
+DTEND;TZID=Europe/Paris:20250313T210000
+UID:https://www.meetup.com/bordeauxjug/events/306640736/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/306640736/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, France\n\
+ nLes soirées du BordeauxJUG sont organisées par des bénévoles. **L'ass
+ ociation a besoin de volontaire comme vous pour poursuivre ces activités*
+ *\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'ann
+ ée passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG
+  est ouverte à tous**. Par contre\, seules les personnes ayant fait un do
+ n ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux 
+ votes\, et notamment à l'élection du futur bureau.\n**N'hésitez donc pa
+ s à verser votre obole**\nVérifier que vous êtes à jour au niveau des 
+ cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'
+ AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à
+  coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/me
+ etings/20250313-assemble_generale_2025\n\nCommunauté: bordeauxjug\n👥 6
+  participant(s)
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
+ e
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/306640736/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tabby & Continue.dev : la dream team pour un IA coding assistant
@@ -10030,7 +10105,7 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/306500977/\n\n*
   de développement...Julien Roynette (Adeo)\, Philippe Kernevez (Co-Founde
  r of Kleis Technology & Chief Engineer @ Light Frame) et Philippe Bousquet
   (Directeur Technique SQLI Bordeaux).\n\nCommunauté: archilocus\n💻 Év
- énement en ligne\n👥 20 participant(s)
+ énement en ligne\n👥 21 participant(s)
 TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/306500977/
 END:VEVENT
@@ -10324,7 +10399,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  icipantes et participants19:00 - Début des talks20:15 - Discussions et é
  changes21:00 - Fermeture des locaux\n**Présentations**\n*"Réagir à temp
  s aux menaces dans vos clusters Kubernetes avec Falco et son écosystème"
- * par **Thomas Labarussias**\nLes applications et clusters Kubernetes sont
+ * par **Thomas LABARUSSIAS**\nLes applications et clusters Kubernetes sont
   de plus en plus exposés aux menaces extérieures. Bien que l'écosystèm
  e CNCF offre des outils de protection\, ceux-ci peuvent ne pas être suffi
  sants. Se pose alors la question: Comment détecter et réagir aux comport
@@ -10349,7 +10424,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  cela\, nous allons comprendre les concepts-clés de Karpenter ainsi que le
  s bénéfices par rapport à Cluster Autoscaler. Enfin\, je vous donnerai 
  des conseils à mettre en place avant et après l’utilisation de Karpent
- er.\n\nCommunauté: cloud-native-bordeaux\n👥 3 participant(s)\nLimité 
+ er.\n\nCommunauté: cloud-native-bordeaux\n👥 8 participant(s)\nLimité 
  à 50 places
 LOCATION:Deezer Bdx\, 20 rue Saint-François\, Bordeaux\, France
 TZID:Europe/Paris
@@ -12301,7 +12376,7 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305865751/\n
  lk lors de meetups réguliers.L’objectif est de mettre en lumière des s
  ujets variés\, techniques ou non\, et de permettre aux orateurs\, quel qu
  e soit leur niveau d’expérience\, de partager leurs idées.\n\nCommunau
- té: agile-bordeaux\n👥 24 participant(s)\nLimité à 65 places
+ té: agile-bordeaux\n👥 26 participant(s)\nLimité à 65 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/305865751/
