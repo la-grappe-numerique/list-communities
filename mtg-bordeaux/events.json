@@ -1,5 +1,22 @@
 [
   {
+    "title": "Meetup MTG:Bordeaux #6",
+    "date": "2025-04-10T18:30:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/306572236/",
+    "description": "Ce second meetup de 2025 pour le MTG:Bordeaux se déroulera dans les locaux d'Hager le jeudi 10 avril 2025 :\n[198 Av. du Haut Lévêque, 33600 Pessac](https://www.google.fr/maps/place/Hager/@44.7824611,-0.6532651,17z/data=!3m1!5s0xd54d93065b8aad1:0x7924d24c0b3a37e0!4m14!1m7!3m6!1s0xd54d9f80e1fdd89:0x3a6b762f64d3b74a!2sHager!8m2!3d44.7824573!4d-0.6506902!16s%2Fg%2F1pp2vkg4l!3m5!1s0xd54d9f80e1fdd89:0x3a6b762f64d3b74a!8m2!3d44.7824573!4d-0.6506902!16s%2Fg%2F1pp2vkg4l?entry=ttu&g_ep=EgoyMDI1MDMwMy4wIKXMDSoASAFQAw%3D%3D)\nVoici le programme de la soirée :\n* 18h00 - 18h30 => Accueil* 18H30 - 18H40 => Introduction* 18H40 - 19h25 => Talk 1* 19h25 - 20h10 => Talk 2* 20h10 => Moment convivial\nLes détails du programme (talks et speakers) sont communiqués prochainement.",
+    "community": "mtg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Hager",
+      "address": "198 Av. du Haut Lévêque, 33600 Pessac",
+      "city": "Pessac",
+      "country": "France"
+    },
+    "location": "198 Av. du Haut Lévêque, 33600 Pessac, Pessac",
+    "rsvp_limit": 40,
+    "rsvp_count": 6
+  },
+  {
     "title": "Meetup MTG:Bordeaux #5",
     "date": "2025-02-06T18:30:00+01:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/305136888/",
