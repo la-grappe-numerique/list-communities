@@ -4,4 +4,26 @@ PRODID:-//Événements bordeauxjs//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Créer des applications full-stack dans le Edge
+DTSTART;TZID=Europe/Paris:20250325T190000
+DTEND;TZID=Europe/Paris:20250325T210000
+UID:https://www.meetup.com/bordeauxjs/events/306681868/?utm_medium=referra
+ l&utm_campaign=share-btn_savedevents_share_modal&utm_source=link@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/306681868/?utm_m
+ edium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=l
+ ink\n📍 SFEIR\, 5\, rue de Condé\, Bordeaux\, France\n\nDécouvrez comm
+ ent concevoir et déployer des applications optimisées pour l’Edge Comp
+ uting ! Ce meetup abordera les défis et les opportunités du traitement d
+ es données en périphérie\, avec des retours d’expérience\, des cas d
+ ’usage concrets et des conseils pratiques. Rejoignez-nous pour échanger
+  avec des experts et passionnés du domaine ! 🚀\n\nMerci à [SFEIR](htt
+ ps://institute.sfeir.com/) pour l'accueil et qui nous propose un apéritif
+  pour clore le meetup ! 🍾\n\nCommunauté: bordeauxjs
+LOCATION:SFEIR\, 5\, rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjs/events/306681868/?utm_medium=referra
+ l&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
+END:VEVENT
 END:VCALENDAR
