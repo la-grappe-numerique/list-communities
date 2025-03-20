@@ -19,7 +19,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 25 mars 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [Créer des applications full-stack dans le Edge](https://www.meetup.com/bordeauxjs/events/306681868/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | SFEIR, 5, rue de Condé, Bordeaux, France |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
