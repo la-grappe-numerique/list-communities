@@ -1,5 +1,16 @@
 [
   {
+    "title": "Playground #5 - Creative Coding",
+    "date": "2025-04-03T19:00:00",
+    "url": "https://www.meetup.com/fr-FR/creative-coding-bordeaux/events/306750169/",
+    "description": "Les sessions prévues lors de la soirée:\n- **Shaders : Comment créer des effets hallucinants et réactif sur son site web**, par Simon Bédard. Les shaders, utilisés au-delà du jeu vidéo, permettent de créer des effets visuels interactifs impressionnants sur le web grâce au GPU. Nous verrons les principes fondamentaux des shaders, comment en créer sur son site web avec ThreeJS, et comment les rendre réactifs à l'utilisateur. [En savoir plus](https://plgrnd.cc/5/)\n- **La langue**, par la peanut (Sharlaine Rogers et Alexandre Gravel-Raymond). Une performance expérimentale de poésie et de musique codée en temps réel.\n\nCelles-ci seront suivi d'un moment de discussion et d'échange autour d'un apéritif.\n\nOuverture des portes à 18h30.\nDémarrage des sessions à 19h.",
+    "location": "Deezer, 20 Rue Saint-François, Bordeaux",
+    "is_online": false,
+    "communities": [
+      "creative-coding-bordeaux"
+    ]
+  },
+  {
     "title": "Révolutionnez votre UX avec les PWA / L'utilisateur au cœur de la QA",
     "date": "2025-02-12T19:00:00",
     "url": "https://www.linkedin.com/events/r-volutionnezvotreuxaveclespwa-7284501845102727168/",

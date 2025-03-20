@@ -19,6 +19,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
+| Jeudi 03 avril 2025 à 19:00 | [creative-coding-bordeaux](creative-coding-bordeaux/) | [Playground #5 - Creative Coding](https://www.meetup.com/fr-FR/creative-coding-bordeaux/events/306750169/) | Deezer, 20 Rue Saint-François, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
