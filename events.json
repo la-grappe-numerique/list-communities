@@ -1,5 +1,16 @@
 [
   {
+    "title": "Prôner le clean code en entreprise !",
+    "date": "2025-04-16T19:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/306681942/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link",
+    "description": "Bien souvent en tant que développeur nous sommes confrontés à du code spaghetti: un code peu clair à l’architecture décousue et dans lequel les méthodes sont abusivement longues!\nLe remède pour éviter cette situation est de faire appel à votre meilleur ami: le clean code !\n\nAu travers de ce talk nous verrons les avantages issus du clean code mais aussi les bonnes pratiques grâce au concept SOLID. Ce qui permet d’évoluer sur un projet, où il est plaisant de coder,sans perdre du temps et du budget à déchiffrer le code existant.\nOn comprendra également quels sont les freins qui peuvent empêcher sa mise en oeuvre.Bien sûr quoi de mieux pour terminer, qu’un live coding pour mettre en avant les bonnes pratiques du clean code.\n\nMerci à [Younup](https://www.younup.fr/) qui nous propose un apéritif pour clore le meetup et qui nous accueil accueil dans leurs locaux! 🍾",
+    "location": "Younup Bordeaux, 68 Rue Achard, Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
+    ]
+  },
+  {
     "title": "Parentalité en entreprise & parcours atypique : enjeux et perspectives",
     "date": "2025-04-08T19:00:00",
     "url": "https://www.linkedin.com/events/7306627030899433472/about/",
