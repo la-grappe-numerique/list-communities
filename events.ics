@@ -88,32 +88,4 @@ TZID:Europe/Paris
 URL:https://www.linkedin.com/events/r-volutionnezvotreuxaveclespwa-7284501
  845102727168/
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prôner le clean code en entreprise !
-DTSTART;TZID=Europe/Paris:20250416T190000
-DTEND;TZID=Europe/Paris:20250416T210000
-UID:https://www.meetup.com/bordeauxjs/events/306681942/?utm_medium=referra
- l&utm_campaign=share-btn_savedevents_share_modal&utm_source=link@community
- -events
-DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/306681942/?utm_m
- edium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=l
- ink\n📍 Younup Bordeaux\, 68 Rue Achard\, Bordeaux\, France\n\nBien souv
- ent en tant que développeur nous sommes confrontés à du code spaghetti:
-  un code peu clair à l’architecture décousue et dans lequel les métho
- des sont abusivement longues!\nLe remède pour éviter cette situation est
-  de faire appel à votre meilleur ami: le clean code !\n\nAu travers de ce
-  talk nous verrons les avantages issus du clean code mais aussi les bonnes
-  pratiques grâce au concept SOLID. Ce qui permet d’évoluer sur un proj
- et\, où il est plaisant de coder\,sans perdre du temps et du budget à d
- échiffrer le code existant.\nOn comprendra également quels sont les frei
- ns qui peuvent empêcher sa mise en oeuvre.Bien sûr quoi de mieux pour te
- rminer\, qu’un live coding pour mettre en avant les bonnes pratiques du 
- clean code.\n\nMerci à [Younup](https://www.younup.fr/) qui nous propose 
- un apéritif pour clore le meetup et qui nous accueil accueil dans leurs l
- ocaux! 🍾\n\nCommunauté: aws-bordeaux
-LOCATION:Younup Bordeaux\, 68 Rue Achard\, Bordeaux\, France
-TZID:Europe/Paris
-URL:https://www.meetup.com/bordeauxjs/events/306681942/?utm_medium=referra
- l&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
-END:VEVENT
 END:VCALENDAR
