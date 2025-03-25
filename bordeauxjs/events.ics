@@ -5,6 +5,34 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Double meetup // Andrea Palma x Kim Chouard
+DTSTART;TZID=Europe/Paris:20250423T190000
+DTEND;TZID=Europe/Paris:20250423T210000
+UID:https://www.meetup.com/bordeauxjs/events/306681910/?utm_medium=referra
+ l&utm_campaign=share-btn_savedevents_share_modal&utm_source=link@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/306681910/?utm_m
+ edium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=l
+ ink\n📍 Deezer Bordeaux\, 20 rue Saint-François\, Bordeaux\, France\n\n
+ ### Forensic Software Analysis\, à la recherche du contexte perdu\nEt si 
+ votre code legacy pouvait vous raconter son histoire ? Découvrez comment 
+ des techniques de Forensic Analysis peuvent révéler le contexte perdu et
+  préparer votre code pour l'avenir\n\n### Universal Beat & Play: Dévelop
+ pe des jeux musicaux multi-platformes avec React Native\nDécouvrez commen
+ t fusionner musique\, technologie et créativité pour développer des exp
+ ériences de jeu uniques et immersives. De la conception à la mise en œu
+ vre\, Kim partagera ses secrets pour créer des applications musicales per
+ formantes et universelles. Que vous soyez développeur\, musicien ou passi
+ onné de tech\, ce talk vous inspirera à repousser les limites du possibl
+ e avec React Native !\n\nMerci à [Deezer](https://www.deezer.com/fr) qui 
+ nous propose un apéritif pour clore le meetup et qui nous accueil dans le
+ urs locaux ! 🍾\n\nCommunauté: bordeauxjs
+LOCATION:Deezer Bordeaux\, 20 rue Saint-François\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjs/events/306681910/?utm_medium=referra
+ l&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Prôner le clean code en entreprise !
 DTSTART;TZID=Europe/Paris:20250416T190000
 DTEND;TZID=Europe/Paris:20250416T210000
