@@ -20,8 +20,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
 | Mardi 08 avril 2025 à 19:00 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Parentalité en entreprise & parcours atypique : enjeux et perspectives](https://www.linkedin.com/events/7306627030899433472/about/) | Betclic, 117 Quai de Bacalan, Bordeaux |
-| Mercredi 16 avril 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [Prôner le clean code en entreprise !](https://www.meetup.com/bordeauxjs/events/306681942/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | Younup Bordeaux, 68 Rue Achard, Bordeaux, France |
-| Mercredi 23 avril 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [Double meetup // Andrea Palma x Kim Chouard](https://www.meetup.com/bordeauxjs/events/306681910/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | Deezer Bordeaux, 20 rue Saint-François, Bordeaux, France |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
