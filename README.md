@@ -20,6 +20,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
 | Mardi 08 avril 2025 à 19:00 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Parentalité en entreprise & parcours atypique : enjeux et perspectives](https://www.linkedin.com/events/7306627030899433472/about/) | Betclic, 117 Quai de Bacalan, Bordeaux |
+| Jeudi 10 avril 2025 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [Meetup MTG:Bordeaux #6](https://www.meetup.com/mtg-bordeaux/events/306572236) | Hager Group, 198 Avenue du Haut Lévêque, 33600 Pessac |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

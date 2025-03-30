@@ -1,5 +1,16 @@
 [
   {
+    "title": "Meetup MTG:Bordeaux #6",
+    "date": "2025-04-10T18:30:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/306572236",
+    "description": "## Programme\n\n18h00 - 18h30 => Accueil\n18H30 - 18H40 => Introduction\n18H40 - 19h25 => \"IA & Delivery\" par Brice Miard & Iuliia Mazur\n19h25 - 20h10 => \"GitHub Copilot : L'IA au service des développeurs 🚀\" par Tugdual Grall\n20h10 => Moment convivial\n\n## Détail des talks\n\n### \"IA & Delivery\" par Brice Miard\n\nIl est assez simple de faire un POC en IA aujourd'hui, pourtant l'intégration dans l'écosystème est souvent négligée ce qui réduit le taux de mise en prod. Dans cette présentation, je vais vous montrer comment, grâce à une plateforme unifiée, Azure Databricks simplifie l'intégration de projets d'IA dans un environnement de prod.\n\n### \"GitHub Copilot : L'IA au service des développeurs 🚀\" par Tugdual Grall\n\nLors de cette présentation, Tug exposera l'architecture de GitHub Copilot 🛠️. Fort de son expérience, il mettra en lumière divers cas d'utilisation à travers des démonstrations pratiques 🔍, permettant aux participants de découvrir comment cette IA transforme le quotidien des développeurs. Cette session ne se limitera pas aux aspects positifs : Tug partagera également les écueils à éviter ainsi que les connaissances essentielles pour naviguer avec succès dans l'univers de GitHub Copilot.\n\nDéroulé de la session :\n🛡️ Architecture, points d'attention et bonnes pratiques : Découvrez les pièges à éviter et les astuces 💡 pour tirer le meilleur parti de Copilot au quotidien.\n🎬 Démonstrations : La session sera ponctuée de nombreuses démonstrations pratiques, impliquant les langages de programmation front-end et back-end tels que Java, JavaScript, TypeScript, Python, avec une dose d'improvisation 💡 en fonction des commentaires et des questions de l'auditoire.\n🌟 Présentation des nouveautés : Un survol des fonctionnalités récemment annoncées et de leurs impacts pour les utilisateurs de Copilot.\n\nQue vous soyez novice ou utilisateur expérimenté, venez découvrir comment GitHub Copilot peut non seulement vous rendre plus productif 💪, mais aussi repousser les limites de votre créativité 🎨. C'est également une occasion de partager vos propres expériences et de poser vos questions à Tug et aux autres participants 💬",
+    "location": "Hager Group, 198 Avenue du Haut Lévêque, 33600 Pessac",
+    "is_online": false,
+    "communities": [
+      "mtg-bordeaux"
+    ]
+  },
+  {
     "title": "Parentalité en entreprise & parcours atypique : enjeux et perspectives",
     "date": "2025-04-08T19:00:00",
     "url": "https://www.linkedin.com/events/7306627030899433472/about/",

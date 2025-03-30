@@ -4,4 +4,46 @@ PRODID:-//Événements mtg-bordeaux//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté mtg-bordeaux
 X-WR-CALNAME:Événements mtg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Meetup MTG:Bordeaux #6
+DTSTART;TZID=Europe/Paris:20250410T183000
+DTEND;TZID=Europe/Paris:20250410T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/306572236@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/306572236\n
+ 📍 Hager Group\, 198 Avenue du Haut Lévêque\, 33600 Pessac\n\n## Progr
+ amme\n\n18h00 - 18h30 => Accueil\n18H30 - 18H40 => Introduction\n18H40 - 1
+ 9h25 => "IA & Delivery" par Brice Miard & Iuliia Mazur\n19h25 - 20h10 => "
+ GitHub Copilot : L'IA au service des développeurs 🚀" par Tugdual Grall
+ \n20h10 => Moment convivial\n\n## Détail des talks\n\n### "IA & Delivery"
+  par Brice Miard\n\nIl est assez simple de faire un POC en IA aujourd'hui\
+ , pourtant l'intégration dans l'écosystème est souvent négligée ce qu
+ i réduit le taux de mise en prod. Dans cette présentation\, je vais vous
+  montrer comment\, grâce à une plateforme unifiée\, Azure Databricks si
+ mplifie l'intégration de projets d'IA dans un environnement de prod.\n\n#
+ ## "GitHub Copilot : L'IA au service des développeurs 🚀" par Tugdual G
+ rall\n\nLors de cette présentation\, Tug exposera l'architecture de GitHu
+ b Copilot 🛠️. Fort de son expérience\, il mettra en lumière divers 
+ cas d'utilisation à travers des démonstrations pratiques 🔍\, permetta
+ nt aux participants de découvrir comment cette IA transforme le quotidien
+  des développeurs. Cette session ne se limitera pas aux aspects positifs 
+ : Tug partagera également les écueils à éviter ainsi que les connaissa
+ nces essentielles pour naviguer avec succès dans l'univers de GitHub Copi
+ lot.\n\nDéroulé de la session :\n🛡️ Architecture\, points d'attenti
+ on et bonnes pratiques : Découvrez les pièges à éviter et les astuces 
+ 💡 pour tirer le meilleur parti de Copilot au quotidien.\n🎬 Démonstr
+ ations : La session sera ponctuée de nombreuses démonstrations pratiques
+ \, impliquant les langages de programmation front-end et back-end tels que
+  Java\, JavaScript\, TypeScript\, Python\, avec une dose d'improvisation 
+ 💡 en fonction des commentaires et des questions de l'auditoire.\n🌟 P
+ résentation des nouveautés : Un survol des fonctionnalités récemment a
+ nnoncées et de leurs impacts pour les utilisateurs de Copilot.\n\nQue vou
+ s soyez novice ou utilisateur expérimenté\, venez découvrir comment Git
+ Hub Copilot peut non seulement vous rendre plus productif 💪\, mais auss
+ i repousser les limites de votre créativité 🎨. C'est également une o
+ ccasion de partager vos propres expériences et de poser vos questions à 
+ Tug et aux autres participants 💬\n\nCommunauté: mtg-bordeaux
+LOCATION:Hager Group\, 198 Avenue du Haut Lévêque\, 33600 Pessac
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/306572236
+END:VEVENT
 END:VCALENDAR
