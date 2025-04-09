@@ -19,7 +19,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 08 avril 2025 à 19:00 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Parentalité en entreprise & parcours atypique : enjeux et perspectives](https://www.linkedin.com/events/7306627030899433472/about/) | Betclic, 117 Quai de Bacalan, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
