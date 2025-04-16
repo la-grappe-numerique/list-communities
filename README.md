@@ -31,6 +31,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 - [Agile Bordeaux](agile-bordeaux/)
 - [Agile Tour Bordeaux](agile-tour-bordeaux/)
 - [Apéro Web](apero-web/)
+- [ApérOps: DataOps & MLOps](bordeaux-aperops/)
 - [Aquilenet](aquilenet/)
 - [Aquinum](aquinum/)
 - [Archilocus](archilocus/)
