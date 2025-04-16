@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "title": "Atelier livecoding audiovisuel",
+    "date": "2024-10-24T19:00:00+02:00",
+    "url": "https://www.meetup.com/creative-coding-bordeaux/events/303995439/",
+    "description": "Dans cet atelier animé par Alexandre Gravel-Raymond, nous serons tou·te·s participant·e·s pour un apprentissage collaboratif de l'utilisation du code pour de la création audiovisuelle en temps réel.\nNous explorerons la création visuelle avec la plateforme [Hydra](https://hydra.ojack.xyz/) ainsi que la création musicale avec la plateforme [Strudel](https://strudel.cc/).\nLa connaissance préalable d'un langage de programmation n'est pas requise.\nAmenez un ordinateur portable ainsi que des écouteurs, nous allons en avoir besoin.\nCet évènement est ouvert à tou·te·s, peu importe l'expérience.\nEt surtout soyez prêt·e à être surpris·e !\nDémarrage de l'atelier à 19h chez Deezer Bordeaux au 20 rue Saint-François.",
+    "community": "creative-coding-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "20 Rue Saint-François",
+      "address": "20 Rue Saint-François",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "20 Rue Saint-François, Bordeaux",
+    "rsvp_limit": 10,
+    "rsvp_count": 10
+  },
+  {
+    "title": "Playground #4 - Creative Coding",
+    "date": "2024-09-12T18:30:00+02:00",
+    "url": "https://www.meetup.com/creative-coding-bordeaux/events/302826374/",
+    "description": "[Playground](https://plgrnd.cc/) est une rencontre destinée au partage d'idées, de techniques et de passions autour de l'art algorithmique et de la programmation créative, de l'image au son, et au delà.\nNous serons hébergé·e·s dans les locaux de Deezer à Bordeaux et ce sera l'occasion d'échanger sur nos projets et nos passions.\nCet évènement est ouvert à tous·tes, peu importe l'expérience : artiste, développeur·se ou simplement curieux·se, joignez-vous à nous.\nLes sessions prévues lors de ce quatrième Playground :\n* La scène demo en 2024 par [Krusty/Benediction](https://demozoo.org/sceners/13230/) \\- Membre actif de la demoscene française sur la Amstrad CPC depuis une 20aine d’années\\, Romain aka Krusty effleurera la surface de cette culture digitale méconnue en présentant un rapide historique\\, l’état actuel de la scène internationale\\, et certaines de ses contributions\\.* Poetry Attack 01 par [Joenio & Mari](https://4two.art/) \\- Dans la performance Poetry Attack 01\\, les artistes Mari Moura et Joenio M\\. Costa mènent une attaque poétique en utilisant des techniques de codage en direct\\, l’écriture de textes et des mouvements corporels pour remettre en question l’absence des femmes\\, des Noirs et des femmes noires dans les espaces de l’art et de la technologie\\.\nOuverture des portes à 18h30.Démarrage des sessions à 19h.\nPour ne rien manquer des actualités du groupe, [suivez-nous sur Instagram](https://www.instagram.com/plgrnd.cc/).",
+    "community": "creative-coding-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "20 Rue Saint-François",
+      "address": "20 Rue Saint-François",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "20 Rue Saint-François, Bordeaux",
+    "rsvp_limit": 41,
+    "rsvp_count": 29
+  },
+  {
+    "title": "Atelier livecoding sonore",
+    "date": "2024-06-20T19:00:00+02:00",
+    "url": "https://www.meetup.com/creative-coding-bordeaux/events/301525559/",
+    "description": "Dans cet atelier animé par Alexandre Gravel-Raymond, nous serons tou·te·s participant·e·s pour un apprentissage collaboratif de l'utilisation du code pour créer de la musique en temps réel.\nNous découvrirons la plateforme [Strudel](https://strudel.cc/) et explorerons la structuration et la déformation de samples avec du code, ainsi que l'utilisation de la synthèse vocale.\nLa connaissance préalable d'un langage de programmation n'est pas requise.\nAmenez un ordinateur portable ainsi que des écouteurs, nous allons en avoir besoin.\nCet évènement est ouvert à tou·te·s, peu importe l'expérience.\nEt surtout soyez prêt·e à être surpris·e !\nDémarrage de l'atelier à 19h chez Deezer Bordeaux au 20 rue Saint-François.",
+    "community": "creative-coding-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "20 Rue Saint-François",
+      "address": "20 Rue Saint-François",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "20 Rue Saint-François, Bordeaux",
+    "rsvp_limit": 7,
+    "rsvp_count": 7
+  },
+  {
+    "title": "Playground #3 - Creative Coding",
+    "date": "2024-02-29T18:30:00+01:00",
+    "url": "https://www.meetup.com/creative-coding-bordeaux/events/299114631/",
+    "description": "[Playground](https://plgrnd.cc/) est une rencontre destinée au partage d'idées, de techniques et de passions autour de l'art algorithmique et de la programmation créative, de l'image au son, et au delà.\nNous serons hébergé·e·s dans les locaux de Deezer à Bordeaux et ce sera l'occasion d'échanger à nouveau, sur nos projets et nos passions.\nCet évènement est ouvert à tous·tes, peu importe l'expérience : artiste, développeur·se ou simplement curieux·se, joignez-vous à nous.\nLes sessions prévues lors de cette troisième itération :\n* **[Projet ReMi](https://remi-audio.com/)** avec Hugo Chateau-Laurent, Tara Vanhatalo et Armelle Bengochea - Présentation et démo : A la frontière des neurosciences, de l'intelligence artificielle et de la production musicale, ReMi est une suite de plug-ins (VST) novatrice intégrant des réservoirs de neurones artificiels, offrant ainsi une exploration artistique inédite avec des retours sonores et visuels intuitifs.* **[la peanut](https://lapeanut.xyz/)** avec Sharlaine Rogers et Alexandre Gravel-Raymond - Partage : une philosophie du livecoding. Performance : poésie impromptable \\* livecode ( son + image )\nOuverture des portes à 18h30.\nDémarrage des sessions à 19h.",
+    "community": "creative-coding-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "20 Rue Saint-François",
+      "address": "20 Rue Saint-François",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "20 Rue Saint-François, Bordeaux",
+    "rsvp_limit": 41,
+    "rsvp_count": 41
+  },
+  {
+    "title": "Playground #2 - Creative Coding",
+    "date": "2023-11-30T18:30:00+01:00",
+    "url": "https://www.meetup.com/creative-coding-bordeaux/events/297313242/",
+    "description": "La deuxième itération de [Playground](https://plgrnd.cc/) est destinée au partage d'idées, de techniques et de passions autour de l'art algorithmique et de la programmation créative, de l'image au son, et au delà.\nNous serons hébergé·e·s dans les locaux de BeTomorrow à Bordeaux et ce sera l'occasion d'échanger à nouveau, sur nos projets et nos passions.\nCet évènement est ouvert à tous·tes, peu importe l'expérience : artiste, développeur·se ou simplement curieux·se, joignez-vous à nous.\nLes sessions prévues lors de cette seconde édition :\n* [Laurent Alvaro](https://www.linkedin.com/in/lalvaro/) \\- Partage et démo : Plongez dans le monde de l'art procédural 3D et découvrez les secrets du raymarching\\.* [Tuxic](https://voidwork.space/) \\- Performance audiovisuelle : Tentative certifiée La RACHE \\(ISO\\-1664\\) de contrôler le chaos\\. Gameboy\\, sampling granulaire\\, shaders OpenGL et Ossia Score pour lier le tout\\.\nOuverture des portes à 18h30.\nDémarrage des sessions à 19h.",
+    "community": "creative-coding-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "44 Rue Barreyre",
+      "address": "44 Rue Barreyre",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "44 Rue Barreyre, Bordeaux",
+    "rsvp_limit": 41,
+    "rsvp_count": 38
+  },
+  {
+    "title": "Playground #1 - Creative Coding",
+    "date": "2023-09-14T18:30:00+02:00",
+    "url": "https://www.meetup.com/creative-coding-bordeaux/events/295328666/",
+    "description": "**Playground #1** est le premier événement du groupe **Creative Coding Bordeaux**.\nIl est destiné au partage d'idées, de techniques et de passions autour de l'art algorithmique et de la programmation créative, de l'image au son et au delà.\nNous serons hébergés dans les locaux de Deezer à Bordeaux et ce sera l'occasion de se rencontrer, de construire ensemble une communauté.\nCet évènement est ouvert à tous·tes, peu importe l'expérience. Artiste, développeur·se ou simple curieux·se ?\nLes sessions prévues lors de cette première édition :\n* [Julien Gachadoat (v3ga)](https://v3ga.net/) \\- Partage : Présentation et démo de pen plotter\\. Julien explore depuis plusieurs années les possibilités du dessin génératif en créant des œuvres uniques produites par algorithmes\\.* [Xavier Godart](https://www.xaviergodart.com/) \\- Partage : Musique générative avec le langage Faust\\. Faust est un langage conçu pour le traitement et la synthèse du son\\, pour créer des instruments\\, des effets et autres synthétiseurs\\.\nLa performance audiovisuelle initialement prévue avec [Tuxic](https://voidwork.space/) est repoussée à une future itération de Playground, pour cause de Covid.\nOuverture des portes à 18h30.\nDémarrage des sessions à 19h.",
+    "community": "creative-coding-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "20 Rue Saint-François",
+      "address": "20 Rue Saint-François",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "20 Rue Saint-François, Bordeaux",
+    "rsvp_limit": 41,
+    "rsvp_count": 41
+  }
+]

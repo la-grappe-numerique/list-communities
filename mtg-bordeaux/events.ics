@@ -4,4 +4,127 @@ PRODID:-//Événements mtg-bordeaux//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté mtg-bordeaux
 X-WR-CALNAME:Événements mtg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Meetup MTG:Bordeaux #6
+DTSTART;TZID=Europe/Paris:20250410T183000
+DTEND;TZID=Europe/Paris:20250410T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/306572236/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/306572236/\n
+ 📍 Hager\, 198 Av. du Haut Lévêque\, 33600 Pessac\, Pessac\, France\n\
+ nCe second meetup de 2025 pour le MTG:Bordeaux se déroulera dans les loca
+ ux d'Hager le jeudi 10 avril 2025 :\n[198 Av. du Haut Lévêque\, 33600 Pe
+ ssac](https://www.google.fr/maps/place/Hager/@44.7824611\,-0.6532651\,17z/
+ data=!3m1!5s0xd54d93065b8aad1:0x7924d24c0b3a37e0!4m14!1m7!3m6!1s0xd54d9f80
+ e1fdd89:0x3a6b762f64d3b74a!2sHager!8m2!3d44.7824573!4d-0.6506902!16s%2Fg%2
+ F1pp2vkg4l!3m5!1s0xd54d9f80e1fdd89:0x3a6b762f64d3b74a!8m2!3d44.7824573!4d-
+ 0.6506902!16s%2Fg%2F1pp2vkg4l?entry=ttu&g_ep=EgoyMDI1MDMwMy4wIKXMDSoASAFQA
+ w%3D%3D)\nVoici le programme de la soirée :\n* 18h00 - 18h30 => Accueil* 
+ 18H30 - 18H40 => Introduction* 18H40 - 19h25 => Talk 1* 19h25 - 20h10 => T
+ alk 2* 20h10 => Moment convivial\nLes détails du programme (talks et spea
+ kers) sont communiqués prochainement.\n\nCommunauté: mtg-bordeaux\n👥 
+ 6 participant(s)\nLimité à 40 places
+LOCATION:Hager\, 198 Av. du Haut Lévêque\, 33600 Pessac\, Pessac\, Franc
+ e
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/306572236/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meetup MTG:Bordeaux #5
+DTSTART;TZID=Europe/Paris:20250206T183000
+DTEND;TZID=Europe/Paris:20250206T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/305136888/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/305136888/\n
+ 📍 SFEIR Bordeaux\, 5 Rue de Condé\, Bordeaux\, France\n\nCe 1er meetup
+  de 2025 pour le MTG:Bordeaux se déroulera dans les locaux de SFEIR le je
+ udi 06 Février 2025 :\n[5 Rue de Condé\, 33000 Bordeaux](https://maps.ap
+ p.goo.gl/B9aekRZbo7x4qEha7)\nVoici le programme de la soirée :\n* 18h00 -
+  18h30 => Accueil* 18H30 - 18H40 => Introduction* 18H40 - 19h25 => "Notre 
+ premier déploiement sur Azure China ?"par Jean Villette & Vincenzo Scalzi
+ * 19h25 - 20h10 => "Automatisation du Release Management" par Tristan Isam
+ bart* 20h10 => Moment convivial\n\nCommunauté: mtg-bordeaux\n👥 30 part
+ icipant(s)\nLimité à 30 places
+LOCATION:SFEIR Bordeaux\, 5 Rue de Condé\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/305136888/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meetup MTG:Bordeaux #4
+DTSTART;TZID=Europe/Paris:20241003T183000
+DTEND;TZID=Europe/Paris:20241003T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/302549137/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/302549137/\n
+ 📍 Betclic\, 117 Quai de Bacalan\, Bordeaux\, France\n\nCe 4ème meetup 
+ du MTG:Bordeaux se déroulera dans les locaux de Betclic\, le 03 Octobre 2
+ 024 :\n117 Quai de Bacalan\, 33300 Bordeauxhttps://maps.app.goo.gl/Qe4aDPa
+ SXuc4Jemc8\nVoici le programme de la soirée :\n* 18h00 - 18h30 => Accueil
+ * 18H30 - 18H45 => Introduction* 18H45 - 19h30 => Pourquoi privilégierons
+  nous les services managés chez Betclic ? par Guillaume LANNEBERE* 19h30 
+ - 20h00 => .NET MAUI : un framework (mobile) pour les dominer tous ? par J
+ ulien DAUGARON et Stéphane LOUGE* 20h => Moment convivial\n**Note importa
+ nte : les personnes qui ne se seront pas inscrites en amont ne pourront pa
+ s rentrer dans le batiment**\n\nCommunauté: mtg-bordeaux\n👥 42 partici
+ pant(s)
+LOCATION:Betclic\, 117 Quai de Bacalan\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/302549137/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meetup MTG:Bordeaux #3
+DTSTART;TZID=Europe/Paris:20240611T183000
+DTEND;TZID=Europe/Paris:20240611T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/300232411/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/300232411/\n
+ 📍 Wellio Bordeaux Cité Numérique\, 2 Rue Marc Sangnier\, Bègles\, Fr
+ ance\n\nCe 3ème meetup du MTG:Bordeaux se déroulera au Microsoft Experie
+ nces Lab Bordeaux (https://experiences.microsoft.fr/lab-experiences/?ville
+ =bordeaux).\nNous aurons le plaisir d'accueillir Engin Diri\, Customer Exp
+ erience Architecte chez Pulumi.\nLe programme :\\- Pulumi ❤️ Azure: Ge
+ tting Started with Modern Infrastructure as Code par Engin Diri\\- Industr
+ ialiser la configuration de ses dépôts Github avec de l'IaC par Alexandr
+ e Nédélec\n\nCommunauté: mtg-bordeaux\n👥 26 participant(s)
+LOCATION:Wellio Bordeaux Cité Numérique\, 2 Rue Marc Sangnier\, Bègles\
+ , France
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/300232411/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meetup MTG:Bordeaux #2
+DTSTART;TZID=Europe/Paris:20240404T183000
+DTEND;TZID=Europe/Paris:20240404T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/298989875/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/298989875/\n
+ 📍 Ippon Technologies Bordeaux\, 44 All. de Tourny\, Bordeaux\, France\n
+ \nCe second Meetup du MTG:Bordeaux est hébergé et sponsorisé par Ippon 
+ Technologies (https://fr.ippon.tech/offices/agence-bordeaux).\nAu programm
+ e :\n1. "Au delà du mythe\, développez confortablement sur Windows" par 
+ Sébastien Oddo (Ippon Technologies)2. "Suivi de voitures connectées en t
+ emps réel" par Thomas Gaignard\, Victor Lohezic\, Rebecca Pinoteau\, Flor
+ ian Bour (Enseirb-Matmeca)3. "Comment économiser de l'argent et donc du C
+ o2 dans Azure ?" par Eddy Montus (Hello Asso)4. Temps convivial\n\nCommuna
+ uté: mtg-bordeaux\n👥 30 participant(s)
+LOCATION:Ippon Technologies Bordeaux\, 44 All. de Tourny\, Bordeaux\, Fran
+ ce
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/298989875/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lancement du MTG:Bordeaux
+DTSTART;TZID=Europe/Paris:20240201T183000
+DTEND;TZID=Europe/Paris:20240201T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/298066350/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/298066350/\n
+ 📍 Le Wagon Bordeaux - Training Développement Web\, Data Science & Data
+  Analytics\, 107 Cr Balguerie Stuttenberg\, Bordeaux\, France\n\nSoirée d
+ e lancement du MTG:Bordeaux co-organisée par Le Wagon Bordeaux (https://w
+ ww.lewagon.com/fr/bordeaux).\nAu programme :\n1. Introduction au MTG:Borde
+ aux avec la participation de Julien Bichon (Microsoft)2. "Migration de Tim
+ e Series Insights Gen1 vers Azure Data Explorer" par Thomas Rouchaud (Hage
+ r Group)3. "Abstraire mon architecture distribuée ? Pourquoi et Comment ?
+ " par Vivien Maleze (Ippon Technologies)4. Temps convivial\n\nCommunauté:
+  mtg-bordeaux\n👥 41 participant(s)
+LOCATION:Le Wagon Bordeaux - Training Développement Web\, Data Science & 
+ Data Analytics\, 107 Cr Balguerie Stuttenberg\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/298066350/
+END:VEVENT
 END:VCALENDAR

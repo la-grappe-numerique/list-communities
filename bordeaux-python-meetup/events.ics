@@ -6,4 +6,849 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeaux-python
  -meetup
 X-WR-CALNAME:Événements bordeaux-python-meetup
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Bordeaux Python Meetup 2024.2
+DTSTART;TZID=Europe/Paris:20241211T183000
+DTEND;TZID=Europe/Paris:20241211T203000
+UID:https://www.meetup.com/py-bdx/events/304470904/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/304470904/\n📍 Nod
+ e\, 12 rue des Faussets\, Bordeaux\, France\n\nLe meetup Python bordelais 
+ revient le **11 décembre** 2024 au **Node** en soirée avec 2 présentati
+ ons :\n* *à 19:00 : **Les floats : entre précision et chaos*** (Alexandr
+ e Benard\, software integration engineer chez eShard)* *à 19:30 : **FastA
+ PI : le web vite fait\, bien fait*** (Diane Havlicek\, développeuse backe
+ nd chez Letsignit)\nLe meetup est ouvert à tou.te.s les pythonistes novic
+ es ou confirmé.e.s. Les places au Node étant limitées\, nous vous conse
+ illons de RSVP au plus tôt.\nNous serons reçus au Node par **Aquinum**\,
+  et **Seyos** nous offrira à boire et à manger pour passer un moment con
+ vivial. Merci à eux ainsi qu'à nos deux intervenants.\n\nCommunauté: bo
+ rdeaux-python-meetup\n👥 38 participant(s)
+LOCATION:Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/304470904/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordeaux Python Meetup 2024
+DTSTART;TZID=Europe/Paris:20240606T183000
+DTEND;TZID=Europe/Paris:20240606T203000
+UID:https://www.meetup.com/py-bdx/events/300614701/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/300614701/\n📍 Nod
+ e\, 12 rue des Faussets\, Bordeaux\, France\n\nAprès quelques années d'a
+ bsence\, le meetup Python bordelais revient le **6 juin** 2024 au **Node**
+  en soirée avec 2 présentations :\n* *à 19:00 : **Django Ninja\, une al
+ ternative à Django Rest Framework inspirée par FastAPI*** (Charles Pelle
+ grini\, développeur Python chez C4ffein SAS)* *à 19:30 : **Oubliez flake
+ 8\, black ou venv\, place aux outils de nouvelle génération !*** (Vincen
+ t Poulailleau\, formateur et freelance)\nLe meetup est ouvert à tou.te.s 
+ les pythonistes novices ou confirmé.e.s. Les places au Node étant limit
+ ées\, nous vous conseillons de RSVP au plus tôt.\nNous serons reçu au N
+ ode par **Aquinum**\, et **Seyos** nous offrira à boire et à manger pour
+  passer un moment convivial. Merci à eux ainsi qu'à nos deux intervenant
+ s.\n\nCommunauté: bordeaux-python-meetup\n👥 41 participant(s)
+LOCATION:Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/300614701/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conférence francophone Python 2023 à Bordeaux
+DTSTART;TZID=Europe/Paris:20230216T090000
+DTEND;TZID=Europe/Paris:20230216T110000
+UID:https://www.meetup.com/py-bdx/events/289726289/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/289726289/\n📍 Bâ
+ timent Licence - A22\, \, Talence\, France\n\nL'association francophone Py
+ thon (AFPy) organise du 16 au 19 février 2023 la conférence francophone 
+ annuelle sur Python dans les locaux de l'Université de Bordeaux.\nPour s'
+ inscrire comme visiteur\, rendez-vous sur https://www.pycon.fr/2023/fr/sch
+ edule.html#register\nPour animer un atelier\, une conférence ou tout simp
+ lement devenir bénévole sur place\, rendez-vous sur https://cfp-2023.pyc
+ on.fr/\n\nCommunauté: bordeaux-python-meetup\n👥 14 participant(s)
+LOCATION:Bâtiment Licence - A22\, \, Talence\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/289726289/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afpyro : apéro Python (Okiwi hosted)
+DTSTART;TZID=Europe/Paris:20190806T190000
+DTEND;TZID=Europe/Paris:20190806T210000
+UID:https://www.meetup.com/py-bdx/events/263669824/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/263669824/\n📍 The
+  Market Tavern\, 15 Rue Rode\, Bordeaux\, France\n\nBonjour à tou·te·s 
+ !\nNous profitons d'un apéro Okiwi (https://www.meetup.com/software-craft
+ smanship-bdx/events/263222676/) et s'y greffer pour boire un coup\, échan
+ ger\, discuter et pas forcément que de Python.\nNéanmoins\, on en profit
+ era pour parler & organiser les événements du meetup qui redémarreront 
+ dès la rentrée de septembre. L'objectif est de tenir des meetups plus r
+ égulièrement.\nN'oubliez pas qu'il y a la conférence annuelle Python qu
+ i aura lieu du 31 octobre au 3 novembre\, et c'est à Bordeaux !! Voir htt
+ ps://www.pycon.fr/2019/ L'appel à proposition des sprints et des présent
+ ations est encore ouvert. N'hésitez pas à vous inscrire ou à soumettre 
+ quelque chose :)\nJe profite de la création de l'événement pour notifie
+ r tout le monde. Je vous encourage néanmoins à confirmer votre présence
+  directement sur https://www.meetup.com/software-craftsmanship-bdx/events/
+ 263222676/\nMerci à tou·te·s et à bientôt. Chaleureusement\,Damien \;
+ -)\n\nCommunauté: bordeaux-python-meetup\n👥 8 participant(s)
+LOCATION:The Market Tavern\, 15 Rue Rode\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/263669824/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Retour expérience S3 / Hadoop
+DTSTART;TZID=Europe/Paris:20181122T193000
+DTEND;TZID=Europe/Paris:20181122T213000
+UID:https://www.meetup.com/py-bdx/events/256121895/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/256121895/\n📍 Nod
+ e\, 12 rue des Faussets\, Bordeaux\, France\n\nDans le cadre d'un projet d
+ e sauvegarde de données issu du monde Big Data Hadoop stocké sur le syst
+ ème de fichier HDFS\,Michael Bonfils d'OpenIO vous présentera leur retou
+ r d'expérience sur la mise en place de cette solution sur leur offre de s
+ tockage objet OpenIO SDS\, dont la gateway est issue d'un fork de Swift + 
+ Swift3 d'Openstack.\nCe meetup\, après avoir fait un bref rappel sur Hado
+ op / HDFS & l'API S3 d'Amazon\, mettra l'accent sur la possibilité de cus
+ tomisation de cette gateway en Python par quelques pistes d'améliorations
+  que nous avons mis en oeuvre.\nOpenstack Swift: https://docs.openstack.or
+ g/swift/latest/Module compatibilité S3: https://docs.openstack.org/swift/
+ latest/middleware.html#module-swift.common.middleware.s3api.s3apiHDFS Hado
+ op: https://www.tutorialspoint.com/hadoop/hadoop_hdfs_overview.htmOpenIO S
+ DS: https://openio.io / https://github.com/open-io\nEn seconde partie\, un
+ e présentation rapide du protocole de communication MQTT\, orienté IOT (
+ mais pas que)\, aura lieu avec un petit exemple live avec l'utilisation de
+ s serveurs publiques (sous réserve).\nMQTT: http://mqtt.org/\nEt à la fi
+ n un apéro conviviale pour clore la session !\n\nCommunauté: bordeaux-py
+ thon-meetup\n👥 14 participant(s)
+LOCATION:Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/256121895/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux: After Session
+DTSTART;TZID=Europe/Paris:20180502T193000
+DTEND;TZID=Europe/Paris:20180502T213000
+UID:https://www.meetup.com/py-bdx/events/249592838/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/249592838/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\n• What we'll doUne ren
+ contre mensuelle\, qui proposera un temps d'échange autour du code et de 
+ retrouvailles pour la communauté Django Girls Bordeaux.\n# Programme/grou
+ pes de travail\n* Ateliers code (Scratch\, Python\, mini-projet) \;* Site 
+ web Django Girls Bordeaux maison \;* Célébration & débrief de DGBdx n°
+ 5 \;* Organisation des prochains événements (recherche lieux\, sponsor\,
+  partenaires\, communications\, etc.).\nVous pouvez vous initier au tuto s
+ i vous le souhaitez avant le meetup\, c'est par ici: Tuto Django Girls (ht
+ tps://tutorial.djangogirls.org/fr/)\nDes questions\, des idées ? Laissez 
+ nous un message.\n# Avant de venir\n✔ Pour des ateliers Python avancés 
+ contacter Damien Garaud \;✔ Pour coder\, pensez à amener votre ordinate
+ ur \;✔ Apéro participatif\, amenez ce qu'il vous plaît.\nÀ très bien
+ tôt ! \;-)Toute l'équipe de Django Girls Bordeaux.\n--\n# Code de condui
+ te\n* Django Girls est dédié à l'organisation d'ateliers sans harcèlem
+ ent\, qu’il soit lié au genre\, à l'orientation sexuelle\, au handicap
+ \, à l'apparence physique\, au poids\, à la race\, ou à la religion.* N
+ ous ne tolèrerons aucune forme d’harcèlement envers les participant·e
+ ·s.* Les comportements ou l'utilisation d'images à connotation sexuelle 
+ ne sont en aucun cas appropriés\, que ce soit pendant l’atelier ou dans
+  le cadre de présentations.* Faites attention aux autres. N'insultez pas 
+ ou ne rabaissez pas les autres participant·e·s. Soyez professionnels·el
+ les. Ne prenez ni ne publiez de photographie sans avoir obtenu le consente
+ ment des personnes concernées. Rappelez-vous que les blagues racistes\, s
+ existes\, discriminantes ou excluantes ne seront en aucun cas tolérées p
+ endant un évènement Django Girls.* Les participant·e·s qui violeraient
+  ces règles pourraient se voir sanctionner ou exclu·e·s de l'évènemen
+ t et ce\, sans aucun dédommagement possible de la part des organisateurs
+ ·rices.\nPour la version longue\, c'est sur le site officiel: https://dja
+ ngogirls.org/pages/coc-fr/\n• What to bring\n• Important to know\n\nCo
+ mmunauté: bordeaux-python-meetup\n👥 11 participant(s)\nLimité à 35 p
+ laces
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/249592838/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20180321T193000
+DTEND;TZID=Europe/Paris:20180321T213000
+UID:https://www.meetup.com/py-bdx/events/248168016/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/248168016/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nUne rencontre mensuelle\
+ , qui proposera un temps d'échange autour du code et de retrouvailles pou
+ r la communauté Django Girls Bordeaux.\n✔ Pour des ateliers python avan
+ cés contacter Damien Garaud (https://twitter.com/jazzydag) \;✔ Pour cod
+ er\, pensez à amener votre ordinateur \;✔ Apéro participatif\, amenez 
+ ce qu'il vous plaît.\n# Programme/groupes de travail---------------------
+ ---------------------• Préparation DGBDX #5 \;• Discussion nouveau fo
+ rmat d'atelier \;------------------------------------------• Site web Dj
+ ango Girls Bordeaux maison \;• Ateliers code (Scratch\, Python\, mini-pr
+ ojet) \;• Travail sur les tutoriels pour le jour J• Organisation des p
+ rochains événements (recherche lieux\, sponsor\, partenaires\, communica
+ tions\, etc.)\nVous pouvez vous initier au tuto si vous le souhaitez avant
+  le meetup\, c'est par ici: Tuto Django Girls (https://tutorial.djangogirl
+ s.org/fr/)\nDes questions\, des idées ? Laissez nous un message.\nÀ trè
+ s bientôt !! \;-)Toute l'équipe de Django Girls Bordeaux\n---\n# Code de
+  conduite\n• Django Girls est dédié à l'organisation d'ateliers sans 
+ harcèlement\, qu’il soit lié au genre\, à l'orientation sexuelle\, au
+  handicap\, à l'apparence physique\, au poids\, à la race\, ou à la rel
+ igion.• Nous ne tolèrerons aucune forme d’harcèlement envers les par
+ ticipant·e·s.• Les comportements ou l'utilisation d'images à connotat
+ ion sexuelle ne sont en aucun cas appropriés\, que ce soit pendant l’at
+ elier ou dans le cadre de présentations.• Faites attention aux autres. 
+ N'insultez pas ou ne rabaissez pas les autres participant·e·s. Soyez pro
+ fessionnels·elles. Ne prenez ni ne publiez de photographie sans avoir obt
+ enu le consentement des personnes concernées. Rappelez-vous que les blagu
+ es racistes\, sexistes\, discriminantes ou excluantes ne seront en aucun c
+ as tolérées pendant un évènement Django Girls.• Les participant·e·
+ s qui violeraient ces règles pourraient se voir sanctionner ou exclu·e·
+ s de l'évènement et ce\, sans aucun dédommagement possible de la part d
+ es organisateurs·rices.\nPour la version longue\, c'est sur le site offic
+ iel: https://djangogirls.org/pages/coc-fr/\n\nCommunauté: bordeaux-python
+ -meetup\n👥 18 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/248168016/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python Bordeaux #8 : Visualisation de données
+DTSTART;TZID=Europe/Paris:20180301T193000
+DTEND;TZID=Europe/Paris:20180301T213000
+UID:https://www.meetup.com/py-bdx/events/247587158/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/247587158/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nCe meetup est une introd
+ uction à la visualisation de données. Avant de voir quelques lignes de P
+ ython\, on se posera quelques questions :\n• quels sont les différents 
+ types de données ?• quelle palette de couleurs choisir pour tel type de
+  donnée ?• comment rendre la compréhension de la donnée plus facile ?
+ \nJ'illustrerai ensuite ces propos sur des jeux de donnée simples avec de
+ s bibliothèques Python telles que pandas\, matplotlib et seaborn. On verr
+ a ensemble comment la visualisation peut aider à l'exploration de la donn
+ ée et à sa compréhension.\nJe présenterai aussi à partir des ces mêm
+ es données d'autres bibliothèques de visualisation en Python : Altair\, 
+ HoloViews\, plotly.\nÀ la fin de cette présentation sous forme de Jupyte
+ r Notebook\, vous saurez la différence entre une palette de couleur diver
+ ging ou sequential et aurez quelques exemples reproductibles de visualisat
+ ion de données.\nCette présentation convient à tout type de profil (dé
+ butant\, intermédiaire\, experte\, ...). La suite de la présentation don
+ nera lieu à un apéro convivial !\n\nCommunauté: bordeaux-python-meetup\
+ n👥 49 participant(s)\nLimité à 50 places
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/247587158/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20180221T193000
+DTEND;TZID=Europe/Paris:20180221T213000
+UID:https://www.meetup.com/py-bdx/events/247151241/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/247151241/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nUne rencontre mensuelle\
+ , qui proposera un temps d'échange autour du code et de retrouvailles pou
+ r la communauté Django Girls Bordeaux.\n✔ Pour des ateliers python avan
+ cés contacter Damien Garaud (https://twitter.com/jazzydag) \;✔ Pour cod
+ er\, pensez à amener votre ordinateur \;✔ Apéro participatif\, amenez 
+ ce qu'il vous plaît.\n# Programme/groupes de travail---------------------
+ ---------------------• Préparation DGBDX #5 \;• Discussion nouveau fo
+ rmat d'atelier \;------------------------------------------• Site web Dj
+ ango Girls Bordeaux maison \;• Ateliers code (Scratch\, Python\, mini-pr
+ ojet) \;• Travail sur les tutoriels pour le jour J• Organisation des p
+ rochains événements (recherche lieux\, sponsor\, partenaires\, communica
+ tions\, etc.)\nVous pouvez vous initier au tuto si vous le souhaitez avant
+  le meetup\, c'est par ici: Tuto Django Girls (https://tutorial.djangogirl
+ s.org/fr/)\nDes questions\, des idées ? Laissez nous un message.\nÀ trè
+ s bientôt !! \;-)Toute l'équipe de Django Girls Bordeaux\n---\n# Code de
+  conduite\n• Django Girls est dédié à l'organisation d'ateliers sans 
+ harcèlement\, qu’il soit lié au genre\, à l'orientation sexuelle\, au
+  handicap\, à l'apparence physique\, au poids\, à la race\, ou à la rel
+ igion.• Nous ne tolèrerons aucune forme d’harcèlement envers les par
+ ticipant·e·s.• Les comportements ou l'utilisation d'images à connotat
+ ion sexuelle ne sont en aucun cas appropriés\, que ce soit pendant l’at
+ elier ou dans le cadre de présentations.• Faites attention aux autres. 
+ N'insultez pas ou ne rabaissez pas les autres participant·e·s. Soyez pro
+ fessionnels·elles. Ne prenez ni ne publiez de photographie sans avoir obt
+ enu le consentement des personnes concernées. Rappelez-vous que les blagu
+ es racistes\, sexistes\, discriminantes ou excluantes ne seront en aucun c
+ as tolérées pendant un évènement Django Girls.• Les participant·e·
+ s qui violeraient ces règles pourraient se voir sanctionner ou exclu·e·
+ s de l'évènement et ce\, sans aucun dédommagement possible de la part d
+ es organisateurs·rices.\nPour la version longue\, c'est sur le site offic
+ iel: https://djangogirls.org/pages/coc-fr/\n\nCommunauté: bordeaux-python
+ -meetup\n👥 26 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/247151241/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20180124T193000
+DTEND;TZID=Europe/Paris:20180124T213000
+UID:https://www.meetup.com/py-bdx/events/246115013/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/246115013/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nUne rencontre mensuelle\
+ , qui proposera un temps d'échange autour du code et de retrouvailles pou
+ r la communauté Django Girls Bordeaux.\n✔ Pour des ateliers python avan
+ cés contacter Damien Garaud (https://twitter.com/jazzydag) \;✔ Pour cod
+ er\, pensez à amener votre ordinateur \;✔ Apéro participatif\, amenez 
+ ce qu'il vous plaît.\n# Programme/groupes de travail---------------------
+ ---------------------• Préparation DGBDX #5 \;• Discussion nouveau fo
+ rmat d'atelier \;------------------------------------------• Site web Dj
+ ango Girls Bordeaux maison \;• Ateliers code (Scratch\, Python\, mini-pr
+ ojet) \;• Travail sur les tutoriels pour le jour J• Organisation des p
+ rochains événements (recherche lieux\, sponsor\, partenaires\, communica
+ tions\, etc.)\nVous pouvez vous initier au tuto si vous le souhaitez avant
+  le meetup\, c'est par ici: Tuto Django Girls (https://tutorial.djangogirl
+ s.org/fr/)\nDes questions\, des idées ? Laissez nous un message.\nÀ trè
+ s bientôt !! \;-)Toute l'équipe de Django Girls Bordeaux\n---\n# Code de
+  conduite\n• Django Girls est dédié à l'organisation d'ateliers sans 
+ harcèlement\, qu’il soit lié au genre\, à l'orientation sexuelle\, au
+  handicap\, à l'apparence physique\, au poids\, à la race\, ou à la rel
+ igion.• Nous ne tolèrerons aucune forme d’harcèlement envers les par
+ ticipant·e·s.• Les comportements ou l'utilisation d'images à connotat
+ ion sexuelle ne sont en aucun cas appropriés\, que ce soit pendant l’at
+ elier ou dans le cadre de présentations.• Faites attention aux autres. 
+ N'insultez pas ou ne rabaissez pas les autres participant·e·s. Soyez pro
+ fessionnels·elles. Ne prenez ni ne publiez de photographie sans avoir obt
+ enu le consentement des personnes concernées. Rappelez-vous que les blagu
+ es racistes\, sexistes\, discriminantes ou excluantes ne seront en aucun c
+ as tolérées pendant un évènement Django Girls.• Les participant·e·
+ s qui violeraient ces règles pourraient se voir sanctionner ou exclu·e·
+ s de l'évènement et ce\, sans aucun dédommagement possible de la part d
+ es organisateurs·rices.\nPour la version longue\, c'est sur le site offic
+ iel: https://djangogirls.org/pages/coc-fr/\n\nCommunauté: bordeaux-python
+ -meetup\n👥 16 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/246115013/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20171213T193000
+DTEND;TZID=Europe/Paris:20171213T213000
+UID:https://www.meetup.com/py-bdx/events/245464004/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/245464004/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\n✅ Si vous souhaitez co
+ der\, pensez à amener votre ordinateur :-)\nUn temps de rencontre mensue
+ l\, qui proposera\nun temps d'échange autour du code et de retrouvailles 
+ pour la communauté. \n# Programme/groupes de travail\n• Site web Djang
+ o Girls Bordeaux maison \;\n• Ateliers code (Scratch\, Exo Python\, min
+ i-projet) \;\n• Travail sur les tutoriels pour le jour J\n• Organisati
+ on des prochains événements (recherche lieux\, sponsor\, partenaires\, c
+ ommunications\, etc.)\nVous pouvez vous initier au tuto si vous le souhait
+ ez avant le meetup\, c'est par ici:  Tuto Django Girls\nDes questions\, 
+ des idées ? Laissez nous un message.\nÀ très bientôt !! \;-)Toute l'é
+ quipe de Django Girls Bordeaux\n--\n# Code de conduite\n• Django Girls 
+ est dédié à l'organisation d'ateliers sans harcèlement\, qu’il soit 
+ lié au genre\, à l'orientation sexuelle\, au handicap\, à l'apparence p
+ hysique\, au poids\, à la race\, ou à la religion.\n• Nous ne tolère
+ rons aucune forme d’harcèlement envers les participant·e·s.\n• Les
+  comportements ou l'utilisation d'images à connotation sexuelle ne sont e
+ n aucun cas appropriés\, que ce soit pendant l’atelier ou dans le cadre
+  de présentations.\n• Faites attention aux autres. N'insultez pas ou n
+ e rabaissez pas les autres participant·e·s. Soyez professionnels·elles.
+  Ne prenez ni ne publiez de photographie sans avoir obtenu le consentement
+  des personnes concernées. Rappelez-vous que les blagues racistes\, sexis
+ tes\, discriminantes ou excluantes ne seront en aucun cas tolérées penda
+ nt un évènement Django Girls.\n• Les participant·e·s qui violeraien
+ t ces règles pourraient se voir sanctionner ou exclu·e·s de l'évèneme
+ nt et ce\, sans aucun dédommagement possible de la part des organisateurs
+ ·rices.\nPour la version longue\, c'est sur le site officiel: https://dja
+ ngogirls.org/pages/coc-fr/<a href="https://djangogirls.org/pages/coc/"></a
+ >\n\nCommunauté: bordeaux-python-meetup\n👥 18 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/245464004/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20171115T193000
+DTEND;TZID=Europe/Paris:20171115T213000
+UID:https://www.meetup.com/py-bdx/events/244747708/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/244747708/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nUn temps de rencontre me
+ nsuel\, qui proposera\nun temps d'échange autour du code et de retrouvail
+ les pour la communauté. \n# Programme/groupes de travail\n• Site web D
+ jango Girls Bordeaux maison \;\n• Ateliers code (Scratch\, Exo Python\,
+  mini-projet) \;\n• Travail sur les tutoriels pour le jour J\n• Organi
+ sation des prochains événements (recherche lieux\, sponsor\, partenaires
+ \, communications\, etc.)\nDes questions\, des idées ? Laissez nous un me
+ ssage.\nÀ très bientôt !! \;-)Toute l'équipe de Django Girls Bordeaux\
+ n--\n# Code de conduite\n• Django Girls est dédié à l'organisation d
+ 'ateliers sans harcèlement\, qu’il soit lié au genre\, à l'orientatio
+ n sexuelle\, au handicap\, à l'apparence physique\, au poids\, à la race
+ \, ou à la religion.\n• Nous ne tolèrerons aucune forme d’harcèlem
+ ent envers les participant·e·s.\n• Les comportements ou l'utilisation
+  d'images à connotation sexuelle ne sont en aucun cas appropriés\, que c
+ e soit pendant l’atelier ou dans le cadre de présentations.\n• Faite
+ s attention aux autres. N'insultez pas ou ne rabaissez pas les autres part
+ icipant·e·s. Soyez professionnels·elles. Ne prenez ni ne publiez de pho
+ tographie sans avoir obtenu le consentement des personnes concernées. Rap
+ pelez-vous que les blagues racistes\, sexistes\, discriminantes ou excluan
+ tes ne seront en aucun cas tolérées pendant un évènement Django Girls.
+ \n• Les participant·e·s qui violeraient ces règles pourraient se voi
+ r sanctionner ou exclu·e·s de l'évènement et ce\, sans aucun dédommag
+ ement possible de la part des organisateurs·rices.\nPour la version longu
+ e\, c'est sur le site officiel: https://djangogirls.org/pages/coc-fr/<a hr
+ ef="https://djangogirls.org/pages/coc/"></a>\n\nCommunauté: bordeaux-pyth
+ on-meetup\n👥 20 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/244747708/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20170712T193000
+DTEND;TZID=Europe/Paris:20170712T213000
+UID:https://www.meetup.com/py-bdx/events/240728025/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/240728025/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nUn temps de rencontre me
+ nsuel\, qui proposera\nun temps d'échange autour du code et de retrouvail
+ les pour la communauté.\n# Programme/groupes de travail\n• Site web Dja
+ ngo Girls Bordeaux maison \;\n• Ateliers code (Scratch\, Exo Python\, m
+ ini-projet) \;\n• Travail sur les tutoriels pour le jour J\n• Organisa
+ tion des prochains événements (recherche lieux\, sponsor\, partenaires\,
+  communications\, etc.)\nDes questions\, des idées ? Laissez nous un mess
+ age.\nÀ très bientôt !! \;-)Toute l'équipe de Django Girls Bordeaux\n-
+ -\n# Code de conduite\n• Django Girls est dédié à l'organisation d'a
+ teliers sans harcèlement\, qu’il soit lié au genre\, à l'orientation 
+ sexuelle\, au handicap\, à l'apparence physique\, au poids\, à la race\,
+  ou à la religion.\n• Nous ne tolèrerons aucune forme d’harcèlemen
+ t envers les participant·e·s.\n• Les comportements ou l'utilisation d
+ 'images à connotation sexuelle ne sont en aucun cas appropriés\, que ce 
+ soit pendant l’atelier ou dans le cadre de présentations.\n• Faites 
+ attention aux autres. N'insultez pas ou ne rabaissez pas les autres partic
+ ipant·e·s. Soyez professionnels·elles. Ne prenez ni ne publiez de photo
+ graphie sans avoir obtenu le consentement des personnes concernées. Rappe
+ lez-vous que les blagues racistes\, sexistes\, discriminantes ou excluante
+ s ne seront en aucun cas tolérées pendant un évènement Django Girls.\n
+ • Les participant·e·s qui violeraient ces règles pourraient se voir 
+ sanctionner ou exclu·e·s de l'évènement et ce\, sans aucun dédommagem
+ ent possible de la part des organisateurs·rices.\nPour la version longue\
+ , c'est sur le site officiel: https://djangogirls.org/pages/coc-fr/<a href
+ ="https://djangogirls.org/pages/coc/"></a>\n\nCommunauté: bordeaux-python
+ -meetup\n👥 14 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/240728025/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20170606T193000
+DTEND;TZID=Europe/Paris:20170606T213000
+UID:https://www.meetup.com/py-bdx/events/240384835/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/240384835/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nUn temps de rencontre me
+ nsuel\, qui proposera\nun temps d'échange autour du code et de retrouvail
+ les pour la communauté.\n# Programme/groupes de travail\n• Site web Dja
+ ngo Girls Bordeaux maison \;\n• Ateliers code (Scratch\, Exo Python\, m
+ ini-projet) \;\n• Travail sur les tutoriels pour le jour J\n• Organisa
+ tion des prochains événements (logistique\, communications\, etc.)\nDes 
+ questions\, des idées ? Laissez nous un message.\nÀ très bientôt !! \;
+ -)Toute l'équipe de Django Girls Bordeaux\n--\n# Code de conduite\n• D
+ jango Girls est dédié à l'organisation d'ateliers sans harcèlement\, q
+ u’il soit lié au genre\, à l'orientation sexuelle\, au handicap\, à l
+ 'apparence physique\, au poids\, à la race\, ou à la religion.\n• Nou
+ s ne tolèrerons aucune forme d’harcèlement envers les participant·e·
+ s.\n• Les comportements ou l'utilisation d'images à connotation sexuel
+ le ne sont en aucun cas appropriés\, que ce soit pendant l’atelier ou d
+ ans le cadre de présentations.\n• Faites attention aux autres. N'insul
+ tez pas ou ne rabaissez pas les autres participant·e·s. Soyez profession
+ nels·elles. Ne prenez ni ne publiez de photographie sans avoir obtenu le 
+ consentement des personnes concernées. Rappelez-vous que les blagues raci
+ stes\, sexistes\, discriminantes ou excluantes ne seront en aucun cas tol
+ érées pendant un évènement Django Girls.\n• Les participant·e·s q
+ ui violeraient ces règles pourraient se voir sanctionner ou exclu·e·s d
+ e l'évènement et ce\, sans aucun dédommagement possible de la part des 
+ organisateurs·rices.\nPour la version longue\, c'est sur le site officiel
+ : https://djangogirls.org/pages/coc-fr/<a href="https://djangogirls.org/pa
+ ges/coc/"></a>\n\nCommunauté: bordeaux-python-meetup\n👥 12 participant
+ (s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/240384835/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20170504T193000
+DTEND;TZID=Europe/Paris:20170504T213000
+UID:https://www.meetup.com/py-bdx/events/238836345/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/238836345/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nUn temps de rencontre me
+ nsuel\, qui proposera\nun temps d'échange autour du code et de retrouvail
+ les pour la communauté.\n# Programme/groupes de travail\n• Site web Dja
+ ngo Girls Bordeaux maison \;\n• Ateliers code (Scratch\, Exo Python\, m
+ ini-projet) \;\n• Travail sur les tutoriels pour le jour J\n• Organisa
+ tion des prochains événements (logistique\, communications\, etc.)\nDes 
+ questions\, des idées ? Laissez nous un message.\nÀ très bientôt !! \;
+ -)Toute l'équipe de Django Girls Bordeaux\n--\n# Code de conduite\n• D
+ jango Girls est dédié à l'organisation d'ateliers sans harcèlement\, q
+ u’il soit lié au genre\, à l'orientation sexuelle\, au handicap\, à l
+ 'apparence physique\, au poids\, à la race\, ou à la religion.\n• Nou
+ s ne tolèrerons aucune forme d’harcèlement envers les participant·e·
+ s.\n• Les comportements ou l'utilisation d'images à connotation sexuel
+ le ne sont en aucun cas appropriés\, que ce soit pendant l’atelier ou d
+ ans le cadre de présentations.\n• Faites attention aux autres. N'insul
+ tez pas ou ne rabaissez pas les autres participant·e·s. Soyez profession
+ nels·elles. Ne prenez ni ne publiez de photographie sans avoir obtenu le 
+ consentement des personnes concernées. Rappelez-vous que les blagues raci
+ stes\, sexistes\, discriminantes ou excluantes ne seront en aucun cas tol
+ érées pendant un évènement Django Girls.\n• Les participant·e·s q
+ ui violeraient ces règles pourraient se voir sanctionner ou exclu·e·s d
+ e l'évènement et ce\, sans aucun dédommagement possible de la part des 
+ organisateurs·rices.\nPour la version longue\, c'est sur le site officiel
+ : https://djangogirls.org/pages/coc-fr/<a href="https://djangogirls.org/pa
+ ges/coc/"></a>\n\nCommunauté: bordeaux-python-meetup\n👥 9 participant(
+ s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/238836345/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux after session DGBdx#4
+DTSTART;TZID=Europe/Paris:20170330T193000
+DTEND;TZID=Europe/Paris:20170330T213000
+UID:https://www.meetup.com/py-bdx/events/238380531/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/238380531/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nPermanence Spéciale Aft
+ er session du 18 mars \nUn temps de rencontre mensuel\, qui proposera un 
+ temps d'échange autour du code et de retrouvailles pour la communauté.\n
+ # Programme/groupes de travail\n• Revoir les fondamentaux (algorithme\, 
+ Internet\, Stack\, etc.) \;\n• Préparez son environnement pour le jour 
+ J (installer Python/Django/Git) \;\n• Ateliers code (Scratch\, Exo Pyth
+ on\, mini-projet) \;\n• Allez plus loin (déploiement\, architecture log
+ icielle)\nDes questions\, des idées ? Laissez nous un message.\nÀ très 
+ bientôt !! \;-)Toute l'équipe de Django Girls Bordeaux\n# Code de condui
+ te\n• Django Girls est dédié à l'organisation d'ateliers sans harcè
+ lement\, qu’il soit lié au genre\, à l'orientation sexuelle\, au handi
+ cap\, à l'apparence physique\, au poids\, à la race\, ou à la religion.
+ \n• Nous ne tolèrerons aucune forme d’harcèlement envers les partic
+ ipant·e·s.\n• Les comportements ou l'utilisation d'images à connotat
+ ion sexuelle ne sont en aucun cas appropriés\, que ce soit pendant l’at
+ elier ou dans le cadre de présentations.\n• Faites attention aux autre
+ s. N'insultez pas ou ne rabaissez pas les autres participant·e·s. Soyez 
+ professionnels·elles. Ne prenez ni ne publiez de photographie sans avoir 
+ obtenu le consentement des personnes concernées. Rappelez-vous que les bl
+ agues racistes\, sexistes\, discriminantes ou excluantes ne seront en aucu
+ n cas tolérées pendant un évènement Django Girls.\n• Les participan
+ t·e·s qui violeraient ces règles pourraient se voir sanctionner ou excl
+ u·e·s de l'évènement et ce\, sans aucun dédommagement possible de la 
+ part des organisateurs·rices.\nPour la version longue\, c'est sur le site
+  officiel: https://djangogirls.org/pages/coc-fr/<a href="https://djangogir
+ ls.org/pages/coc/"></a>\n\nCommunauté: bordeaux-python-meetup\n👥 17 pa
+ rticipant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/238380531/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python Bordeaux #7 : données géospatiales
+DTSTART;TZID=Europe/Paris:20170323T190000
+DTEND;TZID=Europe/Paris:20170323T210000
+UID:https://www.meetup.com/py-bdx/events/238293674/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/238293674/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nNous accueillons pour ce
+  meetup Yassine qui viendra nous parler de données géospatiales et de SI
+ G (Système d'Information Géographique) en Python.\nFaisons du SIG avec P
+ ython !\nTravailler avec des données géolocalisées est une tâche diffi
+ cile. En effet\, entre apprendre la manipulation de logiciels propriétair
+ es (pensez Arcgis) et trouver la meilleure façon de les intégrer à votr
+ e « stack » technologique actuelle n'est jamais facile. Heureusement\, P
+ ython possède un ensemble de bibliothèques SIG qui rend le travail avec 
+ des données géolocalisées plus facile et agréable. Dans cette présent
+ ation\, je vous montrerais rapidement les outils SIG qu’offre Python et 
+ comment s’en servir pour effectuer une analyse de données. Il y aura un
+ e démo interactive à la fin.\nLet’s do some GIS with Python!\nWorking 
+ with geolocated data can be a hard task. In fact\, between learning propri
+ etary software (think Arcgis) and finding the best way to integrate them w
+ ith your current technology stack is no easy feat. Fortunately\, Python ha
+ s a complete GIS stack that makes working with geolocated data a breeze. I
+ n this talk\, I will quickly present the Python GIS stack and how to use i
+ t to perform a simple data analysis. There will be a live demo at the end 
+ of the talk.\nUne présentation "légère" suivra sur le thème "il existe
+  une fonction pour ça !". Et comme d'habitude\, nous finirons par un apé
+ ro convivial !!\n\nCommunauté: bordeaux-python-meetup\n👥 19 participan
+ t(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/238293674/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20170214T190000
+DTEND;TZID=Europe/Paris:20170214T210000
+UID:https://www.meetup.com/py-bdx/events/236826307/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/236826307/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nUn temps de rencontre me
+ nsuel\, qui proposera un temps d'échange autour du code et de retrouvaill
+ es pour la communauté.\n# Programme/groupes de travail\n• Revoir les fo
+ ndamentaux (algorithme\, Internet\, Stack\, etc.) \;\n• Préparez son en
+ vironnement pour le jour J (installer Python/Django/Git) \;\n• Ateliers
+  code (Scratch\, Exo Python\, mini-projet) \;\n• Allez plus loin (déplo
+ iement\, architecture logicielle)\nDes questions\, des idées ? Laissez no
+ us un message.\nÀ très bientôt !! \;-)Toute l'équipe de Django Girls B
+ ordeaux\n# Code de conduite\n• Django Girls est dédié à l'organisati
+ on d'ateliers sans harcèlement\, qu’il soit lié au genre\, à l'orient
+ ation sexuelle\, au handicap\, à l'apparence physique\, au poids\, à la 
+ race\, ou à la religion.\n• Nous ne tolèrerons aucune forme d’harc
+ èlement envers les participant·e·s.\n• Les comportements ou l'utilis
+ ation d'images à connotation sexuelle ne sont en aucun cas appropriés\, 
+ que ce soit pendant l’atelier ou dans le cadre de présentations.\n• 
+ Faites attention aux autres. N'insultez pas ou ne rabaissez pas les autres
+  participant·e·s. Soyez professionnels·elles. Ne prenez ni ne publiez d
+ e photographie sans avoir obtenu le consentement des personnes concernées
+ . Rappelez-vous que les blagues racistes\, sexistes\, discriminantes ou ex
+ cluantes ne seront en aucun cas tolérées pendant un évènement Django G
+ irls.\n• Les participant·e·s qui violeraient ces règles pourraient s
+ e voir sanctionner ou exclu·e·s de l'évènement et ce\, sans aucun déd
+ ommagement possible de la part des organisateurs·rices.\nPour la version 
+ longue\, c'est sur le site officiel: https://djangogirls.org/pages/coc-fr/
+ <a href="https://djangogirls.org/pages/coc/"></a>\n\nCommunauté: bordeaux
+ -python-meetup\n👥 16 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/236826307/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python Bordeaux #6 : microservices et luigi
+DTSTART;TZID=Europe/Paris:20170117T193000
+DTEND;TZID=Europe/Paris:20170117T213000
+UID:https://www.meetup.com/py-bdx/events/236606920/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/236606920/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nTout d'abord bonne anné
+ e à toutes et à tous !\nNous commençons cette année par un chaleureux 
+ meetup à propos de microservices et de traitement de données.\n• Micro
+ services avec zmq\nA la découverte de 0MQ (ZéroMQ). 0MQ est une petite l
+ ibrairie qui permet de connecter du code depuis n'importe quel langage. Il
+  transporte des messages en utilisant différents protocoles (IPC\, TCP\, 
+ TIPC\, multicast) et distribue ces messages selon différentes méthodes (
+ pub-sub\, push-pull\, and router-dealer).\nAu travers d'un exemple très s
+ imple nous verrons comment connecter différents services ensemble avec 0M
+ Q.\n• Traitement de données avec luigi : luigi est un projet Open Sourc
+ e porté par spotify. Il est très facile à utiliser et pratique quand on
+  souhaite automatiser des traitements de données qui peuvent avoir des d
+ épendances entre eux. Il permet aussi\, à partir d'une interface Web\, d
+ e visualiser les traitements en cours. La présentation se finira par une 
+ petite démonstration dont le code sera disponible après le meetup.\nN'h
+ ésitez pas à mettre des liens d'articles\, projets ou vidéos que vous a
+ vez vus récemment dans la section What's Up du framapad https://annuel.fr
+ amapad.org/p/py-bdx\nComme à l'accoutumée\, nous finirons ce meetup par 
+ un sympathique apéro.\n\nCommunauté: bordeaux-python-meetup\n👥 30 par
+ ticipant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/236606920/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20170110T193000
+DTEND;TZID=Europe/Paris:20170110T213000
+UID:https://www.meetup.com/py-bdx/events/236098698/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/236098698/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nUn temps de rencontre me
+ nsuel\, qui proposera un temps d'échange autour du code et de retrouvaill
+ es pour la communauté.\n# Programme/groupes de travail\n• Revoir les fo
+ ndamentaux (algorithme\, Internet\, Stack\, etc.) \;\n• Préparez son en
+ vironnement pour le jour J (installer Python/Django/Git) \;\n• Ateliers
+  code (Scratch\, Exo Python\, mini-projet) \;\n• Allez plus loin (déplo
+ iement\, architecture logicielle)\nDes questions\, des idées ? Laissez no
+ us un message.\nÀ très bientôt !! \;-)Toute l'équipe de Django Girls B
+ ordeaux\n# Code de conduite\n• Django Girls est dédié à l'organisati
+ on d'ateliers sans harcèlement\, qu’il soit lié au genre\, à l'orient
+ ation sexuelle\, au handicap\, à l'apparence physique\, au poids\, à la 
+ race\, ou à la religion.\n• Nous ne tolèrerons aucune forme d’harc
+ èlement envers les participant·e·s.\n• Les comportements ou l'utilis
+ ation d'images à connotation sexuelle ne sont en aucun cas appropriés\, 
+ que ce soit pendant l’atelier ou dans le cadre de présentations.\n• 
+ Faites attention aux autres. N'insultez pas ou ne rabaissez pas les autres
+  participant·e·s. Soyez professionnels·elles. Ne prenez ni ne publiez d
+ e photographie sans avoir obtenu le consentement des personnes concernées
+ . Rappelez-vous que les blagues racistes\, sexistes\, discriminantes ou ex
+ cluantes ne seront en aucun cas tolérées pendant un évènement Django G
+ irls.\n• Les participant·e·s qui violeraient ces règles pourraient s
+ e voir sanctionner ou exclu·e·s de l'évènement et ce\, sans aucun déd
+ ommagement possible de la part des organisateurs·rices.\nPour la version 
+ longue\, c'est sur le site officiel: https://djangogirls.org/pages/coc-fr/
+ <a href="https://djangogirls.org/pages/coc/"></a>\n\nCommunauté: bordeaux
+ -python-meetup\n👥 13 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/236098698/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux (permanence mensuelle)
+DTSTART;TZID=Europe/Paris:20161207T193000
+DTEND;TZID=Europe/Paris:20161207T213000
+UID:https://www.meetup.com/py-bdx/events/235645273/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/235645273/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nUn temps de rencontre me
+ nsuel\, qui proposera un temps d'échange autour du code et de retrouvaill
+ es pour la communauté.\n# Programme/groupes de travail\nQuelques pistes p
+ our les événements:\n• Orga des événements (financement\, logistique
+ \, com') \;\n• Revoir les fondamentaux (algorithme\, Internet\, Stack\, 
+ etc.) \;\n• Préparez son environnement pour le jour J (installer Python
+ /Django/Git) \;\n• Ateliers code (Scratch\, Exo Python\, mini-projet) \
+ ;\n• Allez plus loin (déploiement\, architecture logicielle)\nDes quest
+ ions\, des idées ? Laissez nous un message.\nÀ très bientôt !! \;-)Tou
+ te l'équipe de Django Girls Bordeaux\n# Code de conduite\n• Django Gir
+ ls est dédié à l'organisation d'ateliers sans harcèlement\, qu’il so
+ it lié au genre\, à l'orientation sexuelle\, au handicap\, à l'apparenc
+ e physique\, au poids\, à la race\, ou à la religion.\n• Nous ne tol
+ èrerons aucune forme d’harcèlement envers les participant·e·s.\n•
+  Les comportements ou l'utilisation d'images à connotation sexuelle ne s
+ ont en aucun cas appropriés\, que ce soit pendant l’atelier ou dans le 
+ cadre de présentations.\n• Faites attention aux autres. N'insultez pas
+  ou ne rabaissez pas les autres participant·e·s. Soyez professionnels·e
+ lles. Ne prenez ni ne publiez de photographie sans avoir obtenu le consent
+ ement des personnes concernées. Rappelez-vous que les blagues racistes\, 
+ sexistes\, discriminantes ou excluantes ne seront en aucun cas tolérées 
+ pendant un évènement Django Girls.\n• Les participant·e·s qui viole
+ raient ces règles pourraient se voir sanctionner ou exclu·e·s de l'év
+ ènement et ce\, sans aucun dédommagement possible de la part des organis
+ ateurs·rices.\nPour la version longue\, c'est sur le site officiel: https
+ ://djangogirls.org/pages/coc-fr/<a href="https://djangogirls.org/pages/coc
+ /"></a>\n\nCommunauté: bordeaux-python-meetup\n👥 14 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/235645273/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Django Girls Bordeaux
+DTSTART;TZID=Europe/Paris:20161116T193000
+DTEND;TZID=Europe/Paris:20161116T213000
+UID:https://www.meetup.com/py-bdx/events/235149134/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/235149134/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nLa décision a été pri
+ se lors de la dernière réunion de lancer un temps de rencontre mensuel\,
+  qui proposera un temps d'échange autour du code et de retrouvailles pour
+  la communauté.\nVous pouvez d'ores et déjà retenir la date.\nA très b
+ ientôt !! \;-)\nToute l'équipe de Django Girls Bordeaux\n# Code de condu
+ ite\n• Django Girls est dédié à l'organisation d'ateliers sans harc
+ èlement\, qu’il soit lié au genre\, à l'orientation sexuelle\, au han
+ dicap\, à l'apparence physique\, au poids\, à la race\, ou à la religio
+ n.\n• Nous ne tolèrerons aucune forme d’harcèlement envers les part
+ icipant·e·s.\n• Les comportements ou l'utilisation d'images à connot
+ ation sexuelle ne sont en aucun cas appropriés\, que ce soit pendant l’
+ atelier ou dans le cadre de présentations.\n• Faites attention aux aut
+ res. N'insultez pas ou ne rabaissez pas les autres participant·e·s. Soye
+ z professionnels·elles. Ne prenez ni ne publiez de photographie sans avoi
+ r obtenu le consentement des personnes concernées. Rappelez-vous que les 
+ blagues racistes\, sexistes\, discriminantes ou excluantes ne seront en au
+ cun cas tolérées pendant un évènement Django Girls.\n• Les particip
+ ant·e·s qui violeraient ces règles pourraient se voir sanctionner ou ex
+ clu·e·s de l'évènement et ce\, sans aucun dédommagement possible de l
+ a part des organisateurs·rices.\nPour la version longue\, c'est sur le si
+ te officiel: https://djangogirls.org/pages/coc/\n\nCommunauté: bordeaux-p
+ ython-meetup\n👥 22 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/235149134/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python Bordeaux #5: Panda et la fouille de données
+DTSTART;TZID=Europe/Paris:20161109T190000
+DTEND;TZID=Europe/Paris:20161109T210000
+UID:https://www.meetup.com/py-bdx/events/234773390/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/234773390/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nNous avons le plaisir de
+  vous annoncer le 5e meetup Python.\nPour cette session\, nous allons fair
+ e du pandas [1]. Pandas est une bibliothèque d'analyse et de manipulation
+  de données très populaire et très performante. \nSouvent très simila
+ ire aux fonctionnalités qu'on peut trouver dans le langage R\, pandas peu
+ t s'utiliser dans un très grand nombre de cas : statistiques\, machine le
+ arning\, fouille de données\, analyse de données\, analyse de séries te
+ mporelles\, etc.\nNous travaillerons sur deux jeux de données assez simpl
+ es pour montrer des fonctionnalités comme la lecture de fichiers tabulés
+ \, l'accès aux données\, requêter et aggréger vos données\, faire des
+  graphes\, etc. le tout\, dans un Jupyter Notebook [2].\nCe meetup\, pour 
+ tout niveau Python\, s'adresse aux personnes qui ne connaissent pas ou peu
+  pandas. Pour les personnes qui connaissent déjà\, vous découvrirez sû
+ rement d'autres façons de faire\, de nouvelles fonctionnalités\, ou un a
+ spect de la bibliothèque que vous n'utilisez pas (encore).\nCe tutoriel p
+ andas sera suivi par le p'tit apéro convivial qui va bien !\n[1] http://p
+ andas.pydata.org/\n[2] http://jupyter.org/\n\nCommunauté: bordeaux-pytho
+ n-meetup\n👥 36 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/234773390/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python Bordeaux #4
+DTSTART;TZID=Europe/Paris:20160629T190000
+DTEND;TZID=Europe/Paris:20160629T210000
+UID:https://www.meetup.com/py-bdx/events/231686557/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/231686557/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nLe mois de maivembre est
+  fini. On fait tomber les parapluies\, les manteaux et les bottes. Sortez
+  vos Python\, on se retrouve le mercredi 29 juin au Node pour :\n• DevOp
+ s\, une brève introduction à Ansible\n• Learning Deep Learning avec Py
+ thon et TensorFlow\nAnsible est un outil multi-plateforme de déploiement
+  automatique de configurations\, de logiciels et d'exécution de tâches s
+ ur plusieurs machines.\nTensorFlow est une bibliothèque Open Source de 
+ Machine Learning de Google. Elle permet\, entre autre\, de construire des 
+ graphes pour faire des réseaux de neurones profonds (Deep Learning).\nSi 
+ des faits\, articles\, vidéos\, tutos\, projets ont attiré votre attenti
+ on depuis la dernières fois et que vous souhaitez qu'on en parle\, il y a
+  le Framapad dédié https://annuel.framapad.org/p/py-bdx\nLe meetup est 
+ ouvert au format court\, présentation de 5 à 10 minutes\, sur un sujet P
+ ython qui vous plaît.\nNous finirons le meetup avec le p'tit apéro convi
+ vial qui va bien !\n\nCommunauté: bordeaux-python-meetup\n👥 25 partici
+ pant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/231686557/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python Bordeaux #3
+DTSTART;TZID=Europe/Paris:20160524T190000
+DTEND;TZID=Europe/Paris:20160524T210000
+UID:https://www.meetup.com/py-bdx/events/231038436/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/231038436/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nLe printemps est mainten
+ ant bien entamé\, les beaux jours arrivent. Il est temps de marquer dans 
+ votre agenda le troisième meetup dédié au langage Python.\nPour ce mois
+  de mai\, nous avons préparé pour vous du Web\, des API\, de l'apprentis
+ sage machine :\n• Test fonctionnel avec webtest\n• Learning Deep Learn
+ ing avec Python et TensorFlow (annulée)\n• Faire une API REST avec Flas
+ k & Swagger\nN'hésitez pas à remplir les faits\, articles\, vidéos marq
+ uants depuis la dernière fois dans le pad dédié au meetup dans la secti
+ on "What's Up" : https://annuel.framapad.org/p/py-bdx Et on finira ce mee
+ tup avec un p'tit apéro sympathique.\n\nCommunauté: bordeaux-python-mee
+ tup\n👥 27 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/231038436/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python Bordeaux #2
+DTSTART;TZID=Europe/Paris:20160309T190000
+DTEND;TZID=Europe/Paris:20160309T210000
+UID:https://www.meetup.com/py-bdx/events/228877726/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/228877726/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nDeuxième meetup dédié
+  au langage de programmation Python à Bordeaux.\nPrésentations au progra
+ mme :\n• Comment packager et distribuer son paquet Python\n• Utilisati
+ on du débuggeur en Python\nQuelques éventuels lightning talks et beaucou
+ p de bonne humeur.\nN'oubliez pas de remplir les articles\, vidéos ou pro
+ jets qui ont attiré votre attention ces dernières semaines dans la secti
+ on "What's Up" du pad dédié au meetup https://annuel.framapad.org/p/py-b
+ dx\n\nCommunauté: bordeaux-python-meetup\n👥 26 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/228877726/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python Bordeaux #1
+DTSTART;TZID=Europe/Paris:20160204T183000
+DTEND;TZID=Europe/Paris:20160204T203000
+UID:https://www.meetup.com/py-bdx/events/228109596/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/228109596/\n📍 Le 
+ Node\, 12 rue des Faussets\, Bordeaux\, France\n\nPremier meetup dédié a
+ u langage Python à Bordeaux.\nIl s'adresse avant tout à des personnes qu
+ i savent programmer\, quel que soit le niveau\, intéressées par Python.\
+ nProposés au menu :\n• une présentation de 15-20 minutes autour de la
+  distribution Anaconda et du  gestionnaire de paquets conda\n• rapide 
+ survol des nouvelles fonctionnalités dans la dernière version du  Jupyt
+ er Notebook\n• What's Next : le fond et la forme. Propositions de conte
+ nu pour les  prochains meetup et sous quelle forme ?\nLibre à vous de ra
+ mener des sujets et de venir les présenter.\nCette session sera aussi l'o
+ ccasion d'échanger sur l'utilisation de Python :ce que vous faites ou sou
+ haitez faire. Venez avec vos sujets et vos envies.\nLe meetup sera suivi d
+ 'un p'tit apéro pour continuer les discussions.\n\nCommunauté: bordeaux-
+ python-meetup\n👥 22 participant(s)
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/228109596/
+END:VEVENT
 END:VCALENDAR

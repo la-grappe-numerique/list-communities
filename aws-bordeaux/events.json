@@ -1,1 +1,462 @@
-[]
+[
+  {
+    "title": "Meetup AWS re:Invent re:Cap",
+    "date": "2025-02-20T18:30:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/",
+    "description": "**Hello tout le monde ! 👋**\nNous sommes ravis de vous convier à notre prochain AWS User Group Bordeaux pour un événement spécial re:cap ! 🚀**🗓️ Quand ?** Jeudi 20 février, à partir de 18h30**📍 Où ?** Betclic, 117 Quai de Bacalan, 33300 Bordeaux**📋 Au programme :** Une sélection des annonces (et pré annonces) faites lors de l'AWS re:Invent 2024 en 2 heures chrono !*(programme détaillé d'ici peu)*\nAWS re:Invent, LA conférence annuelle d'AWS à Las Vegas, est le rendez-vous incontournable où sont dévoilées les dernières innovations cloud. Rejoignez-nous pour découvrir les principales annonces de cette treizième édition\n**🍕 Merci à Betclic** qui nous accueille !**⚠️ Attention : places limitées !** Inscrivez-vous dès maintenant pour ne pas manquer cet événement.\nAu plaisir de vous retrouver nombreux !**L'équipe AWS User Group Bordeaux**",
+    "community": "aws-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Beltic",
+      "address": "Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux",
+    "rsvp_limit": 80,
+    "rsvp_count": 10
+  },
+  {
+    "title": "Meetup AWS Bordeaux : Serverless, FinOps, et GenAI",
+    "date": "2024-11-14T18:30:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/304288920/",
+    "description": "**Hello tout le monde**\nNous sommes ravis de relancer le Meetup AWS User Group Bordeaux ! 🚀\n**🗓️ Quand ?** Jeudi 14 novembre, à 18h30**📍Où ?** Betclic, 117 Quai de Bacalan, 33300 Bordeaux\n**🎙️ Au programme :** 3 talks passionnants autour du Serverless, FinOps, et GenAI !\n**Talk 1 :** **Mes premiers pas avec Rust sur AWS**\nApres plusieurs mois a lire des articles avec des titres très aguicheur comme :“Comment j’ai améliorer le temps d’execution de mes applications par 200% grâce a Rust”“Comment economiser des milliers d’euros en temps de compute avec Rust”“Comment cuisiner un plat digne d’un chef 3\\* grâce a Rust”Je me suis réveillé un beau matin et j’ai pris la (insérer un adjectif) décision de ma vie. Je vais apprendre RUST.\nUn objectif en tête, faire tourner du Rust dans une fonction Lambda.Ce talk a pour but de donner quelques clés pour:• Apprendre le language (par ou commencer ? Quoi lire ? Comment s’entrainer ?)• Faire fonctionner un bout de code sur sa machine (et le comprendre)• Le tester et bien le formatter• La partie du build• Le concevoir pour une Lambda et enfin, le deployer\n**Talk 2 :** **Retour d'experience sur la mise en place d'une aide aux agent de supports d'un grand parc d'attraction français.**\nLors de leur reservation, les clients d’un grand parc d’attraction peuvent aujourd’hui accéder à des demandes de supports via une adresse mail leur permettant de contacter un humain.Lorsqu’une demande arrive elle est qualifiée automatiquement via un processus développé dans le CRM.Aujourd’hui, sur environ 1500 tickets quotidiens, environ 40% des demandes sont des demandes à faible valeur ajoutée, comme des demandes d’informations sur le parc, disponible la plus grande partie du temps sur le site web.\nComment mettre en place un outil dopé a l'IA permettant d'accélerer la gestion de ces tickets a faible valeur ajoutée ?\n**Talk 3 : Quand ton CTO te demande de réduire les coûts AWS, les Cloud Intelligence Dashboards sont là pour te sauver**\nTu passes à la cafet pour prendre ton petit thé/café. Les devs arrivent et hyper fier d’avoir fait tourner leur POC sur des Lambdas en Rust. L’équipe ML arrive super content aussi car hier ils ont réussi à entrainer un nouveau modèle qui va révolutionner la GenAI. Et puis les barbus on est content également, la nuit s’est bien passé pas d’astreinte déclenchée.\nBref une journée magnifique qui se profile et puis … il y a la fameuse réunion avec tous les Head Of et le CTO.Le CTO dit :”Bon je viens d’avoir la facture AWS de ce mois, on a encore augmenté nos coûts X2 par rapport au mois dernier. On peut plus continuer comme ça. Il faut qu’on réduise ça coûte trop cher et on pourra jamais faire une nouvelle levée de fonds à ce rythme là”.\nLes différents Head Of se jettent la pierre.“Oui c’est l’équipe ML avec leurs instances GPU”.”Oui ce sont les devs avec leur Lambdas en Rust”\nAvant de pouvoir commencer à réduire les coûts, il faut déjà faire un état de lieu de ce qu’on a comme resources sur AWS et combien ça nous coûte et pour ça nous avons à disposition les Cloud Intelligence Dashboards créés pas AWS. On pourra ensuite cibler les quick-wins et un plan d’actions.\nCe talk a pour but de faire découvrir:\n* les best practices au niveau des tags (few of them)* les composants qui permettent d’alimenter ces dashboards (CUR, Data Exports, Glue, Athena, Quicksight)* comment mettre en place les dashboards de façon automatiser* les différents types de dashboard existants\n**🍕Merci à Betclic** pour son accueil et pour nous offrir un moment convivial avec de quoi grignoter et se restaurer en fin de meetup !\n**⚠️ Nombre de places limité**, pensez à vous inscrire dès maintenant !\nAu plaisir de vous retrouver nombreux !\n**L’équipe AWS User Group Bordeaux**",
+    "community": "aws-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Beltic",
+      "address": "Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux",
+    "rsvp_limit": 80,
+    "rsvp_count": 45
+  },
+  {
+    "title": "[Présentiel !] Meetup AWS Bordeaux #8",
+    "date": "2022-05-11T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/285568376/",
+    "description": "C'est (enfin) le retour des Meetups AWS Bordeaux en présentiel 💪\n**Réimaginer une application métier sur AWS**\n« Repartir d'une feuille blanche est une stratégie de migration Cloud originale.\nC'est le cas d'une organisation qui souhaitait se délester des écueils rencontrés par ses équipes en repensant ses applicatifs cœur de zéro.\nAu programme : des services Serverless tels que AWS Lambda et Amazon DynamoDB, des pratiques de développement et d'exploitation parsemées d'IoT. »\n**Intervenants**\n🎙 Vincenzo Scalzi - Gekko / Accenture🎙 Samuel Renassia - Gekko / Accenture\n🍕🍺",
+    "community": "aws-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Halle Héméra",
+      "address": "132 Rue Fondaudège",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "132 Rue Fondaudège, Bordeaux",
+    "rsvp_count": 37
+  },
+  {
+    "title": "Meetup AWS virtuel #12 - Migration",
+    "date": "2021-12-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/282446411/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS, qui sera consacré au sujet de la migration.\nMerci de vous inscrire ici si vous souhaitez participer en virtuel.\n📅 Rendez-vous le 13 DECEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Migrer en 9 mois vers AWS, challenge accepted ! - Level 200Guillaume CHENUET - Engineering manager chez leboncoin\nGuillaume Chenuet est actuellement Engineering Manager. Il débute son aventure chez leboncoin en 2016 en tant que Devops dans l'équipe Intégration puis il devient Lead Engineer en 2020 au sein de l'équipe Core Infrastructure. Il est l'un des architectes de la migration sur AWS, qui s'est déroulée en 9 mois...et dont il va vous dévoiler les secrets !\n___\n🎙 Talk 2: Cassez le monolithe. Stratégie de migration vers des micro-services - Level 200Sébastien STORMACQ - Principal Developer Advocate chez AWS\nIl existe plusieurs raisons pour lesquelles vous souhaitez refactoriser des applications existantes. Vous voulez peut-être rendre votre codeplus modulaire, utiliser des frameworks plus modernes, utiliser un stockage de données différent, etc. D’autres avantages pourraient inclure la gestion de charges de travail plus importantes, augmenter la résilience ou réduire les coûts. Mais avouons-le, le refactoring est difficile.\nEn discutant avec des clients qui ont vécu avec succès ces projets de refactorisation, nous avons remarqué un motif commun : le design pattern Strangler Fig. En assistant à cette conférence, vous découvrirez comment vos nouveaux microservices peuvent envelopper, étrangler et éventuellement remplacer votre ancienne application.\n___\n🎙 Talk 3: Bonnes pratiques d'optimisation d'une Infra cloud pour minimiser son empreinte environnementale - Level 200Benjamin Davy - Innovation Manager et Antoine Brechon - Engineering Manager chez Teads.tv\nRevue de plusieurs projets d'optimisation menés chez Teads sur différents périmètres (compute, storage, network) et ouverture sur le challenge de la mesure d'impact environnemental du cloud.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 10
+  },
+  {
+    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
+    "date": "2021-11-16T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 3
+  },
+  {
+    "title": "Meetup AWS virtuel #10 - Data sur AWS",
+    "date": "2021-09-15T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/280378703/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un immense plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube ! Ce sera le premier événement phygital du AWS User Group puisque la session se fera en présentielle depuis Paris (et très vite dans d'autres villes de France).\n📅 Rendez-vous le 15 septembre prochain :) Démarrage des présentations à ⏰ 19h00.\n___\n🎙 Talk 1: Data Lake, Lakehouse et Data Mesh sur AWS - Level 200Head of Augmented Claims chez AXA et AWS Community builder\nPrésentation des différentes approches d’architecture de données sur AWS en mettant en évidence leurs cas d'utilisation. Mise en œuvre d’un exemple de data lake et de lakehouse dans le contexte métier de Service Financier.___\n🎙 Talk 2: Tableau sur AWS : Optimisez vos analyses dans le cloud - Level 200Otmane Lahrichi - Lead Solution Engineer, Partners & Alliances chez Tableau Software\nDécouvrez comment Tableau et AWS s'associent pour vous aider à transformer vos données en insights qui stimulent l'action. Des connexions de données natives aux options de déploiement flexibles, un bon moyen de débuter votre chemin vers l'analyse en libre-service dans le cloud.___\n🎙 Talk 3: AWS Forecast en production - Level 200Yann Kervella et Guillaume Dupont Data Fullstack chez Neoxia\nComment utiliser AWS Forecast et présentation d'un usecase sur la prédiction des ventes de Walmart à l'échelle des Etats-Unis.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 5
+  },
+  {
+    "title": "Meetup virtuel AWS #9 - FinOps : Maitriser ses coûts dans le cloud",
+    "date": "2021-06-08T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/278427584/",
+    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le neuvième meetup AWS virtuel 👐. Cet événement sera dédié au finops et à la maitrise de ses coûts dans le Cloud.\nRendez-vous le 8 juin prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Talk 1 : - Mettre en application les principes clés du FinOps sur AWS - Lionel LONKAP TSAMBA - Level 100\nL'idée de ce talk est de voir ensemble comment, dès à présent, vous pouvez mettre en application les principes et les valeurs clés du FinOps, pour améliorer votre gestion financière sur le Cloud AWS.Nous ferons, d'une part, une passe sur tous les 6 principes d'une bonne gestion financière sur le Cloud. Et par la suite, nous verrons — ensemble — les outils et moyens qu'AWS met à notre disposition, pour appliquer ces principes de manière efficiente et efficace.A la fin, de ce talk, vous repartirez avec des moyens concrets, qui vous permettront de mettre en pratique ce que nous aurons vu comme leviers d'amélioration de la gestion financière sur AWS.\n🎙 Talk 2 : Comment nous réduisons l’augmentation de nos coûts AWS - Pascal Martin - Level 200\nMalgré les promesses du Cloud, votre facture AWS vous fait peur ? Je vous comprends !Venez découvrir comment, chez Bedrock, nous suivons et catégorisons les coûts d’infrastructure de notre plateforme de VOD et de Replay. J’enchainerai avec un retour d’expérience basé sur trois ans de réponses à la question que nous nous posons tous : « comment réduire nos coûts AWS ? »\nDiviser par deux une facture DynamoDB ? Exploiter des instances spot à -70% ? Effectuer moins d’appels d’APIs ? Réduire les transferts inter-AZ, massifs lorsque nous manipulons des vidéos ? Ce ne sont que quelques-unes des pistes que nous avons envisagées…\n🎙 Talk 3 : Le Finops pour les backups (SAP) - Hamilton Yao - Level 200\nDans ma présentation je vous propose de découvrir comment nous gérons des couts de backup dans un environnement de prod SAP\n🎙 Talk 4 : Arrêter de dépenser inutilement sur AWS ? - Paul Julien - Level 200\nJe vous propose de découvrir comment je réduis les coûts des mes instances EC2, ASG, RDS, de mes environnements hors production, multicompte et tout cela de façon automatisée.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 7
+  },
+  {
+    "title": "Meetup virtuel AWS #8 - La gestion de la scalabilité et des pics de charge",
+    "date": "2021-05-19T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/278017587/",
+    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le huitième meetup AWS virtuel 👐. Cet événement sera dédié à la gestion des montées en charge, qui peuvent parfois se révéler brutales quand elles sont liées au fameux \"Effet Capital\".\nRendez-vous le 19 mai prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Talk 1 : Comment se crasher avec classe pendant un pic d’audience, a.k.a #effetcapital - Level 200 (intermediaire) - Guillaume Marchand - AWS\nComment allez vous préparer une mise en avant de votre application lors d’un reportage TV ? Allez vous réussir à absorber ce pic de traffic massif, ou autrement dit “Effet Capital”. Je vous propose dans ce talk quelques quickwins pour éviter la catastrophe !\n🎙 Talk 2 : Comment Altice Media absorbe sereinement ses pics de charge - Level: 200 (intermediaire) - Armand Saghri - NextInteractive\nCertains évènements d’actualité engendrent des pics de trafic importants et imprévisibles. Découvrez comment nous avons optimisé notre infrastructure chez Altice Media pour absorber sereinement cette charge tout en gardant de bonnes performances\n🎙 Talk 3 : Ajuster la taille de son cluster pour aider les développeurs dans leurs recettes - Level: 200 (Intermédiaire) - Thomas Labarussias - Qonto\nRetour d'expérience sur notre besoin de scalabilité en staging. Qonto fournit à la demande des environnements complets à ses développeurs dans Kubernetes, cela entraine des variations de plusieurs centaines, voire milliers, de pods en fonction des journées. Cela vient avec des contraintes opérationnelles fortement simplifiées grâces à EKS et son écosystème.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 8
+  },
+  {
+    "title": "Meetup Special - Participez à une expérience d'apprentissage entre pairs",
+    "date": "2021-03-31T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/277242569/",
+    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer un nouveau meetup AWS virtuel 👐. Pour ce meetup spécial nous vous proposons une expérience !\nApprenez d'une manière 100% participative et vivante : partagez sur les cas d'usages et projets menés que vous avez déployé sur AWS !\nRendez-vous le 31 mars. Démarrage de l'expérience à ⏰ 18h00. Rejoignez-nous en ligne un peu avant.\nPour en savoir un peu plus :✅ Explorer les retours d'expérience concrets de vos pairs✅ Découvrir des techniques et approches efficaces sur AWS et comment en tirer le meilleur✅ Repartir avec une synthèse collective de vos apprentissages\nPas besoin de préparer, venez comme vous êtes !\nPour faciliter l'expérience le jour de l'expérience vous pouvez répondre à quelques questions : https://wap.live/U3WLA5OFKPMAOXYU\n(Important : Ouvrez le lien ci-dessus depuis le navigateur Chrome ou Firefox à jour)\nCette session est co-organisée avec WAP - We Are Peers, spécialiste de l'apprentissage entre pairs.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 2
+  },
+  {
+    "title": "AWS Community Day France",
+    "date": "2021-03-30T09:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/277030683/",
+    "description": "👋 Le Community Day AWS France est une conférence d'une journée intégralement gérée par la communauté des utilisateurs AWS. Cette journée est constituée de présentations techniques dirigés par des utilisateurs experts d'AWS.\n⏰Les talks s’enchaîneront toute la journée de 9h00 à 18h00. Vous pouvez bien sur nous rejoindre en cours de journée ! Les inscriptions se font ici ==> https://bit.ly/3bXHlkt\nNous organiserons en parallèle de l'événement un ASK the expert avec des experts de chez AWS sur le Slack de la communauté ici ==> https://bit.ly/3twqWJS\nVoici un aperçu de l'agenda :\n⚡️ 9h00 à 10h00 : Keynote\n☄️ 10h00 à 10h30 : Talk 1 : Au secours j'ai des Lambda en prod - Level 300 (Avancé)\n💥 11h00 à 11h30 : Talk 2 : Portez votre application Serverless au nirvana de la type safety - Level 300 (Avancé)\n🔥 11h30 à 12h00 : Talk 3 : Comment nous réduisons l’augmentation de nos coûts AWS - Level 300 (Avancé)\n⭐️ 14h00 à 14h30 : Talk 4 : L'histoire du MLOps sur AWS - Level 400 (Expert)\n☀️ 14h30 à 15h00 : Talk 5 : 3 design patterns pour démarrer avec serverless\n💫 15h00 à 15h30 : Talk 6 : Les cabines d'entreprises connectées de WWI : une histoire d'amour entre IoT et serverless - Level 300 (Avancé)\n🌈 16h00 à 16h30 : Talk 7 : Open sourcing de Buzz, moteur d'analytics serverless - Level 300 (Avancé)\n🌊 16h30 à 17h00 : Talk 8 : Le drift d'infrastructure: t'empêche tout le monde de dormir - Level 200 (Intermédiaire)\n🌙 17h00 à 17h30 : Talk 9 : Les coûts de la gratuité - Level 100 (débutant)",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 7
+  },
+  {
+    "title": "AWS re:Invent 20 re:Cap - résumé des résumés pour les décideurs IT",
+    "date": "2021-01-28T17:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/275581480/",
+    "description": "Cette année nous vous proposons 8 meetups re:Cap de re:Invent. Un événement par profile pour faire le point sur les annonces qui vous concernent : Architect, SysAdmin, Developpeur, InfoSec, Data Analyst, Data Scientist et Emerging tech. En outre, la dernière session sera un résumé des résumés, plutôt pour les décideurs.\nSession 8 : Résumé des résumés pour les décideurs IT\nCette session est le résumé des résumés des annonces faites pendant la conférence AWS re:Invent 2020. Nous analyserons les tendances, les directions pour le futur et vous donnerons les clés pour comprendre et utiliser le cloud en 2021. Cette session est interactive, avec au minimum 15 minutes après la session pour répondre à vos questions.\nPublic cible, les IT Managers / CIOs",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 13
+  },
+  {
+    "title": "AWS re:Invent 20 re:Cap - Informatique industrielle & technologies émergentes",
+    "date": "2021-01-27T17:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/275581471/",
+    "description": "Cette année nous vous proposons 8 meetups re:Cap de re:Invent. Un événement par profile pour faire le point sur les annonces qui vous concernent : Architect, SysAdmin, Developpeur, InfoSec, Data Analyst, Data Scientist et Emerging tech. En outre, la dernière session sera un résumé des résumés, plutôt pour les décideurs.\nSession 7 : Informatique industrielle et les technologies émergentes\nPendant cette session de résumé, nous revenons sur les principales annonces de nouveaux services ou nouvelles fonctions annoncées pendant la conférence AWS re:Invent 2020, en nous concentrant sur les annonces pertinentes pour l'informatique industrielle et le monde des objets connectés. Nous passerons brièvement en revue des technologies émergentes telle le quantum computing. En assistant à cette session de 45 minutes, vous apprendrez comment vos systèmes peuvent bénéficier de ces nouveaux services. Cette session est technique, avec des démos, et interactive, avec au minimum 15 minutes après la session pour répondre à vos questions.\nPublic cible, les technologies émergentes : Un individu technique, curieux de nature, qui aime expérimenter certaines des dernières technologies disponibles (robotique, blockchain, IoT, Edge Computing, Quantum Technologies, Satellite, etc.), et qui est intéressé par la construction et le test de nouvelles implémentations, services et les cas d'utilisation, tout en élargissant leurs connaissances et leurs domaines de couverture.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 10
+  },
+  {
+    "title": "AWS re:Invent 20 re:Cap - pour les responsables de la sécurité",
+    "date": "2021-01-26T17:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/275581452/",
+    "description": "Cette année nous vous proposons 8 meetups re:Cap de re:Invent. Un événement par profile pour faire le point sur les annonces qui vous concernent : Architect, SysAdmin, Developpeur, InfoSec, Data Analyst, Data Scientist et Emerging tech. En outre, la dernière session sera un résumé des résumés, plutôt pour les décideurs.\nSession 6 : Responsables de la sécurité\nPendant cette session de résumé, nous revenons sur les principales annonces de nouveaux services ou nouvelles fonctions annoncées pendant la conférence AWS re:Invent 2020, en nous concentrant sur les annonces pertinentes pour ceux et celles qui sont responsables ou qui s'intéressent à la sécurité des systèmes d'information, des données ou des applications. En assistant à cette session de 45 minutes, vous apprendrez comment vous pouvez vérifier la conformité de vos systèmes, ou contrôler les accès aux systèmes, aux applications et aux données à l'aide de ces nouveaux services. Cette session est technique, avec des démos, et interractive, avec au minimum 15 minutes après la session pour répondre à vos questions.\nPublic cible, les InfoSec : Un professionnel de la sécurité comprend plusieurs spécialités telles que AppSec, Conformité, Ingénierie de sécurité, Analystes des opérations de sécurité, architectes de sécurité, consultants et auditeurs. Bien que les responsabilités diffèrent pour les rôles individuels, le but de ce groupe est de maintenir une barre de sécurité informatique élevée et de gérer les risques associés aux logiciels et aux systèmes qu'une organisation exécute.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 10
+  },
+  {
+    "title": "AWS re:Invent 20 re:Cap - pour les administrateurs/trices de systèmes",
+    "date": "2021-01-25T17:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/275581450/",
+    "description": "Cette année nous vous proposons 8 meetups re:Cap de re:Invent. Un événement par profile pour faire le point sur les annonces qui vous concernent : Architect, SysAdmin, Developpeur, InfoSec, Data Analyst, Data Scientist et Emerging tech. En outre, la dernière session sera un résumé des résumés, plutôt pour les décideurs.\nSession 5 : Administrateurs/trices de système\nPendant cette session de résumé, nous revenons sur les principales annonces de nouveaux services ou nouvelles fonctions annoncées pendant la conférence AWS re:Invent 2020, en nous concentrant sur les annonces pertinentes pour ceux et celles qui gèrent des systèmes IT ou automatisent des infrastructures. En assistant à cette session de 45 minutes, vous apprendrez comment vos pratiques DevOps peuvent bénéficier de ces nouveaux services. Cette session est technique, avec des démos, et interactive, avec au minimum 15 minutes après la session pour répondre à vos questions.\nPublic cible, les Administrateurs de systèmes : un administrateur de systèmes implémente, gère, migre et entretient les systèmes informatiques, en veillant à ce que les systèmes restent opérationnels en tout temps, travaillant souvent sur des rotations 24 heures sur 24 et 7 jours sur 7. Ils analysent et observent les journaux, les alarmes et dépannent les problèmes qui surviennent. Dans les organisations informatiques traditionnelles, ils sont souvent responsables de la construction, de la configuration et de l'application des correctifs de l'infrastructure, mais dans un monde moderne, l'automatisation et les plates-formes telles que Serverless ont modifié cet espace à quelques domaines de configuration, de surveillance et de mise en réseau. Par conséquent, ils fonctionnent en tant qu'ingénieurs DevOps pour garantir que les systèmes sont testés et déployés de manière fiable.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 7
+  },
+  {
+    "title": "AWS re:Invent 20 re:Cap - pour les développeurs / euses",
+    "date": "2021-01-21T17:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/275581443/",
+    "description": "Cette année nous vous proposons 8 meetups re:Cap de re:Invent. Un événement par profile pour faire le point sur les annonces qui vous concernent : Architect, SysAdmin, Developpeur, InfoSec, Data Analyst, Data Scientist et Emerging tech. En outre, la dernière session sera un résumé des résumés, plutôt pour les décideurs.\nSession 4 : Développeur-euse\nPendant cette session de résumé, nous revenons sur les principales annonces de nouveaux services ou nouvelles fonctions annoncées pendant la conférence AWS re:Invent 2020, en nous concentrant sur les annonces pertinentes pour ceux et celles qui développent des applications à l'aide du cloud AWS (frontend, backend, serverless ou pas). En assistant à cette session de 45 minutes, vous apprendrez comment vos applications peuvent bénéficier de ces nouveaux services. Cette session est technique, avec des démos, et interactive, avec au minimum 15 minutes après la session pour répondre à vos questions.\nPublic cible, les Développeur (applications/logiciels) : Un développeur (ou ingénieur logiciel) est une personne qui construit des logiciels. Ils écrivent, déboguent et exécutent le code source et réfléchissent à la façon dont le cloud peut les aider à développer des applications (backends, frontends, webs, applications mobiles/appareils). Ils ont des profils allant du développeur métier qui utilise des solutions sans code, des développeurs traditionnels ou des développeurs natifs dans le cloud. Ils peuvent également participer à l'automatisation et à l'accélération du cycle de publication des logiciels (DevOps).",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 19
+  },
+  {
+    "title": "AWS re:Invent 20 re:Cap - pour les ingénieurs de données (AIML)",
+    "date": "2021-01-20T17:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/275581433/",
+    "description": "Cette année nous vous proposons 8 meetups re:Cap de re:Invent. Un événement par profile pour faire le point sur les annonces qui vous concernent : Architect, SysAdmin, Developpeur, InfoSec, Data Analyst, Data Scientist et Emerging tech. En outre, la dernière session sera un résumé des résumés, plutôt pour les décideurs.\nSession 3 : Ingénieurs de données (AI / ML)\nPendant cette session de résumé, nous revenons sur les principales annonces de nouveaux services ou nouvelles fonctions annoncées pendant la conférence AWS re:Invent 2020, en nous concentrant sur les annonces pertinentes pour l'apprentissage automatique et les techniques d'intelligence artificielle. En assistant à cette session de 45 minutes, vous apprendrez comment vous pouvez tirer parti de vos données avec les nouveautés liées à Amazon SageMaker. Cette session est technique, avec des démos, et interractive, avec au minimum 15 minutes après la session pour répondre à vos questions.\nPublic cible, les Data Scientist : Un Data Scientist combine des compétences analytiques, statistiques et mathématiques pour découvrir les tendances et les nouvelles connaissances (commerciales) dans de vastes ensembles de données structurées et non structurées. Ils mettent en pratique des compétences en ingénierie logicielle pour collecter et traiter les données, construire des modèles d'apprentissage automatique et statistiques, tirant parti des connaissances de l'industrie et du domaine pour interpréter les résultats, aidant les entreprises à prendre des décisions basées sur les données pour stimuler la stratégie d'entreprise.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 8
+  },
+  {
+    "title": "AWS re:Invent 20 re:Cap - pour les analystes de données",
+    "date": "2021-01-19T17:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/275581425/",
+    "description": "Cette année nous vous proposons 8 meetups re:Cap de re:Invent. Un événement par profile pour faire le point sur les annonces qui vous concernent : Architect, SysAdmin, Developpeur, InfoSec, Data Analyst, Data Scientist et Emerging tech. En outre, la dernière session sera un résumé des résumés, plutôt pour les décideurs.\nSession 2 : Analystes de données (Data Analytics)\nPendant cette session de résumé, nous revenons sur les principales annonces de nouveaux services ou nouvelles fonctions annoncées pendant la conférence AWS re:Invent 2020, en nous concentrant sur les annonces pertinentes pour l'analyse et le stockage de données. En assistant à cette session de 45 minutes, vous apprendrez comment vos bases de données, entrepôts de données et autres lacs de données peuvent bénéficier de ces nouveaux services. Cette session est technique, avec des démos, et interactive, avec au minimum 15 minutes après la session pour répondre à vos questions.\nPublic cible, les analystes de données : En tant qu'analyste, cette personne interroge des bases de données/entrepôts de données telles que les chiffres des ventes, les études de marché, la logistique, la linguistique ou d'autres informations. Ils apportent une expertise technique pour assurer la qualité et l'exactitude des données, puis les traiter, les structurer et les présenter pour aider les personnes et les organisations à prendre de meilleures décisions. En tant qu'ingénieur, cette personne conçoit et exploite des architectures de données exploitées par les équipes de science des données et d'analystes de données. Ils développent des processus pour modéliser, exploiter et produire des données, mettre en place des pipelines de données évolutifs et robustes à intégrer à des bases de données, des entrepôts de données ou des lacs de données, transformant les données en informations.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 9
+  },
+  {
+    "title": "AWS re:Invent 20 re:Cap - pour les architectes IT",
+    "date": "2021-01-18T17:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/275581417/",
+    "description": "Cette année nous vous proposons 8 meetups re:Cap de re:Invent. Un événement par profile pour faire le point sur les annonces qui vous concernent : Architect, SysAdmin, Developpeur, InfoSec, Data Analyst, Data Scientist et Emerging tech. En outre, la dernière session sera un résumé des résumés, plutôt pour les décideurs.\nSession 1 : Architect\nPendant cette session de résumé, nous revenons sur les principales annonces de nouveaux services ou nouvelles fonctions annoncées pendant la conférence AWS re:Invent 2020, en nous concentrant sur les annonces pertinentes pour les architectes de systèmes IT. En assistant à cette session de 45 minutes, vous apprendrez comment vos architectures peuvent bénéficier de ces nouveaux services. Cette session est technique, avec des démos, et interactive, avec au minimum 15 minutes après la session pour répondre à vos questions.\nPublic cible, les architectes IT : Un architecte informatique, guidé par les exigences de son organisation, conçoit et architecte des solutions technologiques et des systèmes pour les entreprises. Les architectures informatiques sont souvent représentées comme une série de documents tels que des conceptions de haut niveau ou de bas niveau accompagnées de diagrammes méthodiques qui montrent comment les nombreuses parties mobiles des systèmes informatiques s'interconnecteront pour fournir une solution complète. Les architectes informatiques définissent les spécifications, la feuille de route de mise en œuvre et d'autres lignes directrices à transmettre aux équipes opérationnelles pour la mise en œuvre.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 17
+  },
+  {
+    "title": "Meetup virtuel AWS #7 - Automatisation, orchestration et gouvernance sur AWS",
+    "date": "2020-11-19T18:30:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/274511001/",
+    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le septième meetup AWS virtuel 👐. Cet événement sera dédié aux sujets de l'automatisation, de l'orchestration et de la gouvernance avec AWS.\nRendez-vous le 19 novembre prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Talk 1 : Automatiser le processus de création d'images AppStream sans se connecter au générateur d'images - Level[masked] (intermediate-advanced) - Laurent Mas et Etienne Jeanneau - Devoteam Revolve\nPendant la période de confinement, nous avons reçu plusieurs demandes d'implémentation d'Amazon AppStream 2.0 pour nos clients. Quelle surprise! Amazon AppStream 2.0 est un service managé qui permet de publier une application auprès des utilisateurs à l'aide d'une technologie d'affichage à distance (similaire à Microsoft Remote Desktop Services, Citrix Virtual Apps, VMware Horizon ou Nutanix Frame). Depuis début août, il vous permet également de publier un bureau complet pour les utilisateurs. Il n'y a pas d'infrastructure à gérer, uniquement les images de votre serveur AppStream. Nous vous proposons de découvrir ce service !\n🎙 Talk 2 : Comment Dev votre Ops, en utilisant du Code d'Infrastructure ! - Level: 200 (intermediate) - Sebastian Caceres - AWS\nApprenez comment utiliser des fichiers de configuration stockés dans AWS S3 pour automatiser des déploiements dans vos comptez AWS, avec AWS Step Functions ! Nous utilisons fréquemment des AWS CloudFormation StackSets pour déployer de l'infrastructure sur plusieurs comptes AWS différents. Cette utilisation rend nos travaux plus efficaces car les StackSets fournissent un moyen simple pour manager le déploiement de ressources après la création d'un nouveau compte.Nous pouvons déployer des StackSet instances sur des comptes qui appartiennent à des Organizational Units spécifiques avec AWS Organizations. Cependant, ce workflow n'est pas adapté pour tous les cas d'usage, surtout quand nous avons besoin de surcharger certains paramètres du déploiement en fonction du compte cible.Lors de cette présentation, vous allez apprendre comment déployer automatiquement des StackSet instances dans des comptes spécifiques en utilisant Amazon S3, AWS Step Functions, et des fichiers de configuration YAML. Ces fichiers permettent d'auditer, de revoir et de faire évoluer la configuration de vos comptes, le tout dans une démarche de code d'infrastructure.\n🎙 Talk 3 : REX Airbus - Level 300 (advanced) - David Tente et Benoit Sauvere - SRE @AirbusL'équipe Cloud Airbus présente comment elle gère et provisionne ses 600+ comptes AWS en utilisant à la fois des outils AWS et internes. Nous parlerons du déploiement à l'échelle des ressources, de notre account factory et de notre API interne pour gérer les affectations aux applications.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 12
+  },
+  {
+    "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
+    "date": "2020-09-30T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
+    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le sixième meetup AWS virtuel 👐. Cet événement sera dédié à trois sociétés de la \"Media-techs\" françaises. Vous découvrirez comment elles ont construit leur réussite grâce au Cloud.\nRendez-vous le 30 septembre prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Introduction : Jordan Oziel et Julien Bichon\n🎙 Talk 1 (Level 200) : Philippe Laurent - CEO - easylive.ioEasylive.io est le leader de la production live en cloud. Modèle 100% SaaS permettant aux plus grand producteurs de contenus (Premier League, Disney, PSG, Twitch, Facebook etc.) de réaliser des contenus live délocalisés et collaboratif à travers le monde depuis un navigateur. Notre outil, bâti sur les architectures AWS nous permet d'agréger n’importe quel type de flux vidéos, audios, graphiques, etc. en temps réel, de les mélanger et de les formater pour les publier sur n’importe quelle type de destination (Facebook, Twitch, TV, etc.). Rejoignez-nous sur cette session pour découvrir les applications médias live possible grâce à AWS.\n🎙 Talk 2 (Level 100) : Guillaume Doret - CEO - synchronized.tvDécouvrez comment Synchronized Smart-Video Platform automatise le processus complet de création de vignettes vidéo grâce à AWS Rekognition. Désormais, les diffuseurs TV et les services OTT peuvent économiser des centaines d'heures de travail manuel avec des gains significatifs en termes de qualité et de productivité.\n🎙 Talk 3 : (Level 200 - 300) : Sébastien Crème - CoFounder et CTO - NomalabGoing Elastic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEffectively use of Messaging / Spot instances and lambda",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 5
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-07-30T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckbnc/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 5
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-07-23T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckbfc/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 6
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-07-16T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckbvb/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 6
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-07-09T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckbmb/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 7
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-07-02T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckbdb/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 5
+  },
+  {
+    "title": "AWS Virtual Meetup #5 - Chaos engineering",
+    "date": "2020-07-01T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/271494821/",
+    "description": "Hello all,\nWe are very pleased to announce the fifth AWS virtual meetup 👐. This time we are going to play with the Cloud, talking about Chaos Engineering. What exactly is Chaos, how to create a reliable system out of inherently unreliable parts. 🛑 For this meetup we all the talks will be in english given by international speakers!\nSee you on july 1st. Presentations will start at ⏰ 7:00 pm (Paris Time). Join us online 5 minutes before here: https://twitch.tv/sebAWS\n🎙 Talk 1: Fundamentals of Chaos Engineering and AWS reliability - Patrick Higgins - Gremlin - Level 100\nPatrick is a Chaos Engineer at Gremlin where he helps customers benefit from the power of controlled chaos. Join his session to get an in-depth understanding of what Chaos Engineering is, why it’s crucial to prevent outages, and how you can use it to build resilience into your own systems.\n🎙 Talk 2: How to apply chaos engineering to serverless applications - Yan Cui - Lumigo.io - Level 200\nChaos engineering is a discipline that focuses on improving system resilience through controlled experiments that expose the inherent chaos and failure modes in our system.\nYou might have heard about tools such as Netflix's Simian Army or Gremlin, which can inject different failures into your AWS environment to simulate different forms of infrastructure failures. But how can we apply the same principles to a serverless architecture where we have no access to the underlying infrastructure? Can we adapt existing practices to expose the inherent chaos in these systems? What are the limitations and new challenges that we need to consider?\n🎙 Talk 3: Verification of serverless applications - Gunnar Grosch - Level 200/300\nThe transition into more complex systems is accelerating and the granularity in serverless applications makes even smaller systems complex and highly distributed. Join as we look at how to verify the output of the system through chaos engineering and the advantages established by CI/CD.\nGunnar is an AWS Serverless Hero and technical evangelist at Opsio. He has previously worked as both a frontend and backend developer, as an operations engineer within cloud infrastructure, and as a technical trainer, in addition to several different management roles.\n🎙 Talk 4: Continuous Resilience - Adrian Cockcroft - Level 200\nHow can we set everything so that we can be sure that the resilience we want is continuously available, and our backup plans will work when we need them.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 10
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-06-25T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjbhc/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 7
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-06-18T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjbxb/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 4
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-06-11T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjbpb/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 7
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-06-04T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjbgb/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 7
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-05-28T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchblc/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 9
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-05-21T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchbcc/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 13
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-05-14T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchbsb/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 11
+  },
+  {
+    "title": "Live Coding with Bashar : Migration et transformation d'une app ",
+    "date": "2020-05-07T18:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchbkb/",
+    "description": "Oyez Oyez, pour le prochain meetup, étant donné les circonstances actuelles, nous avons décidé de passer sur Twitch.\nNous vous proposons une séance de live-coding donnée par Sebastien Stormacq (AWS Evangelist) et Bashar Al-Fallouji (AWS Solutions Architect).\nLe sujet porte sur la migration (et ses péripéties) d'une application dans le cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter, la séance est donnée en Français.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 27
+  },
+  {
+    "title": "Meetup virtuel AWS #2 - L'orchestration Kubernetes sur AWS",
+    "date": "2020-04-23T18:50:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/270058143/",
+    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le second meetup AWS virtuel 👐. Rendez-vous le 23 avril prochain en ligne. Démarrage des présentations à ⏰ 19h00. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Talk 1: Pierre Mavro - Qovery : Rex utilisation EKS - Level 300Qovery est la première plateforme Container as a Service (CaaS) qui permet à quiconque de développer et de déployer une application en quelques minutes. Sur la base de mon expérience précédente chez Criteo ou j'ai exécuté des applications avec état sur des nœuds 4.5k + bare metal, je vais expliquer les différences entre une installation bare metal et EKS. Expliquer les avantages de l'utilisation d'EKS, naviguer sur Kubernetes dans un environnement AWS, les limitations que j'ai vues et enfin les applications tierces utiles que j'utilise.\n🎙 Talk 2: Alexandre Carneiro - D2SI : Un cluster pour les manager tous : une mutualisation des outils - Level 300La multiplication des clusters Kubernetes est un fléau qui touche les entreprises pour bien des raisons. Chaque cluster installe ses outils, de monitoring, de logs, de backup, de déploiement.Pires encore, ce sont généralement les mêmes outils !Comment amener un peu de cohérence et faciliter le déploiement des outils pour que les équipes ne se concentrent plus que sur l'application ?Un cluster pour manager l'outillage et les déploiements applicatifs des autres clusters.\n🎙 Talk 3: Jesus Escolar - Exelerys - La sécurité appliquée aux Containers - Level 300Il y a une augmentation constante de l'utilisation des conteneurs dans l'écosystème cloud. La plupart des entreprises se posent la question de comment migrer vers une plate-forme plus récente, flexible et automatisée pour la livraison de contenus et d'applications. Les conteneurs se construisent seuls dans toute l'entreprise, mais qui les sécurise ?Nous discuterons de l'évolution des solutions d'infrastructure, des serveurs aux conteneurs. Nous discuterons de la façon dont ils peuvent être sécurisés. Quelles sont les options de sécurité open source disponibles aujourd'hui ? Quel est l'avenir de la sécurité des conteneurs ? Qu'adviendra-t-il des conteneurs ?",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 43
+  },
+  {
+    "title": "Meetup virtuel AWS #1 - AWS dans l'univers du Gaming",
+    "date": "2020-03-25T18:50:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/269643080/",
+    "description": "Même en confinement, les meetups continuent en ligne! Rejoignez le meetup organise en ligne sur Twitch par le User Group Paris ce mercredi soir 19h.\nTalk 1: Découvrez la Game Tech AWS - Alexis Dahan - French Lead - Game Tech chez AWS - Level 100Avec plus de 175 services et 13 années d'expertise aguerrie, AWS a toutes les clés pour aider à créer plus rapidement, à exploiter plus intelligemment et à créer plus efficacement des jeux parmi les plus complexes. Découvrez pourquoi 90 % des plus grands studios de jeux vidéo utilisent AWS et les produits spécifiques de la Game Tech avec Alexis.\nTalk 2: REX about the Data Analytics Architecture at Voodoo - Manuel Pozzo - Data Operations - Voodoo - Level 300 - AdvancedREX about the Data Analytics Architecture, from scratch to prod, the iterations we have made and why we have made certain decisions. Also, some tips and concerns about the AWS services we use. No codeIt is suggested to have knowledge about AWS services such as EMR, Athena, S3, or Redshift.\nTalk 3: La stratégie migration cloud de Gameloft - Gilles Chervy - VP emerging technology - Gameloft - Level 200 - IntermediateDécouvrez la stratégie de migration cloud de Gameloft et posez toutes vos questions à Gilles Chervy.",
+    "community": "aws-bordeaux",
+    "is_online": true,
+    "rsvp_count": 11
+  },
+  {
+    "title": "Meetup AWS Bordeaux #7 - @Betclic - Résilience & sécurité sur AWS",
+    "date": "2020-02-06T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/267721451/",
+    "description": "Comment construire une application web résiliente et sécurisée dans AWS ?\n« A travers ce talk, je vous propose un back to basics. On entend beaucoup parler de serverless et de lambda actuellement, ici on parlera plutôt de 2 piliers du well architected framework : la sécurité et la fiabilité, que l’on retrouve dans toutes architectures serverless. Au programme, on verra comment créer un VPC de manière sécurisé, de l’EC2, du RDS, de l’ALB et de l’auto scaling. »\nIntervenant : Guillaume Lannebere (https://www.linkedin.com/in/guillaume-lannebere-51a17183/)\nN'hésitez pas à en parler autour de vous ;)\n🍕🍺",
+    "community": "aws-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Whoorks Bordeaux Bacalan",
+      "address": "117 Quai de Bacalan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "117 Quai de Bacalan, Bordeaux",
+    "rsvp_count": 93
+  },
+  {
+    "title": "Meetup AWS Bordeaux #6 - re:Invent 2019 re:Cap",
+    "date": "2019-12-19T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265659080/",
+    "description": "re:Invent est la conférence des utilisateurs AWS.50 000 personnes se réunissent à Las Vegas pour découvrir de nouveaux services, échanger, apprendre et rencontrer d'autres utilisateurs AWS de part le monde.Rejoignez-nous à Bordeaux pour découvrir les principales annonces, les nouveaux services, des démos de certaines nouveautés, prendre le pouls de re:Invent 2019 et faire le plein d'inspirations pour vos projets 2020.\n🍕🍺",
+    "community": "aws-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "School Data Processing Bordeaux - Epitech",
+      "address": "16 Rue Théodore Blanc",
+      "city": "Bruges",
+      "country": "France"
+    },
+    "location": "16 Rue Théodore Blanc, Bruges",
+    "rsvp_count": 25
+  },
+  {
+    "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
+    "date": "2019-10-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
+    "description": "Venez découvrir comment construire des architectures modernes pour vos applications Web et mobiles autour des services AWS.Nous parlerons évidemment Rest API mais aussi bases de données, sécurité, haute disponibilité, cache, Authorization et même un peu de GraphQL, et tout cela en mode Serverless.Si vous n'avez jamais essayé ces solutions, c'est l'occasion de les découvrir et poser toutes les questions que vous avez/aurez; si vous les connaissez déjà, une petite piqûre de rappel ne fait jamais de mal 😊\n🎙️Thibaut Charlier, Cloud Evangelist @ Gekko\n🍕🍺\n🙏Gekko",
+    "community": "aws-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Halle Héméra",
+      "address": "132 Rue Fondaudège",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "132 Rue Fondaudège, Bordeaux",
+    "rsvp_count": 54
+  },
+  {
+    "title": "Meetup AWS Bordeaux #4 - Retours d'expériences AT Internet & Betclic",
+    "date": "2019-06-13T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/261322618/",
+    "description": "Bonjour à toutes et tous,Le prochain meetup AWS Bordeaux est là ! Il se tiendra le jeudi 13 juin prochain à l'école EPITECH Bordeaux.\nPour cette édition, nous avons le plaisir d'accueillir AT Internet (accompagné de gekko) et Betclic pour écouter leur retour d'expérience sur AWS.Nous attendons plus de précisions sur les intitulés exacts mais j'ai entendu parler d'organisation multi-comptes, de tracking cross-device et d'EMR ; ça promet 🤘\nUn très grand merci à l'école EPITECH Bordeaux de nous accueillir dans leur locaux !\n🎙️AT Internet & gekkoIntervenants:David Boyrie, Responsable R&D @ AT InternetFedor Myznikov, Lead Developer @ AT InternetSamuel Renassia - Solution Architect @ gekkoJulien Favre - Directeur Général @ gekko\n🎙️BetclicRefondre ses analytics from scratch, un pari gagnant ? La compréhension de ses utilisateurs est clé dans le succès d’un produit. Présentation de la stack analytics chez Betclic basée sur AWS et Snowflake.\nIntervenants:Camille Reverdy - Mobile IT Manager @ Betclic\n––\nPlus d'informations prochainement.\n🍕🍺",
+    "community": "aws-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "School Data Processing Bordeaux - Epitech",
+      "address": "16 Rue Théodore Blanc",
+      "city": "Bruges",
+      "country": "France"
+    },
+    "location": "16 Rue Théodore Blanc, Bruges",
+    "rsvp_count": 60
+  },
+  {
+    "title": "Meetup AWS Bordeaux #3 - Les piliers de l'observabilité appliqués au Serverless",
+    "date": "2019-05-09T19:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/260941625/",
+    "description": "Bonjour,Le prochain meetup AWS Bordeaux est là ! Il se tiendra le jeudi 9 mai prochain à la fraichement inaugurée Halle Héméra.\nPour cette session, nous avons le plaisir d'accueillir Steve Houël (Ippon Technologies) accompagné de Pierre Baillet (DataDog) pour une session 100% serverless (Détails ci-dessous)Suite à cela, petit apéro pour échanger dans la bonne humeur (un grand merci à Ippon Technologies 🙂).\n––\nDe nos jours, personne ne nie l’importance de l’observabilité surtout lorsque l’on parle de systèmes distribuées en production. Il est de plus en plus difficile de comprendre et d’avoir une vue réaliste de l’état interne de notre système dans un tel contexte, avec des déploiements de plus en plus fréquents et une augmentation des interactions entre les services. D’autant plus que nous devons faire face maintenant à l’arrivée du Serverless avec une granularité à la fonction et une multitude de services 100 % managés.\nDans cette session nous reverrons les bases de l’observabilité, puis nous tenterons d’appliquer ces 3 piliers (Métriques, Traces, Logs) sur une architecture Serverless AWS que nous illustrerons au travers de lives sur l’outil DataDog.\n––\nIntervenants:Steve Houël (@SteveHouel) - Ippon TechnologiesArchitecte Cloud chez Ippon Technologies, évangéliste Serverless et contributeur sur des projets Open Source comme JHipster et daSWAG. Il est fier d’être un #GeekEnthusiast.\nPierre Baillet (@octplane) - DataDog",
+    "community": "aws-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Halle Héméra",
+      "address": "132 Rue Fondaudège",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "132 Rue Fondaudège, Bordeaux",
+    "rsvp_count": 91
+  },
+  {
+    "title": "Meetup AWS Bordeaux #2 - Implémenter une Skill Alexa en serverless avec AWS",
+    "date": "2019-02-07T19:30:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/258187943/",
+    "description": "Bonjour,\nNous planifions un nouveau meetup AWS sur Bordeaux le jeudi 7 février prochain. Les détails du sujet ci-dessous ! N'hésitez pas si vous avez des questions sur ce meetup !!\nComment implémenter votre Skill Alexa en serverless avec AWS ? par Benoit Nachawati - Technical Evangelist @Amazon Alexa\nVous êtes intéressé par créer une skill Alexa mais vous ne savez pas par où commencer ? Cette session est faite pour vous ! On va revoir ce qu’est une Skill Alexa, de quoi elle est constituée et comment la designer.\nOn enchaînera sur les services AWS qui vous permettront d’implémenter une skill 100% serverless sur AWS et quels sont les SDKs disponibles pour vous simplifier cette intégration. Compute, persistence, logging, stockage tout y passera !!!\nMerci le Wagon Bordeaux pour l'accueil !! https://www.lewagon.com/fr/bordeaux",
+    "community": "aws-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Wagon Bordeaux",
+      "address": "1 107 Cours Balguerie Stuttenberg",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 107 Cours Balguerie Stuttenberg, Bordeaux",
+    "rsvp_limit": 50,
+    "rsvp_count": 29
+  },
+  {
+    "title": "Meetup AWS Bordeaux #1",
+    "date": "2017-06-07T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/229864331/",
+    "description": "Bonjour et ravi de vous accueillir pour ce premier meetup AWS à Bordeaux.\n2 présentations au programme:\n1) David Boyrie (AT Internet) fera un retour d'expérience sur l'adoption d'AWS et les principaux services utilisés. En particulier, il parlera d'Amazon Redshift (le data warehouse d'AWS) et de sa toute récente évolution, Redshift Spectrum.\n2) Julien Simon (AWS) fera une introduction sur les architectures Serverless et présentera plusieurs outils Open Source permettant de simplifier le développement avec AWS Lambda.\nA bientôt et n'hésitez pas à inviter vos collègues et amis :)",
+    "community": "aws-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "AT Internet",
+      "address": "85 Avenue John Fitzgerald Kennedy",
+      "city": "Merignac",
+      "country": "France"
+    },
+    "location": "85 Avenue John Fitzgerald Kennedy, Merignac",
+    "rsvp_count": 34
+  }
+]
