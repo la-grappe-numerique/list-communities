@@ -19,6 +19,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
+| Lundi 05 mai 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 02 juin 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 07 juillet 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
