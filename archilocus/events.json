@@ -1,1 +1,188 @@
-[]
+[
+  {
+    "title": "Archilocus #14",
+    "date": "2025-03-13T18:00:00+01:00",
+    "url": "https://www.meetup.com/archilocus/events/306500977/",
+    "description": "* Le versioning des APIs REST : dans la vraie vie, on fait comment ?Alexandre Touret - Wordline* Venez découvrir une nouvelle solution d'intégration pour interconnecter rapidement n'importe quel système...Matthieu Lagast - Apizr* 1 table ronde sur la Tech Governance : \"Adopte ta tech\" ou comment vous choisissez et gérez la vie de vos langages, middlewares, outils de développement...Julien Roynette (Adeo), Philippe Kernevez (Co-Founder of Kleis Technology & Chief Engineer @ Light Frame) et Philippe Bousquet (Directeur Technique SQLI Bordeaux).",
+    "community": "archilocus",
+    "is_online": true,
+    "rsvp_count": 21
+  },
+  {
+    "title": "Archilocus #13 Infrastructure",
+    "date": "2024-05-30T18:00:00+02:00",
+    "url": "https://www.meetup.com/archilocus/events/300879794/",
+    "description": "📺 Diffusé simultanément en live sur https://twitch.tv/archilocus\n🕕 18h05**OpenTelemetry: vous ne pourrez plus vous passer de monitoring en prod**par **Vivien Maleze** *Architecte Technique chez Ippon Technology*\n🕖 18h45**Pourquoi privilégions-nous les services managés dans le Cloud ?**par **Guillaume Lannebere** *Head Of Cloud Center Of Excellence chez Betclic*\n🕢 19h25**Comment je monitore ma prod ?**Table ronde avec participation du public\n* **Denis Germain** *Staff SRE chez Deezer** **Sébastien Descamps** *Directeur R&D et Innovation chez Zenika** **Gauthier Astruc-Amato** *CTO chez CyberVadis*",
+    "community": "archilocus",
+    "is_online": false,
+    "venue": {
+      "name": "17 Quai Louis XVIII",
+      "address": "17 Quai Louis XVIII",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "17 Quai Louis XVIII, Bordeaux",
+    "rsvp_count": 30
+  },
+  {
+    "title": "BOF Archilocus à Devoxx France (présentiel Paris)",
+    "date": "2024-04-18T20:00:00+02:00",
+    "url": "https://www.meetup.com/archilocus/events/300304641/",
+    "description": "Archilocus sera présent à Devoxx France (Paris) pour une BOF (Birds of a Feather). Une BOF est une session de 55 minutes, non filmée, qui permet aux membres d'une communauté de se retrouver. Cette soirée sera une session informelle dont le sujet est libre. Nous agirons comme des modérateurs : l’animation est faite par les participants.\nSalle Paris 242AB\n⚠️ L'évènement est gratuit et ouvert à tous mais l'inscription est obligatoire.\\- Si vous avez un billet pour Devoxx\\, merci de vous inscrire à ce meetup\\- Si vous n'avez pas de billet\\, merci de vous inscrire ici \\(en choisissant **Visiteur jeudi et soirée Meet & Greet**) https://alfio.devoxx.fr/event/devoxx-fr-2024",
+    "community": "archilocus",
+    "is_online": false,
+    "venue": {
+      "name": "Le Palais des Congrès de Paris",
+      "address": "2 Pl. de la Prte Maillot",
+      "city": "Paris",
+      "country": "France"
+    },
+    "location": "2 Pl. de la Prte Maillot, Paris",
+    "rsvp_count": 5
+  },
+  {
+    "title": "Archilocus #12 DDD",
+    "date": "2024-03-14T18:00:00+01:00",
+    "url": "https://www.meetup.com/archilocus/events/299358241/",
+    "description": "Banalisation du DDD ou pas ?Bruno Boucard*Trainer, coach agile et speaker*\nUne plateforme à concevoir, deux architectes: trois possibilités ?Alexandre Touret*Senior Software Architect/TechRel*Raphaël Semeteys*Tech Advocate, Architect, FOSS expert, Yoga Teacher*\nTable ronde*Les anti-patterns d'une approche DDD - ReX around the table*",
+    "community": "archilocus",
+    "is_online": true,
+    "rsvp_count": 53
+  },
+  {
+    "title": "Archilocus Chez CtrlUp",
+    "date": "2023-12-07T18:00:00+01:00",
+    "url": "https://www.meetup.com/archilocus/events/297556058/",
+    "description": "📺 Diffusé simultanément en live sur https://twitch.tv/archilocus\n🕕 18h05**Comment on a arrêté notre clean archi ?**par **Antoine Mazure** *Software Engineer, Tribe Leader & Trainer* chez *Octo*\n🕖 18h45**Bienvenue dans l'ère des architectures composables !**par **Loïc Carbonne** *Head of e-commerce tribe* chez *Théodo*\n🕢 19h25**Architecture d'Entreprise et environnement Business sous contrainte sont dans un bateau, l'AE se transforme-t-elle ?**Table ronde avec participation du public\\- Laurent Brisse *Enterprise Architect Leader* chez *Leroy Merlin*\\- Thomas Marty *Architecte Entreprise* chez *Peaksys*\\- Cyril Beslay *Solution Architect* chez *ManoMano*",
+    "community": "archilocus",
+    "is_online": false,
+    "venue": {
+      "name": "87 Quai des Queyries",
+      "address": "87 Quai des Queyries",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "87 Quai des Queyries, Bordeaux",
+    "rsvp_count": 28
+  },
+  {
+    "title": "Archilocus Session #10 - API",
+    "date": "2023-10-12T18:00:00+02:00",
+    "url": "https://www.meetup.com/archilocus/events/296530263/",
+    "description": "18:00 - 18:05Accueil et Introduction\n18:05 - 18:45**Design First : Boostez le Développement, la Qualité et la Sécurité de vos APIs - Philippe Bousquet**Aujourd'hui les APIs sont partout, et lors de ce talk je vais tenter de démontrer l'intérêt de de Designer son API REST au travers d'OpenAPI et ce que cela apporte en terme de développement, documentation, et sécurité\n18:45 - 19:25**Comment on n'a (toujours) pas codé de back-end après 1 an et demi en production - Marc Gavanier**Lors de ce retour d'expérience, vous verrez comment notre petite équipe de développement a réussi à maximiser la valeur produite en ne codant pas. Vous découvrirez au travers d'exemples concrets pourquoi cela nous a permis de gagner un temps très précieux en période de lancement, ainsi que les nombreux effets positifs auxquels nous ne nous attendions vraiment pas en faisant ce choix !\n19:30 - 20:10**Table ronde - Qu'est-ce qu'il RESTe à apprendre sur les API ?**Laurent Brisse*Enterprise Architecter Leader*Philippe Bousquet*Architecte - Directeur Technique Java*\n20:10 - 20:15Conclusion",
+    "community": "archilocus",
+    "is_online": true,
+    "rsvp_count": 40
+  },
+  {
+    "title": "L'Architecture d'Entreprise dans le Nord et le Sud-Ouest",
+    "date": "2023-06-01T18:00:00+02:00",
+    "url": "https://www.meetup.com/archilocus/events/293545147/",
+    "description": "Séance double live à **Bordeaux** et **Lille !!**\nComme d'habitude, **deux présentations** :\n* **\"Maîtriser la dette informatique\"** par Nicola Sannelli *Architecte d'entreprise* chez *Auchan Retail** **\"Déploiement à l'échelle de l'éco-conception\"** par Vincent Rabah *Architecte d'Entreprise* chez *Pôle Emploi*\n... suivies d'une **Table ronde :**\n\"**Comment se transformer en entreprise plateforme**, du point de vue de l'Architecte d'Entreprise ?\"\nAgenda complet sur notre site [https://www.archilocus.tech/#agenda](https://www.archilocus.tech/#agenda)",
+    "community": "archilocus",
+    "is_online": false,
+    "venue": {
+      "name": "Ippon Technologies Bordeaux",
+      "address": "44 All. de Tourny",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "44 All. de Tourny, Bordeaux",
+    "rsvp_count": 38
+  },
+  {
+    "title": "Archilocus Session #8",
+    "date": "2023-03-30T17:00:00+02:00",
+    "url": "https://www.meetup.com/archilocus/events/291473012/",
+    "description": "17:00 - 17:10Accueil et Introduction\n17:10 - 17:50**La Clean Archigonale**Christophe Breheret-Girardin*Coach craft & Formateur*Afin de pallier les problèmes des architectures n-tiers, plusieurs architectures ont émergé après les années 2000, dont l’Architecture Hexagonale et la Clean Architecture. Sont-elles bien comprises ? N’aurait-on pas tendance à baser notre compréhension de ces architectures sur des croyances plutôt que sur les publications d'origine ? Qu'apportent-elles ? Quels sont leurs périmètres d'application ? Sont-elles la réponse unique à tous les problèmes ? Cette présentation introduit ces deux types d’architecture de manière comparée, afin de répondre à la question qu’on peut légitimement se poser : sont-elles semblables ou réellement divergentes ?\n17:50 - 18:30**Développez des APIs que les développeurs adoreront utiliser, grâce au design thinking**Mustapha Benosmane*Architecte*Les APIs sont devenues très populaires. Elles sont les fondements de notre monde interconnecté. Vous êtes-vous déjà demandé pourquoi personne n'utilise votre API ? Pourquoi construire une API si personne ne sait comment l'utiliser ? Dans cette présentation, nous partageons nos conseils sur la conception d'API - inspirés par les méthodes du Design Thinking. Pour rendre votre API plus exploitable et la faire adopter massivement.\n18:30 - 19:10**Table ronde - Décodons le Low/No Code !**Christophe Camicas*Engineering Director*Dorine Periolat*Architecte SI*Simon Bachelet*Leader Success of Stores Digitalization*\n19:10 - 19:15Conclusion",
+    "community": "archilocus",
+    "is_online": true,
+    "rsvp_count": 63
+  },
+  {
+    "title": "Archilocus - Session 7",
+    "date": "2023-01-19T17:45:00+01:00",
+    "url": "https://www.meetup.com/archilocus/events/290155119/",
+    "description": "En live et en présentiel dans les locaux de Zenika Bordeaux (17 Quai Louis XVIII, 33000 Bordeaux).",
+    "community": "archilocus",
+    "is_online": false,
+    "rsvp_count": 28
+  },
+  {
+    "title": "L'automne chez Archilocus",
+    "date": "2022-10-27T17:30:00+02:00",
+    "url": "https://www.meetup.com/archilocus/events/288769670/",
+    "description": "**Gouvernance des données dans un écosystème de micro-services**par Meidi Airouche - *Staff Software Engineer, Architecte & formateur chez Payfit*\n**Quality Storming : ils sont pas fonctionnels mes besoins ?!**par Arthur BERTHIAUX - *Architecte solutions chez IpponTechnology*\n[https://www.archilocus.tech/#agenda](https://www.archilocus.tech/#agenda)",
+    "community": "archilocus",
+    "is_online": true,
+    "rsvp_count": 33
+  },
+  {
+    "title": "Un an d'Archilocus",
+    "date": "2022-06-23T18:30:00+02:00",
+    "url": "https://www.meetup.com/archilocus/events/286388725/",
+    "description": "Pour les un an d'Archilocus, nous vous proposons de nous retrouver à La Boca pour boire un verre (ou plus) et manger un bout.",
+    "community": "archilocus",
+    "is_online": false,
+    "venue": {
+      "name": "Halle Boca",
+      "address": "208 Quai de Paludate",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "208 Quai de Paludate, Bordeaux",
+    "rsvp_count": 9
+  },
+  {
+    "title": "Le printemps d'Archilocus",
+    "date": "2022-05-19T17:00:00+02:00",
+    "url": "https://www.meetup.com/archilocus/events/285247943/",
+    "description": "En ligne, 2 talks:\n* Secure GraphQL APIs with TypeScript par **Pierre MARCENAC** de [Kili](https://kili-technology.com/)\n* Contract First et délégation de code par **Gilles DI GUGLIELMO** et **Christian NADER** de [Decathlon](https://medium.com/decathlontechnology)\nUne table ronde '**AAAAA**' (Autour de l'Architecture & de l'Agilité Avant l'Apéro)\n[l'agenda](https://www.archilocus.tech/#agenda) détaillé est disponible sur le site [www.archilocus.tech](https://www.archilocus.tech)",
+    "community": "archilocus",
+    "is_online": true,
+    "rsvp_count": 45
+  },
+  {
+    "title": "Archilocus online",
+    "date": "2022-03-10T16:30:00+01:00",
+    "url": "https://www.meetup.com/archilocus/events/283686786/",
+    "description": "Après une session en physique à Bordeaux, nous reprenons le format en ligne avec 3 talks:\n* Abdelkrim Hadjidj nous présentera une \"**Introduction au tracing distribué avec Grafana Tempo**\"* Vivien Maleze continuera avec \"**Abstraire mon architecture distribuée? Pourquoi et Comment?**\"* Sylvain COMBRAQUE terminera avec \"**Du cache pour vos applications : oui et sans Varnish**\"",
+    "community": "archilocus",
+    "is_online": true,
+    "rsvp_count": 65
+  },
+  {
+    "title": "Archilocus #3 en vrai (et online)",
+    "date": "2021-12-02T17:00:00+01:00",
+    "url": "https://www.meetup.com/archilocus/events/280992564/",
+    "description": "Notre 3ème session et la première en physique pour se rencontrer et échanger.Ippon Technologies nous accueillera pour cette session.Les 2 conf seront diffusées, on continuera sur des discussions autour d'un verre de l'amitié",
+    "community": "archilocus",
+    "is_online": false,
+    "venue": {
+      "name": "44 All. de Tourny",
+      "address": "44 All. de Tourny",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "44 All. de Tourny, Bordeaux",
+    "rsvp_count": 41
+  },
+  {
+    "title": "Session #2",
+    "date": "2021-09-23T16:00:00+02:00",
+    "url": "https://www.meetup.com/archilocus/events/279048057/",
+    "description": "3 présentations :* Création d'audience/segmentation combinant des données temps réel et précalculées par Dereck Melancon (Ubisoft Canada)* Transfo DevOps: un peu de Lean Management et d'Accelerate par Jean-Rémy Révy (Ippon)* Sécurité des moyens de paiement, retour sur notre parcours pour obtenir la certification PCI-DSS par Christophe Camicas (Wiidii)\n1 table ronde sur SLI / SLO / SLA avec BlaBlaCar, ManoMano et vous, si vous le souhaitez (appel en début de meetup) !",
+    "community": "archilocus",
+    "is_online": true,
+    "rsvp_count": 85
+  },
+  {
+    "title": "Archilocus MVP",
+    "date": "2021-06-24T14:00:00+02:00",
+    "url": "https://www.meetup.com/archilocus/events/278556971/",
+    "description": "Notre MVP « Archilocus : la place des architectes IT » le jeudi 24 juin (4 sessions « live » et une table ronde).Avec des interlocuteurs de Manomano, Cdiscount, La Redoute et Blablacar.",
+    "community": "archilocus",
+    "is_online": true,
+    "rsvp_count": 345
+  }
+]
