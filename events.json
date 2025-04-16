@@ -357,6 +357,17 @@
     ]
   },
   {
+    "title": "Karpenter / Réagir à temps aux menaces dans vos clusters Kubernetes avec Falco et son écosystème",
+    "date": "2025-03-13T19:00:00",
+    "url": "https://guild.host/events/karpenter-ragir-temps-evmpkp",
+    "description": "Seconde Vague 🤝 [CNCF Bordeaux](https://community.cncf.io/cloud-native-bordeaux/)\n\n### Lieu\n[Deezer Bordeaux](https://deezer.com/) 20 Rue Saint-François, 33000 Bordeaux\n\n### Détails\n18:30 - Accueil des participantes et participants\n\n19:00 - Début des talks\n\n20:15 - Discussions et échanges\n\n21:00 - Fermeture des locaux\n\n### Présentations\n#### \"Réagir à temps aux menaces dans vos clusters Kubernetes avec Falco et son écosystème\" par Thomas Labarussias\nLes applications et clusters Kubernetes sont de plus en plus exposés aux menaces extérieures. Bien que l'écosystème CNCF offre des outils de protection, ceux-ci peuvent ne pas être suffisants. Se pose alors la question: Comment détecter et réagir aux comportements suspects au sein de nos systèmes ?\n\nC'est là qu'intervient Falco, un projet \"Graduated\" de la CNCF, qui sert de caméra de sécurité en temps réel pour les applications, les conteneurs, les clusters Kubernetes et autres technologies cloud natives. Reconnaissant le besoin d'une réponse rapide, l'équipe derrière Falco a récemment introduit Falco Talon: un puissant moteur no-code de réponse automatisée.\n\nDans cette session, nous explorerons comment Falco détecte les actions suspectes et comment Talon permet aux utilisateurs de se défendre avec ses actions pré-construites - le tout sans écrire une seule ligne de code.\n\n#### \"Comment nous avons migré nos clusters EKS de Cluster Autoscaler à Karpenter et pourquoi ?\" par Vivien RAMAHANDRY\n\nQuand on parle de scalabilité au sein d’un cluster Kubernetes il y a celle au niveau des pods (HPA, VPA) mais également celle au niveau des nodes auquels on associe généralement le Cluster Autoscaler.\n\nMais depuis 2021 un nouveau venu est arrivé dans la course sortie des labs AWS il s’agit de Karpenter.\n\nCe projet open-source qui est en version stable 1.0 depuis Octobre 2024 promets de choisir pour vous les bonnes instances au bon moment mais pas que..\n\nDans ce talk, je vais vous faire un retour d’expérience sur notre migration vers Karpenter. Pour cela, nous allons comprendre les concepts-clés de Karpenter ainsi que les bénéfices par rapport à Cluster Autoscaler. Enfin, je vous donnerai des conseils à mettre en place avant et après l’utilisation de Karpenter.",
+    "location": "Deezer Bordeaux, 20 Rue Saint-François, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bdx-io"
+    ]
+  },
+  {
     "title": "Scrum ET Kanban - L’alliage résilient de l’amélioration continue de vos produits",
     "date": "2025-03-13T18:30:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/305865751/",
