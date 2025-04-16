@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements bordeaux-aperops//Bordeaux Community Events//FR
+X-WR-CALDESC:Calendrier des événements de la communauté bordeaux-aperop
+ s
+X-WR-CALNAME:Événements bordeaux-aperops
+X-WR-TIMEZONE:Europe/Paris
+END:VCALENDAR
