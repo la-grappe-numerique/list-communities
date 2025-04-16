@@ -19,9 +19,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
+| Mercredi 16 avril 2025 à 19:00 | [aws-bordeaux](aws-bordeaux/) | [Prôner le clean code en entreprise !](https://www.meetup.com/bordeauxjs/events/306681942/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | Younup Bordeaux, 68 Rue Achard, Bordeaux, France |
 | Lundi 05 mai 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb/) | 9 Rue de Condé, Bordeaux |
 | Lundi 02 juin 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 07 juillet 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
