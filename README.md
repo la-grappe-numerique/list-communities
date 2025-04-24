@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/github/all-contributors/la-grappe-numerique/list-communities?color=ee8449&style=flat-square)](#contributors)
 
-<div class="logo"><img src="docs/la_grappe.png"  width="600"/></div>
+<div class="logo"><img src="docs/la_grappe.png"  width="400"/></div>
 
 Cette page permet de retrouver l'ensemble des communautés de la grappe numérique et d'accéder à notre calendrier commun.
 
