@@ -2,7 +2,7 @@
 
 |                                |     |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?             | Sam Cranford, Stéfanie Loiseleur, Ludwig Vaan |
+| ✉️ Qui contacter ?             | Sam Cranford, Stéfanie Loiseleur, Ludwig Vaan, [Xavier Maso](https://www.xaviermaso.com/) |
 | 🌍 Site web                    | https://okiwi.org/ |
 | 🐘 Mastodon                    | https://piaille.fr/@okiwi |
 | 👥 Meetup                      | https://www.meetup.com/fr-FR/software-craftsmanship-bdx/ |
