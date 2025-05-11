@@ -4,6 +4,7 @@
 | ------------------------------ | --- |
 | ✉️ Qui contacter ?             | Sam Cranford, Stéfanie Loiseleur, Ludwig Vaan |
 | 🌍 Site web                    | https://okiwi.org/ |
+| 🐘 Mastodon                    | https://piaille.fr/@okiwi |
 | 👥 Meetup                      | https://www.meetup.com/fr-FR/software-craftsmanship-bdx/ |
 
 Le calendrier des évènements est disponible au format iCal.
