@@ -6,7 +6,7 @@ Aquinum est l'association des professionnels du numérique en Aquitaine, fondée
 
 L'association accueille une large gamme de métiers du numérique, incluant développeurs, graphistes, consultants, community managers, formateurs, et bien d'autres. Son objectif principal est de favoriser les échanges, le partage de connaissances et l'innovation au sein de l'écosystème numérique aquitain.
 
-Aquinum a joué un rôle pionnier dans le développement du secteur numérique à Bordeaux, notamment en lançant le premier TEDx de la ville et en créant Le Node, le premier espace de coworking bordelais en 201227.
+Aquinum a joué un rôle pionnier dans le développement du secteur numérique à Bordeaux, notamment en lançant le premier TEDx de la ville et en créant Le Node, le premier espace de coworking bordelais en 2012.
 
 L'association organise plus de 150 événements par an, contribuant ainsi activement à l'animation et au dynamisme de la communauté numérique locale.
 
