@@ -9,7 +9,7 @@ L'association est notamment reconnue pour l'organisation :
 
 |                                |     |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?             | Sam Cranford, Stéfanie Loiseleur, Ludwig Vaan, [Xavier Maso](https://www.xaviermaso.com/) |
+| ✉️ Qui contacter ?             | [Sam Cranford](mailto:sam@cranford.fr), Stéfanie Loiseleur, [Ludwig Vaan](mailto:contact@ludwigvantours.dev), [Xavier Maso](https://www.xaviermaso.com/) |
 | 🌍 Site web                    | https://okiwi.org/ |
 | 🐘 Mastodon                    | https://piaille.fr/@okiwi |
 | 👥 Meetup                      | https://www.meetup.com/fr-FR/software-craftsmanship-bdx/ |
