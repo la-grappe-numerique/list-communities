@@ -1,10 +1,18 @@
 # Okiwi ![Logo](./logo-okiwi.png ':size=100')
 
+Okiwi est une communauté de praticiennes et praticiens en informatique, qui cultive l'ouverture et la diversité. L'association a été fondée en 2006, bâtie autour de la bienveillance, de l'inclusion et du partage. L'activité de l'association dépend de ce que chacun y apporte.
+
+L'association est notamment reconnue pour l'organisation :
+* de [Coding Dojos mensuels](https://www.meetup.com/fr-FR/software-craftsmanship-bdx/) pour s'exercer aux bonnes pratiques d'écriture de code ;
+* de l'[Agile Tour Bordeaux](https://agiletourbordeaux.fr/), une conférence autour de l'agilité ;
+* et des [Geek Camps](https://okiwi.org/geek-camp/), retraites bi-annuelles à la campagne entre membres de la communautés.
+
 |                                |     |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Sam Cranford, Stéfanie Loiseleur, Ludwig Vaan |
+| ✉️ Qui contacter ?             | [Sam Cranford](mailto:sam@cranford.fr), Stéfanie Loiseleur, [Ludwig Vaan](mailto:contact@ludwigvantours.dev), [Xavier Maso](https://www.xaviermaso.com/) |
 | 🌍 Site web                    | https://okiwi.org/ |
-| Meetup | https://www.meetup.com/fr-FR/software-craftsmanship-bdx/ |
+| 🐘 Mastodon                    | https://piaille.fr/@okiwi |
+| 👥 Meetup                      | https://www.meetup.com/fr-FR/software-craftsmanship-bdx/ |
 
 Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](./events.ics ':ignore')
