@@ -9,7 +9,7 @@ Aquilenet fournit des services à ses membres, tels que l'accès internet fibre 
 | ------------------------------ | --- |
 | ✉️ Qui contacter ?             | [Xavier Maso](https://www.xaviermaso.com/), Yoan Mollard |
 | 🌍 Site web                    | https://www.aquilenet.fr/ |
-| 📧 Adresse mail                | mailto:aide@aquilenet.fr |
+| 📧 Adresse mail                | aide@aquilenet.fr |
 | 🐘 Mastodon                    | https://toot.aquilenet.fr/@Aquilenet |
 | 👩‍💻 IRC                         | [#aquilenet sur irc.libera.chat](https://web.libera.chat/gamja/?join=\#aquilenet) |
 
