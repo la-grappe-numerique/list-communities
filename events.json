@@ -180,6 +180,17 @@
     ]
   },
   {
+    "title": "AdonisJS, le framework de la maturité",
+    "date": "2025-05-20T19:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/306681521/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link",
+    "description": "AdonisJS n'est peut-être pas le dernier framework TypeScript à la mode, ni ne propose une approche révolutionnaire. Alors, pourquoi le considérer pour vos prochaines applications ? Entre modernité et bonnes vieilles pratiques, c'est ce que je vais vous expliquer à travers cette présentation.\n\nMerci à [Mobiskill](https://www.mobiskill.fr/) qui nous propose un apéritif pour clore le meetup.\nUn immense merci à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil ! 🍾",
+    "location": "Le Node, 12 rue des Faussets, 33000, Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2025-05-05T18:30:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb/",
@@ -306,24 +317,6 @@
     ]
   },
   {
-    "title": "Elasticsearch Query Language: ES|QL",
-    "date": "2025-03-20T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
-    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 4,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Super-Apéro 2025",
     "date": "2025-03-20T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
@@ -339,6 +332,24 @@
     "rsvp_count": 11,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Elasticsearch Query Language: ES|QL",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
+    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 4,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -456,24 +467,6 @@
     ]
   },
   {
-    "title": "La gestion d'erreurs en Javascript",
-    "date": "2025-02-26T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjs/events/306025718/",
-    "description": "“Peut-être a-t-on besoin d’erreurs pour se sentir humain” a dit l’architecte Frank Gehry. Si nous ne tenterons pas de répondre à cette vaste question, l’architecture logicielle a elle besoin de gérer nos erreurs… Comment prendre en compte l’imprévu en gardant un code testable, typé et expressif ? En partant d’exemples concrets, je vous propose de passer en revue plusieurs patterns, de l’impératif au fonctionnel, et examiner leurs trade-offs pour en tirer le meilleur.\nMerci à [Guiild](https://www.guiild.fr/) qui nous propose un apéritif pour clore le meetup.Un immense merci à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil ! 🍾",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 47,
-    "communities": [
-      "bordeauxjs"
-    ]
-  },
-  {
     "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
     "date": "2025-02-26T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
@@ -489,6 +482,24 @@
     "rsvp_count": 18,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "La gestion d'erreurs en Javascript",
+    "date": "2025-02-26T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/306025718/",
+    "description": "“Peut-être a-t-on besoin d’erreurs pour se sentir humain” a dit l’architecte Frank Gehry. Si nous ne tenterons pas de répondre à cette vaste question, l’architecture logicielle a elle besoin de gérer nos erreurs… Comment prendre en compte l’imprévu en gardant un code testable, typé et expressif ? En partant d’exemples concrets, je vous propose de passer en revue plusieurs patterns, de l’impératif au fonctionnel, et examiner leurs trade-offs pour en tirer le meilleur.\nMerci à [Guiild](https://www.guiild.fr/) qui nous propose un apéritif pour clore le meetup.Un immense merci à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil ! 🍾",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 47,
+    "communities": [
+      "bordeauxjs"
     ]
   },
   {
@@ -963,24 +974,6 @@
     ]
   },
   {
-    "title": "Design First : OpenApi et AsyncApi en action !",
-    "date": "2024-09-26T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
-    "description": "Aujourd'hui en terme d'API nous notons deux grandes familles, les **API Synchrones** (de type REST par exemple) et **Asynchrone** (Messaging, Topic).\nAfin d'uniformiser et de spécifier des contrats d'interface clair, deux spécifications ont peu à peu emmergées : **OpenApi** d'un côté pour les API REST et **AsyncApi** dans le cadre des architecture évenmentielles **(EDA).**\nNous allons voir au travers de ce talk et de démos ce qu'apportent ces deux spécifications en terme de design, de documentation mais également en terme de génération de code.\nCe principe appelé **Design First** consiste à Définir son API (REST ou Asynchrone) en amont et de bénéficier d'outils divers et variés pour manipuler ces contrats.\nJe ne prétends pas détenir la vérité absolue, ce sont plutôt mes réflexions au grès de mes expériences autour des APIs REST puis désormais Asynchrones que j'essaye de promouvoir auprès de clients et développeurs.",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 29,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
     "date": "2024-09-26T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
@@ -996,6 +989,24 @@
     "rsvp_count": 25,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Design First : OpenApi et AsyncApi en action !",
+    "date": "2024-09-26T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
+    "description": "Aujourd'hui en terme d'API nous notons deux grandes familles, les **API Synchrones** (de type REST par exemple) et **Asynchrone** (Messaging, Topic).\nAfin d'uniformiser et de spécifier des contrats d'interface clair, deux spécifications ont peu à peu emmergées : **OpenApi** d'un côté pour les API REST et **AsyncApi** dans le cadre des architecture évenmentielles **(EDA).**\nNous allons voir au travers de ce talk et de démos ce qu'apportent ces deux spécifications en terme de design, de documentation mais également en terme de génération de code.\nCe principe appelé **Design First** consiste à Définir son API (REST ou Asynchrone) en amont et de bénéficier d'outils divers et variés pour manipuler ces contrats.\nJe ne prétends pas détenir la vérité absolue, ce sont plutôt mes réflexions au grès de mes expériences autour des APIs REST puis désormais Asynchrones que j'essaye de promouvoir auprès de clients et développeurs.",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 29,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -1648,6 +1659,24 @@
     ]
   },
   {
+    "title": "Super-Apéro 2024",
+    "date": "2024-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
+    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
+    "is_online": false,
+    "venue": {
+      "name": "38 Rue Capdeville",
+      "address": "38 Rue Capdeville",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "38 Rue Capdeville, Bordeaux",
+    "rsvp_count": 18,
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "Atelier du PO #5 : Lean Coffee",
     "date": "2024-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/299637290/",
@@ -1664,24 +1693,6 @@
     "rsvp_count": 9,
     "communities": [
       "agile-bordeaux"
-    ]
-  },
-  {
-    "title": "Super-Apéro 2024",
-    "date": "2024-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
-    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
-    "is_online": false,
-    "venue": {
-      "name": "38 Rue Capdeville",
-      "address": "38 Rue Capdeville",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "38 Rue Capdeville, Bordeaux",
-    "rsvp_count": 18,
-    "communities": [
-      "afup-bordeaux"
     ]
   },
   {
@@ -3966,17 +3977,6 @@
     ]
   },
   {
-    "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
-    "date": "2020-09-30T18:30:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
-    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le sixième meetup AWS virtuel 👐. Cet événement sera dédié à trois sociétés de la \"Media-techs\" françaises. Vous découvrirez comment elles ont construit leur réussite grâce au Cloud.\nRendez-vous le 30 septembre prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Introduction : Jordan Oziel et Julien Bichon\n🎙 Talk 1 (Level 200) : Philippe Laurent - CEO - easylive.ioEasylive.io est le leader de la production live en cloud. Modèle 100% SaaS permettant aux plus grand producteurs de contenus (Premier League, Disney, PSG, Twitch, Facebook etc.) de réaliser des contenus live délocalisés et collaboratif à travers le monde depuis un navigateur. Notre outil, bâti sur les architectures AWS nous permet d'agréger n’importe quel type de flux vidéos, audios, graphiques, etc. en temps réel, de les mélanger et de les formater pour les publier sur n’importe quelle type de destination (Facebook, Twitch, TV, etc.). Rejoignez-nous sur cette session pour découvrir les applications médias live possible grâce à AWS.\n🎙 Talk 2 (Level 100) : Guillaume Doret - CEO - synchronized.tvDécouvrez comment Synchronized Smart-Video Platform automatise le processus complet de création de vignettes vidéo grâce à AWS Rekognition. Désormais, les diffuseurs TV et les services OTT peuvent économiser des centaines d'heures de travail manuel avec des gains significatifs en termes de qualité et de productivité.\n🎙 Talk 3 : (Level 200 - 300) : Sébastien Crème - CoFounder et CTO - NomalabGoing Elastic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEffectively use of Messaging / Spot instances and lambda",
-    "is_online": true,
-    "rsvp_count": 5,
-    "communities": [
-      "aws-bordeaux"
-    ]
-  },
-  {
     "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
     "date": "2020-09-30T18:30:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
@@ -3985,6 +3985,17 @@
     "rsvp_count": 36,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
+    "date": "2020-09-30T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
+    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le sixième meetup AWS virtuel 👐. Cet événement sera dédié à trois sociétés de la \"Media-techs\" françaises. Vous découvrirez comment elles ont construit leur réussite grâce au Cloud.\nRendez-vous le 30 septembre prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Introduction : Jordan Oziel et Julien Bichon\n🎙 Talk 1 (Level 200) : Philippe Laurent - CEO - easylive.ioEasylive.io est le leader de la production live en cloud. Modèle 100% SaaS permettant aux plus grand producteurs de contenus (Premier League, Disney, PSG, Twitch, Facebook etc.) de réaliser des contenus live délocalisés et collaboratif à travers le monde depuis un navigateur. Notre outil, bâti sur les architectures AWS nous permet d'agréger n’importe quel type de flux vidéos, audios, graphiques, etc. en temps réel, de les mélanger et de les formater pour les publier sur n’importe quelle type de destination (Facebook, Twitch, TV, etc.). Rejoignez-nous sur cette session pour découvrir les applications médias live possible grâce à AWS.\n🎙 Talk 2 (Level 100) : Guillaume Doret - CEO - synchronized.tvDécouvrez comment Synchronized Smart-Video Platform automatise le processus complet de création de vignettes vidéo grâce à AWS Rekognition. Désormais, les diffuseurs TV et les services OTT peuvent économiser des centaines d'heures de travail manuel avec des gains significatifs en termes de qualité et de productivité.\n🎙 Talk 3 : (Level 200 - 300) : Sébastien Crème - CoFounder et CTO - NomalabGoing Elastic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEffectively use of Messaging / Spot instances and lambda",
+    "is_online": true,
+    "rsvp_count": 5,
+    "communities": [
+      "aws-bordeaux"
     ]
   },
   {
@@ -4556,24 +4567,6 @@
     ]
   },
   {
-    "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
-    "date": "2019-12-17T19:30:00+01:00",
-    "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
-    "description": "Le prochain meetup #SeriousGamers aura lieu le mardi 17 Décembre et sera accueilli par OASIS COWORKING de 19h30 à 21h30\nPour cette 3eme édition du #LELAB et pour clôturer l'année, nous allons tester de nouveaux #seriousgames.Vous connaissez un serious game et souhaitez le faire découvrir ? C'est le moment ! Rendez vous ici https://docs.google.com/spreadsheets/d/1bRgodh0dq_V4fXkXouaBRyXd5x_U0ocHa5mfej9DKhQ/edit?usp=sharing afin de soumettre les serious game que vous voulez tester et animer.\nLe meetup est ouvert à tous !\nNous terminerons par un amical apéro dinatoire où nous partagerons ce que chacun aura apporté avec lui.\nSeriousgamement vôtre !",
-    "is_online": false,
-    "venue": {
-      "name": "Oasis Coworking - Salles de formation, réunion, entretien - Bureaux - Open Space",
-      "address": "68 Bis Av. Jean Jaurès",
-      "city": "Cenon",
-      "country": "France"
-    },
-    "location": "68 Bis Av. Jean Jaurès, Cenon",
-    "rsvp_count": 21,
-    "communities": [
-      "serious-gamers-bordeaux"
-    ]
-  },
-  {
     "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
     "date": "2019-12-17T19:30:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
@@ -4590,6 +4583,24 @@
     "rsvp_count": 29,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
+    "date": "2019-12-17T19:30:00+01:00",
+    "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
+    "description": "Le prochain meetup #SeriousGamers aura lieu le mardi 17 Décembre et sera accueilli par OASIS COWORKING de 19h30 à 21h30\nPour cette 3eme édition du #LELAB et pour clôturer l'année, nous allons tester de nouveaux #seriousgames.Vous connaissez un serious game et souhaitez le faire découvrir ? C'est le moment ! Rendez vous ici https://docs.google.com/spreadsheets/d/1bRgodh0dq_V4fXkXouaBRyXd5x_U0ocHa5mfej9DKhQ/edit?usp=sharing afin de soumettre les serious game que vous voulez tester et animer.\nLe meetup est ouvert à tous !\nNous terminerons par un amical apéro dinatoire où nous partagerons ce que chacun aura apporté avec lui.\nSeriousgamement vôtre !",
+    "is_online": false,
+    "venue": {
+      "name": "Oasis Coworking - Salles de formation, réunion, entretien - Bureaux - Open Space",
+      "address": "68 Bis Av. Jean Jaurès",
+      "city": "Cenon",
+      "country": "France"
+    },
+    "location": "68 Bis Av. Jean Jaurès, Cenon",
+    "rsvp_count": 21,
+    "communities": [
+      "serious-gamers-bordeaux"
     ]
   },
   {
@@ -5676,24 +5687,6 @@
     ]
   },
   {
-    "title": "Agile Bordeaux 19.1",
-    "date": "2019-01-24T19:00:00+01:00",
-    "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
-    "description": "Le prochain meetup Agile Bordeaux aura lieu le 24 janvier et sera accueilli par Capgemini Bordeaux que nous remercions.\nAu programme :\n19h00 : Accueil, infos courantes, introduction de Scrum en 5 minutes\n19h30 : 2 ateliers en parallèle• Bastien vous propose une Retrospective Storming (~1h30) afin de découvrir et partager différentes pratiques de rétrospective (inspiré de https://fr.slideshare.net/axelvillechalane/support-retrospective-storming-agile-nantes )• Chris vous propose un Aeroplane Game afin d’expérimenter les bienfaits des limites\n20h30 : Echanges autour d’un verre\n21h00 : Il sera temps de nous quitter et de rendre les locaux à nos hôtes de la soirée\n(Ce programme a été co-construit à travers le framapad https://bimestriel.framapad.org/p/agilebdx_19_1)\nA noter :• Nous vous remercions d'amener des boissons (sans alcool) / des snacks à partager pour un moment convivial après les ateliers• N'hésitez pas à nous soumette vos propositions d’ateliers pour cette édition et/ou des lieux d’accueils pour les prochaines",
-    "is_online": false,
-    "venue": {
-      "name": "Capgemini",
-      "address": "19 Allée James Watt",
-      "city": "MERIGNAC",
-      "country": "France"
-    },
-    "location": "19 Allée James Watt, MERIGNAC",
-    "rsvp_count": 43,
-    "communities": [
-      "agile-bordeaux"
-    ]
-  },
-  {
     "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
     "date": "2019-01-24T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
@@ -5709,6 +5702,24 @@
     "rsvp_count": 22,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Agile Bordeaux 19.1",
+    "date": "2019-01-24T19:00:00+01:00",
+    "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
+    "description": "Le prochain meetup Agile Bordeaux aura lieu le 24 janvier et sera accueilli par Capgemini Bordeaux que nous remercions.\nAu programme :\n19h00 : Accueil, infos courantes, introduction de Scrum en 5 minutes\n19h30 : 2 ateliers en parallèle• Bastien vous propose une Retrospective Storming (~1h30) afin de découvrir et partager différentes pratiques de rétrospective (inspiré de https://fr.slideshare.net/axelvillechalane/support-retrospective-storming-agile-nantes )• Chris vous propose un Aeroplane Game afin d’expérimenter les bienfaits des limites\n20h30 : Echanges autour d’un verre\n21h00 : Il sera temps de nous quitter et de rendre les locaux à nos hôtes de la soirée\n(Ce programme a été co-construit à travers le framapad https://bimestriel.framapad.org/p/agilebdx_19_1)\nA noter :• Nous vous remercions d'amener des boissons (sans alcool) / des snacks à partager pour un moment convivial après les ateliers• N'hésitez pas à nous soumette vos propositions d’ateliers pour cette édition et/ou des lieux d’accueils pour les prochaines",
+    "is_online": false,
+    "venue": {
+      "name": "Capgemini",
+      "address": "19 Allée James Watt",
+      "city": "MERIGNAC",
+      "country": "France"
+    },
+    "location": "19 Allée James Watt, MERIGNAC",
+    "rsvp_count": 43,
+    "communities": [
+      "agile-bordeaux"
     ]
   },
   {
@@ -9254,25 +9265,6 @@
     ]
   },
   {
-    "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
-    "date": "2017-05-23T18:45:00+02:00",
-    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/239156476/",
-    "description": "Avec autant de buzzwords dans le titre, explicitons le menu :\n– Nous commencerons avec une étude des principes du CQRS et la notion de projection pour construire les modèles de données dédiées à la lecture, le tout avec un datastore traditionnel (relationnel).– Nous continuerons avec le concept d’état en programmation fonctionnelle, et comment les gérer au sein d’une application tout en respectant le principe d’immutabilité. Et comment ils ont transformé la gestion d’états pour la construction d’interface utilisateur. – Dans un troisième temps, nous nous intéresserons aux évènements du domaine-métier dans le Domain Driven Design et comment ceux-ci s’intègrent dans la mécanique de construction des projections.– Enfin, nous assemblerons toutes ces notions pour faire apparaitre l’« event sourcing » comme modèle de persistance pour nos données.– Pour clôturer, nous verrons les erreurs les plus courantes rencontrées lors de l’implémentation d’un modèle en event sourcing.\nTake away:– Utiliser CQRS (sans event-sourcing) pour simplifier la gestion de la persistance dans son application.– Comprendre comment gérer des états dans un contexte fonctionnel– Gérer facilement les évènements-métier au sein d’une architecture DDD.– Savoir comment implémenter correctement un système basé sur l’event sourcing.\nCette présentation sera assurée par Arnaud LEMAIRE (@lilobase)",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 65,
-    "rsvp_count": 62,
-    "communities": [
-      "okiwi"
-    ]
-  },
-  {
     "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
     "date": "2017-05-23T18:45:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
@@ -9289,6 +9281,25 @@
     "rsvp_count": 9,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
+    "date": "2017-05-23T18:45:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/239156476/",
+    "description": "Avec autant de buzzwords dans le titre, explicitons le menu :\n– Nous commencerons avec une étude des principes du CQRS et la notion de projection pour construire les modèles de données dédiées à la lecture, le tout avec un datastore traditionnel (relationnel).– Nous continuerons avec le concept d’état en programmation fonctionnelle, et comment les gérer au sein d’une application tout en respectant le principe d’immutabilité. Et comment ils ont transformé la gestion d’états pour la construction d’interface utilisateur. – Dans un troisième temps, nous nous intéresserons aux évènements du domaine-métier dans le Domain Driven Design et comment ceux-ci s’intègrent dans la mécanique de construction des projections.– Enfin, nous assemblerons toutes ces notions pour faire apparaitre l’« event sourcing » comme modèle de persistance pour nos données.– Pour clôturer, nous verrons les erreurs les plus courantes rencontrées lors de l’implémentation d’un modèle en event sourcing.\nTake away:– Utiliser CQRS (sans event-sourcing) pour simplifier la gestion de la persistance dans son application.– Comprendre comment gérer des états dans un contexte fonctionnel– Gérer facilement les évènements-métier au sein d’une architecture DDD.– Savoir comment implémenter correctement un système basé sur l’event sourcing.\nCette présentation sera assurée par Arnaud LEMAIRE (@lilobase)",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 65,
+    "rsvp_count": 62,
+    "communities": [
+      "okiwi"
     ]
   },
   {
@@ -9690,24 +9701,6 @@
     ]
   },
   {
-    "title": "TypeScript : dès lundi sur votre App Legacy",
-    "date": "2017-03-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
-    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 87,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Python Bordeaux #7 : données géospatiales",
     "date": "2017-03-23T19:00:00+01:00",
     "url": "https://www.meetup.com/py-bdx/events/238293674/",
@@ -9723,6 +9716,24 @@
     "rsvp_count": 19,
     "communities": [
       "bordeaux-python-meetup"
+    ]
+  },
+  {
+    "title": "TypeScript : dès lundi sur votre App Legacy",
+    "date": "2017-03-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
+    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 87,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {

@@ -5,6 +5,28 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:AdonisJS\, le framework de la maturité
+DTSTART;TZID=Europe/Paris:20250520T190000
+DTEND;TZID=Europe/Paris:20250520T210000
+UID:https://www.meetup.com/bordeauxjs/events/306681521/?utm_medium=referra
+ l&utm_campaign=share-btn_savedevents_share_modal&utm_source=link@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/306681521/?utm_m
+ edium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=l
+ ink\n📍 Le Node\, 12 rue des Faussets\, 33000\, Bordeaux\n\nAdonisJS n'e
+ st peut-être pas le dernier framework TypeScript à la mode\, ni ne propo
+ se une approche révolutionnaire. Alors\, pourquoi le considérer pour vos
+  prochaines applications ? Entre modernité et bonnes vieilles pratiques\,
+  c'est ce que je vais vous expliquer à travers cette présentation.\n\nMe
+ rci à [Mobiskill](https://www.mobiskill.fr/) qui nous propose un apériti
+ f pour clore le meetup.\nUn immense merci à [Aquinum](https://www.aquinum
+ .fr/coworking-bordeaux/) pour l'accueil ! 🍾\n\nCommunauté: bordeauxjs
+LOCATION:Le Node\, 12 rue des Faussets\, 33000\, Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjs/events/306681521/?utm_medium=referra
+ l&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Double meetup // Andrea Palma x Kim Chouard
 DTSTART;TZID=Europe/Paris:20250423T190000
 DTEND;TZID=Europe/Paris:20250423T210000

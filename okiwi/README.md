@@ -22,7 +22,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](./events.ics
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Lundi 05 mai 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb/ |
 | Lundi 02 juin 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb/ |
 | Lundi 07 juillet 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb/ |
 | Lundi 04 août 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhclbgb/ |
@@ -41,6 +40,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](./events.ics
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Lundi 05 mai 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb/ |
 | Lundi 07 avril 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcgbkb/ |
 | Vendredi 04 avril 2025 à 09:00 | Open Okiwi #3 | 44 All. de Tourny, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/306324474/ |
 </details>
