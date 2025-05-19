@@ -1,5 +1,14 @@
 [
   {
+    "title": "AdonisJS, le framework de la maturité",
+    "date": "2025-05-20T19:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/306681521/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link",
+    "description": "AdonisJS n'est peut-être pas le dernier framework TypeScript à la mode, ni ne propose une approche révolutionnaire. Alors, pourquoi le considérer pour vos prochaines applications ? Entre modernité et bonnes vieilles pratiques, c'est ce que je vais vous expliquer à travers cette présentation.\n\nMerci à [Mobiskill](https://www.mobiskill.fr/) qui nous propose un apéritif pour clore le meetup.\nUn immense merci à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil ! 🍾",
+    "community": "bordeauxjs",
+    "location": "Le Node, 12 rue des Faussets, 33000, Bordeaux",
+    "is_online": false
+  },
+  {
     "title": "Double meetup // Andrea Palma x Kim Chouard",
     "date": "2025-04-23T19:00:00",
     "url": "https://www.meetup.com/bordeauxjs/events/306681910/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link",
