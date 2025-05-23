@@ -19,7 +19,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 20 mai 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [AdonisJS, le framework de la maturité](https://www.meetup.com/bordeauxjs/events/306681521/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) | Le Node, 12 rue des Faussets, 33000, Bordeaux |
+| Vendredi 23 mai 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [Endiguer une épidémie d'erreurs TS](https://www.meetup.com/bordeauxjs/events/307822194/) | Le Node, 12 rue des Faussets, 33000, Bordeaux |
 | Lundi 02 juin 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb/) | 9 Rue de Condé, Bordeaux |
 | Lundi 07 juillet 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->

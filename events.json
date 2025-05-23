@@ -180,6 +180,17 @@
     ]
   },
   {
+    "title": "Endiguer une épidémie d'erreurs TS",
+    "date": "2025-05-23T19:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/307822194/",
+    "description": "TypeScript est un outil formidable... quand il n'est pas votre pire cauchemar. Si mal utilisé, ce qui peut arriver plus vite qu'on ne le croit dans un projet d'ampleur, TypeScript devient un handicap plus qu'autre chose. Chez Radiofrance, nous avons vu proliférer les \"red squiggles\" tels des petits virus contagieux, jusqu'à ne presque plus pouvoir développer. Mais nous avons survécu, grâce à un protocole de soin efficace. Témoignage d'un rescapé.\n\nMerci à [Guiild](https://www.guiild.fr/) qui nous propose un apéritif pour clore le meetup.\nUn immense merci à [Aquinum](https://www.aquinum.fr/) pour l'accueil ! 🍾",
+    "location": "Le Node, 12 rue des Faussets, 33000, Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
+    ]
+  },
+  {
     "title": "AdonisJS, le framework de la maturité",
     "date": "2025-05-20T19:00:00",
     "url": "https://www.meetup.com/bordeauxjs/events/306681521/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link",

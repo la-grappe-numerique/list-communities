@@ -5,6 +5,26 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Endiguer une épidémie d'erreurs TS
+DTSTART;TZID=Europe/Paris:20250523T190000
+DTEND;TZID=Europe/Paris:20250523T210000
+UID:https://www.meetup.com/bordeauxjs/events/307822194/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/307822194/\n📍
+  Le Node\, 12 rue des Faussets\, 33000\, Bordeaux\n\nTypeScript est un out
+ il formidable... quand il n'est pas votre pire cauchemar. Si mal utilisé\
+ , ce qui peut arriver plus vite qu'on ne le croit dans un projet d'ampleur
+ \, TypeScript devient un handicap plus qu'autre chose. Chez Radiofrance\, 
+ nous avons vu proliférer les "red squiggles" tels des petits virus contag
+ ieux\, jusqu'à ne presque plus pouvoir développer. Mais nous avons surv
+ écu\, grâce à un protocole de soin efficace. Témoignage d'un rescapé.
+ \n\nMerci à [Guiild](https://www.guiild.fr/) qui nous propose un apériti
+ f pour clore le meetup.\nUn immense merci à [Aquinum](https://www.aquinum
+ .fr/) pour l'accueil ! 🍾\n\nCommunauté: bordeauxjs
+LOCATION:Le Node\, 12 rue des Faussets\, 33000\, Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjs/events/307822194/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AdonisJS\, le framework de la maturité
 DTSTART;TZID=Europe/Paris:20250520T190000
 DTEND;TZID=Europe/Paris:20250520T210000
