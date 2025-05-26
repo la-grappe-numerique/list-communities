@@ -2,7 +2,7 @@
 
 |                                |     |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Florian Vander Put, Jérôme Béhuet, Michael |
+| ✉️ Qui contacter ?              | [Florian Vander Put](https://www.linkedin.com/in/florian-vanderput/), [Jérôme Béhuet](https://www.linkedin.com/in/jbehuet/), [Michael](https://www.linkedin.com/in/bonfilsmichael/) |
 | 🌍 Site web                    | https://www.meetup.com/fr-FR/bordeauxjs/ |
 | 🌍 LinkedIn                    | https://www.linkedin.com/company/bordeauxjs/ |
 
