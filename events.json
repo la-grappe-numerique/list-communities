@@ -162,6 +162,17 @@
     ]
   },
   {
+    "title": "Meetup MTG:Bordeaux #7",
+    "date": "2025-06-03T18:30:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email&utm_campaign=group-new-rsvps",
+    "description": "# Programme :\n18h00 - 18h30 => Accueil\n18H30 - 18H40 => Introduction\n18H40 - 19h25 => \"Testing: pushing the limits\" par Guillaume Saint Etienne\n19h25 - 20h10 => \" gRPC, c'est pas sorcier\" par Antoine Delmaere et Xavier Noya\n20h10 => Moment convivial",
+    "location": "Betclic, 117 Quai de Bacalan, Bordeaux",
+    "is_online": false,
+    "communities": [
+      "mtg-bordeaux"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2025-06-02T18:30:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb/",
@@ -328,24 +339,6 @@
     ]
   },
   {
-    "title": "Super-Apéro 2025",
-    "date": "2025-03-20T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
-    "description": "Le 20 mars se tient **THE Super Apéro 2025** de l'AFUP 🎉\nCet événement a lieu dans plusieurs antennes de l’AFUP en même temps !Vous pouvez découvrir la liste en ligne ici : [https://afup.org/association/super-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fêtez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super intéressantes 😄 🤓",
-    "is_online": false,
-    "venue": {
-      "name": "The Frog & Rosbif, Bordeaux",
-      "address": "23 Rue Ausone",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "23 Rue Ausone, Bordeaux",
-    "rsvp_count": 11,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Elasticsearch Query Language: ES|QL",
     "date": "2025-03-20T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
@@ -361,6 +354,24 @@
     "rsvp_count": 4,
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Super-Apéro 2025",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
+    "description": "Le 20 mars se tient **THE Super Apéro 2025** de l'AFUP 🎉\nCet événement a lieu dans plusieurs antennes de l’AFUP en même temps !Vous pouvez découvrir la liste en ligne ici : [https://afup.org/association/super-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fêtez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super intéressantes 😄 🤓",
+    "is_online": false,
+    "venue": {
+      "name": "The Frog & Rosbif, Bordeaux",
+      "address": "23 Rue Ausone",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "23 Rue Ausone, Bordeaux",
+    "rsvp_count": 11,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -478,24 +489,6 @@
     ]
   },
   {
-    "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
-    "date": "2025-02-26T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
-    "description": "Pour cet événement on se posera des questions sur la mémoire !Pas de jeux pour renforcer notre mémoire 😛 Certes PHP a 30 ans cette année mais quand même 😛\n**Un talk pour en découvrir plus sur la gestion mémoire en PHP par [Nicolas Perussel](https://www.linkedin.com/in/nicolas-perussel-php/), CTO chez [ekino](https://www.ekino.com/).**\n\\-\\-\\-Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\\-\\-\\-\nLa parole au speakeur 📣\n***\\#\\#\\# Une approche du ZMM \\(Zend Memory Manager\\)****Plongez dans les coulisses de la gestion mémoire en PHP*\n*Avez-vous déjà rencontré des problèmes de mémoire avec vos applications PHP ? Savez-vous vraiment comment PHP gère la mémoire en coulisses ?**Venez découvrir les secrets du Zend Memory Manager, le composant crucial qui gère l'allocation mémoire dans le moteur PHP.**Durant cette session technique, nous explorerons :*\n* *L'architecture interne du Zend Memory Manager et son rôle dans le cycle de vie des scripts PHP** *Les stratégies d'allocation et de libération de mémoire** *L'impact des différentes structures de données sur la consommation mémoire** *Les outils de profilage et de debugging pour traquer les fuites mémoire*\n*C'est relativement dense, mais l'approche restera simple et didactique.**J'espère ne rien avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bordeaux,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le 20 mars, réservez votre soirée dés maintenant !",
-    "is_online": false,
-    "venue": {
-      "name": "EKINO - 33000",
-      "address": "1 Cr Xavier Arnozan",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "rsvp_count": 18,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "La gestion d'erreurs en Javascript",
     "date": "2025-02-26T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjs/events/306025718/",
@@ -511,6 +504,24 @@
     "rsvp_count": 47,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
+    "date": "2025-02-26T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
+    "description": "Pour cet événement on se posera des questions sur la mémoire !Pas de jeux pour renforcer notre mémoire 😛 Certes PHP a 30 ans cette année mais quand même 😛\n**Un talk pour en découvrir plus sur la gestion mémoire en PHP par [Nicolas Perussel](https://www.linkedin.com/in/nicolas-perussel-php/), CTO chez [ekino](https://www.ekino.com/).**\n\\-\\-\\-Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\\-\\-\\-\nLa parole au speakeur 📣\n***\\#\\#\\# Une approche du ZMM \\(Zend Memory Manager\\)****Plongez dans les coulisses de la gestion mémoire en PHP*\n*Avez-vous déjà rencontré des problèmes de mémoire avec vos applications PHP ? Savez-vous vraiment comment PHP gère la mémoire en coulisses ?**Venez découvrir les secrets du Zend Memory Manager, le composant crucial qui gère l'allocation mémoire dans le moteur PHP.**Durant cette session technique, nous explorerons :*\n* *L'architecture interne du Zend Memory Manager et son rôle dans le cycle de vie des scripts PHP** *Les stratégies d'allocation et de libération de mémoire** *L'impact des différentes structures de données sur la consommation mémoire** *Les outils de profilage et de debugging pour traquer les fuites mémoire*\n*C'est relativement dense, mais l'approche restera simple et didactique.**J'espère ne rien avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bordeaux,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le 20 mars, réservez votre soirée dés maintenant !",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "rsvp_count": 18,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -985,24 +996,6 @@
     ]
   },
   {
-    "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
-    "date": "2024-09-26T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
-    "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\nPour l'occasion, nous aurons le plaisir d'accueillir 2 speakeurs•euses qui nous présenterons en avant première avant le grand jour au [Forum PHP 2024](https://event.afup.org/) leurs talks respectifs 🎉\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nLa parole aux speakeurs•euses 📣\n**\\#\\#\\#\\# StandAAArdisez vos tests \\!**Par **Nerea Enrique**, ingénieure PHP chez **ekino**\n*Une bonne partie de notre travail consiste à lire et écrire des tests. Mais comment les unifier tout en gardant la maintenabilité et la robustesse ?**Une partie de la réponse pourrait bien se trouver dans le pattern AAA !*\n*Le pattern AAA (Arrange, Act, Assert) est une approche qui permet de structurer l’écriture de tests unitaires. Cela peut améliorer la qualité de notre code en nous forçant à écrire des tests concis et focalisés, ce qui rend le code plus facile à comprendre et à déboguer. Cependant, comme toute approche, le pattern AAA a aussi ses défis. Par exemple, il peut être difficile d’appliquer ce pattern dans des scénarios complexes.*\n*Voyons comment ce pattern peut simplifier notre écriture de tests !*\n**\\#\\#\\#\\# La goutte d’eau qui fait déborder le Cloud**Par **Julien Joye**, ingénieur PHP chez **ekino**\n*Vous déployez votre application Symfony bien architecturée en micro-services sur une infra kubernetes, trop bien !*\n*Mais avez-vous déjà essayé de faire tourner Drupal sur le même type d’infra ?*\n*Ça peut paraître trivial ; pourtant deux mentalités bien différentes viennent se confronter l’une à l’autre. Quand Drupal peut envoyer 800 requêtes SQL sur un cold start, ou faire transiter des téraoctets de données redis sur le réseau par mois, est-ce que k8s est toujours la solution ?*\n*Dans cette conférence, je vous fais un petit rappel de ce qu’est k8s, vous montre pourquoi Drupal (ou l’infra) peut devenir votre pire ennemi dans ce contexte, et comment éviter certains pièges.*",
-    "is_online": false,
-    "venue": {
-      "name": "HEMERA",
-      "address": "1 cours Xavier Arnozan, ",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 cours Xavier Arnozan, , Bordeaux",
-    "rsvp_count": 25,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Design First : OpenApi et AsyncApi en action !",
     "date": "2024-09-26T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
@@ -1018,6 +1011,24 @@
     "rsvp_count": 29,
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
+    "date": "2024-09-26T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
+    "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\nPour l'occasion, nous aurons le plaisir d'accueillir 2 speakeurs•euses qui nous présenterons en avant première avant le grand jour au [Forum PHP 2024](https://event.afup.org/) leurs talks respectifs 🎉\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nLa parole aux speakeurs•euses 📣\n**\\#\\#\\#\\# StandAAArdisez vos tests \\!**Par **Nerea Enrique**, ingénieure PHP chez **ekino**\n*Une bonne partie de notre travail consiste à lire et écrire des tests. Mais comment les unifier tout en gardant la maintenabilité et la robustesse ?**Une partie de la réponse pourrait bien se trouver dans le pattern AAA !*\n*Le pattern AAA (Arrange, Act, Assert) est une approche qui permet de structurer l’écriture de tests unitaires. Cela peut améliorer la qualité de notre code en nous forçant à écrire des tests concis et focalisés, ce qui rend le code plus facile à comprendre et à déboguer. Cependant, comme toute approche, le pattern AAA a aussi ses défis. Par exemple, il peut être difficile d’appliquer ce pattern dans des scénarios complexes.*\n*Voyons comment ce pattern peut simplifier notre écriture de tests !*\n**\\#\\#\\#\\# La goutte d’eau qui fait déborder le Cloud**Par **Julien Joye**, ingénieur PHP chez **ekino**\n*Vous déployez votre application Symfony bien architecturée en micro-services sur une infra kubernetes, trop bien !*\n*Mais avez-vous déjà essayé de faire tourner Drupal sur le même type d’infra ?*\n*Ça peut paraître trivial ; pourtant deux mentalités bien différentes viennent se confronter l’une à l’autre. Quand Drupal peut envoyer 800 requêtes SQL sur un cold start, ou faire transiter des téraoctets de données redis sur le réseau par mois, est-ce que k8s est toujours la solution ?*\n*Dans cette conférence, je vous fais un petit rappel de ce qu’est k8s, vous montre pourquoi Drupal (ou l’infra) peut devenir votre pire ennemi dans ce contexte, et comment éviter certains pièges.*",
+    "is_online": false,
+    "venue": {
+      "name": "HEMERA",
+      "address": "1 cours Xavier Arnozan, ",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 cours Xavier Arnozan, , Bordeaux",
+    "rsvp_count": 25,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -1670,24 +1681,6 @@
     ]
   },
   {
-    "title": "Super-Apéro 2024",
-    "date": "2024-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
-    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
-    "is_online": false,
-    "venue": {
-      "name": "38 Rue Capdeville",
-      "address": "38 Rue Capdeville",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "38 Rue Capdeville, Bordeaux",
-    "rsvp_count": 18,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Atelier du PO #5 : Lean Coffee",
     "date": "2024-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/299637290/",
@@ -1704,6 +1697,24 @@
     "rsvp_count": 9,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Super-Apéro 2024",
+    "date": "2024-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
+    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
+    "is_online": false,
+    "venue": {
+      "name": "38 Rue Capdeville",
+      "address": "38 Rue Capdeville",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "38 Rue Capdeville, Bordeaux",
+    "rsvp_count": 18,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -3482,17 +3493,6 @@
     ]
   },
   {
-    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
-    "date": "2021-11-16T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
-    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
-    "is_online": true,
-    "rsvp_count": 3,
-    "communities": [
-      "aws-bordeaux"
-    ]
-  },
-  {
     "title": "Java 17 la dernière LTS par Rémi Forax",
     "date": "2021-11-16T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/281736541/",
@@ -3508,6 +3508,17 @@
     "rsvp_count": 38,
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
+    "date": "2021-11-16T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
+    "is_online": true,
+    "rsvp_count": 3,
+    "communities": [
+      "aws-bordeaux"
     ]
   },
   {
@@ -4780,24 +4791,6 @@
     ]
   },
   {
-    "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
-    "date": "2019-10-17T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
-    "description": "Venez découvrir comment construire des architectures modernes pour vos applications Web et mobiles autour des services AWS.Nous parlerons évidemment Rest API mais aussi bases de données, sécurité, haute disponibilité, cache, Authorization et même un peu de GraphQL, et tout cela en mode Serverless.Si vous n'avez jamais essayé ces solutions, c'est l'occasion de les découvrir et poser toutes les questions que vous avez/aurez; si vous les connaissez déjà, une petite piqûre de rappel ne fait jamais de mal 😊\n🎙️Thibaut Charlier, Cloud Evangelist @ Gekko\n🍕🍺\n🙏Gekko",
-    "is_online": false,
-    "venue": {
-      "name": "Halle Héméra",
-      "address": "132 Rue Fondaudège",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "132 Rue Fondaudège, Bordeaux",
-    "rsvp_count": 54,
-    "communities": [
-      "aws-bordeaux"
-    ]
-  },
-  {
     "title": "La JVM et Docker, vers une symbiose parfaite !",
     "date": "2019-10-17T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
@@ -4813,6 +4806,24 @@
     "rsvp_count": 43,
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
+    "date": "2019-10-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
+    "description": "Venez découvrir comment construire des architectures modernes pour vos applications Web et mobiles autour des services AWS.Nous parlerons évidemment Rest API mais aussi bases de données, sécurité, haute disponibilité, cache, Authorization et même un peu de GraphQL, et tout cela en mode Serverless.Si vous n'avez jamais essayé ces solutions, c'est l'occasion de les découvrir et poser toutes les questions que vous avez/aurez; si vous les connaissez déjà, une petite piqûre de rappel ne fait jamais de mal 😊\n🎙️Thibaut Charlier, Cloud Evangelist @ Gekko\n🍕🍺\n🙏Gekko",
+    "is_online": false,
+    "venue": {
+      "name": "Halle Héméra",
+      "address": "132 Rue Fondaudège",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "132 Rue Fondaudège, Bordeaux",
+    "rsvp_count": 54,
+    "communities": [
+      "aws-bordeaux"
     ]
   },
   {
@@ -5698,24 +5709,6 @@
     ]
   },
   {
-    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
-    "date": "2019-01-24T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
-    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
-    "is_online": false,
-    "venue": {
-      "name": "Le Zytho",
-      "address": "28 Rue Latour",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "28 Rue Latour, Bordeaux",
-    "rsvp_count": 22,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Agile Bordeaux 19.1",
     "date": "2019-01-24T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
@@ -5731,6 +5724,24 @@
     "rsvp_count": 43,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
+    "date": "2019-01-24T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
+    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
+    "is_online": false,
+    "venue": {
+      "name": "Le Zytho",
+      "address": "28 Rue Latour",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "28 Rue Latour, Bordeaux",
+    "rsvp_count": 22,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -9276,25 +9287,6 @@
     ]
   },
   {
-    "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
-    "date": "2017-05-23T18:45:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
-    "description": "Hello à tous, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi, qui va traiter de \nCQRS, Fonctionnel, Event Sourcing & Domain Driven Design, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est dans le lien - il s'agit d'une présentation qui permettra de prendre un peu de hauteur sur des concepts qui sortent des spécificités des langages, et que je vous promet être très intéressante !\nPour faciliter la gestion de l'événement, inscrivez-vous de préférence via le lien ci-dessus :) \nTrès bonne journée à tous,",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 10,
-    "rsvp_count": 9,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
     "date": "2017-05-23T18:45:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/239156476/",
@@ -9311,6 +9303,25 @@
     "rsvp_count": 62,
     "communities": [
       "okiwi"
+    ]
+  },
+  {
+    "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
+    "date": "2017-05-23T18:45:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
+    "description": "Hello à tous, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi, qui va traiter de \nCQRS, Fonctionnel, Event Sourcing & Domain Driven Design, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est dans le lien - il s'agit d'une présentation qui permettra de prendre un peu de hauteur sur des concepts qui sortent des spécificités des langages, et que je vous promet être très intéressante !\nPour faciliter la gestion de l'événement, inscrivez-vous de préférence via le lien ci-dessus :) \nTrès bonne journée à tous,",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 10,
+    "rsvp_count": 9,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -9712,24 +9723,6 @@
     ]
   },
   {
-    "title": "Python Bordeaux #7 : données géospatiales",
-    "date": "2017-03-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/py-bdx/events/238293674/",
-    "description": "Nous accueillons pour ce meetup Yassine qui viendra nous parler de données géospatiales et de SIG (Système d'Information Géographique) en Python.\nFaisons du SIG avec Python !\nTravailler avec des données géolocalisées est une tâche difficile. En effet, entre apprendre la manipulation de logiciels propriétaires (pensez Arcgis) et trouver la meilleure façon de les intégrer à votre « stack » technologique actuelle n'est jamais facile. Heureusement, Python possède un ensemble de bibliothèques SIG qui rend le travail avec des données géolocalisées plus facile et agréable. Dans cette présentation, je vous montrerais rapidement les outils SIG qu’offre Python et comment s’en servir pour effectuer une analyse de données. Il y aura une démo interactive à la fin.\nLet’s do some GIS with Python!\nWorking with geolocated data can be a hard task. In fact, between learning proprietary software (think Arcgis) and finding the best way to integrate them with your current technology stack is no easy feat. Fortunately, Python has a complete GIS stack that makes working with geolocated data a breeze. In this talk, I will quickly present the Python GIS stack and how to use it to perform a simple data analysis. There will be a live demo at the end of the talk.\nUne présentation \"légère\" suivra sur le thème \"il existe une fonction pour ça !\". Et comme d'habitude, nous finirons par un apéro convivial !!",
-    "is_online": false,
-    "venue": {
-      "name": "Le Node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 19,
-    "communities": [
-      "bordeaux-python-meetup"
-    ]
-  },
-  {
     "title": "TypeScript : dès lundi sur votre App Legacy",
     "date": "2017-03-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
@@ -9745,6 +9738,24 @@
     "rsvp_count": 87,
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Python Bordeaux #7 : données géospatiales",
+    "date": "2017-03-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/py-bdx/events/238293674/",
+    "description": "Nous accueillons pour ce meetup Yassine qui viendra nous parler de données géospatiales et de SIG (Système d'Information Géographique) en Python.\nFaisons du SIG avec Python !\nTravailler avec des données géolocalisées est une tâche difficile. En effet, entre apprendre la manipulation de logiciels propriétaires (pensez Arcgis) et trouver la meilleure façon de les intégrer à votre « stack » technologique actuelle n'est jamais facile. Heureusement, Python possède un ensemble de bibliothèques SIG qui rend le travail avec des données géolocalisées plus facile et agréable. Dans cette présentation, je vous montrerais rapidement les outils SIG qu’offre Python et comment s’en servir pour effectuer une analyse de données. Il y aura une démo interactive à la fin.\nLet’s do some GIS with Python!\nWorking with geolocated data can be a hard task. In fact, between learning proprietary software (think Arcgis) and finding the best way to integrate them with your current technology stack is no easy feat. Fortunately, Python has a complete GIS stack that makes working with geolocated data a breeze. In this talk, I will quickly present the Python GIS stack and how to use it to perform a simple data analysis. There will be a live demo at the end of the talk.\nUne présentation \"légère\" suivra sur le thème \"il existe une fonction pour ça !\". Et comme d'habitude, nous finirons par un apéro convivial !!",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 19,
+    "communities": [
+      "bordeaux-python-meetup"
     ]
   },
   {

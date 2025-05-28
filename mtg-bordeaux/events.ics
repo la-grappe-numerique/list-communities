@@ -5,6 +5,24 @@ X-WR-CALDESC:Calendrier des événements de la communauté mtg-bordeaux
 X-WR-CALNAME:Événements mtg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Meetup MTG:Bordeaux #7
+DTSTART;TZID=Europe/Paris:20250603T183000
+DTEND;TZID=Europe/Paris:20250603T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email
+ &utm_campaign=group-new-rsvps@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/307780893/?utm
+ _medium=email&utm_campaign=group-new-rsvps\n📍 Betclic\, 117 Quai de Bac
+ alan\, Bordeaux\n\n# Programme :\n18h00 - 18h30 => Accueil\n18H30 - 18H40 
+ => Introduction\n18H40 - 19h25 => "Testing: pushing the limits" par Guilla
+ ume Saint Etienne\n19h25 - 20h10 => " gRPC\, c'est pas sorcier" par Antoin
+ e Delmaere et Xavier Noya\n20h10 => Moment convivial\n\nCommunauté: mtg-b
+ ordeaux
+LOCATION:Betclic\, 117 Quai de Bacalan\, Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email
+ &utm_campaign=group-new-rsvps
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meetup MTG:Bordeaux #6
 DTSTART;TZID=Europe/Paris:20250410T183000
 DTEND;TZID=Europe/Paris:20250410T203000
