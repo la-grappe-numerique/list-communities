@@ -8817,6 +8817,40 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/265926025/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club de lecture 25.3 - Ecotopia
+DTSTART;TZID=Europe/Paris:20250614T100000
+DTEND;TZID=Europe/Paris:20250614T120000
+UID:https://www.meetup.com/agile-bordeaux/events/307181506/?@community-eve
+ nts
+DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/307181506/?\
+ n📍 Lieu-dit Jambriaud à Saint-Hilaire d'Estissac\n\nLe club de lecture
+  25.3 se tiendra samedi 14 juin de 10h00 à 12h00 au lieu-dit Jambriaud à
+  Saint-Hilaire d'Estissac.\n\nLe livre sélectionné est “Ecotopia” de
+  Ernest Callenbach.\n\n“Trois États de la côte ouest des États-Unis -
+  la Californie\, l'Oregon et l'État de Washington - décident de faire s
+ écession et de construire\, dans un isolement total\, une société écol
+ ogique radicale\, baptisée Écotopia. Vingt ans après\, l'heure est à l
+ a reprise des liaisons diplomatiques entre les deux pays. Pour la premièr
+ e fois\, Écotopia ouvre ses frontières à un journaliste américain\, Wi
+ lliam Weston. Au fil des articles envoyés au Times-Post\, il décrit tous
+  les aspects de la société écotopienne : les femmes au pouvoir\, l'auto
+ gestion\, la décentralisation\, les vingt heures de travail hebdomadaire 
+ et le recyclage systématique. D'abord sceptique\, voire cynique\, William
+  Weston vit une profonde transformation intérieure. Son histoire d'amour 
+ intense avec une Écotopienne va le placer devant un dilemme crucial : cho
+ isir entre deux mondes. Récit utopique publié en 1975\, traduit depuis d
+ ans le monde entier\, Écotopia offre une voie concrète et désirable pou
+ r demain\, et ce faisant agit comme un antidote au désastre en cours.”\
+ n\n*****\n\nLe club de lecture est un moment de partage et d’échange au
+ tour d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins u
+ ne partie significative.\n\nLe nombre de places étant limité\, merci de 
+ vous désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunau
+ té: agile-bordeaux
+LOCATION:Lieu-dit Jambriaud à Saint-Hilaire d'Estissac
+TZID:Europe/Paris
+URL:https://www.meetup.com/agile-bordeaux/events/307181506/?
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture 25.2 - Petit manuel de résistance contemporaine
 DTSTART;TZID=Europe/Paris:20250405T100000
 DTEND;TZID=Europe/Paris:20250405T120000

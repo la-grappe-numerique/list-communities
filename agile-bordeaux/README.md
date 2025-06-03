@@ -9,6 +9,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Samedi 14 juin 2025 à 10:00 | Club de lecture 25.3 - Ecotopia | Lieu-dit Jambriaud à Saint-Hilaire d'Estissac | https://www.meetup.com/agile-bordeaux/events/307181506/? |
+
 ## 📆 Past Events
 
 <details>
