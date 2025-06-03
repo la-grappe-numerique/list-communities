@@ -7,6 +7,70 @@ X-WR-CALDESC:Calendrier des événements de la communauté women-in-tech-b
 X-WR-CALNAME:Événements women-in-tech-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Produit : Discovery avec l'IA & product marketing
+DTSTART;TZID=Europe/Paris:20250605T183000
+DTEND;TZID=Europe/Paris:20250605T203000
+UID:https://www.linkedin.com/events/produit-discoveryavecl-ia-produ7325194
+ 369152495619/about/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/produit-discoveryavecl-ia
+ -produ7325194369152495619/about/\n📍 SFEIR\, 5 Rue de Condé\, 33000 Bor
+ deaux\n\n1️⃣ DÉTAILS\n\n📍 SFEIR\, 5 rue de condé\, 33000 Bordeaux
+ \n\n18:30 - Accueil des participantes et participants\n19:00 - Début des 
+ talks\n20:15 - Discussions et échanges\n21:00 - Fermeture des locaux\n\n\
+ n2️⃣ PRÉSENTATIONS\n\n🎤 « Prototypes & IA : la discovery en mode 
+ survitaminé » par Chloé MACKIE\n\nEt si on pouvait tester une idée en 
+ quelques minutes\, sans écrire une seule ligne de code ? Grâce aux proto
+ types dopés à l’IA\, la discovery devient un accélérateur stratégiq
+ ue : plus rapide\, plus réelle\, plus connectée aux vrais besoins utilis
+ ateurs. Fini les débats à l’aveugle — place à l’expérimentation 
+ éclair\, day 1. Dans cette session\, vous découvrirez comment combiner I
+ A et prototypage rapide pour explorer plus d’options\, plus tôt\, et av
+ ancer avec plus de clarté. Objectif: moins d'incertitude\, plus de data\,
+  plus d'impact.\n\n----\n\n🎤 « Le produit traduit en justice : la plai
+ doirie du product marketing » par Chloé GIRARDIN\n\nDans ce talk je mets
+  en scène un procès fictif où le Product est accusé de négligence par
+  le Product Marketing. Je suis son avocate\, présente pour démontrer sa 
+ valeur.\nAvec une plaidoirie dynamique et structurée\, je vais prouver qu
+ e le Product Marketing joue un rôle essentiel pour une entreprise tech\, 
+ en particulier autour de 4 axes :\n1. Go-to-Market : Stratégie de lanceme
+ nt efficace et différenciation sur le marché.\n2. Acquisition : Généra
+ tion de la demande et engagement des prospects.\n3. Adoption : Facilitatio
+ n de l’appropriation produit par les utilisateurs.\n4. Enablement intern
+ e : Soutien des équipes commerciales et collaboration inter-services.\nJ
+ ’inviterais les participants à reconsidérer le rôle du Product Market
+ ing comme un pilier indispensable à la réussite produit\, à la conquêt
+ e du marché\, et à la croissance durable d'une entreprise tech. Avec des
+  interventions (capsule vidéo) des « témoins » du product marketing po
+ ur appuyer mon propos. À la fin le public sera invité à donner son verd
+ ict via un formulaire en ligne !\nLes takeaways :\n- Comprendre le rôle c
+ lé du Product Marketing dans une entreprise tech ainsi que son impact sur
+  le produit\, l’équipe et l’entreprise. Repartir avec une vision clai
+ re de la fonction.\n- Comprendre l’importance du PMM sur les 4 principau
+ x axes (Go-to-Market\, Acquisition\, Adoption\, Enablement interne)\n- Avo
+ ir des exemples concrets d’OKRs pour suivre l’impact du Product Market
+ ing.\n- Avoir avec des arguments clés. Soit pour convaincre leur organisa
+ tion de recruter un PMM. Soit pour optimiser l’impact des PMM existants\
+ n\n\n3️⃣ A PROPOS DES INTERVENANTES\n\n👤 Chloé MACKIE : Après 13 
+ ans à Londres en tant que Product Leader\, Chloé s’est spécialisée d
+ ans l’exploration de territoires à la pointe de l’innovation. Son par
+ cours — entre startups\, scale-ups et labs en entreprise — lui a permi
+ s de développer une compréhension globale des enjeux produits\, avec une
+  expertise pointue en Product Expansion : lancements internationaux et cr
+ éation de nouveaux produits. Ses outils de prédilection ? Une connaissan
+ ce fine des utilisateurs et des expérimentations IA agiles pour concevoir
+  des stratégies éclairées par la data. Curieuse et avide d’apprendre\
+ , elle aime repousser les limites pour imaginer les solutions de demain.\n
+ \n👤 Chloé GIRARDIN : Elle est spécialisée en Product Marketing depui
+ s 2021 et travaille en freelance pour des start-ups et scale-ups dans le s
+ ecteur de la tech. À travers son podcast "Les Meneuses"\, elle met en ava
+ nt les femmes et les minorités de genre dans ce domaine.\n\nCommunauté: 
+ women-in-tech-bordeaux
+LOCATION:SFEIR\, 5 Rue de Condé\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/produit-discoveryavecl-ia-produ7325194
+ 369152495619/about/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Parentalité en entreprise & parcours atypique : enjeux et perspec
  tives
 DTSTART;TZID=Europe/Paris:20250408T190000

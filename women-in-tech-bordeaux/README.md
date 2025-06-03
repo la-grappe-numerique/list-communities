@@ -9,6 +9,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/women-in-tech-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 05 juin 2025 à 18:30 | Produit : Discovery avec l'IA & product marketing | SFEIR, 5 Rue de Condé, 33000 Bordeaux | https://www.linkedin.com/events/produit-discoveryavecl-ia-produ7325194369152495619/about/ |
+
 ## 📆 Past Events
 
 <details>
