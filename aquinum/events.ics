@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements aquinum//Bordeaux Community Events//FR
+X-WR-CALDESC:Calendrier des événements de la communauté aquinum
+X-WR-CALNAME:Événements aquinum
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Happynum de juin
+DTSTART;TZID=Europe/Paris:20250626T183000
+DTEND;TZID=Europe/Paris:20250626T203000
+UID:https://www.aquinum.fr/@community-events
+DESCRIPTION:🔗 https://www.aquinum.fr/\n📍 Le node\, 12 rue des fausse
+ ts\, Bordeaux\n\n\n\nCommunauté: aquinum
+LOCATION:Le node\, 12 rue des faussets\, Bordeaux
+TZID:Europe/Paris
+URL:https://www.aquinum.fr/
+END:VEVENT
+END:VCALENDAR

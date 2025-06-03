@@ -14138,6 +14138,17 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/88035462/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Happynum de juin
+DTSTART;TZID=Europe/Paris:20250626T183000
+DTEND;TZID=Europe/Paris:20250626T203000
+UID:https://www.aquinum.fr/@community-events
+DESCRIPTION:🔗 https://www.aquinum.fr/\n📍 Le node\, 12 rue des fausse
+ ts\, Bordeaux\n\n\n\nCommunauté: aquinum
+LOCATION:Le node\, 12 rue des faussets\, Bordeaux
+TZID:Europe/Paris
+URL:https://www.aquinum.fr/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🍷🍻 L'Apéro Web Bordeaux
 DTSTART;TZID=Europe/Paris:20250305T190000
 DTEND;TZID=Europe/Paris:20250305T210000

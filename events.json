@@ -162,6 +162,17 @@
     ]
   },
   {
+    "title": "Happynum de juin",
+    "date": "2025-06-26T18:30:00",
+    "url": "https://www.aquinum.fr/",
+    "description": "",
+    "location": "Le node, 12 rue des faussets, Bordeaux",
+    "is_online": false,
+    "communities": [
+      "aquinum"
+    ]
+  },
+  {
     "title": "Meetup MTG:Bordeaux #7",
     "date": "2025-06-03T18:30:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email&utm_campaign=group-new-rsvps",
