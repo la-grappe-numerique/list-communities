@@ -184,6 +184,17 @@
     ]
   },
   {
+    "title": "Les super pouvoirs du package java.util.function",
+    "date": "2025-06-12T19:00:00",
+    "url": "https://www.bordeauxjug.org/",
+    "description": "Le package `java.util.function` fêtera ses 11 ans en 2025 et force est de constater que malgré son omniprésence dans nos développements, son utilisation reste probablement sous-estimé et mal comprise.\n\nAvez-vous déjà utilisé ces classes comme paramètre de vos méthodes ? Avez-vous déjà utilisé leur capacité de composition ? Ne vous êtes vous jamais dit que cet héritage douteux entre deux classes, ne vous plait pas, mais que faute de mieux, il reste là ?\n\nSans pour autant abuser des concepts de programmation fonctionnelle, nous aimerions vous présenter pendant ce talk à travers de cas concrets, une utilisation plus avancée du package [java.util.function.](http://java.util.function./)\nFonctions anonymes, d’ordre supérieur ou encore la composition de fonctions, toutes ces notions n’auront désormais plus de secret pour vous et trouveront une place de choix dans votre boîte à outils de refactoring.\n\nVous repartirez avec un dépôt git avant/après en prime !\n\nPlus d'information sur le site du JUG : http://bordeauxjug.org/meetings/20260612-les_super_pouvoirs_du_package_java.util.function",
+    "location": "ENSEIRB 1 Avenue du Docteur Albert Schweitzer · Talence",
+    "is_online": false,
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "Meetup MTG:Bordeaux #7",
     "date": "2025-06-03T18:30:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email&utm_campaign=group-new-rsvps",

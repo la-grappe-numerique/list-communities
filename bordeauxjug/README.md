@@ -10,6 +10,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 12 juin 2025 à 19:00 | Les super pouvoirs du package java.util.function | ENSEIRB 1 Avenue du Docteur Albert Schweitzer · Talence | https://www.bordeauxjug.org/ |
+
 ## 📆 Past Events
 
 <details>

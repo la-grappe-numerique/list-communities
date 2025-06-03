@@ -20,8 +20,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
 | Mardi 03 juin 2025 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [Meetup MTG:Bordeaux #7](https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email&utm_campaign=group-new-rsvps) | Betclic, 117 Quai de Bacalan, Bordeaux |
+| Jeudi 12 juin 2025 à 19:00 | [bordeauxjug](bordeauxjug/) | [Les super pouvoirs du package java.util.function](https://www.bordeauxjug.org/) | ENSEIRB 1 Avenue du Docteur Albert Schweitzer · Talence |
 | Samedi 14 juin 2025 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 25.3 - Ecotopia](https://www.meetup.com/agile-bordeaux/events/307181506/?) | Lieu-dit Jambriaud à Saint-Hilaire d'Estissac |
-| Jeudi 26 juin 2025 à 18:30 | [aquinum](aquinum/) | [Happynum de juin](https://www.aquinum.fr/) | Le node, 12 rue des faussets, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

@@ -4770,6 +4770,33 @@ URL:https://www.linkedin.com/events/r-volutionnezvotreuxaveclespwa-7284501
  845102727168/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Les super pouvoirs du package java.util.function
+DTSTART;TZID=Europe/Paris:20250612T190000
+DTEND;TZID=Europe/Paris:20250612T210000
+UID:https://www.bordeauxjug.org/@community-events
+DESCRIPTION:🔗 https://www.bordeauxjug.org/\n📍 ENSEIRB 1 Avenue du Do
+ cteur Albert Schweitzer · Talence\n\nLe package `java.util.function` fêt
+ era ses 11 ans en 2025 et force est de constater que malgré son omniprés
+ ence dans nos développements\, son utilisation reste probablement sous-es
+ timé et mal comprise.\n\nAvez-vous déjà utilisé ces classes comme para
+ mètre de vos méthodes ? Avez-vous déjà utilisé leur capacité de comp
+ osition ? Ne vous êtes vous jamais dit que cet héritage douteux entre de
+ ux classes\, ne vous plait pas\, mais que faute de mieux\, il reste là ?\
+ n\nSans pour autant abuser des concepts de programmation fonctionnelle\, n
+ ous aimerions vous présenter pendant ce talk à travers de cas concrets\,
+  une utilisation plus avancée du package [java.util.function.](http://jav
+ a.util.function./)\nFonctions anonymes\, d’ordre supérieur ou encore la
+  composition de fonctions\, toutes ces notions n’auront désormais plus 
+ de secret pour vous et trouveront une place de choix dans votre boîte à 
+ outils de refactoring.\n\nVous repartirez avec un dépôt git avant/après
+  en prime !\n\nPlus d'information sur le site du JUG : http://bordeauxjug.
+ org/meetings/20260612-les_super_pouvoirs_du_package_java.util.function\n\n
+ Communauté: bordeauxjug
+LOCATION:ENSEIRB 1 Avenue du Docteur Albert Schweitzer · Talence
+TZID:Europe/Paris
+URL:https://www.bordeauxjug.org/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elasticsearch Query Language: ES|QL
 DTSTART;TZID=Europe/Paris:20250320T190000
 DTEND;TZID=Europe/Paris:20250320T210000
