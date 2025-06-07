@@ -1,5 +1,14 @@
 [
   {
+    "title": "Bordeaux Python meetup 2025.1",
+    "date": "2025-06-17T18:30:00",
+    "url": "https://www.meetup.com/py-bdx/events/308081760/",
+    "description": "![Image](https://github.com/user-attachments/assets/3d0f6836-fc74-4456-b21d-5907a05c5c04)\n\n- à 19:00 : **Marimo : des notebooks Python pour remplacer les notebooks Jupyter** (Jean-Luc Charles, consultant IA et data processing)\n- à 19:30 : **Les descripteurs Python : maitrisez l'art du contrôle des attributs** (Luis Iglesias Hernandez, machine learning engineer chez ACC)\n\nPrésentations suivies d'un moment convivial avec des pizzas et goodies\n\nLe meetup est ouvert à [tou.te.s](http://tou.te.s/) les pythonistes novices ou confirmé.e.s.\n\nNous serons reçu par SII Nouvelle Aquitaine dans ses locaux de Mérignac.\nIl est impératif de RSVP sur meetup.com au plus tard le 13 juin.",
+    "community": "bordeaux-python-meetup",
+    "location": "SII, 3 impasse Rudolf Diesel, Mérignac (tram A)",
+    "is_online": false
+  },
+  {
     "title": "Bordeaux Python Meetup 2024.2",
     "date": "2024-12-11T18:30:00+01:00",
     "url": "https://www.meetup.com/py-bdx/events/304470904/",
