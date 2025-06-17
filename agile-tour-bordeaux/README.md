@@ -5,8 +5,7 @@ L'Agile Tour Bordeaux est un événement à but non lucratif ayant lieu tous les
 
 L'Agile Tour Bordeaux est organisé et animé par une équipe enthousiaste de bénévoles, soutenue par l'association Okiwi
 
-✉️ Contact : contact@aquinum.fr
-🌍 Site web : [https://www.aquinum.fr](https://agiletourbordeaux.fr/)
+🌍 Site web : [agiletourbordeaux.fr](https://agiletourbordeaux.fr/)
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
