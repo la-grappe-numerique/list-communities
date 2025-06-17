@@ -90,6 +90,17 @@
     ]
   },
   {
+    "title": "Agile Tour Bordeaux 2025",
+    "date": "2025-10-30T09:00:00",
+    "url": "https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/",
+    "description": "Les jeudi 30 et vendredi 31 : 2  jours de conférences, d’ateliers et de keynotes accessibles gratuitement pour se former, se perfectionner, partager ou découvrir l’Agilité !",
+    "location": "Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat",
+    "is_online": false,
+    "communities": [
+      "agile-tour-bordeaux"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2025-10-06T18:30:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb/",
@@ -1725,6 +1736,24 @@
     ]
   },
   {
+    "title": "Super-Apéro 2024",
+    "date": "2024-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
+    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
+    "is_online": false,
+    "venue": {
+      "name": "38 Rue Capdeville",
+      "address": "38 Rue Capdeville",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "38 Rue Capdeville, Bordeaux",
+    "rsvp_count": 18,
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "Atelier du PO #5 : Lean Coffee",
     "date": "2024-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/299637290/",
@@ -1741,24 +1770,6 @@
     "rsvp_count": 9,
     "communities": [
       "agile-bordeaux"
-    ]
-  },
-  {
-    "title": "Super-Apéro 2024",
-    "date": "2024-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
-    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
-    "is_online": false,
-    "venue": {
-      "name": "38 Rue Capdeville",
-      "address": "38 Rue Capdeville",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "38 Rue Capdeville, Bordeaux",
-    "rsvp_count": 18,
-    "communities": [
-      "afup-bordeaux"
     ]
   },
   {
@@ -2791,24 +2802,6 @@
     ]
   },
   {
-    "title": "JOOQ, joy of SQL",
-    "date": "2023-02-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
-    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Manuel de sabotage du partage de connaissances",
     "date": "2023-02-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjs/events/291437327/",
@@ -2824,6 +2817,24 @@
     "rsvp_count": 22,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "JOOQ, joy of SQL",
+    "date": "2023-02-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
+    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 10,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -2995,24 +3006,6 @@
     ]
   },
   {
-    "title": "Micronaut Test Resources",
-    "date": "2022-10-18T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
-    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 11,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)",
     "date": "2022-10-18T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/289042639/",
@@ -3028,6 +3021,24 @@
     "rsvp_count": 23,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Micronaut Test Resources",
+    "date": "2022-10-18T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
+    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 11,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -4043,17 +4054,6 @@
     ]
   },
   {
-    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
-    "date": "2020-09-30T18:30:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
-    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
-    "is_online": true,
-    "rsvp_count": 36,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
     "date": "2020-09-30T18:30:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
@@ -4062,6 +4062,17 @@
     "rsvp_count": 5,
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
+    "date": "2020-09-30T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
+    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
+    "is_online": true,
+    "rsvp_count": 36,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -4633,6 +4644,24 @@
     ]
   },
   {
+    "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
+    "date": "2019-12-17T19:30:00+01:00",
+    "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
+    "description": "Le prochain meetup #SeriousGamers aura lieu le mardi 17 Décembre et sera accueilli par OASIS COWORKING de 19h30 à 21h30\nPour cette 3eme édition du #LELAB et pour clôturer l'année, nous allons tester de nouveaux #seriousgames.Vous connaissez un serious game et souhaitez le faire découvrir ? C'est le moment ! Rendez vous ici https://docs.google.com/spreadsheets/d/1bRgodh0dq_V4fXkXouaBRyXd5x_U0ocHa5mfej9DKhQ/edit?usp=sharing afin de soumettre les serious game que vous voulez tester et animer.\nLe meetup est ouvert à tous !\nNous terminerons par un amical apéro dinatoire où nous partagerons ce que chacun aura apporté avec lui.\nSeriousgamement vôtre !",
+    "is_online": false,
+    "venue": {
+      "name": "Oasis Coworking - Salles de formation, réunion, entretien - Bureaux - Open Space",
+      "address": "68 Bis Av. Jean Jaurès",
+      "city": "Cenon",
+      "country": "France"
+    },
+    "location": "68 Bis Av. Jean Jaurès, Cenon",
+    "rsvp_count": 21,
+    "communities": [
+      "serious-gamers-bordeaux"
+    ]
+  },
+  {
     "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
     "date": "2019-12-17T19:30:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
@@ -4649,24 +4678,6 @@
     "rsvp_count": 29,
     "communities": [
       "afup-bordeaux"
-    ]
-  },
-  {
-    "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
-    "date": "2019-12-17T19:30:00+01:00",
-    "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
-    "description": "Le prochain meetup #SeriousGamers aura lieu le mardi 17 Décembre et sera accueilli par OASIS COWORKING de 19h30 à 21h30\nPour cette 3eme édition du #LELAB et pour clôturer l'année, nous allons tester de nouveaux #seriousgames.Vous connaissez un serious game et souhaitez le faire découvrir ? C'est le moment ! Rendez vous ici https://docs.google.com/spreadsheets/d/1bRgodh0dq_V4fXkXouaBRyXd5x_U0ocHa5mfej9DKhQ/edit?usp=sharing afin de soumettre les serious game que vous voulez tester et animer.\nLe meetup est ouvert à tous !\nNous terminerons par un amical apéro dinatoire où nous partagerons ce que chacun aura apporté avec lui.\nSeriousgamement vôtre !",
-    "is_online": false,
-    "venue": {
-      "name": "Oasis Coworking - Salles de formation, réunion, entretien - Bureaux - Open Space",
-      "address": "68 Bis Av. Jean Jaurès",
-      "city": "Cenon",
-      "country": "France"
-    },
-    "location": "68 Bis Av. Jean Jaurès, Cenon",
-    "rsvp_count": 21,
-    "communities": [
-      "serious-gamers-bordeaux"
     ]
   },
   {
@@ -5753,24 +5764,6 @@
     ]
   },
   {
-    "title": "Agile Bordeaux 19.1",
-    "date": "2019-01-24T19:00:00+01:00",
-    "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
-    "description": "Le prochain meetup Agile Bordeaux aura lieu le 24 janvier et sera accueilli par Capgemini Bordeaux que nous remercions.\nAu programme :\n19h00 : Accueil, infos courantes, introduction de Scrum en 5 minutes\n19h30 : 2 ateliers en parallèle• Bastien vous propose une Retrospective Storming (~1h30) afin de découvrir et partager différentes pratiques de rétrospective (inspiré de https://fr.slideshare.net/axelvillechalane/support-retrospective-storming-agile-nantes )• Chris vous propose un Aeroplane Game afin d’expérimenter les bienfaits des limites\n20h30 : Echanges autour d’un verre\n21h00 : Il sera temps de nous quitter et de rendre les locaux à nos hôtes de la soirée\n(Ce programme a été co-construit à travers le framapad https://bimestriel.framapad.org/p/agilebdx_19_1)\nA noter :• Nous vous remercions d'amener des boissons (sans alcool) / des snacks à partager pour un moment convivial après les ateliers• N'hésitez pas à nous soumette vos propositions d’ateliers pour cette édition et/ou des lieux d’accueils pour les prochaines",
-    "is_online": false,
-    "venue": {
-      "name": "Capgemini",
-      "address": "19 Allée James Watt",
-      "city": "MERIGNAC",
-      "country": "France"
-    },
-    "location": "19 Allée James Watt, MERIGNAC",
-    "rsvp_count": 43,
-    "communities": [
-      "agile-bordeaux"
-    ]
-  },
-  {
     "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
     "date": "2019-01-24T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
@@ -5786,6 +5779,24 @@
     "rsvp_count": 22,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Agile Bordeaux 19.1",
+    "date": "2019-01-24T19:00:00+01:00",
+    "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
+    "description": "Le prochain meetup Agile Bordeaux aura lieu le 24 janvier et sera accueilli par Capgemini Bordeaux que nous remercions.\nAu programme :\n19h00 : Accueil, infos courantes, introduction de Scrum en 5 minutes\n19h30 : 2 ateliers en parallèle• Bastien vous propose une Retrospective Storming (~1h30) afin de découvrir et partager différentes pratiques de rétrospective (inspiré de https://fr.slideshare.net/axelvillechalane/support-retrospective-storming-agile-nantes )• Chris vous propose un Aeroplane Game afin d’expérimenter les bienfaits des limites\n20h30 : Echanges autour d’un verre\n21h00 : Il sera temps de nous quitter et de rendre les locaux à nos hôtes de la soirée\n(Ce programme a été co-construit à travers le framapad https://bimestriel.framapad.org/p/agilebdx_19_1)\nA noter :• Nous vous remercions d'amener des boissons (sans alcool) / des snacks à partager pour un moment convivial après les ateliers• N'hésitez pas à nous soumette vos propositions d’ateliers pour cette édition et/ou des lieux d’accueils pour les prochaines",
+    "is_online": false,
+    "venue": {
+      "name": "Capgemini",
+      "address": "19 Allée James Watt",
+      "city": "MERIGNAC",
+      "country": "France"
+    },
+    "location": "19 Allée James Watt, MERIGNAC",
+    "rsvp_count": 43,
+    "communities": [
+      "agile-bordeaux"
     ]
   },
   {
@@ -8513,24 +8524,6 @@
     ]
   },
   {
-    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
-    "date": "2017-09-21T19:00:00+02:00",
-    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
-    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 18,
-    "communities": [
-      "okiwi"
-    ]
-  },
-  {
     "title": "AperoJS",
     "date": "2017-09-21T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/243276773/",
@@ -8546,6 +8539,24 @@
     "rsvp_count": 21,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
+    "date": "2017-09-21T19:00:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
+    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 18,
+    "communities": [
+      "okiwi"
     ]
   },
   {
@@ -10928,24 +10939,6 @@
     ]
   },
   {
-    "title": "De Zéro à Héros avec Spring Boot",
-    "date": "2016-03-31T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
-    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 70,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Migrer une application React de MObservable vers Redux",
     "date": "2016-03-31T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/229812115/",
@@ -10962,6 +10955,24 @@
     "rsvp_count": 14,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "De Zéro à Héros avec Spring Boot",
+    "date": "2016-03-31T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
+    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 70,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {

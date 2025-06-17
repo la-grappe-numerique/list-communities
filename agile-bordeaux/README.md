@@ -9,12 +9,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Samedi 14 juin 2025 à 10:00 | Club de lecture 25.3 - Ecotopia | Lieu-dit Jambriaud à Saint-Hilaire d'Estissac | https://www.meetup.com/agile-bordeaux/events/307181506/? |
-
 ## 📆 Past Events
 
 <details>
@@ -22,6 +16,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Samedi 14 juin 2025 à 10:00 | Club de lecture 25.3 - Ecotopia | Lieu-dit Jambriaud à Saint-Hilaire d'Estissac | https://www.meetup.com/agile-bordeaux/events/307181506/? |
 | Samedi 05 avril 2025 à 10:00 | Club de lecture 25.2 - Petit manuel de résistance contemporaine | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/agile-bordeaux/events/306121267/ |
 | Jeudi 13 mars 2025 à 18:30 | Scrum ET Kanban - L’alliage résilient de l’amélioration continue de vos produits | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/agile-bordeaux/events/305865751/ |
 | Samedi 15 février 2025 à 09:00 | Coaching Dojo 25.1 | 13 Rue Archimède, Mérignac | https://www.meetup.com/agile-bordeaux/events/305095745/ |

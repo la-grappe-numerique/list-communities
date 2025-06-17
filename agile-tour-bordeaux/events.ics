@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements agile-tour-bordeaux//Bordeaux Community Events//FR
+X-WR-CALDESC:Calendrier des événements de la communauté agile-tour-bord
+ eaux
+X-WR-CALNAME:Événements agile-tour-bordeaux
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Agile Tour Bordeaux 2025
+DTSTART;TZID=Europe/Paris:20251030T090000
+DTEND;TZID=Europe/Paris:20251030T110000
+UID:https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/@community-
+ events
+DESCRIPTION:🔗 https://agiletourbordeaux.fr/evenements/atbdx-edition-202
+ 5/\n📍 Ynov Campus\, 2 Esplanade de la Gare\, 33110 Le Bouscat\n\nLes je
+ udi 30 et vendredi 31 : 2  jours de conférences\, d’ateliers et de keyn
+ otes accessibles gratuitement pour se former\, se perfectionner\, partager
+  ou découvrir l’Agilité !\n\nCommunauté: agile-tour-bordeaux
+LOCATION:Ynov Campus\, 2 Esplanade de la Gare\, 33110 Le Bouscat
+TZID:Europe/Paris
+URL:https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/
+END:VEVENT
+END:VCALENDAR

@@ -10,12 +10,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Jeudi 12 juin 2025 à 19:00 | Les super pouvoirs du package java.util.function | ENSEIRB 1 Avenue du Docteur Albert Schweitzer · Talence | https://www.bordeauxjug.org/ |
-
 ## 📆 Past Events
 
 <details>
@@ -23,6 +17,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./even
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Jeudi 12 juin 2025 à 19:00 | Les super pouvoirs du package java.util.function | ENSEIRB 1 Avenue du Docteur Albert Schweitzer · Talence | https://www.bordeauxjug.org/ |
 | Jeudi 20 mars 2025 à 19:00 | Elasticsearch Query Language: ES|QL | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/306640938/ |
 | Jeudi 13 mars 2025 à 19:00 | Assemblée Générales 2025 | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/306640736/ |
 | Jeudi 13 février 2025 à 19:00 | Tabby & Continue.dev : la dream team pour un IA coding assistant | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/306028825/ |
