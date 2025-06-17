@@ -6,7 +6,7 @@
 * Cliquer sur "Create"
 * Revenir ici : https://github.com/la-grappe-numerique/list-communities/issues
 * Votre évènement viens d'apparaitre, cliquez dessus. 
-* Appuyez sur le bouton : "sqash and merge" (de mémoire)
+* Appuyez sur le bouton : "squash and merge" (de mémoire)
 * Et voilà ! (l'évènement sera disponible sur le site quelques minutes plus tard. 
 
 
