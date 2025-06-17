@@ -73,6 +73,7 @@ Afin de partager rapidement ces informations, voici un QR code menant au site d�
 ## Nous rejoindre numériquement
 
 Pour nous contacter : [contact@lagrappenumerique.fr](mailto:contact@lagrappenumerique.fr)
+
 Vous pouvez aussi joindre les communautés du numérique bordelais et échanger avec nous sur le Slack d'Okiwi ici : https://okiwi.org/slack/
 
 ## 💫 Contribution
