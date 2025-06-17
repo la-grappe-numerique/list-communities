@@ -12,7 +12,6 @@ L'association organise plus de 150 événements par an, contribuant ainsi active
 
 
 ✉️ Contact : contact@aquinum.fr
-
 🌍 Site web : https://www.aquinum.fr
 
 <!-- EVENTS:START -->
