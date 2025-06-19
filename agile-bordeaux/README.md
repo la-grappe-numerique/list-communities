@@ -14,6 +14,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Samedi 06 septembre 2025 à 10:00 | Club de lecture 25.4 - Les livres de l’été | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux | https://www.meetup.com/agile-bordeaux/events/308541098/ |
+| Samedi 04 octobre 2025 à 10:00 | Club de lecture 25.5 - L’entreprise robuste | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux | https://www.meetup.com/agile-bordeaux/events/308541210/ |
 
 ## 📆 Past Events
 

@@ -5,6 +5,36 @@ X-WR-CALDESC:Calendrier des événements de la communauté agile-bordeaux
 X-WR-CALNAME:Événements agile-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Club de lecture 25.5 - L’entreprise robuste
+DTSTART;TZID=Europe/Paris:20251004T100000
+DTEND;TZID=Europe/Paris:20251004T120000
+UID:https://www.meetup.com/agile-bordeaux/events/308541210/@community-even
+ ts
+DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/308541210/\n
+ 📍 Le Node - Aquinum\, 12 Rue des Faussets · Bordeaux\n\nLe club de lec
+ ture 25.5 se tiendra samedi 4 octobre de 10h00 à 12h00 au Node.\n\nLe liv
+ re sélectionné est “L’entreprise robuste” de Olivier Hamant\, Sand
+ ra Enlart et Olivier Charbonnier.\n\n“S’inspirer du vivant pour constr
+ uire des entreprises robustes\, c’est notre seule chance de survie face 
+ à l’impasse du néolibéralisme écocidaire. À l’approche de violent
+ es fluctuations socio-écologiques et géopolitiques\, la course à la per
+ formance qui gouverne nos modèles économiques nous fragilise.\nEntre l
+ ’effondrement et le mythe de la croissance verte\, une troisième voie e
+ st possible : celle des organisations robustes. L’enjeu est d’intégre
+ r l’impact de l’environnement dans nos activités. Croisant les regard
+ s d’un biologiste et d’experts des organisations\, ce livre révèle l
+ es failles du dogme obsolète de la maximisation des profits et de certain
+ es régulations environnementales.\nAdaptabilité\, circularité\, coopér
+ ation… le monde vivant montre qu’un autre chemin est possible. Des ent
+ reprises pionnières ont donné à leur business model un objectif premier
+  : le respect du territoire écologique et social.\nLa révolution commenc
+ e par les marges\, prenons nos responsabilités.”\n\nCommunauté: agile-
+ bordeaux
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets · Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/agile-bordeaux/events/308541210/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture 25.4 - Les livres de l’été
 DTSTART;TZID=Europe/Paris:20250906T100000
 DTEND;TZID=Europe/Paris:20250906T120000
