@@ -9,6 +9,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Samedi 06 septembre 2025 à 10:00 | Club de lecture 25.4 - Les livres de l’été | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux | https://www.meetup.com/agile-bordeaux/events/308541098/ |
+
 ## 📆 Past Events
 
 <details>

@@ -5,6 +5,21 @@ X-WR-CALDESC:Calendrier des événements de la communauté agile-bordeaux
 X-WR-CALNAME:Événements agile-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Club de lecture 25.4 - Les livres de l’été
+DTSTART;TZID=Europe/Paris:20250906T100000
+DTEND;TZID=Europe/Paris:20250906T120000
+UID:https://www.meetup.com/agile-bordeaux/events/308541098/@community-even
+ ts
+DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/308541098/\n
+ 📍 Le Node - Aquinum\, 12 Rue des Faussets · Bordeaux\n\nLe club de lec
+ ture 25.4 se tiendra samedi 6 septembre de 10h00 à 12h00 au Node.\n\nPour
+  cette session au format estival nous vous proposons de venir partager vos
+  lectures de l’été.\n\nCommunauté: agile-bordeaux
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets · Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/agile-bordeaux/events/308541098/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture 25.3 - Ecotopia
 DTSTART;TZID=Europe/Paris:20250614T100000
 DTEND;TZID=Europe/Paris:20250614T120000
