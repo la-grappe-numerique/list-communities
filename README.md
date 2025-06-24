@@ -27,7 +27,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 - [BordeauxJug](bordeauxjug/)
 - [BordeauxKt](bordeauxkt/)
 - [Bordeaux Python Meetup](bordeaux-python-meetup/)
-- [Bordeaux XR](https://linktr.ee/bordeaux_xr)
+- [Bordeaux XR](bordeaux-xr/)
 - [Café IA](cafe-ia/)
 - [Cloud Native Bordeaux](cloud-native-bordeaux/)
 - [Creative Coding Bordeaux](creative-coding-bordeaux/)
