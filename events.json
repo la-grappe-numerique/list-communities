@@ -195,6 +195,17 @@
     ]
   },
   {
+    "title": "Apéro Web",
+    "date": "2025-07-03T19:00:00",
+    "url": "https://www.linkedin.com/events/l-ap-rowebbordeaux-67343310647826276353/comments/",
+    "description": "🍷🍻 L'Apéro Web Bordeaux\n\nLe principe de l'Apéro Web est simple : réunir les personnes qui font la tech lors d'un afterwork convivial dans un bar bordelais: CEO, CTO, Devs, PO, PM, UX/UI, SEO, SEM, CM, SRE, DA, DevOps, growth hackers etc...\nSi votre métier a un rapport avec le web ou la tech, cet apéro est fait pour vous !\n\n📆 Rendez-vous le jeudi 3 juillet (à partir de 19h)\n📍 Bar L'Engrenage\n\nPensez à rejoindre le groupe LinkedIn pour ne pas râter les news !\n\n🙏 On a besoin de vous pour réunir toutes les personnes qui font le web à Bordeaux et créer un afterwork au top :\n1️⃣ Partagez & likez ce post\n2️⃣ Tagguez vos collègues/amis/connaissances qui travaillent dans le web\n\nOn compte sur vous ! 🤩",
+    "location": "Bar L'Engrenage",
+    "is_online": false,
+    "communities": [
+      "apero-web"
+    ]
+  },
+  {
     "title": "Happynum de juin",
     "date": "2025-06-26T18:30:00",
     "url": "https://www.aquinum.fr/",
@@ -214,6 +225,17 @@
     "is_online": false,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Bordeaux Python meetup 2025.1",
+    "date": "2025-06-17T18:30:00",
+    "url": "https://www.meetup.com/py-bdx/events/308081760/",
+    "description": "![Image](https://github.com/user-attachments/assets/3d0f6836-fc74-4456-b21d-5907a05c5c04)\n\n- à 19:00 : **Marimo : des notebooks Python pour remplacer les notebooks Jupyter** (Jean-Luc Charles, consultant IA et data processing)\n- à 19:30 : **Les descripteurs Python : maitrisez l'art du contrôle des attributs** (Luis Iglesias Hernandez, machine learning engineer chez ACC)\n\nPrésentations suivies d'un moment convivial avec des pizzas et goodies\n\nLe meetup est ouvert à [tou.te.s](http://tou.te.s/) les pythonistes novices ou confirmé.e.s.\n\nNous serons reçu par SII Nouvelle Aquitaine dans ses locaux de Mérignac.\nIl est impératif de RSVP sur meetup.com au plus tard le 13 juin.",
+    "location": "SII, 3 impasse Rudolf Diesel, Mérignac (tram A)",
+    "is_online": false,
+    "communities": [
+      "bordeaux-python-meetup"
     ]
   },
   {

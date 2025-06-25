@@ -60,7 +60,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 |------|------------|--------|-----------|
 | Mercredi 25 juin 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [Endiguer une épidémie d'erreurs TS](https://www.meetup.com/bordeauxjs/events/307822194/) | Le Node, 12 rue des Faussets, 33000, Bordeaux |
 | Jeudi 26 juin 2025 à 18:30 | [aquinum](aquinum/) | [Happynum de juin](https://www.aquinum.fr/) | Le node, 12 rue des faussets, Bordeaux |
-| Lundi 07 juillet 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb/) | 9 Rue de Condé, Bordeaux |
+| Jeudi 03 juillet 2025 à 19:00 | [apero-web](apero-web/) | [Apéro Web](https://www.linkedin.com/events/l-ap-rowebbordeaux-67343310647826276353/comments/) | Bar L'Engrenage |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

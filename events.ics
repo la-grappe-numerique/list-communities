@@ -9758,6 +9758,30 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/143511422/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Apéro Web
+DTSTART;TZID=Europe/Paris:20250703T190000
+DTEND;TZID=Europe/Paris:20250703T210000
+UID:https://www.linkedin.com/events/l-ap-rowebbordeaux-6734331064782627635
+ 3/comments/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/l-ap-rowebbordeaux-673433
+ 10647826276353/comments/\n📍 Bar L'Engrenage\n\n🍷🍻 L'Apéro Web Bo
+ rdeaux\n\nLe principe de l'Apéro Web est simple : réunir les personnes q
+ ui font la tech lors d'un afterwork convivial dans un bar bordelais: CEO\,
+  CTO\, Devs\, PO\, PM\, UX/UI\, SEO\, SEM\, CM\, SRE\, DA\, DevOps\, growt
+ h hackers etc...\nSi votre métier a un rapport avec le web ou la tech\, c
+ et apéro est fait pour vous !\n\n📆 Rendez-vous le jeudi 3 juillet (à 
+ partir de 19h)\n📍 Bar L'Engrenage\n\nPensez à rejoindre le groupe Link
+ edIn pour ne pas râter les news !\n\n🙏 On a besoin de vous pour réuni
+ r toutes les personnes qui font le web à Bordeaux et créer un afterwork 
+ au top :\n1️⃣ Partagez & likez ce post\n2️⃣ Tagguez vos collègues
+ /amis/connaissances qui travaillent dans le web\n\nOn compte sur vous ! 
+ 🤩\n\nCommunauté: apero-web
+LOCATION:Bar L'Engrenage
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/l-ap-rowebbordeaux-6734331064782627635
+ 3/comments/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🍷🍻 L'Apéro Web Bordeaux
 DTSTART;TZID=Europe/Paris:20250305T190000
 DTEND;TZID=Europe/Paris:20250305T210000
@@ -12854,6 +12878,27 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/278556971/\n\nNo
   Événement en ligne\n👥 345 participant(s)
 TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/278556971/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordeaux Python meetup 2025.1
+DTSTART;TZID=Europe/Paris:20250617T183000
+DTEND;TZID=Europe/Paris:20250617T203000
+UID:https://www.meetup.com/py-bdx/events/308081760/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/308081760/\n📍 SII
+ \, 3 impasse Rudolf Diesel\, Mérignac (tram A)\n\n![Image](https://github
+ .com/user-attachments/assets/3d0f6836-fc74-4456-b21d-5907a05c5c04)\n\n- à
+  19:00 : **Marimo : des notebooks Python pour remplacer les notebooks Jupy
+ ter** (Jean-Luc Charles\, consultant IA et data processing)\n- à 19:30 : 
+ **Les descripteurs Python : maitrisez l'art du contrôle des attributs** (
+ Luis Iglesias Hernandez\, machine learning engineer chez ACC)\n\nPrésenta
+ tions suivies d'un moment convivial avec des pizzas et goodies\n\nLe meetu
+ p est ouvert à [tou.te.s](http://tou.te.s/) les pythonistes novices ou co
+ nfirmé.e.s.\n\nNous serons reçu par SII Nouvelle Aquitaine dans ses loca
+ ux de Mérignac.\nIl est impératif de RSVP sur meetup.com au plus tard le
+  13 juin.\n\nCommunauté: bordeaux-python-meetup
+LOCATION:SII\, 3 impasse Rudolf Diesel\, Mérignac (tram A)
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/308081760/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bordeaux Python Meetup 2024.2

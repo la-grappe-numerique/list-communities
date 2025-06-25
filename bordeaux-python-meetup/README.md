@@ -12,6 +12,14 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-python-meetup/events.
 ## 📆 Past Events
 
 <details>
+<summary>2025</summary>
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 17 juin 2025 à 18:30 | Bordeaux Python meetup 2025.1 | SII, 3 impasse Rudolf Diesel, Mérignac (tram A) | https://www.meetup.com/py-bdx/events/308081760/ |
+</details>
+
+<details>
 <summary>2024</summary>
 
 | Date | Event | Location | Link |

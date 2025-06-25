@@ -7,6 +7,27 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeaux-python
 X-WR-CALNAME:Événements bordeaux-python-meetup
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Bordeaux Python meetup 2025.1
+DTSTART;TZID=Europe/Paris:20250617T183000
+DTEND;TZID=Europe/Paris:20250617T203000
+UID:https://www.meetup.com/py-bdx/events/308081760/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/308081760/\n📍 SII
+ \, 3 impasse Rudolf Diesel\, Mérignac (tram A)\n\n![Image](https://github
+ .com/user-attachments/assets/3d0f6836-fc74-4456-b21d-5907a05c5c04)\n\n- à
+  19:00 : **Marimo : des notebooks Python pour remplacer les notebooks Jupy
+ ter** (Jean-Luc Charles\, consultant IA et data processing)\n- à 19:30 : 
+ **Les descripteurs Python : maitrisez l'art du contrôle des attributs** (
+ Luis Iglesias Hernandez\, machine learning engineer chez ACC)\n\nPrésenta
+ tions suivies d'un moment convivial avec des pizzas et goodies\n\nLe meetu
+ p est ouvert à [tou.te.s](http://tou.te.s/) les pythonistes novices ou co
+ nfirmé.e.s.\n\nNous serons reçu par SII Nouvelle Aquitaine dans ses loca
+ ux de Mérignac.\nIl est impératif de RSVP sur meetup.com au plus tard le
+  13 juin.\n\nCommunauté: bordeaux-python-meetup
+LOCATION:SII\, 3 impasse Rudolf Diesel\, Mérignac (tram A)
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/308081760/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bordeaux Python Meetup 2024.2
 DTSTART;TZID=Europe/Paris:20241211T183000
 DTEND;TZID=Europe/Paris:20241211T203000
