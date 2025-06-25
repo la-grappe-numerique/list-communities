@@ -7,8 +7,8 @@ X-WR-CALNAME:Tous les événements communautaires
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Endiguer une épidémie d'erreurs TS
-DTSTART;TZID=Europe/Paris:20250523T190000
-DTEND;TZID=Europe/Paris:20250523T210000
+DTSTART;TZID=Europe/Paris:20250625T190000
+DTEND;TZID=Europe/Paris:20250625T210000
 UID:https://www.meetup.com/bordeauxjs/events/307822194/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/307822194/\n📍
   Le Node\, 12 rue des Faussets\, 33000\, Bordeaux\n\nTypeScript est un out
