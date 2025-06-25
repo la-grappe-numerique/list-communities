@@ -7,6 +7,12 @@
 | Seconde vague                  | https://guild.host/seconde-vague-bdx-i-o/ |
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Vendredi 07 novembre 2025 à 09:00 | BDX I/O | Palais des congrès de Bordeaux, Av. Jean Gabriel Domergue, 33300 Bordeaux | https://bdxio.fr |
+
 ## 📆 Past Events
 
 <details>

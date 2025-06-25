@@ -72,6 +72,17 @@
     ]
   },
   {
+    "title": "BDX I/O",
+    "date": "2025-11-07T09:00:00",
+    "url": "https://bdxio.fr",
+    "description": "BDX I/O est une conférence bordelaise sur le thème de la programmation et de ses métiers annexes.\nLors de l'édition 2024, nous avons reçu plus de 1000 passionné·e·s lors d'une journée de découvertes et de bonne humeur !",
+    "location": "Palais des congrès de Bordeaux, Av. Jean Gabriel Domergue, 33300 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bdx-io"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2025-11-03T18:30:00+01:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb/",

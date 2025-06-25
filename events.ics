@@ -11076,6 +11076,22 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/mtg-bordeaux/events/298066350/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BDX I/O
+DTSTART;TZID=Europe/Paris:20251107T090000
+DTEND;TZID=Europe/Paris:20251107T110000
+UID:https://bdxio.fr@community-events
+DESCRIPTION:🔗 https://bdxio.fr\n📍 Palais des congrès de Bordeaux\, 
+ Av. Jean Gabriel Domergue\, 33300 Bordeaux\n\nBDX I/O est une conférence 
+ bordelaise sur le thème de la programmation et de ses métiers annexes.\n
+ Lors de l'édition 2024\, nous avons reçu plus de 1000 passionné·e·s l
+ ors d'une journée de découvertes et de bonne humeur !\n\nCommunauté: bd
+ x-io
+LOCATION:Palais des congrès de Bordeaux\, Av. Jean Gabriel Domergue\, 333
+ 00 Bordeaux
+TZID:Europe/Paris
+URL:https://bdxio.fr
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Karpenter / Réagir à temps aux menaces dans vos clusters Kuberne
  tes avec Falco et son écosystème
 DTSTART;TZID=Europe/Paris:20250313T190000
