@@ -1,5 +1,14 @@
 [
   {
+    "title": "BDX I/O",
+    "date": "2025-11-07T09:00:00",
+    "url": "https://bdxio.fr",
+    "description": "BDX I/O est une conférence bordelaise sur le thème de la programmation et de ses métiers annexes.\nLors de l'édition 2024, nous avons reçu plus de 1000 passionné·e·s lors d'une journée de découvertes et de bonne humeur !",
+    "community": "bdx-io",
+    "location": "Palais des congrès de Bordeaux, Av. Jean Gabriel Domergue, 33300 Bordeaux",
+    "is_online": false
+  },
+  {
     "title": "Karpenter / Réagir à temps aux menaces dans vos clusters Kubernetes avec Falco et son écosystème",
     "date": "2025-03-13T19:00:00",
     "url": "https://guild.host/events/karpenter-ragir-temps-evmpkp",
