@@ -31,6 +31,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 - [Café IA](cafe-ia/)
 - [Cloud Native Bordeaux](cloud-native-bordeaux/)
 - [Creative Coding Bordeaux](creative-coding-bordeaux/)
+- [DigitalNights](digitalnights/)
 - [Data for Good](data-for-good/)
 - [Framer Bordeaux](framer-bordeaux/)
 - [France Design Week Bordeaux](france-design-week-bordeaux/)
