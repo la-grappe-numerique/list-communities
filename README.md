@@ -4,7 +4,10 @@
 
 <div class="logo"><img src="docs/la_grappe.png"  width="400"/></div>
 
-Nous sommes une trentaine de communautés du numérique bordelais. Nous regroupons des thèmes aussi variés que l'IA, les langages de programation, l'agilité ou l'inclusion par le numérique. 
+La grappe numérique, c'est plus d'une trentaine de communautés du numérique bordelais. 
+
+Nous regroupons des thèmes aussi variés que l'IA, les langages de programmation, l'agilité ou l'inclusion par le numérique. 
+
 Cette page permet de retrouver l'ensemble des communautés et d'accéder à notre calendrier commun.
 
 ## 📅 Calendrier des événements
