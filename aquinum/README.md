@@ -15,9 +15,13 @@ L'association organise plus de 150 événements par an, contribuant ainsi active
 🌍 Site web : https://www.aquinum.fr
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 26 juin 2025 à 18:30 | Happynum de juin | Le node, 12 rue des faussets, Bordeaux | https://www.aquinum.fr/ |
+</details>
 <!-- EVENTS:END -->

@@ -35,6 +35,37 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/308541210/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Soirée Serious Game
+DTSTART;TZID=Europe/Paris:20250916T183000
+DTEND;TZID=Europe/Paris:20250916T203000
+UID:https://www.meetup.com/agile-bordeaux/events/309810368/@community-even
+ ts
+DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/309810368/\n
+ 📍 Capgemini\, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage\
+ n\nQue diriez-vous d'une soirée Serious Game ?\nC'est exactement ce que n
+ ous vous proposons en partenariat avec Serious Gamers in Bordeaux (https:/
+ /www.meetup.com/seriousgamers-bordeaux).\nPour cette belle occasion\, c'es
+ t Capgemini qui nous accueille\, et c'est Alain qui nous a concocté un at
+ elier : **l'usine des animaux en briques**.\n\n_Notre usine fabrique des a
+ nimaux en briques pour le plus grand plaisir des petits et des grands depu
+ is plus de 50 ans.\nDepuis quelques temps nos clients trouvent que nos dé
+ lais de fabrications sont trop importants. Et nous cherchons des solutions
+  pour leur livrer plus vite leurs commandes.\nPour cela nous avons besoin 
+ d'un équipe de professionnels experts en assemblages de briques.\nToi qui
+  lit cela : sauras tu relever le défi et nous sauver de la banqueroute ?\
+ nNous désespérons de trouver une solution. Sera tu la bonne personne ?\n
+ Au travers de la manipulation des briques LEGO nous allons explorer le flu
+ x et ces aléas pour en tirer de précieux enseignements qui nous aiderons
+  certainement dans notre quotidien de professionnels_\n\nMais n'attendez p
+ as plus : réservez dores et déjà votre soirée !\n\nOn vous attend donc
+  le 16 septembre à 18h30\, entrée D du bâtiment\, 2ème étage.\n\nComm
+ unauté: agile-bordeaux
+LOCATION:Capgemini\, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e ét
+ age
+TZID:Europe/Paris
+URL:https://www.meetup.com/agile-bordeaux/events/309810368/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture 25.4 - Les livres de l’été
 DTSTART;TZID=Europe/Paris:20250906T100000
 DTEND;TZID=Europe/Paris:20250906T120000

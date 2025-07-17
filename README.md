@@ -62,9 +62,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 25 juin 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [Endiguer une épidémie d'erreurs TS](https://www.meetup.com/bordeauxjs/events/307822194/) | Le Node, 12 rue des Faussets, 33000, Bordeaux |
-| Jeudi 26 juin 2025 à 18:30 | [aquinum](aquinum/) | [Happynum de juin](https://www.aquinum.fr/) | Le node, 12 rue des faussets, Bordeaux |
-| Jeudi 03 juillet 2025 à 19:00 | [apero-web](apero-web/) | [Apéro Web](https://www.linkedin.com/events/l-ap-rowebbordeaux-67343310647826276353/comments/) | Bar L'Engrenage |
+| Lundi 04 août 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhclbgb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 01 septembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcmbcb/) | 9 Rue de Condé, Bordeaux |
+| Samedi 06 septembre 2025 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 25.4 - Les livres de l’été](https://www.meetup.com/agile-bordeaux/events/308541098/) | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
