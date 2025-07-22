@@ -152,6 +152,17 @@
     ]
   },
   {
+    "title": "Caupain : comment vous aussi, vous pouvez créer un outil open source",
+    "date": "2025-09-11T19:00:00",
+    "url": "https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-pouvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator",
+    "description": "### Caupain : qu'est-ce que c'est ?\n\nChez Deezer, nous avions besoin d’un outil pour gérer nos mises à jour de dépendances, et les solutions existantes ne nous suffisaient pas. La solution ? On a fait notre propre outil ! Et comme on a l’habitude de coder en Kotlin, on s’est dit qu’on allait faire ça avec Kotlin Multiplaform ! Dans ce talk, vous découvrirez :\n- Quelles librairies utiliser pour un outil en ligne de commande\n- Comment le distribuer pour que le maximum de personnes en profite\n- Comment en faire un projet open source et ce que ça implique\nAvec tout ça, vous serez fin prêts pour faire votre propre outil adapté à vos besoins !\n\n### Caupain : qui c'est ?\n\nValentin développe depuis maintenant presque 20 ans, d’abord en Java puis il s’est jeté sur Android dès que ça été possible, et n’en est plus jamais sorti. Il est Senior Developer à Deezer depuis 2024, et contribue à divers projets Open Source en dehors.",
+    "location": "Deezer, 20 Rue Saint-François, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeauxkt"
+    ]
+  },
+  {
     "title": "Club de lecture 25.4 - Les livres de l’été",
     "date": "2025-09-06T10:00:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/308541098/",

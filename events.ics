@@ -15974,6 +15974,36 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/227009931/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caupain : comment vous aussi\, vous pouvez créer un outil open so
+ urce
+DTSTART;TZID=Europe/Paris:20250911T190000
+DTEND;TZID=Europe/Paris:20250911T210000
+UID:https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-po
+ uvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator@community-
+ events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/billets-caupain-comment-vous-
+ aussi-vous-pouvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreat
+ or\n📍 Deezer\, 20 Rue Saint-François\, 33000 Bordeaux\n\n### Caupain :
+  qu'est-ce que c'est ?\n\nChez Deezer\, nous avions besoin d’un outil po
+ ur gérer nos mises à jour de dépendances\, et les solutions existantes 
+ ne nous suffisaient pas. La solution ? On a fait notre propre outil ! Et c
+ omme on a l’habitude de coder en Kotlin\, on s’est dit qu’on allait 
+ faire ça avec Kotlin Multiplaform ! Dans ce talk\, vous découvrirez :\n-
+  Quelles librairies utiliser pour un outil en ligne de commande\n- Comment
+  le distribuer pour que le maximum de personnes en profite\n- Comment en f
+ aire un projet open source et ce que ça implique\nAvec tout ça\, vous se
+ rez fin prêts pour faire votre propre outil adapté à vos besoins !\n\n#
+ ## Caupain : qui c'est ?\n\nValentin développe depuis maintenant presque 
+ 20 ans\, d’abord en Java puis il s’est jeté sur Android dès que ça 
+ été possible\, et n’en est plus jamais sorti. Il est Senior Developer 
+ à Deezer depuis 2024\, et contribue à divers projets Open Source en deho
+ rs.\n\nCommunauté: bordeauxkt
+LOCATION:Deezer\, 20 Rue Saint-François\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-po
+ uvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BDX I/O
 DTSTART;TZID=Europe/Paris:20251107T090000
 DTEND;TZID=Europe/Paris:20251107T110000
