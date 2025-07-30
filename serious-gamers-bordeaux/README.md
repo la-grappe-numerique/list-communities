@@ -1,13 +1,58 @@
-# Serious Gamers Bordeaux
+# SeriousGamers Bordeaux ![Logo SG](./LogoSG.png ':size=100')
 
-|                                |     |
+![SG Bordeaux](./SG%20Bdx.png)
+
+## De quoi s'agit-il ? 
+
+#SeriousGamers est une communauté auto-organisée qui propose des ateliers d’apprentissage pratiques et des rencontres autour des Serious Games, dans des domaines aussi variés que l’agilité en entreprises, l’amélioration de soi, la découverte de nouveaux modes de pensées, le bien-être et l’apprentissage en général.
+
+## C’est quoi un serious game ?
+
+Un serious game (jeu sérieux en anglais) est une activité ludique qui permet d’allier divertissement et transmission d’une information, apprentissage, entraînement, ou encore partage d’idées.
+
+En d’autres termes, une bonne façon d’apprendre plus en 1 heure qu’en plusieurs jours, voire semaines de pratiques.
+
+## Mais alors, c’est quoi #SeriousGamers ?
+
+#SeriousGamers est une communauté, composée d’amateurs et de professionnels qui veulent pouvoir partager et apprendre par le biais des SG (Serious Games). Elle ne se limite pas aux thèmes touchant les entreprises technologiques, c’est-à-dire que si vous désirez créer un SG pour expliquer les différents statuts juridiques d’une entreprise, vous pouvez.
+
+## Communauté, explications ?
+
+Cela signifie que :
+
+- N’importe quel membre peut devenir organisateur d’événement tant qu’il adhère aux valeurs et principes régis par la communauté.
+- N’importe quel organisateur d’événement peut créer un nouveau cercle tant que celui-ci répond aux valeurs et principes régis par la communauté et est soutenu par un minimum de membres.
+- En cas de désaccord, les membres s’engagent à utiliser les outils mis à disposition pour résoudre les conflits, avec en dernière instance et dans les cas rares la possibilité aux membres fondateurs de trancher.
+
+### Valeurs défendues par la communauté #SeriousGamers
+
+- **Auto-organisation** : La communauté doit utiliser les outils mis à disposition afin de respecter au mieux le concept de gouvernance partagée
+- **Entraide** : Les interactions au sein de la communauté ainsi qu’avec les personnes impactées doivent être bienveillantes, avoir une démarche positive et de soutien pour l’intérêt collectif
+- **Apprentissage réciproque** : L’expérience acquise lors d’un SG doit être de qualité tant pour les membres que pour les organisateurs.
+- **Ouverture** : Construire des espaces de coopération et de transmission de savoir au sein et en dehors de la communauté
+
+**_“Une instruction qu'on reçoit sans la transmettre forme des esprits sans dynamisme, sans autocritique.”_** Gaston Bachelard
+
+Venez découvrir de nouvelles techniques, apprendre sur des sujets complexes avec une approche ludique et positive !
+
+
+| Nous rejoindre |  |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Nicolas Pascaud |
-| 🌍 Site web                    | https://www.meetup.com/seriousgamers-bordeaux/?eventOrigin=event_home_page |
+| ✉️ Qui contacter ?             | Nicolas Pascaud |
+| 🌍 Site web                    | https://www.eventbrite.fr/o/seriousgamers-bordeaux-114307463111 |
 | ✨ Slack                       | https://join.slack.com/t/seriousgamers-group/shared_invite/zt-8aft7wb5-hBrTFMupY2vWLfyUGFDcKg |
 
 Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/serious-gamers-bordeaux/events.ics](./events.ics ':ignore')
+
+<!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 16 Septembre 2025 à 18:30 | Soirée Serious Game | Capgemini Mérignac 19 All. James Watt · MERIGNAC | https://www.eventbrite.fr/e/1544424387919?aff=oddtdtcreator |
+<!-- EVENTS:END -->
+
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
