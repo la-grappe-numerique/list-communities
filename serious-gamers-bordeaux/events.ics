@@ -7,6 +7,36 @@ X-WR-CALDESC:Calendrier des événements de la communauté serious-gamers-
 X-WR-CALNAME:Événements serious-gamers-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Soirée Serious Game
+DTSTART;TZID=Europe/Paris:20250916T183000
+DTEND;TZID=Europe/Paris:20250916T203000
+UID:https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/fr-FR/agile-bordeaux/events/309810
+ 368/\n📍 Capgemini Mérignac 19 All. James Watt · MERIGNAC\n\nQue dirie
+ z-vous d'une soirée Serious Game ?\nC'est exactement ce que nous vous pro
+ posons en partenariat avec Serious Gamers in Bordeaux (https://www.meetup.
+ com/seriousgamers-bordeaux).\nPour cette belle occasion\, c'est Capgemini 
+ qui nous accueille\, et c'est Alain qui nous a concocté un atelier : l'us
+ ine des animaux en briques.\n\nNotre usine fabrique des animaux en briques
+  pour le plus grand plaisir des petits et des grands depuis plus de 50 ans
+ .\nDepuis quelques temps nos clients trouvent que nos délais de fabricati
+ ons sont trop importants. Et nous cherchons des solutions pour leur livrer
+  plus vite leurs commandes.\nPour cela nous avons besoin d'un équipe de p
+ rofessionnels experts en assemblages de briques.\nToi qui lit cela : saura
+ s tu relever le défi et nous sauver de la banqueroute ?\nNous désespéro
+ ns de trouver une solution. Sera tu la bonne personne ?\nAu travers de la 
+ manipulation des briques LEGO nous allons explorer le flux et ces aléas p
+ our en tirer de précieux enseignements qui nous aiderons certainement dan
+ s notre quotidien de professionnels\n\nMais n'attendez pas plus : réserve
+ z dores et déjà votre soirée !\n\nOn vous attend donc le 16 septembre 
+ à 18h30\, entrée D du bâtiment\, 2ème étage.\n\nCommunauté: serious-
+ gamers-bordeaux
+LOCATION:Capgemini Mérignac 19 All. James Watt · MERIGNAC
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🌟 Wicked AI: Relevez les défis de demain dans un monde BANI 
  🌟
 DTSTART;TZID=Europe/Paris:20241107T183000

@@ -65,7 +65,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 | Lundi 04 août 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhclbgb/) | 9 Rue de Condé, Bordeaux |
 | Lundi 01 septembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcmbcb/) | 9 Rue de Condé, Bordeaux |
 | Samedi 06 septembre 2025 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 25.4 - Les livres de l’été](https://www.meetup.com/agile-bordeaux/events/308541098/) | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux |
-| Mardi 16 septembre 2025 à 18:30 | [SeriousGamers Bordeaux](serious-gamers-bordeaux/) | [Soirée Serious Game](https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/) | Capgemini Mérignac, 19 All. James Watt · MERIGNAC |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

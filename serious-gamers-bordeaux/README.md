@@ -50,11 +50,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/serious-gamers-bordeaux/events
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mardi 16 Septembre 2025 à 18:30 | Soirée Serious Game | Capgemini Mérignac 19 All. James Watt · MERIGNAC | https://www.eventbrite.fr/e/1544424387919?aff=oddtdtcreator |
-<!-- EVENTS:END -->
+| Mardi 16 septembre 2025 à 18:30 | Soirée Serious Game | Capgemini Mérignac 19 All. James Watt · MERIGNAC | https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/ |
 
-
-<!-- EVENTS:START -->
 ## 📆 Past Events
 
 <details>
