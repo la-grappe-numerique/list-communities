@@ -1,8 +1,14 @@
 # Agile Bordeaux
+<img width="960" height="540" alt="Agile Bordeaux - Identité" src="https://github.com/user-attachments/assets/c388fe94-48f5-45ca-aaa0-b10f60747671" />
+ 
 
-|                                |     |
+**Agile Bordeaux** est animé par des agilistes bénévoles et passionné.e.s, plaçant le partage au centre de leur propre évolution.
+Nos événements sont généralement hébergés par des entreprises bordelaises, avec la volontée assumée de créer des opportunités de connexions.
+ 
+
+| Agile Bordeaux              |    |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Chris Deniaud |
+| ✉️ Qui contacter ?              | [Chris Deniaud](mailto:agilite@deniaud.eu) |
 | 🌍 Site web                    | https://www.meetup.com/fr-FR/agile-bordeaux/ |
 
 Le calendrier des évènements est disponible au format iCal.
