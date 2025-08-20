@@ -1,5 +1,14 @@
 [
   {
+    "title": "La clean architecture et les tests unitaires : et si c'était simple ?",
+    "date": "2025-09-18T19:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",
+    "description": "Quand on parle de clean architecture, on imagine très souvent une architecture et une structuration de dossiers complexes, avec beaucoup d’abstraction. Cette représentation laisse à penser que les bénéfices apportés ne valent pas les efforts et la difficulté de mise en place.\n\nMais si la clean architecture était en fait simple ?\n\nLes tests unitaires trainent aussi cette image de complexité, avec un test par classe et toutes les stratégies de mocks. Et une fois qu’ils sont créés, ils peuvent être vus comme un frein à la refactorisation.\n\nMais si les tests unitaires permettaient au contraire d’améliorer la confiance lors d’une refactorisation ? Et si, associés à la Clean Erchitecture, leur création devenait un jeu d’enfant ?",
+    "community": "bordeauxjs",
+    "location": "Le Node, 12 rue des Faussets, Bordeaux, France",
+    "is_online": false
+  },
+  {
     "title": "Endiguer une épidémie d'erreurs TS",
     "date": "2025-06-25T19:00:00",
     "url": "https://www.meetup.com/bordeauxjs/events/307822194/",
