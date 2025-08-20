@@ -1,6 +1,5 @@
 # Agile Bordeaux
-<img width="960" height="540" alt="Agile Bordeaux - Identité" src="https://github.com/user-attachments/assets/c388fe94-48f5-45ca-aaa0-b10f60747671" />
- 
+![resume](./resume_agile_bordeaux.png)
 
 **Agile Bordeaux** est animé par des agilistes bénévoles et passionné.e.s, plaçant le partage au centre de leur propre évolution.
 Nos événements sont généralement hébergés par des entreprises bordelaises, avec la volontée assumée de créer des opportunités de connexions.
