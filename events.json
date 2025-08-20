@@ -141,9 +141,20 @@
     ]
   },
   {
+    "title": "La clean architecture et les tests unitaires : et si c'était simple ?",
+    "date": "2025-09-18T19:00:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",
+    "description": "Quand on parle de clean architecture, on imagine très souvent une architecture et une structuration de dossiers complexes, avec beaucoup d’abstraction. Cette représentation laisse à penser que les bénéfices apportés ne valent pas les efforts et la difficulté de mise en place.\n\nMais si la clean architecture était en fait simple ?\n\nLes tests unitaires trainent aussi cette image de complexité, avec un test par classe et toutes les stratégies de mocks. Et une fois qu’ils sont créés, ils peuvent être vus comme un frein à la refactorisation.\n\nMais si les tests unitaires permettaient au contraire d’améliorer la confiance lors d’une refactorisation ? Et si, associés à la Clean Erchitecture, leur création devenait un jeu d’enfant ?",
+    "location": "Le Node, 12 rue des Faussets, Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
+    ]
+  },
+  {
     "title": "Soirée Serious Game",
     "date": "2025-09-16T18:30:00",
-    "url": "https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/",
+    "url": "https://www.meetup.com/agile-bordeaux/events/309810368/",
     "description": "Que diriez-vous d'une soirée Serious Game ?\nC'est exactement ce que nous vous proposons en partenariat avec Serious Gamers in Bordeaux (https://www.meetup.com/seriousgamers-bordeaux).\nPour cette belle occasion, c'est Capgemini qui nous accueille, et c'est Alain qui nous a concocté un atelier : **l'usine des animaux en briques**.\n\n_Notre usine fabrique des animaux en briques pour le plus grand plaisir des petits et des grands depuis plus de 50 ans.\nDepuis quelques temps nos clients trouvent que nos délais de fabrications sont trop importants. Et nous cherchons des solutions pour leur livrer plus vite leurs commandes.\nPour cela nous avons besoin d'un équipe de professionnels experts en assemblages de briques.\nToi qui lit cela : sauras tu relever le défi et nous sauver de la banqueroute ?\nNous désespérons de trouver une solution. Sera tu la bonne personne ?\nAu travers de la manipulation des briques LEGO nous allons explorer le flux et ces aléas pour en tirer de précieux enseignements qui nous aiderons certainement dans notre quotidien de professionnels_\n\nMais n'attendez pas plus : réservez dores et déjà votre soirée !\n\nOn vous attend donc le 16 septembre à 18h30, entrée D du bâtiment, 2ème étage.",
     "location": "Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage",
     "is_online": false,
@@ -508,24 +519,6 @@
     ]
   },
   {
-    "title": "Assemblée Générales 2025",
-    "date": "2025-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
-    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 6,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Meetup #8 @BDX/IO @Deezer : Falco et Karpenter",
     "date": "2025-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/cloud-native-computing-bordeaux/events/306534174/",
@@ -542,6 +535,24 @@
     "rsvp_count": 8,
     "communities": [
       "cloud-native-bordeaux"
+    ]
+  },
+  {
+    "title": "Assemblée Générales 2025",
+    "date": "2025-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
+    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 6,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -622,24 +633,6 @@
     ]
   },
   {
-    "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
-    "date": "2025-02-26T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
-    "description": "Pour cet événement on se posera des questions sur la mémoire !Pas de jeux pour renforcer notre mémoire 😛 Certes PHP a 30 ans cette année mais quand même 😛\n**Un talk pour en découvrir plus sur la gestion mémoire en PHP par [Nicolas Perussel](https://www.linkedin.com/in/nicolas-perussel-php/), CTO chez [ekino](https://www.ekino.com/).**\n\\-\\-\\-Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\\-\\-\\-\nLa parole au speakeur 📣\n***\\#\\#\\# Une approche du ZMM \\(Zend Memory Manager\\)****Plongez dans les coulisses de la gestion mémoire en PHP*\n*Avez-vous déjà rencontré des problèmes de mémoire avec vos applications PHP ? Savez-vous vraiment comment PHP gère la mémoire en coulisses ?**Venez découvrir les secrets du Zend Memory Manager, le composant crucial qui gère l'allocation mémoire dans le moteur PHP.**Durant cette session technique, nous explorerons :*\n* *L'architecture interne du Zend Memory Manager et son rôle dans le cycle de vie des scripts PHP** *Les stratégies d'allocation et de libération de mémoire** *L'impact des différentes structures de données sur la consommation mémoire** *Les outils de profilage et de debugging pour traquer les fuites mémoire*\n*C'est relativement dense, mais l'approche restera simple et didactique.**J'espère ne rien avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bordeaux,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le 20 mars, réservez votre soirée dés maintenant !",
-    "is_online": false,
-    "venue": {
-      "name": "EKINO - 33000",
-      "address": "1 Cr Xavier Arnozan",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "rsvp_count": 18,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "La gestion d'erreurs en Javascript",
     "date": "2025-02-26T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjs/events/306025718/",
@@ -655,6 +648,24 @@
     "rsvp_count": 47,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
+    "date": "2025-02-26T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
+    "description": "Pour cet événement on se posera des questions sur la mémoire !Pas de jeux pour renforcer notre mémoire 😛 Certes PHP a 30 ans cette année mais quand même 😛\n**Un talk pour en découvrir plus sur la gestion mémoire en PHP par [Nicolas Perussel](https://www.linkedin.com/in/nicolas-perussel-php/), CTO chez [ekino](https://www.ekino.com/).**\n\\-\\-\\-Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\\-\\-\\-\nLa parole au speakeur 📣\n***\\#\\#\\# Une approche du ZMM \\(Zend Memory Manager\\)****Plongez dans les coulisses de la gestion mémoire en PHP*\n*Avez-vous déjà rencontré des problèmes de mémoire avec vos applications PHP ? Savez-vous vraiment comment PHP gère la mémoire en coulisses ?**Venez découvrir les secrets du Zend Memory Manager, le composant crucial qui gère l'allocation mémoire dans le moteur PHP.**Durant cette session technique, nous explorerons :*\n* *L'architecture interne du Zend Memory Manager et son rôle dans le cycle de vie des scripts PHP** *Les stratégies d'allocation et de libération de mémoire** *L'impact des différentes structures de données sur la consommation mémoire** *Les outils de profilage et de debugging pour traquer les fuites mémoire*\n*C'est relativement dense, mais l'approche restera simple et didactique.**J'espère ne rien avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bordeaux,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le 20 mars, réservez votre soirée dés maintenant !",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "rsvp_count": 18,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -1814,24 +1825,6 @@
     ]
   },
   {
-    "title": "Super-Apéro 2024",
-    "date": "2024-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
-    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
-    "is_online": false,
-    "venue": {
-      "name": "38 Rue Capdeville",
-      "address": "38 Rue Capdeville",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "38 Rue Capdeville, Bordeaux",
-    "rsvp_count": 18,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Atelier du PO #5 : Lean Coffee",
     "date": "2024-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/299637290/",
@@ -1848,6 +1841,24 @@
     "rsvp_count": 9,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Super-Apéro 2024",
+    "date": "2024-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
+    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
+    "is_online": false,
+    "venue": {
+      "name": "38 Rue Capdeville",
+      "address": "38 Rue Capdeville",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "38 Rue Capdeville, Bordeaux",
+    "rsvp_count": 18,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -3626,6 +3637,17 @@
     ]
   },
   {
+    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
+    "date": "2021-11-16T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
+    "is_online": true,
+    "rsvp_count": 3,
+    "communities": [
+      "aws-bordeaux"
+    ]
+  },
+  {
     "title": "Java 17 la dernière LTS par Rémi Forax",
     "date": "2021-11-16T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/281736541/",
@@ -3641,17 +3663,6 @@
     "rsvp_count": 38,
     "communities": [
       "bordeauxjug"
-    ]
-  },
-  {
-    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
-    "date": "2021-11-16T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
-    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
-    "is_online": true,
-    "rsvp_count": 3,
-    "communities": [
-      "aws-bordeaux"
     ]
   },
   {
@@ -4722,24 +4733,6 @@
     ]
   },
   {
-    "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
-    "date": "2019-12-17T19:30:00+01:00",
-    "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
-    "description": "Le prochain meetup #SeriousGamers aura lieu le mardi 17 Décembre et sera accueilli par OASIS COWORKING de 19h30 à 21h30\nPour cette 3eme édition du #LELAB et pour clôturer l'année, nous allons tester de nouveaux #seriousgames.Vous connaissez un serious game et souhaitez le faire découvrir ? C'est le moment ! Rendez vous ici https://docs.google.com/spreadsheets/d/1bRgodh0dq_V4fXkXouaBRyXd5x_U0ocHa5mfej9DKhQ/edit?usp=sharing afin de soumettre les serious game que vous voulez tester et animer.\nLe meetup est ouvert à tous !\nNous terminerons par un amical apéro dinatoire où nous partagerons ce que chacun aura apporté avec lui.\nSeriousgamement vôtre !",
-    "is_online": false,
-    "venue": {
-      "name": "Oasis Coworking - Salles de formation, réunion, entretien - Bureaux - Open Space",
-      "address": "68 Bis Av. Jean Jaurès",
-      "city": "Cenon",
-      "country": "France"
-    },
-    "location": "68 Bis Av. Jean Jaurès, Cenon",
-    "rsvp_count": 21,
-    "communities": [
-      "serious-gamers-bordeaux"
-    ]
-  },
-  {
     "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
     "date": "2019-12-17T19:30:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
@@ -4756,6 +4749,24 @@
     "rsvp_count": 29,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
+    "date": "2019-12-17T19:30:00+01:00",
+    "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
+    "description": "Le prochain meetup #SeriousGamers aura lieu le mardi 17 Décembre et sera accueilli par OASIS COWORKING de 19h30 à 21h30\nPour cette 3eme édition du #LELAB et pour clôturer l'année, nous allons tester de nouveaux #seriousgames.Vous connaissez un serious game et souhaitez le faire découvrir ? C'est le moment ! Rendez vous ici https://docs.google.com/spreadsheets/d/1bRgodh0dq_V4fXkXouaBRyXd5x_U0ocHa5mfej9DKhQ/edit?usp=sharing afin de soumettre les serious game que vous voulez tester et animer.\nLe meetup est ouvert à tous !\nNous terminerons par un amical apéro dinatoire où nous partagerons ce que chacun aura apporté avec lui.\nSeriousgamement vôtre !",
+    "is_online": false,
+    "venue": {
+      "name": "Oasis Coworking - Salles de formation, réunion, entretien - Bureaux - Open Space",
+      "address": "68 Bis Av. Jean Jaurès",
+      "city": "Cenon",
+      "country": "France"
+    },
+    "location": "68 Bis Av. Jean Jaurès, Cenon",
+    "rsvp_count": 21,
+    "communities": [
+      "serious-gamers-bordeaux"
     ]
   },
   {
@@ -4924,24 +4935,6 @@
     ]
   },
   {
-    "title": "La JVM et Docker, vers une symbiose parfaite !",
-    "date": "2019-10-17T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
-    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 43,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
     "date": "2019-10-17T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
@@ -4957,6 +4950,24 @@
     "rsvp_count": 54,
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "La JVM et Docker, vers une symbiose parfaite !",
+    "date": "2019-10-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
+    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 43,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -5842,24 +5853,6 @@
     ]
   },
   {
-    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
-    "date": "2019-01-24T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
-    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
-    "is_online": false,
-    "venue": {
-      "name": "Le Zytho",
-      "address": "28 Rue Latour",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "28 Rue Latour, Bordeaux",
-    "rsvp_count": 22,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Agile Bordeaux 19.1",
     "date": "2019-01-24T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
@@ -5875,6 +5868,24 @@
     "rsvp_count": 43,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
+    "date": "2019-01-24T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
+    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
+    "is_online": false,
+    "venue": {
+      "name": "Le Zytho",
+      "address": "28 Rue Latour",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "28 Rue Latour, Bordeaux",
+    "rsvp_count": 22,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -9420,25 +9431,6 @@
     ]
   },
   {
-    "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
-    "date": "2017-05-23T18:45:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
-    "description": "Hello à tous, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi, qui va traiter de \nCQRS, Fonctionnel, Event Sourcing & Domain Driven Design, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est dans le lien - il s'agit d'une présentation qui permettra de prendre un peu de hauteur sur des concepts qui sortent des spécificités des langages, et que je vous promet être très intéressante !\nPour faciliter la gestion de l'événement, inscrivez-vous de préférence via le lien ci-dessus :) \nTrès bonne journée à tous,",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 10,
-    "rsvp_count": 9,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
     "date": "2017-05-23T18:45:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/239156476/",
@@ -9455,6 +9447,25 @@
     "rsvp_count": 62,
     "communities": [
       "okiwi"
+    ]
+  },
+  {
+    "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
+    "date": "2017-05-23T18:45:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
+    "description": "Hello à tous, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi, qui va traiter de \nCQRS, Fonctionnel, Event Sourcing & Domain Driven Design, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est dans le lien - il s'agit d'une présentation qui permettra de prendre un peu de hauteur sur des concepts qui sortent des spécificités des langages, et que je vous promet être très intéressante !\nPour faciliter la gestion de l'événement, inscrivez-vous de préférence via le lien ci-dessus :) \nTrès bonne journée à tous,",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 10,
+    "rsvp_count": 9,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {

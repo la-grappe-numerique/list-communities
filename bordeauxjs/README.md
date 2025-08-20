@@ -10,6 +10,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 18 septembre 2025 à 19:00 | La clean architecture et les tests unitaires : et si c'était simple ? | Le Node, 12 rue des Faussets, Bordeaux, France | https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2 |
+
 ## 📆 Past Events
 
 <details>

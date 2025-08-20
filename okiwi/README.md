@@ -22,7 +22,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](./events.ics
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Lundi 04 août 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhclbgb/ |
 | Lundi 01 septembre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcmbcb/ |
 | Lundi 06 octobre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb/ |
 | Lundi 03 novembre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb/ |
@@ -38,6 +37,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](./events.ics
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Lundi 04 août 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhclbgb/ |
 | Lundi 07 juillet 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhckbkb/ |
 | Lundi 02 juin 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcjbdb/ |
 | Lundi 05 mai 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhchbhb/ |

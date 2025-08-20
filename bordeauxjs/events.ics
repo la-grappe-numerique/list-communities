@@ -5,6 +5,34 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:La clean architecture et les tests unitaires : et si c'était simp
+ le ?
+DTSTART;TZID=Europe/Paris:20250918T190000
+DTEND;TZID=Europe/Paris:20250918T210000
+UID:https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referra
+ l&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_versi
+ on=v2@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/310609693/?utm_m
+ edium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=l
+ ink&utm_version=v2\n📍 Le Node\, 12 rue des Faussets\, Bordeaux\, France
+ \n\nQuand on parle de clean architecture\, on imagine très souvent une ar
+ chitecture et une structuration de dossiers complexes\, avec beaucoup d’
+ abstraction. Cette représentation laisse à penser que les bénéfices ap
+ portés ne valent pas les efforts et la difficulté de mise en place.\n\nM
+ ais si la clean architecture était en fait simple ?\n\nLes tests unitaire
+ s trainent aussi cette image de complexité\, avec un test par classe et t
+ outes les stratégies de mocks. Et une fois qu’ils sont créés\, ils pe
+ uvent être vus comme un frein à la refactorisation.\n\nMais si les tests
+  unitaires permettaient au contraire d’améliorer la confiance lors d’
+ une refactorisation ? Et si\, associés à la Clean Erchitecture\, leur cr
+ éation devenait un jeu d’enfant ?\n\nCommunauté: bordeauxjs
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referra
+ l&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_versi
+ on=v2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Endiguer une épidémie d'erreurs TS
 DTSTART;TZID=Europe/Paris:20250625T190000
 DTEND;TZID=Europe/Paris:20250625T210000
