@@ -64,7 +64,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 |------|------------|--------|-----------|
 | Lundi 01 septembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcmbcb/) | 9 Rue de Condé, Bordeaux |
 | Samedi 06 septembre 2025 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 25.4 - Les livres de l’été](https://www.meetup.com/agile-bordeaux/events/308541098/) | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux |
-| Jeudi 11 septembre 2025 à 19:00 | [bordeauxkt](bordeauxkt/) | [Caupain : comment vous aussi, vous pouvez créer un outil open source](https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-pouvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator) | Deezer, 20 Rue Saint-François, 33000 Bordeaux |
+| Lundi 08 septembre 2025 à 12:00 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Sopra Steria s'engage pour les femmes dans la tech : découvrez l'histoire derrière la création de sa communauté "Tech'Women UP" !](https://www.linkedin.com/events/7359251198748622851/) | En ligne |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

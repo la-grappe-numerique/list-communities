@@ -9,6 +9,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/women-in-tech-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Lundi 08 septembre 2025 à 12:00 | Sopra Steria s'engage pour les femmes dans la tech : découvrez l'histoire derrière la création de sa communauté "Tech'Women UP" ! | En ligne | https://www.linkedin.com/events/7359251198748622851/ |
+
 ## 📆 Past Events
 
 <details>
