@@ -5,6 +5,41 @@ X-WR-CALDESC:Calendrier des événements de la communauté mtg-bordeaux
 X-WR-CALNAME:Événements mtg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:VS Code Dev Days Bordeaux
+DTSTART;TZID=Europe/Paris:20250929T180000
+DTEND;TZID=Europe/Paris:20250929T200000
+UID:https://www.meetup.com/mtg-bordeaux/events/310407674@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/310407674\n
+ 📍 Microsoft Lab (Cité Numérique)\, 2 Rue Marc Sangnier\, Bègles\, Fr
+ ance\n\nRejoignez-nous pour un évènement tech où vous apprendrez à exp
+ loiter tout le potentiel de VS Code et GitHub Copilot et à améliorer vot
+ re expérience de développement. Au programme 2 talks et 1 workshop. Que 
+ vous soyez débutant·e ou développ·eur·euse expérimenté·e\, cet év
+ énement est fait pour vous !\n\n📅 Programme de l’événement\n18h 
+ – Accueil & Networking\nRencontrez d’autres développ·eurs·euses et 
+ préparez-vous pour une session passionnante.\n18h10 – Bienvenue & Intro
+ duction\nPrésentation du déroulé de la soirée et des intervenant·e·s
+ .\n18h20 – Session : Techniques essentielles pour GitHub Copilot dans VS
+  Code\nMaîtrisez les fondamentaux de GitHub et découvrez comment utilise
+ r cet outil comme un pro.\n18h50 – Session Communautaire (intitulé et c
+ ontenu dévoilés bientôt)\n19h35 – Atelier : Explorer VS Code et GitHu
+ b Copilot\nMettez la main à la pâte avec GitHub Copilot et découvrez co
+ mment utiliser l’IA pour la complétion de code\, le refactoring\, les a
+ gents et plus encore.\n20h35 – Clôture & Networking\nProfitez d’un mo
+ ment de networking.\n\n📍 Lieu de l’événement : L'événement aura l
+ ieu à Bordeaux\, le lieu exact sera communiqué prochainement.\n\n💻 Pe
+ nsez à apporter votre ordinateur portable ! Il y aura une session interac
+ tive en fin de soirée qui nécessitera votre propre laptop pour que vous 
+ puissiez pratiquer les nouvelles techniques en temps réel.\n💡 Commence
+ z ici : Téléchargez [VS Code](https://code.visualstudio.com/) et activez
+  [votre compte GitHub Copilot gratuit pour VS Code](https://code.visualstu
+ dio.com/blogs/2024/12/18/free-github-copilot)\n\nCommunauté: mtg-bordeaux
+LOCATION:Microsoft Lab (Cité Numérique)\, 2 Rue Marc Sangnier\, Bègles\
+ , France
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/310407674
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meetup MTG:Bordeaux #7
 DTSTART;TZID=Europe/Paris:20250603T183000
 DTEND;TZID=Europe/Paris:20250603T203000

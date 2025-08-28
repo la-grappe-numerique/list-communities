@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Lundi 29 septembre 2025 à 18:00 | VS Code Dev Days Bordeaux | Microsoft Lab (Cité Numérique), 2 Rue Marc Sangnier, Bègles, France | https://www.meetup.com/mtg-bordeaux/events/310407674 |
+
 ## 📆 Past Events
 
 <details>

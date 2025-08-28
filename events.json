@@ -141,6 +141,17 @@
     ]
   },
   {
+    "title": "VS Code Dev Days Bordeaux",
+    "date": "2025-09-29T18:00:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/310407674",
+    "description": "Rejoignez-nous pour un évènement tech où vous apprendrez à exploiter tout le potentiel de VS Code et GitHub Copilot et à améliorer votre expérience de développement. Au programme 2 talks et 1 workshop. Que vous soyez débutant·e ou développ·eur·euse expérimenté·e, cet événement est fait pour vous !\n\n📅 Programme de l’événement\n18h – Accueil & Networking\nRencontrez d’autres développ·eurs·euses et préparez-vous pour une session passionnante.\n18h10 – Bienvenue & Introduction\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n18h20 – Session : Techniques essentielles pour GitHub Copilot dans VS Code\nMaîtrisez les fondamentaux de GitHub et découvrez comment utiliser cet outil comme un pro.\n18h50 – Session Communautaire (intitulé et contenu dévoilés bientôt)\n19h35 – Atelier : Explorer VS Code et GitHub Copilot\nMettez la main à la pâte avec GitHub Copilot et découvrez comment utiliser l’IA pour la complétion de code, le refactoring, les agents et plus encore.\n20h35 – Clôture & Networking\nProfitez d’un moment de networking.\n\n📍 Lieu de l’événement : L'événement aura lieu à Bordeaux, le lieu exact sera communiqué prochainement.\n\n💻 Pensez à apporter votre ordinateur portable ! Il y aura une session interactive en fin de soirée qui nécessitera votre propre laptop pour que vous puissiez pratiquer les nouvelles techniques en temps réel.\n💡 Commencez ici : Téléchargez [VS Code](https://code.visualstudio.com/) et activez [votre compte GitHub Copilot gratuit pour VS Code](https://code.visualstudio.com/blogs/2024/12/18/free-github-copilot)",
+    "location": "Microsoft Lab (Cité Numérique), 2 Rue Marc Sangnier, Bègles, France",
+    "is_online": false,
+    "communities": [
+      "mtg-bordeaux"
+    ]
+  },
+  {
     "title": "La clean architecture et les tests unitaires : et si c'était simple ?",
     "date": "2025-09-18T19:00:00",
     "url": "https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",
@@ -154,7 +165,7 @@
   {
     "title": "Soirée Serious Game",
     "date": "2025-09-16T18:30:00",
-    "url": "https://www.meetup.com/agile-bordeaux/events/309810368/",
+    "url": "https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/",
     "description": "Que diriez-vous d'une soirée Serious Game ?\nC'est exactement ce que nous vous proposons en partenariat avec Serious Gamers in Bordeaux (https://www.meetup.com/seriousgamers-bordeaux).\nPour cette belle occasion, c'est Capgemini qui nous accueille, et c'est Alain qui nous a concocté un atelier : **l'usine des animaux en briques**.\n\n_Notre usine fabrique des animaux en briques pour le plus grand plaisir des petits et des grands depuis plus de 50 ans.\nDepuis quelques temps nos clients trouvent que nos délais de fabrications sont trop importants. Et nous cherchons des solutions pour leur livrer plus vite leurs commandes.\nPour cela nous avons besoin d'un équipe de professionnels experts en assemblages de briques.\nToi qui lit cela : sauras tu relever le défi et nous sauver de la banqueroute ?\nNous désespérons de trouver une solution. Sera tu la bonne personne ?\nAu travers de la manipulation des briques LEGO nous allons explorer le flux et ces aléas pour en tirer de précieux enseignements qui nous aiderons certainement dans notre quotidien de professionnels_\n\nMais n'attendez pas plus : réservez dores et déjà votre soirée !\n\nOn vous attend donc le 16 septembre à 18h30, entrée D du bâtiment, 2ème étage.",
     "location": "Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage",
     "is_online": false,
@@ -530,6 +541,24 @@
     ]
   },
   {
+    "title": "Assemblée Générales 2025",
+    "date": "2025-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
+    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 6,
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "Meetup #8 @BDX/IO @Deezer : Falco et Karpenter",
     "date": "2025-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/cloud-native-computing-bordeaux/events/306534174/",
@@ -546,24 +575,6 @@
     "rsvp_count": 8,
     "communities": [
       "cloud-native-bordeaux"
-    ]
-  },
-  {
-    "title": "Assemblée Générales 2025",
-    "date": "2025-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
-    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 6,
-    "communities": [
-      "bordeauxjug"
     ]
   },
   {
@@ -1836,6 +1847,24 @@
     ]
   },
   {
+    "title": "Super-Apéro 2024",
+    "date": "2024-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
+    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
+    "is_online": false,
+    "venue": {
+      "name": "38 Rue Capdeville",
+      "address": "38 Rue Capdeville",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "38 Rue Capdeville, Bordeaux",
+    "rsvp_count": 18,
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "Atelier du PO #5 : Lean Coffee",
     "date": "2024-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/299637290/",
@@ -1852,24 +1881,6 @@
     "rsvp_count": 9,
     "communities": [
       "agile-bordeaux"
-    ]
-  },
-  {
-    "title": "Super-Apéro 2024",
-    "date": "2024-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
-    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
-    "is_online": false,
-    "venue": {
-      "name": "38 Rue Capdeville",
-      "address": "38 Rue Capdeville",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "38 Rue Capdeville, Bordeaux",
-    "rsvp_count": 18,
-    "communities": [
-      "afup-bordeaux"
     ]
   },
   {
@@ -2902,24 +2913,6 @@
     ]
   },
   {
-    "title": "JOOQ, joy of SQL",
-    "date": "2023-02-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
-    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Manuel de sabotage du partage de connaissances",
     "date": "2023-02-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjs/events/291437327/",
@@ -2935,6 +2928,24 @@
     "rsvp_count": 22,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "JOOQ, joy of SQL",
+    "date": "2023-02-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
+    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 10,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -3106,24 +3117,6 @@
     ]
   },
   {
-    "title": "Micronaut Test Resources",
-    "date": "2022-10-18T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
-    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 11,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)",
     "date": "2022-10-18T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/289042639/",
@@ -3139,6 +3132,24 @@
     "rsvp_count": 23,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Micronaut Test Resources",
+    "date": "2022-10-18T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
+    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 11,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -3648,17 +3659,6 @@
     ]
   },
   {
-    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
-    "date": "2021-11-16T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
-    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
-    "is_online": true,
-    "rsvp_count": 3,
-    "communities": [
-      "aws-bordeaux"
-    ]
-  },
-  {
     "title": "Java 17 la dernière LTS par Rémi Forax",
     "date": "2021-11-16T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/281736541/",
@@ -3674,6 +3674,17 @@
     "rsvp_count": 38,
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
+    "date": "2021-11-16T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
+    "is_online": true,
+    "rsvp_count": 3,
+    "communities": [
+      "aws-bordeaux"
     ]
   },
   {
@@ -4744,6 +4755,24 @@
     ]
   },
   {
+    "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
+    "date": "2019-12-17T19:30:00+01:00",
+    "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
+    "description": "Le prochain meetup #SeriousGamers aura lieu le mardi 17 Décembre et sera accueilli par OASIS COWORKING de 19h30 à 21h30\nPour cette 3eme édition du #LELAB et pour clôturer l'année, nous allons tester de nouveaux #seriousgames.Vous connaissez un serious game et souhaitez le faire découvrir ? C'est le moment ! Rendez vous ici https://docs.google.com/spreadsheets/d/1bRgodh0dq_V4fXkXouaBRyXd5x_U0ocHa5mfej9DKhQ/edit?usp=sharing afin de soumettre les serious game que vous voulez tester et animer.\nLe meetup est ouvert à tous !\nNous terminerons par un amical apéro dinatoire où nous partagerons ce que chacun aura apporté avec lui.\nSeriousgamement vôtre !",
+    "is_online": false,
+    "venue": {
+      "name": "Oasis Coworking - Salles de formation, réunion, entretien - Bureaux - Open Space",
+      "address": "68 Bis Av. Jean Jaurès",
+      "city": "Cenon",
+      "country": "France"
+    },
+    "location": "68 Bis Av. Jean Jaurès, Cenon",
+    "rsvp_count": 21,
+    "communities": [
+      "serious-gamers-bordeaux"
+    ]
+  },
+  {
     "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
     "date": "2019-12-17T19:30:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
@@ -4760,24 +4789,6 @@
     "rsvp_count": 29,
     "communities": [
       "afup-bordeaux"
-    ]
-  },
-  {
-    "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
-    "date": "2019-12-17T19:30:00+01:00",
-    "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
-    "description": "Le prochain meetup #SeriousGamers aura lieu le mardi 17 Décembre et sera accueilli par OASIS COWORKING de 19h30 à 21h30\nPour cette 3eme édition du #LELAB et pour clôturer l'année, nous allons tester de nouveaux #seriousgames.Vous connaissez un serious game et souhaitez le faire découvrir ? C'est le moment ! Rendez vous ici https://docs.google.com/spreadsheets/d/1bRgodh0dq_V4fXkXouaBRyXd5x_U0ocHa5mfej9DKhQ/edit?usp=sharing afin de soumettre les serious game que vous voulez tester et animer.\nLe meetup est ouvert à tous !\nNous terminerons par un amical apéro dinatoire où nous partagerons ce que chacun aura apporté avec lui.\nSeriousgamement vôtre !",
-    "is_online": false,
-    "venue": {
-      "name": "Oasis Coworking - Salles de formation, réunion, entretien - Bureaux - Open Space",
-      "address": "68 Bis Av. Jean Jaurès",
-      "city": "Cenon",
-      "country": "France"
-    },
-    "location": "68 Bis Av. Jean Jaurès, Cenon",
-    "rsvp_count": 21,
-    "communities": [
-      "serious-gamers-bordeaux"
     ]
   },
   {
@@ -4946,24 +4957,6 @@
     ]
   },
   {
-    "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
-    "date": "2019-10-17T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
-    "description": "Venez découvrir comment construire des architectures modernes pour vos applications Web et mobiles autour des services AWS.Nous parlerons évidemment Rest API mais aussi bases de données, sécurité, haute disponibilité, cache, Authorization et même un peu de GraphQL, et tout cela en mode Serverless.Si vous n'avez jamais essayé ces solutions, c'est l'occasion de les découvrir et poser toutes les questions que vous avez/aurez; si vous les connaissez déjà, une petite piqûre de rappel ne fait jamais de mal 😊\n🎙️Thibaut Charlier, Cloud Evangelist @ Gekko\n🍕🍺\n🙏Gekko",
-    "is_online": false,
-    "venue": {
-      "name": "Halle Héméra",
-      "address": "132 Rue Fondaudège",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "132 Rue Fondaudège, Bordeaux",
-    "rsvp_count": 54,
-    "communities": [
-      "aws-bordeaux"
-    ]
-  },
-  {
     "title": "La JVM et Docker, vers une symbiose parfaite !",
     "date": "2019-10-17T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
@@ -4979,6 +4972,24 @@
     "rsvp_count": 43,
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
+    "date": "2019-10-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
+    "description": "Venez découvrir comment construire des architectures modernes pour vos applications Web et mobiles autour des services AWS.Nous parlerons évidemment Rest API mais aussi bases de données, sécurité, haute disponibilité, cache, Authorization et même un peu de GraphQL, et tout cela en mode Serverless.Si vous n'avez jamais essayé ces solutions, c'est l'occasion de les découvrir et poser toutes les questions que vous avez/aurez; si vous les connaissez déjà, une petite piqûre de rappel ne fait jamais de mal 😊\n🎙️Thibaut Charlier, Cloud Evangelist @ Gekko\n🍕🍺\n🙏Gekko",
+    "is_online": false,
+    "venue": {
+      "name": "Halle Héméra",
+      "address": "132 Rue Fondaudège",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "132 Rue Fondaudège, Bordeaux",
+    "rsvp_count": 54,
+    "communities": [
+      "aws-bordeaux"
     ]
   },
   {
@@ -5864,24 +5875,6 @@
     ]
   },
   {
-    "title": "Agile Bordeaux 19.1",
-    "date": "2019-01-24T19:00:00+01:00",
-    "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
-    "description": "Le prochain meetup Agile Bordeaux aura lieu le 24 janvier et sera accueilli par Capgemini Bordeaux que nous remercions.\nAu programme :\n19h00 : Accueil, infos courantes, introduction de Scrum en 5 minutes\n19h30 : 2 ateliers en parallèle• Bastien vous propose une Retrospective Storming (~1h30) afin de découvrir et partager différentes pratiques de rétrospective (inspiré de https://fr.slideshare.net/axelvillechalane/support-retrospective-storming-agile-nantes )• Chris vous propose un Aeroplane Game afin d’expérimenter les bienfaits des limites\n20h30 : Echanges autour d’un verre\n21h00 : Il sera temps de nous quitter et de rendre les locaux à nos hôtes de la soirée\n(Ce programme a été co-construit à travers le framapad https://bimestriel.framapad.org/p/agilebdx_19_1)\nA noter :• Nous vous remercions d'amener des boissons (sans alcool) / des snacks à partager pour un moment convivial après les ateliers• N'hésitez pas à nous soumette vos propositions d’ateliers pour cette édition et/ou des lieux d’accueils pour les prochaines",
-    "is_online": false,
-    "venue": {
-      "name": "Capgemini",
-      "address": "19 Allée James Watt",
-      "city": "MERIGNAC",
-      "country": "France"
-    },
-    "location": "19 Allée James Watt, MERIGNAC",
-    "rsvp_count": 43,
-    "communities": [
-      "agile-bordeaux"
-    ]
-  },
-  {
     "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
     "date": "2019-01-24T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
@@ -5897,6 +5890,24 @@
     "rsvp_count": 22,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Agile Bordeaux 19.1",
+    "date": "2019-01-24T19:00:00+01:00",
+    "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
+    "description": "Le prochain meetup Agile Bordeaux aura lieu le 24 janvier et sera accueilli par Capgemini Bordeaux que nous remercions.\nAu programme :\n19h00 : Accueil, infos courantes, introduction de Scrum en 5 minutes\n19h30 : 2 ateliers en parallèle• Bastien vous propose une Retrospective Storming (~1h30) afin de découvrir et partager différentes pratiques de rétrospective (inspiré de https://fr.slideshare.net/axelvillechalane/support-retrospective-storming-agile-nantes )• Chris vous propose un Aeroplane Game afin d’expérimenter les bienfaits des limites\n20h30 : Echanges autour d’un verre\n21h00 : Il sera temps de nous quitter et de rendre les locaux à nos hôtes de la soirée\n(Ce programme a été co-construit à travers le framapad https://bimestriel.framapad.org/p/agilebdx_19_1)\nA noter :• Nous vous remercions d'amener des boissons (sans alcool) / des snacks à partager pour un moment convivial après les ateliers• N'hésitez pas à nous soumette vos propositions d’ateliers pour cette édition et/ou des lieux d’accueils pour les prochaines",
+    "is_online": false,
+    "venue": {
+      "name": "Capgemini",
+      "address": "19 Allée James Watt",
+      "city": "MERIGNAC",
+      "country": "France"
+    },
+    "location": "19 Allée James Watt, MERIGNAC",
+    "rsvp_count": 43,
+    "communities": [
+      "agile-bordeaux"
     ]
   },
   {
@@ -9878,24 +9889,6 @@
     ]
   },
   {
-    "title": "TypeScript : dès lundi sur votre App Legacy",
-    "date": "2017-03-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
-    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 87,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Python Bordeaux #7 : données géospatiales",
     "date": "2017-03-23T19:00:00+01:00",
     "url": "https://www.meetup.com/py-bdx/events/238293674/",
@@ -9911,6 +9904,24 @@
     "rsvp_count": 19,
     "communities": [
       "bordeaux-python-meetup"
+    ]
+  },
+  {
+    "title": "TypeScript : dès lundi sur votre App Legacy",
+    "date": "2017-03-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
+    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 87,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -11039,24 +11050,6 @@
     ]
   },
   {
-    "title": "De Zéro à Héros avec Spring Boot",
-    "date": "2016-03-31T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
-    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 70,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Migrer une application React de MObservable vers Redux",
     "date": "2016-03-31T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/229812115/",
@@ -11073,6 +11066,24 @@
     "rsvp_count": 14,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "De Zéro à Héros avec Spring Boot",
+    "date": "2016-03-31T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
+    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 70,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
