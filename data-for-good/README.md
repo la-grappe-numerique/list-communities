@@ -55,7 +55,7 @@ Chaque année, nous organisons des saisons d’accélération : une dizaine de p
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 10/09/2025 | Demo GenAI Impact | S38 Rue Pomme d'Or 33300 Bordeaux | [TBD](https://www.eventbrite.fr/e/genai-impact-evaluation-des-impacts-environnementaux-de-lia-generative-tickets-1625133972459?aff=oddtdtcreator&utm-source=cp&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing) |
+| 10/09/2025 | Demo GenAI Impact | S38 Rue Pomme d'Or 33300 Bordeaux | https://www.eventbrite.fr/e/genai-impact-evaluation-des-impacts-environnementaux-de-lia-generative-tickets-1625133972459?aff=oddtdtcreator&utm-source=cp&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing |
 </details>
 
 
