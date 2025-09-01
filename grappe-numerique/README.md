@@ -13,4 +13,9 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/grappe-numerique/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 10 septembre 2025 à 18:30 | Soirée de lancement de la grappe numérique | Le node, 12 rue des Faussets, 33000 Bordeaux | https://www.linkedin.com/events/7361051227616362499/ |
 <!-- EVENTS:END -->

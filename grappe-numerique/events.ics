@@ -5,4 +5,16 @@ X-WR-CALDESC:Calendrier des événements de la communauté grappe-numeriqu
  e
 X-WR-CALNAME:Événements grappe-numerique
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Soirée de lancement de la grappe numérique
+DTSTART;TZID=Europe/Paris:20250910T183000
+DTEND;TZID=Europe/Paris:20250910T203000
+UID:https://www.linkedin.com/events/7361051227616362499/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/7361051227616362499/\n
+ 📍 Le node\, 12 rue des Faussets\, 33000 Bordeaux\n\nLa grande soirée d
+ e lancement de la grappe numérique !\n\nCommunauté: grappe-numerique
+LOCATION:Le node\, 12 rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/7361051227616362499/
+END:VEVENT
 END:VCALENDAR
