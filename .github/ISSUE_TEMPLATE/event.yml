@@ -38,12 +38,14 @@ body:
     - agile-bordeaux
     - agile-tour-bordeaux
     - apero-web
+    - aperops-dataops-mlops
     - aquilenet
     - aquinum
     - archilocus
     - aws-bordeaux
     - bdx-io
     - bordeaux-python-meetup
+    - bordeaux-xr
     - bordeauxjs
     - bordeauxjug
     - bordeauxkt
@@ -56,6 +58,7 @@ body:
     - friends-of-figma-bordeaux
     - human-talks
     - la-boussole-de-la-tech
+    - grappe-numerique
     - le-nom-lieu
     - mtg-bordeaux
     - okiwi
@@ -68,16 +71,16 @@ body:
   id: location
   attributes:
     label: Location
-    description: Where will the event take place?
-    placeholder: Betclic, 117 Quai de Bacalan, Bordeaux, France
+    description: Ou se déroulera l'évènement ? 
+    placeholder: Le node, 12 Rue des Faussets, 33000 Bordeaux
   validations:
     required: true
 - type: textarea
   id: description
   attributes:
     label: Description
-    description: Event description (supports markdown)
-    placeholder: Description of the event...
+    description: Description de l'évènement (supports markdown)
+    placeholder: Cet évènement exceptionnel....
   validations:
     required: false
 - type: dropdown
