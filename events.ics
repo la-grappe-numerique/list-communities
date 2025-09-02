@@ -884,6 +884,24 @@ TZID:Europe/Paris
 URL:https://www.linkedin.com/events/7361051227616362499/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bordeaux XR - Meetup #pre-launch
+DTSTART;TZID=Europe/Paris:20250618T183000
+DTEND;TZID=Europe/Paris:20250618T203000
+UID:https://www.linkedin.com/events/bordeauxxr-meetup-pre-launch7331004824
+ 588611584/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/bordeauxxr-meetup-pre-lau
+ nch7331004824588611584/\n📍 Le Node\, 12 rue des Faussets\, Bordeaux\n\n
+ Première Rencontre de la communauté XR Bordelaise autour des technologie
+ s immersives !\n🗣️ Échanges et Présentations Flash : Envoyez nous u
+ ne slide pour vous presenter !\n✨ Zone de Démo : Testez ou montrer votr
+ e projet / materiel.\n🍕 Apéro Networking :🍷\n\nCommunauté: bordeau
+ x-xr
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/bordeauxxr-meetup-pre-launch7331004824
+ 588611584/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Talks Bordeaux #10 - Organisation & Leadership
 DTSTART;TZID=Europe/Paris:20250311T183000
 DTEND;TZID=Europe/Paris:20250311T203000

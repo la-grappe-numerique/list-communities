@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements bordeaux-xr//Bordeaux Community Events//FR
+X-WR-CALDESC:Calendrier des événements de la communauté bordeaux-xr
+X-WR-CALNAME:Événements bordeaux-xr
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Bordeaux XR - Meetup #pre-launch
+DTSTART;TZID=Europe/Paris:20250618T183000
+DTEND;TZID=Europe/Paris:20250618T203000
+UID:https://www.linkedin.com/events/bordeauxxr-meetup-pre-launch7331004824
+ 588611584/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/bordeauxxr-meetup-pre-lau
+ nch7331004824588611584/\n📍 Le Node\, 12 rue des Faussets\, Bordeaux\n\n
+ Première Rencontre de la communauté XR Bordelaise autour des technologie
+ s immersives !\n🗣️ Échanges et Présentations Flash : Envoyez nous u
+ ne slide pour vous presenter !\n✨ Zone de Démo : Testez ou montrer votr
+ e projet / materiel.\n🍕 Apéro Networking :🍷\n\nCommunauté: bordeau
+ x-xr
+LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/bordeauxxr-meetup-pre-launch7331004824
+ 588611584/
+END:VEVENT
+END:VCALENDAR

@@ -21,7 +21,13 @@ Un moment **détente et convivial** autour de pizzas et boissons pour échanger,
 | 📆 La fréquence des évènements | Bimestriel |
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
 ## 📆 Past Events
+
+<details>
+<summary>2025</summary>
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 18 juin 2025 à 18:30 | Bordeaux XR - Meetup #pre-launch | Le Node, 12 rue des Faussets, Bordeaux | https://www.linkedin.com/events/bordeauxxr-meetup-pre-launch7331004824588611584/ |
+</details>
 <!-- EVENTS:END -->
