@@ -1,5 +1,5 @@
 # 🚀 Bordeaux ApérOps : DataOps & MLOps 🍷
-![Logo AperOps](./logo_aperops.png ':size=50')
+![Logo AperOps](./logo_aperops.png)
 |                                |     |
 | ------------------------------ | --- |
 | ✉️ Luis IGLESIAS HERNANDEZ | lu.iglesiash@gmail.com
