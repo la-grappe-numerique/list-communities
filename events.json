@@ -152,6 +152,17 @@
     ]
   },
   {
+    "title": "Bordeaux XR - Tendances XR en recherche",
+    "date": "2025-09-24T18:30:00",
+    "url": "https://www.eventbrite.fr/e/bordeaux-xr-tendances-xr-en-recherche-tickets-1612001974299",
+    "description": "Une soirée enrichissante et pédagogique au cœur des dernières nouveautés en recherche concernant les technologies immersives !\n🎤 Speakers : invités Recherche et R&D en entreprise\n✨ Zone de Démo : Testez ou montrer votre projet / materiel.\n🍕 Apéro Networking :🍷",
+    "location": "Le Node, 12 rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeaux-xr"
+    ]
+  },
+  {
     "title": "La clean architecture et les tests unitaires : et si c'était simple ?",
     "date": "2025-09-18T19:00:00",
     "url": "https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",

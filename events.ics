@@ -884,6 +884,24 @@ TZID:Europe/Paris
 URL:https://www.linkedin.com/events/7361051227616362499/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bordeaux XR - Tendances XR en recherche
+DTSTART;TZID=Europe/Paris:20250924T183000
+DTEND;TZID=Europe/Paris:20250924T203000
+UID:https://www.eventbrite.fr/e/bordeaux-xr-tendances-xr-en-recherche-tick
+ ets-1612001974299@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/bordeaux-xr-tendances-xr-en-r
+ echerche-tickets-1612001974299\n📍 Le Node\, 12 rue des Faussets\, 33000
+  Bordeaux\n\nUne soirée enrichissante et pédagogique au cœur des derni
+ ères nouveautés en recherche concernant les technologies immersives !\n
+ 🎤 Speakers : invités Recherche et R&D en entreprise\n✨ Zone de Démo
+  : Testez ou montrer votre projet / materiel.\n🍕 Apéro Networking :
+ 🍷\n\nCommunauté: bordeaux-xr
+LOCATION:Le Node\, 12 rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/bordeaux-xr-tendances-xr-en-recherche-tick
+ ets-1612001974299
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bordeaux XR - Meetup #pre-launch
 DTSTART;TZID=Europe/Paris:20250618T183000
 DTEND;TZID=Europe/Paris:20250618T203000
