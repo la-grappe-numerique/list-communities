@@ -50,34 +50,8 @@ Chaque année, nous organisons des saisons d’accélération : une dizaine de p
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
-<details>
-<summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| 09/09/2025 | Demo GenAI Impact | S38 Rue Pomme d'Or 33300 Bordeaux | https://www.eventbrite.fr/e/genai-impact-evaluation-des-impacts-environnementaux-de-lia-generative-tickets-1625133972459?aff=oddtdtcreator&utm-source=cp&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing |
-</details>
-
-
-## 📆 Past Events
-<details>
-<summary>2025</summary>
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| 25/06/2025 | Summer Vibes | S38 Rue Pomme d'Or 33300 Bordeaux | https://www.eventbrite.fr/e/data-for-good-bordeaux-summer-vibes-tickets-1415639338369?aff=oddtdtcreator |
-| 05/05/2025 | Démo Day Saison 13 | 38 Rue Pomme d'Or 33300 Bordeaux | https://www.eventbrite.fr/e/demo-day-saison-13-data-for-good-bordeaux-tickets-1329015504149?aff=oddtdtcreator |
-| 24/03/2025 | RDV de mi-saison | 2 Rue Marc Sangnier 33130 Bègles | https://www.linkedin.com/posts/data-for-good-bordeaux_data-for-good-bordeaux-rdv-de-mi-saison-activity-7305929205865701377-ebUy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4Q7ksBEG7UcHVMChLy0IQqsBJLX9kxNxg |
-| 27/01/2025 | Lancement de la saison 13 ! | 2 Rue Marc Sangnier 33130 Bègles | https://www.eventbrite.com/e/1147521350249?aff=oddtdtcreator |
-</details>
-
-<details>
-<summary>2024</summary>
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| 09/12/2024 | Afterwork : Retours d'expérience des bénévoles | 38 Rue Pomme d'Or 33300 Bordeaux | https://www.eventbrite.fr/e/billets-data-for-good-bordeaux-afterwork-retours-dexperience-des-benevoles-1084009624969?aff=oddtdtcreator |
-| 17/10/2024 | Afterwork de rentrée | 38 Rue Pomme d'Or 33300 Bordeaux | https://www.eventbrite.fr/e/billets-data-for-good-bordeaux-afterwork-de-rentree-1038789235567?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl |
-</details>
-
+| Mardi 09 septembre 2025 à 19:00 | Rentrée de DataForGood Bordeaux | Aquinum - Le Node 12 Rue des Faussets 33000 Bordeaux | https://www.eventbrite.fr/e/genai-impact-evaluation-des-impacts-environnementaux-de-lia-generative-tickets-1625133972459?aff=oddtdtcreator |
 <!-- EVENTS:END -->

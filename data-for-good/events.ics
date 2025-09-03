@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements data-for-good//Bordeaux Community Events//FR
+X-WR-CALDESC:Calendrier des événements de la communauté data-for-good
+X-WR-CALNAME:Événements data-for-good
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Rentrée de DataForGood Bordeaux
+DTSTART;TZID=Europe/Paris:20250909T190000
+DTEND;TZID=Europe/Paris:20250909T210000
+UID:https://www.eventbrite.fr/e/genai-impact-evaluation-des-impacts-enviro
+ nnementaux-de-lia-generative-tickets-1625133972459?aff=oddtdtcreator@commu
+ nity-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/genai-impact-evaluation-des-i
+ mpacts-environnementaux-de-lia-generative-tickets-1625133972459?aff=oddtdt
+ creator\n📍 Aquinum - Le Node 12 Rue des Faussets 33000 Bordeaux\n\nC'es
+ t la rentrée pour DataForGood Bordeaux !\n\nRetrouvez-nous au Node le 9 s
+ eptembre à 19h.\n\nAu programme :\n\nPrésentation de GenAI Impact pour p
+ arler de l’impact environnemental de l’IA générative\, des méthodes
+  de calcul\, des outils mis à disposition\nNews de l'asso\nApéro en mode
+  auberge espagnole\n\nCommunauté: data-for-good
+LOCATION:Aquinum - Le Node 12 Rue des Faussets 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/genai-impact-evaluation-des-impacts-enviro
+ nnementaux-de-lia-generative-tickets-1625133972459?aff=oddtdtcreator
+END:VEVENT
+END:VCALENDAR
