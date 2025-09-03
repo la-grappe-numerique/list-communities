@@ -1,11 +1,10 @@
-# Bordeaux ApérOps: DataOps & MLOps
-
+# 🚀 Bordeaux ApérOps : DataOps & MLOps 🍷
+![Logo AperOps](./logo_aperops.png)
 |                                |     |
 | ------------------------------ | --- |
-| ✉️ Luis IGLESIAS HERNANDEZ |
+| ✉️ Luis IGLESIAS HERNANDEZ | lu.iglesiash@gmail.com
 | 👥 Meetup | https://www.meetup.com/bordeaux-aperops-dataops-mlops/ |
 
-🚀 Bordeaux ApérOps : DataOps & MLOps 🍷
 
 Tu aimes l’IA en production, les pipelines qui tournent sans (trop) d’erreurs, et les discussions passionnées sur le monitoring, le CI/CD et la scalabilité… le tout autour d’un verre ? 🍻📊
 
