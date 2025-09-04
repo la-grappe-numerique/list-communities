@@ -1,4 +1,4 @@
-# Agile Bordeaux
+# ![](./logo_agile_bordeaux_10.png) Agile Bordeaux 
 ![resume](./resume_agile_bordeaux.png)
 
 **Agile Bordeaux** est animé par des agilistes bénévoles et passionné.e.s, plaçant le partage au centre de leur propre évolution.
