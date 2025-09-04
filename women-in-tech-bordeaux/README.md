@@ -24,6 +24,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/women-in-tech-bordeaux/events.
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Lundi 08 septembre 2025 à 12:00 | Sopra Steria s'engage pour les femmes dans la tech : découvrez l'histoire derrière la création de sa communauté "Tech'Women UP" ! | En ligne | https://www.linkedin.com/events/7359251198748622851/ |
+| Mardi 30 septembre 2025 à 18:30 | Oser, malgré la peur : quand confiance et collectif deviennent moteurs | Ippon Technologies Bordeaux, 44 Allée de Tourny, 33000 Bordeaux, France | https://luma.com/17u8ysfd |
 
 ## 📆 Past Events
 
