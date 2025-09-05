@@ -5,6 +5,8 @@
 | ✉️ Qui contacter ?              | Amélie Benoit, Noémie R., Coralie B. |
 | 🌍 Site web                    | https://wit-bdx.com/ |
 | 🌍 Linkedin                    | https://www.linkedin.com/company/women-in-tech-bordeaux/ |
+| ✉️ Mail de contact                    | hello@wit-bdx.com |
+
 
 Nos évènements ont pour vocation d'apporter plus de visibilité aux femmes et aux minorités de genre dans la tech, de leur offrir un espace d’échange bienveillant et de partager leur expérience et leur expertise à travers la prise de parole.
 **Les évènements sont ouverts à toutes et tous.**
