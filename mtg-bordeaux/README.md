@@ -11,6 +11,10 @@
 | ✨ Discord          | https://discord.gg/tsJJSwKAac                                     |
 | 🎤 Call for Speaker | https://sessionize.com/mtg/                                       |
 
+MTG:Bordeaux est un espace d'échange autour des technologies de l’écosystème Microsoft. Nous faisons partie du réseau [MTG:France](https://www.mtg-france.org/) et nous sommes ravis de vous accueillir dans notre communauté bordelaise.
+
+Nos meetups sont l’occasion de découvrir et de discuter des dernières tendances technologiques Microsoft ou non. Que vous soyez intéressé·e par le cloud, l’intelligence artificielle, le développement logiciel / web n'hésitez pas à nous rejoindre.
+
 Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](./events.ics ':ignore')
 
