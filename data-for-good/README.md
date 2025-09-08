@@ -4,12 +4,11 @@
 📍 Data For Good Bordeaux & Pays Basque : la tech engagée, au plus près des territoires
 
 
-|                                |     |
-| ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Gaëlle Nordström-Schüler, Valentin Defour, Azra Hamidović |
-| 💻 Linkedin             | https://www.linkedin.com/company/data-for-good-bordeaux/ |
-| 🌍 Site web                    | https://dataforgood.fr/ |
-| Notion Calendrier       | https://dataforgood.notion.site/calendrier |
+Data For Good est une association loi 1901 (100% bénévole, 100% open-source, 100% citoyenne) créée en 2014 qui rassemble une communauté de 6000+ volontaires tech (Data Scientists, Data Analysts, Data Engineers, Developers, UX/UI Designers, Product & Project Owners) souhaitant mettre leurs compétences au profit d'associations, d'ONG, et de l'ESS - et de s'engager pour l'intérêt général.
+
+Nous sommes fervents critiques des risques et des dérives de la technologie, faire partie de la communauté est aussi s'engager pour une technologie sobre et respectueuse des enjeux sociaux et environnementaux, et accepter que la technologie n'est pas la solution à tous les problèmes.
+
+Nous réalisons également chaque année des saisons d'accélération où une dizaine de projets sont accompagnés par les bénévoles sur des thématiques sociales, sociétales et environnementales. Nous avons ainsi accompagné, accéléré et co-construits plus de 100 projets depuis 2014 (🔗 https://dataforgood.fr/projects).
 
 
 
@@ -39,12 +38,13 @@ https://dataforgood.fr/projects/stopcyberviolence/
 
 
 
-Créée en 2014, Data For Good est une association loi 1901 qui rassemble aujourd’hui plus de 8000 volontaires issus de la tech: Data Scientists, Data Analysts, Data Engineers, Développeurs, UX/UI Designers, Product et Project Owners… Tous unis par une même envie : mettre leurs compétences au service d’associations, d’ONG et d’acteurs de l’Économie Sociale et Solidaire (ESS).
 
-Chaque année, nous organisons des saisons d’accélération : une dizaine de projets à fort impact social, sociétal ou environnemental sont accompagnés par nos bénévoles. Depuis notre création, plus de 100 projets ont été soutenus, accélérés et co-construits : 
-🔗 https://dataforgood.fr/projects
-
-
+|                                |     |
+| ------------------------------ | --- |
+| ✉️ Qui contacter ?              | Gaëlle Nordström-Schüler, Valentin Defour, Azra Hamidović |
+| 💻 Linkedin             | https://www.linkedin.com/company/data-for-good-bordeaux/ |
+| 🌍 Site web                    | https://dataforgood.fr/ |
+| Notion Calendrier       | https://dataforgood.notion.site/calendrier |
 
 
 
