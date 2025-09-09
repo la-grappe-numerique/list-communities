@@ -4,7 +4,7 @@
 
 |                     |                                                                   |
 | ------------------- | ----------------------------------------------------------------- |
-| ✉️ Qui contacter ?  | Alexandre Nédélec, Xavier Noya, Christian Bonnaud                 |
+| ✉️ Qui contacter ?  | bordeaux@mtg-france.org                                           |
 | 🌍 Meetup           | https://www.meetup.com/mtg-bordeaux/                              |
 | 🌍 LinkedIn         | https://www.linkedin.com/company/mtg-bordeaux                     |
 | 🌍 Bluesky          | https://bsky.app/profile/mtgbordeaux.bsky.social                  |
