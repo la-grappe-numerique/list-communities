@@ -1,9 +1,12 @@
 # BordeauxJS ![Logo](./logo-bordeauxjs.jpeg ':size=100')
 
+**BordeauxJS**
+
+Rejoignez-nous pour explorer l'univers JavaScript sous toutes ses facettes ! Nos meetups couvrent le développement front-end, back-end et l'écosystème des frameworks modernes. Que vous soyez passionné par React, Angular, Svelte, Vue.js côté client, Node.js côté serveur, ou curieux des dernières innovations du monde JS, BordeauxJS est votre rendez-vous mensuel pour apprendre, partager et networker avec la communauté bordelaise.
+
 |                                |     |
 | ------------------------------ | --- |
 | ✉️ Qui contacter ?              | [Florian Vander Put](https://www.linkedin.com/in/florian-vanderput/), [Jérôme Béhuet](https://www.linkedin.com/in/jbehuet/), [Michael](https://www.linkedin.com/in/bonfilsmichael/) |
-| 🌍 Site web                    | https://www.meetup.com/fr-FR/bordeauxjs/ |
 | 🌍 LinkedIn                    | https://www.linkedin.com/company/bordeauxjs/ |
 
 Le calendrier des évènements est disponible au format iCal.
