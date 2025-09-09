@@ -1,10 +1,11 @@
-# Digital Nights
+# Digital Nights ![Logo digitalnight](./Logo_DN.png ':size=100')
+![Image d'une soirée Digital night](./DN1.webp)
 
 DigitalNights c'est avant tout un serveur Discord a pour objectif de faire connaissance entre différents acteurs du web. L’idée est de créer une synergie entre différentes logiques métiers : débats, discussions, partages et conseils sont au rendez-vous.
 
 C'est aussi un afterwork bimestriel. Rejoins-nous ! 
 
-✉️ Contact : [Charlène Verrier](https://www.linkedin.com/in/barbara-schiavi-phd-a1028272/)
+✉️ Contact : [Charlène Verrier](https://www.linkedin.com/in/charleneverrier/)
 
 🌍 Serveur discord : https://discord.com/invite/MM87mZueKx 
 
