@@ -67,6 +67,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 - [Framer Bordeaux](framer-bordeaux/)
 
 ### Sécurité
+- [BièreSecu Bordeaux](bieresecu)
 
 ### Services
 
