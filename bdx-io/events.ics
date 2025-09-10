@@ -21,6 +21,23 @@ TZID:Europe/Paris
 URL:https://bdxio.fr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:K8S\, SaaS\, Leadership\, Qualité de code\, Happiness - Le Trempl
+ in Bordelais 2025
+DTSTART;TZID=Europe/Paris:20250930T183000
+DTEND;TZID=Europe/Paris:20250930T203000
+UID:https://www.meetup.com/fr-FR/craftsrecords/events/310781062@community-
+ events
+DESCRIPTION:🔗 https://www.meetup.com/fr-FR/craftsrecords/events/3107810
+ 62\n📍 Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux\n\nLes conférence
+ s Agile Tour Bordeaux et BDX I/O s'associent à CraftsRecords pour organis
+ er une mini-conférence Tremplin le 30 septembre\, dédiée aux personnes 
+ souhaitant devenir oratrice ou orateur en conférence Tech.\n\nCommunauté
+ : bdx-io\, agile-tour-bordeaux
+LOCATION:Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-FR/craftsrecords/events/310781062
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Karpenter / Réagir à temps aux menaces dans vos clusters Kuberne
  tes avec Falco et son écosystème
 DTSTART;TZID=Europe/Paris:20250313T190000

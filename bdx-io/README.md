@@ -11,6 +11,7 @@
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mardi 30 septembre 2025 à 18:30 | K8S, SaaS, Leadership, Qualité de code, Happiness - Le Tremplin Bordelais 2025 | Betclic, 117 Quai de Bacalan, 33300 Bordeaux | https://www.meetup.com/fr-FR/craftsrecords/events/310781062 |
 | Vendredi 07 novembre 2025 à 09:00 | BDX I/O | Palais des congrès de Bordeaux, Av. Jean Gabriel Domergue, 33300 Bordeaux | https://bdxio.fr |
 
 ## 📆 Past Events

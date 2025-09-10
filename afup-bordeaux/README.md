@@ -25,7 +25,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](./ev
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 17 septembre 2025 à 19:00 | Préview du Forum PHP - Transformez votre veille & vos Obsessions Primitives | Le Node - Aquinum - 12 Rue des Faussets · Bordeaux | [https://www.meetup.com/bordeaux-php-meetup/events/306530360/](https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/310668434/) |
 | Jeudi 20 mars 2025 à 19:00 | Super-Apéro 2025 | 23 Rue Ausone, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/306530360/ |
 | Mercredi 26 février 2025 à 19:00 | #57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager | 1 Cr Xavier Arnozan, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/306119819/ |
 | Mercredi 22 janvier 2025 à 19:00 | #56: Session lightning talks | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/304967965/ |
