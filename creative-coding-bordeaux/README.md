@@ -7,7 +7,6 @@ Développeur·se, artiste, simplement curieux·se, ou tout ça à la fois ? Ce g
 
 |                                |     |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Alexandre Gravel-Raymond |
 | 🌍 Site web                    | https://plgrnd.cc/ |
 | 🌍 Inscription                   | https://www.meetup.com/fr-FR/creative-coding-bordeaux/ |
 
