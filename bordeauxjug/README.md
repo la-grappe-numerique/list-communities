@@ -1,9 +1,19 @@
 # BordeauxJug ![Logo](./logo-bordeaux-jug.png ':size=100')
 
+
+<img src="./session-ia-generative.jpeg" width="49%"> <img src="./session-ia-gemini.jpeg" width="49%">
+
+**BordeauxJUG**
+
+L'objectif du **Bordeaux** **J**ava **U**ser **G**roup est de permettre à des acteurs et utilisateurs du langage Java (professionnels, communautés open source, universitaires, étudiants) de se rencontrer et d'échanger autour des technologies Java.
+            .
+
 |                                |     |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Lilian BENOIT, Bruno Lacombe |
-| 🌍 Site web                    | http://www.bordeauxjug.org/ |
+| ✉️ Qui contacter ?              | [Lilian BENOIT](https://www.linkedin.com/in/lilianbenoit/), [Bruno LACOMBE](@piradix@framapiaf.org), [Olivier VANRUMEBEKE](https://www.linkedin.com/in/vanrumbeke/) |
+| 🌍 Site web                    | https://www.bordeauxjug.org/ |
+| Linkedin                       | https://www.linkedin.com/company/bordeauxjug |
+| Mastodon                       | https://jvm.social/@BordeauxJUG
 | Meetup                         | https://www.meetup.com/fr-FR/bordeauxjug/ |
 
 Le calendrier des évènements est disponible au format iCal.
