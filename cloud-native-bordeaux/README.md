@@ -1,10 +1,13 @@
 # Cloud Native Bordeaux ![Logo](./logo-cncf-bordeaux.png ':size=100')
+La Cloud Native Bordeaux est le groupe de rencontre officiel de la Cloud Native Computing Foundation (CNCF) concernant les technologies hébergées sous l'égide de la CNCF.
 
-|                                |     |
-| ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Jean Eymerit, Alexis Fala |
-| 🌍 Site web                    | https://community.cncf.io/cloud-native-bordeaux/ |
-| Meetup | https://www.meetup.com/fr-FR/cloud-native-computing-bordeaux/ |
+Notre but est d'organisons régulièrement des événements à Bordeaux sous forme d'afterwork conférences + pizzas.
+
+En 2025, nous prenons un nouveau départ : n'hésitez pas à nous suivre pour connaitre le premier event !
+
+🌍 Site web : https://community.cncf.io/cloud-native-bordeaux/ 
+
+Meetup :  https://www.meetup.com/fr-FR/cloud-native-computing-bordeaux/
 
 Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/cloud-native-bordeaux/events.ics](./events.ics ':ignore')
