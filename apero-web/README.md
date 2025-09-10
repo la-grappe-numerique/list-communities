@@ -1,10 +1,17 @@
 # Apéro Web ![Logo](./logo-apero-web-bdx.jpeg ':size=100')
 
-|                                |     |
-| ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Adrien |
-| 🌍 Site web                    | https://www.meetup.com/fr-FR/apero-web-bordeaux/ |
-| Facebook                      | https://www.facebook.com/aperowebbdx/ |
+🍷🍺 L'Apéro Web Bordeaux c'est l'afterwork convivial réunissant toutes les personnes qui font la tech bordelaise :
+Entrepreneurs, CEO, CTO, Devs, PO, PM, UX/UI, SEO, SEM, CM, SRE, DA, DevOps, growth hackers etc...
+Si votre métier à un rapport avec le web ou la tech, cet apéro est fait pour vous !
+
+A chaque évènement un bar bordelais différent !
+
+🌍 Sites web : 
+
+[Meetup](https://www.meetup.com/fr-FR/apero-web-bordeaux/)
+
+[Facebook](https://www.facebook.com/aperowebbdx/)
+
 
 Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](./events.ics ':ignore')
