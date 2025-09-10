@@ -1,8 +1,12 @@
 # BordeauxKt ![Logo](./logo-bordeaux-jt.jpg ':size=100')
 
+BordeauxKt est un user group au service du langage Kotlin et son écosystème, à destination des développeurs de Bordeaux et sa métropole.
+
+Nous organisons des soirées autour de présentations techniques pour discuter des différentes utilisations de Kotlin : développement côté serveur, mobile, web, ou encore natif.
+
 |                    |                                                                                                           |
 |--------------------|-----------------------------------------------------------------------------------------------------------|
-| ✉️ Qui contacter ? | Ivan Canet • [team@bordeauxkt.io](mailto:team@bordeauxkt.io)                                              |
+| ✉️ Contacter | [team@bordeauxkt.io](mailto:team@bordeauxkt.io)                                              |
 | 🌍 Site web        | [BordeauxKt.io](https://bordeauxkt.io)                                                                    |
 | Eventbrite         | https://www.eventbrite.fr/o/bordeauxkt-29709159487                                                        |
 | Réseaux            | [LinkedIn](https://www.linkedin.com/company/bordeauxkt/) • [YouTube](https://www.youtube.com/@BordeauxKt) |
