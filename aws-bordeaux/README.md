@@ -1,8 +1,9 @@
 # AWS Bordeaux ![Logo](./logo-aws-bordeaux.png ':size=100')
 
+Groupe bordelais qui se réunit pour apprendre et discuter d'AWS, lors de réunions régulières. Les meetups AWS sont des réunions informelles, centrées sur le cloud AWS, ses services et la façon dont ils sont mis en place dans différents environnements.
+
 |                                |     |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Jean EYMERIT |
 | 🌍 Site web                    | https://aws.amazon.com/fr/developer/community/usergroups/france/ |
 | 🌍 Meetup                      | https://www.meetup.com/fr-FR/bordeaux-amazon-web-services/       |
 | 🌍 LinkedIn                    | https://www.linkedin.com/company/aws-user-group-bordeaux/        |
