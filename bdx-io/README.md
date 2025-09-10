@@ -1,10 +1,15 @@
 # Bdx I/O ![Logo](./logo-bdx-io.png ':size=100')
 
-|                                |     |
-| ------------------------------ | --- |
-| ✉️ Qui contacter ?              | Amélie Benoit, Coralie |
-| 🌍 Site web                    | https://bdxio.fr/ |
-| Seconde vague                  | https://guild.host/seconde-vague-bdx-i-o/ |
+BDX I/O est une conférence bordelaise sur le thème de la programmation et de ses métiers annexes.
+Lors de l'édition 2024, nous avons reçu plus de 1000 passionné·e·s lors d'une journée de découvertes et de bonne humeur !
+
+✉️ Contact : team@bdxio.fr
+
+🌍 Sites web : 
+
+[bdx.io](https://bdxio.fr/)
+
+[Seconde vague](https://guild.host/seconde-vague-bdx-i-o)
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
