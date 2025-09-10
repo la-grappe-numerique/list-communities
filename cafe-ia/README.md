@@ -1,5 +1,12 @@
 # Café IA ![Logo](./logo-cafe-ia.png ':size=100')
-Un Café IA c’est très simple : où qu’il soit organisé, c’est à la fois un espace d’écoute et de rencontre, un moment de débat et d’échange, une plateforme de mise en commun et d’apprentissage. Un Café IA est informel, frugal, gratuit et pour tout le monde.
+![Image d'un évènement Café IA](./cafe_IA_1.jpg)
+
+
+Un café IA est un moment d’échange au cours duquel les participants peuvent apprendre, expérimenter et débattre pour décider de leurs usages numériques, que ce soit avec, sans ou sur l’intelligence artificielle.
+
+C'est une démarche portée par le Conseil national du numérique devenu par décret le 4 septembre 2025  Conseil de l'intelligence artificielle et du numérique, dans la continuité d‘Itinéraires numériques et de la première proposition du rapport de la commission de l’intelligence artificielle.
+
+Il peut être organisé par des citoyens dans toute la France. Bastien Galay et François Luc Moraud en organisent régulièrement depuis janvier 2025 à Bordeaux.
 
 🌍 Site web : 
 
