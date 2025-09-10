@@ -14,39 +14,69 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 
 <div id="calendar"></div>
 
-## 🍷Les communautés Bordelaises
+## 🍷Les communautés Bordelaises par thème
+
+### Adterworks
+
+- [Apéro Web](apero-web/)
+- [DigitalNights](digitalnights/)
+
+### Conférences
+
+- [Agile Tour Bordeaux](agile-tour-bordeaux/)
+- [Bdx I/O](bdx-io/)
+
+### Data/IA
+- [ApérOps: DataOps & MLOps](bordeaux-aperops/)
+- [Café IA](cafe-ia/)
+- [Data for Good Bordeaux](data-for-good/)
+
+### Design
+
+- [France Design Week Bordeaux](france-design-week-bordeaux/)
+- [Friends of Figma Bordeaux](friends-of-figma-bordeaux/)
+
+### Ecosystèmes/Cloud
+
+- [AWS Bordeaux](aws-bordeaux/)
+- [Cloud Native Bordeaux](cloud-native-bordeaux/)
+- [MTG:Bordeaux](mtg-bordeaux/)
+
+### Généralistes
+- [Aquinum](aquinum/)
+- [Okiwi](okiwi/)
+- [Women in Tech Bordeaux](women-in-tech-bordeaux/)
+
+### Management
+
+- [Agile Bordeaux](agile-bordeaux/)
+- [Human talks](human-talks/)
+- [Serious Gamers Bordeaux](serious-gamers-bordeaux/)
+
+### Programation/3D
 
 - [AFUP Bordeaux](afup-bordeaux/)
-- [Agile Bordeaux](agile-bordeaux/)
-- [Agile Tour Bordeaux](agile-tour-bordeaux/)
-- [Apéro Web](apero-web/)
-- [ApérOps: DataOps & MLOps](bordeaux-aperops/)
-- [Aquilenet](aquilenet/)
-- [Aquinum](aquinum/)
 - [Archilocus](archilocus/)
-- [AWS Bordeaux](aws-bordeaux/)
-- [Bdx I/O](bdx-io/)
 - [BordeauxJS](bordeauxjs/)
 - [BordeauxJug](bordeauxjug/)
 - [BordeauxKt](bordeauxkt/)
 - [Bordeaux Python Meetup](bordeaux-python-meetup/)
 - [Bordeaux XR](bordeaux-xr/)
-- [Café IA](cafe-ia/)
-- [Cloud Native Bordeaux](cloud-native-bordeaux/)
+- [Cocoaheads Bordeaux](cocoaheads/)
 - [Creative Coding Bordeaux](creative-coding-bordeaux/)
-- [DigitalNights](digitalnights/)
-- [Data for Good Bordeaux](data-for-good/)
 - [Framer Bordeaux](framer-bordeaux/)
-- [France Design Week Bordeaux](france-design-week-bordeaux/)
-- [Friends of Figma Bordeaux](friends-of-figma-bordeaux/)
-- [Human talks](human-talks/)
+
+### Sécurité
+
+### Services
+
+- [Aquilenet](aquilenet/)
+- [OpenStreetMap France, groupe local Bordeaux](openstreetmap-bordeaux/)
+
+### Intégration/Orientation par le numérique
+
 - [La boussole de la tech](la-boussole-de-la-tech/)
 - [Le Nom Lieu](le-nom-lieu/)
-- [MTG:Bordeaux](mtg-bordeaux/)
-- [Okiwi](okiwi/)
-- [OpenStreetMap France, groupe local Bordeaux](openstreetmap-bordeaux/)
-- [Serious Gamers Bordeaux](serious-gamers-bordeaux/)
-- [Women in Tech Bordeaux](women-in-tech-bordeaux/)
 
 ## 📅 Les grands événements de la Grappe numérique
 
