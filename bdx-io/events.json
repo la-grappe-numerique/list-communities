@@ -8,6 +8,15 @@
     "location": "Palais des congrès de Bordeaux, Av. Jean Gabriel Domergue, 33300 Bordeaux",
     "is_online": false
   },
+    {
+    "title": "K8S, SaaS, Leadership, Qualité de code, Happiness - Le Tremplin Bordelais 2025",
+    "date": "2025-09-30T18:30:00",
+    "url": "https://www.meetup.com/fr-FR/craftsrecords/events/310781062",
+    "description": "Les conférences Agile Tour Bordeaux et BDX I/O s'associent à CraftsRecords pour organiser une mini-conférence Tremplin le 30 septembre, dédiée aux personnes souhaitant devenir oratrice ou orateur en conférence Tech.",
+    "community": "bdx-io, agile-tour-bordeaux",
+    "location": "Betclic, 117 Quai de Bacalan, 33300 Bordeaux",
+    "is_online": false
+  },
   {
     "title": "Karpenter / Réagir à temps aux menaces dans vos clusters Kubernetes avec Falco et son écosystème",
     "date": "2025-03-13T19:00:00",
