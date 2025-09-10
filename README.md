@@ -16,7 +16,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 
 ## 🍷Les communautés Bordelaises par thème
 
-### Adterworks
+### Afterworks
 
 - [Apéro Web](apero-web/)
 - [DigitalNights](digitalnights/)
