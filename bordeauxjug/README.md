@@ -1,7 +1,7 @@
 # BordeauxJug ![Logo](./logo-bordeaux-jug.png ':size=100')
 
 
-<img src="./session-ia-generative.jpeg" width="49%"> <img src="./session-ia-gemini.jpeg" width="49%">
+<img src="./bordeauxjug/session-ia-generative.jpeg" width="49%"> <img src="./bordeauxjug/session-ia-gemini.jpeg" width="49%">
 
 **BordeauxJUG**
 
