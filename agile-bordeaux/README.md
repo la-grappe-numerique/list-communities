@@ -19,7 +19,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Samedi 06 septembre 2025 à 10:00 | Club de lecture 25.4 - Les livres de l’été | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux | https://www.meetup.com/agile-bordeaux/events/308541098/ |
 | Mardi 16 septembre 2025 à 18:30 | Soirée Serious Game | Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage | https://www.meetup.com/agile-bordeaux/events/309810368/ |
 | Samedi 04 octobre 2025 à 10:00 | Club de lecture 25.5 - L’entreprise robuste | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux | https://www.meetup.com/agile-bordeaux/events/308541210/ |
 
@@ -30,6 +29,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Samedi 06 septembre 2025 à 10:00 | Club de lecture 25.4 - Les livres de l’été | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux | https://www.meetup.com/agile-bordeaux/events/308541098/ |
 | Samedi 14 juin 2025 à 10:00 | Club de lecture 25.3 - Ecotopia | Lieu-dit Jambriaud à Saint-Hilaire d'Estissac | https://www.meetup.com/agile-bordeaux/events/307181506/? |
 | Samedi 05 avril 2025 à 10:00 | Club de lecture 25.2 - Petit manuel de résistance contemporaine | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/agile-bordeaux/events/306121267/ |
 | Jeudi 13 mars 2025 à 18:30 | Scrum ET Kanban - L’alliage résilient de l’amélioration continue de vos produits | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/agile-bordeaux/events/305865751/ |
