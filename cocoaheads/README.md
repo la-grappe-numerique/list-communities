@@ -1,18 +1,16 @@
-# cocoaheads
+# Cocoaheads ![Logo cocoaheads](./cocoaheads-logo.jpg ':size=100')
+![Image d'un évènement Cocoaheads](./cocoaheads_1.png)
 
-|                                |     |
-| ------------------------------ | --- |
-| ✉️ Robin Kanatzar |
-| 🌐 Site web | https://cocoaheads-bordeaux.notion.site/ |
-
-Bienvenue sur Cocoaheads Bordeaux, le chapitre local de [http://cocoaheads.org/](http://cocoaheads.org/).
+Bienvenue sur Cocoaheads Bordeaux, le groupe local de [http://cocoaheads.org/](http://cocoaheads.org/).
 
 CocoaHeads est un groupe de discussion sur les frameworks Cocoa et CocoaTouch d'Apple Computer pour la programmation sur MacOS X et iOS.
 
 Lors de nos meetups, les membres présentent leurs projets et des tutoriels sur divers sujets de programmation.
 
-Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/cocoaheads/events.ics](./events.ics ':ignore')
+✉️ Contact : cocoaheads.bordeaux@gmail.com
+
+🌍 Site web : https://cocoaheads-bordeaux.notion.site
+
 
 <!-- EVENTS:START -->
 <!-- EVENTS:END -->
