@@ -1,7 +1,7 @@
 # BordeauxJug ![Logo](./logo-bordeaux-jug.png ':size=100')
 
 
-<img src="./bordeauxjug/session-ia-generative.jpeg" width="49%"> <img src="./bordeauxjug/session-ia-gemini.jpeg" width="49%">
+<img src="https://www.lagrappenumerique.fr/bordeauxjug/session-ia-generative.jpeg" width="49%"> <img src="https://www.lagrappenumerique.fr/bordeauxjug/session-ia-gemini.jpeg" width="49%">
 
 **BordeauxJUG**
 
