@@ -35,6 +35,24 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/308541210/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Bière Agile de Bordeaux
+DTSTART;TZID=Europe/Paris:20250917T183000
+DTEND;TZID=Europe/Paris:20250917T203000
+UID:https://www.linkedin.com/events/bi-reagilebordeaux7371811827380391936/
+ @community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/bi-reagilebordeaux7371811
+ 827380391936/\n📍 Le Cornichon - 1 Quai Richelieu\, 33000 Bordeaux\n\nEn
+ vie de partager un moment convivial entre agilistes ?\n\nOn se retrouve le
+  17 septembre à partir de 18h30 (jusqu’à 20h… ou plus si affinités)
+  au bar Le Cornichon à Bordeaux (https://maps.app.goo.gl/tapxo9Gmbh8fJ367
+ 6).\n\nPas d’agenda\, pas de backlog : juste des verres qui trinquent\, 
+ des échanges spontanés et un bon moment ensemble.\n\nFaites passer le mo
+ t\, plus on est de fous\, plus on rit !\n\nCommunauté: agile-bordeaux
+LOCATION:Le Cornichon - 1 Quai Richelieu\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/bi-reagilebordeaux7371811827380391936/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Soirée Serious Game
 DTSTART;TZID=Europe/Paris:20250916T183000
 DTEND;TZID=Europe/Paris:20250916T203000

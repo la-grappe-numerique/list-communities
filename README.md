@@ -93,9 +93,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 10 septembre 2025 à 18:30 | [grappe-numerique](grappe-numerique/) | [Soirée de lancement de la grappe numérique](https://www.linkedin.com/events/7361051227616362499/) | Le node, 12 rue des Faussets, 33000 Bordeaux |
 | Jeudi 11 septembre 2025 à 19:00 | [bordeauxkt](bordeauxkt/) | [Caupain : comment vous aussi, vous pouvez créer un outil open source](https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-pouvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator) | Deezer, 20 Rue Saint-François, 33000 Bordeaux |
 | Mardi 16 septembre 2025 à 18:30 | [serious-gamers-bordeaux](serious-gamers-bordeaux/) | [Soirée Serious Game](https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/) | Capgemini Mérignac 19 All. James Watt · MERIGNAC |
+| Mardi 16 septembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Soirée Serious Game](https://www.meetup.com/agile-bordeaux/events/309810368/) | Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

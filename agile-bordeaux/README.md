@@ -20,6 +20,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mardi 16 septembre 2025 à 18:30 | Soirée Serious Game | Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage | https://www.meetup.com/agile-bordeaux/events/309810368/ |
+| Mercredi 17 septembre 2025 à 18:30 | La Bière Agile de Bordeaux | Le Cornichon - 1 Quai Richelieu, 33000 Bordeaux | https://www.linkedin.com/events/bi-reagilebordeaux7371811827380391936/ |
 | Samedi 04 octobre 2025 à 10:00 | Club de lecture 25.5 - L’entreprise robuste | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux | https://www.meetup.com/agile-bordeaux/events/308541210/ |
 
 ## 📆 Past Events
