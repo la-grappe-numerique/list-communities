@@ -12,9 +12,13 @@ Nous organisons des soirées autour de présentations techniques pour discuter d
 | Réseaux            | [LinkedIn](https://www.linkedin.com/company/bordeauxkt/) • [YouTube](https://www.youtube.com/@BordeauxKt) |
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 11 septembre 2025 à 19:00 | Caupain : comment vous aussi, vous pouvez créer un outil open source | Deezer, 20 Rue Saint-François, 33000 Bordeaux | https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-pouvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator |
+</details>
 <!-- EVENTS:END -->
