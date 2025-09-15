@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/aws-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Lundi 15 septembre 2025 à 18:30 | Meetup AWS de rentrée : entre IA, développement et créativité | Daveo Bordeaux, 23 Parv. des Chartrons, 33000 Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/310813673/ |
+
 ## 📆 Past Events
 
 <details>

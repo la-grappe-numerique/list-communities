@@ -5,6 +5,41 @@ X-WR-CALDESC:Calendrier des événements de la communauté aws-bordeaux
 X-WR-CALNAME:Événements aws-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Meetup AWS de rentrée : entre IA\, développement et créativité
+DTSTART;TZID=Europe/Paris:20250915T183000
+DTEND;TZID=Europe/Paris:20250915T203000
+UID:https://www.meetup.com/bordeaux-amazon-web-services/events/310813673/@
+ community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
+ s/310813673/\n📍 Daveo Bordeaux\, 23 Parv. des Chartrons\, 33000 Bordeau
+ x\n\nHello tout le monde ! 👋\n\nC'est la rentrée ! 🎒\nNous sommes r
+ avis de relancer les meetups AWS User Group Bordeaux avec une soirée exce
+ ptionnelle dédiée à l'IA générative et au développement !\n\nPour ce
+ tte reprise\, nous avons la chance d'accueillir directement des experts d'
+ AWS qui viendront partager leur connaissances ! 🚀\n🗓️ Quand ? Lund
+ i 15 septembre\, à partir de 18h30\n📍 Où ? Daveo (23 Parv. des Chartr
+ ons\, 33000 Bordeaux)\n\n📋 Au programme : Une soirée passionnante avec
+  des talks inspirants pour bien démarrer cette nouvelle saison !\n\n🎯 
+ L'Avenir des Développeurs à l'Ère de l'IA Générative\npar Sebastien S
+ tormacq\, Principal Developer Advocate AWS\n\nL'IA générative va-t-elle 
+ remplacer les développeurs ? Spoiler : non ! Découvrez comment l'IA red
+ éfinit notre métier et devient un collaborateur plutôt qu'un concurrent
+ . Entre analogies\, humour et vérités sobres\, explorons ensemble l'arch
+ étype émergent du développeur moderne.\n\n🎲 Créer un maître du jeu
+  (de rôle) multi-agents avec Strands\npar Olivier Leplus\, AWS\n\nPlongez
+  dans l'univers des jeux de rôle sur table et découvrez comment construi
+ re un assistant MJ multi-agents avec Strands. Une démonstration fascinant
+ e alliant créativité\, improvisation et technologie pour révolutionner 
+ l'expérience du jeu de rôle !\n\nMerci à Daveo qui nous accueille !\n\n
+ ⚠️ Attention : places limitées ! Inscrivez-vous dès maintenant pour 
+ ne pas manquer cette soirée de rentrée unique entre IA\, développement 
+ et créativité.\n\nAu plaisir de vous retrouver nombreux pour cette repri
+ se !\n\nL'équipe AWS User Group Bordeaux\n\nCommunauté: aws-bordeaux
+LOCATION:Daveo Bordeaux\, 23 Parv. des Chartrons\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-amazon-web-services/events/310813673/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meetup AWS re:Invent re:Cap
 DTSTART;TZID=Europe/Paris:20250220T183000
 DTEND;TZID=Europe/Paris:20250220T203000
