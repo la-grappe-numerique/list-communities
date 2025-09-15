@@ -1,5 +1,14 @@
 [
   {
+    "title": "Meetup AWS de rentrée : entre IA, développement et créativité",
+    "date": "2025-09-15T18:30:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/310813673/",
+    "description": "Hello tout le monde ! 👋\n\nC'est la rentrée ! 🎒\nNous sommes ravis de relancer les meetups AWS User Group Bordeaux avec une soirée exceptionnelle dédiée à l'IA générative et au développement !\n\nPour cette reprise, nous avons la chance d'accueillir directement des experts d'AWS qui viendront partager leur connaissances ! 🚀\n🗓️ Quand ? Lundi 15 septembre, à partir de 18h30\n📍 Où ? Daveo (23 Parv. des Chartrons, 33000 Bordeaux)\n\n📋 Au programme : Une soirée passionnante avec des talks inspirants pour bien démarrer cette nouvelle saison !\n\n🎯 L'Avenir des Développeurs à l'Ère de l'IA Générative\npar Sebastien Stormacq, Principal Developer Advocate AWS\n\nL'IA générative va-t-elle remplacer les développeurs ? Spoiler : non ! Découvrez comment l'IA redéfinit notre métier et devient un collaborateur plutôt qu'un concurrent. Entre analogies, humour et vérités sobres, explorons ensemble l'archétype émergent du développeur moderne.\n\n🎲 Créer un maître du jeu (de rôle) multi-agents avec Strands\npar Olivier Leplus, AWS\n\nPlongez dans l'univers des jeux de rôle sur table et découvrez comment construire un assistant MJ multi-agents avec Strands. Une démonstration fascinante alliant créativité, improvisation et technologie pour révolutionner l'expérience du jeu de rôle !\n\nMerci à Daveo qui nous accueille !\n\n⚠️ Attention : places limitées ! Inscrivez-vous dès maintenant pour ne pas manquer cette soirée de rentrée unique entre IA, développement et créativité.\n\nAu plaisir de vous retrouver nombreux pour cette reprise !\n\nL'équipe AWS User Group Bordeaux",
+    "community": "aws-bordeaux",
+    "location": "Daveo Bordeaux, 23 Parv. des Chartrons, 33000 Bordeaux",
+    "is_online": false
+  },
+  {
     "title": "Meetup AWS re:Invent re:Cap",
     "date": "2025-02-20T18:30:00+01:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/",
