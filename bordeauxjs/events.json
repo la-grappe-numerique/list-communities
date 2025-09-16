@@ -1,5 +1,14 @@
 [
   {
+    "title": "odfjs, une bibliothèque pour générer et manipuler les fichiers .odt et .ods",
+    "date": "2025-10-02T19:00:00",
+    "url": "https://www.linkedin.com/events/odfjs-unebiblioth-quepourg-n-re7373626860389273600/",
+    "description": "Waaaaa ! Comment ça a l'air boring cette conf !!!\n\nMais en vrai, David Bruant et Clémence Fernandez raconteront comment odfjs aide le Ministère de la Biodiversité à la protection des espèces et la lutte contre les pollutions de l'eau\n\nNous parlerons aussi de l'architecture technique et des défis les plus épineux que nous avons rencontré.es\n\nPour les impatient.es, le repo est là : [github](https://github.com/odfjs/odfjs)",
+    "community": "bordeauxjs",
+    "location": "Le node, 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false
+  },
+  {
     "title": "La clean architecture et les tests unitaires : et si c'était simple ?",
     "date": "2025-09-18T19:00:00",
     "url": "https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",
