@@ -13,12 +13,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/aws-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Lundi 15 septembre 2025 à 18:30 | Meetup AWS de rentrée : entre IA, développement et créativité | Daveo Bordeaux, 23 Parv. des Chartrons, 33000 Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/310813673/ |
-
 ## 📆 Past Events
 
 <details>
@@ -26,6 +20,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/aws-bordeaux/events.ics](./eve
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Lundi 15 septembre 2025 à 18:30 | Meetup AWS de rentrée : entre IA, développement et créativité | Daveo Bordeaux, 23 Parv. des Chartrons, 33000 Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/310813673/ |
 | Jeudi 20 février 2025 à 18:30 | Meetup AWS re:Invent re:Cap | Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux | https://www.meetup.com/bordeaux-amazon-web-services/events/306133089/ |
 </details>
 

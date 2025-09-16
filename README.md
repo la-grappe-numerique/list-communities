@@ -93,9 +93,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 15 septembre 2025 à 18:30 | [aws-bordeaux](aws-bordeaux/) | [Meetup AWS de rentrée : entre IA, développement et créativité](https://www.meetup.com/bordeaux-amazon-web-services/events/310813673/) | Daveo Bordeaux, 23 Parv. des Chartrons, 33000 Bordeaux |
 | Mardi 16 septembre 2025 à 18:30 | [serious-gamers-bordeaux](serious-gamers-bordeaux/) | [Soirée Serious Game](https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/) | Capgemini Mérignac 19 All. James Watt · MERIGNAC |
 | Mardi 16 septembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Soirée Serious Game](https://www.meetup.com/agile-bordeaux/events/309810368/) | Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage |
+| Mercredi 17 septembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [La Bière Agile de Bordeaux](https://www.linkedin.com/events/bi-reagilebordeaux7371811827380391936/) | Le Cornichon - 1 Quai Richelieu, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

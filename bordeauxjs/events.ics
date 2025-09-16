@@ -5,6 +5,27 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:odfjs\, une bibliothèque pour générer et manipuler les fichiers
+  .odt et .ods
+DTSTART;TZID=Europe/Paris:20251002T190000
+DTEND;TZID=Europe/Paris:20251002T210000
+UID:https://www.linkedin.com/events/odfjs-unebiblioth-quepourg-n-re7373626
+ 860389273600/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/odfjs-unebiblioth-quepour
+ g-n-re7373626860389273600/\n📍 Le node\, 12 Rue des Faussets\, 33000 Bor
+ deaux\n\nWaaaaa ! Comment ça a l'air boring cette conf !!!\n\nMais en vra
+ i\, David Bruant et Clémence Fernandez raconteront comment odfjs aide le 
+ Ministère de la Biodiversité à la protection des espèces et la lutte c
+ ontre les pollutions de l'eau\n\nNous parlerons aussi de l'architecture te
+ chnique et des défis les plus épineux que nous avons rencontré.es\n\nPo
+ ur les impatient.es\, le repo est là : [github](https://github.com/odfjs/
+ odfjs)\n\nCommunauté: bordeauxjs
+LOCATION:Le node\, 12 Rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/odfjs-unebiblioth-quepourg-n-re7373626
+ 860389273600/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La clean architecture et les tests unitaires : et si c'était simp
  le ?
 DTSTART;TZID=Europe/Paris:20250918T190000
