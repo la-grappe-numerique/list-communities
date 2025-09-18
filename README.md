@@ -93,9 +93,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 16 septembre 2025 à 18:30 | [serious-gamers-bordeaux](serious-gamers-bordeaux/) | [Soirée Serious Game](https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/) | Capgemini Mérignac 19 All. James Watt · MERIGNAC |
-| Mardi 16 septembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Soirée Serious Game](https://www.meetup.com/agile-bordeaux/events/309810368/) | Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage |
-| Mercredi 17 septembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [La Bière Agile de Bordeaux](https://www.linkedin.com/events/bi-reagilebordeaux7371811827380391936/) | Le Cornichon - 1 Quai Richelieu, 33000 Bordeaux |
+| Jeudi 18 septembre 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [La clean architecture et les tests unitaires : et si c'était simple ?](https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) | Le Node, 12 rue des Faussets, Bordeaux, France |
+| Mercredi 24 septembre 2025 à 18:30 | [bordeaux-xr](bordeaux-xr/) | [Bordeaux XR - Tendances XR en recherche](https://www.eventbrite.fr/e/bordeaux-xr-tendances-xr-en-recherche-tickets-1612001974299) | Le Node, 12 rue des Faussets, 33000 Bordeaux |
+| Jeudi 25 septembre 2025 à 18:30 | [aquinum](aquinum/) | [Happynum de septembre (avec Coop alpha)](https://nextcloud.coopalpha.coop/index.php/apps/forms/s/BGs7tdKGbYgiNE33sXA2GYFm) | Le node, 12 rue des faussets, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

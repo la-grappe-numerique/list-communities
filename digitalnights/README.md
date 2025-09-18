@@ -13,7 +13,4 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/digitalnights/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-## 📆 Past Events
 <!-- EVENTS:END -->

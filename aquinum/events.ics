@@ -5,6 +5,28 @@ X-WR-CALDESC:Calendrier des événements de la communauté aquinum
 X-WR-CALNAME:Événements aquinum
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Happynum de septembre (avec Coop alpha)
+DTSTART;TZID=Europe/Paris:20250925T183000
+DTEND;TZID=Europe/Paris:20250925T203000
+UID:https://nextcloud.coopalpha.coop/index.php/apps/forms/s/BGs7tdKGbYgiNE
+ 33sXA2GYFm@community-events
+DESCRIPTION:🔗 https://nextcloud.coopalpha.coop/index.php/apps/forms/s/B
+ Gs7tdKGbYgiNE33sXA2GYFm\n📍 Le node\, 12 rue des faussets\, 33000 Bordea
+ ux\n\n[Aquinum x CoopAlpha : L'Afterwork des Talents !] [AQUINUM](https://
+ www.linkedin.com/company/aquinum/)\, l'association des professionnels du n
+ umérique\, et [COOP'ALPHA](https://www.linkedin.com/company/coop-alpha/)\
+ , vous convient à un afterwork convivial qui mettra en lumière les talen
+ ts de nos réseaux.\n\nAu programme : Une présentation croisée entre un 
+ adhérent d'Aquinum et un coopérateur de CoopAlpha. L’occasion parfaite
+  pour découvrir des parcours inspirants et échanger autour d’un verre.
+ \n\nVous travaillez dans le numérique\, vous êtes indépendant (ou pas) 
+ ? On se retrouve le 25 !\n\nCommunauté: aquinum
+LOCATION:Le node\, 12 rue des faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://nextcloud.coopalpha.coop/index.php/apps/forms/s/BGs7tdKGbYgiNE
+ 33sXA2GYFm
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Happynum de juin
 DTSTART;TZID=Europe/Paris:20250626T183000
 DTEND;TZID=Europe/Paris:20250626T203000

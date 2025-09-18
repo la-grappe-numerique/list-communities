@@ -46,13 +46,15 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/serious-gamers-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mardi 16 septembre 2025 à 18:30 | Soirée Serious Game | Capgemini Mérignac 19 All. James Watt · MERIGNAC | https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/ |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2024</summary>

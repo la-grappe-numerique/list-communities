@@ -15,6 +15,12 @@ L'association organise plus de 150 événements par an, contribuant ainsi active
 🌍 Site web : https://www.aquinum.fr
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 25 septembre 2025 à 18:30 | Happynum de septembre (avec Coop alpha) | Le node, 12 rue des faussets, 33000 Bordeaux | https://nextcloud.coopalpha.coop/index.php/apps/forms/s/BGs7tdKGbYgiNE33sXA2GYFm |
+
 ## 📆 Past Events
 
 <details>
