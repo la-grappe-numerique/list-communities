@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/aws-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 09 octobre 2025 à 18:00 | AWS GameDay Francophone 2025 - Going serverless | Epitech Bordeaux, 16 Rue Théodore Blanc, 33520 Bruges | https://www.meetup.com/bordeaux-amazon-web-services/events/311306392/ |
+
 ## 📆 Past Events
 
 <details>

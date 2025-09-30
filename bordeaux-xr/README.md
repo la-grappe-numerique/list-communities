@@ -21,12 +21,6 @@ Un moment **détente et convivial** autour de pizzas et boissons pour échanger,
 | 📆 La fréquence des évènements | Bimestriel |
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Mercredi 24 septembre 2025 à 18:30 | Bordeaux XR - Tendances XR en recherche | Le Node, 12 rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/bordeaux-xr-tendances-xr-en-recherche-tickets-1612001974299 |
-
 ## 📆 Past Events
 
 <details>
@@ -34,6 +28,7 @@ Un moment **détente et convivial** autour de pizzas et boissons pour échanger,
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mercredi 24 septembre 2025 à 18:30 | Bordeaux XR - Tendances XR en recherche | Le Node, 12 rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/bordeaux-xr-tendances-xr-en-recherche-tickets-1612001974299 |
 | Mercredi 18 juin 2025 à 18:30 | Bordeaux XR - Meetup #pre-launch | Le Node, 12 rue des Faussets, Bordeaux | https://www.linkedin.com/events/bordeauxxr-meetup-pre-launch7331004824588611584/ |
 </details>
 <!-- EVENTS:END -->

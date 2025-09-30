@@ -123,6 +123,17 @@
     ]
   },
   {
+    "title": "AWS GameDay Francophone 2025 - Going serverless",
+    "date": "2025-10-09T18:00:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/311306392/",
+    "description": "🌍 Une soirée, 10 pays, 18 villes, une seule communauté !\n\nPour la toute première fois, les user groups AWS francophones d’Afrique et d’Europe s’unissent pour organiser un GameDay international et simultané. Que vous soyez à Grenoble, Dakar, Casablanca, Genève, Abidjan, Lyon ou ailleurs… vous participerez au même challenge, au même moment, dans 17 lieux différents, tous reliés par une seule mission : s’amuser, apprendre et relever un défi AWS ensemble.\nRetrouvez la liste complête des lieux sur notre site : [awscommunityfrancophone](https://www.awscommunityfrancophone.com/)\n\n🦄 Qu’est-ce qu’un GameDay AWS ?\nUn AWS GameDay est un événement d’apprentissage ludique qui met les participants au défi d’utiliser les solutions AWS pour résoudre des problèmes techniques réels en équipe. Contrairement aux ateliers traditionnels, les GameDays sont ouverts et non prescriptifs, offrant aux participants la liberté d’explorer et de penser en dehors des sentiers battus.\n\n📌 Le thème : Going Serverless!\nL’événement s’adresse à toute personne ayant une connaissance générale d’AWS – pas besoin d’être expert !\nEmbarquez vos amis ou collègues - vous pouvez former une équipe avec eux, de 3 à 4 joueurs.\nAvez-vous déjà une équipe ? 👉 Inscription de votre équipe par ici : https://forms.fillout.com/t/voD9uk6auZus\nPas d’équipe ? 👉 Pas de problème, on vous en trouvera une. Mais indiquez le nous : https://forms.fillout.com/t/voD9uk6auZus\n\n🏆 Prix pour les 3 premières équipes :\n\n1er : 4 licences VizCon, 4 hoodies, 4 sacs à dos et 4 codes de crédits AWS de 50€\n2ème : 2 hoodies, 2 sacs à dos et 4 codes de crédits AWS de 50€\n3ème : 4 codes de crédits AWS de 50€\n🔧 Infos pratiques\n\nÉquipes : 3 à 4 joueurs – venez avec votre équipe ou nous en formerons une sur place.\nMatériel : votre fidèle ordinateur portable – une connexion internet sera fournie.\nRestauration : collations, boissons et repas léger disponibles tout au long de la soirée.\nCompte AWS : fourni sur place, aucun compte personnel requis.\nDurée du jeu : environ 2h15 de compétition entre les équipes locales et internationales.\n🕒 Agenda\n18h00 – 18h30 : Arrivée & connexion à la plateforme\n18h30 – 18h45 : Introduction au GameDay\n18h45 – 20h30 : Déroulement du jeu (snacks & boissons à volonté)\n21h00 : Cérémonie de clôture - Des prix seront remis aux meilleures équipes 🎁\n\n🤝 Rejoignez la communauté, on vous attend sur [le Slack des utilisateurs AWS francophones](https://sebs.to/frmeetup) pour échanger avant et après l’événement !\nAu plaisir de vous y voir nombreux !",
+    "location": "Epitech Bordeaux, 16 Rue Théodore Blanc, 33520 Bruges",
+    "is_online": false,
+    "communities": [
+      "aws-bordeaux"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2025-10-06T18:30:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb/",
@@ -242,7 +253,7 @@
   {
     "title": "Soirée Serious Game",
     "date": "2025-09-16T18:30:00",
-    "url": "https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/",
+    "url": "https://www.meetup.com/agile-bordeaux/events/309810368/",
     "description": "Que diriez-vous d'une soirée Serious Game ?\nC'est exactement ce que nous vous proposons en partenariat avec Serious Gamers in Bordeaux (https://www.meetup.com/seriousgamers-bordeaux).\nPour cette belle occasion, c'est Capgemini qui nous accueille, et c'est Alain qui nous a concocté un atelier : **l'usine des animaux en briques**.\n\n_Notre usine fabrique des animaux en briques pour le plus grand plaisir des petits et des grands depuis plus de 50 ans.\nDepuis quelques temps nos clients trouvent que nos délais de fabrications sont trop importants. Et nous cherchons des solutions pour leur livrer plus vite leurs commandes.\nPour cela nous avons besoin d'un équipe de professionnels experts en assemblages de briques.\nToi qui lit cela : sauras tu relever le défi et nous sauver de la banqueroute ?\nNous désespérons de trouver une solution. Sera tu la bonne personne ?\nAu travers de la manipulation des briques LEGO nous allons explorer le flux et ces aléas pour en tirer de précieux enseignements qui nous aiderons certainement dans notre quotidien de professionnels_\n\nMais n'attendez pas plus : réservez dores et déjà votre soirée !\n\nOn vous attend donc le 16 septembre à 18h30, entrée D du bâtiment, 2ème étage.",
     "location": "Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage",
     "is_online": false,
@@ -626,24 +637,6 @@
     ]
   },
   {
-    "title": "Elasticsearch Query Language: ES|QL",
-    "date": "2025-03-20T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
-    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 4,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Super-Apéro 2025",
     "date": "2025-03-20T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
@@ -662,10 +655,10 @@
     ]
   },
   {
-    "title": "Assemblée Générales 2025",
-    "date": "2025-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
-    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
+    "title": "Elasticsearch Query Language: ES|QL",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
+    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
     "is_online": false,
     "venue": {
       "name": "ENSEIRB",
@@ -674,7 +667,7 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 6,
+    "rsvp_count": 4,
     "communities": [
       "bordeauxjug"
     ]
@@ -696,6 +689,24 @@
     "rsvp_count": 8,
     "communities": [
       "cloud-native-bordeaux"
+    ]
+  },
+  {
+    "title": "Assemblée Générales 2025",
+    "date": "2025-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
+    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 6,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -776,24 +787,6 @@
     ]
   },
   {
-    "title": "La gestion d'erreurs en Javascript",
-    "date": "2025-02-26T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjs/events/306025718/",
-    "description": "“Peut-être a-t-on besoin d’erreurs pour se sentir humain” a dit l’architecte Frank Gehry. Si nous ne tenterons pas de répondre à cette vaste question, l’architecture logicielle a elle besoin de gérer nos erreurs… Comment prendre en compte l’imprévu en gardant un code testable, typé et expressif ? En partant d’exemples concrets, je vous propose de passer en revue plusieurs patterns, de l’impératif au fonctionnel, et examiner leurs trade-offs pour en tirer le meilleur.\nMerci à [Guiild](https://www.guiild.fr/) qui nous propose un apéritif pour clore le meetup.Un immense merci à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil ! 🍾",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 47,
-    "communities": [
-      "bordeauxjs"
-    ]
-  },
-  {
     "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
     "date": "2025-02-26T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
@@ -809,6 +802,24 @@
     "rsvp_count": 18,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "La gestion d'erreurs en Javascript",
+    "date": "2025-02-26T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/306025718/",
+    "description": "“Peut-être a-t-on besoin d’erreurs pour se sentir humain” a dit l’architecte Frank Gehry. Si nous ne tenterons pas de répondre à cette vaste question, l’architecture logicielle a elle besoin de gérer nos erreurs… Comment prendre en compte l’imprévu en gardant un code testable, typé et expressif ? En partant d’exemples concrets, je vous propose de passer en revue plusieurs patterns, de l’impératif au fonctionnel, et examiner leurs trade-offs pour en tirer le meilleur.\nMerci à [Guiild](https://www.guiild.fr/) qui nous propose un apéritif pour clore le meetup.Un immense merci à [Aquinum](https://www.aquinum.fr/coworking-bordeaux/) pour l'accueil ! 🍾",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_count": 47,
+    "communities": [
+      "bordeauxjs"
     ]
   },
   {
@@ -1283,24 +1294,6 @@
     ]
   },
   {
-    "title": "Design First : OpenApi et AsyncApi en action !",
-    "date": "2024-09-26T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
-    "description": "Aujourd'hui en terme d'API nous notons deux grandes familles, les **API Synchrones** (de type REST par exemple) et **Asynchrone** (Messaging, Topic).\nAfin d'uniformiser et de spécifier des contrats d'interface clair, deux spécifications ont peu à peu emmergées : **OpenApi** d'un côté pour les API REST et **AsyncApi** dans le cadre des architecture évenmentielles **(EDA).**\nNous allons voir au travers de ce talk et de démos ce qu'apportent ces deux spécifications en terme de design, de documentation mais également en terme de génération de code.\nCe principe appelé **Design First** consiste à Définir son API (REST ou Asynchrone) en amont et de bénéficier d'outils divers et variés pour manipuler ces contrats.\nJe ne prétends pas détenir la vérité absolue, ce sont plutôt mes réflexions au grès de mes expériences autour des APIs REST puis désormais Asynchrones que j'essaye de promouvoir auprès de clients et développeurs.",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 29,
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
     "date": "2024-09-26T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
@@ -1316,6 +1309,24 @@
     "rsvp_count": 25,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Design First : OpenApi et AsyncApi en action !",
+    "date": "2024-09-26T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
+    "description": "Aujourd'hui en terme d'API nous notons deux grandes familles, les **API Synchrones** (de type REST par exemple) et **Asynchrone** (Messaging, Topic).\nAfin d'uniformiser et de spécifier des contrats d'interface clair, deux spécifications ont peu à peu emmergées : **OpenApi** d'un côté pour les API REST et **AsyncApi** dans le cadre des architecture évenmentielles **(EDA).**\nNous allons voir au travers de ce talk et de démos ce qu'apportent ces deux spécifications en terme de design, de documentation mais également en terme de génération de code.\nCe principe appelé **Design First** consiste à Définir son API (REST ou Asynchrone) en amont et de bénéficier d'outils divers et variés pour manipuler ces contrats.\nJe ne prétends pas détenir la vérité absolue, ce sont plutôt mes réflexions au grès de mes expériences autour des APIs REST puis désormais Asynchrones que j'essaye de promouvoir auprès de clients et développeurs.",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 29,
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -3034,24 +3045,6 @@
     ]
   },
   {
-    "title": "Manuel de sabotage du partage de connaissances",
-    "date": "2023-02-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjs/events/291437327/",
-    "description": "Au programme de ce meetup :\n**Manuel de sabotage du partage de connaissances** Par Cédric Teyton, CEO & Co-Founder chez Promyze.\nContribuer à sauver le climat en infiltrant l'ennemi, ça vous tente ?\nVoici une mission digne des plus grands films d'espionnage. Vous le savez surement, le potentiel du partage d'expertises et de connaissances est largement sous-exploité dans les entreprises Tech.\nLa faute parfois à un manque d'initiative en interne et de moyens pour soutenir la démarche, mais aussi à des mauvaises pratiques dans les processus d'interactions au sein des équipes.\nVotre mission consiste à infiltrer une multinationale dont l'action est nocive pour le climat, et de nuire à toute initiative de partage de connaissances dans les équipes d'ingénierie. Cela permettra de retarder les livraisons de leurs applications, d'augmenter les défauts de qualité, de frustrer les équipes et d'augmenter le turnover.\nCe talk vous donnera une formation accélérer pour atteindre vos objectifs, avec des astuces sur:\n* Comment nuire aux communautés de pratiques* Comment mal se comporter lors des sessions de Pair/Mob programming et les revues de code* Comment ennuyer les guildes en demandant des ROIs injustifiés sur leurs sessions* Comment indiquer au management qu'il ne faut surtout pas financer les livres discutés lors des book clubs\nNous verrons donc quelques conseils pour avancer masqué.e, atteindre votre objectif, et contribuer à sauver le climat.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de l'**ECV** où à la suite de ce meetup nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 ECV, 26 Rue Esprit des Lois",
-    "is_online": false,
-    "venue": {
-      "name": "26 Rue Esprit des Lois",
-      "address": "26 Rue Esprit des Lois",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "26 Rue Esprit des Lois, Bordeaux",
-    "rsvp_count": 22,
-    "communities": [
-      "bordeauxjs"
-    ]
-  },
-  {
     "title": "JOOQ, joy of SQL",
     "date": "2023-02-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
@@ -3067,6 +3060,24 @@
     "rsvp_count": 10,
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Manuel de sabotage du partage de connaissances",
+    "date": "2023-02-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/291437327/",
+    "description": "Au programme de ce meetup :\n**Manuel de sabotage du partage de connaissances** Par Cédric Teyton, CEO & Co-Founder chez Promyze.\nContribuer à sauver le climat en infiltrant l'ennemi, ça vous tente ?\nVoici une mission digne des plus grands films d'espionnage. Vous le savez surement, le potentiel du partage d'expertises et de connaissances est largement sous-exploité dans les entreprises Tech.\nLa faute parfois à un manque d'initiative en interne et de moyens pour soutenir la démarche, mais aussi à des mauvaises pratiques dans les processus d'interactions au sein des équipes.\nVotre mission consiste à infiltrer une multinationale dont l'action est nocive pour le climat, et de nuire à toute initiative de partage de connaissances dans les équipes d'ingénierie. Cela permettra de retarder les livraisons de leurs applications, d'augmenter les défauts de qualité, de frustrer les équipes et d'augmenter le turnover.\nCe talk vous donnera une formation accélérer pour atteindre vos objectifs, avec des astuces sur:\n* Comment nuire aux communautés de pratiques* Comment mal se comporter lors des sessions de Pair/Mob programming et les revues de code* Comment ennuyer les guildes en demandant des ROIs injustifiés sur leurs sessions* Comment indiquer au management qu'il ne faut surtout pas financer les livres discutés lors des book clubs\nNous verrons donc quelques conseils pour avancer masqué.e, atteindre votre objectif, et contribuer à sauver le climat.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de l'**ECV** où à la suite de ce meetup nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 ECV, 26 Rue Esprit des Lois",
+    "is_online": false,
+    "venue": {
+      "name": "26 Rue Esprit des Lois",
+      "address": "26 Rue Esprit des Lois",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "26 Rue Esprit des Lois, Bordeaux",
+    "rsvp_count": 22,
+    "communities": [
+      "bordeauxjs"
     ]
   },
   {
@@ -3238,24 +3249,6 @@
     ]
   },
   {
-    "title": "Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)",
-    "date": "2022-10-18T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjs/events/289042639/",
-    "description": "Au programme de ce meetup en collaboration avec Women In Tech Bordeaux, nous assisterons à deux présentations :\n**Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital ?** par **Noémie** M. Rivière, Senior Product Designer UX/UI chez Onepoint.\nL’inclusivité gagne du terrain dans le débat public, les marques s’y mettent timidement… comment les services et produits digitaux peuvent-ils se faire les porte-parole des minorités dans le fond comme dans la forme ?\n**0100(2) actions simples pour favoriser l’inclusion des femmes dans la Tech.** Par **Anne-Laure** Gaillard, Staff Quality Advisor chez ManoMano et **Coralie** Broteille, Développeuse chez Mano Mano\n20% : c’est la proportion de femmes dans l’informatique. Vous trouvez ça suffisant ? Nous, non ! Nous croyons que la solution n’est pas simplement de féminiser les équipes. Nous pensons qu’être toutes et tous intégré⸱e⸱s dans un environnement de travail plus inclusif est une vraie opportunité pour l'entreprise, d'un point de vue humain et économique. Ces 6 derniers mois, nous avons cherché à comprendre pourquoi les femmes dans la Tech sont sous représentées et vont jusqu’à parfois quitter le domaine. Lors de cette intervention, nous partagerons nos vécues ainsi que celui des femmes autour de nous : les challenges quotidiens que nous sommes nombreuses à vivre. Quelles solutions / actions concrètes pouvons-nous y apporter ? Nous vous présenterons des actions et propositions simples pour favoriser l'inclusion des femmes dans la Tech.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nNous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de SFEiR où à la suite de cette présentation nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 SFEiR, 5 rue de condé, 33300 Bordeaux",
-    "is_online": false,
-    "venue": {
-      "name": "SFEIR Bordeaux",
-      "address": "5 Rue de Condé",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "5 Rue de Condé, Bordeaux",
-    "rsvp_count": 23,
-    "communities": [
-      "bordeauxjs"
-    ]
-  },
-  {
     "title": "Micronaut Test Resources",
     "date": "2022-10-18T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
@@ -3271,6 +3264,24 @@
     "rsvp_count": 11,
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)",
+    "date": "2022-10-18T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjs/events/289042639/",
+    "description": "Au programme de ce meetup en collaboration avec Women In Tech Bordeaux, nous assisterons à deux présentations :\n**Comment inclure l’inclusivité dès les premières étapes de conception d’un service ou d’un produit digital ?** par **Noémie** M. Rivière, Senior Product Designer UX/UI chez Onepoint.\nL’inclusivité gagne du terrain dans le débat public, les marques s’y mettent timidement… comment les services et produits digitaux peuvent-ils se faire les porte-parole des minorités dans le fond comme dans la forme ?\n**0100(2) actions simples pour favoriser l’inclusion des femmes dans la Tech.** Par **Anne-Laure** Gaillard, Staff Quality Advisor chez ManoMano et **Coralie** Broteille, Développeuse chez Mano Mano\n20% : c’est la proportion de femmes dans l’informatique. Vous trouvez ça suffisant ? Nous, non ! Nous croyons que la solution n’est pas simplement de féminiser les équipes. Nous pensons qu’être toutes et tous intégré⸱e⸱s dans un environnement de travail plus inclusif est une vraie opportunité pour l'entreprise, d'un point de vue humain et économique. Ces 6 derniers mois, nous avons cherché à comprendre pourquoi les femmes dans la Tech sont sous représentées et vont jusqu’à parfois quitter le domaine. Lors de cette intervention, nous partagerons nos vécues ainsi que celui des femmes autour de nous : les challenges quotidiens que nous sommes nombreuses à vivre. Quelles solutions / actions concrètes pouvons-nous y apporter ? Nous vous présenterons des actions et propositions simples pour favoriser l'inclusion des femmes dans la Tech.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nNous aurons le plaisir de vous accueillir pour ce meetup dans les locaux de SFEiR où à la suite de cette présentation nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌 SFEiR, 5 rue de condé, 33300 Bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "SFEIR Bordeaux",
+      "address": "5 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "5 Rue de Condé, Bordeaux",
+    "rsvp_count": 23,
+    "communities": [
+      "bordeauxjs"
     ]
   },
   {
@@ -4286,17 +4297,6 @@
     ]
   },
   {
-    "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
-    "date": "2020-09-30T18:30:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
-    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le sixième meetup AWS virtuel 👐. Cet événement sera dédié à trois sociétés de la \"Media-techs\" françaises. Vous découvrirez comment elles ont construit leur réussite grâce au Cloud.\nRendez-vous le 30 septembre prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Introduction : Jordan Oziel et Julien Bichon\n🎙 Talk 1 (Level 200) : Philippe Laurent - CEO - easylive.ioEasylive.io est le leader de la production live en cloud. Modèle 100% SaaS permettant aux plus grand producteurs de contenus (Premier League, Disney, PSG, Twitch, Facebook etc.) de réaliser des contenus live délocalisés et collaboratif à travers le monde depuis un navigateur. Notre outil, bâti sur les architectures AWS nous permet d'agréger n’importe quel type de flux vidéos, audios, graphiques, etc. en temps réel, de les mélanger et de les formater pour les publier sur n’importe quelle type de destination (Facebook, Twitch, TV, etc.). Rejoignez-nous sur cette session pour découvrir les applications médias live possible grâce à AWS.\n🎙 Talk 2 (Level 100) : Guillaume Doret - CEO - synchronized.tvDécouvrez comment Synchronized Smart-Video Platform automatise le processus complet de création de vignettes vidéo grâce à AWS Rekognition. Désormais, les diffuseurs TV et les services OTT peuvent économiser des centaines d'heures de travail manuel avec des gains significatifs en termes de qualité et de productivité.\n🎙 Talk 3 : (Level 200 - 300) : Sébastien Crème - CoFounder et CTO - NomalabGoing Elastic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEffectively use of Messaging / Spot instances and lambda",
-    "is_online": true,
-    "rsvp_count": 5,
-    "communities": [
-      "aws-bordeaux"
-    ]
-  },
-  {
     "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
     "date": "2020-09-30T18:30:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
@@ -4305,6 +4305,17 @@
     "rsvp_count": 36,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
+    "date": "2020-09-30T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
+    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le sixième meetup AWS virtuel 👐. Cet événement sera dédié à trois sociétés de la \"Media-techs\" françaises. Vous découvrirez comment elles ont construit leur réussite grâce au Cloud.\nRendez-vous le 30 septembre prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Introduction : Jordan Oziel et Julien Bichon\n🎙 Talk 1 (Level 200) : Philippe Laurent - CEO - easylive.ioEasylive.io est le leader de la production live en cloud. Modèle 100% SaaS permettant aux plus grand producteurs de contenus (Premier League, Disney, PSG, Twitch, Facebook etc.) de réaliser des contenus live délocalisés et collaboratif à travers le monde depuis un navigateur. Notre outil, bâti sur les architectures AWS nous permet d'agréger n’importe quel type de flux vidéos, audios, graphiques, etc. en temps réel, de les mélanger et de les formater pour les publier sur n’importe quelle type de destination (Facebook, Twitch, TV, etc.). Rejoignez-nous sur cette session pour découvrir les applications médias live possible grâce à AWS.\n🎙 Talk 2 (Level 100) : Guillaume Doret - CEO - synchronized.tvDécouvrez comment Synchronized Smart-Video Platform automatise le processus complet de création de vignettes vidéo grâce à AWS Rekognition. Désormais, les diffuseurs TV et les services OTT peuvent économiser des centaines d'heures de travail manuel avec des gains significatifs en termes de qualité et de productivité.\n🎙 Talk 3 : (Level 200 - 300) : Sébastien Crème - CoFounder et CTO - NomalabGoing Elastic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEffectively use of Messaging / Spot instances and lambda",
+    "is_online": true,
+    "rsvp_count": 5,
+    "communities": [
+      "aws-bordeaux"
     ]
   },
   {
@@ -4876,24 +4887,6 @@
     ]
   },
   {
-    "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
-    "date": "2019-12-17T19:30:00+01:00",
-    "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
-    "description": "Le prochain meetup #SeriousGamers aura lieu le mardi 17 Décembre et sera accueilli par OASIS COWORKING de 19h30 à 21h30\nPour cette 3eme édition du #LELAB et pour clôturer l'année, nous allons tester de nouveaux #seriousgames.Vous connaissez un serious game et souhaitez le faire découvrir ? C'est le moment ! Rendez vous ici https://docs.google.com/spreadsheets/d/1bRgodh0dq_V4fXkXouaBRyXd5x_U0ocHa5mfej9DKhQ/edit?usp=sharing afin de soumettre les serious game que vous voulez tester et animer.\nLe meetup est ouvert à tous !\nNous terminerons par un amical apéro dinatoire où nous partagerons ce que chacun aura apporté avec lui.\nSeriousgamement vôtre !",
-    "is_online": false,
-    "venue": {
-      "name": "Oasis Coworking - Salles de formation, réunion, entretien - Bureaux - Open Space",
-      "address": "68 Bis Av. Jean Jaurès",
-      "city": "Cenon",
-      "country": "France"
-    },
-    "location": "68 Bis Av. Jean Jaurès, Cenon",
-    "rsvp_count": 21,
-    "communities": [
-      "serious-gamers-bordeaux"
-    ]
-  },
-  {
     "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
     "date": "2019-12-17T19:30:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
@@ -4910,6 +4903,24 @@
     "rsvp_count": 29,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
+    "date": "2019-12-17T19:30:00+01:00",
+    "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
+    "description": "Le prochain meetup #SeriousGamers aura lieu le mardi 17 Décembre et sera accueilli par OASIS COWORKING de 19h30 à 21h30\nPour cette 3eme édition du #LELAB et pour clôturer l'année, nous allons tester de nouveaux #seriousgames.Vous connaissez un serious game et souhaitez le faire découvrir ? C'est le moment ! Rendez vous ici https://docs.google.com/spreadsheets/d/1bRgodh0dq_V4fXkXouaBRyXd5x_U0ocHa5mfej9DKhQ/edit?usp=sharing afin de soumettre les serious game que vous voulez tester et animer.\nLe meetup est ouvert à tous !\nNous terminerons par un amical apéro dinatoire où nous partagerons ce que chacun aura apporté avec lui.\nSeriousgamement vôtre !",
+    "is_online": false,
+    "venue": {
+      "name": "Oasis Coworking - Salles de formation, réunion, entretien - Bureaux - Open Space",
+      "address": "68 Bis Av. Jean Jaurès",
+      "city": "Cenon",
+      "country": "France"
+    },
+    "location": "68 Bis Av. Jean Jaurès, Cenon",
+    "rsvp_count": 21,
+    "communities": [
+      "serious-gamers-bordeaux"
     ]
   },
   {
@@ -9574,25 +9585,6 @@
     ]
   },
   {
-    "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
-    "date": "2017-05-23T18:45:00+02:00",
-    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/239156476/",
-    "description": "Avec autant de buzzwords dans le titre, explicitons le menu :\n– Nous commencerons avec une étude des principes du CQRS et la notion de projection pour construire les modèles de données dédiées à la lecture, le tout avec un datastore traditionnel (relationnel).– Nous continuerons avec le concept d’état en programmation fonctionnelle, et comment les gérer au sein d’une application tout en respectant le principe d’immutabilité. Et comment ils ont transformé la gestion d’états pour la construction d’interface utilisateur. – Dans un troisième temps, nous nous intéresserons aux évènements du domaine-métier dans le Domain Driven Design et comment ceux-ci s’intègrent dans la mécanique de construction des projections.– Enfin, nous assemblerons toutes ces notions pour faire apparaitre l’« event sourcing » comme modèle de persistance pour nos données.– Pour clôturer, nous verrons les erreurs les plus courantes rencontrées lors de l’implémentation d’un modèle en event sourcing.\nTake away:– Utiliser CQRS (sans event-sourcing) pour simplifier la gestion de la persistance dans son application.– Comprendre comment gérer des états dans un contexte fonctionnel– Gérer facilement les évènements-métier au sein d’une architecture DDD.– Savoir comment implémenter correctement un système basé sur l’event sourcing.\nCette présentation sera assurée par Arnaud LEMAIRE (@lilobase)",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 65,
-    "rsvp_count": 62,
-    "communities": [
-      "okiwi"
-    ]
-  },
-  {
     "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
     "date": "2017-05-23T18:45:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
@@ -9609,6 +9601,25 @@
     "rsvp_count": 9,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
+    "date": "2017-05-23T18:45:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/239156476/",
+    "description": "Avec autant de buzzwords dans le titre, explicitons le menu :\n– Nous commencerons avec une étude des principes du CQRS et la notion de projection pour construire les modèles de données dédiées à la lecture, le tout avec un datastore traditionnel (relationnel).– Nous continuerons avec le concept d’état en programmation fonctionnelle, et comment les gérer au sein d’une application tout en respectant le principe d’immutabilité. Et comment ils ont transformé la gestion d’états pour la construction d’interface utilisateur. – Dans un troisième temps, nous nous intéresserons aux évènements du domaine-métier dans le Domain Driven Design et comment ceux-ci s’intègrent dans la mécanique de construction des projections.– Enfin, nous assemblerons toutes ces notions pour faire apparaitre l’« event sourcing » comme modèle de persistance pour nos données.– Pour clôturer, nous verrons les erreurs les plus courantes rencontrées lors de l’implémentation d’un modèle en event sourcing.\nTake away:– Utiliser CQRS (sans event-sourcing) pour simplifier la gestion de la persistance dans son application.– Comprendre comment gérer des états dans un contexte fonctionnel– Gérer facilement les évènements-métier au sein d’une architecture DDD.– Savoir comment implémenter correctement un système basé sur l’event sourcing.\nCette présentation sera assurée par Arnaud LEMAIRE (@lilobase)",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "rsvp_limit": 65,
+    "rsvp_count": 62,
+    "communities": [
+      "okiwi"
     ]
   },
   {
@@ -11171,6 +11182,24 @@
     ]
   },
   {
+    "title": "De Zéro à Héros avec Spring Boot",
+    "date": "2016-03-31T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
+    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "rsvp_count": 70,
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "Migrer une application React de MObservable vers Redux",
     "date": "2016-03-31T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/229812115/",
@@ -11187,24 +11216,6 @@
     "rsvp_count": 14,
     "communities": [
       "bordeauxjs"
-    ]
-  },
-  {
-    "title": "De Zéro à Héros avec Spring Boot",
-    "date": "2016-03-31T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
-    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 70,
-    "communities": [
-      "bordeauxjug"
     ]
   },
   {

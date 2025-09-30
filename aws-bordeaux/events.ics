@@ -5,6 +5,56 @@ X-WR-CALDESC:Calendrier des événements de la communauté aws-bordeaux
 X-WR-CALNAME:Événements aws-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:AWS GameDay Francophone 2025 - Going serverless
+DTSTART;TZID=Europe/Paris:20251009T180000
+DTEND;TZID=Europe/Paris:20251009T200000
+UID:https://www.meetup.com/bordeaux-amazon-web-services/events/311306392/@
+ community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
+ s/311306392/\n📍 Epitech Bordeaux\, 16 Rue Théodore Blanc\, 33520 Bruge
+ s\n\n🌍 Une soirée\, 10 pays\, 18 villes\, une seule communauté !\n\nP
+ our la toute première fois\, les user groups AWS francophones d’Afrique
+  et d’Europe s’unissent pour organiser un GameDay international et sim
+ ultané. Que vous soyez à Grenoble\, Dakar\, Casablanca\, Genève\, Abidj
+ an\, Lyon ou ailleurs… vous participerez au même challenge\, au même m
+ oment\, dans 17 lieux différents\, tous reliés par une seule mission : s
+ ’amuser\, apprendre et relever un défi AWS ensemble.\nRetrouvez la list
+ e complête des lieux sur notre site : [awscommunityfrancophone](https://w
+ ww.awscommunityfrancophone.com/)\n\n🦄 Qu’est-ce qu’un GameDay AWS ?
+ \nUn AWS GameDay est un événement d’apprentissage ludique qui met les 
+ participants au défi d’utiliser les solutions AWS pour résoudre des pr
+ oblèmes techniques réels en équipe. Contrairement aux ateliers traditio
+ nnels\, les GameDays sont ouverts et non prescriptifs\, offrant aux partic
+ ipants la liberté d’explorer et de penser en dehors des sentiers battus
+ .\n\n📌 Le thème : Going Serverless!\nL’événement s’adresse à to
+ ute personne ayant une connaissance générale d’AWS – pas besoin d’
+ être expert !\nEmbarquez vos amis ou collègues - vous pouvez former une 
+ équipe avec eux\, de 3 à 4 joueurs.\nAvez-vous déjà une équipe ? 👉
+  Inscription de votre équipe par ici : https://forms.fillout.com/t/voD9uk
+ 6auZus\nPas d’équipe ? 👉 Pas de problème\, on vous en trouvera une.
+  Mais indiquez le nous : https://forms.fillout.com/t/voD9uk6auZus\n\n🏆 
+ Prix pour les 3 premières équipes :\n\n1er : 4 licences VizCon\, 4 hoodi
+ es\, 4 sacs à dos et 4 codes de crédits AWS de 50€\n2ème : 2 hoodies\
+ , 2 sacs à dos et 4 codes de crédits AWS de 50€\n3ème : 4 codes de cr
+ édits AWS de 50€\n🔧 Infos pratiques\n\nÉquipes : 3 à 4 joueurs –
+  venez avec votre équipe ou nous en formerons une sur place.\nMatériel :
+  votre fidèle ordinateur portable – une connexion internet sera fournie
+ .\nRestauration : collations\, boissons et repas léger disponibles tout a
+ u long de la soirée.\nCompte AWS : fourni sur place\, aucun compte person
+ nel requis.\nDurée du jeu : environ 2h15 de compétition entre les équip
+ es locales et internationales.\n🕒 Agenda\n18h00 – 18h30 : Arrivée & 
+ connexion à la plateforme\n18h30 – 18h45 : Introduction au GameDay\n18h
+ 45 – 20h30 : Déroulement du jeu (snacks & boissons à volonté)\n21h00 
+ : Cérémonie de clôture - Des prix seront remis aux meilleures équipes 
+ 🎁\n\n🤝 Rejoignez la communauté\, on vous attend sur [le Slack des u
+ tilisateurs AWS francophones](https://sebs.to/frmeetup) pour échanger ava
+ nt et après l’événement !\nAu plaisir de vous y voir nombreux !\n\nCo
+ mmunauté: aws-bordeaux
+LOCATION:Epitech Bordeaux\, 16 Rue Théodore Blanc\, 33520 Bruges
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-amazon-web-services/events/311306392/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meetup AWS de rentrée : entre IA\, développement et créativité
 DTSTART;TZID=Europe/Paris:20250915T183000
 DTEND;TZID=Europe/Paris:20250915T203000

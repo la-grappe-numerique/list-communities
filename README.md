@@ -93,9 +93,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 18 septembre 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [La clean architecture et les tests unitaires : et si c'était simple ?](https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) | Le Node, 12 rue des Faussets, Bordeaux, France |
-| Mercredi 24 septembre 2025 à 18:30 | [bordeaux-xr](bordeaux-xr/) | [Bordeaux XR - Tendances XR en recherche](https://www.eventbrite.fr/e/bordeaux-xr-tendances-xr-en-recherche-tickets-1612001974299) | Le Node, 12 rue des Faussets, 33000 Bordeaux |
-| Jeudi 25 septembre 2025 à 18:30 | [aquinum](aquinum/) | [Happynum de septembre (avec Coop alpha)](https://nextcloud.coopalpha.coop/index.php/apps/forms/s/BGs7tdKGbYgiNE33sXA2GYFm) | Le node, 12 rue des faussets, 33000 Bordeaux |
+| Mardi 30 septembre 2025 à 18:30 | [bdx-io, agile-tour-bordeaux](bdx-io, agile-tour-bordeaux/) | [K8S, SaaS, Leadership, Qualité de code, Happiness - Le Tremplin Bordelais 2025](https://www.meetup.com/fr-FR/craftsrecords/events/310781062) | Betclic, 117 Quai de Bacalan, 33300 Bordeaux |
+| Mardi 30 septembre 2025 à 18:30 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Oser, malgré la peur : quand confiance et collectif deviennent moteurs](https://luma.com/17u8ysfd) | Ippon Technologies Bordeaux, 44 Allée de Tourny, 33000 Bordeaux, France |
+| Jeudi 02 octobre 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [odfjs, une bibliothèque pour générer et manipuler les fichiers .odt et .ods](https://www.linkedin.com/events/odfjs-unebiblioth-quepourg-n-re7373626860389273600/) | Le node, 12 Rue des Faussets, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
