@@ -112,6 +112,17 @@
     ]
   },
   {
+    "title": "Karate Connect : votre partenaire de combat dans l’arène des tests API",
+    "date": "2025-10-16T19:00:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/311318217/",
+    "description": "Je travaille sur une data pipeline basée initialement sur Kafka Stream et Snowflake. Les tests d’intégration utilisent l’outil Open Source [Kapoeira](https://github.com/lectra-tech/kapoeira). Mais récemment, la pipeline a évolué pour intégrer DBT et se connecter à RabbitMQ et PostgreSQL.\n\nMais comment tester toutes ces API, utilisant plusieurs protocoles (HTTP, AMQP, Kafka, JDBC) ? Vous connaissez sans doute l’outil Open Source [Karate](https://github.com/karatelabs/karate) pour tester vos API HTTP. Il propose des extensions (RabbitMQ, Kafka, …), pas toujours simples à utiliser ou en mode Closed Source sous licence payante.\n\nJe vous propose le partenaire idéal pour relever ce challenge : [Karate Connect](https://github.com/lectra-tech/karate-connect), Open Source, utilisant Karate Core et gérant nativement plusieurs protocoles via ses extensions.\n\nÊtes-vous prêt à combattre dans l’arène des tests API ?",
+    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer · Talence",
+    "is_online": false,
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA",
     "date": "2025-10-15T18:30:00",
     "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",

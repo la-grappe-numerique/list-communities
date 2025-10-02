@@ -20,6 +20,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 16 octobre 2025 à 19:00 | Karate Connect : votre partenaire de combat dans l’arène des tests API | ENSEIRB, 1 Avenue du Docteur Albert Schweitzer · Talence | https://www.meetup.com/bordeauxjug/events/311318217/ |
+
 ## 📆 Past Events
 
 <details>

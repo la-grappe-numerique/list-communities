@@ -5,6 +5,32 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjug
 X-WR-CALNAME:Événements bordeauxjug
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Karate Connect : votre partenaire de combat dans l’arène des te
+ sts API
+DTSTART;TZID=Europe/Paris:20251016T190000
+DTEND;TZID=Europe/Paris:20251016T210000
+UID:https://www.meetup.com/bordeauxjug/events/311318217/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/311318217/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer · Talence\n\nJe trav
+ aille sur une data pipeline basée initialement sur Kafka Stream et Snowfl
+ ake. Les tests d’intégration utilisent l’outil Open Source [Kapoeira]
+ (https://github.com/lectra-tech/kapoeira). Mais récemment\, la pipeline a
+  évolué pour intégrer DBT et se connecter à RabbitMQ et PostgreSQL.\n\
+ nMais comment tester toutes ces API\, utilisant plusieurs protocoles (HTTP
+ \, AMQP\, Kafka\, JDBC) ? Vous connaissez sans doute l’outil Open Source
+  [Karate](https://github.com/karatelabs/karate) pour tester vos API HTTP. 
+ Il propose des extensions (RabbitMQ\, Kafka\, …)\, pas toujours simples 
+ à utiliser ou en mode Closed Source sous licence payante.\n\nJe vous prop
+ ose le partenaire idéal pour relever ce challenge : [Karate Connect](http
+ s://github.com/lectra-tech/karate-connect)\, Open Source\, utilisant Karat
+ e Core et gérant nativement plusieurs protocoles via ses extensions.\n\n
+ Êtes-vous prêt à combattre dans l’arène des tests API ?\n\nCommunaut
+ é: bordeauxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer · Talence
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/311318217/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Les super pouvoirs du package java.util.function
 DTSTART;TZID=Europe/Paris:20250612T190000
 DTEND;TZID=Europe/Paris:20250612T210000

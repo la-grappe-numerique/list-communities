@@ -93,9 +93,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 30 septembre 2025 à 18:30 | [bdx-io, agile-tour-bordeaux](bdx-io, agile-tour-bordeaux/) | [K8S, SaaS, Leadership, Qualité de code, Happiness - Le Tremplin Bordelais 2025](https://www.meetup.com/fr-FR/craftsrecords/events/310781062) | Betclic, 117 Quai de Bacalan, 33300 Bordeaux |
-| Mardi 30 septembre 2025 à 18:30 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Oser, malgré la peur : quand confiance et collectif deviennent moteurs](https://luma.com/17u8ysfd) | Ippon Technologies Bordeaux, 44 Allée de Tourny, 33000 Bordeaux, France |
 | Jeudi 02 octobre 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [odfjs, une bibliothèque pour générer et manipuler les fichiers .odt et .ods](https://www.linkedin.com/events/odfjs-unebiblioth-quepourg-n-re7373626860389273600/) | Le node, 12 Rue des Faussets, 33000 Bordeaux |
+| Samedi 04 octobre 2025 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 25.5 - L’entreprise robuste](https://www.meetup.com/agile-bordeaux/events/308541210/) | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux |
+| Lundi 06 octobre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
