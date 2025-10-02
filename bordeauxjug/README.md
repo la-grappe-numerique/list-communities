@@ -13,7 +13,7 @@ L'objectif du **Bordeaux** **J**ava **U**ser **G**roup est de permettre à des a
 | ✉️ Qui contacter ?              | [Lilian BENOIT](https://www.linkedin.com/in/lilianbenoit/), [Bruno LACOMBE](@piradix@framapiaf.org), [Olivier VANRUMEBEKE](https://www.linkedin.com/in/vanrumbeke/) |
 | 🌍 Site web                    | https://www.bordeauxjug.org/ |
 | Linkedin                       | https://www.linkedin.com/company/bordeauxjug |
-| Mastodon                       | https://jvm.social/@BordeauxJUG
+| Mastodon                       | https://foojay.social/@BordeauxJUG |
 | Meetup                         | https://www.meetup.com/fr-FR/bordeauxjug/ |
 
 Le calendrier des évènements est disponible au format iCal.
