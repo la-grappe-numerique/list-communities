@@ -1,8 +1,38 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Événements bordeaux-aperops//Bordeaux Community Events//FR
-X-WR-CALDESC:Calendrier des événements de la communauté bordeaux-aperop
- s
-X-WR-CALNAME:Événements bordeaux-aperops
+PRODID:-//Événements aperops-dataops-mlops//Bordeaux Community Events//F
+ R
+X-WR-CALDESC:Calendrier des événements de la communauté aperops-dataops
+ -mlops
+X-WR-CALNAME:Événements aperops-dataops-mlops
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:DataOps & MLOps : de la Qualité des Données à l’Impact Enviro
+ nnemental de l’IA
+DTSTART;TZID=Europe/Paris:20251015T183000
+DTEND;TZID=Europe/Paris:20251015T203000
+UID:https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035
+ /?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_s
+ ource=link&utm_version=v2@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-aperops-dataops-mlops/eve
+ nts/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_shar
+ e_modal&utm_source=link&utm_version=v2\n📍 Ippon Technologies Bordeaux -
+  44 Allée de Tourny · Bordeaux\n\n### Événement Bordeaux ApérOps #2\n
+ \nDescription :\nPour ce deuxième rendez-vous Bordeaux ApérOps\, nous vo
+ us proposons une soirée double thématique autour de la data et de l’IA
+  :\n\n### ⚙️dbt : Garantissez la Qualité de vos Données Grâce à de
+ s Tests Robustes\n\n🎤 Jérémy Nadal - Data Engineer @Ippon Technologie
+ s\n\n### 🪴 Comment estimer l'empreinte carbone d'un modèle d'IA de l'e
+ ntraînement à la mise en production\n\n🎤 Sonia Tabti\, PhD - Computer
+  Vision & VLM Expert\n\n🍻 Comme toujours\, échanges\, retours d’exp
+ érience et convivialité autour d’un apéro !\nRejoignez-nous pour une 
+ soirée qui mêle rigueur technique et réflexion responsable\, à l’ima
+ ge de la communauté DataOps & MLOps bordelaise.\n\nCommunauté: aperops-d
+ ataops-mlops
+LOCATION:Ippon Technologies Bordeaux - 44 Allée de Tourny · Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035
+ /?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_s
+ ource=link&utm_version=v2
+END:VEVENT
 END:VCALENDAR
