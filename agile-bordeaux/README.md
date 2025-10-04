@@ -20,6 +20,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mercredi 15 octobre 2025 à 18:30 | Bière Agile de Bordeaux | Le Castan, 2 quai Douane, Bordeaux | https://www.linkedin.com/events/bi-reagiledebordeaux7380175331695087616/ |
+| Jeudi 23 octobre 2025 à 18:30 | 𝐐𝐮𝐚𝐧𝐝 𝐥𝐚 𝐦𝐞𝐬𝐮𝐫𝐞 𝐟𝐚𝐜̧𝐨𝐧𝐧𝐞 𝐥’𝐞́𝐪𝐮𝐢𝐩𝐞 | Capgemini Sud, 19 all James Watt, Mérignac - Tour D - 2eme étage | https://www.linkedin.com/events/7380197152666333184/ |
 
 ## 📆 Past Events
 

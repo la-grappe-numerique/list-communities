@@ -3068,6 +3068,24 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/228109596/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:𝐐𝐮𝐚𝐧𝐝 𝐥𝐚 𝐦𝐞𝐬𝐮𝐫𝐞 𝐟𝐚
+ 𝐜̧𝐨𝐧𝐧𝐞 𝐥’𝐞́𝐪𝐮𝐢𝐩𝐞
+DTSTART;TZID=Europe/Paris:20251023T183000
+DTEND;TZID=Europe/Paris:20251023T203000
+UID:https://www.linkedin.com/events/7380197152666333184/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/7380197152666333184/\n
+ 📍 Capgemini Sud\, 19 all James Watt\, Mérignac - Tour D - 2eme étage\
+ n\nUne nouvelle collab' avec #SeriousGamersBordeaux facilité par la grapp
+ e numérique.\nNicolas nous propose un atelier pour vivre **l'impact de la
+  mesure lorsqu'elle s'érige en objectif.**\nCe sera le 23 octobre et nous
+  serons hébergés par Capgemini (Merci Alain).\n\nCommunauté: agile-bord
+ eaux
+LOCATION:Capgemini Sud\, 19 all James Watt\, Mérignac - Tour D - 2eme ét
+ age
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/7380197152666333184/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bière Agile de Bordeaux
 DTSTART;TZID=Europe/Paris:20251015T183000
 DTEND;TZID=Europe/Paris:20251015T203000
