@@ -93,9 +93,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 02 octobre 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [odfjs, une bibliothèque pour générer et manipuler les fichiers .odt et .ods](https://www.linkedin.com/events/odfjs-unebiblioth-quepourg-n-re7373626860389273600/) | Le node, 12 Rue des Faussets, 33000 Bordeaux |
-| Samedi 04 octobre 2025 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 25.5 - L’entreprise robuste](https://www.meetup.com/agile-bordeaux/events/308541210/) | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux |
 | Lundi 06 octobre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb/) | 9 Rue de Condé, Bordeaux |
+| Jeudi 09 octobre 2025 à 18:00 | [aws-bordeaux](aws-bordeaux/) | [AWS GameDay Francophone 2025 - Going serverless](https://www.meetup.com/bordeaux-amazon-web-services/events/311306392/) | Epitech Bordeaux, 16 Rue Théodore Blanc, 33520 Bruges |
+| Mercredi 15 octobre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Bière Agile de Bordeaux](https://www.linkedin.com/events/bi-reagiledebordeaux7380175331695087616/) | Le Castan, 2 quai Douane, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

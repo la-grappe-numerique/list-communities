@@ -123,6 +123,17 @@
     ]
   },
   {
+    "title": "Bière Agile de Bordeaux",
+    "date": "2025-10-15T18:30:00",
+    "url": "https://www.linkedin.com/events/bi-reagiledebordeaux7380175331695087616/",
+    "description": "Que diriez-vous d'une nouvelle édition de 𝙇𝒂 𝑩𝙞𝒆̀𝙧𝒆 𝑨𝙜𝒊𝙡𝒆 𝒅𝙚 𝘽𝒐𝙧𝒅𝙚𝒂𝙪𝒙 ?\nRejoignez-nous le mercredi 15 octobre !",
+    "location": "Le Castan, 2 quai Douane, Bordeaux",
+    "is_online": false,
+    "communities": [
+      "agile-bordeaux"
+    ]
+  },
+  {
     "title": "DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA",
     "date": "2025-10-15T18:30:00",
     "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",

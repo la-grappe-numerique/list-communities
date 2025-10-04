@@ -5,6 +5,22 @@ X-WR-CALDESC:Calendrier des événements de la communauté agile-bordeaux
 X-WR-CALNAME:Événements agile-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Bière Agile de Bordeaux
+DTSTART;TZID=Europe/Paris:20251015T183000
+DTEND;TZID=Europe/Paris:20251015T203000
+UID:https://www.linkedin.com/events/bi-reagiledebordeaux738017533169508761
+ 6/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/bi-reagiledebordeaux73801
+ 75331695087616/\n📍 Le Castan\, 2 quai Douane\, Bordeaux\n\nQue diriez-v
+ ous d'une nouvelle édition de 𝙇𝒂 𝑩𝙞𝒆̀𝙧𝒆 𝑨𝙜
+ 𝒊𝙡𝒆 𝒅𝙚 𝘽𝒐𝙧𝒅𝙚𝒂𝙪𝒙 ?\nRejoignez-nous l
+ e mercredi 15 octobre !\n\nCommunauté: agile-bordeaux
+LOCATION:Le Castan\, 2 quai Douane\, Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/bi-reagiledebordeaux738017533169508761
+ 6/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture 25.5 - L’entreprise robuste
 DTSTART;TZID=Europe/Paris:20251004T100000
 DTEND;TZID=Europe/Paris:20251004T120000

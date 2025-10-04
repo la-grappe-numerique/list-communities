@@ -19,7 +19,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Samedi 04 octobre 2025 à 10:00 | Club de lecture 25.5 - L’entreprise robuste | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux | https://www.meetup.com/agile-bordeaux/events/308541210/ |
+| Mercredi 15 octobre 2025 à 18:30 | Bière Agile de Bordeaux | Le Castan, 2 quai Douane, Bordeaux | https://www.linkedin.com/events/bi-reagiledebordeaux7380175331695087616/ |
 
 ## 📆 Past Events
 
@@ -28,6 +28,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Samedi 04 octobre 2025 à 10:00 | Club de lecture 25.5 - L’entreprise robuste | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux | https://www.meetup.com/agile-bordeaux/events/308541210/ |
 | Mercredi 17 septembre 2025 à 18:30 | La Bière Agile de Bordeaux | Le Cornichon - 1 Quai Richelieu, 33000 Bordeaux | https://www.linkedin.com/events/bi-reagilebordeaux7371811827380391936/ |
 | Mardi 16 septembre 2025 à 18:30 | Soirée Serious Game | Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage | https://www.meetup.com/agile-bordeaux/events/309810368/ |
 | Samedi 06 septembre 2025 à 10:00 | Club de lecture 25.4 - Les livres de l’été | Le Node - Aquinum, 12 Rue des Faussets · Bordeaux | https://www.meetup.com/agile-bordeaux/events/308541098/ |
