@@ -4,4 +4,44 @@ PRODID:-//Événements digitalnights//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté digitalnights
 X-WR-CALNAME:Événements digitalnights
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:🦄 DigitalNights Bordeaux Afterwork #20
+DTSTART;TZID=Europe/Paris:20250923T190000
+DTEND;TZID=Europe/Paris:20250923T210000
+UID:https://www.eventbrite.fr/e/digitalnights-20-afterwork-pour-profession
+ nels-du-digital-a-bordeaux-tickets-1557518703369@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/digitalnights-20-afterwork-po
+ ur-professionnels-du-digital-a-bordeaux-tickets-1557518703369\n📍 Le Roh
+ an au1 Place Pey Berland (étage)\n\n# 🦄 DigitalNights Bordeaux – Aft
+ erwork #20\n\n📍 **Le Rohan – 1 Place Pey Berland\, Bordeaux**\n📅 *
+ *Mardi 23 septembre 2025 à 19h00**\n🚋 Accès : Tram A ou B (arrêt *H
+ ôtel de Ville*) ou Tram B (*Musée d’Aquitaine*)\n💸 Participation gr
+ atuite\, consommation sur place\n\nEnvie de quitter votre écran et de ren
+ contrer d'autres passionné·es du numérique dans une ambiance détendue 
+ ?\n\nDigitalNights revient pour sa **20ᵉ édition** avec un afterwork pe
+ nsé pour créer des connexions\, échanger des idées et faire émerger d
+ e nouveaux projets autour d’un verre.\n\n---\n\n## 🌐 C’est quoi Dig
+ italNights ?\n\n**DigitalNights (DN)**\, c’est une communauté bordelais
+ e qui réunit tous les deux mois des acteurs et passionnés du numérique 
+ : développeurs\, designers\, product owners\, freelances\, alternants\, s
+ alariés…\n\n👉 Peu importe ton niveau ou ton statut\, si le digital t
+ ’intéresse\, tu es au bon endroit !\n\nChaque soirée est une occasion 
+ :\n- de rencontrer des personnes inspirantes\,\n- d’échanger sur des su
+ jets pro ou perso\,\n- de sortir de sa bulle\, tout simplement.\n\n---\n\n
+ ## 🧩 Le programme\n\n- **19h00** : accueil au 1er étage du Rohan\n- **
+ 19h30** : icebreaker pour faire connaissance en douceur\n- **19h45** : tal
+ k / atelier animé par un membre de la communauté\n- **20h15** : discussi
+ ons libres autour d’un verre (et de bonnes pizzas !)\n\n---\n\n## 👋 P
+ our qui ?\n\nPour toutes celles et ceux qui :\n- bossent dans le digital\,
+ \n- s’y intéressent de près ou de loin\,\n- ont envie de rencontrer du
+  monde sans pression.\n\nViens comme tu es\, avec ta curiosité\, tes idé
+ es… et ton envie de créer du lien.\n\n---\n\n💬 Il est également pos
+ sible de faire connaissance sur le serveur Discord :\n👉 [Rejoindre le D
+ iscord DigitalNights](https://discord.gg/MM87mZueKx)\n\nCommunauté: digit
+ alnights
+LOCATION:Le Rohan au1 Place Pey Berland (étage)
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/digitalnights-20-afterwork-pour-profession
+ nels-du-digital-a-bordeaux-tickets-1557518703369
+END:VEVENT
 END:VCALENDAR

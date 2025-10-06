@@ -13,4 +13,13 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/digitalnights/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📆 Past Events
+
+<details>
+<summary>2025</summary>
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 23 septembre 2025 à 19:00 | 🦄 DigitalNights Bordeaux Afterwork #20 | Le Rohan au1 Place Pey Berland (étage) | https://www.eventbrite.fr/e/digitalnights-20-afterwork-pour-professionnels-du-digital-a-bordeaux-tickets-1557518703369 |
+</details>
 <!-- EVENTS:END -->

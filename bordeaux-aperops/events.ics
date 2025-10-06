@@ -1,10 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Événements aperops-dataops-mlops//Bordeaux Community Events//F
- R
-X-WR-CALDESC:Calendrier des événements de la communauté aperops-dataops
- -mlops
-X-WR-CALNAME:Événements aperops-dataops-mlops
+PRODID:-//Événements bordeaux-aperops//Bordeaux Community Events//FR
+X-WR-CALDESC:Calendrier des événements de la communauté bordeaux-aperop
+ s
+X-WR-CALNAME:Événements bordeaux-aperops
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:DataOps & MLOps : de la Qualité des Données à l’Impact Enviro
