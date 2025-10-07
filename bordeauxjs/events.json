@@ -1,5 +1,14 @@
 [
   {
+    "title": "Migrer l’écosystème React Native au Edge-to-Edge : la rétrospective",
+    "date": "2025-10-15T19:00:00",
+    "url": "https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913363066884096/",
+    "description": "Les layouts edge-to-edge (où l’application occupe toute la hauteur de l’écran) deviennent la norme sur Android.\nCe talk retrace le passage de React Native au edge-to-edge, d’abord via la lib react-native-edge-to-edge, puis son intégration dans Expo et enfin dans le core de React Native.",
+    "community": "bordeauxjs",
+    "location": "SFEIR, 5 Rue de Condé, 33000 Bordeaux",
+    "is_online": false
+  },
+  {
     "title": "odfjs, une bibliothèque pour générer et manipuler les fichiers .odt et .ods",
     "date": "2025-10-02T19:00:00",
     "url": "https://www.linkedin.com/events/odfjs-unebiblioth-quepourg-n-re7373626860389273600/",
