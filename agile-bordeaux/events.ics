@@ -5,6 +5,38 @@ X-WR-CALDESC:Calendrier des événements de la communauté agile-bordeaux
 X-WR-CALNAME:Événements agile-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Club de lecture 25.6 - Influence et manipulation
+DTSTART;TZID=Europe/Paris:20251115T100000
+DTEND;TZID=Europe/Paris:20251115T120000
+UID:https://www.linkedin.com/events/clubdelecture25-6-influenceetma7381040
+ 170617184256/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/clubdelecture25-6-influen
+ ceetma7381040170617184256/\n📍 Le Node\, 12 rue des Faussets\, 33000 Bor
+ deaux\n\nLe club de lecture 25.6 se tiendra samedi 15 novembre de 10h00 à
+  12h00 au Node.\n\nLe livre sélectionné est “Influence et manipulation
+ ” de Robert B. Cialdini.\n\n“Pourquoi et comment sommes-nous amenés 
+ à faire des choses contre notre gré ? Robert Cialdini\, docteur en psych
+ ologie sociale\, livre le résultat de plus de quinze ans de recherches su
+ r les mécanismes et les techniques de persuasion. Dans ce livre\, il expl
+ ique pourquoi certaines personnes sont douées d'un remarquable talent de 
+ persuasion et comment il est possible de les battre sur leur propre terrai
+ n. Ce document nous dévoile les six secrets psychologiques qui se cachent
+  derrière notre dangereuse tendance à nous laisser influencer\, ainsi qu
+ e les moyens employés par les spécialistes de la persuasion pour les exp
+ loiter à notre insu. Il nous apprend à nous en défendre\, en tournant c
+ es secrets à notre avantage. Grâce à ce livre indispensable\, vous ne d
+ irez plus jamais « oui »\, alors que vous pensez « non ».”\n\n*****\
+ n\nLe club de lecture est un moment de partage et d’échange autour d’
+ un livre.\nLes participants ont lu l’ouvrage ou tout au moins une partie
+  significative.\n\nLe nombre de places étant limité à 15\, merci de vou
+ s désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunauté
+ : agile-bordeaux
+LOCATION:Le Node\, 12 rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/clubdelecture25-6-influenceetma7381040
+ 170617184256/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝐐𝐮𝐚𝐧𝐝 𝐥𝐚 𝐦𝐞𝐬𝐮𝐫𝐞 𝐟𝐚
  𝐜̧𝐨𝐧𝐧𝐞 𝐥’𝐞́𝐪𝐮𝐢𝐩𝐞
 DTSTART;TZID=Europe/Paris:20251023T183000
