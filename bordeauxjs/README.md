@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 15 octobre 2025 à 19:00 | Migrer l’écosystème React Native au Edge-to-Edge : la rétrospective | SFEIR, 5 Rue de Condé, 33000 Bordeaux | https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913363066884096/ |
+
 ## 📆 Past Events
 
 <details>

@@ -5,6 +5,25 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Migrer l’écosystème React Native au Edge-to-Edge : la rétrosp
+ ective
+DTSTART;TZID=Europe/Paris:20251015T190000
+DTEND;TZID=Europe/Paris:20251015T210000
+UID:https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913
+ 363066884096/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/migrerl-cosyst-mereactnat
+ iveaue7380913363066884096/\n📍 SFEIR\, 5 Rue de Condé\, 33000 Bordeaux\
+ n\nLes layouts edge-to-edge (où l’application occupe toute la hauteur d
+ e l’écran) deviennent la norme sur Android.\nCe talk retrace le passage
+  de React Native au edge-to-edge\, d’abord via la lib react-native-edge-
+ to-edge\, puis son intégration dans Expo et enfin dans le core de React N
+ ative.\n\nCommunauté: bordeauxjs
+LOCATION:SFEIR\, 5 Rue de Condé\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913
+ 363066884096/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:odfjs\, une bibliothèque pour générer et manipuler les fichiers
   .odt et .ods
 DTSTART;TZID=Europe/Paris:20251002T190000
