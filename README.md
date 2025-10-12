@@ -93,10 +93,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 09 octobre 2025 à 18:00 | [aws-bordeaux](aws-bordeaux/) | [AWS GameDay Francophone 2025 - Going serverless](https://www.meetup.com/bordeaux-amazon-web-services/events/311306392/) | Epitech Bordeaux, 16 Rue Théodore Blanc, 33520 Bruges |
 | Mercredi 15 octobre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Bière Agile de Bordeaux](https://www.linkedin.com/events/bi-reagiledebordeaux7380175331695087616/) | Le Castan, 2 quai Douane, Bordeaux |
 | Mercredi 15 octobre 2025 à 18:30 | [aperops-dataops-mlops](aperops-dataops-mlops/) | [DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA](https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) | Ippon Technologies Bordeaux - 44 Allée de Tourny · Bordeaux |
-| Jeudi 23 octobre 2025 à 18:30 | [serious-gamers-bordeaux](serious-gamers-bordeaux/) | [Quand la mesure façonne l’équipe - #LERUN](https://www.eventbrite.fr/e/1785954962369?aff=oddtdtcreator) | 19 Allée James Watt 33700 Mérignac |
+| Mercredi 15 octobre 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [Migrer l’écosystème React Native au Edge-to-Edge : la rétrospective](https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913363066884096/) | SFEIR, 5 Rue de Condé, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

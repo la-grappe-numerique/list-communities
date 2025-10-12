@@ -21,6 +21,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 |------|--------|----------|------|
 | Mercredi 15 octobre 2025 à 18:30 | Bière Agile de Bordeaux | Le Castan, 2 quai Douane, Bordeaux | https://www.linkedin.com/events/bi-reagiledebordeaux7380175331695087616/ |
 | Jeudi 23 octobre 2025 à 18:30 | 𝐐𝐮𝐚𝐧𝐝 𝐥𝐚 𝐦𝐞𝐬𝐮𝐫𝐞 𝐟𝐚𝐜̧𝐨𝐧𝐧𝐞 𝐥’𝐞́𝐪𝐮𝐢𝐩𝐞 | Capgemini Sud, 19 all James Watt, Mérignac - Tour D - 2eme étage | https://www.linkedin.com/events/7380197152666333184/ |
+| Jeudi 13 novembre 2025 à 18:30 | Afterwork Agile Bordeaux - 𝐋𝐚 𝐋𝐢𝐠𝐧𝐞 𝐪𝐮𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐨𝐮𝐭 | Capgemini Mérignac, 19 All. James Watt, Mérignac, Tour D - 2ème étage | https://www.linkedin.com/events/7383133309511385088/ |
 | Samedi 15 novembre 2025 à 10:00 | Club de lecture 25.6 - Influence et manipulation | Le Node, 12 rue des Faussets, 33000 Bordeaux | https://www.linkedin.com/events/clubdelecture25-6-influenceetma7381040170617184256/ |
 
 ## 📆 Past Events
