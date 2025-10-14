@@ -606,6 +606,17 @@
     ]
   },
   {
+    "title": "`#59: Parlons FrankenPHP et Observabilité`",
+    "date": "2025-04-24T21:00:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/307068650/",
+    "description": "Ce soir [Dotsafe](https://fr.linkedin.com/company/dotsafe) nous accompagne, avec des speakers et des locaux !\n\nJ'ai dis \"des\", oui oui ! Car ce soir, nous aurons 2 presentations au format court !\n\n---\n\nMerci à Dotsafe qui **sponso l'apéro/pizzas** de ce soir🍻🍿\nOn a tous hâte d'y être !\n\n---\n\nLa parole aux speakeurs 📣\n\n### Présentation de FrankenPHP, le serveur d'application PHP moderne\nDans cette présentation, nous verrons pour quelles raisons FrankenPHP a vu le jour, comment le mettre en place dans son projet via Docker et comment l'utiliser en mode Worker.\n\nQuelques points d'attention sur l'utilisation du mode worker seront également abordés.\nEnfin, des données comparatives seront présentées afin de montrer quel a été l'impact positif de sa mise en place sur un projet client.\nBy[ Vincent Touzet](https://fr.linkedin.com/in/vincent-touzet-2a166a106), _Dotsafe_\n\n### L'observabilité, surveiller et comprendre ses systèmes informatiques en temps réel\nDans cette présentation, nous expliquerons quels sont les 3 piliers de l'observabilité (Logs, Metrics and Traces) et pour quelles raisons on la met en place dans un projet.\n\nNous verrons également comment on fait de l'observabilité concrètement en évoquant notamment l'exemple de YouSign qui a été présenté lors du Forum PHP 2023.\nEnfin, nous parlerons de ce qui est fait, à l'heure actuelle chez Dotsafe, en termes d'observabilité.\nBy Ely Lebesson, _Dotsafe_",
+    "location": "Dotsafe, 125 quai des Chartrons, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "Double meetup // Andrea Palma x Kim Chouard",
     "date": "2025-04-23T19:00:00",
     "url": "https://www.meetup.com/bordeauxjs/events/306681910/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link",
