@@ -5,6 +5,39 @@ X-WR-CALDESC:Calendrier des événements de la communauté afup-bordeaux
 X-WR-CALNAME:Événements afup-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:`#59: Parlons FrankenPHP et Observabilité`
+DTSTART;TZID=Europe/Paris:20250424T210000
+DTEND;TZID=Europe/Paris:20250424T230000
+UID:https://www.meetup.com/bordeaux-php-meetup/events/307068650/@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3070686
+ 50/\n📍 Dotsafe\, 125 quai des Chartrons\, 33000 Bordeaux\n\nCe soir [Do
+ tsafe](https://fr.linkedin.com/company/dotsafe) nous accompagne\, avec des
+  speakers et des locaux !\n\nJ'ai dis "des"\, oui oui ! Car ce soir\, nous
+  aurons 2 presentations au format court !\n\n---\n\nMerci à Dotsafe qui *
+ *sponso l'apéro/pizzas** de ce soir🍻🍿\nOn a tous hâte d'y être !\
+ n\n---\n\nLa parole aux speakeurs 📣\n\n### Présentation de FrankenPHP\
+ , le serveur d'application PHP moderne\nDans cette présentation\, nous ve
+ rrons pour quelles raisons FrankenPHP a vu le jour\, comment le mettre en 
+ place dans son projet via Docker et comment l'utiliser en mode Worker.\n\n
+ Quelques points d'attention sur l'utilisation du mode worker seront égale
+ ment abordés.\nEnfin\, des données comparatives seront présentées afin
+  de montrer quel a été l'impact positif de sa mise en place sur un proje
+ t client.\nBy[ Vincent Touzet](https://fr.linkedin.com/in/vincent-touzet-2
+ a166a106)\, _Dotsafe_\n\n### L'observabilité\, surveiller et comprendre s
+ es systèmes informatiques en temps réel\nDans cette présentation\, nous
+  expliquerons quels sont les 3 piliers de l'observabilité (Logs\, Metrics
+  and Traces) et pour quelles raisons on la met en place dans un projet.\n\
+ nNous verrons également comment on fait de l'observabilité concrètement
+  en évoquant notamment l'exemple de YouSign qui a été présenté lors d
+ u Forum PHP 2023.\nEnfin\, nous parlerons de ce qui est fait\, à l'heure 
+ actuelle chez Dotsafe\, en termes d'observabilité.\nBy Ely Lebesson\, _Do
+ tsafe_\n\nCommunauté: afup-bordeaux
+LOCATION:Dotsafe\, 125 quai des Chartrons\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-php-meetup/events/307068650/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Super-Apéro 2025
 DTSTART;TZID=Europe/Paris:20250320T190000
 DTEND;TZID=Europe/Paris:20250320T210000

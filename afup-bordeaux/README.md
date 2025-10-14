@@ -25,6 +25,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](./ev
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Jeudi 24 avril 2025 à 21:00 | `#59: Parlons FrankenPHP et Observabilité` | Dotsafe, 125 quai des Chartrons, 33000 Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/307068650/ |
 | Jeudi 20 mars 2025 à 19:00 | Super-Apéro 2025 | 23 Rue Ausone, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/306530360/ |
 | Mercredi 26 février 2025 à 19:00 | #57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager | 1 Cr Xavier Arnozan, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/306119819/ |
 | Mercredi 22 janvier 2025 à 19:00 | #56: Session lightning talks | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/304967965/ |
