@@ -1,5 +1,14 @@
 [
   {
+    "title": "AFUP Day 2026 Bordeaux",
+    "date": "2026-05-22T09:00:00",
+    "url": "https://event.afup.org/",
+    "description": "**AFUP Day Bordeaux, nouvelle destination !**\nL’AFUP Bordeaux se réjouit d’accueillir la communauté du sud-ouest lors de cette **première édition** accuellie par le **Bordeaux Ynov Campus**?\n\nBénéficiez du **partage des connaissances** et de toute la convivialité de la communauté locale : l’AFUP Bordeaux se prépare à vous en mettre **plein la vue** et vous promet une première édition qui aura tout d’une grande.",
+    "community": "afup-bordeaux",
+    "location": "Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat, France",
+    "is_online": false
+  },
+  {
     "title": "`#59: Parlons FrankenPHP et Observabilité`",
     "date": "2025-04-24T21:00:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/307068650/",
