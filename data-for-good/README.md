@@ -37,6 +37,6 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mardi 09 septembre 2025 à 19:00 | Rentrée de DataForGood Bordeaux | Aquinum - Le Node 12 Rue des Faussets 33000 Bordeaux | https://www.eventbrite.fr/e/genai-impact-evaluation-des-impacts-environnementaux-de-lia-generative-tickets-1625133972459?aff=oddtdtcreator |
+| Mercredi 29 octobre 2025 à 19:00 | Soirée 10 ans Data For Good - Data for Good Bordeaux au Node | Aquinum - Le Node 12 Rue des Faussets 33000 Bordeaux | https://www.eventbrite.fr/e/soiree-10-ans-data-for-good-data-for-good-bordeaux-au-node-tickets-1825530042499?aff=oddtdtcreator |
 </details>
 <!-- EVENTS:END -->
