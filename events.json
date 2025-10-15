@@ -1,5 +1,16 @@
 [
   {
+    "title": "AFUP Day 2026 Bordeaux",
+    "date": "2026-05-22T09:00:00",
+    "url": "https://event.afup.org/",
+    "description": "**AFUP Day Bordeaux, nouvelle destination !**\nL’AFUP Bordeaux se réjouit d’accueillir la communauté du sud-ouest lors de cette **première édition** accuellie par le **Bordeaux Ynov Campus**?\n\nBénéficiez du **partage des connaissances** et de toute la convivialité de la communauté locale : l’AFUP Bordeaux se prépare à vous en mettre **plein la vue** et vous promet une première édition qui aura tout d’une grande.",
+    "location": "Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat, France",
+    "is_online": false,
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2026-03-02T18:30:00+01:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb/",
@@ -131,6 +142,17 @@
     "is_online": false,
     "communities": [
       "agile-tour-bordeaux"
+    ]
+  },
+  {
+    "title": "Soirée 10 ans Data For Good - Data for Good Bordeaux au Node",
+    "date": "2025-10-29T19:00:00",
+    "url": "https://www.eventbrite.fr/e/soiree-10-ans-data-for-good-data-for-good-bordeaux-au-node-tickets-1825530042499?aff=oddtdtcreator",
+    "description": "Une soirée pour revenir sur 10 ans d’engagement pour la tech au service de l’intérêt général !\nLe collectif Data for Good Bordeaux vous donne rendez-vous pour fêter les 10 ans de Data For Good lors d’une soirée d’échanges et découverte/redécouverte des projets à impact positif menés pendant 10 ans par l’association et les bénévoles locaux.\n\nProgramme\n✨ Présentation de projets passés\n🎯 Les ambitions à venir de Data for Good Bordeaux & Data for Good France\n🍷 Un apéro convivial en mode auberge espagnole pour échanger avec la communauté\n🎁 Un quizz pour patienter et s’amuser !",
+    "location": "Le node, 12 rue des Faussets",
+    "is_online": false,
+    "communities": [
+      "data-for-good"
     ]
   },
   {

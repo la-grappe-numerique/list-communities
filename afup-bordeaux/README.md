@@ -18,6 +18,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Vendredi 22 mai 2026 à 09:00 | AFUP Day 2026 Bordeaux | Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat, France | https://event.afup.org/ |
+
 ## 📆 Past Events
 
 <details>

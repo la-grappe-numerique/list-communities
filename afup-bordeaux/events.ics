@@ -5,6 +5,23 @@ X-WR-CALDESC:Calendrier des événements de la communauté afup-bordeaux
 X-WR-CALNAME:Événements afup-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:AFUP Day 2026 Bordeaux
+DTSTART;TZID=Europe/Paris:20260522T090000
+DTEND;TZID=Europe/Paris:20260522T110000
+UID:https://event.afup.org/@community-events
+DESCRIPTION:🔗 https://event.afup.org/\n📍 Ynov Campus\, 2 Esplanade d
+ e la Gare\, 33110 Le Bouscat\, France\n\n**AFUP Day Bordeaux\, nouvelle de
+ stination !**\nL’AFUP Bordeaux se réjouit d’accueillir la communauté
+  du sud-ouest lors de cette **première édition** accuellie par le **Bord
+ eaux Ynov Campus**?\n\nBénéficiez du **partage des connaissances** et de
+  toute la convivialité de la communauté locale : l’AFUP Bordeaux se pr
+ épare à vous en mettre **plein la vue** et vous promet une première éd
+ ition qui aura tout d’une grande.\n\nCommunauté: afup-bordeaux
+LOCATION:Ynov Campus\, 2 Esplanade de la Gare\, 33110 Le Bouscat\, France
+TZID:Europe/Paris
+URL:https://event.afup.org/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:`#59: Parlons FrankenPHP et Observabilité`
 DTSTART;TZID=Europe/Paris:20250424T210000
 DTEND;TZID=Europe/Paris:20250424T230000

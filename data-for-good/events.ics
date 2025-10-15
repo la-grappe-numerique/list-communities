@@ -5,6 +5,29 @@ X-WR-CALDESC:Calendrier des événements de la communauté data-for-good
 X-WR-CALNAME:Événements data-for-good
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Soirée 10 ans Data For Good - Data for Good Bordeaux au Node
+DTSTART;TZID=Europe/Paris:20251029T190000
+DTEND;TZID=Europe/Paris:20251029T210000
+UID:https://www.eventbrite.fr/e/soiree-10-ans-data-for-good-data-for-good-
+ bordeaux-au-node-tickets-1825530042499?aff=oddtdtcreator@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/soiree-10-ans-data-for-good-d
+ ata-for-good-bordeaux-au-node-tickets-1825530042499?aff=oddtdtcreator\n
+ 📍 Le node\, 12 rue des Faussets\n\nUne soirée pour revenir sur 10 ans 
+ d’engagement pour la tech au service de l’intérêt général !\nLe co
+ llectif Data for Good Bordeaux vous donne rendez-vous pour fêter les 10 a
+ ns de Data For Good lors d’une soirée d’échanges et découverte/red
+ écouverte des projets à impact positif menés pendant 10 ans par l’ass
+ ociation et les bénévoles locaux.\n\nProgramme\n✨ Présentation de pro
+ jets passés\n🎯 Les ambitions à venir de Data for Good Bordeaux & Data
+  for Good France\n🍷 Un apéro convivial en mode auberge espagnole pour 
+ échanger avec la communauté\n🎁 Un quizz pour patienter et s’amuser 
+ !\n\nCommunauté: data-for-good
+LOCATION:Le node\, 12 rue des Faussets
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/soiree-10-ans-data-for-good-data-for-good-
+ bordeaux-au-node-tickets-1825530042499?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rentrée de DataForGood Bordeaux
 DTSTART;TZID=Europe/Paris:20250909T190000
 DTEND;TZID=Europe/Paris:20250909T210000
