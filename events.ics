@@ -6327,6 +6327,24 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/301716042/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Créer ton premier agent IA
+DTSTART;TZID=Europe/Paris:20251021T183000
+DTEND;TZID=Europe/Paris:20251021T203000
+UID:https://www.linkedin.com/feed/update/urn:li:activity:73820017258656071
+ 68@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/feed/update/urn:li:activity:7382
+ 001725865607168\n📍 Le Node\, 12 rue des Faussets\, 33000 BORDEAUX\n\nTu
+  veux créer ton premier agent IA en moins de 45 minutes\, sans écrire un
+ e seule ligne de code ?\n\n👉 Rejoins-nous le 21 octobre\, de 18h30 à 1
+ 9h30\, au Node (Bordeaux) pour un atelier pratique et fun grâce à n8n.\n
+ \nAucun prérequis\, juste ta curiosité et l’envie de découvrir ce que
+  l’IA peut faire pour toi 💡\n\nCommunauté: aquinum
+LOCATION:Le Node\, 12 rue des Faussets\, 33000 BORDEAUX
+TZID:Europe/Paris
+URL:https://www.linkedin.com/feed/update/urn:li:activity:73820017258656071
+ 68
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Happynum de septembre (avec Coop alpha)
 DTSTART;TZID=Europe/Paris:20250925T183000
 DTEND;TZID=Europe/Paris:20250925T203000

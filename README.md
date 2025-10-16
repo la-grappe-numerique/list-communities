@@ -93,9 +93,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 15 octobre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Bière Agile de Bordeaux](https://www.linkedin.com/events/bi-reagiledebordeaux7380175331695087616/) | Le Castan, 2 quai Douane, Bordeaux |
-| Mercredi 15 octobre 2025 à 18:30 | [aperops-dataops-mlops](aperops-dataops-mlops/) | [DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA](https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2) | Ippon Technologies Bordeaux - 44 Allée de Tourny · Bordeaux |
-| Mercredi 15 octobre 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [Migrer l’écosystème React Native au Edge-to-Edge : la rétrospective](https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913363066884096/) | SFEIR, 5 Rue de Condé, 33000 Bordeaux |
+| Jeudi 16 octobre 2025 à 19:00 | [bordeauxjug](bordeauxjug/) | [Karate Connect : votre partenaire de combat dans l’arène des tests API](https://www.meetup.com/bordeauxjug/events/311318217/) | ENSEIRB, 1 Avenue du Docteur Albert Schweitzer · Talence |
+| Mardi 21 octobre 2025 à 18:30 | [aquinum](aquinum/) | [Créer ton premier agent IA](https://www.linkedin.com/feed/update/urn:li:activity:7382001725865607168) | Le Node, 12 rue des Faussets, 33000 BORDEAUX |
+| Jeudi 23 octobre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [𝐐𝐮𝐚𝐧𝐝 𝐥𝐚 𝐦𝐞𝐬𝐮𝐫𝐞 𝐟𝐚𝐜̧𝐨𝐧𝐧𝐞 𝐥’𝐞́𝐪𝐮𝐢𝐩𝐞](https://www.linkedin.com/events/7380197152666333184/) | Capgemini Sud, 19 all James Watt, Mérignac - Tour D - 2eme étage |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

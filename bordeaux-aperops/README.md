@@ -90,9 +90,13 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-aperops/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mercredi 15 octobre 2025 à 18:30 | DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA | Ippon Technologies Bordeaux - 44 Allée de Tourny · Bordeaux | https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2 |
+</details>
 <!-- EVENTS:END -->

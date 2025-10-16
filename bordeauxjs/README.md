@@ -13,12 +13,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Mercredi 15 octobre 2025 à 19:00 | Migrer l’écosystème React Native au Edge-to-Edge : la rétrospective | SFEIR, 5 Rue de Condé, 33000 Bordeaux | https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913363066884096/ |
-
 ## 📆 Past Events
 
 <details>
@@ -26,6 +20,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](./event
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mercredi 15 octobre 2025 à 19:00 | Migrer l’écosystème React Native au Edge-to-Edge : la rétrospective | SFEIR, 5 Rue de Condé, 33000 Bordeaux | https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913363066884096/ |
 | Jeudi 02 octobre 2025 à 19:00 | odfjs, une bibliothèque pour générer et manipuler les fichiers .odt et .ods | Le node, 12 Rue des Faussets, 33000 Bordeaux | https://www.linkedin.com/events/odfjs-unebiblioth-quepourg-n-re7373626860389273600/ |
 | Jeudi 18 septembre 2025 à 19:00 | La clean architecture et les tests unitaires : et si c'était simple ? | Le Node, 12 rue des Faussets, Bordeaux, France | https://www.meetup.com/bordeauxjs/events/310609693/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2 |
 | Mercredi 25 juin 2025 à 19:00 | Endiguer une épidémie d'erreurs TS | Le Node, 12 rue des Faussets, 33000, Bordeaux | https://www.meetup.com/bordeauxjs/events/307822194/ |

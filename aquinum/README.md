@@ -15,6 +15,12 @@ L'association organise plus de 150 événements par an, contribuant ainsi active
 🌍 Site web : https://www.aquinum.fr
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 21 octobre 2025 à 18:30 | Créer ton premier agent IA | Le Node, 12 rue des Faussets, 33000 BORDEAUX | https://www.linkedin.com/feed/update/urn:li:activity:7382001725865607168 |
+
 ## 📆 Past Events
 
 <details>
