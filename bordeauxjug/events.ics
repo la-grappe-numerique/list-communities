@@ -5,6 +5,30 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjug
 X-WR-CALNAME:Événements bordeauxjug
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Spring Boot: Chapitre 4
+DTSTART;TZID=Europe/Paris:20251120T185000
+DTEND;TZID=Europe/Paris:20251120T205000
+UID:https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4@comm
+ unity-events
+DESCRIPTION:🔗 https://bordeauxjug.org/meetings/20251120-Spring_Boot__Ch
+ apitre_4\n📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, 33400 Tal
+ ence\n\nSpring Boot 4.0 est prévu pour novembre prochain. Même si la bas
+ eline reste toujours à Java 17\, c’est l’occasion idéale de profiter
+  des nouveautés du langage et du framework.\n\nStéphane commencera par m
+ ettre à jour une application existante vers Spring Boot 4.0.\n\nEn chemin
+ \, nous verrons comment éviter à l’avenir les NullPointerExceptions en
+  production grâce aux null checks ajoutés dans les projets Spring avec J
+ Specify.\n\nNous en profiterons aussi pour revoir l’organisation des dé
+ pendances : Spring Boot propose désormais des modules plus fins qui offre
+ nt davantage de souplesse.\n\nL’intégration de Jackson 3.0 simplifie la
+  configuration et apporte des réglages plus modernes.\n\nEnfin\, nous dé
+ couvrirons comment utiliser un RestClient dans des scénarios asynchrones\
+ , sans avoir recours aux types réactifs.\n\nCommunauté: bordeauxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, 33400 Talence
+TZID:Europe/Paris
+URL:https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Karate Connect : votre partenaire de combat dans l’arène des te
  sts API
 DTSTART;TZID=Europe/Paris:20251016T190000
