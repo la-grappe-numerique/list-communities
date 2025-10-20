@@ -1,5 +1,14 @@
 [
   {
+    "title": "Spring Boot: Chapitre 4",
+    "date": "2025-11-20T18:50:00",
+    "url": "https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4",
+    "description": "Spring Boot 4.0 est prévu pour novembre prochain. Même si la baseline reste toujours à Java 17, c’est l’occasion idéale de profiter des nouveautés du langage et du framework.\n\nStéphane commencera par mettre à jour une application existante vers Spring Boot 4.0.\n\nEn chemin, nous verrons comment éviter à l’avenir les NullPointerExceptions en production grâce aux null checks ajoutés dans les projets Spring avec JSpecify.\n\nNous en profiterons aussi pour revoir l’organisation des dépendances : Spring Boot propose désormais des modules plus fins qui offrent davantage de souplesse.\n\nL’intégration de Jackson 3.0 simplifie la configuration et apporte des réglages plus modernes.\n\nEnfin, nous découvrirons comment utiliser un RestClient dans des scénarios asynchrones, sans avoir recours aux types réactifs.",
+    "community": "bordeauxjug",
+    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer, 33400 Talence",
+    "is_online": false
+  },
+  {
     "title": "Karate Connect : votre partenaire de combat dans l’arène des tests API",
     "date": "2025-10-16T19:00:00",
     "url": "https://www.meetup.com/bordeauxjug/events/311318217/",
