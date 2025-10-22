@@ -51,7 +51,7 @@
 
 ## 🔗 Rejoignez la communauté
 
-- **🌐 Site web** : [le site](https://d1fi6mxjtinyyu.cloudfront.net/)
+- **🌐 Site web** : [le site](https://bordeaux-aperops.com)
 - **📧 Newsletter** : [S'inscrire à la newsletter](https://8a1efb29.sibforms.com/serve/MUIFAHLrnS0f4T52Dow5oOcIQ3OBYp7c2xUYoVT3erOIffCVGdIi4m366UIkMg2VejuNwK50oGc6bbG0DL7oZfd_FumIv85pqjwDFZnPBTnBUf3NQNSTgrMdBnAnwYQLv_DX2SILfSMZ5Zrz0wmH1ltnAbPHK4LtrAvnLsMbY98LnRzyXCLlVFbhqEitvineyRwg98BOBmowgNqR)
 - **👥 Meetup.com** : [Bordeaux ApérOps](https://www.meetup.com/bordeaux-aperops-dataops-mlops)
 - **📧 Contact** : lu.iglesiash@gmail.com
