@@ -10,6 +10,7 @@ Notre objectif : partager expériences et bonnes pratiques autour de l’IA gén
 ## 🔗 Rejoignez la communauté
 
 - **🌐 Site web** : [Dev with AI](https://devw.ai/)
+- **📧 Contact** : greg@devw.ai, hello@ludwigvantours.dev, cedric.teyton@packmind.com
 
 <!-- EVENTS:START -->
 
