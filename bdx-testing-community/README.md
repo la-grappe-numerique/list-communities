@@ -27,9 +27,4 @@ Les échanges peuvent se poursuivre en ligne via nos canaux de communication (gr
 - **📧 Contact** : a.fontaine@lectra.com, jul.leonard@gmail.com, yann.srt@gmail.com
 
 <!-- EVENTS:START -->
-
-## 📅 Upcoming Events
-
-## 📆 Past Events
-
 <!-- EVENTS:END -->
