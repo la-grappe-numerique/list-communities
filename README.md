@@ -93,9 +93,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 21 octobre 2025 à 18:30 | [aquinum](aquinum/) | [Créer ton premier agent IA](https://www.linkedin.com/feed/update/urn:li:activity:7382001725865607168) | Le Node, 12 rue des Faussets, 33000 BORDEAUX |
-| Jeudi 23 octobre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [𝐐𝐮𝐚𝐧𝐝 𝐥𝐚 𝐦𝐞𝐬𝐮𝐫𝐞 𝐟𝐚𝐜̧𝐨𝐧𝐧𝐞 𝐥’𝐞́𝐪𝐮𝐢𝐩𝐞](https://www.linkedin.com/events/7380197152666333184/) | Capgemini Sud, 19 all James Watt, Mérignac - Tour D - 2eme étage |
 | Mercredi 29 octobre 2025 à 19:00 | [data-for-good](data-for-good/) | [Soirée 10 ans Data For Good - Data for Good Bordeaux au Node](https://www.eventbrite.fr/e/soiree-10-ans-data-for-good-data-for-good-bordeaux-au-node-tickets-1825530042499?aff=oddtdtcreator) | Le node, 12 rue des Faussets |
+| Jeudi 30 octobre 2025 à 09:00 | [agile-tour-bordeaux](agile-tour-bordeaux/) | [Agile Tour Bordeaux 2025](https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/) | Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat |
+| Lundi 03 novembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
