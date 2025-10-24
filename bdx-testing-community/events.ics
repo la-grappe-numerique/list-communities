@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements bdx-testing-community//Bordeaux Community Events//F
+ R
+X-WR-CALDESC:Calendrier des événements de la communauté bdx-testing-com
+ munity
+X-WR-CALNAME:Événements bdx-testing-community
+X-WR-TIMEZONE:Europe/Paris
+END:VCALENDAR

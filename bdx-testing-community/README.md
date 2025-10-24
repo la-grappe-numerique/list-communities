@@ -1,4 +1,4 @@
-# Bordeaux Testing Community ![Logo](./logo-btc.jpeg ":size=100")
+# BDX Testing Community ![Logo](./logo-btc.jpeg ":size=100")
 
 La BDX Testing Community est une communauté locale dédiée au test logiciel et à la qualité logicielle (QA) sur le bassin bordelais. Elle rassemble des professionnels, des personnes en formation et des passionnés souhaitant échanger, partager des retours d’expérience et faire progresser les pratiques autour du testing
 
@@ -23,13 +23,8 @@ Les échanges peuvent se poursuivre en ligne via nos canaux de communication (gr
 ## 🔗 Rejoignez la communauté
 
 - **🌍 LinkedIn** : https://www.linkedin.com/groups/15370013/
-- **👥 Meetup.com** : [Bordeaux Testing Community](https://www.meetup.com/bdx-testing-community/)
+- **👥 Meetup.com** : [BDX Testing Community](https://www.meetup.com/bdx-testing-community/)
 - **📧 Contact** : a.fontaine@lectra.com, jul.leonard@gmail.com, yann.srt@gmail.com
 
 <!-- EVENTS:START -->
-
-## 📅 Upcoming Events
-
-## 📆 Past Events
-
 <!-- EVENTS:END -->

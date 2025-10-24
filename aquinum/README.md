@@ -15,12 +15,6 @@ L'association organise plus de 150 événements par an, contribuant ainsi active
 🌍 Site web : https://www.aquinum.fr
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Mardi 21 octobre 2025 à 18:30 | Créer ton premier agent IA | Le Node, 12 rue des Faussets, 33000 BORDEAUX | https://www.linkedin.com/feed/update/urn:li:activity:7382001725865607168 |
-
 ## 📆 Past Events
 
 <details>
@@ -28,6 +22,7 @@ L'association organise plus de 150 événements par an, contribuant ainsi active
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mardi 21 octobre 2025 à 18:30 | Créer ton premier agent IA | Le Node, 12 rue des Faussets, 33000 BORDEAUX | https://www.linkedin.com/feed/update/urn:li:activity:7382001725865607168 |
 | Jeudi 25 septembre 2025 à 18:30 | Happynum de septembre (avec Coop alpha) | Le node, 12 rue des faussets, 33000 Bordeaux | https://nextcloud.coopalpha.coop/index.php/apps/forms/s/BGs7tdKGbYgiNE33sXA2GYFm |
 | Jeudi 26 juin 2025 à 18:30 | Happynum de juin | Le node, 12 rue des faussets, Bordeaux | https://www.aquinum.fr/ |
 </details>
