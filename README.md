@@ -27,9 +27,11 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 - [Bdx I/O](bdx-io/)
 
 ### Data/IA
+
 - [ApérOps: DataOps & MLOps](bordeaux-aperops/)
 - [Café IA](cafe-ia/)
 - [Data for Good Bordeaux](data-for-good/)
+- [Dev with AI](dev-with-ai/)
 
 ### Design
 
@@ -61,12 +63,14 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 - [BordeauxJug](bordeauxjug/)
 - [BordeauxKt](bordeauxkt/)
 - [Bordeaux Python Meetup](bordeaux-python-meetup/)
+- [Bordeaux Testing Community](bdx-testing-community/)
 - [Bordeaux XR](bordeaux-xr/)
 - [Cocoaheads Bordeaux](cocoaheads/)
 - [Creative Coding Bordeaux](creative-coding-bordeaux/)
 - [Framer Bordeaux](framer-bordeaux/)
 
 ### Sécurité
+
 - [BièreSecu Bordeaux](bieresecu)
 
 ### Services
