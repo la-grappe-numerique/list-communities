@@ -31,6 +31,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](./ev
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mercredi 22 octobre 2025 à 19:00 | 62 : Écrire du code qui tient dans nos têtes | Le node, 12 Rue des Faussets, 33000 Bordeaux | https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/311181173 |
 | Mercredi 17 septembre 2025 à 19:00 | #61 : Preview Forum PHP - Transformez votre veille & vos Obsessions Primitives | Le Node - Aquinum, 12 Rue des Faussets, 33000 Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/310668434/ |
 | Mercredi 23 juillet 2025 à 19:00 | #60: Votons et jouons ensembles 🎉 | Le Node - Aquinum, 12 Rue des Faussets, 33000 Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/309263810/ |
 | Jeudi 24 avril 2025 à 19:00 | #59: Parlons FrankenPHP et Observabilité | Dotsafe, 125 quai des Chartrons, 33000 Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/307068650/ |

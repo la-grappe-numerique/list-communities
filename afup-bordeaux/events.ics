@@ -22,6 +22,47 @@ TZID:Europe/Paris
 URL:https://event.afup.org/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:62 : Écrire du code qui tient dans nos têtes
+DTSTART;TZID=Europe/Paris:20251022T190000
+DTEND;TZID=Europe/Paris:20251022T210000
+UID:https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/311181173@comm
+ unity-events
+DESCRIPTION:🔗 https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/3
+ 11181173\n📍 Le node\, 12 Rue des Faussets\, 33000 Bordeaux\n\nL'[Agile 
+ Tour Bordeaux](https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/
+ ) est bientôt ! Pour l'occasion\, nous accueillerons l'un des speakers de
+  la conférence mais avec un autre sujet 😛\n\nAvant la présentation de
+ s talks\, rappelez-vous que le meetup se termine par un **apéro collabora
+ tif** 🍻🍿\nCet apéro est l'occasion idéale de rencontrer de nouvell
+ es personnes et d'échanger autour de PHP et son écosystème.\n\nLa parol
+ e aux speakeurs 📣\n\n#### Écrire du code qui tient dans nos têtes\nPa
+ r Julien Vitte\, coach craft chez [Inside](https://insidegroup.fr/)\n\n_No
+ us savons tous que “le code propre” est important\, mais dès qu’on 
+ essaie de le définir\, les opinions peuvent s'accorder et diverger en mê
+ me temps : lisible\, maintenable\, testé\, robuste\, flexible… autant d
+ e termes qui recouvrent des définitions très différentes selon les équ
+ ipes et les contextes._\n\n_Dans le même temps\, nous constatons souvent 
+ qu’au fil des itérations\, le rythme de développement ralentit : estim
+ er ou maintenir une bonne vélocité devient un effort constant\, malgré 
+ des indicateurs de qualité soignés et l'utilisation de pratiques reconnu
+ es._\n\n_Et si une partie du problème ne venait pas d’un manque de comp
+ étences ou de connaissances techniques\, mais d’une méconnaissance de 
+ nos propres limites cognitives ?_\n\n_Dans ce talk\, nous explorerons comm
+ ent les sciences cognitives éclairent la manière dont nous lisons\, comp
+ renons et transformons du code. Nous verrons comment ces connaissances per
+ mettent de dépasser le débats stériles entre “qualité” et "over en
+ gineering" pour identifier des critères factuels\, poser des heuristiques
+  simples et concevoir des habitudes de développement qui facilitent la co
+ mpréhension collective sur le long terme\, permettant d'écrire — et de
+  faire évoluer — du code qui tient dans nos têtes._\n\n--------\n🎤 
+ **Autres informations importantes : pour ceux qui ont commander des elephp
+ ants/t-shirts PHPStan\, pour ceux qui ne sont pas venu les récupérer en 
+ septembre\, venez les récupérer là!**\n\nCommunauté: afup-bordeaux
+LOCATION:Le node\, 12 Rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/311181173
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:#61 : Preview Forum PHP - Transformez votre veille & vos Obsession
  s Primitives
 DTSTART;TZID=Europe/Paris:20250917T200000

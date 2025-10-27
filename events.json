@@ -178,6 +178,17 @@
     ]
   },
   {
+    "title": "62 : Écrire du code qui tient dans nos têtes",
+    "date": "2025-10-22T19:00:00",
+    "url": "https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/311181173",
+    "description": "L'[Agile Tour Bordeaux](https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/) est bientôt ! Pour l'occasion, nous accueillerons l'un des speakers de la conférence mais avec un autre sujet 😛\n\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\n\nLa parole aux speakeurs 📣\n\n#### Écrire du code qui tient dans nos têtes\nPar Julien Vitte, coach craft chez [Inside](https://insidegroup.fr/)\n\n_Nous savons tous que “le code propre” est important, mais dès qu’on essaie de le définir, les opinions peuvent s'accorder et diverger en même temps : lisible, maintenable, testé, robuste, flexible… autant de termes qui recouvrent des définitions très différentes selon les équipes et les contextes._\n\n_Dans le même temps, nous constatons souvent qu’au fil des itérations, le rythme de développement ralentit : estimer ou maintenir une bonne vélocité devient un effort constant, malgré des indicateurs de qualité soignés et l'utilisation de pratiques reconnues._\n\n_Et si une partie du problème ne venait pas d’un manque de compétences ou de connaissances techniques, mais d’une méconnaissance de nos propres limites cognitives ?_\n\n_Dans ce talk, nous explorerons comment les sciences cognitives éclairent la manière dont nous lisons, comprenons et transformons du code. Nous verrons comment ces connaissances permettent de dépasser le débats stériles entre “qualité” et \"over engineering\" pour identifier des critères factuels, poser des heuristiques simples et concevoir des habitudes de développement qui facilitent la compréhension collective sur le long terme, permettant d'écrire — et de faire évoluer — du code qui tient dans nos têtes._\n\n--------\n🎤 **Autres informations importantes : pour ceux qui ont commander des elephpants/t-shirts PHPStan, pour ceux qui ne sont pas venu les récupérer en septembre, venez les récupérer là!**",
+    "location": "Le node, 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "Créer ton premier agent IA",
     "date": "2025-10-21T18:30:00",
     "url": "https://www.linkedin.com/feed/update/urn:li:activity:7382001725865607168",
