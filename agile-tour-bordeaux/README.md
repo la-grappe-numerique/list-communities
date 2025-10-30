@@ -8,9 +8,13 @@ L'Agile Tour Bordeaux est organisé et animé par une équipe enthousiaste de b�
 🌍 Site web : [agiletourbordeaux.fr](https://agiletourbordeaux.fr/)
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 30 octobre 2025 à 09:00 | Agile Tour Bordeaux 2025 | Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat | https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/ |
+</details>
 <!-- EVENTS:END -->

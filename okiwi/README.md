@@ -23,6 +23,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](./events.ics
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Lundi 03 novembre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb/ |
+| Vendredi 28 novembre 2025 à 09:00 | Open Okiwi #4 | Yack, 16 rue des Terres Neuves, 33130, Bègles | https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac730ffcc |
 | Lundi 01 décembre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/ |
 | Lundi 05 janvier 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb/ |
 | Lundi 02 février 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/ |

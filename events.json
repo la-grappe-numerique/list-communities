@@ -83,6 +83,17 @@
     ]
   },
   {
+    "title": "Open Okiwi #4",
+    "date": "2025-11-28T09:00:00",
+    "url": "https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac730ffcc",
+    "description": "Un [forum ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) organisé par Okiwi. Attendez-vous à l'inattendu.\n\nUn forum ouvert est une \"non-conférence\" où les participants apportent les sujets dont ils souhaitent parler, le planning est créé en début de journée tous ensemble, puis chacun suit ses envies et participe aux sessions qui l'intéresse (plusieurs salles sont disponibles et permettent plusieurs discussions simultanées).\n\nLe petit déjeuner et le repas du midi sont offerts par Okiwi.\n\nAttention : l'inscription est limitée à 30 personnes et l'évènement est en présentiel, si vous êtes inscrit vous vous engagez à venir, vérifiez votre disponibilité pour la journée 😄",
+    "location": "Yack, 16 rue des Terres Neuves, 33130, Bègles",
+    "is_online": false,
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
     "title": "Spring Boot: Chapitre 4",
     "date": "2025-11-20T18:50:00",
     "url": "https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4",

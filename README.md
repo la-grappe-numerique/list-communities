@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 29 octobre 2025 à 19:00 | [data-for-good](data-for-good/) | [Soirée 10 ans Data For Good - Data for Good Bordeaux au Node](https://www.eventbrite.fr/e/soiree-10-ans-data-for-good-data-for-good-bordeaux-au-node-tickets-1825530042499?aff=oddtdtcreator) | Le node, 12 rue des Faussets |
-| Jeudi 30 octobre 2025 à 09:00 | [agile-tour-bordeaux](agile-tour-bordeaux/) | [Agile Tour Bordeaux 2025](https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/) | Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat |
 | Lundi 03 novembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb/) | 9 Rue de Condé, Bordeaux |
+| Vendredi 07 novembre 2025 à 09:00 | [bdx-io](bdx-io/) | [BDX I/O](https://bdxio.fr) | Palais des congrès de Bordeaux, Av. Jean Gabriel Domergue, 33300 Bordeaux |
+| Jeudi 13 novembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Afterwork Agile Bordeaux - 𝐋𝐚 𝐋𝐢𝐠𝐧𝐞 𝐪𝐮𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐨𝐮𝐭](https://www.linkedin.com/events/7383133309511385088/) | Capgemini Mérignac, 19 All. James Watt, Mérignac, Tour D - 2ème étage |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
