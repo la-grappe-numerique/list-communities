@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 13 novembre 2025 à 19:00 | Pourquoi Javascript est un langage de merde ? | Le node, 12 Rue des Faussets, 33000 Bordeaux | https://www.linkedin.com/events/pourquoijavascriptestunlangaged7391045061519765504/ |
+
 ## 📆 Past Events
 
 <details>

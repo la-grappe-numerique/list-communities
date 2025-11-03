@@ -16507,6 +16507,29 @@ TZID:Europe/Paris
 URL:https://guild.host/events/karpenter-ragir-temps-evmpkp
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pourquoi Javascript est un langage de merde ?
+DTSTART;TZID=Europe/Paris:20251113T190000
+DTEND;TZID=Europe/Paris:20251113T210000
+UID:https://www.linkedin.com/events/pourquoijavascriptestunlangaged7391045
+ 061519765504/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/pourquoijavascriptestunla
+ ngaged7391045061519765504/\n📍 Le node\, 12 Rue des Faussets\, 33000 Bor
+ deaux\n\nTous les jours\, je mens à ma mère en lui disant que je suis ex
+ pert-e COBOL. C'est la seule solution que j'ai trouvé afin de lui cacher 
+ que mon domaine d'expertise est en réalité une chose horrible : le Javas
+ cript. Oui\, des années d'études et de lectures informatiques plus tar
+ d\, le Javascript semble finalement un bien pire danger qu'un millier d'he
+ ures d'affilée passées à regarder les Teletubbies.\nMais pourtant\, qu'
+ est-ce qui est à l'origine de cette réputation sulfureuse ? Qu'est-ce qu
+ i pourrait sauver le Javascript ? Est-ce qu'un complot mondial se cache de
+ rrière tout ça ? Vous le saurez dans cette nouvelle présentation !\n\
+ nCommunauté: bordeauxjs
+LOCATION:Le node\, 12 Rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/pourquoijavascriptestunlangaged7391045
+ 061519765504/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Migrer l’écosystème React Native au Edge-to-Edge : la rétrosp
  ective
 DTSTART;TZID=Europe/Paris:20251015T190000
