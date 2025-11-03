@@ -1,5 +1,14 @@
 [
   {
+    "title": "Pourquoi Javascript est un langage de merde ?",
+    "date": "2025-11-13T19:00:00",
+    "url": "https://www.linkedin.com/events/pourquoijavascriptestunlangaged7391045061519765504/",
+    "description": "Tous les jours, je mens à ma mère en lui disant que je suis expert-e COBOL. C'est la seule solution que j'ai trouvé afin de lui cacher que mon domaine d'expertise est en réalité une chose horrible : le Javascript. Oui, des années d'études et de lectures informatiques plus tard, le Javascript semble finalement un bien pire danger qu'un millier d'heures d'affilée passées à regarder les Teletubbies.\nMais pourtant, qu'est-ce qui est à l'origine de cette réputation sulfureuse ? Qu'est-ce qui pourrait sauver le Javascript ? Est-ce qu'un complot mondial se cache derrière tout ça ? Vous le saurez dans cette nouvelle présentation !",
+    "community": "bordeauxjs",
+    "location": "Le node, 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false
+  },
+  {
     "title": "Migrer l’écosystème React Native au Edge-to-Edge : la rétrospective",
     "date": "2025-10-15T19:00:00",
     "url": "https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913363066884096/",
