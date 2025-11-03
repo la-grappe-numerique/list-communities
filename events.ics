@@ -3233,6 +3233,27 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/228109596/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bière Agile de Bordeaux
+DTSTART;TZID=Europe/Paris:20251119T183000
+DTEND;TZID=Europe/Paris:20251119T203000
+UID:https://www.linkedin.com/events/7389363931086999553/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/7389363931086999553/\n
+ 📍 Bar Castan\, 2 quai Douane\, Bordeaux\, 33\, FR\, 33000\n\nOn entend 
+ souvent des phrases comme\n\n“Scrum\, c’est trop de réunions”\n“O
+ n est Agile\, donc on n’a pas besoin de plan”\n“Le PO décide de tou
+ t”\n\nPour cette Bière Agile\, on va s’amuser à confronter ces idée
+ s reçues.\nÀ ton arrivée\, tu pioches une ou deux cartes\, chacune port
+ ant un mythe Agile. Tu en discutes avec tes voisins autour d’un verre\, 
+ tu partages ton expérience\, tes doutes\, tes contre-exemples.\nAu fil de
+  la soirée\, les cartes circulent\, les échanges s’entrecroisent et de
+  nouvelles perspectives émergent.\n\nAucune préparation\, aucun slide\, 
+ juste de la curiosité\, des discussions animées et un bon moment partag
+ é entre agiliste·s et curieux·ses\n\nCommunauté: agile-bordeaux
+LOCATION:Bar Castan\, 2 quai Douane\, Bordeaux\, 33\, FR\, 33000
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/7389363931086999553/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture 25.6 - Influence et manipulation
 DTSTART;TZID=Europe/Paris:20251115T100000
 DTEND;TZID=Europe/Paris:20251115T120000
