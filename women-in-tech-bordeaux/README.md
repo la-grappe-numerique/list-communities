@@ -21,6 +21,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/women-in-tech-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 04 décembre 2025 à 18:30 | Cyber & Expertise : rendre visible l’invisible | SFEIR, 5 Rue de Condé, 33000 Bordeaux | https://luma.com/2foedvti |
+
 ## 📆 Past Events
 
 <details>

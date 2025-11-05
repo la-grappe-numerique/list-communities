@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 03 novembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb/) | 9 Rue de Condé, Bordeaux |
 | Vendredi 07 novembre 2025 à 09:00 | [bdx-io](bdx-io/) | [BDX I/O](https://bdxio.fr) | Palais des congrès de Bordeaux, Av. Jean Gabriel Domergue, 33300 Bordeaux |
 | Jeudi 13 novembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Afterwork Agile Bordeaux - 𝐋𝐚 𝐋𝐢𝐠𝐧𝐞 𝐪𝐮𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐨𝐮𝐭](https://www.linkedin.com/events/7383133309511385088/) | Capgemini Mérignac, 19 All. James Watt, Mérignac, Tour D - 2ème étage |
+| Jeudi 13 novembre 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [Pourquoi Javascript est un langage de merde ?](https://www.linkedin.com/events/pourquoijavascriptestunlangaged7391045061519765504/) | Le node, 12 Rue des Faussets, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

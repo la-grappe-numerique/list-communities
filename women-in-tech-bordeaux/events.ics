@@ -7,6 +7,43 @@ X-WR-CALDESC:Calendrier des événements de la communauté women-in-tech-b
 X-WR-CALNAME:Événements women-in-tech-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Cyber & Expertise : rendre visible l’invisible
+DTSTART;TZID=Europe/Paris:20251204T183000
+DTEND;TZID=Europe/Paris:20251204T203000
+UID:https://luma.com/2foedvti@community-events
+DESCRIPTION:🔗 https://luma.com/2foedvti\n📍 SFEIR\, 5 Rue de Condé\,
+  33000 Bordeaux\n\n​Deux talks pour explorer ce qu’on ne voit pas touj
+ ours :\nles coulisses d’une cyberattaque et la place (souvent invisible)
+  des femmes expertes dans la tech.\n\n**1️⃣ INFO PRATIQUES**\n\n​
+ 📍SFEIR Bordeaux\, 5 rue de Condé\, 33000 Bordeaux\n🕡 18h30 : accuei
+ l\n🎙 19h : talks\n🍸 20h30 : échanges + cocktail (végé friendly)\n
+ 👋 21h30 : fin de soirée\n​L’événement est gratuit mais les place
+ s sont limitées : inscris toi ici pour réserver la tienne !\n\n**2️⃣
+  PRÉSENTATIONS**\n\n​Pour clôturer l’année\, Women in Tech Bordeaux
+  vous donne rendez-vous chez SFEIR pour une soirée inspirante autour de d
+ eux talks animés par :\n\n​Clara Broc – « À quoi peut ressembler un
+ e cyberattaque ? »\nUne plongée concrète dans l’univers de la cybers
+ écurité pour comprendre les techniques et enjeux derrière les attaques 
+ les plus fréquentes.\n\n​Gaëlle Leclercq – « Le syndrome de l’exp
+ erte invisible »\nUne réflexion sur la place des femmes expertes dans la
+  tech et les biais autour de la reconnaissance technique et de la transver
+ salité.\n\n**3️⃣ A PROPOS DES INTERVENANTES**\n\n​À propos de Clar
+ a\nIngénieure en informatique passionnée par la cybersécurité et notam
+ ment la Cyber Threat Intelligence (CTI)\, Clara vulgarise avec clarté des
+  notions souvent complexes pour sensibiliser chacun à la sécurité numé
+ rique. Sa curiosité et son envie de transmettre en font une intervenante 
+ aussi précise que pédagogue.\n\n​À propos de Gaëlle\nIssue de la R&D
+ \, Gaëlle s’est spécialisée en Business Intelligence et accompagne au
+ jourd’hui les organisations dans la valorisation de leurs données via P
+ ower BI et Microsoft Fabric.\nMembre active du Club Power BI\, elle incarn
+ e la transmission\, la curiosité et le pragmatisme — des valeurs qu’e
+ lle partage volontiers lors de moments d’échange comme celui-ci.\n\nCom
+ munauté: women-in-tech-bordeaux
+LOCATION:SFEIR\, 5 Rue de Condé\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/2foedvti
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oser\, malgré la peur : quand confiance et collectif deviennent m
  oteurs
 DTSTART;TZID=Europe/Paris:20250930T183000
