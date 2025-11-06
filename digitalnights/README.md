@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/digitalnights/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 02 décembre 2025 à 19:00 | Afterwork networking entre acteur du digital - DN#21 & anniversaire | 1 Pl. Pey Berland, 33000 Bordeaux | https://www.eventbrite.fr/e/afterwork-networking-entre-acteur-du-digital-dn21-anniversaire-tickets-1963595401705 |
+
 ## 📆 Past Events
 
 <details>
