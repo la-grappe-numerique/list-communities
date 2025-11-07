@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Dev With AI Meetup #2 @ Luni",
+    "date": "2025-11-18T19:00:00",
+    "url": "https://luma.com/8f9h2dh1",
+    "description": "Au programme de cette édition :\n\nBastien Penalba - Oubliez la réutilisabilité : Bienvenue à l'ère du code jetable\nL'IA vous rendra non seulement plus rapide, mais elle vous rendra plus intelligent en vous permettant de créer des scripts rapides et des outils jetables qui permettent d'économiser des heures. La question n'est pas \"dois-je construire ça ?\" mais plutôt \"pourquoi ne le ferais-je pas ?\"\n\n--\n\nArthur Magne - IA & génération de code : productivité boostée, lucidité en danger ?\nL’IA permet de produire du code plus vite, mais elle introduit aussi des biais, de la dette technique et une perte d’esprit critique. Les relectures deviennent plus complexes, et transmettre un contexte fiable aux outils d’IA, à grande échelle, reste un défi technique et culturel. Ce talk partage un retour d’expérience concret et des leviers pour garder la maîtrise dans ce nouvel environnement.\n\n--\n\nDavid Robert - Du vibe code aux specs exécutables : reprendre le contrôle dans le chaos génératif\nDette technique, régressions, code illisible… le vibe code trouve rapidement ses limites dès que l’on dépasse le stade du POC.\n\nComment alors tirer parti de l’IA générative tout en garantissant la qualité ?\n\nLes pratiques issues de l’agilité et du software craft apportent une nouvelle fois un élément de réponse pour canaliser le génératif et créer des applications robustes et réellement alignées avec la valeur métier.\n\n--\n\nPas possible de venir en présentiel ? Le meetup sera également diffusé en live streaming : [https://www.youtube.com/watch?v=EfMg3n0zM00](https://www.youtube.com/watch?v=EfMg3n0zM00&referrer=luma) activez la cloche pour ne pas le manquer ! 😉",
+    "community": "dev-with-ai",
+    "location": "25 Quai des Chartrons, 33300 Bordeaux",
+    "is_online": false
+  }
+]
