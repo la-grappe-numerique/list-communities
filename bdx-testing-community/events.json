@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "title": "MEETUP #4 - BDX Testing Community @Betclic",
+    "date": "2025-12-02T18:00:00",
+    "url": "https://www.meetup.com/bdx-testing-community/events/311642889/",
+    "description": "Rejoignez-nous pour une nouvelle soirée dédiée aux passionnés du test logiciel ! Au programme : 3 talks suivis d'un moment convivial d'échanges et de partages.\n\n**Détails de l'événement**\n\n- **Date** : 2 décembre 2025\n- **Lieu** : Betclic, 117 Quai de Bacalan, 33300 Bordeaux\n- **Horaires** : 18h-22h\n\n**Sujets des Talks**\n\n**Talk 1**: \" TMMi : Évaluez et faîtes progresser vos services de test\" par Frédéric Levalet\n**Talk 2**: \" De 2010 à 11 tests end-to-end - Optimiser la couverture tout en réduisant les temps d'exécution\" par Nicolas Lespiaucq\n**Talk 3**: \"Au secours, mon manager me demande des KPIs\" par Geoffrey Graveaud\nNous attendons avec impatience de vous retrouver nombreux pour une nouvelle soirée enrichissante !\n\nLes inscriptions sont ouvertes jusqu'au 27 novembre.",
+    "community": "bdx-testing-community",
+    "location": "Betclic, 117 Quai de Bacalan, 33300 Bordeaux",
+    "is_online": false
+  }
+]
