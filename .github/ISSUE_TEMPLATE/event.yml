@@ -44,6 +44,7 @@ body:
     - archilocus
     - aws-bordeaux
     - bdx-io
+    - bdx-testing-community
     - bordeaux-python-meetup
     - bordeaux-xr
     - bordeauxjs
