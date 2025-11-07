@@ -30,6 +30,12 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 | Notion Calendrier       | https://dataforgood.notion.site/calendrier |
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 09 décembre 2025 à 19:00 | Bataille de l'IA - Data For Good Bordeaux x Latitudes | Le node, 12 rue des Faussets 33000 Bordeaux | https://www.eventbrite.fr/e/bataille-de-lia-data-for-good-bordeaux-x-latitudes-tickets-1964775632808?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl |
+
 ## 📆 Past Events
 
 <details>

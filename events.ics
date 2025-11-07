@@ -10791,6 +10791,35 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/creative-coding-bordeaux/events/295328666/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bataille de l'IA - Data For Good Bordeaux x Latitudes
+DTSTART;TZID=Europe/Paris:20251209T190000
+DTEND;TZID=Europe/Paris:20251209T210000
+UID:https://www.eventbrite.fr/e/bataille-de-lia-data-for-good-bordeaux-x-l
+ atitudes-tickets-1964775632808?utm-campaign=social&utm-content=attendeesha
+ re&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl@c
+ ommunity-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/bataille-de-lia-data-for-good
+ -bordeaux-x-latitudes-tickets-1964775632808?utm-campaign=social&utm-conten
+ t=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=eb
+ dsshcopyurl\n📍 Le node\, 12 rue des Faussets 33000 Bordeaux\n\n**Viens 
+ jouer à la Bataille de l'IA !\n2h pour explorer les enjeux sociaux et env
+ ironnementaux de l’IA Générative à travers un jeu de cartes participa
+ tif**\n\nLa Bataille de l'IA\, c'est le nouvel atelier proposé par Latitu
+ des avec Data For Good Bordeaux\, autour des enjeux sociaux et environneme
+ ntaux de l'IA Générative.\n\nAu programme :\n🎤 Découvrir les faits m
+ arquants de l’IA et retracer l'histoire de l'IA\n🃏 Débattre autour d
+ es enjeux de l’IA Générative sur 5 thématiques clefs :\n- Fiabilité 
+ de l'information\n- Impact environnemental\n- Biais algorithmiques\n- Cré
+ ativité et Impact sociétaux\n💪 Explorer de scénarios prospectifs sur
+  l’IA Générative !\n\n**Attention\, le nombre de places est limité à
+  20 personnes!**\n\nCommunauté: data-for-good
+LOCATION:Le node\, 12 rue des Faussets 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/bataille-de-lia-data-for-good-bordeaux-x-l
+ atitudes-tickets-1964775632808?utm-campaign=social&utm-content=attendeesha
+ re&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Soirée 10 ans Data For Good - Data for Good Bordeaux au Node
 DTSTART;TZID=Europe/Paris:20251029T190000
 DTEND;TZID=Europe/Paris:20251029T210000
@@ -16534,6 +16563,30 @@ DESCRIPTION:🔗 https://guild.host/events/karpenter-ragir-temps-evmpkp\n
 LOCATION:Deezer Bordeaux\, 20 Rue Saint-François\, 33000 Bordeaux
 TZID:Europe/Paris
 URL:https://guild.host/events/karpenter-ragir-temps-evmpkp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEETUP #4 - BDX Testing Community @Betclic
+DTSTART;TZID=Europe/Paris:20251202T180000
+DTEND;TZID=Europe/Paris:20251202T200000
+UID:https://www.meetup.com/bdx-testing-community/events/311642889/@communi
+ ty-events
+DESCRIPTION:🔗 https://www.meetup.com/bdx-testing-community/events/31164
+ 2889/\n📍 Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux\n\nRejoignez-no
+ us pour une nouvelle soirée dédiée aux passionnés du test logiciel ! A
+ u programme : 3 talks suivis d'un moment convivial d'échanges et de parta
+ ges.\n\n**Détails de l'événement**\n\n- **Date** : 2 décembre 2025\n- 
+ **Lieu** : Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux\n- **Horaires** 
+ : 18h-22h\n\n**Sujets des Talks**\n\n**Talk 1**: " TMMi : Évaluez et faî
+ tes progresser vos services de test" par Frédéric Levalet\n**Talk 2**: "
+  De 2010 à 11 tests end-to-end - Optimiser la couverture tout en réduisa
+ nt les temps d'exécution" par Nicolas Lespiaucq\n**Talk 3**: "Au secours\
+ , mon manager me demande des KPIs" par Geoffrey Graveaud\nNous attendons a
+ vec impatience de vous retrouver nombreux pour une nouvelle soirée enrich
+ issante !\n\nLes inscriptions sont ouvertes jusqu'au 27 novembre.\n\nCommu
+ nauté: bdx-testing-community
+LOCATION:Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/bdx-testing-community/events/311642889/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pourquoi Javascript est un langage de merde ?

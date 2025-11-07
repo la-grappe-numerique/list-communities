@@ -5,6 +5,35 @@ X-WR-CALDESC:Calendrier des événements de la communauté data-for-good
 X-WR-CALNAME:Événements data-for-good
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Bataille de l'IA - Data For Good Bordeaux x Latitudes
+DTSTART;TZID=Europe/Paris:20251209T190000
+DTEND;TZID=Europe/Paris:20251209T210000
+UID:https://www.eventbrite.fr/e/bataille-de-lia-data-for-good-bordeaux-x-l
+ atitudes-tickets-1964775632808?utm-campaign=social&utm-content=attendeesha
+ re&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl@c
+ ommunity-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/bataille-de-lia-data-for-good
+ -bordeaux-x-latitudes-tickets-1964775632808?utm-campaign=social&utm-conten
+ t=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=eb
+ dsshcopyurl\n📍 Le node\, 12 rue des Faussets 33000 Bordeaux\n\n**Viens 
+ jouer à la Bataille de l'IA !\n2h pour explorer les enjeux sociaux et env
+ ironnementaux de l’IA Générative à travers un jeu de cartes participa
+ tif**\n\nLa Bataille de l'IA\, c'est le nouvel atelier proposé par Latitu
+ des avec Data For Good Bordeaux\, autour des enjeux sociaux et environneme
+ ntaux de l'IA Générative.\n\nAu programme :\n🎤 Découvrir les faits m
+ arquants de l’IA et retracer l'histoire de l'IA\n🃏 Débattre autour d
+ es enjeux de l’IA Générative sur 5 thématiques clefs :\n- Fiabilité 
+ de l'information\n- Impact environnemental\n- Biais algorithmiques\n- Cré
+ ativité et Impact sociétaux\n💪 Explorer de scénarios prospectifs sur
+  l’IA Générative !\n\n**Attention\, le nombre de places est limité à
+  20 personnes!**\n\nCommunauté: data-for-good
+LOCATION:Le node\, 12 rue des Faussets 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/bataille-de-lia-data-for-good-bordeaux-x-l
+ atitudes-tickets-1964775632808?utm-campaign=social&utm-content=attendeesha
+ re&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Soirée 10 ans Data For Good - Data for Good Bordeaux au Node
 DTSTART;TZID=Europe/Paris:20251029T190000
 DTEND;TZID=Europe/Paris:20251029T210000

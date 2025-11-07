@@ -6,4 +6,28 @@ X-WR-CALDESC:Calendrier des événements de la communauté bdx-testing-com
  munity
 X-WR-CALNAME:Événements bdx-testing-community
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:MEETUP #4 - BDX Testing Community @Betclic
+DTSTART;TZID=Europe/Paris:20251202T180000
+DTEND;TZID=Europe/Paris:20251202T200000
+UID:https://www.meetup.com/bdx-testing-community/events/311642889/@communi
+ ty-events
+DESCRIPTION:🔗 https://www.meetup.com/bdx-testing-community/events/31164
+ 2889/\n📍 Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux\n\nRejoignez-no
+ us pour une nouvelle soirée dédiée aux passionnés du test logiciel ! A
+ u programme : 3 talks suivis d'un moment convivial d'échanges et de parta
+ ges.\n\n**Détails de l'événement**\n\n- **Date** : 2 décembre 2025\n- 
+ **Lieu** : Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux\n- **Horaires** 
+ : 18h-22h\n\n**Sujets des Talks**\n\n**Talk 1**: " TMMi : Évaluez et faî
+ tes progresser vos services de test" par Frédéric Levalet\n**Talk 2**: "
+  De 2010 à 11 tests end-to-end - Optimiser la couverture tout en réduisa
+ nt les temps d'exécution" par Nicolas Lespiaucq\n**Talk 3**: "Au secours\
+ , mon manager me demande des KPIs" par Geoffrey Graveaud\nNous attendons a
+ vec impatience de vous retrouver nombreux pour une nouvelle soirée enrich
+ issante !\n\nLes inscriptions sont ouvertes jusqu'au 27 novembre.\n\nCommu
+ nauté: bdx-testing-community
+LOCATION:Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/bdx-testing-community/events/311642889/
+END:VEVENT
 END:VCALENDAR

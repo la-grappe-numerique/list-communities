@@ -27,4 +27,9 @@ Les échanges peuvent se poursuivre en ligne via nos canaux de communication (gr
 - **📧 Contact** : a.fontaine@lectra.com, jul.leonard@gmail.com, yann.srt@gmail.com
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 02 décembre 2025 à 18:00 | MEETUP #4 - BDX Testing Community @Betclic | Betclic, 117 Quai de Bacalan, 33300 Bordeaux | https://www.meetup.com/bdx-testing-community/events/311642889/ |
 <!-- EVENTS:END -->
