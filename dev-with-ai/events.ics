@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements dev-with-ai//Bordeaux Community Events//FR
+X-WR-CALDESC:Calendrier des événements de la communauté dev-with-ai
+X-WR-CALNAME:Événements dev-with-ai
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:Dev With AI Meetup #2 @ Luni
+DTSTART;TZID=Europe/Paris:20251118T190000
+DTEND;TZID=Europe/Paris:20251118T210000
+UID:https://luma.com/8f9h2dh1@community-events
+DESCRIPTION:🔗 https://luma.com/8f9h2dh1\n📍 25 Quai des Chartrons\, 3
+ 3300 Bordeaux\n\nAu programme de cette édition :\n\nBastien Penalba - Oub
+ liez la réutilisabilité : Bienvenue à l'ère du code jetable\nL'IA vous
+  rendra non seulement plus rapide\, mais elle vous rendra plus intelligent
+  en vous permettant de créer des scripts rapides et des outils jetables q
+ ui permettent d'économiser des heures. La question n'est pas "dois-je con
+ struire ça ?" mais plutôt "pourquoi ne le ferais-je pas ?"\n\n--\n\nArth
+ ur Magne - IA & génération de code : productivité boostée\, lucidité 
+ en danger ?\nL’IA permet de produire du code plus vite\, mais elle intro
+ duit aussi des biais\, de la dette technique et une perte d’esprit criti
+ que. Les relectures deviennent plus complexes\, et transmettre un contexte
+  fiable aux outils d’IA\, à grande échelle\, reste un défi technique 
+ et culturel. Ce talk partage un retour d’expérience concret et des levi
+ ers pour garder la maîtrise dans ce nouvel environnement.\n\n--\n\nDavid 
+ Robert - Du vibe code aux specs exécutables : reprendre le contrôle dans
+  le chaos génératif\nDette technique\, régressions\, code illisible… 
+ le vibe code trouve rapidement ses limites dès que l’on dépasse le sta
+ de du POC.\n\nComment alors tirer parti de l’IA générative tout en gar
+ antissant la qualité ?\n\nLes pratiques issues de l’agilité et du soft
+ ware craft apportent une nouvelle fois un élément de réponse pour canal
+ iser le génératif et créer des applications robustes et réellement ali
+ gnées avec la valeur métier.\n\n--\n\nPas possible de venir en présenti
+ el ? Le meetup sera également diffusé en live streaming : [https://www.y
+ outube.com/watch?v=EfMg3n0zM00](https://www.youtube.com/watch?v=EfMg3n0zM0
+ 0&referrer=luma) activez la cloche pour ne pas le manquer ! 😉\n\nCommun
+ auté: dev-with-ai
+LOCATION:25 Quai des Chartrons\, 33300 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/8f9h2dh1
+END:VEVENT
+END:VCALENDAR
