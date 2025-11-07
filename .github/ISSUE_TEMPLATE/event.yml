@@ -45,6 +45,8 @@ body:
     - aws-bordeaux
     - bdx-io
     - bdx-testing-community
+    - bieresecu
+    - bordeaux-aperops
     - bordeaux-python-meetup
     - bordeaux-xr
     - bordeauxjs
@@ -52,8 +54,10 @@ body:
     - bordeauxkt
     - cafe-ia
     - cloud-native-bordeaux
+    - cocoaheads
     - creative-coding-bordeaux
     - data-for-good
+    - dev-with-ai
     - digitalnights
     - framer-bordeaux
     - france-design-week-bordeaux
