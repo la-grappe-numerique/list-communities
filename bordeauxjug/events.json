@@ -1,5 +1,14 @@
 [
   {
+    "title": "Créer un Chatbot Intelligent avec LangChain4j",
+    "date": "2025-12-08T19:00:00",
+    "url": "https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j",
+    "description": "Vous êtes-vous déjà demandé comment ajouter des capacités de chat intelligentes à vos applications Java sans vous noyer dans la complexité de l'IA ? Cette présentation pratique vous guide dans la construction d'un chatbot intelligent, illustrant l'approche conviviale de LangChain4j pour l'intégration d'IA en entreprise. Ce que vous allez apprendre : Commencer simplement : intégration de chat WebSocket avec Quarkus Ajouter de l'intelligence : intégrer un LLM pour des conversations naturelles Sécuriser : modération de contenu avec un modèle d'IA de modération pour gérer les messages inappropriés Mémoriser le contexte : mémoire de chat persistante en utilisant d'abord de la mémoire volatile puis Redis pour des conversations multi-sessions Accéder à la connaissance : RAG (Retrieval Augmented Generation) avec la base de données vectorielle Qdrant pour des réponses spécifiques à l'entreprise Connecter le métier : appel de fonctions pour accéder à l'inventaire en temps réel, aux données utilisateur et à la logique métier Points techniques clés : Implémentation réelle : chatbot e-commerce fonctionnel avec intégration métier réelle Amélioration progressive : chaque étape s'appuie naturellement sur la fonctionnalité précédente Prêt pour la production : inclut des garde-fous, gestion d'erreurs, gestion de la mémoire et monitoring IA type-safe : l'approche basée sur les annotations de LangChain4j élimine le code répétitif Fonctionnalités d'entreprise : modération de contenu, mémoire persistante, RAG et appel de fonctions Parfait pour : les développeurs Java souhaitant ajouter des capacités d'IA à leurs applications existantes, les architectes concevant des systèmes d'IA conversationnelle, et toute personne curieuse des modèles d'intégration pratiques de l'IA. Démo en direct incluse : découvrez le chatbot complet en action, des réponses en écho basiques au service client intelligent avec récupération de documents et intégration de systèmes métier.",
+    "community": "bordeauxjug",
+    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer, 33400 Talence",
+    "is_online": false
+  },
+  {
     "title": "Spring Boot: Chapitre 4",
     "date": "2025-11-20T18:50:00",
     "url": "https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4",
