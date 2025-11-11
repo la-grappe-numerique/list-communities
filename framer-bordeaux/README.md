@@ -1,10 +1,11 @@
 ![Logo](./logo-framer-bordeaux-community-horizontal.png ':size=50')
 
-# Framer Bordeaux 
+# Framer Bordeaux Community
 
-la communauté des passionnés de Framer à Bordeaux. Nos évènements sont sentrés autour de la créativité, du design et du no-code.
+La communauté des utilisateur de Framer à Bordeaux.
+Rejoignez-nous lors de nos évènements, Live & Meetup centrés autour de la créativité, du design et du no-code.
 
-🌍 Site web : https://lu.ma/fb1cxddm
+🌍 Site web : [Page Linkedin de la communauté](https://www.linkedin.com/company/framerfrance)
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
