@@ -5,6 +5,48 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjug
 X-WR-CALNAME:Événements bordeauxjug
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Créer un Chatbot Intelligent avec LangChain4j
+DTSTART;TZID=Europe/Paris:20251208T190000
+DTEND;TZID=Europe/Paris:20251208T210000
+UID:https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelli
+ gent_avec_langchain4j@community-events
+DESCRIPTION:🔗 https://www.bordeauxjug.org/meetings/20251208-creer_un_ch
+ atbot_intelligent_avec_langchain4j\n📍 ENSEIRB\, 1 Avenue du Docteur Alb
+ ert Schweitzer\, 33400 Talence\n\nVous êtes-vous déjà demandé comment 
+ ajouter des capacités de chat intelligentes à vos applications Java sans
+  vous noyer dans la complexité de l'IA ? Cette présentation pratique vou
+ s guide dans la construction d'un chatbot intelligent\, illustrant l'appro
+ che conviviale de LangChain4j pour l'intégration d'IA en entreprise. Ce q
+ ue vous allez apprendre : Commencer simplement : intégration de chat WebS
+ ocket avec Quarkus Ajouter de l'intelligence : intégrer un LLM pour des c
+ onversations naturelles Sécuriser : modération de contenu avec un modèl
+ e d'IA de modération pour gérer les messages inappropriés Mémoriser le
+  contexte : mémoire de chat persistante en utilisant d'abord de la mémoi
+ re volatile puis Redis pour des conversations multi-sessions Accéder à l
+ a connaissance : RAG (Retrieval Augmented Generation) avec la base de donn
+ ées vectorielle Qdrant pour des réponses spécifiques à l'entreprise Co
+ nnecter le métier : appel de fonctions pour accéder à l'inventaire en t
+ emps réel\, aux données utilisateur et à la logique métier Points tech
+ niques clés : Implémentation réelle : chatbot e-commerce fonctionnel av
+ ec intégration métier réelle Amélioration progressive : chaque étape 
+ s'appuie naturellement sur la fonctionnalité précédente Prêt pour la p
+ roduction : inclut des garde-fous\, gestion d'erreurs\, gestion de la mém
+ oire et monitoring IA type-safe : l'approche basée sur les annotations de
+  LangChain4j élimine le code répétitif Fonctionnalités d'entreprise : 
+ modération de contenu\, mémoire persistante\, RAG et appel de fonctions 
+ Parfait pour : les développeurs Java souhaitant ajouter des capacités d'
+ IA à leurs applications existantes\, les architectes concevant des systè
+ mes d'IA conversationnelle\, et toute personne curieuse des modèles d'int
+ égration pratiques de l'IA. Démo en direct incluse : découvrez le chatb
+ ot complet en action\, des réponses en écho basiques au service client i
+ ntelligent avec récupération de documents et intégration de systèmes m
+ étier.\n\nCommunauté: bordeauxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, 33400 Talence
+TZID:Europe/Paris
+URL:https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelli
+ gent_avec_langchain4j
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring Boot: Chapitre 4
 DTSTART;TZID=Europe/Paris:20251120T185000
 DTEND;TZID=Europe/Paris:20251120T205000

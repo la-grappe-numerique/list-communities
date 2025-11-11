@@ -25,6 +25,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./even
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 20 novembre 2025 à 18:50 | Spring Boot: Chapitre 4 | ENSEIRB, 1 Avenue du Docteur Albert Schweitzer, 33400 Talence | https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4 |
+| Lundi 08 décembre 2025 à 19:00 | Créer un Chatbot Intelligent avec LangChain4j | ENSEIRB, 1 Avenue du Docteur Albert Schweitzer, 33400 Talence | https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j |
 
 ## 📆 Past Events
 

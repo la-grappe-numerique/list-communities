@@ -8,7 +8,7 @@ Rejoignez-nous lors de nos évènements, Live & Meetup centrés autour de la cr�
 🌍 [Rejoignez-nous sur Linkedin](https://www.linkedin.com/company/framerfrance)
 
 <!-- EVENTS:START -->
-## 📅 Prochain évènement
+## 📅 Upcoming Events
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
