@@ -1,4 +1,4 @@
-![Logo](./logo-framer-bordeaux.png ':size=400')
+![Logo](./logo-framer-bx-community.png ':size=200')
 
 # Framer Bordeaux Community
 
