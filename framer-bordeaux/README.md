@@ -1,4 +1,6 @@
-# Framer Bordeaux ![Logo](./Stack.png ':size=100')
+![Logo](./logo-framer-bordeaux.png ':size=100')
+
+# Framer Bordeaux 
 
 la communauté des passionnés de Framer à Bordeaux. Nos évènements sont sentrés autour de la créativité, du design et du no-code.
 
