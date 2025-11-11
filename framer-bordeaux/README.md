@@ -7,5 +7,7 @@ la communauté des passionnés de Framer à Bordeaux. Nos évènements sont sent
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
 
-## 📆 Past Events
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 20 novembre 2025 à 18:30 | Framer Meetup Bordeaux #5 | Ecv Bordeaux, 26 Rue Raze, 33300 Bordeaux, France | https://luma.com/wovhtgca |
 <!-- EVENTS:END -->
