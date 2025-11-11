@@ -5,10 +5,10 @@
 La communauté des utilisateur de Framer à Bordeaux.
 Rejoignez-nous lors de nos évènements, Live & Meetup centrés autour de la créativité, du design et du no-code.
 
-🌍 Site web : [Page Linkedin de la communauté](https://www.linkedin.com/company/framerfrance)
+🌍 [Rejoignez-nous sur Linkedin](https://www.linkedin.com/company/framerfrance)
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📅 Prochain évènement
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
