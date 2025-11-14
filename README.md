@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 13 novembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Afterwork Agile Bordeaux - 𝐋𝐚 𝐋𝐢𝐠𝐧𝐞 𝐪𝐮𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐨𝐮𝐭](https://www.linkedin.com/events/7383133309511385088/) | Capgemini Mérignac, 19 All. James Watt, Mérignac, Tour D - 2ème étage |
-| Jeudi 13 novembre 2025 à 19:00 | [bordeauxjs](bordeauxjs/) | [Pourquoi Javascript est un langage de merde ?](https://www.linkedin.com/events/pourquoijavascriptestunlangaged7391045061519765504/) | Le node, 12 Rue des Faussets, 33000 Bordeaux |
 | Samedi 15 novembre 2025 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 25.6 - Influence et manipulation](https://www.linkedin.com/events/clubdelecture25-6-influenceetma7381040170617184256/) | Le Node, 12 rue des Faussets, 33000 Bordeaux |
+| Mardi 18 novembre 2025 à 19:00 | [dev-with-ai](dev-with-ai/) | [Dev With AI Meetup #2 @ Luni](https://luma.com/8f9h2dh1) | 25 Quai des Chartrons, 33300 Bordeaux |
+| Mercredi 19 novembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Bière Agile de Bordeaux](https://www.linkedin.com/events/7389363931086999553/) | Bar Castan, 2 quai Douane, Bordeaux, 33, FR, 33000 |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

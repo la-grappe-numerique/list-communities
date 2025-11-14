@@ -90,6 +90,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-aperops/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 11 décembre 2025 à 18:30 | IA et développement : apprendre à collaborer avec l’intelligence artificielle | Le Wagon Bordeaux  107 cours Balguerie Stuttenberg - Bordeaux | https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311991794/ |
+
 ## 📆 Past Events
 
 <details>
