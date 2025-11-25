@@ -15,6 +15,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/human-talks/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 09 décembre 2025 à 18:30 | Human Talks Bordeaux 12 | EFREI Bordeaux, 83 Rue Lucien Faure, 33000 Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/311997103/ |
+
 ## 📆 Past Events
 
 <details>

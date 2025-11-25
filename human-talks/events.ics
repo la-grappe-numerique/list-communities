@@ -5,6 +5,27 @@ X-WR-CALDESC:Calendrier des événements de la communauté human-talks
 X-WR-CALNAME:Événements human-talks
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Human Talks Bordeaux 12
+DTSTART;TZID=Europe/Paris:20251209T183000
+DTEND;TZID=Europe/Paris:20251209T203000
+UID:https://www.meetup.com/human-talks-bordeaux/events/311997103/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/311997
+ 103/\n📍 EFREI Bordeaux\, 83 Rue Lucien Faure\, 33000 Bordeaux\n\nPour c
+ ette prochaine édition\, nous avons la chance d’accueillir 3 intervenan
+ ts que vous avez certainement déjà croisés dans la communautés bordela
+ ise : Benoït Prioux qui nous présentera la scale-up Alan vue de l’int
+ érieur\, Amélie Benoit qui témoignera sans compromis sur son rôle de T
+ ech Lead en full remote et Antoine Dumas qui nous racontera son expérienc
+ e post-covid en tant que DRH dans une scale-up française. Découvrez le d
+ étails des interventions sur la page meetup.\n\nAprès les interventions\
+ , nous irons certainement boire un verre dans un bar à proximité. Au pla
+ isir de vous y croiser !\n\nCommunauté: human-talks
+LOCATION:EFREI Bordeaux\, 83 Rue Lucien Faure\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/human-talks-bordeaux/events/311997103/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Human Talks Bordeaux #10 - Organisation & Leadership
 DTSTART;TZID=Europe/Paris:20250311T183000
 DTEND;TZID=Europe/Paris:20250311T203000
