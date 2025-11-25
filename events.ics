@@ -1957,6 +1957,20 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/218821208/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CNCF Meetup #12
+DTSTART;TZID=Europe/Paris:20251209T183000
+DTEND;TZID=Europe/Paris:20251209T203000
+UID:https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/@communit
+ y-events
+DESCRIPTION:🔗 https://www.meetup.com/fr-fr/cloud-native-computing-borde
+ aux/\n📍 BACK MARKET\, BAT G7 BASSINS A FLOTS\, 71 RUE LUCIEN FAURE \,33
+ 300 BORDEAUX\n\nMore to come\n\nCommunauté: cloud-native-bordeaux
+LOCATION:BACK MARKET\, BAT G7 BASSINS A FLOTS\, 71 RUE LUCIEN FAURE \,3330
+ 0 BORDEAUX
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Crossplane et des incidents dans Kubernetes
 DTSTART;TZID=Europe/Paris:20251125T183000
 DTEND;TZID=Europe/Paris:20251125T203000

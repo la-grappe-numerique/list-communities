@@ -87,6 +87,17 @@
     ]
   },
   {
+    "title": "CNCF Meetup #12",
+    "date": "2025-12-09T18:30:00",
+    "url": "https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/",
+    "description": "More to come",
+    "location": "BACK MARKET, BAT G7 BASSINS A FLOTS, 71 RUE LUCIEN FAURE ,33300 BORDEAUX",
+    "is_online": false,
+    "communities": [
+      "cloud-native-bordeaux"
+    ]
+  },
+  {
     "title": "Créer un Chatbot Intelligent avec LangChain4j",
     "date": "2025-12-08T19:00:00",
     "url": "https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j",

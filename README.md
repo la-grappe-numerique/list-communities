@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 25 novembre 2025 à 18:30 | [cloud-native-bordeaux](cloud-native-bordeaux/) | [Crossplane et des incidents dans Kubernetes](https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/311973761/?eventOrigin=group_upcoming_events) | Deezer Bordeaux, 20 rue Saint-François, 33000 Bordeaux |
 | Vendredi 28 novembre 2025 à 09:00 | [okiwi](okiwi/) | [Open Okiwi #4](https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac730ffcc) | Yack, 16 rue des Terres Neuves, 33130, Bègles |
 | Lundi 01 décembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/) | 9 Rue de Condé, Bordeaux |
+| Mardi 02 décembre 2025 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #4 - BDX Testing Community @Betclic](https://www.meetup.com/bdx-testing-community/events/311642889/) | Betclic, 117 Quai de Bacalan, 33300 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
