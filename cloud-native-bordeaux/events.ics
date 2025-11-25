@@ -8,8 +8,8 @@ X-WR-CALNAME:Événements cloud-native-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Crossplane et des incidents dans Kubernetes
-DTSTART;TZID=Europe/Paris:20251127T183000
-DTEND;TZID=Europe/Paris:20251127T203000
+DTSTART;TZID=Europe/Paris:20251125T183000
+DTEND;TZID=Europe/Paris:20251125T203000
 UID:https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/31
  1973761/?eventOrigin=group_upcoming_events@community-events
 DESCRIPTION:🔗 https://www.meetup.com/fr-fr/cloud-native-computing-borde
