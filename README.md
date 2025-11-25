@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Samedi 15 novembre 2025 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 25.6 - Influence et manipulation](https://www.linkedin.com/events/clubdelecture25-6-influenceetma7381040170617184256/) | Le Node, 12 rue des Faussets, 33000 Bordeaux |
-| Mardi 18 novembre 2025 à 19:00 | [dev-with-ai](dev-with-ai/) | [Dev With AI Meetup #2 @ Luni](https://luma.com/8f9h2dh1) | 25 Quai des Chartrons, 33300 Bordeaux |
-| Mercredi 19 novembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Bière Agile de Bordeaux](https://www.linkedin.com/events/7389363931086999553/) | Bar Castan, 2 quai Douane, Bordeaux, 33, FR, 33000 |
+| Mardi 25 novembre 2025 à 18:30 | [cloud-native-bordeaux](cloud-native-bordeaux/) | [Crossplane et des incidents dans Kubernetes](https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/311973761/?eventOrigin=group_upcoming_events) | Deezer Bordeaux, 20 rue Saint-François, 33000 Bordeaux |
+| Vendredi 28 novembre 2025 à 09:00 | [okiwi](okiwi/) | [Open Okiwi #4](https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac730ffcc) | Yack, 16 rue des Terres Neuves, 33130, Bègles |
+| Lundi 01 décembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

@@ -8,9 +8,13 @@ Rejoignez-nous lors de nos évènements, Live & Meetup centrés autour de la cr�
 🌍 [Rejoignez-nous sur Linkedin](https://www.linkedin.com/company/framerfrance)
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 20 novembre 2025 à 18:30 | Framer Meetup Bordeaux #5 | Ecv Bordeaux, 26 Rue Raze, 33300 Bordeaux, France | https://luma.com/wovhtgca |
+</details>
 <!-- EVENTS:END -->

@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/cloud-native-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 25 novembre 2025 à 18:30 | Crossplane et des incidents dans Kubernetes | Deezer Bordeaux, 20 rue Saint-François, 33000 Bordeaux | https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/311973761/?eventOrigin=group_upcoming_events |
+
 ## 📆 Past Events
 
 <details>

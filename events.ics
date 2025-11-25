@@ -1957,6 +1957,44 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/218821208/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Crossplane et des incidents dans Kubernetes
+DTSTART;TZID=Europe/Paris:20251125T183000
+DTEND;TZID=Europe/Paris:20251125T203000
+UID:https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/31
+ 1973761/?eventOrigin=group_upcoming_events@community-events
+DESCRIPTION:🔗 https://www.meetup.com/fr-fr/cloud-native-computing-borde
+ aux/events/311973761/?eventOrigin=group_upcoming_events\n📍 Deezer Borde
+ aux\, 20 rue Saint-François\, 33000 Bordeaux\n\n"Crossplane: Déployer vo
+ s composants Cloud depuis votre K8S sans drift" par Vivien RAMAHANDRY\n\nT
+ es applications-métiers ont souvent besoin de composants Cloud pour fonct
+ ionner comme un bucket S3\, des permissions\, une stack de messaging. Pour
+  déployer ça tu utilises sûrement Terraform/OpenTofu mais à chaque foi
+ s après une semaine\, un mois ou un an\, le constat est le même\, tu as 
+ drifté.\nEt je te l'accorde\, c'est pénible !\nAprès presque 5 ans à c
+ réer des modules Terraform réutilisables par les développeurs·euses et
+  déployer des applications dans un cluster Kubernetes\, j’ai découvert
+  récemment Crossplane.\nDans ce talk\, tu découvriras cet outil à trave
+ rs une démo pas à pas qui peut remplacer ton bon vieux Terraform/OpenTof
+ u pour peu que tu aies déjà un cluster Kubernetes.\n\n"Kubernetes : 5 fa
+ çons créatives de flinguer sa prod 🔫" par Denis GERMAIN\n\nN'en dépl
+ aise à ceux qui pensent que Kubernetes ne sert à rien\, 11 ans après le
+  premier commit\, cet outil est devenu un standard de-facto. Il permet à 
+ de nombreuses équipes tech de gérer de manière efficace des logiciels h
+ étérogènes\, tout en apportant aux développeurs l'autonomie qu'ils sou
+ haitaient.\nPourtant\, on ne peut pas non plus dire qu'installer\, et pire
+ ... administrer un cluster Kubernetes soit quelque chose de trivial. En 8 
+ ans de prod\, dans 4 entreprises différentes\, j'ai forcément rencontré
+  de petits pépins\, certains amusants (enfin... a posteriori).\nJe vous r
+ aconterai tout ça\, sans tabou 😉.\n\nPetite info complémentaire : Den
+ is Germain offrira un exemplaire de son livre "Kubernetes: 50 solutions po
+ ur les postes de développement et les clusters de production" à un·e pa
+ rticipant·e\n\nCommunauté: cloud-native-bordeaux
+LOCATION:Deezer Bordeaux\, 20 rue Saint-François\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/31
+ 1973761/?eventOrigin=group_upcoming_events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meetup #8 @BDX/IO @Deezer : Falco et Karpenter
 DTSTART;TZID=Europe/Paris:20250313T190000
 DTEND;TZID=Europe/Paris:20250313T210000

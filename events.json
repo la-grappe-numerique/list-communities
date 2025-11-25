@@ -160,6 +160,17 @@
     ]
   },
   {
+    "title": "Crossplane et des incidents dans Kubernetes",
+    "date": "2025-11-25T18:30:00",
+    "url": "https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/311973761/?eventOrigin=group_upcoming_events",
+    "description": "\"Crossplane: Déployer vos composants Cloud depuis votre K8S sans drift\" par Vivien RAMAHANDRY\n\nTes applications-métiers ont souvent besoin de composants Cloud pour fonctionner comme un bucket S3, des permissions, une stack de messaging. Pour déployer ça tu utilises sûrement Terraform/OpenTofu mais à chaque fois après une semaine, un mois ou un an, le constat est le même, tu as drifté.\nEt je te l'accorde, c'est pénible !\nAprès presque 5 ans à créer des modules Terraform réutilisables par les développeurs·euses et déployer des applications dans un cluster Kubernetes, j’ai découvert récemment Crossplane.\nDans ce talk, tu découvriras cet outil à travers une démo pas à pas qui peut remplacer ton bon vieux Terraform/OpenTofu pour peu que tu aies déjà un cluster Kubernetes.\n\n\"Kubernetes : 5 façons créatives de flinguer sa prod 🔫\" par Denis GERMAIN\n\nN'en déplaise à ceux qui pensent que Kubernetes ne sert à rien, 11 ans après le premier commit, cet outil est devenu un standard de-facto. Il permet à de nombreuses équipes tech de gérer de manière efficace des logiciels hétérogènes, tout en apportant aux développeurs l'autonomie qu'ils souhaitaient.\nPourtant, on ne peut pas non plus dire qu'installer, et pire... administrer un cluster Kubernetes soit quelque chose de trivial. En 8 ans de prod, dans 4 entreprises différentes, j'ai forcément rencontré de petits pépins, certains amusants (enfin... a posteriori).\nJe vous raconterai tout ça, sans tabou 😉.\n\nPetite info complémentaire : Denis Germain offrira un exemplaire de son livre \"Kubernetes: 50 solutions pour les postes de développement et les clusters de production\" à un·e participant·e",
+    "location": "Deezer Bordeaux, 20 rue Saint-François, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "cloud-native-bordeaux"
+    ]
+  },
+  {
     "title": "Spring Boot: Chapitre 4",
     "date": "2025-11-20T18:50:00",
     "url": "https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4",
