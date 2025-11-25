@@ -1,12 +1,18 @@
 [
   {
-    "title": "Human Talks Bordeaux 12",
-    "date": "2025-12-09T18:30:00",
+    "title": "Human Talks Bordeaux #12",
+    "date": "2025-12-09T18:30:00+01:00",
     "url": "https://www.meetup.com/human-talks-bordeaux/events/311997103/",
-    "description": "Pour cette prochaine édition, nous avons la chance d’accueillir 3 intervenants que vous avez certainement déjà croisés dans la communautés bordelaise : Benoït Prioux qui nous présentera la scale-up Alan vue de l’intérieur, Amélie Benoit qui témoignera sans compromis sur son rôle de Tech Lead en full remote et Antoine Dumas qui nous racontera son expérience post-covid en tant que DRH dans une scale-up française. Découvrez le détails des interventions sur la page meetup.\n\nAprès les interventions, nous irons certainement boire un verre dans un bar à proximité. Au plaisir de vous y croiser !",
+    "description": "Après quelques mois de pause, le meetup Human Talks Bordeaux est de retour le **mardi 9 décembre** à l’EFREI Bordeaux !\n\nHuman Talks Bordeaux c’est une communauté qui adresse des sujets d’organisations, de management, de transformation et de carrière, principalement dans des contextes Tech & Product. Au programme de nos meetups ? Des prises de parole courtes et impactantes qui prennent la forme de témoignages, de récits ou de présentations, et animées par des professionnels qui façonnent l’écosystème de la Tech & du Produit à Bordeaux.\n\nPour cette prochaine édition, nous avons la chance d’accueillir 3 intervenants que vous avez certainement déjà croisés dans la communautés bordelaise : Benoït Prioux qui nous présentera la scale-up Alan vue de l’intérieur, Amélie Benoit qui témoignera sans compromis sur son rôle de Tech Lead en full remote et Antoine Dumas qui nous racontera son expérience post-covid en tant que DRH dans une scale-up française.\n\nAprès les interventions, nous irons certainement boire un verre dans un bar à proximité. Au plaisir de vous y croiser !\n\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nAgenda\n18h30 - Accueil\n\n19h - **Pas de managers chez Alan… enfin si, mais pas comme vous le pensez** par [Benoît Prioux](https://www.linkedin.com/in/benoit-prioux/), Staff Software Engineer @ [Alan](https://alan.com/)\n*Depuis quatre ans, je travaille chez Alan dans un cadre 100 % remote et asynchrone, où la culture d’entreprise repose sur la confiance, l’autonomie et la communication asynchrone. Récemment, j’ai pris un rôle hybride entre individual contributor et manager, une fonction qui me place à la croisée du leadership technique et du développement des personnes. Dans cette conférence, je partagerai un retour d’expérience concret : comment le rôle de manager évolue dans un environnement distribué, comment maintenir un haut niveau d’exigence technique tout en renforçant la cohésion et la performance collective, et comment tirer parti de la communication asynchrone pour accompagner les équipes au quotidien.*\n\n19h20 - **Télétravail international : entre fantasmes et réalités, RETEX d’une Tech Lead Manager** par [Amélie Benoit](https://www.linkedin.com/in/am%C3%A9lie-benoit-7611475b/), Tech Lead Manager @ [Busbud](https://www.busbud.com/fr)\n*Le full remote n’est plus une nouveauté. On parle souvent de ses avantages… et bien moins de ses zones d’ombre. Saupoudrez cela avec des équipes réparties sur plusieurs continents, des décalages horaires et des cultures différentes : la communication peut rapidement devenir piquante. Une phrase anodine, un emoji mal interprété, et voilà un malentendu qui prend beaucoup de place. Dans ce talk, je partagerai ce que j’ai appris en tant que Tech Lead Manager dans une scale-up internationale 100% remote : comment instaurer une communication saine malgré les décalages et transformer la diversité en force pour construire une équipe soudée.*\n\n19h40 - **Comment l'IA m'a permis de gagner en productivité sans ne rien faire à ma place ?** par [Antoine Dumas](https://www.linkedin.com/in/antoinedumasmartin/), Founder @ [Érable Studio](https://erable.io/)\n*2022, je deviens DRH de facto d'Upflow (fintech en série A, portefeuille Hexa / ex-eFounders). Je ne connais pas grand-chose à la gestion administrative du personnel. Le service RH croule sous les demandes des collaborateurs et les délais de traitement s'allongent. On fait pression pour implémenter des agents IA et un outil de ticketing. Je n'ai pas le temps d'implémenter ces outils. Je sais aussi que de mauvaises réponses d'un chatbot généreront une charge de travail encore plus grande. Je ne veux pas prendre de risque. Je décide donc d'utiliser l'IA pour partir à la recherche du temps perdu. L'IA m'accompagne dans la simplification de l'information mise à disposition du personnel. Parce que moins de questions demandent moins de réponses, tout simplement. En trois mois, je passe de 120+ requêtes par jour à moins de 10. Grâce au temps retrouvé, je construis un socle nouveau beaucoup plus performant qui tourne encore aujourd'hui.*\n\n20h - Discussions autour d’un verre\n\n21h30 - Fin",
     "community": "human-talks",
-    "location": "EFREI Bordeaux, 83 Rue Lucien Faure, 33000 Bordeaux",
-    "is_online": false
+    "is_online": false,
+    "venue": {
+      "name": "EFREI Bordeaux",
+      "address": "83 Rue Lucien Faure",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "83 Rue Lucien Faure, Bordeaux"
   },
   {
     "title": "Human Talks Bordeaux #10 - Organisation & Leadership",
@@ -21,8 +27,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "1 Quai Armand Lalande, Bordeaux",
-    "rsvp_count": 67
+    "location": "1 Quai Armand Lalande, Bordeaux"
   },
   {
     "title": "Human Talks Bordeaux #9 - Culture & Stratégie Design ",
@@ -37,8 +42,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "26 rue Raze, Bordeaux",
-    "rsvp_count": 124
+    "location": "26 rue Raze, Bordeaux"
   },
   {
     "title": "Human Talks Bordeaux #8 - Carrières",
@@ -53,8 +57,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "117 Quai de Bacalan, Bordeaux",
-    "rsvp_count": 70
+    "location": "117 Quai de Bacalan, Bordeaux"
   },
   {
     "title": "Human Talks Bordeaux #7",
@@ -69,8 +72,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 32
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Human Talks Bordeaux #6 - Rencontre avec le CTO de Sellsy",
@@ -85,8 +87,7 @@
       "city": "Bègles",
       "country": "France"
     },
-    "location": "2 Rue Marc Sangnier, Bègles",
-    "rsvp_count": 43
+    "location": "2 Rue Marc Sangnier, Bègles"
   },
   {
     "title": "Human Talks Bordeaux #5 - Sujet \"Gérer son équipe\"",
@@ -101,8 +102,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_count": 43
+    "location": "20 Rue Saint-François, Bordeaux"
   },
   {
     "title": "Reprise du meetup Human Talks à Bordeaux !",
@@ -117,8 +117,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "30 Quai Virginie Hériot, Bordeaux",
-    "rsvp_count": 18
+    "location": "30 Quai Virginie Hériot, Bordeaux"
   },
   {
     "title": "Human Talks Mars",
@@ -133,8 +132,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 13
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Human Talks Décembre",
@@ -149,8 +147,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue André Darbon, Bordeaux",
-    "rsvp_count": 34
+    "location": "9 Rue André Darbon, Bordeaux"
   },
   {
     "title": "Human Talks Novembre",
@@ -165,7 +162,6 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "107 Cr Balguerie Stuttenberg, Bordeaux",
-    "rsvp_count": 18
+    "location": "107 Cr Balguerie Stuttenberg, Bordeaux"
   }
 ]

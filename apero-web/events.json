@@ -1,11 +1,25 @@
 [
   {
+    "title": "🍷🍻 L'Apéro Web Bordeaux",
+    "date": "2025-12-02T19:00:00+01:00",
+    "url": "https://www.meetup.com/apero-web-bordeaux/events/311727286/",
+    "description": "Le principe de l'Apéro Web est simple : réunir les personnes travaillant dans les métiers liés au web et/ou la tech (au sens large) lors d'un afterwork convivial.\nSi vous souhaitez rencontrer de nouvelles personnes, échanger et passer un bon moment, alors cet afterwork est fait pour vous !\n\n📆 Rendez-vous mardi 2 décembre (à partir de 19h)\n📍 Bar \"The Houses of Parliament\"\n\nPensez à rejoindre le groupe LinkedIn pour ne pas râter les news !\nhttps://www.linkedin.com/company/apero-web-bdx/\n\n🙏 On a besoin de vous pour réunir le maximum de personnes et créer un afterwork au top :\n1️⃣ Partagez & likez ce post\n2️⃣ Tagguez vos collègues/amis/connaissances\n\nMerci ! Vous êtes au top 🤩",
+    "community": "apero-web",
+    "is_online": false,
+    "venue": {
+      "name": "The Houses of Parliament",
+      "address": "11 Rue Parlement Sainte-Catherine",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "11 Rue Parlement Sainte-Catherine, Bordeaux"
+  },
+  {
     "title": "Apéro Web",
     "date": "2025-07-03T19:00:00",
     "url": "https://www.linkedin.com/events/l-ap-rowebbordeaux-67343310647826276353/comments/",
     "description": "🍷🍻 L'Apéro Web Bordeaux\n\nLe principe de l'Apéro Web est simple : réunir les personnes qui font la tech lors d'un afterwork convivial dans un bar bordelais: CEO, CTO, Devs, PO, PM, UX/UI, SEO, SEM, CM, SRE, DA, DevOps, growth hackers etc...\nSi votre métier a un rapport avec le web ou la tech, cet apéro est fait pour vous !\n\n📆 Rendez-vous le jeudi 3 juillet (à partir de 19h)\n📍 Bar L'Engrenage\n\nPensez à rejoindre le groupe LinkedIn pour ne pas râter les news !\n\n🙏 On a besoin de vous pour réunir toutes les personnes qui font le web à Bordeaux et créer un afterwork au top :\n1️⃣ Partagez & likez ce post\n2️⃣ Tagguez vos collègues/amis/connaissances qui travaillent dans le web\n\nOn compte sur vous ! 🤩",
     "community": "apero-web",
-    "location": "Bar L'Engrenage",
     "is_online": false
   },
   {
@@ -21,8 +35,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "40 Allées d'Orléans , Bordeaux",
-    "rsvp_count": 42
+    "location": "40 Allées d'Orléans , Bordeaux"
   },
   {
     "title": "🍷🍻 L'Apéro Web Bordeaux, la dernière (ou pas) !",
@@ -37,8 +50,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "39 Rue Ausone, Bordeaux",
-    "rsvp_count": 65
+    "location": "39 Rue Ausone, Bordeaux"
   },
   {
     "title": "Apéro Web #2",
@@ -53,8 +65,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "63 Rue Lucien Faure Dock G6, Bordeaux",
-    "rsvp_count": 45
+    "location": "63 Rue Lucien Faure Dock G6, Bordeaux"
   },
   {
     "title": "🆕 L'Apéro Web débarque à Bordeaux ! 🥳",
@@ -69,7 +80,6 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "118 Quai de Bacalan, Bordeaux",
-    "rsvp_count": 67
+    "location": "118 Quai de Bacalan, Bordeaux"
   }
 ]

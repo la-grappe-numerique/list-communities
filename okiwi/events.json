@@ -12,8 +12,22 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
+  },
+  {
+    "title": "Coding dojo",
+    "date": "2026-03-02T18:30:00+01:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/311567890/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "community": "okiwi",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -28,8 +42,22 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
+  },
+  {
+    "title": "Coding dojo",
+    "date": "2026-02-02T18:30:00+01:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/311567889/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "community": "okiwi",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -44,8 +72,22 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
+  },
+  {
+    "title": "Coding dojo",
+    "date": "2026-01-05T18:30:00+01:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/311567887/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "community": "okiwi",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -60,8 +102,22 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
+  },
+  {
+    "title": "Coding dojo",
+    "date": "2025-12-01T18:30:00+01:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/311567886/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "community": "okiwi",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Open Okiwi #4",
@@ -69,7 +125,6 @@
     "url": "https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac730ffcc",
     "description": "Un [forum ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) organisé par Okiwi. Attendez-vous à l'inattendu.\n\nUn forum ouvert est une \"non-conférence\" où les participants apportent les sujets dont ils souhaitent parler, le planning est créé en début de journée tous ensemble, puis chacun suit ses envies et participe aux sessions qui l'intéresse (plusieurs salles sont disponibles et permettent plusieurs discussions simultanées).\n\nLe petit déjeuner et le repas du midi sont offerts par Okiwi.\n\nAttention : l'inscription est limitée à 30 personnes et l'évènement est en présentiel, si vous êtes inscrit vous vous engagez à venir, vérifiez votre disponibilité pour la journée 😄",
     "community": "okiwi",
-    "location": "Yack, 16 rue des Terres Neuves, 33130, Bègles",
     "is_online": false
   },
   {
@@ -85,8 +140,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -101,8 +155,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -117,8 +170,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -133,8 +185,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -149,8 +200,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -165,8 +215,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -181,8 +230,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -197,8 +245,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15
+    "location": "9 Rue de Condé, Bordeaux"
   },
   {
     "title": "Open Okiwi #3",
@@ -213,9 +260,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "44 All. de Tourny, Bordeaux",
-    "rsvp_limit": 33,
-    "rsvp_count": 19
+    "location": "44 All. de Tourny, Bordeaux"
   },
   {
     "title": "Redonner du corps au métier avec la programmation fonctionnelle",
@@ -230,9 +275,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 80,
-    "rsvp_count": 42
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Geek Camp 2019",
@@ -247,9 +290,7 @@
       "city": "47700 Ruffiac",
       "country": "France"
     },
-    "location": "Le Bourg, 47700 Ruffiac",
-    "rsvp_limit": 42,
-    "rsvp_count": 12
+    "location": "Le Bourg, 47700 Ruffiac"
   },
   {
     "title": "Coding dojo",
@@ -264,8 +305,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 13
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "DDD stratégique, ou le minimum à savoir sur le sujet pour tout projet",
@@ -280,9 +320,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 90,
-    "rsvp_count": 73
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Apéro Okiwi",
@@ -297,8 +335,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "27 Rue Rode, Bordeaux",
-    "rsvp_count": 11
+    "location": "27 Rue Rode, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -313,8 +350,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 10
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Tu ne sais rien de la qualité logicielle, JonSnow, DSI à MarcheurBlancConsulting",
@@ -329,9 +365,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 75,
-    "rsvp_count": 64
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Apéro Okiwi",
@@ -346,8 +380,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux",
-    "rsvp_count": 1
+    "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -362,8 +395,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 11
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Software craftsmanship ? Back to basics",
@@ -378,9 +410,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 75,
-    "rsvp_count": 65
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -395,8 +425,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 7
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Apéro Okiwi",
@@ -411,8 +440,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux",
-    "rsvp_count": 5
+    "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux"
   },
   {
     "title": "Le Test-driven-development (TDD) dans une app Javascript et React",
@@ -427,9 +455,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 75,
-    "rsvp_count": 72
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Réunion d’organisation Agile Tour Bordeaux 2019",
@@ -444,9 +470,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 6
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -461,8 +485,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Apéro Okiwi",
@@ -477,8 +500,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux",
-    "rsvp_count": 5
+    "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -493,8 +515,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 10
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Apéro de Noël",
@@ -509,8 +530,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "28 rue latour, 33300, Bordeaux",
-    "rsvp_count": 7
+    "location": "28 rue latour, 33300, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -525,8 +545,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 10
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Apéro Okiwi",
@@ -541,8 +560,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux",
-    "rsvp_count": 5
+    "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux"
   },
   {
     "title": "Global Day of Code Retreat 2018",
@@ -557,9 +575,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 23,
-    "rsvp_count": 19
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -574,8 +590,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -590,8 +605,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 10
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -606,8 +620,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -622,8 +635,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -638,8 +650,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Apéro Okiwi",
@@ -654,8 +665,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "27 Rue Rode, Bordeaux",
-    "rsvp_count": 11
+    "location": "27 Rue Rode, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -685,8 +695,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -701,8 +710,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -732,8 +740,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Geek Camp 2018",
@@ -748,9 +755,7 @@
       "city": "47700 Ruffiac",
       "country": "France"
     },
-    "location": "Le Bourg, 47700 Ruffiac",
-    "rsvp_limit": 42,
-    "rsvp_count": 17
+    "location": "Le Bourg, 47700 Ruffiac"
   },
   {
     "title": "Code & Coffee",
@@ -765,8 +770,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -781,8 +785,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -797,8 +800,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -813,8 +815,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -829,8 +830,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -845,8 +845,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Apéro Okiwi",
@@ -861,8 +860,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "27 Rue Rode, Bordeaux",
-    "rsvp_count": 8
+    "location": "27 Rue Rode, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -877,8 +875,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -893,8 +890,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 16
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -909,8 +905,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -925,8 +920,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -941,8 +935,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Apéro Okiwi",
@@ -957,8 +950,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "27 Rue Rode, Bordeaux",
-    "rsvp_count": 10
+    "location": "27 Rue Rode, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -973,8 +965,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -989,8 +980,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1005,8 +995,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1021,8 +1010,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1037,8 +1025,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1053,8 +1040,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -1084,8 +1070,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1100,8 +1085,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1116,8 +1100,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1132,8 +1115,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -1148,8 +1130,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1164,8 +1145,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1180,8 +1160,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1196,8 +1175,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "AG Okiwi 2018",
@@ -1212,8 +1190,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "28 rue latour, 33300, Bordeaux",
-    "rsvp_count": 12
+    "location": "28 rue latour, 33300, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1228,8 +1205,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "18 rue Gratiolet, Bordeaux",
-    "rsvp_count": 6
+    "location": "18 rue Gratiolet, Bordeaux"
   },
   {
     "title": "Préparation de l'Agile Tour Bordeaux 2018",
@@ -1244,8 +1220,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1260,8 +1235,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "18 rue Gratiolet, Bordeaux",
-    "rsvp_count": 3
+    "location": "18 rue Gratiolet, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -1276,8 +1250,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 7
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1292,8 +1265,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1308,8 +1280,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1324,8 +1295,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Préparation de l'Agile Tour 2018",
@@ -1340,8 +1310,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "83 Quai Chartrons 33300 , Bordeaux",
-    "rsvp_count": 9
+    "location": "83 Quai Chartrons 33300 , Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1356,8 +1325,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 5
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -1372,8 +1340,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1388,8 +1355,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1404,8 +1370,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1420,8 +1385,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 4
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee découverte F#",
@@ -1436,8 +1400,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -1452,8 +1415,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 11
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1468,8 +1430,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1484,8 +1445,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1500,8 +1460,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Totalement typé",
@@ -1516,9 +1475,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 35,
-    "rsvp_count": 10
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1533,8 +1490,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1549,8 +1505,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1565,8 +1520,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1596,8 +1550,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1612,8 +1565,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1628,8 +1580,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1644,8 +1595,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Global Day of Code Retreat 2017",
@@ -1660,9 +1610,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 21,
-    "rsvp_count": 20
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Find My CTO",
@@ -1677,8 +1625,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "137 Rue Achard, Bordeaux",
-    "rsvp_count": 25
+    "location": "137 Rue Achard, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1693,8 +1640,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1709,8 +1655,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Bug free, by design, par Johan Martinsson",
@@ -1725,9 +1670,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 40,
-    "rsvp_count": 34
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -1742,8 +1685,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 12
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1773,8 +1715,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1789,8 +1730,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1805,8 +1745,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1821,8 +1760,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -1837,8 +1775,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1853,8 +1790,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
@@ -1869,8 +1805,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 18
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1885,8 +1820,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1916,9 +1850,7 @@
       "city": "47700 Ruffiac",
       "country": "France"
     },
-    "location": "Le Bourg, 47700 Ruffiac",
-    "rsvp_limit": 42,
-    "rsvp_count": 31
+    "location": "Le Bourg, 47700 Ruffiac"
   },
   {
     "title": "Code & Coffee",
@@ -1933,8 +1865,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 4
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Security workshop",
@@ -1949,9 +1880,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 4
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1966,8 +1895,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -1982,8 +1910,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Security workshop",
@@ -1998,9 +1925,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2015,8 +1940,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2031,8 +1955,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2047,8 +1970,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Types, Domain Driven Design en Javascript avec Node",
@@ -2063,8 +1985,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 15
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2079,8 +2000,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Security workshop",
@@ -2095,9 +2015,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2112,8 +2030,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 6
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2128,8 +2045,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Security workshop",
@@ -2144,8 +2060,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2160,8 +2075,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2176,8 +2090,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "TDD & Event Sourcing dans la vraie vie",
@@ -2192,8 +2105,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 39
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2208,8 +2120,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 5
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2224,8 +2135,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 4
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Découverte du langage F#",
@@ -2240,9 +2150,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 30,
-    "rsvp_count": 17
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Security workshop",
@@ -2257,9 +2165,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 11
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2274,8 +2180,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 6
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2290,8 +2195,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2306,8 +2210,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 5
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Security workshop",
@@ -2322,9 +2225,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 8
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2339,8 +2240,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 5
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
@@ -2355,9 +2255,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 65,
-    "rsvp_count": 62
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2387,8 +2285,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2403,8 +2300,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2419,8 +2315,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2435,8 +2330,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 2
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2451,8 +2345,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Find My CTO",
@@ -2467,8 +2360,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "137 Rue Achard, Bordeaux",
-    "rsvp_count": 13
+    "location": "137 Rue Achard, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2483,8 +2375,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2499,8 +2390,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 4
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "Soirée DDD et plus avec Cyrille Martraire",
@@ -2515,9 +2405,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 30,
-    "rsvp_count": 28
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2532,8 +2420,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 5
+    "location": "41 Rue du Château d'Eau, Bordeaux"
   },
   {
     "title": "AG Okiwi",
@@ -2548,8 +2435,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 8
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2564,8 +2450,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "6 Bis Cours du 30 Juillet, Bordeaux",
-    "rsvp_count": 2
+    "location": "6 Bis Cours du 30 Juillet, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2580,8 +2465,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2596,8 +2480,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "6 Bis Cours du 30 Juillet, Bordeaux",
-    "rsvp_count": 1
+    "location": "6 Bis Cours du 30 Juillet, Bordeaux"
   },
   {
     "title": "Réunion organisation Agile Tour 2017 #2",
@@ -2612,8 +2495,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 13
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2628,8 +2510,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "6 Bis Cours du 30 Juillet, Bordeaux",
-    "rsvp_count": 4
+    "location": "6 Bis Cours du 30 Juillet, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2644,8 +2525,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2660,8 +2540,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "6 Bis Cours du 30 Juillet, Bordeaux",
-    "rsvp_count": 3
+    "location": "6 Bis Cours du 30 Juillet, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2676,8 +2555,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "6 Bis Cours du 30 Juillet, Bordeaux",
-    "rsvp_count": 5
+    "location": "6 Bis Cours du 30 Juillet, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2692,8 +2570,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Code & Coffee",
@@ -2708,8 +2585,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "Cours Víctor Hugo, Bordeaux",
-    "rsvp_count": 5
+    "location": "Cours Víctor Hugo, Bordeaux"
   },
   {
     "title": "Kick-off Agile Tour 2017",
@@ -2724,8 +2600,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "83 Quai Chartrons 33300 , Bordeaux",
-    "rsvp_count": 11
+    "location": "83 Quai Chartrons 33300 , Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2740,8 +2615,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2756,8 +2630,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2772,8 +2645,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2788,8 +2660,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 3
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2804,8 +2675,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 8
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2820,8 +2690,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 12
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2836,8 +2705,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2852,8 +2720,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 7
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Global Day of Code Retreat 2016",
@@ -2868,9 +2735,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 23,
-    "rsvp_count": 23
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2885,8 +2750,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Geek Camp 2016",
@@ -2901,9 +2765,7 @@
       "city": "47700 Ruffiac",
       "country": "France"
     },
-    "location": "Le Bourg, 47700 Ruffiac",
-    "rsvp_limit": 30,
-    "rsvp_count": 29
+    "location": "Le Bourg, 47700 Ruffiac"
   },
   {
     "title": "Coding dojo",
@@ -2918,8 +2780,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2934,8 +2795,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2950,8 +2810,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2966,8 +2825,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 1
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2982,8 +2840,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -2998,8 +2855,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3014,8 +2870,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Assemblée Générale d'Okiwi",
@@ -3030,8 +2885,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3046,8 +2900,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3062,8 +2915,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3078,8 +2930,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3094,8 +2945,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 3
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3110,8 +2960,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3126,8 +2975,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3142,8 +2990,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Late Coding Dojo",
@@ -3158,8 +3005,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3174,8 +3020,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3190,8 +3035,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 2
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3206,8 +3050,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 1
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3222,8 +3065,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3238,8 +3080,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 10
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3254,8 +3095,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3270,8 +3110,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3301,8 +3140,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 7
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Programmation fonctionnelle, retours d'expériences, Elastic Search & Docker",
@@ -3317,8 +3155,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 5
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Programmation fonctionnelle, retours d'expériences, Elastic Search & Docker",
@@ -3333,8 +3170,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 15
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Geek Camp Week End",
@@ -3349,8 +3185,7 @@
       "city": "47700 Ruffiac",
       "country": "France"
     },
-    "location": "Le Bourg, 47700 Ruffiac",
-    "rsvp_count": 2
+    "location": "Le Bourg, 47700 Ruffiac"
   },
   {
     "title": "Coding dojo",
@@ -3365,8 +3200,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 3
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3381,8 +3215,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3397,8 +3230,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 13
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3413,8 +3245,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 13
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Coding dojo",
@@ -3429,7 +3260,6 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 7
+    "location": "9 rue de Condé, Bordeaux"
   }
 ]

@@ -1,11 +1,25 @@
 [
   {
     "title": "Créer un Chatbot Intelligent avec LangChain4j",
+    "date": "2025-12-08T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/312127890/",
+    "description": "Vous êtes-vous déjà demandé comment ajouter des capacités de chat intelligentes à vos applications Java sans vous noyer dans la complexité de l'IA ? Cette présentation pratique vous guide dans la construction d'un chatbot intelligent, illustrant l'approche conviviale de LangChain4j pour l'intégration d'IA en entreprise.\nCe que vous allez apprendre :\n\n* **Commencer simplement** : intégration de chat WebSocket avec Quarkus\n* **Ajouter de l'intelligence** : intégrer un LLM pour des conversations naturelles\n* **Sécuriser** : modération de contenu avec un modèle d'IA de modération pour gérer les messages inappropriés\n* **Mémoriser le contexte** : mémoire de chat persistante en utilisant d'abord de la mémoire volatile puis Redis pour des conversations multi-sessions\n* **Accéder à la connaissance** : RAG (Retrieval Augmented Generation) avec la base de données vectorielle Qdrant pour des réponses spécifiques à l'entreprise\n* **Connecter le métier** : appel de fonctions pour accéder à l'inventaire en temps réel, aux données utilisateur et à la logique métier\n\nPoints techniques clés :\n\n* **Implémentation réelle** : chatbot e-commerce fonctionnel avec intégration métier réelle\n* **Amélioration progressive** : chaque étape s'appuie naturellement sur la fonctionnalité précédente\n* **Prêt pour la production** : inclut des garde-fous, gestion d'erreurs, gestion de la mémoire et monitoring\n* **IA type-safe** : l'approche basée sur les annotations de LangChain4j élimine le code répétitif\n* **Fonctionnalités d'entreprise** : modération de contenu, mémoire persistante, RAG et appel de fonctions\n* **Parfait pour : les développeurs Java** souhaitant ajouter des capacités d'IA à leurs applications existantes, les architectes concevant des systèmes d'IA conversationnelle, et toute personne curieuse des modèles d'intégration pratiques de l'IA.\n\n**Démo en direct incluse** : découvrez le chatbot complet en action, des réponses en écho basiques au service client intelligent avec récupération de documents et intégration de systèmes métier.",
+    "community": "bordeauxjug",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
+  },
+  {
+    "title": "Créer un Chatbot Intelligent avec LangChain4j",
     "date": "2025-12-08T19:00:00",
     "url": "https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j",
     "description": "Vous êtes-vous déjà demandé comment ajouter des capacités de chat intelligentes à vos applications Java sans vous noyer dans la complexité de l'IA ? Cette présentation pratique vous guide dans la construction d'un chatbot intelligent, illustrant l'approche conviviale de LangChain4j pour l'intégration d'IA en entreprise. Ce que vous allez apprendre : Commencer simplement : intégration de chat WebSocket avec Quarkus Ajouter de l'intelligence : intégrer un LLM pour des conversations naturelles Sécuriser : modération de contenu avec un modèle d'IA de modération pour gérer les messages inappropriés Mémoriser le contexte : mémoire de chat persistante en utilisant d'abord de la mémoire volatile puis Redis pour des conversations multi-sessions Accéder à la connaissance : RAG (Retrieval Augmented Generation) avec la base de données vectorielle Qdrant pour des réponses spécifiques à l'entreprise Connecter le métier : appel de fonctions pour accéder à l'inventaire en temps réel, aux données utilisateur et à la logique métier Points techniques clés : Implémentation réelle : chatbot e-commerce fonctionnel avec intégration métier réelle Amélioration progressive : chaque étape s'appuie naturellement sur la fonctionnalité précédente Prêt pour la production : inclut des garde-fous, gestion d'erreurs, gestion de la mémoire et monitoring IA type-safe : l'approche basée sur les annotations de LangChain4j élimine le code répétitif Fonctionnalités d'entreprise : modération de contenu, mémoire persistante, RAG et appel de fonctions Parfait pour : les développeurs Java souhaitant ajouter des capacités d'IA à leurs applications existantes, les architectes concevant des systèmes d'IA conversationnelle, et toute personne curieuse des modèles d'intégration pratiques de l'IA. Démo en direct incluse : découvrez le chatbot complet en action, des réponses en écho basiques au service client intelligent avec récupération de documents et intégration de systèmes métier.",
     "community": "bordeauxjug",
-    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer, 33400 Talence",
     "is_online": false
   },
   {
@@ -14,7 +28,6 @@
     "url": "https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4",
     "description": "Spring Boot 4.0 est prévu pour novembre prochain. Même si la baseline reste toujours à Java 17, c’est l’occasion idéale de profiter des nouveautés du langage et du framework.\n\nStéphane commencera par mettre à jour une application existante vers Spring Boot 4.0.\n\nEn chemin, nous verrons comment éviter à l’avenir les NullPointerExceptions en production grâce aux null checks ajoutés dans les projets Spring avec JSpecify.\n\nNous en profiterons aussi pour revoir l’organisation des dépendances : Spring Boot propose désormais des modules plus fins qui offrent davantage de souplesse.\n\nL’intégration de Jackson 3.0 simplifie la configuration et apporte des réglages plus modernes.\n\nEnfin, nous découvrirons comment utiliser un RestClient dans des scénarios asynchrones, sans avoir recours aux types réactifs.",
     "community": "bordeauxjug",
-    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer, 33400 Talence",
     "is_online": false
   },
   {
@@ -23,7 +36,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/311318217/",
     "description": "Je travaille sur une data pipeline basée initialement sur Kafka Stream et Snowflake. Les tests d’intégration utilisent l’outil Open Source [Kapoeira](https://github.com/lectra-tech/kapoeira). Mais récemment, la pipeline a évolué pour intégrer DBT et se connecter à RabbitMQ et PostgreSQL.\n\nMais comment tester toutes ces API, utilisant plusieurs protocoles (HTTP, AMQP, Kafka, JDBC) ? Vous connaissez sans doute l’outil Open Source [Karate](https://github.com/karatelabs/karate) pour tester vos API HTTP. Il propose des extensions (RabbitMQ, Kafka, …), pas toujours simples à utiliser ou en mode Closed Source sous licence payante.\n\nJe vous propose le partenaire idéal pour relever ce challenge : [Karate Connect](https://github.com/lectra-tech/karate-connect), Open Source, utilisant Karate Core et gérant nativement plusieurs protocoles via ses extensions.\n\nÊtes-vous prêt à combattre dans l’arène des tests API ?",
     "community": "bordeauxjug",
-    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer · Talence",
     "is_online": false
   },
   {
@@ -32,7 +44,6 @@
     "url": "https://www.bordeauxjug.org/",
     "description": "Le package `java.util.function` fêtera ses 11 ans en 2025 et force est de constater que malgré son omniprésence dans nos développements, son utilisation reste probablement sous-estimé et mal comprise.\n\nAvez-vous déjà utilisé ces classes comme paramètre de vos méthodes ? Avez-vous déjà utilisé leur capacité de composition ? Ne vous êtes vous jamais dit que cet héritage douteux entre deux classes, ne vous plait pas, mais que faute de mieux, il reste là ?\n\nSans pour autant abuser des concepts de programmation fonctionnelle, nous aimerions vous présenter pendant ce talk à travers de cas concrets, une utilisation plus avancée du package [java.util.function.](http://java.util.function./)\nFonctions anonymes, d’ordre supérieur ou encore la composition de fonctions, toutes ces notions n’auront désormais plus de secret pour vous et trouveront une place de choix dans votre boîte à outils de refactoring.\n\nVous repartirez avec un dépôt git avant/après en prime !\n\nPlus d'information sur le site du JUG : http://bordeauxjug.org/meetings/20260612-les_super_pouvoirs_du_package_java.util.function",
     "community": "bordeauxjug",
-    "location": "ENSEIRB 1 Avenue du Docteur Albert Schweitzer · Talence",
     "is_online": false
   },
   {
@@ -48,8 +59,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 4
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Assemblée Générales 2025",
@@ -64,8 +74,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 6
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Tabby & Continue.dev : la dream team pour un IA coding assistant",
@@ -80,8 +89,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 19
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Optimisation des images Docker Java avec Jdeps, Jlink et les layers Docker",
@@ -96,8 +104,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 25
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Picocli : mets du Java dans ton terminal ! ",
@@ -112,8 +119,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 14
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "IA générative en action: Intégrez les LLM dans vos applications",
@@ -128,8 +134,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 27
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Quarkus : Greener, Better, Faster, stronger.",
@@ -144,8 +149,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 27
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Design First : OpenApi et AsyncApi en action !",
@@ -160,8 +164,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 29
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "JUG Off 2024",
@@ -176,8 +179,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_count": 6
+    "location": "Place Alcala de Henares, 33400, Talence"
   },
   {
     "title": "Java 22+",
@@ -192,8 +194,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 17
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Wargames - Java vulnerabilities and why you should care",
@@ -208,8 +209,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Comment être un développeur à 360° en 2024",
@@ -224,8 +224,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 16
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Builds Reproductibles avec Apache Maven",
@@ -240,8 +239,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 17
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Le versioning des APIs REST: dans la vraie vie on fait comment?",
@@ -256,8 +254,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 24
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Assemblée Générales 2024",
@@ -272,8 +269,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Découvrir le Property Based Testing : De la Théorie à la Pratique avec jqwik",
@@ -288,8 +284,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 16
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Generative IA par la pratique : cas concrets  d'un LLM en Java, LangChain4J",
@@ -304,8 +299,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 34
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Les promesses de Loom ... Soyez au rendez-vous !",
@@ -320,8 +314,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 14
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "La recherche à l'ère de l'IA",
@@ -336,8 +329,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 21
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "JUG Off 2023",
@@ -352,8 +344,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "20 All. du 7ème art, Talence",
-    "rsvp_count": 5
+    "location": "20 All. du 7ème art, Talence"
   },
   {
     "title": "Laptop as Code",
@@ -368,8 +359,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 24
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Fluid Pull Request",
@@ -384,8 +374,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 13
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "CRaC vs GraalVM, pour un démarrage rapide",
@@ -400,8 +389,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 13
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "AG 2023",
@@ -416,8 +404,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 4
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "JOOQ, joy of SQL",
@@ -432,8 +419,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "400 API et 2000 types : genèse du nouveau client Java pour Elasticsearch",
@@ -448,8 +434,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 12
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Micronaut Test Resources",
@@ -464,8 +449,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 11
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Programmation Asynchrone avec Loom",
@@ -480,8 +464,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 24
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Quarkus World Tour 2022 s'arrête au BordeauxJUG",
@@ -496,8 +479,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 18
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Workshop Kafka Streams 101",
@@ -512,8 +494,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 7
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Architecture microservices & cohérence des données : mais comment pour de vrai ?",
@@ -528,8 +509,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 16
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Développer un opérateur Kubernetes en Java, c'est possible !",
@@ -544,8 +524,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "A GraphQL-based Schema Architecture for Microservices",
@@ -553,8 +532,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/284773930/",
     "description": "Regardless of the schema language, there are three key problems in a schema architecture:\n* the reusability of data structure definitions* the expressivity of the schema language* the developer experience\nNav is a Small Business Lending platform built on a polyglot microservice architecture, complemented by an event bus. It is essential for us to develop a consistent way to validate our message payloads (APIs and events) across all microservices. Considering that it has one of the best DevX in the industry, we got the idea to use GraphQL as a schema language without any runtime component. After all, a GraphQL query describes the payload requested by a client, so why not use the same syntax to create a message definition and generate client-side and server-side validation code?\nNav’s Schema Architecture has been used in production since last September and we can already see some of the key benefits:\n* Rich validation rules* A consistent set of validation rules regardless of the language (Golang, Python, Ruby and JSON-schema).* An intuitive DevX that allows us to onboard engineers very quickly* A communication mechanism that conveys easily and precisely reusable data types across all payloads* A massive productivity gain with a 10-20X compression factor between the payload definition and the amount of generated code\nThese benefits proved to be very useful in the implementation of our event-driven architecture. We are now using for gRPC and protobuf as well.\n**Agenda:**\n* Introduction à GraphQL* Pourquoi a-t’on besoin de valider les payloads des APIs et des Événements?* Pourquoi ca ne marche pas avec les technologies classiques (json-schema par exemple)* Presentation du projet Nav Schema Architecture (FOSS)",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 27
+    "is_online": true
   },
   {
     "title": "AG 2022",
@@ -569,8 +547,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 5
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Blockchain: fondements technologiques et cas d'usage",
@@ -585,8 +562,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 26
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Java 17 la dernière LTS par Rémi Forax",
@@ -601,8 +577,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 38
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Quarkus World Tour s'arrête à Bordeaux",
@@ -610,8 +585,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/280673402/",
     "description": "Trois Conférenciers :- Andy Damevin- Clément Escoffier- Loic Mathieu\nEmportée par le vent et dans un esprit très Rock’n Roll, l'équipe Quarkus lance sa tournée mondiale des zéniths.\nCes 25 dernières années, jamais Java, qui s’est produit partout dans le monde, n’avait connu un tel événement. Nous couvrirons les classiques comme “Start Me Up” et \"Living' on a VM\", mais également quelques nouveautés comme “ \"Stairway to Native\", \"Sweet JPA of Mine\" et bien d’autres encore.\nDurant ce concert, l’équipe Quarkus vous offrira une expérience “Hands-on” unique: Une introduction à Quarkus, suivi d’une ou deux demo “Hands-on” et pour terminer, une session Q&A avec les membres du groupe ... euh … des développeurs impliqués.\nAlors, rejoignez-nous ! Nous explorerons comment Quarkus aide les développeurs pour être plus productifs, créer des chef-d'œuvre modernes et tout ça dans le fun : 90 minutes exceptionnelles de discussion technique, live coding et Q&A - de quoi dépoussiérer vos classiques !\nAh et on aura également des goodies … comme des T-Shirts de la tournée peut-être?\nAllez, Time to rock the Java world 2021 style…\nPlus d'informations sur le http://www.bordeauxjug.org/",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 27
+    "is_online": true
   },
   {
     "title": "JUG Off 2021",
@@ -626,9 +600,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_limit": 10,
-    "rsvp_count": 7
+    "location": "Place Alcala de Henares, 33400, Talence"
   },
   {
     "title": "Java côté serveur : 22 ans et toujours fringuant !",
@@ -636,8 +608,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/278914207/",
     "description": "Pendant 20 ans, Java EE a évolué à un train sénatorial. Depuis une dizaine d'années, les applications se sont transformées pour devenir cloud-natives. Java se trouve aujourd'hui contraint de s'adapter à ce nouveau contexte, en particulier pour fonctionner de manière optimum dans les infrastructures modernes basées sur Kubernetes:\n- Il doit permettre de développer facilement des applications observables et résistantes aux pannes,- Il doit devenir frugal en ressources systèmes, en particulier réduire sa consommation mémoire,- Il doit démarrer rapidement.\nCette présentation a pour but de démontrer les différentes options qui permettent d'atteindre ces objectifs :\n- L'évolution de Java EE vers Jakarta EE et MicroProfile,- L'offre logicielle autour des ces standards: Quarkus, OpenLiberty, Payara, KumuluzEE, TomEE, Helidon ...- GraalVM et les promesses du mode natif.\nLa présentation sera basée sur quelques slides, une démo inspirée d'un cas réel et des résultats de benchmarks récents.",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 35
+    "is_online": true
   },
   {
     "title": "Gradle 7: Le guide de survie Gradle",
@@ -645,8 +616,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/278050081/",
     "description": "Gradle est un outil de build puissant, souvent comparé à Maven, mais cette comparaison induit souvent des problèmes de compréhension parce qu'ils ont un modèle en pratique bien différent.\nDans cette présentation, nous proposons une introduction à Gradle, quels sont les concepts de base, quelles commandes invoquer, ce qu'est un build script, etc... dans l'objectif d'avoir à l'issue de la session les bases nécessaires à lire et commencer à écrire des builds Gradle.\nPlus d'informations sur notre site https://www.bordeauxjug.org",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 43
+    "is_online": true
   },
   {
     "title": "Java 16 - Les nouveautés",
@@ -654,8 +624,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/277451860/",
     "description": "Java 16 est disponible depuis mars 2021. Java évolue rapidement avec cette cadence de sortie tous les 6 mois. Chaque version apporte son lot de nouveautés et la version 16 ne déroge pas à la règle.\nCependant, selon le dernier rapport 2021 de la société Snyk sur l'éco-système JVM, nous voyons que deux développeurs sur trois utilisent le JDK 8 en production et seulement un développeur sur quatre utilise un JDK 11.\nSi chaque version est intéressante, la version 16 est très intéressante à deux titres :- Certaines fonctionnalités en mode aperçu (\"Preview\") arrivent en standard dans le langage,- La prochaine version, Java 17, est une version LTS (Long-Term Support)\nJe vous présenterai les nouvelles fonctionnalités. Pour cela, rien de mieux que de coder en direct afin de bien comprendre leurs intérêts.\nCela va transformer votre manière de coder et vous vous demanderez après comment vous avez fait sans.\nVenez me rejoindre !\nPlus d'information sur le site du JUG : http://www.bordeauxjug.org",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 72
+    "is_online": true
   },
   {
     "title": "AG 2021",
@@ -663,8 +632,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/277008416/",
     "description": "Lundi 22 Mars à 19h00 en visio (sans inscription) se tiendra l'Assemblée Générale ordinaire du Bordeaux JUG.\nLes soirées du BordeauxJUG sont organisées par des bénévoles. L'association a besoin de volontaire comme vous pour poursuivre ces activités\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.\nNous rappelons que l'AG est ouverte à tous. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\nN'hésitez donc pas à verser votre obole sur http://www.bordeauxjug.org/members avant l'AG pour pouvoir voter !",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 12
+    "is_online": true
   },
   {
     "title": "JHipster ❤️ Quarkus: Supersonic, Subatomic Full Stack Application",
@@ -672,8 +640,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/276719004/",
     "description": "D'un côté JHipster, LE générateur d'application le plus connus de l'écosystème Java pour générer des applications fullstack.\nDe l'autre Quarkus, le dernier framework de Red Hat qui annonce des performances époustouflantes.\nL'occasion était trop belle, rajouter un backend Quarkus à JHipster en utilisant le concept de \"blueprint\".\nDurant cette présentation, nous aborderons les points suivants:- C'est quoi JHipster et surtout c'est quoi un blueprint- C'est quoi Quarkus et pourquoi autant de hype.- JHipster-Quarkus* Comment l'installer* Generation d'une app de commerce en ligne avec un backend Quarkus qui pèse 80M de mémoire et démarre en 0.0.1* Generation d'une entité en passant par le formulaire en CLI* L'utilisation du JDL (JHipster Description Language) pour aller encore plus vite- Comment aller plus loin- Le futur.\nMore information on http://www.bordeauxjug.org",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 59
+    "is_online": true
   },
   {
     "title": "Hibernate in complex projects – Can we be a little faster?",
@@ -681,8 +648,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/276178510/",
     "description": "Hibernate is the de-facto standard for persisting data in a relational database. It provides excellent developer productivity and is so easy to use that you can learn it within a few hours.\nThat changes as soon as your application needs to handle a huge amount of data or if you want to guarantee very short response times. Features and concepts that work perfectly fine for smaller applications start to become a burden that slows down your application.\nBut that doesn’t have to be the case for your application. Hibernate is a great fit for complex projects with high-performance requirements. You only need to know which features to use and which you should better avoid.\nDuring this talk, I will show you how to get the most out of your Hibernate-based persistence layer. By following these recommendations, you will be able to enjoy Hibernate’s developer productivity and provide a blazingly fast experience to your users.\nMore information on http://www.bordeauxjug.org",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 51
+    "is_online": true
   },
   {
     "title": "Don't fear outdated caches -- change data capture to the rescue! ",
@@ -690,8 +656,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/275773605/",
     "description": "The saying goes that there are only two hard things in Computer Science: cache invalidation and naming things.\nWell, turns out the first is solved actually ;)\nCome and join us for a session to hear not about one, but two popular open-source projects.\nFirst, Infinispan, an in-memory distributed data store and cache, which is elastically scalable, highly availability and fault-tolerant.\nThen, Debezium, a change data capture (CDC) platform for a variety of databases, such as MySQL, PostgreSQL and MongoDB.\nAfter an overview of the key use cases and capabilities of the two projects, we'll explore in a demo how you can combine Debezium and Infinispan for even greater awesomeness:\nHow to keep your cache automatically up-to-date after data changes via Debezium and CDC\nHow to read denormalized views of your data with plain key look-ups from an Infinispan cluster close by\nHow to propagate cache updates between clusters using cross-site replication\nAll this driven by Quarkus and connected via Apache Kafka. Bring your questions and ideas so we can discuss and exchange about the potential of these open-source projects in the data space!\nMore information on http://bordeauxjug.org",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 43
+    "is_online": true
   },
   {
     "title": "3 easy improvements in your microservices architecture",
@@ -699,8 +664,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/275058477/",
     "description": "While a microservices architecture is more scalable than a monolith, it has a direct hit on performance.\nTo cope with that, one performance improvement is to set up a cache. It can be configured for database access, for REST calls or just to store session state across a cluster of server nodes. In this demo-based talk, I’ll show how Hazelcast In-Memory Data Grid can help you in each one of those areas and how to configure it.\nHint: it’s much easier than one would expect\nPlus d'informations sur le site http://www.bordeauxjug.org/",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 41
+    "is_online": true
   },
   {
     "title": "Plug-in Architectures for Java with Layrry and the Java Module System",
@@ -708,8 +672,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/274507026/",
     "description": "The Java Module System lays the foundation for building modularized applications on the JVM. It doesn’t concern itself though with resolving module versions and obtaining modules from repositories.\nThis is where Layrry comes in: an API and launcher for modularized Java applications which takes a descriptor of the module layer(s) to assemble, fetches the modules and starts up the application.\nJoin us for this session and learn how to:\nBuild Java applications using layers, e.g. providing isolation between different versions of one module. Use jbang to launch your layered apps in no time. Create plug-in based rich-client applications using JavaFX and Layrry, allowing to – dynamically reconfigure and update your layer hierarchy, no restarts required. Create your own customized Layrry launcher if needed\nThis session is code-centered, be ready to see the Java Module System, Layrry, and JavaFX in action!\n-- Session in English / Session en anglais",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 38
+    "is_online": true
   },
   {
     "title": "Mieux maîtriser la performance applicative avec la librairie de test QuickPerf",
@@ -717,8 +680,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/273864451/",
     "description": "La performance est souvent considérée de manière tardive, voire ignorée, dans le cycle de développement applicatif. Ceci induit un risque de découvrir tardivement que l'application est lente ou inutilisable.\nVous allez découvrir comment la librairie de test QuickPerf (https://github.com/quick-perf/quickperf) permet de supprimer sans beaucoup d'effort et au plus tôt des goulets d'étranglement de performance.\nSi votre application possède déjà des tests de performance, comme des tirs de charge, vous verrez comment les tests QuickPerf peuvent les compléter et vous faire gagner du temps\nPlus d'informations sur le site de votre JUG (http://www.bordeauxjug.org)",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 36
+    "is_online": true
   },
   {
     "title": "Spring Boot Loves K8s",
@@ -726,8 +688,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/272912566/",
     "description": "Containers and platforms are now part of the developer’s toolbox;\nit’s sometimes hard to standardize the containerization and deployment of Spring Boot applications in your organization, while still remaining flexible.\nSpring Boot 2.3 is out now with new features for containers and Kubernetes.\nDuring this session, Stephane and Brian will share with you the Spring Boot 2.3 features that will help you to:\n- Easily create optimized container images of your application\n- Simplify and standardize your CI/CD pipeline\n- Manage the lifecycle of your application in a Kubernetes environment with Probes\nAnd more!\nPlus d'informations sur le site de votre JUG (http://www.bordeauxjug.org)",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 61
+    "is_online": true
   },
   {
     "title": "JUG Off 2020",
@@ -742,9 +703,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_limit": 10,
-    "rsvp_count": 4
+    "location": "Place Alcala de Henares, 33400, Talence"
   },
   {
     "title": "Profiling et monitoring de JVM avec Arthas",
@@ -752,8 +711,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/271338389/",
     "description": "Arthas est un outil open source de diagnostic Java open source développé par Alibaba pour ses propres besoins. Il propose des fonctionnalités de monitoring et de profiling qui peuvent aider à identifier de nombreux problèmes dans des applications exécutées dans une JVM sans avoir à la redémarrer. C'est un outil en mode console qui permet de se connecter à une application Java en cours d'exécution.\nCette session présentera cet outil utile qui peut aider à résoudre des problèmes lors de l'exécution d'application dans un JVM.\nPlus d'informations sur le site de votre JUG (http://www.bordeauxjug.org)",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 25
+    "is_online": true
   },
   {
     "title": "Artificial Intelligence on Quarkus: I love it when an OptaPlan comes together",
@@ -761,8 +719,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/270786885/",
     "description": "Forget about Machine Learning. Planning optimization is the most profitable AI technology on this planet.\nThe world is full of planning challenges, such as vehicle routing problems, maintenance scheduling and employee rostering. Find the quickest routes to visit n locations with k vehicles. Assign n shifts to k employees, taking into account skills and availability. Few people realize how much AI algorithms improve those solutions.\nFor example, when telco's started using OptaPlanner to plan their fleet of technicians, many expected a driving time reduction of 1-2%. It was 25%. In some cases, that saves them hundreds of millions of dollars and millions of kilograms of CO² emissions, every year.\nIn this session I'll show you how to code a highschool timetabling application from scratch, with Quarkus and OptaPlanner. It 'll generate the perfect lesson schedule, for both students and teachers.\nPlus d'informations sur le site de votre JUG (http://www.bordeauxjug.org)",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 36
+    "is_online": true
   },
   {
     "title": "La concurrence sans s’emmêler les ficelles avec Project Loom",
@@ -770,8 +727,7 @@
     "url": "https://www.meetup.com/bordeauxjug/events/270182876/",
     "description": "Le domaine de la programmation concurrente utilise le champ lexical de la filature et nous met les nerfs en pelote avec des concepts qui s'entrelacent : fibers, threads, lightweight-threads, green threads, loom... Peut-être avez vous également entendu parler de coroutines ? Rassurez-vous, tout est lié.\nAu fil de cette présentation (em)mêlée d'exemples de code, vous découvrirez le projet Loom qui a pour vocation d'apporter à la JVM des \"mécanismes léger de concurrence\", ainsi que des API plus haut niveau pour broder dessus.\nNous aborderons ensemble l'origine de Loom et ses récents prototypes. Vous vous apercevrez que son maillage va au delà de \"simples\" primitives et peut nous amener jusqu'à révolutionner la concurrence sur la JVM.\nPlus d'informations sur le site de votre JUG (http://www.bordeauxjug.org)",
     "community": "bordeauxjug",
-    "is_online": true,
-    "rsvp_count": 43
+    "is_online": true
   },
   {
     "title": "Montée de version sans interruption de services",
@@ -786,8 +742,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 40
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "News du support de Kotlin dans Spring ? Et Spring Boot avec GraalVM native",
@@ -802,8 +757,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 46
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "AG 2020",
@@ -818,8 +772,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 6
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "La modularité au (micro) service de l'espace client Orange",
@@ -834,8 +787,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 30
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Introduction à la programmation par contraintes",
@@ -850,8 +802,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 31
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "La JVM et Docker, vers une symbiose parfaite !",
@@ -866,8 +817,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 43
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Quarkus: Supersonique Subatomique Java ",
@@ -882,8 +832,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 78
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "JUG Off 2019",
@@ -898,8 +847,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_count": 12
+    "location": "Place Alcala de Henares, 33400, Talence"
   },
   {
     "title": "Le DDD et les patterns tactiques",
@@ -914,8 +862,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 53
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Java 11, 12.. c'est le moment de remplacer son JDK 8",
@@ -930,8 +877,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 39
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Construire une architecture élastique basée sur les événements dans AWS",
@@ -946,8 +892,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 45
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Etre productif avec JHipster",
@@ -962,8 +907,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 57
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Back to Basics : Ne perdez plus votre Temps avec les Dates",
@@ -978,8 +922,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 34
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Micronaut puis Flutter",
@@ -994,8 +937,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 43
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "AG 2019",
@@ -1010,8 +952,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 9
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Web components en 2018, on en est où ?",
@@ -1026,8 +967,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 42
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Au delà des brokers: un tour de l'environnement Kafka",
@@ -1042,8 +982,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 48
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Ceinture noire Karate en tests d'API REST",
@@ -1058,8 +997,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 40
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Soirée Apache Maven",
@@ -1074,8 +1012,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 50
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "JUG Off 2018",
@@ -1090,8 +1027,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_count": 8
+    "location": "Place Alcala de Henares, 33400, Talence"
   },
   {
     "title": "Mettre en place simplement la sécurité de ces applications avec Keycloak",
@@ -1106,8 +1042,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 45
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Soirée BlockChain",
@@ -1122,8 +1057,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 94
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Applications réactives avec Eclipse Vert.x",
@@ -1138,8 +1072,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 48
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Boîte à outils mémoire de la JVM ...",
@@ -1154,8 +1087,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 29
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Mettez à profit toutes les fonctionnalités de Kubernetes pour vos microservices",
@@ -1170,8 +1102,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 67
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Soirée Gilded-Rose ",
@@ -1186,8 +1117,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 39
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "AG 2017",
@@ -1202,8 +1132,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_count": 5
+    "location": "Place Alcala de Henares, 33400, Talence"
   },
   {
     "title": "Modernisez vos API, passez à GraphQL!",
@@ -1218,8 +1147,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 61
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Clean Code – Comment coder propre",
@@ -1234,8 +1162,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 102
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Serverless avec AWS Lambda ?",
@@ -1250,8 +1177,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 78
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Préparez vous à la modularité selon Java 9 par Alexis Hassler",
@@ -1266,8 +1192,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 88
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "JUG OFF",
@@ -1282,8 +1207,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_count": 6
+    "location": "Place Alcala de Henares, 33400, Talence"
   },
   {
     "title": "Raspberry Pi with Java 9 (au LABRI)",
@@ -1298,8 +1222,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "Domaine universitaire, 351, cours de la Libération, 33405 Talence, Talence",
-    "rsvp_count": 46
+    "location": "Domaine universitaire, 351, cours de la Libération, 33405 Talence, Talence"
   },
   {
     "title": "DDD, P&A, ES, CQRS, ETC",
@@ -1314,8 +1237,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 62
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Stream Processing avec Apache Flink",
@@ -1330,8 +1252,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 47
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Ingest Node : (Ré)indexer et enrichir des documents dans ElasticSearch",
@@ -1346,8 +1267,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 58
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Living documentation, ou comment faire de la documentation sans l'écrire.",
@@ -1362,8 +1282,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 44
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "TypeScript : dès lundi sur votre App Legacy",
@@ -1378,8 +1297,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 87
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Functional web applications with Kotlin and Spring 5",
@@ -1394,8 +1312,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 75
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "\"Plateforme dynamique, #docker #dns #scalabilité... Où sont mes microservices ?\"",
@@ -1410,8 +1327,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 121
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "AG 2016",
@@ -1426,8 +1342,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "SonarLint et SonarQube pour détecter les bugs, code smells et vulnérabilités",
@@ -1442,8 +1357,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 64
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Java EE, Micro Profile, TypeScript et Angular 2",
@@ -1458,8 +1372,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 153
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Ionic, un framework mobile hybride fun et addictif",
@@ -1474,8 +1387,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 66
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Bordeaux JUG Off 2016",
@@ -1490,8 +1402,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "14-18 Cours Albret, Bordeaux",
-    "rsvp_count": 3
+    "location": "14-18 Cours Albret, Bordeaux"
   },
   {
     "title": "Eclipse Che: the Next-Gen Eclipse IDE",
@@ -1506,8 +1417,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 51
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Hawkular Powers: Le Dev au pistolet d'Ops",
@@ -1522,8 +1432,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 37
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "JIGSAW notre sauveur",
@@ -1538,8 +1447,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 50
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "De Zéro à Héros avec Spring Boot",
@@ -1554,8 +1462,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 70
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Let's React",
@@ -1570,8 +1477,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 52
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Quickie Party",
@@ -1586,8 +1492,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 36
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "AG 2015",
@@ -1602,8 +1507,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 7
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Intégration Spark/Cassandra, théorie et pratique",
@@ -1618,8 +1522,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 38
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Machine Learning avec Spark",
@@ -1634,8 +1537,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 53
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Continuous Delivery avec Jenkins et Docker",
@@ -1650,8 +1552,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 98
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Asciidoctor RTFM",
@@ -1666,8 +1567,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 29
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Jug Off 2015",
@@ -1682,8 +1582,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "14-18 Cours Albret, Bordeaux",
-    "rsvp_count": 10
+    "location": "14-18 Cours Albret, Bordeaux"
   },
   {
     "title": "Hibernate OGM : ORM et NoSQL sont-ils solubles?",
@@ -1698,8 +1597,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 50
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Convention over configuration: the Gradle Way",
@@ -1714,8 +1612,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 40
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "À la découverte de MongoDB 3.0 !",
@@ -1730,8 +1627,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 78
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Soirée Cassandra avec Sébastien Augereau",
@@ -1746,8 +1642,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 52
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Lucy in the cloud with Docker",
@@ -1762,8 +1657,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 71
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "LP4J, a song of Java, MIDI and websockets",
@@ -1778,8 +1672,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 31
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Jeudi 11 décembre : AG du JUG",
@@ -1794,8 +1687,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 12
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Jeudi 4 Décembre : Soirée JHipster",
@@ -1810,8 +1702,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 64
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Introduction à Clojure et Live Coding",
@@ -1826,8 +1717,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 34
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "CDI Today... and Tomorow (A. Goncalves)",
@@ -1842,8 +1732,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 64
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "La persistance polyglotte ou comment intégrer quatre moteurs de bases de données",
@@ -1858,8 +1747,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 45
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Jug Off au Connemara",
@@ -1874,8 +1762,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "14-18 Cours Albret, Bordeaux",
-    "rsvp_count": 12
+    "location": "14-18 Cours Albret, Bordeaux"
   },
   {
     "title": "Appliquer le Web aux données",
@@ -1890,8 +1777,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 42
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Des applications réactives avec Spring 4, AngularDart et Websocket",
@@ -1906,8 +1792,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 51
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Java 8 Lambdas and Devices",
@@ -1922,8 +1807,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 21
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Groovy vs Java 8",
@@ -1938,8 +1822,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 32
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Wikidata Workshop",
@@ -1954,9 +1837,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_limit": 25,
-    "rsvp_count": 12
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Live coding: Web temps réel avec Play 2",
@@ -1971,8 +1852,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 36
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Dart Flight school",
@@ -1987,9 +1867,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_limit": 1,
-    "rsvp_count": 1
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "JavaEE : Apache TomEE",
@@ -2004,8 +1882,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 34
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Java 8 : lambdas, Streams et Collectors, le nouveau visage de l’API Collection",
@@ -2020,8 +1897,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 55
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "AG 2013 du BordeauxJUG",
@@ -2036,8 +1912,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 17
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Lambdas, from the great closure war to Java 8, an unexpected journey",
@@ -2052,8 +1927,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 48
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Jeudi 14 Nov: What's The Fold",
@@ -2068,8 +1942,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 48
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
     "title": "Jeudi 17 Oct: Les lambdas arrivent, mais avez-vous bien compris les Generics ?",
@@ -2084,7 +1957,6 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 57
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   }
 ]
