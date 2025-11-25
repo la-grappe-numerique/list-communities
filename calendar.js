@@ -68,7 +68,7 @@ function createPopoverContent(event) {
         <div class="event-details">
             <div class="event-title">${event.title}</div>
             <div class="event-info">
-                <i class="bi bi-calendar"></i> ${formatDateTime(event.start)}
+                <i class="bi bi-calendar"></i> ${formatDateTime(event.extendedProps.rawDate)}
             </div>
             <div class="event-info">
                 <i class="bi bi-people"></i> Community(ies): ${formatCommunities(event.extendedProps)}
@@ -163,7 +163,8 @@ function loadCalendar() {
                 url: event.url || null,
                 extendedProps: {
                     communities: event.communities || [event.community],
-                    location: event.location || ''
+                    location: event.location || '',
+                    rawDate: event.date  // Store raw date for popup display
                 }
             }));
 
