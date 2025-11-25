@@ -1,5 +1,14 @@
 [
   {
+    "title": "CNCF Meetup #12",
+    "date": "2025-12-09T18:30:00",
+    "url": "https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/",
+    "description": "More to come",
+    "community": "cloud-native-bordeaux",
+    "location": "BACK MARKET, BAT G7 BASSINS A FLOTS, 71 RUE LUCIEN FAURE ,33300 BORDEAUX",
+    "is_online": false
+  },
+  {
     "title": "Crossplane et des incidents dans Kubernetes",
     "date": "2025-11-25T18:30:00",
     "url": "https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/311973761/?eventOrigin=group_upcoming_events",
