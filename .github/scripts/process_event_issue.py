@@ -144,7 +144,8 @@ def main():
                     f"- Title: {event_data['event_title']}\n"
                     f"- Date: {event_data['event_date']}\n"
                     f"- Location: {event_data['location']}\n"
-                    f"- Community: {event_data['community']}"
+                    f"- Community: {event_data['community']}\n\n"
+                    f"Closes #{issue_number}"
                 ),
                 head=branch_name,
                 base='main'
