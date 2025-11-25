@@ -1,6 +1,9 @@
 name: Sync Community Events
 
 on:
+  schedule:
+    # Run daily at 6:00 AM UTC (8:00 AM Paris time in summer, 7:00 AM in winter)
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -8,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -32,7 +35,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add */events.json events.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update community events"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Sync Meetup events via teemup"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
