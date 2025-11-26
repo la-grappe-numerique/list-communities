@@ -7,13 +7,14 @@ class IssueParser:
     # Field mappings from form labels to internal field names
     FIELD_MAPPINGS = {
         'event': {
-            'Event Title': 'event_title',
-            'Event Date': 'event_date',
-            'Event URL': 'event_url',
+            # Labels français
+            'Titre de l\'évènement': 'event_title',
+            'Date de l\'évènement': 'event_date',
+            'URL de l\'évènement': 'event_url',
             'Description': 'description',
-            'Community': 'community',
-            'Location': 'location',
-            'Is this an online event?': 'is_this_an_online_event'
+            'Communauté': 'community',
+            'Lieu': 'location',
+            'Évènement en ligne ?': 'is_this_an_online_event'
         },
         'community': {
             # Labels français

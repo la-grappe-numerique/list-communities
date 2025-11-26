@@ -162,7 +162,8 @@ def main():
                     f"Community details:\n"
                     f"- Name: {community_data['display_name']}\n"
                     f"- Folder: {community_data['community_name']}\n"
-                    f"- Event source: {community_data.get('event_source', 'Manual')}"
+                    f"- Event source: {community_data.get('event_source', 'Manual')}\n\n"
+                    f"Closes #{issue_number}"
                 ),
                 head=branch_name,
                 base='main'

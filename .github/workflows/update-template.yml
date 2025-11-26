@@ -5,8 +5,12 @@ on:
     branches:
       - main
     paths:
-      - '*/events_src.yaml'
-      - '*/events.yml'
+      # Déclenché quand une nouvelle communauté est ajoutée (README créé)
+      - '*/README.md'
+      # Exclure les dossiers système
+      - '!.github/**'
+      - '!docs/**'
+      - '!template/**'
   workflow_dispatch:
 
 jobs:

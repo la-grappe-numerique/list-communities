@@ -41,7 +41,7 @@ def format_event_json(community: str, event_data: dict) -> dict:
         'description': event_data.get('description', ''),
         'community': community,
         'location': event_data['location'],
-        'is_online': event_data.get('is_this_an_online_event', 'No') == 'Yes'
+        'is_online': event_data.get('is_this_an_online_event', 'Non') in ['Yes', 'Oui']
     }
     return event
 
