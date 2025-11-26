@@ -16,19 +16,20 @@ class IssueParser:
             'Is this an online event?': 'is_this_an_online_event'
         },
         'community': {
-            'Community name (as folder name)': 'community_name',
-            'Display name': 'display_name',
-            'Contact persons': 'contact_persons',
-            'Website': 'website',
-            'Meetup URL': 'meetup_url',
-            'LinkedIn URL': 'linkedin_url',
-            'X/Twitter URL': 'x/twitter_url',
-            'Mastodon URL': 'mastodon_url',
-            'Bluesky URL': 'bluesky_url',
-            'Event source': 'event_source',
-            'Event statuses to sync': 'event_statuses_to_sync',
-            'Description': 'description',
-            'Additional information': 'additional_information'
+            # Labels français
+            'Nom de la communauté (nom du dossier)': 'community_name',
+            'Nom d\'affichage': 'display_name',
+            'Texte de présentation pour le vote': 'description',
+            'Personnes de contact': 'contact_persons',
+            'Site web': 'website',
+            'URL Meetup': 'meetup_url',
+            'URL LinkedIn': 'linkedin_url',
+            'URL X/Twitter': 'x/twitter_url',
+            'URL Mastodon': 'mastodon_url',
+            'URL Bluesky': 'bluesky_url',
+            'Source des événements': 'event_source',
+            'Statuts des événements à synchroniser': 'event_statuses_to_sync',
+            'Informations complémentaires': 'additional_information'
         }
     }
 
