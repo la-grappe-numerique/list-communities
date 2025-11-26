@@ -1,47 +1,77 @@
-name: Initialize Community
-description: Add a new community to the list
-title: "[Community]: "
+name: Demande d'adhésion d'une communauté
+description: Soumettre une nouvelle communauté à La Grappe Numérique
+title: "[Communauté]: "
 labels: ["community"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to add a new community! Please fill out the information below.
+        ## Bienvenue !
+
+        Merci de vouloir rejoindre La Grappe Numérique !
+
+        ### Processus d'adhésion
+
+        L'adhésion est **gratuite**. Voici comment ça se passe :
+
+        1. **Déclaration sur l'honneur** : Validez les engagements ci-dessous
+        2. **Texte de présentation** : Fournissez un court texte pour le vote
+        3. **Vote des communautés** : Un formulaire sera envoyé aux communautés existantes
+           - 1 vote par communauté
+           - 1 semaine pour répondre
+           - La majorité l'emporte
+
+        ---
 
   - type: input
     id: name
     attributes:
-      label: Community name (as folder name)
-      description: The name that will be used for the folder (no spaces, lowercase, use hyphens)
-      placeholder: "e.g., aws-bordeaux"
+      label: Nom de la communauté (nom du dossier)
+      description: Le nom qui sera utilisé pour le dossier (sans espaces, en minuscules, utilisez des tirets)
+      placeholder: "ex: aws-bordeaux"
     validations:
       required: true
 
   - type: input
     id: display_name
     attributes:
-      label: Display name
-      description: The name as it will be displayed
-      placeholder: "e.g., AWS User Group Bordeaux"
+      label: Nom d'affichage
+      description: Le nom tel qu'il sera affiché publiquement
+      placeholder: "ex: AWS User Group Bordeaux"
+    validations:
+      required: true
+
+  - type: textarea
+    id: presentation
+    attributes:
+      label: Texte de présentation pour le vote
+      description: |
+        Un court texte présentant votre communauté. Ce texte sera transmis aux communautés existantes pour le vote d'adhésion.
+        Expliquez ce que fait votre communauté, son historique, ses activités...
+      placeholder: |
+        Décrivez votre communauté en quelques lignes...
+        - Quel est son objectif ?
+        - Depuis quand existe-t-elle ?
+        - Quels types d'événements organisez-vous ?
     validations:
       required: true
 
   - type: textarea
     id: contacts
     attributes:
-      label: Contact persons
-      description: Who are the contacts for this community? One contact per line with their role if applicable
+      label: Personnes de contact
+      description: Qui sont les contacts pour cette communauté ? Une personne par ligne avec son rôle si applicable
       placeholder: |
-        Jean Dupont (Community Leader)
-        Marie Martin (Event Organizer)
+        Jean Dupont (Responsable communauté)
+        Marie Martin (Organisation événements)
     validations:
       required: true
 
   - type: input
     id: website
     attributes:
-      label: Website
-      description: Official website URL (if any)
+      label: Site web
+      description: URL du site officiel (si existant)
       placeholder: "https://..."
     validations:
       required: false
@@ -49,8 +79,8 @@ body:
   - type: input
     id: meetup_url
     attributes:
-      label: Meetup URL
-      description: URL of the Meetup group (if exists)
+      label: URL Meetup
+      description: URL du groupe Meetup (si existant)
       placeholder: "https://www.meetup.com/..."
     validations:
       required: false
@@ -58,8 +88,8 @@ body:
   - type: input
     id: linkedin
     attributes:
-      label: LinkedIn URL
-      description: LinkedIn group or page URL (if exists)
+      label: URL LinkedIn
+      description: URL du groupe ou de la page LinkedIn (si existant)
       placeholder: "https://www.linkedin.com/..."
     validations:
       required: false
@@ -67,8 +97,8 @@ body:
   - type: input
     id: twitter
     attributes:
-      label: X/Twitter URL
-      description: X/Twitter profile URL (if exists)
+      label: URL X/Twitter
+      description: URL du profil X/Twitter (si existant)
       placeholder: "https://twitter.com/..."
     validations:
       required: false
@@ -76,8 +106,8 @@ body:
   - type: input
     id: mastodon
     attributes:
-      label: Mastodon URL
-      description: Mastodon profile URL (if exists)
+      label: URL Mastodon
+      description: URL du profil Mastodon (si existant)
       placeholder: "https://mastodon.social/@..."
     validations:
       required: false
@@ -85,8 +115,8 @@ body:
   - type: input
     id: bluesky
     attributes:
-      label: Bluesky URL
-      description: Bluesky profile URL (if exists)
+      label: URL Bluesky
+      description: URL du profil Bluesky (si existant)
       placeholder: "https://bsky.app/profile/..."
     validations:
       required: false
@@ -94,22 +124,22 @@ body:
   - type: dropdown
     id: event_source
     attributes:
-      label: Event source
+      label: Source des événements
       description: |
-        Main source for community events.
-        Note: Currently, only Meetup.com is supported for automatic synchronization.
-        Other sources will require manual event addition.
+        Source principale pour les événements de la communauté.
+        Note : Actuellement, seul Meetup.com est supporté pour la synchronisation automatique.
+        Les autres sources nécessiteront un ajout manuel des événements.
       options:
         - Meetup.com
-        - Manual (no automatic sync)
+        - Manuel (pas de synchronisation automatique)
     validations:
       required: true
 
   - type: dropdown
     id: event_statuses
     attributes:
-      label: Event statuses to sync
-      description: Which events should be synchronized? (Only applies to Meetup.com)
+      label: Statuts des événements à synchroniser
+      description: Quels événements doivent être synchronisés ? (Applicable uniquement pour Meetup.com)
       multiple: true
       options:
         - upcoming
@@ -118,32 +148,48 @@ body:
       required: false
 
   - type: textarea
-    id: description
+    id: additional_info
     attributes:
-      label: Description
-      description: A brief description of the community (will be added to README)
-      placeholder: "Describe what the community is about..."
+      label: Informations complémentaires
+      description: Toute information ou note supplémentaire
+      placeholder: "Tout autre détail utile..."
     validations:
       required: false
 
-  - type: textarea
-    id: additional_info
+  - type: markdown
     attributes:
-      label: Additional information
-      description: Any additional information or notes
-      placeholder: "Any other details that might be helpful..."
-    validations:
-      required: false
+      value: |
+        ---
+
+        ## Déclaration sur l'honneur
+
+        Pour rejoindre La Grappe Numérique, votre communauté doit respecter les engagements suivants.
+        **Veuillez cocher chaque case pour confirmer.**
+
+  - type: checkboxes
+    id: declaration
+    attributes:
+      label: Engagements de la communauté
+      description: Je déclare sur l'honneur que ma communauté est
+      options:
+        - label: "**Numérique** : notre communauté est centrée sur le numérique et les technologies"
+          required: true
+        - label: "**Basée en Nouvelle Aquitaine** : notre communauté est active en Nouvelle Aquitaine"
+          required: true
+        - label: "**Sans lien direct avec une entreprise** : notre communauté n'est pas une émanation directe d'une entreprise"
+          required: true
+        - label: "**Sans démarche commerciale ostentatoire** : notre communauté n'a pas de but commercial"
+          required: true
+        - label: "**Ouverte à toutes et tous** : nos événements sont ouverts sans discrimination (sexe, identité sexuelle, orientation sexuelle, âge, handicap, apparence physique, ethnie, religion ou absence de religion, niveau d'études ou niveau d'expérience)"
+          required: true
 
   - type: checkboxes
     id: confirmation
     attributes:
-      label: Confirmation
-      description: Please confirm the following
+      label: Confirmation finale
+      description: Veuillez confirmer les points suivants
       options:
-        - label: I am authorized to add this community
+        - label: Je suis autorisé(e) à soumettre cette demande d'adhésion pour cette communauté
           required: true
-        - label: The community is active in Bordeaux area
-          required: true
-        - label: I understand this will be publicly visible
+        - label: Je comprends que ces informations seront visibles publiquement
           required: true
