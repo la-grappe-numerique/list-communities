@@ -8,40 +8,79 @@ BEGIN:VEVENT
 SUMMARY:Créer un Chatbot Intelligent avec LangChain4j
 DTSTART;TZID=Europe/Paris:20251208T190000
 DTEND;TZID=Europe/Paris:20251208T210000
+UID:https://www.meetup.com/bordeauxjug/events/312127890/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/312127890/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr\n\nVou
+ s êtes-vous déjà demandé comment ajouter des capacités de chat intell
+ igentes à vos applications Java sans vous noyer dans la complexité de l'
+ IA ? Cette présentation pratique vous guide dans la construction d'un cha
+ tbot intelligent\, illustrant l'approche conviviale de LangChain4j pour l'
+ intégration d'IA en entreprise.\nCe que vous allez apprendre :\n\n* **Com
+ mencer simplement** : intégration de chat WebSocket avec Quarkus\n* **Ajo
+ uter de l'intelligence** : intégrer un LLM pour des conversations naturel
+ les\n* **Sécuriser** : modération de contenu avec un modèle d'IA de mod
+ ération pour gérer les messages inappropriés\n* **Mémoriser le context
+ e** : mémoire de chat persistante en utilisant d'abord de la mémoire vol
+ atile puis Redis pour des conversations multi-sessions\n* **Accéder à la
+  connaissance** : RAG (Retrieval Augmented Generation) avec la base de don
+ nées vectorielle Qdrant pour des réponses spécifiques à l'entreprise\n
+ * **Connecter le métier** : appel de fonctions pour accéder à l'inventa
+ ire en temps réel\, aux données utilisateur et à la logique métier\n\n
+ Points techniques clés :\n\n* **Implémentation réelle** : chatbot e-com
+ merce fonctionnel avec intégration métier réelle\n* **Amélioration pro
+ gressive** : chaque étape s'appuie naturellement sur la fonctionnalité p
+ récédente\n* **Prêt pour la production** : inclut des garde-fous\, gest
+ ion d'erreurs\, gestion de la mémoire et monitoring\n* **IA type-safe** :
+  l'approche basée sur les annotations de LangChain4j élimine le code ré
+ pétitif\n* **Fonctionnalités d'entreprise** : modération de contenu\, m
+ émoire persistante\, RAG et appel de fonctions\n* **Parfait pour : les d
+ éveloppeurs Java** souhaitant ajouter des capacités d'IA à leurs applic
+ ations existantes\, les architectes concevant des systèmes d'IA conversat
+ ionnelle\, et toute personne curieuse des modèles d'intégration pratique
+ s de l'IA.\n\n**Démo en direct incluse** : découvrez le chatbot complet 
+ en action\, des réponses en écho basiques au service client intelligent 
+ avec récupération de documents et intégration de systèmes métier.\n\n
+ Communauté: bordeauxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/312127890/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Créer un Chatbot Intelligent avec LangChain4j
+DTSTART;TZID=Europe/Paris:20251208T190000
+DTEND;TZID=Europe/Paris:20251208T210000
 UID:https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelli
  gent_avec_langchain4j@community-events
 DESCRIPTION:🔗 https://www.bordeauxjug.org/meetings/20251208-creer_un_ch
- atbot_intelligent_avec_langchain4j\n📍 ENSEIRB\, 1 Avenue du Docteur Alb
- ert Schweitzer\, 33400 Talence\n\nVous êtes-vous déjà demandé comment 
- ajouter des capacités de chat intelligentes à vos applications Java sans
-  vous noyer dans la complexité de l'IA ? Cette présentation pratique vou
- s guide dans la construction d'un chatbot intelligent\, illustrant l'appro
- che conviviale de LangChain4j pour l'intégration d'IA en entreprise. Ce q
- ue vous allez apprendre : Commencer simplement : intégration de chat WebS
- ocket avec Quarkus Ajouter de l'intelligence : intégrer un LLM pour des c
- onversations naturelles Sécuriser : modération de contenu avec un modèl
- e d'IA de modération pour gérer les messages inappropriés Mémoriser le
-  contexte : mémoire de chat persistante en utilisant d'abord de la mémoi
- re volatile puis Redis pour des conversations multi-sessions Accéder à l
- a connaissance : RAG (Retrieval Augmented Generation) avec la base de donn
- ées vectorielle Qdrant pour des réponses spécifiques à l'entreprise Co
- nnecter le métier : appel de fonctions pour accéder à l'inventaire en t
- emps réel\, aux données utilisateur et à la logique métier Points tech
- niques clés : Implémentation réelle : chatbot e-commerce fonctionnel av
- ec intégration métier réelle Amélioration progressive : chaque étape 
- s'appuie naturellement sur la fonctionnalité précédente Prêt pour la p
- roduction : inclut des garde-fous\, gestion d'erreurs\, gestion de la mém
- oire et monitoring IA type-safe : l'approche basée sur les annotations de
-  LangChain4j élimine le code répétitif Fonctionnalités d'entreprise : 
- modération de contenu\, mémoire persistante\, RAG et appel de fonctions 
- Parfait pour : les développeurs Java souhaitant ajouter des capacités d'
- IA à leurs applications existantes\, les architectes concevant des systè
- mes d'IA conversationnelle\, et toute personne curieuse des modèles d'int
- égration pratiques de l'IA. Démo en direct incluse : découvrez le chatb
- ot complet en action\, des réponses en écho basiques au service client i
- ntelligent avec récupération de documents et intégration de systèmes m
- étier.\n\nCommunauté: bordeauxjug
-LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, 33400 Talence
+ atbot_intelligent_avec_langchain4j\n\nVous êtes-vous déjà demandé comm
+ ent ajouter des capacités de chat intelligentes à vos applications Java 
+ sans vous noyer dans la complexité de l'IA ? Cette présentation pratique
+  vous guide dans la construction d'un chatbot intelligent\, illustrant l'a
+ pproche conviviale de LangChain4j pour l'intégration d'IA en entreprise. 
+ Ce que vous allez apprendre : Commencer simplement : intégration de chat 
+ WebSocket avec Quarkus Ajouter de l'intelligence : intégrer un LLM pour d
+ es conversations naturelles Sécuriser : modération de contenu avec un mo
+ dèle d'IA de modération pour gérer les messages inappropriés Mémorise
+ r le contexte : mémoire de chat persistante en utilisant d'abord de la m
+ émoire volatile puis Redis pour des conversations multi-sessions Accéder
+  à la connaissance : RAG (Retrieval Augmented Generation) avec la base de
+  données vectorielle Qdrant pour des réponses spécifiques à l'entrepri
+ se Connecter le métier : appel de fonctions pour accéder à l'inventaire
+  en temps réel\, aux données utilisateur et à la logique métier Points
+  techniques clés : Implémentation réelle : chatbot e-commerce fonctionn
+ el avec intégration métier réelle Amélioration progressive : chaque é
+ tape s'appuie naturellement sur la fonctionnalité précédente Prêt pour
+  la production : inclut des garde-fous\, gestion d'erreurs\, gestion de la
+  mémoire et monitoring IA type-safe : l'approche basée sur les annotatio
+ ns de LangChain4j élimine le code répétitif Fonctionnalités d'entrepri
+ se : modération de contenu\, mémoire persistante\, RAG et appel de fonct
+ ions Parfait pour : les développeurs Java souhaitant ajouter des capacit
+ és d'IA à leurs applications existantes\, les architectes concevant des 
+ systèmes d'IA conversationnelle\, et toute personne curieuse des modèles
+  d'intégration pratiques de l'IA. Démo en direct incluse : découvrez le
+  chatbot complet en action\, des réponses en écho basiques au service cl
+ ient intelligent avec récupération de documents et intégration de syst
+ èmes métier.\n\nCommunauté: bordeauxjug
 TZID:Europe/Paris
 URL:https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelli
  gent_avec_langchain4j
@@ -53,20 +92,18 @@ DTEND;TZID=Europe/Paris:20251120T205000
 UID:https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4@comm
  unity-events
 DESCRIPTION:🔗 https://bordeauxjug.org/meetings/20251120-Spring_Boot__Ch
- apitre_4\n📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, 33400 Tal
- ence\n\nSpring Boot 4.0 est prévu pour novembre prochain. Même si la bas
- eline reste toujours à Java 17\, c’est l’occasion idéale de profiter
-  des nouveautés du langage et du framework.\n\nStéphane commencera par m
- ettre à jour une application existante vers Spring Boot 4.0.\n\nEn chemin
- \, nous verrons comment éviter à l’avenir les NullPointerExceptions en
-  production grâce aux null checks ajoutés dans les projets Spring avec J
- Specify.\n\nNous en profiterons aussi pour revoir l’organisation des dé
- pendances : Spring Boot propose désormais des modules plus fins qui offre
- nt davantage de souplesse.\n\nL’intégration de Jackson 3.0 simplifie la
-  configuration et apporte des réglages plus modernes.\n\nEnfin\, nous dé
- couvrirons comment utiliser un RestClient dans des scénarios asynchrones\
- , sans avoir recours aux types réactifs.\n\nCommunauté: bordeauxjug
-LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, 33400 Talence
+ apitre_4\n\nSpring Boot 4.0 est prévu pour novembre prochain. Même si la
+  baseline reste toujours à Java 17\, c’est l’occasion idéale de prof
+ iter des nouveautés du langage et du framework.\n\nStéphane commencera p
+ ar mettre à jour une application existante vers Spring Boot 4.0.\n\nEn ch
+ emin\, nous verrons comment éviter à l’avenir les NullPointerException
+ s en production grâce aux null checks ajoutés dans les projets Spring av
+ ec JSpecify.\n\nNous en profiterons aussi pour revoir l’organisation des
+  dépendances : Spring Boot propose désormais des modules plus fins qui o
+ ffrent davantage de souplesse.\n\nL’intégration de Jackson 3.0 simplifi
+ e la configuration et apporte des réglages plus modernes.\n\nEnfin\, nous
+  découvrirons comment utiliser un RestClient dans des scénarios asynchro
+ nes\, sans avoir recours aux types réactifs.\n\nCommunauté: bordeauxjug
 TZID:Europe/Paris
 URL:https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4
 END:VEVENT
@@ -76,23 +113,21 @@ SUMMARY:Karate Connect : votre partenaire de combat dans l’arène des te
 DTSTART;TZID=Europe/Paris:20251016T190000
 DTEND;TZID=Europe/Paris:20251016T210000
 UID:https://www.meetup.com/bordeauxjug/events/311318217/@community-events
-DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/311318217/\n
- 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer · Talence\n\nJe trav
- aille sur une data pipeline basée initialement sur Kafka Stream et Snowfl
- ake. Les tests d’intégration utilisent l’outil Open Source [Kapoeira]
- (https://github.com/lectra-tech/kapoeira). Mais récemment\, la pipeline a
-  évolué pour intégrer DBT et se connecter à RabbitMQ et PostgreSQL.\n\
- nMais comment tester toutes ces API\, utilisant plusieurs protocoles (HTTP
- \, AMQP\, Kafka\, JDBC) ? Vous connaissez sans doute l’outil Open Source
-  [Karate](https://github.com/karatelabs/karate) pour tester vos API HTTP. 
- Il propose des extensions (RabbitMQ\, Kafka\, …)\, pas toujours simples 
- à utiliser ou en mode Closed Source sous licence payante.\n\nJe vous prop
- ose le partenaire idéal pour relever ce challenge : [Karate Connect](http
- s://github.com/lectra-tech/karate-connect)\, Open Source\, utilisant Karat
- e Core et gérant nativement plusieurs protocoles via ses extensions.\n\n
- Êtes-vous prêt à combattre dans l’arène des tests API ?\n\nCommunaut
- é: bordeauxjug
-LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer · Talence
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/311318217/\n\nJ
+ e travaille sur une data pipeline basée initialement sur Kafka Stream et 
+ Snowflake. Les tests d’intégration utilisent l’outil Open Source [Kap
+ oeira](https://github.com/lectra-tech/kapoeira). Mais récemment\, la pipe
+ line a évolué pour intégrer DBT et se connecter à RabbitMQ et PostgreS
+ QL.\n\nMais comment tester toutes ces API\, utilisant plusieurs protocoles
+  (HTTP\, AMQP\, Kafka\, JDBC) ? Vous connaissez sans doute l’outil Open 
+ Source [Karate](https://github.com/karatelabs/karate) pour tester vos API 
+ HTTP. Il propose des extensions (RabbitMQ\, Kafka\, …)\, pas toujours si
+ mples à utiliser ou en mode Closed Source sous licence payante.\n\nJe vou
+ s propose le partenaire idéal pour relever ce challenge : [Karate Connect
+ ](https://github.com/lectra-tech/karate-connect)\, Open Source\, utilisant
+  Karate Core et gérant nativement plusieurs protocoles via ses extensions
+ .\n\nÊtes-vous prêt à combattre dans l’arène des tests API ?\n\nComm
+ unauté: bordeauxjug
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/311318217/
 END:VEVENT
@@ -101,25 +136,23 @@ SUMMARY:Les super pouvoirs du package java.util.function
 DTSTART;TZID=Europe/Paris:20250612T190000
 DTEND;TZID=Europe/Paris:20250612T210000
 UID:https://www.bordeauxjug.org/@community-events
-DESCRIPTION:🔗 https://www.bordeauxjug.org/\n📍 ENSEIRB 1 Avenue du Do
- cteur Albert Schweitzer · Talence\n\nLe package `java.util.function` fêt
- era ses 11 ans en 2025 et force est de constater que malgré son omniprés
- ence dans nos développements\, son utilisation reste probablement sous-es
- timé et mal comprise.\n\nAvez-vous déjà utilisé ces classes comme para
- mètre de vos méthodes ? Avez-vous déjà utilisé leur capacité de comp
- osition ? Ne vous êtes vous jamais dit que cet héritage douteux entre de
- ux classes\, ne vous plait pas\, mais que faute de mieux\, il reste là ?\
- n\nSans pour autant abuser des concepts de programmation fonctionnelle\, n
- ous aimerions vous présenter pendant ce talk à travers de cas concrets\,
-  une utilisation plus avancée du package [java.util.function.](http://jav
- a.util.function./)\nFonctions anonymes\, d’ordre supérieur ou encore la
-  composition de fonctions\, toutes ces notions n’auront désormais plus 
- de secret pour vous et trouveront une place de choix dans votre boîte à 
- outils de refactoring.\n\nVous repartirez avec un dépôt git avant/après
-  en prime !\n\nPlus d'information sur le site du JUG : http://bordeauxjug.
- org/meetings/20260612-les_super_pouvoirs_du_package_java.util.function\n\n
- Communauté: bordeauxjug
-LOCATION:ENSEIRB 1 Avenue du Docteur Albert Schweitzer · Talence
+DESCRIPTION:🔗 https://www.bordeauxjug.org/\n\nLe package `java.util.fun
+ ction` fêtera ses 11 ans en 2025 et force est de constater que malgré so
+ n omniprésence dans nos développements\, son utilisation reste probablem
+ ent sous-estimé et mal comprise.\n\nAvez-vous déjà utilisé ces classes
+  comme paramètre de vos méthodes ? Avez-vous déjà utilisé leur capaci
+ té de composition ? Ne vous êtes vous jamais dit que cet héritage doute
+ ux entre deux classes\, ne vous plait pas\, mais que faute de mieux\, il r
+ este là ?\n\nSans pour autant abuser des concepts de programmation foncti
+ onnelle\, nous aimerions vous présenter pendant ce talk à travers de cas
+  concrets\, une utilisation plus avancée du package [java.util.function.]
+ (http://java.util.function./)\nFonctions anonymes\, d’ordre supérieur o
+ u encore la composition de fonctions\, toutes ces notions n’auront déso
+ rmais plus de secret pour vous et trouveront une place de choix dans votre
+  boîte à outils de refactoring.\n\nVous repartirez avec un dépôt git a
+ vant/après en prime !\n\nPlus d'information sur le site du JUG : http://b
+ ordeauxjug.org/meetings/20260612-les_super_pouvoirs_du_package_java.util.f
+ unction\n\nCommunauté: bordeauxjug
 TZID:Europe/Paris
 URL:https://www.bordeauxjug.org/
 END:VEVENT
@@ -143,7 +176,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/306640938/\n
  e **nouveau moteur avec découverte** de la syntaxe et du fonctionnement i
  nterne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meeti
  ngs/20250320-elasticsearch_query_language:_es_ql\n\nCommunauté: bordeauxj
- ug\n👥 4 participant(s)
+ ug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -167,8 +200,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/306640736/\n
  cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'
  AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à
   coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/me
- etings/20250313-assemble_generale_2025\n\nCommunauté: bordeauxjug\n👥 6
-  participant(s)
+ etings/20250313-assemble_generale_2025\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -204,7 +236,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/306028825/\n
   Tabby et Continue.dev — renforcent votre liberté et votre confidential
  ité\, tout en libérant votre potentiel créatif en matière de codage. R
  ejoignez-nous pour découvrir comment Tabby peut vous permettre de coder s
- ans limites.\n\nCommunauté: bordeauxjug\n👥 19 participant(s)
+ ans limites.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -234,7 +266,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/305522695/\n
  n d'images est un sujet assez vaste\, pouvant aller très loin\, d'autres 
  pistes comme le Garbage Collector (celui de Docker) et les bonnes pratique
  s d'écriture de DockerFile multistage pourraient être explorées.\n\nCom
- munauté: bordeauxjug\n👥 25 participant(s)
+ munauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -260,7 +292,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/304849722/\n
  grâce à **Graal VM.**\nVenez m'accompagner lors d'une **session de live 
  coding** permettant de mettre en lumière comment **créer une CLI en Java
  ** avec Picocli et Quarkus en partant de zéro !\n\nCommunauté: bordeauxj
- ug\n👥 14 participant(s)
+ ug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -278,7 +310,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/304423651/\n
  delà de la hype et des polémiques\,\nQuel est l'état de l'art sur le pl
  an technique ?\nQuels sont les concepts et pratiques clés pour tirer part
  i de la puissance des LLM dans nos applications ?\n\nCommunauté: bordeaux
- jug\n👥 27 participant(s)
+ jug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -303,7 +335,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/303769488/\n
  r les temps de démarrage.\nEt si vous veniez en développer une avec moi 
  et que nous mettions en oeuvre quelques uns de ces tours de magie ?\nVous 
  pourriez peut être aussi aimer ça et repartir avec quelques idées !\n\n
- Communauté: bordeauxjug\n👥 27 participant(s)
+ Communauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -329,7 +361,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/303373620/\n
  .\nJe ne prétends pas détenir la vérité absolue\, ce sont plutôt mes 
  réflexions au grès de mes expériences autour des APIs REST puis désorm
  ais Asynchrones que j'essaye de promouvoir auprès de clients et développ
- eurs.\n\nCommunauté: bordeauxjug\n👥 29 participant(s)
+ eurs.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -350,8 +382,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/302240218/\n
  ésitez pas à venir.\nAttention afin de pouvoir réserver\, la limite des
   inscriptions est fixée au 17 juillet à 14h.\nA fin de réserver le nomb
  re correcte\, Merci de vous inscrire si vous êtes sûr de venir et de dé
- commander si vous avez un empêchement.\n\nCommunauté: bordeauxjug\n👥 
- 6 participant(s)
+ commander si vous avez un empêchement.\n\nCommunauté: bordeauxjug
 LOCATION:Alcala\, Place Alcala de Henares\, 33400\, Talence\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/302240218/
@@ -371,8 +402,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/301614999/\n
  essifs et **la Foreign Memory API** qui permet de gérer plus finement la 
  mémoire et se débarrasser enfin de sun.misc.Unsafe. Donc au programme\, 
  un peu de slides pour les concepts\, et pas mal de live coding pour expér
- imenter le futur de Java.\n\nCommunauté: bordeauxjug\n👥 17 participant
- (s)
+ imenter le futur de Java.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -396,7 +426,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/301350591/\n
  how they are related to Java security\,** come to this session and I will 
  explain it to you. It will also be shown what tools are available to you t
  o check whether your Java application is vulnerable to known issues\n\nCom
- munauté: bordeauxjug\n👥 10 participant(s)
+ munauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -434,8 +464,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/300982636/\n
  tique "au build".\nCette conférence a pour but de vous faire changer d’
  avis sur l’état d’esprit à avoir pour être un bon développeur en 2
  024 et arrêter de focaliser sur des frameworks mais avoir vraiment une vi
- sion à 360° du travail.\n\nCommunauté: bordeauxjug\n👥 16 participant
- (s)
+ sion à 360° du travail.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -462,8 +491,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/299990747/\n
  sont réellement reproductibles : vous verrez\, ce travail est riche d'ens
  eignements utiles bien au delà de la sécurité.\nAttention: si vous dorm
  ez pendant la session\, vous aurez une sale note au quizz final permettant
-  de vérifier les compétences acquises...\n\nCommunauté: bordeauxjug\n
- 👥 17 participant(s)
+  de vérifier les compétences acquises...\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -489,7 +517,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/299719481/\n
  n œuvre\, les différentes possibilités d’implémentation ainsi que le
  urs contraintes.\nA l’issue de cette présentation\, nous aurons une vue
   complète et objective des manières d’appréhender le versioning d’A
- PIs.\n\nCommunauté: bordeauxjug\n👥 24 participant(s)
+ PIs.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -512,7 +540,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/299601637/\n
   verser votre obole**Vérifier que vous êtes à jour au niveau des cotisa
  tions sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pou
  r pouvoir voter !\nLe lieu exacte de l'assemblée est le 1er étage à cot
- é des salles de TD\n\nCommunauté: bordeauxjug\n👥 10 participant(s)
+ é des salles de TD\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -544,7 +572,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/298948411/\n
  couvrir comment un framework de PBT peut transformer l'approche de test da
  ns les projets de développement. Enfin\, le cas pratique avec **jqwik** s
  ervira d'exemple tangible pour mettre en application les concepts théoriq
- ues discutés.!\n\nCommunauté: bordeauxjug\n👥 16 participant(s)
+ ues discutés.!\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -572,7 +600,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/298313430/\n
  la génération d'histoires pour enfants\, la synthèse du contenu\, l'ext
  raction de mots-clés ou d'entités\, et plus encore.\nEt nous plongerons 
  dans les possibilités offertes par le **framework LangChain4J** pour les 
- développeurs Java !\n\nCommunauté: bordeauxjug\n👥 34 participant(s)
+ développeurs Java !\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -612,8 +640,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/297384459/\n
  nfin d'une adoption pragmatique des threads virtuels au sein de projets\, 
  en vue d'une mise en production. Rejoignez-nous pour cette passionnante se
  ssion d'exploration qui nous éclairera sur cette virtualité si attendue 
- et devenue bien réelle avec **Java 21**.\n\nCommunauté: bordeauxjug\n
- 👥 14 participant(s)
+ et devenue bien réelle avec **Java 21**.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -634,8 +661,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/296632690/\n
   de machine learning et comment vous pouvez l'utiliser* Comment utiliser l
  a recherche vectorielle ou la recherche hybride dans Elasticsearch* Commen
  t ChatGPT d'OpenAI ou les "large language models" (LLMs) similaires vienne
- nt jouer naturellement avec Elastic\n\nCommunauté: bordeauxjug\n👥 21 p
- articipant(s)
+ nt jouer naturellement avec Elastic\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -657,7 +683,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/294526561/\n
  \, la limite des inscriptions est fixée au 05 juillet à 14h.\nA fin de r
  éserver le nombre correcte\, Merci de vous inscrire si vous êtes sûr de
   venir et de décommander si vous avez un empêchement.\n\nCommunauté: bo
- rdeauxjug\n👥 5 participant(s)
+ rdeauxjug
 LOCATION:Yamato\, 20 All. du 7ème art\, Talence\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/294526561/
@@ -676,7 +702,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/293890281/\n
  rsionnée sous Git et Ansible devient votre meilleur ami.\nAu programme : 
  présentation de Ansible\, ansible-pull\, ansible-galaxy\, démo de réins
  tallation du poste en quelques minutes seulement..\n\nCommunauté: bordeau
- xjug\n👥 24 participant(s)
+ xjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -702,7 +728,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/292991518/\n
  te étape est d'autant plus importante que demain le code sera généré t
  out autant par des humains que par des bots autonomes.\nPlus d'information
  s sur [http://www.bordeauxjug.org](le site du BordeauxJUG)\n\nCommunauté:
-  bordeauxjug\n👥 13 participant(s)
+  bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -722,8 +748,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/292473540/\n
  es.\nUne nouvelle solution apparait dans le paysage de la JVM. C'est **CRa
  C** pour **Coordinated Restore at Checkpoint.** Regardons ensemble comment
   cela fonctionne et les avantages.\nPlus d'informations sur le [site de vo
- tre JUG](http://www.bordeauxjug.org/)\n\nCommunauté: bordeauxjug\n👥 13
-  participant(s)
+ tre JUG](http://www.bordeauxjug.org/)\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -746,7 +771,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/292117139/\n
   verser votre obole**Vérifier que vous êtes à jour au niveau des cotisa
  tions sur la page [Membres](http://www.bordeauxjug.org/members) avant l'AG
   pour pouvoir voter !\nLe lieu exacte de l'assemblée est le 1er étage à
-  coté des salles de TD\n\nCommunauté: bordeauxjug\n👥 4 participant(s)
+  coté des salles de TD\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -767,7 +792,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/291725364/\n
  e\, compatible Java\, Kotlin & Scala\, qui va vous permettre de vous simpl
  ifier la vie et d'améliorer votre code... et même de découvrir de super
   fonctionnalités SQL que vous n'imaginiez même pas..\n\nCommunauté: bor
- deauxjug\n👥 10 participant(s)
+ deauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -795,7 +820,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/290213190/\n
  imples) permet une écriture proche d'un DSL où on se laisse guider par l
  'autocomplétion de l'IDE sans jamais avoir à taper un nom de classe\, da
  ns des structures arborescentes et polymorphiques proposant parfois plus d
- e 50 variantes.\n\nCommunauté: bordeauxjug\n👥 12 participant(s)
+ e 50 variantes.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -833,8 +858,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/289013582/\n
  t être partagées entre différents projets\, même s'ils utilisent des o
  utils de build différent ! Cerise sur le gâteau\, nous montrerons commen
  t les images natives peuvent bénéficier de ce mécanisme.\nPlus d'inform
- ations sur http://www.bordeauxjug.org\n\nCommunauté: bordeauxjug\n👥 11
-  participant(s)
+ ations sur http://www.bordeauxjug.org\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -859,7 +883,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/288362719/\n
  \, construite sur la notion de scope. Nous couvrirons ces deux sujets.\nPe
  u de slides dans cette présentation\, beaucoup de code afin de comprendre
   la façon dont **Loom** va révolutionner l'écriture de code asynchrone\
- n\nCommunauté: bordeauxjug\n👥 24 participant(s)
+ n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -885,7 +909,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/286319172/\n
  kus** et suivie d'une séance de questions.\nVous ne connaissez pas Kafka\
  , la programmation réactive ou le système de surveillance ADS-B ? Pas de
   panique\, cette session restera accessible aux débutants. Alors venez no
- mbreux !\n\nCommunauté: bordeauxjug\n👥 18 participant(s)
+ mbreux !\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -929,8 +953,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/285941366/\n
  pose* Votre IDE préféré* Cloner ce répertoire github : https://github.
  com/vgallet/workshop-kafka-streams* Lancer un docker-compose up à la raci
  ne afin de télécharger les images docker* Faire un mvn clean compile afi
- n de récupérer les dépendances\n\nCommunauté: bordeauxjug\n👥 7 part
- icipant(s)
+ n de récupérer les dépendances\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -960,7 +983,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/285680552/\n
  (Long Running Action). Un exemple concret basé sur MicroProfile et le fra
  mework Eventuate Tram vous permettra de les appréhender et de choisir la 
  bonne option pour votre prochain projet microservices\n\nCommunauté: bord
- eauxjug\n👥 16 participant(s)
+ eauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -995,7 +1018,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/284935523/\n
   fin de ce talk\, vous aurez les différents éléments pour savoir si vou
  s avez besoin développer un opérateur\, comment le développer\, et choi
  sir entre le faire en Java ou dans un autre langage !\n\nCommunauté: bord
- eauxjug\n👥 10 participant(s)
+ eauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1031,7 +1054,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/284773930/\n\nR
  soin de valider les payloads des APIs et des Événements?* Pourquoi ca ne
   marche pas avec les technologies classiques (json-schema par exemple)* Pr
  esentation du projet Nav Schema Architecture (FOSS)\n\nCommunauté: bordea
- uxjug\n💻 Événement en ligne\n👥 27 participant(s)
+ uxjug\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/284773930/
 END:VEVENT
@@ -1054,7 +1077,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/284450934/\n
  'hésitez donc pas à verser votre obole**.\nVérifier que vous êtes à j
  our au niveau des cotisations sur la page [http://www.bordeauxjug.org/memb
  ers](http://www.bordeauxjug.org/members) avant l'AG pour pouvoir voter !\n
- \nCommunauté: bordeauxjug\n👥 5 participant(s)
+ \nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1080,7 +1103,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/282476863/\n
  ls que la certification et l'horodatage d'informations numériques\, la cr
  éation de jetons (token) fongibles et non fonglibles (NFT) et décrirons 
  comment nous avons pu aider Votelab (votelab.io) à lever plus de 3 M€ e
- n 7 jours\n\nCommunauté: bordeauxjug\n👥 26 participant(s)
+ n 7 jours\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1108,7 +1131,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/281736541/\n
  oins vers où je pense que nous\, la core team de Java\, voulons aller.\nP
  rogramme\n18h50 Accueil des participants\n19h00 News du JUG et news du mon
  de Java\n19h et des brouettes : La présentation de Rémi : Java 17\n21h00
-  Buffet\n\nCommunauté: bordeauxjug\n👥 38 participant(s)
+  Buffet\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1137,8 +1160,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/280673402/\n\nT
  poussiérer vos classiques !\nAh et on aura également des goodies … com
  me des T-Shirts de la tournée peut-être?\nAllez\, Time to rock the Java 
  world 2021 style…\nPlus d'informations sur le http://www.bordeauxjug.org
- /\n\nCommunauté: bordeauxjug\n💻 Événement en ligne\n👥 27 particip
- ant(s)
+ /\n\nCommunauté: bordeauxjug\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/280673402/
 END:VEVENT
@@ -1159,7 +1181,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/279257003/\n
  itez pas à venir.\nA fin de réserver le nombre correcte\, Merci de vous 
  inscrire si vous êtes sûr de venir et de décommander si vous avez un em
  pêchement. La date limite d'inscription est jeudi 08/07 à 12h.\n\nCommun
- auté: bordeauxjug\n👥 7 participant(s)\nLimité à 10 places
+ auté: bordeauxjug
 LOCATION:Alcala\, Place Alcala de Henares\, 33400\, Talence\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/279257003/
@@ -1184,8 +1206,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/278914207/\n\nP
  nLiberty\, Payara\, KumuluzEE\, TomEE\, Helidon ...- GraalVM et les promes
  ses du mode natif.\nLa présentation sera basée sur quelques slides\, une
   démo inspirée d'un cas réel et des résultats de benchmarks récents.\
- n\nCommunauté: bordeauxjug\n💻 Événement en ligne\n👥 35 participan
- t(s)
+ n\nCommunauté: bordeauxjug\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/278914207/
 END:VEVENT
@@ -1203,7 +1224,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/278050081/\n\nG
  l'objectif d'avoir à l'issue de la session les bases nécessaires à lire
   et commencer à écrire des builds Gradle.\nPlus d'informations sur notre
   site https://www.bordeauxjug.org\n\nCommunauté: bordeauxjug\n💻 Évén
- ement en ligne\n👥 43 participant(s)
+ ement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/278050081/
 END:VEVENT
@@ -1227,7 +1248,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/277451860/\n\nJ
  ndre leurs intérêts.\nCela va transformer votre manière de coder et vou
  s vous demanderez après comment vous avez fait sans.\nVenez me rejoindre 
  !\nPlus d'information sur le site du JUG : http://www.bordeauxjug.org\n\nC
- ommunauté: bordeauxjug\n💻 Événement en ligne\n👥 72 participant(s)
+ ommunauté: bordeauxjug\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/277451860/
 END:VEVENT
@@ -1247,7 +1268,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/277008416/\n\nL
  nnée pourront prendre part aux votes\, et notamment à l'élection du fut
  ur bureau.\nN'hésitez donc pas à verser votre obole sur http://www.borde
  auxjug.org/members avant l'AG pour pouvoir voter !\n\nCommunauté: bordeau
- xjug\n💻 Événement en ligne\n👥 12 participant(s)
+ xjug\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/277008416/
 END:VEVENT
@@ -1270,8 +1291,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/276719004/\n\nD
  0.1* Generation d'une entité en passant par le formulaire en CLI* L'utili
  sation du JDL (JHipster Description Language) pour aller encore plus vite-
   Comment aller plus loin- Le futur.\nMore information on http://www.bordea
- uxjug.org\n\nCommunauté: bordeauxjug\n💻 Événement en ligne\n👥 59 
- participant(s)
+ uxjug.org\n\nCommunauté: bordeauxjug\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/276719004/
 END:VEVENT
@@ -1295,7 +1315,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/276178510/\n\nH
  s\, you will be able to enjoy Hibernate’s developer productivity and pro
  vide a blazingly fast experience to your users.\nMore information on http:
  //www.bordeauxjug.org\n\nCommunauté: bordeauxjug\n💻 Événement en lig
- ne\n👥 51 participant(s)
+ ne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/276178510/
 END:VEVENT
@@ -1322,7 +1342,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/275773605/\n\nT
   your questions and ideas so we can discuss and exchange about the potenti
  al of these open-source projects in the data space!\nMore information on h
  ttp://bordeauxjug.org\n\nCommunauté: bordeauxjug\n💻 Événement en lig
- ne\n👥 43 participant(s)
+ ne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/275773605/
 END:VEVENT
@@ -1340,7 +1360,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/275058477/\n\nW
   can help you in each one of those areas and how to configure it.\nHint: i
  t’s much easier than one would expect\nPlus d'informations sur le site h
  ttp://www.bordeauxjug.org/\n\nCommunauté: bordeauxjug\n💻 Événement e
- n ligne\n👥 41 participant(s)
+ n ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/275058477/
 END:VEVENT
@@ -1364,8 +1384,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/274507026/\n\nT
  hy\, no restarts required. Create your own customized Layrry launcher if n
  eeded\nThis session is code-centered\, be ready to see the Java Module Sys
  tem\, Layrry\, and JavaFX in action!\n-- Session in English / Session en a
- nglais\n\nCommunauté: bordeauxjug\n💻 Événement en ligne\n👥 38 par
- ticipant(s)
+ nglais\n\nCommunauté: bordeauxjug\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/274507026/
 END:VEVENT
@@ -1385,8 +1404,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/273864451/\n\nL
  possède déjà des tests de performance\, comme des tirs de charge\, vous
   verrez comment les tests QuickPerf peuvent les compléter et vous faire g
  agner du temps\nPlus d'informations sur le site de votre JUG (http://www.b
- ordeauxjug.org)\n\nCommunauté: bordeauxjug\n💻 Événement en ligne\n
- 👥 36 participant(s)
+ ordeauxjug.org)\n\nCommunauté: bordeauxjug\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/273864451/
 END:VEVENT
@@ -1406,7 +1424,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/272912566/\n\nC
   pipeline\n- Manage the lifecycle of your application in a Kubernetes envi
  ronment with Probes\nAnd more!\nPlus d'informations sur le site de votre J
  UG (http://www.bordeauxjug.org)\n\nCommunauté: bordeauxjug\n💻 Événem
- ent en ligne\n👥 61 participant(s)
+ ent en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/272912566/
 END:VEVENT
@@ -1427,7 +1445,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/271759227/\n
  cription est limité à 10.\nA fin de réserver le nombre correcte\, Merci
   de vous inscrire si vous êtes sûr de venir et de décommander si vous a
  vez un empêchement. La date limite d'inscription est jeudi 09/07 à 12h.\
- n\nCommunauté: bordeauxjug\n👥 4 participant(s)\nLimité à 10 places
+ n\nCommunauté: bordeauxjug
 LOCATION:Alcala\, Place Alcala de Henares\, 33400\, Talence\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/271759227/
@@ -1447,7 +1465,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/271338389/\n\nA
  til utile qui peut aider à résoudre des problèmes lors de l'exécution 
  d'application dans un JVM.\nPlus d'informations sur le site de votre JUG (
  http://www.bordeauxjug.org)\n\nCommunauté: bordeauxjug\n💻 Événement 
- en ligne\n👥 25 participant(s)
+ en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/271338389/
 END:VEVENT
@@ -1472,7 +1490,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/270786885/\n\nF
  arkus and OptaPlanner. It 'll generate the perfect lesson schedule\, for b
  oth students and teachers.\nPlus d'informations sur le site de votre JUG (
  http://www.bordeauxjug.org)\n\nCommunauté: bordeauxjug\n💻 Événement 
- en ligne\n👥 36 participant(s)
+ en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/270786885/
 END:VEVENT
@@ -1494,7 +1512,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/270182876/\n\nL
  à de "simples" primitives et peut nous amener jusqu'à révolutionner la 
  concurrence sur la JVM.\nPlus d'informations sur le site de votre JUG (htt
  p://www.bordeauxjug.org)\n\nCommunauté: bordeauxjug\n💻 Événement en 
- ligne\n👥 43 participant(s)
+ ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/270182876/
 END:VEVENT
@@ -1525,7 +1543,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/268624020/\n
  onnées PostgreSQL\, mais les principes s'appliquent à n'importe quel lan
  gage et à la plupart des bases de données relationnelles.\nPlus d'inform
  ation sur le site du BordeauxJUG (http://www.bordeauxjug.org/)\n\nCommunau
- té: bordeauxjug\n👥 40 participant(s)
+ té: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1564,7 +1582,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/267666612/\n
  erprise Edition avec des chiffres concrets.\nProgramme\n18h50 Accueil des 
  participants\n19h00 News du JUG et news du monde Java\n19h10 Support Kotli
  n dans Spring\, suivi de Spring boot avec GraalVM\n21h00 Buffet\n\nCommuna
- uté: bordeauxjug\n👥 46 participant(s)
+ uté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1588,7 +1606,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/267863950/\n
  ette année pourront prendre part aux votes\, et notamment à l'élection 
  du futur bureau.\nN'hésitez donc pas à verser votre obole sur http://www
  .bordeauxjug.org/members avant l'AG pour pouvoir voter !\n\nCommunauté: b
- ordeauxjug\n👥 6 participant(s)
+ ordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1630,7 +1648,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/266994044/\n
  res de la communauté d'experts Orange\, et animent régulièrement en int
  erne des talks\, webinars et autres retours d'expérience sur des sujets v
  ariés tels que l'architecture logicielle et le développement Android/iOS
- /Web.\n\nCommunauté: bordeauxjug\n👥 30 participant(s)
+ /Web.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1653,7 +1671,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/266232132/\n
  on avec plusieurs exemples de problèmes connus de tout le monde (ou presq
  ue)\, pour finir par un cas plus complexe sur lequel j’ai travaillé."\n
  Plus d'informations sur le site du JUG : http://www.bordeauxjug.org/\n\nCo
- mmunauté: bordeauxjug\n👥 31 participant(s)
+ mmunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1684,7 +1702,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/265368300/\n
  session\, cette discussion n’est en rien spécifique à Java et est appl
  icable à tous les langages tournant sur la JVM\, Kotlin\, Groovy\, Scala\
  , etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.or
- g/\n\nCommunauté: bordeauxjug\n👥 43 participant(s)
+ g/\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1710,8 +1728,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/263399748/\n
  .\nVenez explorer :\n- le live reload\,\n- notre vision de la persistance 
  avec Hibernate Panache\,\n- l'environnement de test\,\n- la compilation na
  tive\n- GraalVM et bien plus.\nQuarkus se vit plus qu'il ne se verbalise\,
- attendez-vous à une démo détaillée.\n\nCommunauté: bordeauxjug\n👥 
- 78 participant(s)
+ attendez-vous à une démo détaillée.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1733,7 +1750,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/262595991/\n
  r réserver\, la limite des inscriptions est fixée au 10 juillet à 14h.\
  nA fin de réserver le nombre correcte\, Merci de vous inscrire si vous ê
  tes sûr de venir et de décommander si vous avez un empêchement.\n\nComm
- unauté: bordeauxjug\n👥 12 participant(s)
+ unauté: bordeauxjug
 LOCATION:Alcala\, Place Alcala de Henares\, 33400\, Talence\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/262595991/
@@ -1752,7 +1769,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/261789353/\n
  antages en illustrant les patterns tactiques Value Object\, Entity et Aggr
  egate et en précisant leur lien avec l'architecture hexagonale\nPlus d'in
  formations sur le site du JUG : http://www.bordeauxjug.org/\n\nCommunauté
- : bordeauxjug\n👥 53 participant(s)
+ : bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1773,7 +1790,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/261250540/\n
  nger de JDK. Nous verrons les nouveautés\, les points d'attention.\nEn cl
  air\, tout ce que vous devez savoir pour commencer ou migrer votre projet 
  en Java 11 en douceur.\nPlus d'informations sur le site du JUG : http://ww
- w.bordeauxjug.org/\n\nCommunauté: bordeauxjug\n👥 39 participant(s)
+ w.bordeauxjug.org/\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1794,7 +1811,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/260351006/\n
  r répondre à ces questions !\nAu programme:\nde l'AWS (SNS/SQS\, Kinesis
  )\,\ndu Kotlin\,\ndu monitoring (Elastic stack)\,\net bien plus !\nPlus d'
  informations sur le site du http://www.bordeauxjug.org\n\nCommunauté: bor
- deauxjug\n👥 45 participant(s)
+ deauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1820,8 +1837,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/259556423/\n
  .\nDans cette présentation\, nous utiliserons JHipster pour générer des
   microservices et leur configuration de déploiement\, ce qui nous permett
  ra de délivrer rapidement un PoC d'architecture complet.\nPlus d'informat
- ions sur le site http://www.bordeauxjug.org\n\nCommunauté: bordeauxjug\n
- 👥 57 participant(s)
+ ions sur le site http://www.bordeauxjug.org\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1851,7 +1867,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/258695264/\n
  u prochain changement d'heure.\nCe talk est accessible à tous et ne se fo
  calisera pas sur un langage / une API en particulier : les concepts préva
  udront sur le code\nPlus d'informations sur le site http://www.bordeauxjug
- .org\n\nCommunauté: bordeauxjug\n👥 34 participant(s)
+ .org\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1896,7 +1912,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/257938877/\n
  vous propose un petit livecoding entre-amis afin d'appréhender cette appr
  oche de développement orienté composant.\nÇa va darter !!\nPlus d'infor
  mations sur le site du JUG (http://www.bordeauxjug.org)\n\nCommunauté: bo
- rdeauxjug\n👥 43 participant(s)
+ rdeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1920,7 +1936,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/257862112/\n
  ette année pourront prendre part aux votes\, et notamment à l'élection 
  du futur bureau.\nN'hésitez donc pas à verser votre obole sur http://www
  .bordeauxjug.org/members avant l'AG pour pouvoir voter !\n\nCommunauté: b
- ordeauxjug\n👥 9 participant(s)
+ ordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1959,7 +1975,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/257016263/\n
   composants interopérables plug and play pour vos applications qui montre
  nt encore une fois l'intérêt de cette révolution des web components.\nP
  lus d'informations sur le site du JUG (http://www.bordeauxjug.org)\n\nComm
- unauté: bordeauxjug\n👥 42 participant(s)
+ unauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -1978,8 +1994,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/256161168/\n
  découvrir les principaux composants comme Kafka Streams\, KSQL\, Kafka Co
  nnect\, Rest proxy\, Schema Registry\, MirrorMaker\, etc.\nVenez avec vos 
  questions\, plus la session sera interactive\, meilleure elle sera !\nPlus
-  d'informations sur le site du JUG\n\nCommunauté: bordeauxjug\n👥 48 pa
- rticipant(s)
+  d'informations sur le site du JUG\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2005,8 +2020,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/255244535/\n
  kin) permet même aux personnes aux notions basiques en développement de 
  venir couvrir vos APIs ou Web services (micros\, nanos ou pas!)\nIl n'y a 
  plus Karate\, ehm\, pardon... qu'à réussir ses tests d'intégration !\nP
- lus d'informations sur le site du JUG\n\nCommunauté: bordeauxjug\n👥 40
-  participant(s)
+ lus d'informations sur le site du JUG\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2039,7 +2053,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/254457225/\n
   méritera une nouvelle version : Maven 5.Pourquoi pas 4 ? Quelle est cett
  e évolution ?Et comment l'équipe Maven va t'elle faire pour conserver la
   stabilité à laquelle on était habitués\, malgré ce grand changement 
- ?.\n\nCommunauté: bordeauxjug\n👥 50 participant(s)
+ ?.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2058,7 +2072,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/252304027/\n
  ire un point sur le BordeauxJUG donc n'hésitez pas à venir.\nAttention a
  fin de pouvoir réserver\, la limite des inscriptions est fixée le 11 jui
  llet à 14hNe vous inscrivez uniquement si vous compter venir.\n\nCommunau
- té: bordeauxjug\n👥 8 participant(s)
+ té: bordeauxjug
 LOCATION:Alcala\, Place Alcala de Henares\, 33400\, Talence\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/252304027/
@@ -2084,7 +2098,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/251623732/\n
  util et de ce qu'il propose. Nous poursuivrons par voir toujours avec des 
  démonstrations comment sécuriser d'autres types applications comme un se
  rvices web\, une application Angular (Il n'y pas que Java dans la vie \;-)
- \n\nCommunauté: bordeauxjug\n👥 45 participant(s)
+ \n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2125,8 +2139,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/250558478/\n
  é\, nous vous proposons un aperçu assez complet sur ces technologies : l
  es grands principes et concepts\, les problématiques courantes\, et quelq
  ues applications que nous avons déployées en production. Tout ça dans l
- a joie et la bonne humeur :-)\n\nCommunauté: bordeauxjug\n👥 94 partici
- pant(s)
+ a joie et la bonne humeur :-)\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2150,7 +2163,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/249581959/\n
  ntation générale à Vert.x et au Réactif puis enchaînera sur une intro
  duction à la programmation réactive avec RxJava 2 et Vert.x\nPlus d'info
  rmations\, sur le site du JUG (http://www.bordeauxjug.org/)\n\nCommunauté
- : bordeauxjug\n👥 48 participant(s)
+ : bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2174,7 +2187,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/248955519/\n
  .\nDifférents outils seront présentés : lignes de commande\, GC Viewer\
  , Java Mission Control\, Memory Analyzer Tool\, JOverflow et quelques autr
  es.\nPlus d'informations\, sur le site du JUG (http://www.bordeauxjug.org/
- )\n\nCommunauté: bordeauxjug\n👥 29 participant(s)
+ )\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2196,7 +2209,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/247490956/\n
  Ingress\, ConfigMap\, Secret\, ...)\nL'intérêt est de pouvoir déployer 
  des microservices de technologies hétérogènes\, non limitées à Java /
   Spring.\nQuelques slides et beaucoup de démos au programme !\n\nCommunau
- té: bordeauxjug\n👥 67 participant(s)
+ té: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2223,7 +2236,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/246724353/\n
  abinout\n´ Les technos : Java 8 (beaucoup)\, AssertJ (un peu)\, et Intell
  iJ IDEA.\nLe déroulé du live coding :- Présentation du contexte métier
  - Parcours du code- Écriture du test end-to-end de l'application\n... Et 
- c'est parti\n\nCommunauté: bordeauxjug\n👥 39 participant(s)
+ c'est parti\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2244,7 +2257,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/245811130/\n
  t un don ou ayant souscrit au BordeauxJUG cette année pourront prendre pa
  rt aux votes\, et notamment à l'élection du futur bureau.\nN'hésitez do
  nc pas à verser votre obole sur http://bordeauxjug.org/asso avant l'AG po
- ur pouvoir voter !\n\nCommunauté: bordeauxjug\n👥 5 participant(s)
+ ur pouvoir voter !\n\nCommunauté: bordeauxjug
 LOCATION:Alcala\, Place Alcala de Henares\, 33400\, Talence\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/245811130/
@@ -2264,7 +2277,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/245214238/\n
   pas à venir\, vous ne serez pas en "REST"\, GraphQL est indépendant du 
  langage....\nLightning Talk : Frédéric Denis viendra nous présenter la 
  programmation orientée objet sur Arduino.\nPlus d'informations sur le si
- te du JUG\n\nCommunauté: bordeauxjug\n👥 61 participant(s)
+ te du JUG\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2289,8 +2302,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/244964590/\n
  ée à ne pas pouvoir évoluer. Coder proprement c'est produire un code li
  sible\, efficace et facilement modifiable. Une application avec un code pr
  opre peut évoluer rapidement et ainsi satisfaire ses utilisateurs sur le 
- long terme.\nPlus d'informations sur le site\n\nCommunauté: bordeauxjug\
- n👥 102 participant(s)
+ long terme.\nPlus d'informations sur le site\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2313,7 +2325,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/243960460/\n
  s le cloud AWS.\nSi vous vous demandez comment coder une applicationrobust
  e\, testée\, scalable en vous concentrant sur lesfonctionnalités et non 
  l'infrastructure\, cette conférenceest faite pour vous :)\nPlus d'informa
- tions sur le site\n\nCommunauté: bordeauxjug\n👥 78 participant(s)
+ tions sur le site\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2335,8 +2347,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/243122966/\n
  s. Nous étudierons comment la modularité se retrouve dans le JDK et nos 
  applications. Nous verrons quels problèmes ça résout et quels nouveaux 
  problèmes ça pose. \nIl va falloir penser différemment les dépendance
- s et l'encapsulation\, préparons-nous.\n\nCommunauté: bordeauxjug\n👥 
- 88 participant(s)
+ s et l'encapsulation\, préparons-nous.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2353,7 +2364,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/241343292/\n
  mment de la session qui aura eu lieu juste avant\, et de faire un point su
  r le BdxJUG donc n'hésitez pas à venir.\nAttention afin de pouvoir rése
  rver\, la limite des inscriptions est à 14hne vous inscriver que si vous 
- compter venir.\n\nCommunauté: bordeauxjug\n👥 6 participant(s)
+ compter venir.\n\nCommunauté: bordeauxjug
 LOCATION:Alcala\, Place Alcala de Henares\, 33400\, Talence\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/241343292/
@@ -2380,7 +2391,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/241198031/\n
  our Java programming skills to connect it to the IoT Cloud. Start building
   the future now with Java 9 Embedded technology!\nLa conférence sera en a
  nglais.\nPlus d'informations sur le site du JUG.\n\nCommunauté: bordeauxj
- ug\n👥 46 participant(s)
+ ug
 LOCATION:LABRI\, Domaine universitaire\, 351\, cours de la Libération\, 3
  3405 Talence\, Talence\, France
 TZID:Europe/Paris
@@ -2420,7 +2431,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/240754591/\n
  ont les principes de ces architectures\, quels en sont les avantages tant 
  techniques que métiers dans des cas d'utilisation concrets et comment les
   mettre en œuvre quels que soient les environnements techniques.\n\nCommu
- nauté: bordeauxjug\n👥 62 participant(s)
+ nauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2458,7 +2469,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/240460871/\n
  , Alibaba\, Ericsson\, King\, Zalando\, et bien d'autres\, supporté par l
  a société Data Artisans et une communauté de plus de 140 contributeurs.
  \nPlus d'informations sur l'annonce du site du JUG.\n\nCommunauté: bordea
- uxjug\n👥 47 participant(s)
+ uxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2487,7 +2498,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/239283917/\n
  nCe talk parlera également de l'API de réindexation qui peut également 
  bénéficier du pipeline d'ingestion pour modifier vos données à la vol
  ée lors de la réindexation.\n.\nPlus d'informations sur le site du JUG\n
- \nCommunauté: bordeauxjug\n👥 58 participant(s)
+ \nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2515,7 +2526,6 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/238993162/\n
   et nous essaierons d'avoir une "living documentation"\, qui soit une docu
  mentation vivante et capable d'évoluer automatiquement lorsque le code é
  volue.\nPlus d'informations sur le site du JUG\n\nCommunauté: bordeauxjug
- \n👥 44 participant(s)
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2549,7 +2559,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/238356406/\n
   migrerons du code JS en TS pour identifier les bienfaits apportés par le
   langage : types (classes/interfaces)\, modules\, closures\, immutabilité
  \, paramètres optionnels\, union types\, complétion\, doc implicite\n\nC
- ommunauté: bordeauxjug\n👥 87 participant(s)
+ ommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2579,7 +2589,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/236351273/\n
  et Reactive basée sur Reactor Netty- L'utilisation de MongoDB via une API
   Reactive- Un fichier de build Gradle écrit également en Kotlin\nCe talk
   est accessible à tout java-iste et même si vous ne connaissez pas Kotli
- n. Ca vous tente ?\n\nCommunauté: bordeauxjug\n👥 75 participant(s)
+ n. Ca vous tente ?\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2607,8 +2617,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/235866651/\n
  emples concrets (pour ne pas dire "live coding")\, de comprendre comment f
  onctionnent les mécanismes d'enregistrement et de découverte de microser
  vices sur une plateforme de plus en plus dynamique avec les outils Docker 
- (Network\, Docker-Compose\, Swarmkit\, ...)\n\nCommunauté: bordeauxjug\n
- 👥 121 participant(s)
+ (Network\, Docker-Compose\, Swarmkit\, ...)\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2630,7 +2639,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/235866508/\n
   BordeauxJUG cette année pourront prendre part aux votes\, et notamment 
  à l'élection du futur bureau.\nN'hésitez donc pas à verser votre obole
   sur http://bordeauxjug.org/asso avant l'AG pour pouvoir voter !\n\nCommun
- auté: bordeauxjug\n👥 10 participant(s)
+ auté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2650,8 +2659,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/235485040/\n
  be dans une chaine de développement pour détecter en continue les probl
  èmes de fiabilité\, maintenabilité et sécurité. La présentation s'ap
  puiera sur des exemples de code source Java\, JavaScript\, C# et C.\nPlus 
- d'informations sur le site du JUG\n\nCommunauté: bordeauxjug\n👥 64 par
- ticipant(s)
+ d'informations sur le site du JUG\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2682,7 +2690,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/234702577/\n
  rez beaucoup de code et de belles démos s'exécutant sur un Mac\, un Wind
  ows .... et dans le Cloud!\nhttps://lh3.googleusercontent.com/GOpJJ3lEsTBB
  aQWZSiYNM1RJL9k9viBrV18AjgGh2Y7V1TO6d_-_TlKDfXGOBSIUwredEsq_PpuI0A=w1440-h
- 900-rw-no\n\nCommunauté: bordeauxjug\n👥 153 participant(s)
+ 900-rw-no\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2707,7 +2715,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/233895791/\n
   caméra ou développer sa propre version de Pokemon GO!\nVenez découvrir
   comment créer des applications mobiles hybrides avec Ionic et découvrir
   le futur d'Ionic avec la version 2 s'appuyant sur Angular 2.\n\nCommunaut
- é: bordeauxjug\n👥 66 participant(s)
+ é: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2724,8 +2732,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/232348696/\n
  delais autour d'un verre et d'un repas.\nMardi 5 Juillet\, venez nous rejo
  indre afin de discuter : développement java\, web\, cloud\, jug.\nMerci d
  e vous inscrire si vous venez pour que l'on ait une idée du nombre de tab
- les à prévoir.\nA bientôt!\n\nCommunauté: bordeauxjug\n👥 3 particip
- ant(s)
+ les à prévoir.\nA bientôt!\n\nCommunauté: bordeauxjug
 LOCATION:The Connemara\, 14-18 Cours Albret\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/232348696/
@@ -2751,7 +2758,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/231401974/\n
   applications Java ainsi que la plupart des fonctionnalités de l'IDE (deb
  ugger\, java refactoring). Nous terminerons par l'introduction du plugin D
  evOps qui permet d'intégrer Che dans vos workflows de continuous delivery
- .\nVenez nombreux\n\nCommunauté: bordeauxjug\n👥 51 participant(s)
+ .\nVenez nombreux\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2773,7 +2780,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/230822572/\n
  écouvrir Hawkular\, un outil demonitoring pour les ops et les devs. Vous 
  apprendrez commentdémarrervotre serveur\, surveiller votre environnement\
  , et intégrer lesoutilsMetrics*\, Charts et Alerts directement dans votre
-  application.\n\nCommunauté: bordeauxjug\n👥 37 participant(s)
+  application.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2796,7 +2803,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/230045752/\n
  écurité de Java ont un CVSS de 10 ? \nEn vérité mes fréres\, je vous
   le dit\, jigsaw est là pour vous sauvez\, pour nous sauvez\, entrez dans
   mon eglise\, voyez la lumière\, venez apprendre la parole de jigsaw notr
- e sauveur.\n\nCommunauté: bordeauxjug\n👥 50 participant(s)
+ e sauveur.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2820,7 +2827,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/229566440/\n
  or a look at what Spring Boot is\, why it's turning heads\, why you should
   consider it for your next application (REST\, web\, batch\, big-data\, in
  tegration\, whatever!) and how to get started.!\n\nCommunauté: bordeauxju
- g\n👥 70 participant(s)
+ g
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2845,7 +2852,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/228464263/\n
  par ES2015.\nDurant cette session orientée live coding\, nous verrons com
  ment utiliser React pour créer des composants graphiques dans le cadre d'
  applications web et d'applications mobiles natives grâce à React Native.
- \n\nCommunauté: bordeauxjug\n👥 52 participant(s)
+ \n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2867,7 +2874,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/228184140/\n
  osent aux architectures monolithiques\, qu’on associe souvent aux techno
  logies JavaEE. Durant trente minutes\, je vais essayer de vous convaincre 
  que JavaEE est tout à fait adapté aux microservices et même aux picoser
- vices !\n\nCommunauté: bordeauxjug\n👥 36 participant(s)
+ vices !\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2889,8 +2896,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/227402106/\n
  ordeauxJUG cette année pourront prendre part aux votes\, et notamment à 
  l'élection du futur bureau.\nN'hésitez donc pas à verser votre obole su
  r http://bordeauxjug.org/asso avant l'AG pour pouvoir voter !\nL'AG se con
- clura par un buffet aux alentours de 20h15.\n\nCommunauté: bordeauxjug\n
- 👥 7 participant(s)
+ clura par un buffet aux alentours de 20h15.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2917,7 +2923,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/227072081/\n
  téressante par rapport à l'éco-système classique Hadoop\, que ce soit 
  pour les traitements temps-réel ou du batch.\nLes deux outils donneront l
  'occasion d'illustrer quelques patterns d'utilisation avec des démos en l
- ive.\nVenez nombreux.\n\nCommunauté: bordeauxjug\n👥 38 participant(s)
+ ive.\nVenez nombreux.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2942,7 +2948,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/226638295/\n
   Learning en utilisant ce framework Spark.\nDe son coté\, Nicolas Comet a
  nimera le début de la soirée avec du Live Coding : génération bytecode
   JVM runtime avec ByteBuddy\, même pas peur !" \nVenez nombreux\n\nCommu
- nauté: bordeauxjug\n👥 53 participant(s)
+ nauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2966,7 +2972,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/226039925/\n
  re plus de puissance.\nPendant cette session\, je vais construire avec vou
  s un pipeline de CD pour montrer l'utilisation du workflow et sa flexibili
  té\, ainsi quele support de Docker.\nVenez nombreux\n\nCommunauté: borde
- auxjug\n👥 98 participant(s)
+ auxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -2991,7 +2997,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/225140026/\n
   le processeur en Ruby\n•  l'intégration avec le monde Java\n• l'
  intégration avec vos outils de build (Maven\,Gradle\,Ant)\n•  l'inté
  gration avec Javascript et le web\n• ses extensions\n\nCommunauté: bor
- deauxjug\n👥 29 participant(s)
+ deauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3008,8 +3014,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/223699329/\n
  delais autour d'un verre et d'un repas.\nMercredi 8 Juillet\, venez nous r
  ejoindre afin de discuter : développement java\, web\, cloud\,  jug.\nMe
  rci de vous inscrire si vous venez pour que l'on ait une idée du nombre d
- e tables à prévoir.\nA bientôt!\n\nCommunauté: bordeauxjug\n👥 10 pa
- rticipant(s)
+ e tables à prévoir.\nA bientôt!\n\nCommunauté: bordeauxjug
 LOCATION:The Connemara\, 14-18 Cours Albret\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/223699329/
@@ -3042,8 +3047,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/222982961/\n
  rnate BoF\nOn prendra le reste du temps pour discuter des autres projets H
  ibernate:\n- Qu’est-ce qu’Hibernate Search\, quels sont les nouveauté
  s?\n- Qu’est-ce qui se passe du côté d’Hibernate ORM?\n- Hibernate V
- alidator\, Bean Validation\, quésako?\n...\n\nCommunauté: bordeauxjug\n
- 👥 50 participant(s)
+ alidator\, Bean Validation\, quésako?\n...\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3067,7 +3071,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/222040907/\n
  ation des aspects\, wrapper\, autant de concepts qui vous seront expliqué
  s et vous aideront à bien démarrer et concevoir des builds idiomatiques\
  , propres et bénéficiant des avantages d'un outil de build moderne.\n\nC
- ommunauté: bordeauxjug\n👥 40 participant(s)
+ ommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3086,7 +3090,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/221648599/\n
  atisation des déploiement avec les outils MMS et OpsManager\nDurant cette
   présentation Tugdual présentera ces nouveautés et se fera un plaisir d
  e répondre à toutes les questions de la communauté!\nVenez nombreux !\n
- \nCommunauté: bordeauxjug\n👥 78 participant(s)
+ \nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3108,8 +3112,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/220850469/\n
  assandra ? Et  au final pour quoi l'utiliser ?\nAu programme :\n• Arc
  hitecture de cassandra\n• Scalabilité et performance\n• Différence
   avec MongoDb\n• Anti-patterns\n…Une mise en oeuvre dans un contexte 
- Twitter + storm + cassandra\nVenez nombreux !\n\nCommunauté: bordeauxjug\
- n👥 52 participant(s)
+ Twitter + storm + cassandra\nVenez nombreux !\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3128,8 +3131,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/220124167/\n
  s expliquer comment fonctionne Dockercomme j'aurais aimé qu'on me l'expli
  que.\nNous allons apprendre à prendre en main Docker pour packager une ap
  plication web java 8\,que nous déploierons sur la Google Cloud Platform e
- n utilisant Compute Engine.\n\nCommunauté: bordeauxjug\n👥 71 participa
- nt(s)
+ n utilisant Compute Engine.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3149,8 +3151,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/219792716/\n
  sique \; \n- Présentation de l'API LP4J qui permet de le contrôler en J
  ava \; \n- Etude de l'émulateur web temps réel\, propulsé par VertX\, 
  les websockets et SVG \; \n- Réflexions autour de l'architecture et de l
- a définition des API Venez nombreux !\n\nCommunauté: bordeauxjug\n👥 3
- 1 participant(s)
+ a définition des API Venez nombreux !\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3187,7 +3188,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/218973416/\n
   un vote notamment pour valider que les comptes soient séparés et les b
  énéfices bdxio de cette année soient transférées à la nouvelle assoc
  iation.\nL'AG se conclura par un buffet aux alentours de 20h15.\n\nCommuna
- uté: bordeauxjug\n👥 12 participant(s)
+ uté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3213,7 +3214,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/218765429/\n
  ...). \nNous aurons du live-coding\, des démos\, des tests\, des requêt
  es en base de données\, des astuces de performance pour la production\, e
  t nous terminerons par un déploiement dans le cloud (si la connexion Inte
- rnet nous le permet !)\n\nCommunauté: bordeauxjug\n👥 64 participant(s)
+ rnet nous le permet !)\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3233,7 +3234,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/218255602/\n
  Clojure comme langage.\n Cette présentation sera suivi d'un Live Coding 
  avec Carl Azoury (PDG Zenika) : comment utiliser les sequences Clojure et 
  la composition de fonctions dans un REPL (read–eval–print loop) ..\n\n
- Communauté: bordeauxjug\n👥 34 participant(s)
+ Communauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3251,7 +3252,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/213012482/\n
  tors\, events...) but also show you why CDI has become the main specificat
  ion of Java EE. As CDI 2.0 is in the starting block\, Antonio\, who is par
  t of the expert group\, will share with you the roadmap that the 2.0 versi
- on has in mind.\n\nCommunauté: bordeauxjug\n👥 64 participant(s)
+ on has in mind.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3286,7 +3287,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/207221112/\n
   Boot et Spring Data.\nFinalement\, en ayant abordé ces quatre moteurs de
   bases de données avec des philosophies bien différentes\, nous pourrons
   nous targuer d'un certain polyglottisme persistant.\n\nCommunauté: borde
- auxjug\n👥 45 participant(s)
+ auxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3304,8 +3305,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/192113902/\n
  vue!) venez vous joindre à nous pour discuter de dévelopement java\, web
  \, de cloud\, de BDX.io et de tout autre chose que du foot.\nMerci de vous
   inscrire si vous venez pour que l'on ait une idée du nombre de tables à
-  prévoir.\nA bientôt!\n\nCommunauté: bordeauxjug\n👥 12 participant(s
- )
+  prévoir.\nA bientôt!\n\nCommunauté: bordeauxjug
 LOCATION:The Connemara\, 14-18 Cours Albret\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/192113902/
@@ -3328,7 +3328,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/186439052/\n
  même contradictoires ?\nL'objectif de cette présentation : vous apprendr
  e à naviguer par vous-mêmes dans tous ces concepts. Je ferai une revue d
  e l'état de l'art\, illustré par des exemples concrets et des conseils p
- ratiques.\n\nCommunauté: bordeauxjug\n👥 42 participant(s)
+ ratiques.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3356,7 +3356,6 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/182201392/\n
  oxy d’entreprise\n• Pourquoi Websocket seul est trop bas niveau et co
  mment STOMP comble ce manque\n• La scalabilité et les performances\n
  • Build mixte Java et Dart grâce à Gradle\n\nCommunauté: bordeauxjug
- \n👥 51 participant(s)
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3378,7 +3377,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/170169002/\n
  rations of Java 8 technology running on embedded platforms such as Raspber
  ry Pi and Lego Mindstorms EV3\, allowing Java-based applications to suppor
  t the internet-of-things. Come and learn how to build the future of Java.\
- n\nCommunauté: bordeauxjug\n👥 21 participant(s)
+ n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3400,8 +3399,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/173192882/\n
  de Java 8 ainsi que les différents outils et frameworks qui l'utilisent t
  els que Gradle\, Grails ou Spock qui peuvent s'avérer trés utiles au quo
  tidien.\nC'est l'occasion de découvrir un des langages majeurs de la JVM 
- encore trop souvent méconnu.\n\nCommunauté: bordeauxjug\n👥 32 partici
- pant(s)
+ encore trop souvent méconnu.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3437,8 +3435,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/168636382/\n
  ue dans des domaines très variées\, avec un goût pour le technique ce q
  ui l'a amené à créer un robot actif sur Wikipédia et Wikidata \; au ni
  veau local il est membre de la Cubale\, groupement de Wikimédiens sur l'a
- gglomération Bordelaise.\n\nCommunauté: bordeauxjug\n👥 12 participant
- (s)\nLimité à 25 places
+ gglomération Bordelaise.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3458,7 +3455,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/170163822/\n
  ntation vous montrera comment utiliser l'API des Iteratees offerte par Pla
  y 2 pour manipuler\, filtrer et fusionner à la demande des flux de donné
  es de manière réactive dans une application fun\, complète et concrète
- .\n\nCommunauté: bordeauxjug\n👥 36 participant(s)
+ .\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3488,8 +3485,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/164822362/\n
  À la fin de cette session\, vous aurez effectué un bon tour d'horizon du
   langage Dart et de son environnement.\nATTENTION : cela ne sert à rien d
  e s'inscrire sur le meetup\, seules les inscriptions eventbrite seront com
- ptabilisées.\n\nCommunauté: bordeauxjug\n👥 1 participant(s)\nLimité 
- à 1 places
+ ptabilisées.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3518,7 +3514,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/164013362/\n
  plement un nouveau choix dans les serveurs d'applications\, mais simplemen
  t le serveur d'application qu'attendaient les utilisateurs de Java EE.\nSi
   vous aimez Tomcat\, cette session est faite pour vous !\n\nCommunauté: b
- ordeauxjug\n👥 34 participant(s)
+ ordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3548,7 +3544,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/158426962/\n
  uissants. \nCette puissance sera montrée dans des exemples réels\, qui 
  monteront comment Java 8 va pouvoir nous aider à écrire simplement du co
  de efficace et performant.\nInscrivez-vous vite!\n\nCommunauté: bordeauxj
- ug\n👥 55 participant(s)
+ ug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3572,7 +3568,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/149668812/\n
  ter leur candidature pour une nomination au Bureau sont les bienvenues et 
  pourront le faire dans le cadre de l'AG.\nL'AG se conclura par un buffet a
  ux alentours de 20h15.\nEn espérant vous voir nombreux.\n\nCommunauté: b
- ordeauxjug\n👥 17 participant(s)
+ ordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3594,8 +3590,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/153792532/\n
   cheminement sinueux qui a été suivi pour arriver à la syntaxe et la s
  émantique actuelle. Puis il montrera quelques exemples d'utilisation des 
  lambdas et la façon dont elles impactent le design d'APIs.\nAlors n'atten
- dez pas\, inscrivez vous vite !\n\nCommunauté: bordeauxjug\n👥 48 parti
- cipant(s)
+ dez pas\, inscrivez vous vite !\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3616,8 +3611,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/148668382/\n
  ivier Croisier\nVenez découvrir le concept de Fold !Hérité de la progra
  mmation fonctionnelle\, le Fold abstrait l'itération sur vos structures d
  e données\, et améliore l'expressivité de votre code.Avec de vrais bout
- s de Java 8 et une pincée de Haskell !\n\nCommunauté: bordeauxjug\n👥 
- 48 participant(s)
+ s de Java 8 et une pincée de Haskell !\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris
@@ -3638,8 +3632,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/143511422/\n
  omplexité. Mélanger aux génériques\, il s'agit d'un cocktail explosif.
  \nCette session remet les compteurs à zéro. Elle vous donne les clés po
  ur maîtriser les génériques\, mais aussi leurs liens avec les lambda. T
- out pour aborder ces derniers sereinement.\n\nCommunauté: bordeauxjug\n
- 👥 57 participant(s)
+ out pour aborder ces derniers sereinement.\n\nCommunauté: bordeauxjug
 LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, Franc
  e
 TZID:Europe/Paris

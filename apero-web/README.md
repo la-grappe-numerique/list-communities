@@ -17,6 +17,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 02 décembre 2025 à 19:00 | 🍷🍻 L'Apéro Web Bordeaux | 11 Rue Parlement Sainte-Catherine, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/311727286/ |
+
 ## 📆 Past Events
 
 <details>
@@ -24,7 +30,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](./events
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Jeudi 03 juillet 2025 à 19:00 | Apéro Web | Bar L'Engrenage | https://www.linkedin.com/events/l-ap-rowebbordeaux-67343310647826276353/comments/ |
+| Jeudi 03 juillet 2025 à 19:00 | Apéro Web | TBD | https://www.linkedin.com/events/l-ap-rowebbordeaux-67343310647826276353/comments/ |
 | Mercredi 05 mars 2025 à 19:00 | 🍷🍻 L'Apéro Web Bordeaux | 40 Allées d'Orléans , Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/306321282/ |
 </details>
 

@@ -5,25 +5,48 @@ X-WR-CALDESC:Calendrier des événements de la communauté apero-web
 X-WR-CALNAME:Événements apero-web
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🍷🍻 L'Apéro Web Bordeaux
+DTSTART;TZID=Europe/Paris:20251202T190000
+DTEND;TZID=Europe/Paris:20251202T210000
+UID:https://www.meetup.com/apero-web-bordeaux/events/311727286/@community-
+ events
+DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/31172728
+ 6/\n📍 The Houses of Parliament\, 11 Rue Parlement Sainte-Catherine\, Bo
+ rdeaux\, fr\n\nLe principe de l'Apéro Web est simple : réunir les person
+ nes travaillant dans les métiers liés au web et/ou la tech (au sens larg
+ e) lors d'un afterwork convivial.\nSi vous souhaitez rencontrer de nouvell
+ es personnes\, échanger et passer un bon moment\, alors cet afterwork est
+  fait pour vous !\n\n📆 Rendez-vous mardi 2 décembre (à partir de 19h)
+ \n📍 Bar "The Houses of Parliament"\n\nPensez à rejoindre le groupe Lin
+ kedIn pour ne pas râter les news !\nhttps://www.linkedin.com/company/aper
+ o-web-bdx/\n\n🙏 On a besoin de vous pour réunir le maximum de personne
+ s et créer un afterwork au top :\n1️⃣ Partagez & likez ce post\n2️
+ ⃣ Tagguez vos collègues/amis/connaissances\n\nMerci ! Vous êtes au top
+  🤩\n\nCommunauté: apero-web
+LOCATION:The Houses of Parliament\, 11 Rue Parlement Sainte-Catherine\, Bo
+ rdeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/apero-web-bordeaux/events/311727286/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Apéro Web
 DTSTART;TZID=Europe/Paris:20250703T190000
 DTEND;TZID=Europe/Paris:20250703T210000
 UID:https://www.linkedin.com/events/l-ap-rowebbordeaux-6734331064782627635
  3/comments/@community-events
 DESCRIPTION:🔗 https://www.linkedin.com/events/l-ap-rowebbordeaux-673433
- 10647826276353/comments/\n📍 Bar L'Engrenage\n\n🍷🍻 L'Apéro Web Bo
- rdeaux\n\nLe principe de l'Apéro Web est simple : réunir les personnes q
- ui font la tech lors d'un afterwork convivial dans un bar bordelais: CEO\,
-  CTO\, Devs\, PO\, PM\, UX/UI\, SEO\, SEM\, CM\, SRE\, DA\, DevOps\, growt
- h hackers etc...\nSi votre métier a un rapport avec le web ou la tech\, c
- et apéro est fait pour vous !\n\n📆 Rendez-vous le jeudi 3 juillet (à 
- partir de 19h)\n📍 Bar L'Engrenage\n\nPensez à rejoindre le groupe Link
- edIn pour ne pas râter les news !\n\n🙏 On a besoin de vous pour réuni
- r toutes les personnes qui font le web à Bordeaux et créer un afterwork 
- au top :\n1️⃣ Partagez & likez ce post\n2️⃣ Tagguez vos collègues
- /amis/connaissances qui travaillent dans le web\n\nOn compte sur vous ! 
- 🤩\n\nCommunauté: apero-web
-LOCATION:Bar L'Engrenage
+ 10647826276353/comments/\n\n🍷🍻 L'Apéro Web Bordeaux\n\nLe principe 
+ de l'Apéro Web est simple : réunir les personnes qui font la tech lors d
+ 'un afterwork convivial dans un bar bordelais: CEO\, CTO\, Devs\, PO\, PM\
+ , UX/UI\, SEO\, SEM\, CM\, SRE\, DA\, DevOps\, growth hackers etc...\nSi v
+ otre métier a un rapport avec le web ou la tech\, cet apéro est fait pou
+ r vous !\n\n📆 Rendez-vous le jeudi 3 juillet (à partir de 19h)\n📍 B
+ ar L'Engrenage\n\nPensez à rejoindre le groupe LinkedIn pour ne pas râte
+ r les news !\n\n🙏 On a besoin de vous pour réunir toutes les personnes
+  qui font le web à Bordeaux et créer un afterwork au top :\n1️⃣ Part
+ agez & likez ce post\n2️⃣ Tagguez vos collègues/amis/connaissances qu
+ i travaillent dans le web\n\nOn compte sur vous ! 🤩\n\nCommunauté: ape
+ ro-web
 TZID:Europe/Paris
 URL:https://www.linkedin.com/events/l-ap-rowebbordeaux-6734331064782627635
  3/comments/
@@ -46,8 +69,7 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30632128
  r les news !\n🙏 On a besoin de vous pour réunir toutes les personnes q
  ui font le web à Bordeaux et créer un afterwork au top :1️⃣ Partagez
   & likez ce post2️⃣ Tagguez vos collègues/amis/connaissances qui trav
- aillent dans le web\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web\n
- 👥 42 participant(s)
+ aillent dans le web\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web
 LOCATION:Backyard\, 40 Allées d'Orléans \, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/306321282/
@@ -74,8 +96,7 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30441242
   On a besoin de vous pour réunir toutes les personnes qui font le web à 
  Bordeaux et créer un afterwork au top :1️⃣ Partagez & likez ce post2
  ️⃣ Tagguez vos collègues/amis/connaissances qui travaillent dans le w
- eb\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web\n👥 65 participa
- nt(s)
+ eb\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web
 LOCATION:Wash Bar\, 39 Rue Ausone\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/304412420/
@@ -101,8 +122,7 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30325198
  s !\n🙏 On a besoin de vous pour réunir toutes les personnes qui font l
  e web à Bordeaux et créer un afterwork au top :1️⃣ Partagez & likez 
  ce post2️⃣ Tagguez vos collègues/amis/connaissances qui travaillent d
- ans le web\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web\n👥 45 p
- articipant(s)
+ ans le web\nOn compte sur vous ! 🤩\n\nCommunauté: apero-web
 LOCATION:Radisson Blu\, 63 Rue Lucien Faure Dock G6\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/303251987/
@@ -130,7 +150,7 @@ DESCRIPTION:🔗 https://www.meetup.com/apero-web-bordeaux/events/30171604
  s les personnes qui font le web à Bordeaux et créer un afterwork au top 
  : **partagez ce groupe** autour de vous\, à vos collègues\, vos amis et 
  vos connaissances !\n**On compte sur vous ! 🤩**\n\nCommunauté: apero-w
- eb\n👥 67 participant(s)
+ eb
 LOCATION:Gargalou Bordeaux\, 118 Quai de Bacalan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/301716042/

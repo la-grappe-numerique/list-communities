@@ -21,12 +21,35 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20260302T183000
+DTEND;TZID=Europe/Paris:20260302T203000
+UID:https://www.meetup.com/software-craftsmanship-bdx/events/311567890/@co
+ mmunity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
+ 311567890/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé
+ \, Bordeaux\, fr\n\nDes coding dojos\, sessions amusantes et intenses pend
+ ant lesquelles des développeurs améliorent leurs compétences en program
+ mation. Le principe est simple : on prend un exercice de programmation sim
+ ple\, on choisit un langage\, et on essaie de coder une solution en respec
+ tant les 4 règles du design simple de Kent Beck :\n\n• passer tous les 
+ tests \;\n• aucune duplication de code \;\n• révéler les intentions 
+ par le code\, être très attentif au nommage \;\n• réduire le nombre d
+ e classes et de méthodes.\n\nLe kata et le langage sont décidé sur plac
+ e\, par les personnes présentes. Ils peuvent etre tiré de ce site -https
+ ://codingdojo.org/\n\nCommunauté: okiwi
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-craftsmanship-bdx/events/311567890/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
@@ -45,12 +68,35 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20260202T183000
+DTEND;TZID=Europe/Paris:20260202T203000
+UID:https://www.meetup.com/software-craftsmanship-bdx/events/311567889/@co
+ mmunity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
+ 311567889/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé
+ \, Bordeaux\, fr\n\nDes coding dojos\, sessions amusantes et intenses pend
+ ant lesquelles des développeurs améliorent leurs compétences en program
+ mation. Le principe est simple : on prend un exercice de programmation sim
+ ple\, on choisit un langage\, et on essaie de coder une solution en respec
+ tant les 4 règles du design simple de Kent Beck :\n\n• passer tous les 
+ tests \;\n• aucune duplication de code \;\n• révéler les intentions 
+ par le code\, être très attentif au nommage \;\n• réduire le nombre d
+ e classes et de méthodes.\n\nLe kata et le langage sont décidé sur plac
+ e\, par les personnes présentes. Ils peuvent etre tiré de ce site -https
+ ://codingdojo.org/\n\nCommunauté: okiwi
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-craftsmanship-bdx/events/311567889/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
@@ -69,12 +115,35 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20260105T183000
+DTEND;TZID=Europe/Paris:20260105T203000
+UID:https://www.meetup.com/software-craftsmanship-bdx/events/311567887/@co
+ mmunity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
+ 311567887/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé
+ \, Bordeaux\, fr\n\nDes coding dojos\, sessions amusantes et intenses pend
+ ant lesquelles des développeurs améliorent leurs compétences en program
+ mation. Le principe est simple : on prend un exercice de programmation sim
+ ple\, on choisit un langage\, et on essaie de coder une solution en respec
+ tant les 4 règles du design simple de Kent Beck :\n\n• passer tous les 
+ tests \;\n• aucune duplication de code \;\n• révéler les intentions 
+ par le code\, être très attentif au nommage \;\n• réduire le nombre d
+ e classes et de méthodes.\n\nLe kata et le langage sont décidé sur plac
+ e\, par les personnes présentes. Ils peuvent etre tiré de ce site -https
+ ://codingdojo.org/\n\nCommunauté: okiwi
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-craftsmanship-bdx/events/311567887/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
@@ -93,12 +162,35 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20251201T183000
+DTEND;TZID=Europe/Paris:20251201T203000
+UID:https://www.meetup.com/software-craftsmanship-bdx/events/311567886/@co
+ mmunity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
+ 311567886/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé
+ \, Bordeaux\, fr\n\nDes coding dojos\, sessions amusantes et intenses pend
+ ant lesquelles des développeurs améliorent leurs compétences en program
+ mation. Le principe est simple : on prend un exercice de programmation sim
+ ple\, on choisit un langage\, et on essaie de coder une solution en respec
+ tant les 4 règles du design simple de Kent Beck :\n\n• passer tous les 
+ tests \;\n• aucune duplication de code \;\n• révéler les intentions 
+ par le code\, être très attentif au nommage \;\n• réduire le nombre d
+ e classes et de méthodes.\n\nLe kata et le langage sont décidé sur plac
+ e\, par les personnes présentes. Ils peuvent etre tiré de ce site -https
+ ://codingdojo.org/\n\nCommunauté: okiwi
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-craftsmanship-bdx/events/311567886/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Okiwi #4
@@ -107,19 +199,17 @@ DTEND;TZID=Europe/Paris:20251128T110000
 UID:https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac730ffcc@commu
  nity-events
 DESCRIPTION:🔗 https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac
- 730ffcc\n📍 Yack\, 16 rue des Terres Neuves\, 33130\, Bègles\n\nUn [for
- um ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) o
- rganisé par Okiwi. Attendez-vous à l'inattendu.\n\nUn forum ouvert est u
- ne "non-conférence" où les participants apportent les sujets dont ils so
- uhaitent parler\, le planning est créé en début de journée tous ensemb
- le\, puis chacun suit ses envies et participe aux sessions qui l'intéress
- e (plusieurs salles sont disponibles et permettent plusieurs discussions s
- imultanées).\n\nLe petit déjeuner et le repas du midi sont offerts par O
- kiwi.\n\nAttention : l'inscription est limitée à 30 personnes et l'évè
- nement est en présentiel\, si vous êtes inscrit vous vous engagez à ven
- ir\, vérifiez votre disponibilité pour la journée 😄\n\nCommunauté: 
- okiwi
-LOCATION:Yack\, 16 rue des Terres Neuves\, 33130\, Bègles
+ 730ffcc\n\nUn [forum ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodolog
+ ie_Forum_Ouvert) organisé par Okiwi. Attendez-vous à l'inattendu.\n\nUn 
+ forum ouvert est une "non-conférence" où les participants apportent les 
+ sujets dont ils souhaitent parler\, le planning est créé en début de jo
+ urnée tous ensemble\, puis chacun suit ses envies et participe aux sessio
+ ns qui l'intéresse (plusieurs salles sont disponibles et permettent plusi
+ eurs discussions simultanées).\n\nLe petit déjeuner et le repas du midi 
+ sont offerts par Okiwi.\n\nAttention : l'inscription est limitée à 30 pe
+ rsonnes et l'évènement est en présentiel\, si vous êtes inscrit vous v
+ ous engagez à venir\, vérifiez votre disponibilité pour la journée 
+ 😄\n\nCommunauté: okiwi
 TZID:Europe/Paris
 URL:https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac730ffcc
 END:VEVENT
@@ -140,7 +230,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
@@ -164,7 +254,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
@@ -188,7 +278,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
@@ -212,7 +302,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
@@ -236,7 +326,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
@@ -260,7 +350,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
@@ -284,7 +374,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
@@ -308,7 +398,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par le code\, être très attentif au nommage \;• réduire le nombre d
  e classes et de méthodes.\nLe kata et le langage sont décidé sur place\
  , par les personnes présentes. Ils peuvent etre tiré de ce site -https:/
- /codingdojo.org/\n\nCommunauté: okiwi\nLimité à 15 places
+ /codingdojo.org/\n\nCommunauté: okiwi
 LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, France
 TZID:Europe/Paris
@@ -333,7 +423,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s par Okiwi.\n**Attention : l'inscription est limitée à 30 personnes et 
  l'évènement est en présentiel**\, si vous êtes inscrit vous vous engag
  ez à venir\, vérifiez votre disponibilité pour la journée 😄\n\nComm
- unauté: okiwi\n👥 19 participant(s)\nLimité à 33 places
+ unauté: okiwi
 LOCATION:44 All. de Tourny\, 44 All. de Tourny\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/306324474/
@@ -346,8 +436,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/262015342/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  262015342/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, Fran
- ce\n\nLes types algébriques pour le DDD\n\nCommunauté: okiwi\n👥 42 pa
- rticipant(s)\nLimité à 80 places
+ ce\n\nLes types algébriques pour le DDD\n\nCommunauté: okiwi
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/262015342/
@@ -366,7 +455,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  -> https://okiwi-fr.slack.com\nInscriptions pour le slack ici -> http://sl
  ack-okiwi.herokuapp.com/\nNotez : Votre RSVP est engageante\, donc si vous
   ne pouvez pas venir\, SVP\, annulez votre inscription.\n\nCommunauté: ok
- iwi\n👥 12 participant(s)\nLimité à 42 places
+ iwi
 LOCATION:Salle des fêtes\, Le Bourg\, 47700 Ruffiac\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/257215113/
@@ -386,7 +475,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  u design simple de Kent Beck :\n• passer tous les tests \;\n• aucune d
  uplication de code \;\n• révéler les intentions par le code\, être tr
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
- des.\n\nCommunauté: okiwi\n👥 13 participant(s)
+ des.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzjbfb/
@@ -408,7 +497,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  urcing\, de préférence avec Kafka.\nNous allons tenter ici de prendre un
   peu de recul\, étudier la différence entre patterns stratégiques et pa
  tterns tactiques\, et découvrir quel est le plus grand paradoxe du DDD.\n
- \nCommunauté: okiwi\n👥 73 participant(s)\nLimité à 90 places
+ \nCommunauté: okiwi
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/260247917/
@@ -421,7 +510,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/261047020/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  261047020/\n📍 Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France\n\nEncor
- e un bel Apéro Okiwi :-)\n\nCommunauté: okiwi\n👥 11 participant(s)
+ e un bel Apéro Okiwi :-)\n\nCommunauté: okiwi
 LOCATION:Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/261047020/
@@ -441,7 +530,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  u design simple de Kent Beck :\n• passer tous les tests \;\n• aucune d
  uplication de code \;\n• révéler les intentions par le code\, être tr
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
- des.\n\nCommunauté: okiwi\n👥 10 participant(s)
+ des.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzhbjb/
@@ -476,7 +565,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  iques de développement qui peuvent nous aider à livrer de la valeur fonc
  tionnelle mais également technique au quotidien.Dans ces pratiques\, nous
   parlerons de Mutation Testing et irons à la chasse aux mutants avec Stry
- ker !\n\nCommunauté: okiwi\n👥 64 participant(s)\nLimité à 75 places
+ ker !\n\nCommunauté: okiwi
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/260048427/
@@ -489,8 +578,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/260247973/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  260247973/\n📍 The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordea
- ux\, France\n\nEncore un bel Apéro Okiwi :-)\n\nCommunauté: okiwi\n👥 
- 1 participant(s)
+ ux\, France\n\nEncore un bel Apéro Okiwi :-)\n\nCommunauté: okiwi
 LOCATION:The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordeaux\, Fra
  nce
 TZID:Europe/Paris
@@ -511,7 +599,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  u design simple de Kent Beck :\n• passer tous les tests \;\n• aucune d
  uplication de code \;\n• révéler les intentions par le code\, être tr
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
- des.\n\nCommunauté: okiwi\n👥 11 participant(s)
+ des.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzgbcb/
@@ -536,7 +624,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ous ne serez peut être pas un spécialiste du principe de substitution de
   Liskov\, mais vous aurez au moins connaissance de son existence et de bie
  ns d’autres concepts à appliquer dès le lendemain sur votre code de pr
- od.\n\nCommunauté: okiwi\n👥 65 participant(s)\nLimité à 75 places
+ od.\n\nCommunauté: okiwi
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/259185088/
@@ -556,7 +644,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  u design simple de Kent Beck :\n• passer tous les tests \;\n• aucune d
  uplication de code \;\n• révéler les intentions par le code\, être tr
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
- des.\n\nCommunauté: okiwi\n👥 7 participant(s)
+ des.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzfbgb/
@@ -569,8 +657,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/259091267/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  259091267/\n📍 The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordea
- ux\, France\n\nEncore un bel Apéro Okiwi :-)\n\nCommunauté: okiwi\n👥 
- 5 participant(s)
+ ux\, France\n\nEncore un bel Apéro Okiwi :-)\n\nCommunauté: okiwi
 LOCATION:The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordeaux\, Fra
  nce
 TZID:Europe/Paris
@@ -596,8 +683,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  vez pas trouvé ce que vous espériez \;- vous pratiquez déja TDD\, et vo
  us avez envie de voir comment ça se passe chez un autre développeur \;- 
  et surtout : vous avez envie de retrouver le PLAISIR de développer.\nPas 
- de niveau minimum requis :)\n\nCommunauté: okiwi\n👥 72 participant(s)\
- nLimité à 75 places
+ de niveau minimum requis :)\n\nCommunauté: okiwi
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/258667265/
@@ -619,7 +705,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  spo cette fois-ci\, ou souhaitez apporter de l’aide d’une autre maniè
  re (logistique\, sponsor\, accueil de l’événement et de ses réunions\
  , ...)\, n’hésitez pas à nous en faire part en commentaire ou message 
- privé.\n\nCommunauté: okiwi\n👥 6 participant(s)\nLimité à 20 places
+ privé.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/258697742/
@@ -639,7 +725,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  u design simple de Kent Beck :\n• passer tous les tests \;\n• aucune d
  uplication de code \;\n• révéler les intentions par le code\, être tr
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
- des.\n\nCommunauté: okiwi\n👥 6 participant(s)
+ des.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzdbgb/
@@ -652,8 +738,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/258363851/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  258363851/\n📍 The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordea
- ux\, France\n\nLe retour des Apéros Okiwi :-)\n\nCommunauté: okiwi\n👥
-  5 participant(s)
+ ux\, France\n\nLe retour des Apéros Okiwi :-)\n\nCommunauté: okiwi
 LOCATION:The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordeaux\, Fra
  nce
 TZID:Europe/Paris
@@ -674,7 +759,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  u design simple de Kent Beck :\n• passer tous les tests \;\n• aucune d
  uplication de code \;\n• révéler les intentions par le code\, être tr
  ès attentif au nommage \;\n• réduire le nombre de classes et de métho
- des.\n\nCommunauté: okiwi\n👥 10 participant(s)
+ des.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/gjnqmqyzcbkb/
@@ -687,7 +772,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/257102692/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  257102692/\n📍 Le Zytho\, 28 rue latour\, 33300\, Bordeaux\, France\n\nT
- out est dans le titre\n\nCommunauté: okiwi\n👥 7 participant(s)
+ out est dans le titre\n\nCommunauté: okiwi
 LOCATION:Le Zytho\, 28 rue latour\, 33300\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/257102692/
@@ -707,7 +792,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 10 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxqbfb/
@@ -720,8 +805,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/255575477/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  255575477/\n📍 The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordea
- ux\, France\n\nLe retour des Apéros Okiwi :-)\n\nCommunauté: okiwi\n👥
-  5 participant(s)
+ ux\, France\n\nLe retour des Apéros Okiwi :-)\n\nCommunauté: okiwi
 LOCATION:The Market Tavern\, 15 Rue Rode\, 33000 Bordeaux\, Bordeaux\, Fra
  nce
 TZID:Europe/Paris
@@ -752,8 +836,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  //www.coderetreat.org/pages/about/.\nAttention : les places étant limité
  es merci de ne vous inscrire que si vous êtes sur de pouvoir venir à l'
  évènement !(et pensez à vous désinscrire si vous ne pouvez finalement 
- pas venir)\n\nCommunauté: okiwi\n👥 19 participant(s)\nLimité à 23 pl
- aces
+ pas venir)\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/255768579/
@@ -770,8 +853,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -792,7 +874,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 10 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxpbhb/
@@ -809,8 +891,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -828,8 +909,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -847,8 +927,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -862,7 +941,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/255163082/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  255163082/\n📍 Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France\n\nLe re
- tour des Apéros Okiwi :-)\n\nCommunauté: okiwi\n👥 11 participant(s)
+ tour des Apéros Okiwi :-)\n\nCommunauté: okiwi
 LOCATION:Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/255163082/
@@ -897,8 +976,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -919,7 +997,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxnbcb/
@@ -954,8 +1032,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -975,7 +1052,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  e ici -> https://okiwi-fr.slack.com\nInscriptions pour le slack ici -> htt
  p://slack-okiwi.herokuapp.com/\nNotez : Votre RSVP est engageante\, donc s
  i vous ne pouvez pas venir\, SVP\, annulez votre inscription.\n\nCommunaut
- é: okiwi\n👥 17 participant(s)\nLimité à 42 places
+ é: okiwi
 LOCATION:Salle des fêtes\, Le Bourg\, 47700 Ruffiac\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/252589669/
@@ -992,8 +1069,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1011,8 +1087,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1033,7 +1108,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxmbfb/
@@ -1050,8 +1125,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1069,8 +1143,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1088,8 +1161,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1104,7 +1176,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/253091109/@co
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  253091109/\n📍 Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France\n\nLe re
  tour des Apéros Okiwi\, pour profiter un peu de l'été :-)\n\nCommunaut
- é: okiwi\n👥 8 participant(s)
+ é: okiwi
 LOCATION:Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/253091109/
@@ -1121,8 +1193,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1143,7 +1214,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 16 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxlbjb/
@@ -1160,8 +1231,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1179,8 +1249,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1198,8 +1267,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1214,7 +1282,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/252266260/@co
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  252266260/\n📍 Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France\n\nLe re
  tour des Apéros Okiwi\, pour profiter un peu de l'été :-)\n\nCommunaut
- é: okiwi\n👥 10 participant(s)
+ é: okiwi
 LOCATION:Cambridge Arms\, 27 Rue Rode\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/252266260/
@@ -1231,8 +1299,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1250,8 +1317,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1269,8 +1335,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1288,8 +1353,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1307,8 +1371,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1326,8 +1389,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1365,8 +1427,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1384,8 +1445,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1403,8 +1463,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1422,8 +1481,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1444,7 +1502,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxhbkb/
@@ -1461,8 +1519,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1480,8 +1537,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1499,8 +1555,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1514,7 +1569,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/249427405/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  249427405/\n📍 Le Zytho\, 28 rue latour\, 33300\, Bordeaux\, France\n\nA
- ssemblée générale d'Okiwi\n\nCommunauté: okiwi\n👥 12 participant(s)
+ ssemblée générale d'Okiwi\n\nCommunauté: okiwi
 LOCATION:Le Zytho\, 28 rue latour\, 33300\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/249427405/
@@ -1531,7 +1586,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  t discuter de manière complètement informelle avant d'aller travailler.\
  nArrivez quand vous le pouvez\, repartez quand vous le voulez\, pas de con
  trainte autre que passer un bon moment et échanger sur les sujets qui nou
- s tiennent à coeur.\n\nCommunauté: okiwi\n👥 6 participant(s)
+ s tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Chez Yaal\, 18 rue Gratiolet\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxgbpb/
@@ -1547,7 +1602,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nde réunion pour discuter du millésime 2018 de l'Agile Tour Bordeaux.\nO
  uvert à tous et à toutes\, que vous ayez envie de vous impliquer dans l'
  organisation ou que vous ne soyez que simple curieux !\n\nCommunauté: oki
- wi\n👥 9 participant(s)
+ wi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/249005029/
@@ -1564,7 +1619,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  t discuter de manière complètement informelle avant d'aller travailler.\
  nArrivez quand vous le pouvez\, repartez quand vous le voulez\, pas de con
  trainte autre que passer un bon moment et échanger sur les sujets qui nou
- s tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 participant(s)
+ s tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Chez Yaal\, 18 rue Gratiolet\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxgbgb/
@@ -1584,7 +1639,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 7 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxgbdb/
@@ -1601,8 +1656,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1620,8 +1674,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1639,8 +1692,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1657,8 +1709,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   France\n\nAu programmePremière réunion pour discuter du millésime 2018
   de l'Agile Tour Bordeaux.\nOuvert à tous et à toutes\, que vous ayez en
  vie de vous impliquer dans l'organisation ou que vous ne soyez que simple 
- curieux !\nÀ prendre avec vous\nImportant\n\nCommunauté: okiwi\n👥 9 p
- articipant(s)
+ curieux !\nÀ prendre avec vous\nImportant\n\nCommunauté: okiwi
 LOCATION:Le Molly Malone's\, 83 Quai Chartrons 33300 \, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/247745695/
@@ -1675,8 +1726,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 5 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1697,7 +1747,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxfbhb/
@@ -1714,8 +1764,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1733,8 +1782,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1752,8 +1800,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 4 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1768,8 +1815,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/xlqsqmyxdbkb/
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  xlqsqmyxdbkb/\n📍 Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bord
  eaux\, France\n\nProfitons de ce *Code*&Coffee pour découvrir le langage 
- fonctionnel F# autour d'un petit kata.\n\nCommunauté: okiwi\n👥 2 parti
- cipant(s)
+ fonctionnel F# autour d'un petit kata.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1790,7 +1836,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 11 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyxdbhb/
@@ -1807,8 +1853,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1826,8 +1871,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1845,8 +1889,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1869,8 +1912,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  se encore\, au lieu de nous punir avec des erreurs de compilation indéchi
  ffrables\, comme bcp de langages statiques\, Idris nous suggère le code 
  à écrire grâce aux types précis que nous définissons.\n---À prendre 
- avec vousCe que vous voulez manger ou boire\n\nCommunauté: okiwi\n👥 10
-  participant(s)\nLimité à 35 places
+ avec vousCe que vous voulez manger ou boire\n\nCommunauté: okiwi
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/246776894/
@@ -1887,8 +1929,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1906,8 +1947,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1925,8 +1965,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1962,8 +2001,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -1981,8 +2019,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2000,8 +2037,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2019,8 +2055,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2046,7 +2081,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  us améliorer en code.Et pourquoi pas\, l'occasion d'essayer un nouveau la
  ngage?\nÇa dure toute la journée\, on commence le matin à 8h45\, à mid
  i on mange ensemble et le soir on prend un verre avec ceux qui le souhaite
- nt.\n\nCommunauté: okiwi\n👥 20 participant(s)\nLimité à 21 places
+ nt.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/242467166/
@@ -2076,7 +2111,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ns\, les participants pourront échanger sur leurs attentes\, leurs besoin
  s\, leurs motivations\, et étudier la possibilité de travailler ensemble
  .\nToutes les informations complémentaires sur le site de l'AEC\n\nCommun
- auté: okiwi\n👥 25 participant(s)
+ auté: okiwi
 LOCATION:auberge numérique\, 137 Rue Achard\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/244457868/
@@ -2093,8 +2128,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2112,8 +2146,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2141,8 +2174,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  s erreurs\, le typage vu autrement\, comment ces idées survivent avec les
   microservices\, comment la gestion du config et du déploiement changent.
   Couplage-cohésion\, Connascence\, if-less\, No-Primitives\, chasse aux c
- as limites.\n\nCommunauté: okiwi\n👥 34 participant(s)\nLimité à 40 p
- laces
+ as limites.\n\nCommunauté: okiwi
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/244680898/
@@ -2162,7 +2194,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 12 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywpbjb/
@@ -2197,8 +2229,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2216,8 +2247,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2235,8 +2265,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2254,8 +2283,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2276,7 +2304,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywnbdb/
@@ -2293,8 +2321,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2351,8 +2378,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  in how he managed to elude a sanity break (so far). Obviously he won’t h
  ave time to prepare any slide\, so the talk will mostly be incoherent ramb
  ling. Come to watch a show of bad English with some broken French\, and ce
- rtify Alfonso has zero improvisation skills!\n\nCommunauté: okiwi\n👥 1
- 8 participant(s)
+ rtify Alfonso has zero improvisation skills!\n\nCommunauté: okiwi
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/240001683/
@@ -2369,8 +2395,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2407,8 +2432,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  30€ tout compris.\nLa discussion se passe ici -> https://okiwi-fr.slack.
  com\nInscriptions pour le slack ici -> http://slack-okiwi.herokuapp.com/\n
  Notez : Votre RSVP est engageante\, donc si vous pouvez pas venir\, SVP\, 
- annuler votre inscription.\n\nCommunauté: okiwi\n👥 31 participant(s)\n
- Limité à 42 places
+ annuler votre inscription.\n\nCommunauté: okiwi
 LOCATION:Salle des fêtes\, Le Bourg\, 47700 Ruffiac\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/238953527/
@@ -2425,8 +2449,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 4 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2457,8 +2480,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   :\nIl existe un grand nombre de resource sur internet pour s'entrainer\, 
  découvrir.\nVoici quelques exemples à explorer.\nApprendre :\n• Cryto
   101\n• Rootsh3ll WiFi security\nPratiquer :\n• Root Me\n• Hack T
- his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\n👥 
- 4 participant(s)\nLimité à 20 places
+ his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywmbgb/
@@ -2475,8 +2497,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2494,8 +2515,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2526,8 +2546,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   :\nIl existe un grand nombre de resource sur internet pour s'entrainer\, 
  découvrir.\nVoici quelques exemples à explorer.\nApprendre :\n• Cryto
   101\n• Rootsh3ll WiFi security\nPratiquer :\n• Root Me\n• Hack T
- his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\n👥 
- 5 participant(s)\nLimité à 20 places
+ his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywlbcc/
@@ -2544,8 +2563,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2563,8 +2581,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2582,8 +2599,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2617,7 +2633,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  de l’Event Sourcing\, une pointe de “clean” architecture\, de progra
  mmation fonctionnelle\, et de quelques librairies assez intéressantes pou
  r nous aider dans notre parcours.\nEt ça se passe chez CoolWorking !\n\
- nCommunauté: okiwi\n👥 15 participant(s)
+ nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/241975276/
@@ -2634,8 +2650,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2666,8 +2681,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   :\nIl existe un grand nombre de resource sur internet pour s'entrainer\, 
  découvrir.\nVoici quelques exemples à explorer.\nApprendre :\n• Cryto
   101\n• Rootsh3ll WiFi security\nPratiquer :\n• Root Me\n• Hack T
- his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\n👥 
- 5 participant(s)\nLimité à 20 places
+ his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywkbgc/
@@ -2684,8 +2698,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 6 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2703,8 +2716,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2735,8 +2747,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   :\nIl existe un grand nombre de resource sur internet pour s'entrainer\, 
  découvrir.\nVoici quelques exemples à explorer.\nApprendre :\n• Cryto
   101\n• Rootsh3ll WiFi security\nPratiquer :\n• Root Me\n• Hack T
- his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\nLimit
- é à 20 places
+ his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywkbnb/
@@ -2753,8 +2764,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2772,8 +2782,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2794,8 +2803,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  vrir mon quotidien de développeur pratiquant le TDD à 100%. \nNous allo
  ns développer une fonctionnalité de bout en bout sur une application web
  \, et peut être découvrir qu’il n’y a plus d’écart entre un kata 
- et mon code de tous les jours.\n\nCommunauté: okiwi\n👥 39 participant(
- s)
+ et mon code de tous les jours.\n\nCommunauté: okiwi
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/239929002/
@@ -2812,8 +2820,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 5 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2831,8 +2838,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 4 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2853,8 +2859,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  cations web en F#\, architecturée suivant le pattern Model / View / Updat
  e rendu célébre par Elm.\nCes présentations seront faites par Josselin 
  Auguste (@josselinauguste)\, Maxime Mangel (@MangelMaxime) et François Ni
- caise (@thewhitetigle).\n\nCommunauté: okiwi\n👥 17 participant(s)\nLim
- ité à 30 places
+ caise (@thewhitetigle).\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/240204501/
@@ -2884,8 +2889,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   :\nIl existe un grand nombre de resource sur internet pour s'entrainer\, 
  découvrir.\nVoici quelques exemples à explorer.\nApprendre :\n• Cryto
   101\n• Rootsh3ll WiFi security\nPratiquer :\n• Root Me\n• Hack T
- his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\n👥 
- 11 participant(s)\nLimité à 20 places
+ his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywjbqb/
@@ -2902,8 +2906,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 6 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2924,7 +2927,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywjbhb/
@@ -2941,8 +2944,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 5 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -2973,8 +2975,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   :\nIl existe un grand nombre de resource sur internet pour s'entrainer\, 
  découvrir.\nVoici quelques exemples à explorer.\nApprendre :\n• Cryto
   101\n• Rootsh3ll WiFi security\nPratiquer :\n• Root Me\n• Hack T
- his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi\n👥 
- 8 participant(s)\nLimité à 20 places
+ his Site\n• CrytoPals\n• OWASP Web Goat\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/bnlcdnywhbmc/
@@ -2991,8 +2992,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 5 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3026,7 +3026,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  vènements-métier au sein d’une architecture DDD.– Savoir comment imp
  lémenter correctement un système basé sur l’event sourcing.\nCette pr
  ésentation sera assurée par Arnaud LEMAIRE (@lilobase)\n\nCommunauté: o
- kiwi\n👥 62 participant(s)\nLimité à 65 places
+ kiwi
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/239156476/
@@ -3061,8 +3061,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3080,8 +3079,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3102,7 +3100,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywgbnb/
@@ -3122,7 +3120,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 2 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywhbcb/
@@ -3139,8 +3137,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3171,7 +3168,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  ions\, les participants pourront échanger sur leurs attentes\, leurs beso
  ins\, leurs motivations\, et étudier la possibilité de travailler ensemb
  le.\nToutes les informations complémentaires sur le site de l'AEC\n\nComm
- unauté: okiwi\n👥 13 participant(s)
+ unauté: okiwi
 LOCATION:auberge numérique\, 137 Rue Achard\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/239126813/
@@ -3188,8 +3185,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3207,8 +3203,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 4 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3223,8 +3218,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/239009815/@co
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  239009815/\n📍 Coolworking\, 9 rue de Condé\, Bordeaux\, France\n\nFond
  ateur de la communauté Software Craftsmanship à Paris\, Cyrille viendra 
- parler Domain Driven Design.\n\nCommunauté: okiwi\n👥 28 participant(s)
- \nLimité à 30 places
+ parler Domain Driven Design.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/239009815/
@@ -3241,8 +3235,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 5 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Starbucks Mériadeck\, 41 Rue du Château d'Eau\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3256,7 +3249,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/238927888/@co
  mmunity-events
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  238927888/\n📍 Coolworking\, 9 rue de Condé\, Bordeaux\, France\n\nAsse
- mblée générale d'Okiwi\n\nCommunauté: okiwi\n👥 8 participant(s)
+ mblée générale d'Okiwi\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/238927888/
@@ -3273,8 +3266,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 2 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Café Napoléon III\, 6 Bis Cours du 30 Juillet\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3295,7 +3287,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklywfbkc/
@@ -3312,8 +3304,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 1 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Café Napoléon III\, 6 Bis Cours du 30 Juillet\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3330,7 +3321,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nde réunion de préparation du millésime 2017 de l'Agile Tour Bordeaux.\
  nOuvert à tous et à toutes\, que vous ayez envie de vous impliquer dans 
  l'organisation ou que vous ne soyez que simple curieux !\n\nCommunauté: o
- kiwi\n👥 13 participant(s)
+ kiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/238078747/
@@ -3347,8 +3338,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 4 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Café Napoléon III\, 6 Bis Cours du 30 Juillet\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3369,7 +3359,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywfbrb/
@@ -3386,8 +3376,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 3 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Café Napoléon III\, 6 Bis Cours du 30 Juillet\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3405,8 +3394,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  nt autour du code et discuter de manière complètement informelle avant d
  'aller travailler.\nArrivez quand vous le pouvez\, repartez quand vous le 
  voulez\, pas de contrainte autre que passer un bon moment et échanger sur
-  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 5 part
- icipant(s)
+  les sujets qui nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Café Napoléon III\, 6 Bis Cours du 30 Juillet\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -3427,7 +3415,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklywdbkc/
@@ -3444,7 +3432,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  de et discuter de manière complètement informelle avant d'aller travaill
  er.\nArrivez quand vous le pouvez\, repartez quand vous le voulez\, pas de
   contrainte autre que passer un bon moment et échanger sur les sujets qui
-  nous tiennent à coeur.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  nous tiennent à coeur.\n\nCommunauté: okiwi
 LOCATION:Café Des Arts\, Cours Víctor Hugo\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/237680074/
@@ -3460,7 +3448,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   France\n\nPremière réunion pour discuter du millésime 2017 de l'Agile 
  Tour Bordeaux.\nOuvert à tous et à toutes\, que vous ayez envie de vous 
  impliquer dans l'organisation ou que vous ne soyez que simple curieux !\n\
- nCommunauté: okiwi\n👥 11 participant(s)
+ nCommunauté: okiwi
 LOCATION:Le Molly Malone's\, 83 Quai Chartrons 33300 \, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/237520474/
@@ -3480,7 +3468,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywdbrb/
@@ -3500,7 +3488,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklywcbfc/
@@ -3520,7 +3508,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlywcbmb/
@@ -3540,7 +3528,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 3 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvqbjc/
@@ -3560,7 +3548,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 8 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvqbqb/
@@ -3580,7 +3568,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 12 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvpblc/
@@ -3600,7 +3588,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvpbsb/
@@ -3620,7 +3608,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 7 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvnbgc/
@@ -3644,8 +3632,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  couvrir de nouvelles façons de faire\, vous améliorer en code.Et pourquo
  i pas\, l'occasion d'essayer un nouveau langage? \nÇa dure toute la jour
  née\, on commence le matin à 8h45\, à midi on mange ensemble et le soir
-  on prend un verre avec ceux qui le souhaitent.\n\nCommunauté: okiwi\n
- 👥 23 participant(s)\nLimité à 23 places
+  on prend un verre avec ceux qui le souhaitent.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/232841559/
@@ -3665,7 +3652,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvmbjc/
@@ -3684,8 +3671,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
   de 30€ tout compris.\nLa discussion se passe ici -> https://okiwi-fr.sl
  ack.com\nInscriptions pour le slack ici -> http://slack-okiwi.herokuapp.co
  m/\nNotez : Votre RSVP est engageante\, donc si vous pouvez pas venir\, SV
- P\, annuler votre inscription.\n\nCommunauté: okiwi\n👥 29 participant(
- s)\nLimité à 30 places
+ P\, annuler votre inscription.\n\nCommunauté: okiwi
 LOCATION:Salle des fêtes\, Le Bourg\, 47700 Ruffiac\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/230739321/
@@ -3705,7 +3691,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvlbdc/
@@ -3725,7 +3711,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvlblb/
@@ -3745,7 +3731,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvkbhc/
@@ -3765,7 +3751,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 1 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvkbpb/
@@ -3785,7 +3771,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvjbkc/
@@ -3805,7 +3791,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvjbrb/
@@ -3825,7 +3811,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvhbfc/
@@ -3839,8 +3825,7 @@ UID:https://www.meetup.com/software-craftsmanship-bdx/events/230739296/@co
 DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  230739296/\n📍 Coolworking\, 9 rue de Condé\, Bordeaux\, France\n\nL'as
  semblée générale d'Okiwi aura lieu lundi 9 mai au Coolworking\, juste a
- près le dojo déjà planifié.\n\nCommunauté: okiwi\n👥 4 participant(
- s)
+ près le dojo déjà planifié.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/230739296/
@@ -3860,7 +3845,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvhbmb/
@@ -3880,7 +3865,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 9 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvgbhc/
@@ -3900,7 +3885,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvgbpb/
@@ -3920,7 +3905,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 3 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvfblc/
@@ -3940,7 +3925,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvfbsb/
@@ -3960,7 +3945,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvdbdc/
@@ -3980,7 +3965,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvdblb/
@@ -4000,7 +3985,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  sign simple de Kent Beck :\n• passer tous les tests \;\n• aucune dupli
  cation de code \;\n• révéler les intentions par le code\, être très 
  attentif au nommage \;\n• réduire le nombre de classes et de méthodes.
- \n\nCommunauté: okiwi\n👥 4 participant(s)
+ \n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/228422928/
@@ -4020,7 +4005,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklyvcbhc/
@@ -4040,7 +4025,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 2 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlyvcbpb/
@@ -4060,7 +4045,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 1 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytqblc/
@@ -4080,7 +4065,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytqbsb/
@@ -4100,7 +4085,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 10 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytpbfc/
@@ -4120,7 +4105,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 5 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytpbmb/
@@ -4140,7 +4125,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 4 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytnbjc/
@@ -4180,7 +4165,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 7 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytmblc/
@@ -4209,8 +4194,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  3 minutes après chaque présentation.\n- 2ème partie : présentation\, s
  ujet sur la programmation fonctionnelle de 40 minutes avec 20 minutes d'é
  change.\n- 3ème partie : atelier\, comment installer et utiliser ElasticS
- earch dans un environnement Docker.\n\nCommunauté: okiwi\n👥 5 particip
- ant(s)
+ earch dans un environnement Docker.\n\nCommunauté: okiwi
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/225554945/
@@ -4239,8 +4223,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  3 minutes après chaque présentation.\n- 2ème partie : présentation\, s
  ujet sur la programmation fonctionnelle de 40 minutes avec 20 minutes d'é
  change.\n- 3ème partie : atelier\, comment installer et utiliser ElasticS
- earch dans un environnement Docker.\n\nCommunauté: okiwi\n👥 15 partici
- pant(s)
+ earch dans un environnement Docker.\n\nCommunauté: okiwi
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/224989229/
@@ -4262,8 +4245,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  es était de 30 euros. Il comprend :\n* la location de la salle des fêtes
   de RUFFIAC* la location de la tireuse à bière et l'achat de la bière* 
  6 repas (barbecue\, repas végétariens\, traiteur)* l'assurance responsab
- ilité civile\nN'hésitez pas à partager\n\nCommunauté: okiwi\n👥 2 pa
- rticipant(s)
+ ilité civile\nN'hésitez pas à partager\n\nCommunauté: okiwi
 LOCATION:Salle des fêtes\, Le Bourg\, 47700 Ruffiac\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/224762015/
@@ -4283,7 +4265,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 3 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytmbsb/
@@ -4303,7 +4285,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 6 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/mrmfklytlbgc/
@@ -4323,7 +4305,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 13 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytlbnb/
@@ -4343,7 +4325,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 13 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/ctvmjlytkbkc/
@@ -4363,7 +4345,7 @@ DESCRIPTION:🔗 https://www.meetup.com/software-craftsmanship-bdx/events/
  du design simple de Kent Beck :\n• passer tous les tests \;\n• auc
  une duplication de code \;\n• révéler les intentions par le code\, 
  être très attentif au nommage \;\n• réduire le nombre de classes et
-  de méthodes.\n\nCommunauté: okiwi\n👥 7 participant(s)
+  de méthodes.\n\nCommunauté: okiwi
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytkbrb/

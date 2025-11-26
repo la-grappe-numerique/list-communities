@@ -5,23 +5,73 @@ X-WR-CALDESC:Calendrier des événements de la communauté human-talks
 X-WR-CALNAME:Événements human-talks
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Human Talks Bordeaux 12
+SUMMARY:Human Talks Bordeaux #12
 DTSTART;TZID=Europe/Paris:20251209T183000
 DTEND;TZID=Europe/Paris:20251209T203000
 UID:https://www.meetup.com/human-talks-bordeaux/events/311997103/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/311997
- 103/\n📍 EFREI Bordeaux\, 83 Rue Lucien Faure\, 33000 Bordeaux\n\nPour c
- ette prochaine édition\, nous avons la chance d’accueillir 3 intervenan
- ts que vous avez certainement déjà croisés dans la communautés bordela
- ise : Benoït Prioux qui nous présentera la scale-up Alan vue de l’int
- érieur\, Amélie Benoit qui témoignera sans compromis sur son rôle de T
- ech Lead en full remote et Antoine Dumas qui nous racontera son expérienc
- e post-covid en tant que DRH dans une scale-up française. Découvrez le d
- étails des interventions sur la page meetup.\n\nAprès les interventions\
- , nous irons certainement boire un verre dans un bar à proximité. Au pla
- isir de vous y croiser !\n\nCommunauté: human-talks
-LOCATION:EFREI Bordeaux\, 83 Rue Lucien Faure\, 33000 Bordeaux
+ 103/\n📍 EFREI Bordeaux\, 83 Rue Lucien Faure\, Bordeaux\, fr\n\nAprès 
+ quelques mois de pause\, le meetup Human Talks Bordeaux est de retour le *
+ *mardi 9 décembre** à l’EFREI Bordeaux !\n\nHuman Talks Bordeaux c’e
+ st une communauté qui adresse des sujets d’organisations\, de managemen
+ t\, de transformation et de carrière\, principalement dans des contextes 
+ Tech & Product. Au programme de nos meetups ? Des prises de parole courtes
+  et impactantes qui prennent la forme de témoignages\, de récits ou de p
+ résentations\, et animées par des professionnels qui façonnent l’éco
+ système de la Tech & du Produit à Bordeaux.\n\nPour cette prochaine édi
+ tion\, nous avons la chance d’accueillir 3 intervenants que vous avez ce
+ rtainement déjà croisés dans la communautés bordelaise : Benoït Priou
+ x qui nous présentera la scale-up Alan vue de l’intérieur\, Amélie Be
+ noit qui témoignera sans compromis sur son rôle de Tech Lead en full rem
+ ote et Antoine Dumas qui nous racontera son expérience post-covid en tant
+  que DRH dans une scale-up française.\n\nAprès les interventions\, nous 
+ irons certainement boire un verre dans un bar à proximité. Au plaisir de
+  vous y croiser !\n\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nAgenda\n18h30 -
+  Accueil\n\n19h - **Pas de managers chez Alan… enfin si\, mais pas comme
+  vous le pensez** par [Benoît Prioux](https://www.linkedin.com/in/benoit-
+ prioux/)\, Staff Software Engineer @ [Alan](https://alan.com/)\n*Depuis qu
+ atre ans\, je travaille chez Alan dans un cadre 100 % remote et asynchrone
+ \, où la culture d’entreprise repose sur la confiance\, l’autonomie e
+ t la communication asynchrone. Récemment\, j’ai pris un rôle hybride e
+ ntre individual contributor et manager\, une fonction qui me place à la c
+ roisée du leadership technique et du développement des personnes. Dans c
+ ette conférence\, je partagerai un retour d’expérience concret : comme
+ nt le rôle de manager évolue dans un environnement distribué\, comment 
+ maintenir un haut niveau d’exigence technique tout en renforçant la coh
+ ésion et la performance collective\, et comment tirer parti de la communi
+ cation asynchrone pour accompagner les équipes au quotidien.*\n\n19h20 - 
+ **Télétravail international : entre fantasmes et réalités\, RETEX d’
+ une Tech Lead Manager** par [Amélie Benoit](https://www.linkedin.com/in/a
+ m%C3%A9lie-benoit-7611475b/)\, Tech Lead Manager @ [Busbud](https://www.bu
+ sbud.com/fr)\n*Le full remote n’est plus une nouveauté. On parle souven
+ t de ses avantages… et bien moins de ses zones d’ombre. Saupoudrez cel
+ a avec des équipes réparties sur plusieurs continents\, des décalages h
+ oraires et des cultures différentes : la communication peut rapidement de
+ venir piquante. Une phrase anodine\, un emoji mal interprété\, et voilà
+  un malentendu qui prend beaucoup de place. Dans ce talk\, je partagerai c
+ e que j’ai appris en tant que Tech Lead Manager dans une scale-up intern
+ ationale 100% remote : comment instaurer une communication saine malgré l
+ es décalages et transformer la diversité en force pour construire une é
+ quipe soudée.*\n\n19h40 - **Comment l'IA m'a permis de gagner en producti
+ vité sans ne rien faire à ma place ?** par [Antoine Dumas](https://www.l
+ inkedin.com/in/antoinedumasmartin/)\, Founder @ [Érable Studio](https://e
+ rable.io/)\n*2022\, je deviens DRH de facto d'Upflow (fintech en série A\
+ , portefeuille Hexa / ex-eFounders). Je ne connais pas grand-chose à la g
+ estion administrative du personnel. Le service RH croule sous les demandes
+  des collaborateurs et les délais de traitement s'allongent. On fait pres
+ sion pour implémenter des agents IA et un outil de ticketing. Je n'ai pas
+  le temps d'implémenter ces outils. Je sais aussi que de mauvaises répon
+ ses d'un chatbot généreront une charge de travail encore plus grande. Je
+  ne veux pas prendre de risque. Je décide donc d'utiliser l'IA pour parti
+ r à la recherche du temps perdu. L'IA m'accompagne dans la simplification
+  de l'information mise à disposition du personnel. Parce que moins de que
+ stions demandent moins de réponses\, tout simplement. En trois mois\, je 
+ passe de 120+ requêtes par jour à moins de 10. Grâce au temps retrouvé
+ \, je construis un socle nouveau beaucoup plus performant qui tourne encor
+ e aujourd'hui.*\n\n20h - Discussions autour d’un verre\n\n21h30 - Fin\n\
+ nCommunauté: human-talks
+LOCATION:EFREI Bordeaux\, 83 Rue Lucien Faure\, Bordeaux\, fr
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/311997103/
 END:VEVENT
@@ -82,7 +132,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/306118
  ition de l'industrie lourde à la Tech\, en mettant en lumière les compé
  tences transférables et les ajustements nécessaires pour réussir dans u
  n secteur en perpétuelle évolution.*\n20h - Discussions autour d’un ve
- rre\n21h30 - Fin\n\nCommunauté: human-talks\n👥 67 participant(s)
+ rre\n21h30 - Fin\n\nCommunauté: human-talks
 LOCATION:Cdiscount\, 1 Quai Armand Lalande\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/306118686/
@@ -150,8 +200,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/305610
  ntreprise m’a permis de développer une capacité à transformer la comp
  lexité en plan d’action. Toujours curieuse et animée par l’envie d
  ’apprendre\, je cherche constamment à repousser les limites pour créer
-  les solutions de demain.\n\nCommunauté: human-talks\n👥 124 participan
- t(s)
+  les solutions de demain.\n\nCommunauté: human-talks
 LOCATION:ECV Bordeaux\, 26 rue Raze\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/305610389/
@@ -205,7 +254,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/305180
  ’équipe Tech de JobTeaser concernant la généralisation d’un feedbac
  k transparent et constructif qui renforce l'engagement et la performance c
  ollective.*\n20h - Discussions autour d’un verre\n21h30 - Fin\n\nCommuna
- uté: human-talks\n👥 70 participant(s)
+ uté: human-talks
 LOCATION:Betclic Group\, 117 Quai de Bacalan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/305180987/
@@ -266,7 +315,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/304521
  site web\, et une API flambant neuve. Moralité : parfois\, innover\, c’
  est savoir saisir sa chance quand personne n’est là pour te dire "non" 
  !*\n20h - Discussions autour d’un verre\n21h30 - Fin\n\nCommunauté: hum
- an-talks\n👥 32 participant(s)
+ an-talks
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/304521021/
@@ -326,7 +375,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/302988
  ttps://www.humancoders.com/) en 2012. Human Coders est un centre de format
  ion aux techniques de développement informatiques. À suivre sur [Linkedi
  n](https://www.linkedin.com/company/human-coders/) également.*\n\nCommuna
- uté: human-talks\n👥 43 participant(s)
+ uté: human-talks
 LOCATION:HelloAsso\, 2 Rue Marc Sangnier\, Bègles\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/302988117/
@@ -405,7 +454,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/301358
  an Coders](https://www.humancoders.com/) en 2012. Human Coders est un cent
  re de formation aux techniques de développement informatiques. À suivre 
  sur [Linkedin](https://www.linkedin.com/company/human-coders/) également.
- \n\nCommunauté: human-talks\n👥 43 participant(s)
+ \n\nCommunauté: human-talks
 LOCATION:Deezer Bordeaux\, 20 Rue Saint-François\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/301358624/
@@ -465,8 +514,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/300608
  'événement lancé par [Human Coders](https://www.humancoders.com/) en 20
  12. Human Coders est un centre de formation aux techniques de développeme
  nt informatiques. À suivre sur [Linkedin](https://www.linkedin.com/compan
- y/human-coders) également.\n\nCommunauté: human-talks\n👥 18 participa
- nt(s)
+ y/human-coders) également.\n\nCommunauté: human-talks
 LOCATION:DELIRIUM CAFÉ BORDEAUX - Sports Bar & Fun Place\, 30 Quai Virgin
  ie Hériot\, Bordeaux\, France
 TZID:Europe/Paris
@@ -498,7 +546,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/269153
  mécaniques--> Présentation rapide et simple des possibilité que vous po
  uvez avoir si vous vous lancez dans ce hobby. Que ce soit de la custom est
  hétique\, du hardware choisi au petit grain ou les bienfaits que vous pou
- rriez en tirer. 😻\n\nCommunauté: human-talks\n👥 13 participant(s)
+ rriez en tirer. 😻\n\nCommunauté: human-talks
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/human-talks-bordeaux/events/269153276/
@@ -521,7 +569,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/266467
  se Proxy simple et moderne\, par Cyril Beslay- "L'UX design c'est pas qu'd
  u beau !" par Anne Pedro- "Comment et pourquoi passer son infrastructure f
  ull serverless" (retour d'expérience) par Mauduit Florian\n\nCommunauté:
-  human-talks\n👥 34 participant(s)
+  human-talks
 LOCATION:eco-creative incubator Bordeaux Chartrons\, 9 Rue André Darbon\,
   Bordeaux\, France
 TZID:Europe/Paris
@@ -544,7 +592,7 @@ DESCRIPTION:🔗 https://www.meetup.com/human-talks-bordeaux/events/265926
   langages fonctionnels: bienfaits de l'immutabilité au travers d'une dém
  o\, par Jérôme MOLIÈRE- Infra As Code: Terraform / Terraformer - Commen
  t versionner son infra comme notre code\, par Pierre ERRAUD\n\nCommunauté
- : human-talks\n👥 18 participant(s)
+ : human-talks
 LOCATION:Le Wagon Bordeaux\, Training Development Web\, Data Analytics & D
  ata Science\, 107 Cr Balguerie Stuttenberg\, Bordeaux\, France
 TZID:Europe/Paris

@@ -14,7 +14,7 @@
     "title": "Coding dojo",
     "date": "2026-03-02T18:30:00+01:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb/",
-    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n• passer tous les tests ;• aucune duplication de code ;• révéler les intentions par le code, être très attentif au nommage ;• réduire le nombre de classes et de méthodes.\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
     "is_online": false,
     "venue": {
       "name": "Coolworking - Coworking Bordeaux Centre",
@@ -23,7 +23,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -32,7 +31,7 @@
     "title": "Coding dojo",
     "date": "2026-02-02T18:30:00+01:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/",
-    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n• passer tous les tests ;• aucune duplication de code ;• révéler les intentions par le code, être très attentif au nommage ;• réduire le nombre de classes et de méthodes.\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
     "is_online": false,
     "venue": {
       "name": "Coolworking - Coworking Bordeaux Centre",
@@ -41,7 +40,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -50,7 +48,7 @@
     "title": "Coding dojo",
     "date": "2026-01-05T18:30:00+01:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb/",
-    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n• passer tous les tests ;• aucune duplication de code ;• révéler les intentions par le code, être très attentif au nommage ;• réduire le nombre de classes et de méthodes.\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
     "is_online": false,
     "venue": {
       "name": "Coolworking - Coworking Bordeaux Centre",
@@ -59,18 +57,23 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
   },
   {
-    "title": "IA et développement : apprendre à collaborer avec l’intelligence artificielle",
-    "date": "2025-12-11T18:30:00",
+    "title": "IA & développement : apprendre à collaborer avec l’intelligence artificielle",
+    "date": "2025-12-11T18:30:00+01:00",
     "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311991794/",
-    "description": "⚠️ Inscription obligatoire sur le site de Le Wagon : https://www.lewagon.com/fr/events/ia-developpement-apprendre-a-collaborer-avec-l-intelligence-artificielle-QysA48\n\nL’IA s’invite dans tous les parcours — que l’on débute, que l’on se forme ou qu’on cherche à évoluer. Apprendre à travailler avec elle, c’est apprendre à mieux comprendre son rôle et son potentiel. 🤝\n\nPour ce nouveau Bordeaux ApérOps, nous vous invitons à une soirée pour comprendre, apprendre et pratiquer cette synergie — accessible à tous les niveaux : du curieux à l’expert, du profil en reconversion au passionné de MLOps.\nEt cette fois, nous serons accueillis par Le Wagon Bordeaux, lieu emblématique de la formation tech et de la montée en compétence 🚀\n\n***\n\n### 🧠 Au programme :\n\n🔹 Charles PELLEGRINI – IA et développement : pourquoi tous les profils y gagnent\nDu junior au senior, chacun a quelque chose à apprendre de l’IA. Découvrez comment l’intégrer efficacement dans votre parcours de développeur, peu importe votre niveau ou votre expérience.\n🔹 Miguel DIAS – RAG’n’Roll : Ctrl+F pour les LLMs\nComprendre le Retrieval-Augmented Generation (RAG) — ou comment apprendre à une IA à chercher avant de parler.\n\n***\n\n### 🍻 Pourquoi venir ?\n\n- Pour découvrir comment l’IA peut vous accompagner dans votre travail ou votre reconversion\n- Pour comprendre toute la chaîne : de l’utilisation visible de l’IA à son fonctionnement invisible\n- Pour échanger avec la communauté tech bordelaise autour d’un apéro convivial\n***\n\n💡 Un événement pour apprendre, s’inspirer et échanger.\nQue vous soyez développeur·se, data engineer, étudiant·e ou en reconversion, cet ApérOps est fait pour vous.",
-    "location": "Le Wagon Bordeaux  107 cours Balguerie Stuttenberg - Bordeaux",
+    "description": "⚠️ **Inscription obligatoire sur le site de Le Wagon** : https://www.lewagon.com/fr/events/ia-developpement-apprendre-a-collaborer-avec-l-intelligence-artificielle-QysA48\n\nL’IA s’invite dans tous les parcours — que l’on débute, que l’on se forme ou qu’on cherche à évoluer. Apprendre à **travailler avec elle**, c’est apprendre à mieux comprendre son rôle et son potentiel. 🤝\n\nPour ce nouveau **Bordeaux ApérOps**, nous vous invitons à une soirée pour **comprendre, apprendre et pratiquer cette synergie** — accessible à tous les niveaux : du curieux à l’expert, du profil en reconversion au passionné de MLOps.\nEt cette fois, nous serons **accueillis par Le Wagon Bordeaux**, lieu emblématique de la formation tech et de la montée en compétence 🚀\n\n***\n\n### 🧠 **Au programme :**\n\n🔹 **Charles PELLEGRINI** – *IA et développement : pourquoi tous les profils y gagnent*\nDu junior au senior, chacun a quelque chose à apprendre de l’IA. Découvrez comment l’intégrer efficacement dans votre parcours de développeur, peu importe votre niveau ou votre expérience.\n🔹 **Miguel DIAS** – *RAG’n’Roll : Ctrl+F pour les LLMs*\nComprendre le **Retrieval-Augmented Generation (RAG)** — ou comment apprendre à une IA à chercher avant de parler.\n\n***\n\n### 🍻 **Pourquoi venir ?**\n\n* Pour découvrir **comment l’IA peut vous accompagner** dans votre travail ou votre reconversion\n* Pour **comprendre toute la chaîne** : de l’utilisation visible de l’IA à son fonctionnement invisible\n* Pour **échanger avec la communauté tech bordelaise** autour d’un apéro convivial\n\n***\n\n💡 **Un événement pour apprendre, s’inspirer et échanger.**\nQue vous soyez développeur·se, data engineer, étudiant·e ou en reconversion, **cet ApérOps est fait pour vous**.",
     "is_online": false,
+    "venue": {
+      "name": "Le Wagon Bordeaux",
+      "address": "107 cours Balguerie Stuttenberg",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "107 cours Balguerie Stuttenberg, Bordeaux",
     "communities": [
       "bordeaux-aperops"
     ]
@@ -87,6 +90,23 @@
     ]
   },
   {
+    "title": "Human Talks Bordeaux #12",
+    "date": "2025-12-09T18:30:00+01:00",
+    "url": "https://www.meetup.com/human-talks-bordeaux/events/311997103/",
+    "description": "Après quelques mois de pause, le meetup Human Talks Bordeaux est de retour le **mardi 9 décembre** à l’EFREI Bordeaux !\n\nHuman Talks Bordeaux c’est une communauté qui adresse des sujets d’organisations, de management, de transformation et de carrière, principalement dans des contextes Tech & Product. Au programme de nos meetups ? Des prises de parole courtes et impactantes qui prennent la forme de témoignages, de récits ou de présentations, et animées par des professionnels qui façonnent l’écosystème de la Tech & du Produit à Bordeaux.\n\nPour cette prochaine édition, nous avons la chance d’accueillir 3 intervenants que vous avez certainement déjà croisés dans la communautés bordelaise : Benoït Prioux qui nous présentera la scale-up Alan vue de l’intérieur, Amélie Benoit qui témoignera sans compromis sur son rôle de Tech Lead en full remote et Antoine Dumas qui nous racontera son expérience post-covid en tant que DRH dans une scale-up française.\n\nAprès les interventions, nous irons certainement boire un verre dans un bar à proximité. Au plaisir de vous y croiser !\n\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nAgenda\n18h30 - Accueil\n\n19h - **Pas de managers chez Alan… enfin si, mais pas comme vous le pensez** par [Benoît Prioux](https://www.linkedin.com/in/benoit-prioux/), Staff Software Engineer @ [Alan](https://alan.com/)\n*Depuis quatre ans, je travaille chez Alan dans un cadre 100 % remote et asynchrone, où la culture d’entreprise repose sur la confiance, l’autonomie et la communication asynchrone. Récemment, j’ai pris un rôle hybride entre individual contributor et manager, une fonction qui me place à la croisée du leadership technique et du développement des personnes. Dans cette conférence, je partagerai un retour d’expérience concret : comment le rôle de manager évolue dans un environnement distribué, comment maintenir un haut niveau d’exigence technique tout en renforçant la cohésion et la performance collective, et comment tirer parti de la communication asynchrone pour accompagner les équipes au quotidien.*\n\n19h20 - **Télétravail international : entre fantasmes et réalités, RETEX d’une Tech Lead Manager** par [Amélie Benoit](https://www.linkedin.com/in/am%C3%A9lie-benoit-7611475b/), Tech Lead Manager @ [Busbud](https://www.busbud.com/fr)\n*Le full remote n’est plus une nouveauté. On parle souvent de ses avantages… et bien moins de ses zones d’ombre. Saupoudrez cela avec des équipes réparties sur plusieurs continents, des décalages horaires et des cultures différentes : la communication peut rapidement devenir piquante. Une phrase anodine, un emoji mal interprété, et voilà un malentendu qui prend beaucoup de place. Dans ce talk, je partagerai ce que j’ai appris en tant que Tech Lead Manager dans une scale-up internationale 100% remote : comment instaurer une communication saine malgré les décalages et transformer la diversité en force pour construire une équipe soudée.*\n\n19h40 - **Comment l'IA m'a permis de gagner en productivité sans ne rien faire à ma place ?** par [Antoine Dumas](https://www.linkedin.com/in/antoinedumasmartin/), Founder @ [Érable Studio](https://erable.io/)\n*2022, je deviens DRH de facto d'Upflow (fintech en série A, portefeuille Hexa / ex-eFounders). Je ne connais pas grand-chose à la gestion administrative du personnel. Le service RH croule sous les demandes des collaborateurs et les délais de traitement s'allongent. On fait pression pour implémenter des agents IA et un outil de ticketing. Je n'ai pas le temps d'implémenter ces outils. Je sais aussi que de mauvaises réponses d'un chatbot généreront une charge de travail encore plus grande. Je ne veux pas prendre de risque. Je décide donc d'utiliser l'IA pour partir à la recherche du temps perdu. L'IA m'accompagne dans la simplification de l'information mise à disposition du personnel. Parce que moins de questions demandent moins de réponses, tout simplement. En trois mois, je passe de 120+ requêtes par jour à moins de 10. Grâce au temps retrouvé, je construis un socle nouveau beaucoup plus performant qui tourne encore aujourd'hui.*\n\n20h - Discussions autour d’un verre\n\n21h30 - Fin",
+    "is_online": false,
+    "venue": {
+      "name": "EFREI Bordeaux",
+      "address": "83 Rue Lucien Faure",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "83 Rue Lucien Faure, Bordeaux",
+    "communities": [
+      "human-talks"
+    ]
+  },
+  {
     "title": "CNCF Meetup #12",
     "date": "2025-12-09T18:30:00",
     "url": "https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/",
@@ -98,14 +118,20 @@
     ]
   },
   {
-    "title": "Human Talks Bordeaux 12",
-    "date": "2025-12-09T18:30:00",
-    "url": "https://www.meetup.com/human-talks-bordeaux/events/311997103/",
-    "description": "Pour cette prochaine édition, nous avons la chance d’accueillir 3 intervenants que vous avez certainement déjà croisés dans la communautés bordelaise : Benoït Prioux qui nous présentera la scale-up Alan vue de l’intérieur, Amélie Benoit qui témoignera sans compromis sur son rôle de Tech Lead en full remote et Antoine Dumas qui nous racontera son expérience post-covid en tant que DRH dans une scale-up française. Découvrez le détails des interventions sur la page meetup.\n\nAprès les interventions, nous irons certainement boire un verre dans un bar à proximité. Au plaisir de vous y croiser !",
-    "location": "EFREI Bordeaux, 83 Rue Lucien Faure, 33000 Bordeaux",
+    "title": "Créer un Chatbot Intelligent avec LangChain4j",
+    "date": "2025-12-08T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/312127890/",
+    "description": "Vous êtes-vous déjà demandé comment ajouter des capacités de chat intelligentes à vos applications Java sans vous noyer dans la complexité de l'IA ? Cette présentation pratique vous guide dans la construction d'un chatbot intelligent, illustrant l'approche conviviale de LangChain4j pour l'intégration d'IA en entreprise.\nCe que vous allez apprendre :\n\n* **Commencer simplement** : intégration de chat WebSocket avec Quarkus\n* **Ajouter de l'intelligence** : intégrer un LLM pour des conversations naturelles\n* **Sécuriser** : modération de contenu avec un modèle d'IA de modération pour gérer les messages inappropriés\n* **Mémoriser le contexte** : mémoire de chat persistante en utilisant d'abord de la mémoire volatile puis Redis pour des conversations multi-sessions\n* **Accéder à la connaissance** : RAG (Retrieval Augmented Generation) avec la base de données vectorielle Qdrant pour des réponses spécifiques à l'entreprise\n* **Connecter le métier** : appel de fonctions pour accéder à l'inventaire en temps réel, aux données utilisateur et à la logique métier\n\nPoints techniques clés :\n\n* **Implémentation réelle** : chatbot e-commerce fonctionnel avec intégration métier réelle\n* **Amélioration progressive** : chaque étape s'appuie naturellement sur la fonctionnalité précédente\n* **Prêt pour la production** : inclut des garde-fous, gestion d'erreurs, gestion de la mémoire et monitoring\n* **IA type-safe** : l'approche basée sur les annotations de LangChain4j élimine le code répétitif\n* **Fonctionnalités d'entreprise** : modération de contenu, mémoire persistante, RAG et appel de fonctions\n* **Parfait pour : les développeurs Java** souhaitant ajouter des capacités d'IA à leurs applications existantes, les architectes concevant des systèmes d'IA conversationnelle, et toute personne curieuse des modèles d'intégration pratiques de l'IA.\n\n**Démo en direct incluse** : découvrez le chatbot complet en action, des réponses en écho basiques au service client intelligent avec récupération de documents et intégration de systèmes métier.",
     "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
-      "human-talks"
+      "bordeauxjug"
     ]
   },
   {
@@ -113,7 +139,6 @@
     "date": "2025-12-08T19:00:00",
     "url": "https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j",
     "description": "Vous êtes-vous déjà demandé comment ajouter des capacités de chat intelligentes à vos applications Java sans vous noyer dans la complexité de l'IA ? Cette présentation pratique vous guide dans la construction d'un chatbot intelligent, illustrant l'approche conviviale de LangChain4j pour l'intégration d'IA en entreprise. Ce que vous allez apprendre : Commencer simplement : intégration de chat WebSocket avec Quarkus Ajouter de l'intelligence : intégrer un LLM pour des conversations naturelles Sécuriser : modération de contenu avec un modèle d'IA de modération pour gérer les messages inappropriés Mémoriser le contexte : mémoire de chat persistante en utilisant d'abord de la mémoire volatile puis Redis pour des conversations multi-sessions Accéder à la connaissance : RAG (Retrieval Augmented Generation) avec la base de données vectorielle Qdrant pour des réponses spécifiques à l'entreprise Connecter le métier : appel de fonctions pour accéder à l'inventaire en temps réel, aux données utilisateur et à la logique métier Points techniques clés : Implémentation réelle : chatbot e-commerce fonctionnel avec intégration métier réelle Amélioration progressive : chaque étape s'appuie naturellement sur la fonctionnalité précédente Prêt pour la production : inclut des garde-fous, gestion d'erreurs, gestion de la mémoire et monitoring IA type-safe : l'approche basée sur les annotations de LangChain4j élimine le code répétitif Fonctionnalités d'entreprise : modération de contenu, mémoire persistante, RAG et appel de fonctions Parfait pour : les développeurs Java souhaitant ajouter des capacités d'IA à leurs applications existantes, les architectes concevant des systèmes d'IA conversationnelle, et toute personne curieuse des modèles d'intégration pratiques de l'IA. Démo en direct incluse : découvrez le chatbot complet en action, des réponses en écho basiques au service client intelligent avec récupération de documents et intégration de systèmes métier.",
-    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer, 33400 Talence",
     "is_online": false,
     "communities": [
       "bordeauxjug"
@@ -131,6 +156,23 @@
     ]
   },
   {
+    "title": "🍷🍻 L'Apéro Web Bordeaux",
+    "date": "2025-12-02T19:00:00+01:00",
+    "url": "https://www.meetup.com/apero-web-bordeaux/events/311727286/",
+    "description": "Le principe de l'Apéro Web est simple : réunir les personnes travaillant dans les métiers liés au web et/ou la tech (au sens large) lors d'un afterwork convivial.\nSi vous souhaitez rencontrer de nouvelles personnes, échanger et passer un bon moment, alors cet afterwork est fait pour vous !\n\n📆 Rendez-vous mardi 2 décembre (à partir de 19h)\n📍 Bar \"The Houses of Parliament\"\n\nPensez à rejoindre le groupe LinkedIn pour ne pas râter les news !\nhttps://www.linkedin.com/company/apero-web-bdx/\n\n🙏 On a besoin de vous pour réunir le maximum de personnes et créer un afterwork au top :\n1️⃣ Partagez & likez ce post\n2️⃣ Tagguez vos collègues/amis/connaissances\n\nMerci ! Vous êtes au top 🤩",
+    "is_online": false,
+    "venue": {
+      "name": "The Houses of Parliament",
+      "address": "11 Rue Parlement Sainte-Catherine",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "11 Rue Parlement Sainte-Catherine, Bordeaux",
+    "communities": [
+      "apero-web"
+    ]
+  },
+  {
     "title": "Afterwork networking entre acteur du digital - DN#21 & anniversaire",
     "date": "2025-12-02T19:00:00",
     "url": "https://www.eventbrite.fr/e/afterwork-networking-entre-acteur-du-digital-dn21-anniversaire-tickets-1963595401705",
@@ -142,12 +184,18 @@
     ]
   },
   {
-    "title": "MEETUP #4 - BDX Testing Community @Betclic",
-    "date": "2025-12-02T18:00:00",
+    "title": "MEETUP #4 - BDX Testing Community",
+    "date": "2025-12-02T18:00:00+01:00",
     "url": "https://www.meetup.com/bdx-testing-community/events/311642889/",
-    "description": "Rejoignez-nous pour une nouvelle soirée dédiée aux passionnés du test logiciel ! Au programme : 3 talks suivis d'un moment convivial d'échanges et de partages.\n\n**Détails de l'événement**\n\n- **Date** : 2 décembre 2025\n- **Lieu** : Betclic, 117 Quai de Bacalan, 33300 Bordeaux\n- **Horaires** : 18h-22h\n\n**Sujets des Talks**\n\n**Talk 1**: \" TMMi : Évaluez et faîtes progresser vos services de test\" par Frédéric Levalet\n**Talk 2**: \" De 2010 à 11 tests end-to-end - Optimiser la couverture tout en réduisant les temps d'exécution\" par Nicolas Lespiaucq\n**Talk 3**: \"Au secours, mon manager me demande des KPIs\" par Geoffrey Graveaud\nNous attendons avec impatience de vous retrouver nombreux pour une nouvelle soirée enrichissante !\n\nLes inscriptions sont ouvertes jusqu'au 27 novembre.",
-    "location": "Betclic, 117 Quai de Bacalan, 33300 Bordeaux",
+    "description": "Rejoignez-nous pour une nouvelle soirée dédiée aux passionnés du test logiciel ! Au programme : 3 talks suivis d'un moment convivial d'échanges et de partages.\n\n**Détails de l'événement**\n\n* Date : 2 décembre 2025\n* Lieu : Betclic, 117 Quai de Bacalan, 33300 Bordeaux\n* Horaires : 18h-22h\n\n**Sujets des Talks**\n\n* **Talk 1:** \" TMMi : Évaluez et faîtes progresser vos services de test\" par *Frédéric Levalet*\n* **Talk 2:** \" De 2010 à 11 tests end-to-end - Optimiser la couverture tout en réduisant les temps d'exécution\" par *Nicolas Lespiaucq*\n* **Talk 3:** \"Au secours, mon manager me demande des KPIs\" par *Geoffrey Graveaud*\n\nNous attendons avec impatience de vous retrouver nombreux pour une nouvelle soirée enrichissante !\n\nLes inscriptions sont ouvertes jusqu'au 27 novembre.\n\n***\n\n**Détails des talks**\n\n* **Talk 1:** \" TMMi : Évaluez et faîtes progresser vos services de test\" par *Frédéric Levalet*\n*Description:*\nL’objectif de ce talk est de présenter les avantages d’utiliser le modèle TMMi pour une organisation qui souhaite structurer, professionnaliser et améliorer ses pratiques de test logiciel.\nJe présenterai également les étapes de mise en œuvre et le déroulement d’un audit menant à une certification. Les illustrations se feront à travers des retours d’expériences de structures en France certifiées TMMi.\n* **Talk 2:** \" De 2010 à 11 tests end-to-end - Optimiser la couverture tout en réduisant les temps d'exécution\" par *Nicolas Lespiaucq*\n*Description:*\nLa pyramide de test est un concept connu, mais son implémentation et sa cohérence dans le temps restent un défi.\nDécouvrez le REX sur un cas concret où nous avons réaligné nos tests (unitaires, composants, end-to-end), renforcé le shift left et la collaboration entre développeurs et QA engineers.\nSi vous souhaitez savoir comment améliorer la couverture et les performances des tests, c'est par ici !\n* **Talk 3:** \"Au secours, mon manager me demande des KPIs\" par *Geoffrey Graveaud*\n*Description:*\nKevin était un bon lead technique. Il travaillait dans une équipe de développement de 8 personnes. Il soutenait son équipe, il était respecté et il était écouté par son manager.\nMais un jour, son responsable lui demanda de mesurer la productivité de son équipe.\nEt lui demanda la chose dont on ne dit pas le nom !Des KPIs...\nAinsi, la vie de Kevin bascule et débute ainsi une période sombre.Heureusement sur la route de son périple, il rencontre Eline - une coach agile expérimentée.\nA eux 2, ils feront face à la cruauté du destin et ils chercheront à déjouer ce mauvais sort.Rétabliront-ils la paix et l'ordre dans leur équipe ?",
     "is_online": false,
+    "venue": {
+      "name": "Betclic Everest Group",
+      "address": "117 Quai de Bacalan",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "117 Quai de Bacalan, Bordeaux",
     "communities": [
       "bdx-testing-community"
     ]
@@ -156,7 +204,7 @@
     "title": "Coding dojo",
     "date": "2025-12-01T18:30:00+01:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/",
-    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n• passer tous les tests ;• aucune duplication de code ;• révéler les intentions par le code, être très attentif au nommage ;• réduire le nombre de classes et de méthodes.\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
     "is_online": false,
     "venue": {
       "name": "Coolworking - Coworking Bordeaux Centre",
@@ -165,7 +213,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -175,7 +222,6 @@
     "date": "2025-11-28T09:00:00",
     "url": "https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac730ffcc",
     "description": "Un [forum ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) organisé par Okiwi. Attendez-vous à l'inattendu.\n\nUn forum ouvert est une \"non-conférence\" où les participants apportent les sujets dont ils souhaitent parler, le planning est créé en début de journée tous ensemble, puis chacun suit ses envies et participe aux sessions qui l'intéresse (plusieurs salles sont disponibles et permettent plusieurs discussions simultanées).\n\nLe petit déjeuner et le repas du midi sont offerts par Okiwi.\n\nAttention : l'inscription est limitée à 30 personnes et l'évènement est en présentiel, si vous êtes inscrit vous vous engagez à venir, vérifiez votre disponibilité pour la journée 😄",
-    "location": "Yack, 16 rue des Terres Neuves, 33130, Bègles",
     "is_online": false,
     "communities": [
       "okiwi"
@@ -197,7 +243,6 @@
     "date": "2025-11-20T18:50:00",
     "url": "https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4",
     "description": "Spring Boot 4.0 est prévu pour novembre prochain. Même si la baseline reste toujours à Java 17, c’est l’occasion idéale de profiter des nouveautés du langage et du framework.\n\nStéphane commencera par mettre à jour une application existante vers Spring Boot 4.0.\n\nEn chemin, nous verrons comment éviter à l’avenir les NullPointerExceptions en production grâce aux null checks ajoutés dans les projets Spring avec JSpecify.\n\nNous en profiterons aussi pour revoir l’organisation des dépendances : Spring Boot propose désormais des modules plus fins qui offrent davantage de souplesse.\n\nL’intégration de Jackson 3.0 simplifie la configuration et apporte des réglages plus modernes.\n\nEnfin, nous découvrirons comment utiliser un RestClient dans des scénarios asynchrones, sans avoir recours aux types réactifs.",
-    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer, 33400 Talence",
     "is_online": false,
     "communities": [
       "bordeauxjug"
@@ -293,7 +338,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -358,7 +402,6 @@
     "date": "2025-10-16T19:00:00",
     "url": "https://www.meetup.com/bordeauxjug/events/311318217/",
     "description": "Je travaille sur une data pipeline basée initialement sur Kafka Stream et Snowflake. Les tests d’intégration utilisent l’outil Open Source [Kapoeira](https://github.com/lectra-tech/kapoeira). Mais récemment, la pipeline a évolué pour intégrer DBT et se connecter à RabbitMQ et PostgreSQL.\n\nMais comment tester toutes ces API, utilisant plusieurs protocoles (HTTP, AMQP, Kafka, JDBC) ? Vous connaissez sans doute l’outil Open Source [Karate](https://github.com/karatelabs/karate) pour tester vos API HTTP. Il propose des extensions (RabbitMQ, Kafka, …), pas toujours simples à utiliser ou en mode Closed Source sous licence payante.\n\nJe vous propose le partenaire idéal pour relever ce challenge : [Karate Connect](https://github.com/lectra-tech/karate-connect), Open Source, utilisant Karate Core et gérant nativement plusieurs protocoles via ses extensions.\n\nÊtes-vous prêt à combattre dans l’arène des tests API ?",
-    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer · Talence",
     "is_online": false,
     "communities": [
       "bordeauxjug"
@@ -391,7 +434,6 @@
     "date": "2025-10-15T18:30:00",
     "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",
     "description": "### Événement Bordeaux ApérOps #2\n\nDescription :\nPour ce deuxième rendez-vous Bordeaux ApérOps, nous vous proposons une soirée double thématique autour de la data et de l’IA :\n\n### ⚙️dbt : Garantissez la Qualité de vos Données Grâce à des Tests Robustes\n\n🎤 Jérémy Nadal - Data Engineer @Ippon Technologies\n\n### 🪴 Comment estimer l'empreinte carbone d'un modèle d'IA de l'entraînement à la mise en production\n\n🎤 Sonia Tabti, PhD - Computer Vision & VLM Expert\n\n🍻 Comme toujours, échanges, retours d’expérience et convivialité autour d’un apéro !\nRejoignez-nous pour une soirée qui mêle rigueur technique et réflexion responsable, à l’image de la communauté DataOps & MLOps bordelaise.",
-    "location": "Ippon Technologies Bordeaux - 44 Allée de Tourny · Bordeaux",
     "is_online": false,
     "communities": [
       "aperops-dataops-mlops"
@@ -421,7 +463,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -638,7 +679,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -656,7 +696,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -685,7 +724,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -695,7 +733,6 @@
     "date": "2025-07-03T19:00:00",
     "url": "https://www.linkedin.com/events/l-ap-rowebbordeaux-67343310647826276353/comments/",
     "description": "🍷🍻 L'Apéro Web Bordeaux\n\nLe principe de l'Apéro Web est simple : réunir les personnes qui font la tech lors d'un afterwork convivial dans un bar bordelais: CEO, CTO, Devs, PO, PM, UX/UI, SEO, SEM, CM, SRE, DA, DevOps, growth hackers etc...\nSi votre métier a un rapport avec le web ou la tech, cet apéro est fait pour vous !\n\n📆 Rendez-vous le jeudi 3 juillet (à partir de 19h)\n📍 Bar L'Engrenage\n\nPensez à rejoindre le groupe LinkedIn pour ne pas râter les news !\n\n🙏 On a besoin de vous pour réunir toutes les personnes qui font le web à Bordeaux et créer un afterwork au top :\n1️⃣ Partagez & likez ce post\n2️⃣ Tagguez vos collègues/amis/connaissances qui travaillent dans le web\n\nOn compte sur vous ! 🤩",
-    "location": "Bar L'Engrenage",
     "is_online": false,
     "communities": [
       "apero-web"
@@ -761,7 +798,6 @@
     "date": "2025-06-12T19:00:00",
     "url": "https://www.bordeauxjug.org/",
     "description": "Le package `java.util.function` fêtera ses 11 ans en 2025 et force est de constater que malgré son omniprésence dans nos développements, son utilisation reste probablement sous-estimé et mal comprise.\n\nAvez-vous déjà utilisé ces classes comme paramètre de vos méthodes ? Avez-vous déjà utilisé leur capacité de composition ? Ne vous êtes vous jamais dit que cet héritage douteux entre deux classes, ne vous plait pas, mais que faute de mieux, il reste là ?\n\nSans pour autant abuser des concepts de programmation fonctionnelle, nous aimerions vous présenter pendant ce talk à travers de cas concrets, une utilisation plus avancée du package [java.util.function.](http://java.util.function./)\nFonctions anonymes, d’ordre supérieur ou encore la composition de fonctions, toutes ces notions n’auront désormais plus de secret pour vous et trouveront une place de choix dans votre boîte à outils de refactoring.\n\nVous repartirez avec un dépôt git avant/après en prime !\n\nPlus d'information sur le site du JUG : http://bordeauxjug.org/meetings/20260612-les_super_pouvoirs_du_package_java.util.function",
-    "location": "ENSEIRB 1 Avenue du Docteur Albert Schweitzer · Talence",
     "is_online": false,
     "communities": [
       "bordeauxjug"
@@ -802,7 +838,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -831,7 +866,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -912,7 +946,6 @@
       "country": "France"
     },
     "location": "9 Rue de Condé, Bordeaux",
-    "rsvp_limit": 15,
     "communities": [
       "okiwi"
     ]
@@ -949,8 +982,6 @@
       "country": "France"
     },
     "location": "44 All. de Tourny, Bordeaux",
-    "rsvp_limit": 33,
-    "rsvp_count": 19,
     "communities": [
       "okiwi"
     ]
@@ -986,7 +1017,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 4,
     "communities": [
       "bordeauxjug"
     ]
@@ -1023,7 +1053,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 6,
     "communities": [
       "bordeauxjug"
     ]
@@ -1082,7 +1111,6 @@
       "country": "France"
     },
     "location": "1 Quai Armand Lalande, Bordeaux",
-    "rsvp_count": 67,
     "communities": [
       "human-talks"
     ]
@@ -1100,7 +1128,6 @@
       "country": "France"
     },
     "location": "40 Allées d'Orléans , Bordeaux",
-    "rsvp_count": 42,
     "communities": [
       "apero-web"
     ]
@@ -1192,7 +1219,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 19,
     "communities": [
       "bordeauxjug"
     ]
@@ -1221,7 +1247,6 @@
       "country": "France"
     },
     "location": "26 rue Raze, Bordeaux",
-    "rsvp_count": 124,
     "communities": [
       "human-talks"
     ]
@@ -1313,7 +1338,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 25,
     "communities": [
       "bordeauxjug"
     ]
@@ -1331,7 +1355,6 @@
       "country": "France"
     },
     "location": "117 Quai de Bacalan, Bordeaux",
-    "rsvp_count": 70,
     "communities": [
       "human-talks"
     ]
@@ -1349,7 +1372,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 14,
     "communities": [
       "bordeauxjug"
     ]
@@ -1385,7 +1407,6 @@
       "country": "France"
     },
     "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 32,
     "communities": [
       "human-talks"
     ]
@@ -1422,7 +1443,6 @@
       "country": "France"
     },
     "location": "39 Rue Ausone, Bordeaux",
-    "rsvp_count": 65,
     "communities": [
       "apero-web"
     ]
@@ -1458,7 +1478,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 27,
     "communities": [
       "bordeauxjug"
     ]
@@ -1551,7 +1570,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 27,
     "communities": [
       "bordeauxjug"
     ]
@@ -1643,7 +1661,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 29,
     "communities": [
       "bordeauxjug"
     ]
@@ -1680,7 +1697,6 @@
       "country": "France"
     },
     "location": "63 Rue Lucien Faure Dock G6, Bordeaux",
-    "rsvp_count": 45,
     "communities": [
       "apero-web"
     ]
@@ -1717,7 +1733,6 @@
       "country": "France"
     },
     "location": "2 Rue Marc Sangnier, Bègles",
-    "rsvp_count": 43,
     "communities": [
       "human-talks"
     ]
@@ -1754,7 +1769,6 @@
       "country": "France"
     },
     "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_count": 6,
     "communities": [
       "bordeauxjug"
     ]
@@ -1791,7 +1805,6 @@
       "country": "France"
     },
     "location": "118 Quai de Bacalan, Bordeaux",
-    "rsvp_count": 67,
     "communities": [
       "apero-web"
     ]
@@ -1885,7 +1898,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 17,
     "communities": [
       "bordeauxjug"
     ]
@@ -1903,7 +1915,6 @@
       "country": "France"
     },
     "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_count": 43,
     "communities": [
       "human-talks"
     ]
@@ -1976,7 +1987,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10,
     "communities": [
       "bordeauxjug"
     ]
@@ -2049,7 +2059,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 16,
     "communities": [
       "bordeauxjug"
     ]
@@ -2085,7 +2094,6 @@
       "country": "France"
     },
     "location": "30 Quai Virginie Hériot, Bordeaux",
-    "rsvp_count": 18,
     "communities": [
       "human-talks"
     ]
@@ -2214,7 +2222,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 17,
     "communities": [
       "bordeauxjug"
     ]
@@ -2262,7 +2269,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 24,
     "communities": [
       "bordeauxjug"
     ]
@@ -2347,7 +2353,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10,
     "communities": [
       "bordeauxjug"
     ]
@@ -2440,7 +2445,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 16,
     "communities": [
       "bordeauxjug"
     ]
@@ -2543,7 +2547,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 34,
     "communities": [
       "bordeauxjug"
     ]
@@ -2673,7 +2676,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 14,
     "communities": [
       "bordeauxjug"
     ]
@@ -2748,7 +2750,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 21,
     "communities": [
       "bordeauxjug"
     ]
@@ -2944,7 +2945,6 @@
       "country": "France"
     },
     "location": "20 All. du 7ème art, Talence",
-    "rsvp_count": 5,
     "communities": [
       "bordeauxjug"
     ]
@@ -3036,7 +3036,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 24,
     "communities": [
       "bordeauxjug"
     ]
@@ -3146,7 +3145,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 13,
     "communities": [
       "bordeauxjug"
     ]
@@ -3219,7 +3217,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 13,
     "communities": [
       "bordeauxjug"
     ]
@@ -3321,7 +3318,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 4,
     "communities": [
       "bordeauxjug"
     ]
@@ -3376,7 +3372,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10,
     "communities": [
       "bordeauxjug"
     ]
@@ -3478,7 +3473,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 12,
     "communities": [
       "bordeauxjug"
     ]
@@ -3580,7 +3574,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 11,
     "communities": [
       "bordeauxjug"
     ]
@@ -3634,7 +3627,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 24,
     "communities": [
       "bordeauxjug"
     ]
@@ -3773,7 +3765,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 18,
     "communities": [
       "bordeauxjug"
     ]
@@ -3791,7 +3782,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 7,
     "communities": [
       "bordeauxjug"
     ]
@@ -3856,7 +3846,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 16,
     "communities": [
       "bordeauxjug"
     ]
@@ -3930,7 +3919,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10,
     "communities": [
       "bordeauxjug"
     ]
@@ -3960,7 +3948,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/284773930/",
     "description": "Regardless of the schema language, there are three key problems in a schema architecture:\n* the reusability of data structure definitions* the expressivity of the schema language* the developer experience\nNav is a Small Business Lending platform built on a polyglot microservice architecture, complemented by an event bus. It is essential for us to develop a consistent way to validate our message payloads (APIs and events) across all microservices. Considering that it has one of the best DevX in the industry, we got the idea to use GraphQL as a schema language without any runtime component. After all, a GraphQL query describes the payload requested by a client, so why not use the same syntax to create a message definition and generate client-side and server-side validation code?\nNav’s Schema Architecture has been used in production since last September and we can already see some of the key benefits:\n* Rich validation rules* A consistent set of validation rules regardless of the language (Golang, Python, Ruby and JSON-schema).* An intuitive DevX that allows us to onboard engineers very quickly* A communication mechanism that conveys easily and precisely reusable data types across all payloads* A massive productivity gain with a 10-20X compression factor between the payload definition and the amount of generated code\nThese benefits proved to be very useful in the implementation of our event-driven architecture. We are now using for gRPC and protobuf as well.\n**Agenda:**\n* Introduction à GraphQL* Pourquoi a-t’on besoin de valider les payloads des APIs et des Événements?* Pourquoi ca ne marche pas avec les technologies classiques (json-schema par exemple)* Presentation du projet Nav Schema Architecture (FOSS)",
     "is_online": true,
-    "rsvp_count": 27,
     "communities": [
       "bordeauxjug"
     ]
@@ -3997,7 +3984,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 5,
     "communities": [
       "bordeauxjug"
     ]
@@ -4067,7 +4053,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 26,
     "communities": [
       "bordeauxjug"
     ]
@@ -4122,7 +4107,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 38,
     "communities": [
       "bordeauxjug"
     ]
@@ -4185,7 +4169,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/280673402/",
     "description": "Trois Conférenciers :- Andy Damevin- Clément Escoffier- Loic Mathieu\nEmportée par le vent et dans un esprit très Rock’n Roll, l'équipe Quarkus lance sa tournée mondiale des zéniths.\nCes 25 dernières années, jamais Java, qui s’est produit partout dans le monde, n’avait connu un tel événement. Nous couvrirons les classiques comme “Start Me Up” et \"Living' on a VM\", mais également quelques nouveautés comme “ \"Stairway to Native\", \"Sweet JPA of Mine\" et bien d’autres encore.\nDurant ce concert, l’équipe Quarkus vous offrira une expérience “Hands-on” unique: Une introduction à Quarkus, suivi d’une ou deux demo “Hands-on” et pour terminer, une session Q&A avec les membres du groupe ... euh … des développeurs impliqués.\nAlors, rejoignez-nous ! Nous explorerons comment Quarkus aide les développeurs pour être plus productifs, créer des chef-d'œuvre modernes et tout ça dans le fun : 90 minutes exceptionnelles de discussion technique, live coding et Q&A - de quoi dépoussiérer vos classiques !\nAh et on aura également des goodies … comme des T-Shirts de la tournée peut-être?\nAllez, Time to rock the Java world 2021 style…\nPlus d'informations sur le http://www.bordeauxjug.org/",
     "is_online": true,
-    "rsvp_count": 27,
     "communities": [
       "bordeauxjug"
     ]
@@ -4214,8 +4197,6 @@
       "country": "France"
     },
     "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_limit": 10,
-    "rsvp_count": 7,
     "communities": [
       "bordeauxjug"
     ]
@@ -4226,7 +4207,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/278914207/",
     "description": "Pendant 20 ans, Java EE a évolué à un train sénatorial. Depuis une dizaine d'années, les applications se sont transformées pour devenir cloud-natives. Java se trouve aujourd'hui contraint de s'adapter à ce nouveau contexte, en particulier pour fonctionner de manière optimum dans les infrastructures modernes basées sur Kubernetes:\n- Il doit permettre de développer facilement des applications observables et résistantes aux pannes,- Il doit devenir frugal en ressources systèmes, en particulier réduire sa consommation mémoire,- Il doit démarrer rapidement.\nCette présentation a pour but de démontrer les différentes options qui permettent d'atteindre ces objectifs :\n- L'évolution de Java EE vers Jakarta EE et MicroProfile,- L'offre logicielle autour des ces standards: Quarkus, OpenLiberty, Payara, KumuluzEE, TomEE, Helidon ...- GraalVM et les promesses du mode natif.\nLa présentation sera basée sur quelques slides, une démo inspirée d'un cas réel et des résultats de benchmarks récents.",
     "is_online": true,
-    "rsvp_count": 35,
     "communities": [
       "bordeauxjug"
     ]
@@ -4278,7 +4258,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/278050081/",
     "description": "Gradle est un outil de build puissant, souvent comparé à Maven, mais cette comparaison induit souvent des problèmes de compréhension parce qu'ils ont un modèle en pratique bien différent.\nDans cette présentation, nous proposons une introduction à Gradle, quels sont les concepts de base, quelles commandes invoquer, ce qu'est un build script, etc... dans l'objectif d'avoir à l'issue de la session les bases nécessaires à lire et commencer à écrire des builds Gradle.\nPlus d'informations sur notre site https://www.bordeauxjug.org",
     "is_online": true,
-    "rsvp_count": 43,
     "communities": [
       "bordeauxjug"
     ]
@@ -4319,7 +4298,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/277451860/",
     "description": "Java 16 est disponible depuis mars 2021. Java évolue rapidement avec cette cadence de sortie tous les 6 mois. Chaque version apporte son lot de nouveautés et la version 16 ne déroge pas à la règle.\nCependant, selon le dernier rapport 2021 de la société Snyk sur l'éco-système JVM, nous voyons que deux développeurs sur trois utilisent le JDK 8 en production et seulement un développeur sur quatre utilise un JDK 11.\nSi chaque version est intéressante, la version 16 est très intéressante à deux titres :- Certaines fonctionnalités en mode aperçu (\"Preview\") arrivent en standard dans le langage,- La prochaine version, Java 17, est une version LTS (Long-Term Support)\nJe vous présenterai les nouvelles fonctionnalités. Pour cela, rien de mieux que de coder en direct afin de bien comprendre leurs intérêts.\nCela va transformer votre manière de coder et vous vous demanderez après comment vous avez fait sans.\nVenez me rejoindre !\nPlus d'information sur le site du JUG : http://www.bordeauxjug.org",
     "is_online": true,
-    "rsvp_count": 72,
     "communities": [
       "bordeauxjug"
     ]
@@ -4363,7 +4341,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/277008416/",
     "description": "Lundi 22 Mars à 19h00 en visio (sans inscription) se tiendra l'Assemblée Générale ordinaire du Bordeaux JUG.\nLes soirées du BordeauxJUG sont organisées par des bénévoles. L'association a besoin de volontaire comme vous pour poursuivre ces activités\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.\nNous rappelons que l'AG est ouverte à tous. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\nN'hésitez donc pas à verser votre obole sur http://www.bordeauxjug.org/members avant l'AG pour pouvoir voter !",
     "is_online": true,
-    "rsvp_count": 12,
     "communities": [
       "bordeauxjug"
     ]
@@ -4386,7 +4363,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/276719004/",
     "description": "D'un côté JHipster, LE générateur d'application le plus connus de l'écosystème Java pour générer des applications fullstack.\nDe l'autre Quarkus, le dernier framework de Red Hat qui annonce des performances époustouflantes.\nL'occasion était trop belle, rajouter un backend Quarkus à JHipster en utilisant le concept de \"blueprint\".\nDurant cette présentation, nous aborderons les points suivants:- C'est quoi JHipster et surtout c'est quoi un blueprint- C'est quoi Quarkus et pourquoi autant de hype.- JHipster-Quarkus* Comment l'installer* Generation d'une app de commerce en ligne avec un backend Quarkus qui pèse 80M de mémoire et démarre en 0.0.1* Generation d'une entité en passant par le formulaire en CLI* L'utilisation du JDL (JHipster Description Language) pour aller encore plus vite- Comment aller plus loin- Le futur.\nMore information on http://www.bordeauxjug.org",
     "is_online": true,
-    "rsvp_count": 59,
     "communities": [
       "bordeauxjug"
     ]
@@ -4409,7 +4385,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/276178510/",
     "description": "Hibernate is the de-facto standard for persisting data in a relational database. It provides excellent developer productivity and is so easy to use that you can learn it within a few hours.\nThat changes as soon as your application needs to handle a huge amount of data or if you want to guarantee very short response times. Features and concepts that work perfectly fine for smaller applications start to become a burden that slows down your application.\nBut that doesn’t have to be the case for your application. Hibernate is a great fit for complex projects with high-performance requirements. You only need to know which features to use and which you should better avoid.\nDuring this talk, I will show you how to get the most out of your Hibernate-based persistence layer. By following these recommendations, you will be able to enjoy Hibernate’s developer productivity and provide a blazingly fast experience to your users.\nMore information on http://www.bordeauxjug.org",
     "is_online": true,
-    "rsvp_count": 51,
     "communities": [
       "bordeauxjug"
     ]
@@ -4475,7 +4450,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/275773605/",
     "description": "The saying goes that there are only two hard things in Computer Science: cache invalidation and naming things.\nWell, turns out the first is solved actually ;)\nCome and join us for a session to hear not about one, but two popular open-source projects.\nFirst, Infinispan, an in-memory distributed data store and cache, which is elastically scalable, highly availability and fault-tolerant.\nThen, Debezium, a change data capture (CDC) platform for a variety of databases, such as MySQL, PostgreSQL and MongoDB.\nAfter an overview of the key use cases and capabilities of the two projects, we'll explore in a demo how you can combine Debezium and Infinispan for even greater awesomeness:\nHow to keep your cache automatically up-to-date after data changes via Debezium and CDC\nHow to read denormalized views of your data with plain key look-ups from an Infinispan cluster close by\nHow to propagate cache updates between clusters using cross-site replication\nAll this driven by Quarkus and connected via Apache Kafka. Bring your questions and ideas so we can discuss and exchange about the potential of these open-source projects in the data space!\nMore information on http://bordeauxjug.org",
     "is_online": true,
-    "rsvp_count": 43,
     "communities": [
       "bordeauxjug"
     ]
@@ -4554,7 +4528,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/275058477/",
     "description": "While a microservices architecture is more scalable than a monolith, it has a direct hit on performance.\nTo cope with that, one performance improvement is to set up a cache. It can be configured for database access, for REST calls or just to store session state across a cluster of server nodes. In this demo-based talk, I’ll show how Hazelcast In-Memory Data Grid can help you in each one of those areas and how to configure it.\nHint: it’s much easier than one would expect\nPlus d'informations sur le site http://www.bordeauxjug.org/",
     "is_online": true,
-    "rsvp_count": 41,
     "communities": [
       "bordeauxjug"
     ]
@@ -4588,7 +4561,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/274507026/",
     "description": "The Java Module System lays the foundation for building modularized applications on the JVM. It doesn’t concern itself though with resolving module versions and obtaining modules from repositories.\nThis is where Layrry comes in: an API and launcher for modularized Java applications which takes a descriptor of the module layer(s) to assemble, fetches the modules and starts up the application.\nJoin us for this session and learn how to:\nBuild Java applications using layers, e.g. providing isolation between different versions of one module. Use jbang to launch your layered apps in no time. Create plug-in based rich-client applications using JavaFX and Layrry, allowing to – dynamically reconfigure and update your layer hierarchy, no restarts required. Create your own customized Layrry launcher if needed\nThis session is code-centered, be ready to see the Java Module System, Layrry, and JavaFX in action!\n-- Session in English / Session en anglais",
     "is_online": true,
-    "rsvp_count": 38,
     "communities": [
       "bordeauxjug"
     ]
@@ -4610,7 +4582,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/273864451/",
     "description": "La performance est souvent considérée de manière tardive, voire ignorée, dans le cycle de développement applicatif. Ceci induit un risque de découvrir tardivement que l'application est lente ou inutilisable.\nVous allez découvrir comment la librairie de test QuickPerf (https://github.com/quick-perf/quickperf) permet de supprimer sans beaucoup d'effort et au plus tôt des goulets d'étranglement de performance.\nSi votre application possède déjà des tests de performance, comme des tirs de charge, vous verrez comment les tests QuickPerf peuvent les compléter et vous faire gagner du temps\nPlus d'informations sur le site de votre JUG (http://www.bordeauxjug.org)",
     "is_online": true,
-    "rsvp_count": 36,
     "communities": [
       "bordeauxjug"
     ]
@@ -4662,7 +4633,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/272912566/",
     "description": "Containers and platforms are now part of the developer’s toolbox;\nit’s sometimes hard to standardize the containerization and deployment of Spring Boot applications in your organization, while still remaining flexible.\nSpring Boot 2.3 is out now with new features for containers and Kubernetes.\nDuring this session, Stephane and Brian will share with you the Spring Boot 2.3 features that will help you to:\n- Easily create optimized container images of your application\n- Simplify and standardize your CI/CD pipeline\n- Manage the lifecycle of your application in a Kubernetes environment with Probes\nAnd more!\nPlus d'informations sur le site de votre JUG (http://www.bordeauxjug.org)",
     "is_online": true,
-    "rsvp_count": 61,
     "communities": [
       "bordeauxjug"
     ]
@@ -4713,8 +4683,6 @@
       "country": "France"
     },
     "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_limit": 10,
-    "rsvp_count": 4,
     "communities": [
       "bordeauxjug"
     ]
@@ -4770,7 +4738,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/271338389/",
     "description": "Arthas est un outil open source de diagnostic Java open source développé par Alibaba pour ses propres besoins. Il propose des fonctionnalités de monitoring et de profiling qui peuvent aider à identifier de nombreux problèmes dans des applications exécutées dans une JVM sans avoir à la redémarrer. C'est un outil en mode console qui permet de se connecter à une application Java en cours d'exécution.\nCette session présentera cet outil utile qui peut aider à résoudre des problèmes lors de l'exécution d'application dans un JVM.\nPlus d'informations sur le site de votre JUG (http://www.bordeauxjug.org)",
     "is_online": true,
-    "rsvp_count": 25,
     "communities": [
       "bordeauxjug"
     ]
@@ -4837,7 +4804,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/270786885/",
     "description": "Forget about Machine Learning. Planning optimization is the most profitable AI technology on this planet.\nThe world is full of planning challenges, such as vehicle routing problems, maintenance scheduling and employee rostering. Find the quickest routes to visit n locations with k vehicles. Assign n shifts to k employees, taking into account skills and availability. Few people realize how much AI algorithms improve those solutions.\nFor example, when telco's started using OptaPlanner to plan their fleet of technicians, many expected a driving time reduction of 1-2%. It was 25%. In some cases, that saves them hundreds of millions of dollars and millions of kilograms of CO² emissions, every year.\nIn this session I'll show you how to code a highschool timetabling application from scratch, with Quarkus and OptaPlanner. It 'll generate the perfect lesson schedule, for both students and teachers.\nPlus d'informations sur le site de votre JUG (http://www.bordeauxjug.org)",
     "is_online": true,
-    "rsvp_count": 36,
     "communities": [
       "bordeauxjug"
     ]
@@ -4903,7 +4869,6 @@
     "url": "https://www.meetup.com/bordeauxjug/events/270182876/",
     "description": "Le domaine de la programmation concurrente utilise le champ lexical de la filature et nous met les nerfs en pelote avec des concepts qui s'entrelacent : fibers, threads, lightweight-threads, green threads, loom... Peut-être avez vous également entendu parler de coroutines ? Rassurez-vous, tout est lié.\nAu fil de cette présentation (em)mêlée d'exemples de code, vous découvrirez le projet Loom qui a pour vocation d'apporter à la JVM des \"mécanismes léger de concurrence\", ainsi que des API plus haut niveau pour broder dessus.\nNous aborderons ensemble l'origine de Loom et ses récents prototypes. Vous vous apercevrez que son maillage va au delà de \"simples\" primitives et peut nous amener jusqu'à révolutionner la concurrence sur la JVM.\nPlus d'informations sur le site de votre JUG (http://www.bordeauxjug.org)",
     "is_online": true,
-    "rsvp_count": 43,
     "communities": [
       "bordeauxjug"
     ]
@@ -4978,7 +4943,6 @@
       "country": "France"
     },
     "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 13,
     "communities": [
       "human-talks"
     ]
@@ -5015,7 +4979,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 40,
     "communities": [
       "bordeauxjug"
     ]
@@ -5145,7 +5108,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 46,
     "communities": [
       "bordeauxjug"
     ]
@@ -5163,7 +5125,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 6,
     "communities": [
       "bordeauxjug"
     ]
@@ -5255,7 +5216,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 30,
     "communities": [
       "bordeauxjug"
     ]
@@ -5273,7 +5233,6 @@
       "country": "France"
     },
     "location": "9 Rue André Darbon, Bordeaux",
-    "rsvp_count": 34,
     "communities": [
       "human-talks"
     ]
@@ -5329,7 +5288,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 31,
     "communities": [
       "bordeauxjug"
     ]
@@ -5347,7 +5305,6 @@
       "country": "France"
     },
     "location": "107 Cr Balguerie Stuttenberg, Bordeaux",
-    "rsvp_count": 18,
     "communities": [
       "human-talks"
     ]
@@ -5420,7 +5377,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 43,
     "communities": [
       "bordeauxjug"
     ]
@@ -5549,7 +5505,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 78,
     "communities": [
       "bordeauxjug"
     ]
@@ -5585,7 +5540,6 @@
       "country": "France"
     },
     "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_count": 12,
     "communities": [
       "bordeauxjug"
     ]
@@ -5657,8 +5611,6 @@
       "country": "France"
     },
     "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 80,
-    "rsvp_count": 42,
     "communities": [
       "okiwi"
     ]
@@ -5695,8 +5647,6 @@
       "country": "France"
     },
     "location": "Le Bourg, 47700 Ruffiac",
-    "rsvp_limit": 42,
-    "rsvp_count": 12,
     "communities": [
       "okiwi"
     ]
@@ -5732,7 +5682,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 53,
     "communities": [
       "bordeauxjug"
     ]
@@ -5806,7 +5755,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 13,
     "communities": [
       "okiwi"
     ]
@@ -5824,8 +5772,6 @@
       "country": "France"
     },
     "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 90,
-    "rsvp_count": 73,
     "communities": [
       "okiwi"
     ]
@@ -5861,7 +5807,6 @@
       "country": "France"
     },
     "location": "27 Rue Rode, Bordeaux",
-    "rsvp_count": 11,
     "communities": [
       "okiwi"
     ]
@@ -5879,7 +5824,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 39,
     "communities": [
       "bordeauxjug"
     ]
@@ -5915,7 +5859,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 10,
     "communities": [
       "okiwi"
     ]
@@ -5933,7 +5876,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 45,
     "communities": [
       "bordeauxjug"
     ]
@@ -5969,8 +5911,6 @@
       "country": "France"
     },
     "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 75,
-    "rsvp_count": 64,
     "communities": [
       "okiwi"
     ]
@@ -6006,7 +5946,6 @@
       "country": "France"
     },
     "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -6043,7 +5982,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 11,
     "communities": [
       "okiwi"
     ]
@@ -6080,7 +6018,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 57,
     "communities": [
       "bordeauxjug"
     ]
@@ -6098,8 +6035,6 @@
       "country": "France"
     },
     "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 75,
-    "rsvp_count": 65,
     "communities": [
       "okiwi"
     ]
@@ -6135,7 +6070,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 7,
     "communities": [
       "okiwi"
     ]
@@ -6172,7 +6106,6 @@
       "country": "France"
     },
     "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -6190,7 +6123,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 34,
     "communities": [
       "bordeauxjug"
     ]
@@ -6208,8 +6140,6 @@
       "country": "France"
     },
     "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 75,
-    "rsvp_count": 72,
     "communities": [
       "okiwi"
     ]
@@ -6265,8 +6195,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -6284,7 +6212,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -6320,7 +6247,6 @@
       "country": "France"
     },
     "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -6393,7 +6319,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 43,
     "communities": [
       "bordeauxjug"
     ]
@@ -6411,7 +6336,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 9,
     "communities": [
       "bordeauxjug"
     ]
@@ -6447,7 +6371,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 10,
     "communities": [
       "okiwi"
     ]
@@ -6484,7 +6407,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 42,
     "communities": [
       "bordeauxjug"
     ]
@@ -6502,7 +6424,6 @@
       "country": "France"
     },
     "location": "28 rue latour, 33300, Bordeaux",
-    "rsvp_count": 7,
     "communities": [
       "okiwi"
     ]
@@ -6538,7 +6459,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 10,
     "communities": [
       "okiwi"
     ]
@@ -6611,7 +6531,6 @@
       "country": "France"
     },
     "location": "15 Rue Rode, 33000 Bordeaux, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -6629,8 +6548,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 23,
-    "rsvp_count": 19,
     "communities": [
       "okiwi"
     ]
@@ -6648,7 +6565,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 48,
     "communities": [
       "bordeauxjug"
     ]
@@ -6666,7 +6582,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -6684,7 +6599,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 10,
     "communities": [
       "okiwi"
     ]
@@ -6702,7 +6616,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -6739,7 +6652,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -6813,7 +6725,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -6831,7 +6742,6 @@
       "country": "France"
     },
     "location": "27 Rue Rode, Bordeaux",
-    "rsvp_count": 11,
     "communities": [
       "okiwi"
     ]
@@ -6849,7 +6759,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 40,
     "communities": [
       "bordeauxjug"
     ]
@@ -6921,7 +6830,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -6939,7 +6847,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -6993,7 +6900,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 50,
     "communities": [
       "bordeauxjug"
     ]
@@ -7011,7 +6917,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -7048,8 +6953,6 @@
       "country": "France"
     },
     "location": "Le Bourg, 47700 Ruffiac",
-    "rsvp_limit": 42,
-    "rsvp_count": 17,
     "communities": [
       "okiwi"
     ]
@@ -7067,7 +6970,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7085,7 +6987,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7103,7 +7004,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9,
     "communities": [
       "okiwi"
     ]
@@ -7121,7 +7021,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -7139,7 +7038,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7157,7 +7055,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7175,7 +7072,6 @@
       "country": "France"
     },
     "location": "27 Rue Rode, Bordeaux",
-    "rsvp_count": 8,
     "communities": [
       "okiwi"
     ]
@@ -7193,7 +7089,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7211,7 +7106,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 16,
     "communities": [
       "okiwi"
     ]
@@ -7229,7 +7123,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -7247,7 +7140,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7265,7 +7157,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -7283,7 +7174,6 @@
       "country": "France"
     },
     "location": "27 Rue Rode, Bordeaux",
-    "rsvp_count": 10,
     "communities": [
       "okiwi"
     ]
@@ -7301,7 +7191,6 @@
       "country": "France"
     },
     "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_count": 8,
     "communities": [
       "bordeauxjug"
     ]
@@ -7319,7 +7208,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7356,7 +7244,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -7410,7 +7297,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7428,7 +7314,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 45,
     "communities": [
       "bordeauxjug"
     ]
@@ -7446,7 +7331,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7464,7 +7348,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7501,7 +7384,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7536,7 +7418,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -7554,7 +7435,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -7591,7 +7471,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 94,
     "communities": [
       "bordeauxjug"
     ]
@@ -7609,7 +7488,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7627,7 +7505,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7645,7 +7522,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -7682,7 +7558,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -7736,7 +7611,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 48,
     "communities": [
       "bordeauxjug"
     ]
@@ -7754,7 +7628,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -7791,7 +7664,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -7809,7 +7681,6 @@
       "country": "France"
     },
     "location": "28 rue latour, 33300, Bordeaux",
-    "rsvp_count": 12,
     "communities": [
       "okiwi"
     ]
@@ -7827,7 +7698,6 @@
       "country": "France"
     },
     "location": "18 rue Gratiolet, Bordeaux",
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -7845,7 +7715,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9,
     "communities": [
       "okiwi"
     ]
@@ -7863,7 +7732,6 @@
       "country": "France"
     },
     "location": "18 rue Gratiolet, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -7900,7 +7768,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 7,
     "communities": [
       "okiwi"
     ]
@@ -7918,7 +7785,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 29,
     "communities": [
       "bordeauxjug"
     ]
@@ -7936,7 +7802,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -7972,7 +7837,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -7990,7 +7854,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -8045,7 +7908,6 @@
       "country": "France"
     },
     "location": "83 Quai Chartrons 33300 , Bordeaux",
-    "rsvp_count": 9,
     "communities": [
       "okiwi"
     ]
@@ -8082,7 +7944,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -8100,7 +7961,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9,
     "communities": [
       "okiwi"
     ]
@@ -8156,7 +8016,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -8210,7 +8069,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -8228,7 +8086,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 67,
     "communities": [
       "bordeauxjug"
     ]
@@ -8246,7 +8103,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -8264,7 +8120,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -8301,7 +8156,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 11,
     "communities": [
       "okiwi"
     ]
@@ -8338,7 +8192,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -8392,7 +8245,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -8410,7 +8262,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 39,
     "communities": [
       "bordeauxjug"
     ]
@@ -8428,7 +8279,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -8446,8 +8296,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 35,
-    "rsvp_count": 10,
     "communities": [
       "okiwi"
     ]
@@ -8483,7 +8331,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -8501,7 +8348,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -8519,7 +8365,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -8572,7 +8417,6 @@
       "country": "France"
     },
     "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_count": 5,
     "communities": [
       "bordeauxjug"
     ]
@@ -8608,7 +8452,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -8626,7 +8469,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 61,
     "communities": [
       "bordeauxjug"
     ]
@@ -8644,7 +8486,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -8662,7 +8503,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -8680,7 +8520,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -8716,8 +8555,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 21,
-    "rsvp_count": 20,
     "communities": [
       "okiwi"
     ]
@@ -8735,7 +8572,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 102,
     "communities": [
       "bordeauxjug"
     ]
@@ -8753,7 +8589,6 @@
       "country": "France"
     },
     "location": "137 Rue Achard, Bordeaux",
-    "rsvp_count": 25,
     "communities": [
       "okiwi"
     ]
@@ -8789,7 +8624,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -8825,7 +8659,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -8843,8 +8676,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 40,
-    "rsvp_count": 34,
     "communities": [
       "okiwi"
     ]
@@ -8862,7 +8693,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 12,
     "communities": [
       "okiwi"
     ]
@@ -8916,7 +8746,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -8934,7 +8763,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -8952,7 +8780,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 78,
     "communities": [
       "bordeauxjug"
     ]
@@ -8970,7 +8797,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -9007,7 +8833,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -9025,7 +8850,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -9080,7 +8904,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -9098,7 +8921,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 18,
     "communities": [
       "okiwi"
     ]
@@ -9134,7 +8956,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -9152,7 +8973,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 88,
     "communities": [
       "bordeauxjug"
     ]
@@ -9187,8 +9007,6 @@
       "country": "France"
     },
     "location": "Le Bourg, 47700 Ruffiac",
-    "rsvp_limit": 42,
-    "rsvp_count": 31,
     "communities": [
       "okiwi"
     ]
@@ -9206,7 +9024,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -9224,8 +9041,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -9243,7 +9058,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -9261,7 +9075,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -9279,8 +9092,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -9298,7 +9109,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -9334,7 +9144,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -9352,7 +9161,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -9370,7 +9178,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 15,
     "communities": [
       "okiwi"
     ]
@@ -9388,7 +9195,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -9406,8 +9212,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -9425,7 +9229,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -9461,7 +9264,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -9497,7 +9299,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
     "communities": [
       "okiwi"
     ]
@@ -9515,7 +9316,6 @@
       "country": "France"
     },
     "location": "Place Alcala de Henares, 33400, Talence",
-    "rsvp_count": 6,
     "communities": [
       "bordeauxjug"
     ]
@@ -9533,7 +9333,6 @@
       "country": "France"
     },
     "location": "Domaine universitaire, 351, cours de la Libération, 33405 Talence, Talence",
-    "rsvp_count": 46,
     "communities": [
       "bordeauxjug"
     ]
@@ -9551,7 +9350,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -9587,7 +9385,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -9605,7 +9402,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 39,
     "communities": [
       "okiwi"
     ]
@@ -9623,7 +9419,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 62,
     "communities": [
       "bordeauxjug"
     ]
@@ -9641,7 +9436,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -9696,7 +9490,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -9714,8 +9507,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 30,
-    "rsvp_count": 17,
     "communities": [
       "okiwi"
     ]
@@ -9733,8 +9524,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 11,
     "communities": [
       "okiwi"
     ]
@@ -9752,7 +9541,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 47,
     "communities": [
       "bordeauxjug"
     ]
@@ -9788,7 +9576,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -9824,7 +9611,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -9861,7 +9647,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -9879,8 +9664,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 20,
-    "rsvp_count": 8,
     "communities": [
       "okiwi"
     ]
@@ -9898,7 +9681,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -9935,8 +9717,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 65,
-    "rsvp_count": 62,
     "communities": [
       "okiwi"
     ]
@@ -9971,7 +9751,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -10007,7 +9786,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 58,
     "communities": [
       "bordeauxjug"
     ]
@@ -10025,7 +9803,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -10043,7 +9820,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9,
     "communities": [
       "okiwi"
     ]
@@ -10061,7 +9837,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -10079,7 +9854,6 @@
       "country": "France"
     },
     "location": "137 Rue Achard, Bordeaux",
-    "rsvp_count": 13,
     "communities": [
       "okiwi"
     ]
@@ -10097,7 +9871,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -10133,7 +9906,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 44,
     "communities": [
       "bordeauxjug"
     ]
@@ -10151,7 +9923,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -10169,8 +9940,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 30,
-    "rsvp_count": 28,
     "communities": [
       "okiwi"
     ]
@@ -10207,7 +9976,6 @@
       "country": "France"
     },
     "location": "41 Rue du Château d'Eau, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -10225,7 +9993,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 8,
     "communities": [
       "okiwi"
     ]
@@ -10280,7 +10047,6 @@
       "country": "France"
     },
     "location": "6 Bis Cours du 30 Juillet, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -10316,7 +10082,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -10370,7 +10135,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 87,
     "communities": [
       "bordeauxjug"
     ]
@@ -10388,7 +10152,6 @@
       "country": "France"
     },
     "location": "6 Bis Cours du 30 Juillet, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -10406,7 +10169,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 13,
     "communities": [
       "okiwi"
     ]
@@ -10424,7 +10186,6 @@
       "country": "France"
     },
     "location": "6 Bis Cours du 30 Juillet, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -10442,7 +10203,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -10479,7 +10239,6 @@
       "country": "France"
     },
     "location": "6 Bis Cours du 30 Juillet, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -10497,7 +10256,6 @@
       "country": "France"
     },
     "location": "6 Bis Cours du 30 Juillet, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -10515,7 +10273,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -10533,7 +10290,6 @@
       "country": "France"
     },
     "location": "Cours Víctor Hugo, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -10570,7 +10326,6 @@
       "country": "France"
     },
     "location": "83 Quai Chartrons 33300 , Bordeaux",
-    "rsvp_count": 11,
     "communities": [
       "okiwi"
     ]
@@ -10606,7 +10361,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -10624,7 +10378,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -10679,7 +10432,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 75,
     "communities": [
       "bordeauxjug"
     ]
@@ -10715,7 +10467,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9,
     "communities": [
       "okiwi"
     ]
@@ -10733,7 +10484,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -10788,7 +10538,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 121,
     "communities": [
       "bordeauxjug"
     ]
@@ -10806,7 +10555,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 8,
     "communities": [
       "okiwi"
     ]
@@ -10861,7 +10609,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 10,
     "communities": [
       "bordeauxjug"
     ]
@@ -10879,7 +10626,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 12,
     "communities": [
       "okiwi"
     ]
@@ -10897,7 +10643,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 64,
     "communities": [
       "bordeauxjug"
     ]
@@ -10933,7 +10678,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9,
     "communities": [
       "okiwi"
     ]
@@ -10969,7 +10713,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 153,
     "communities": [
       "bordeauxjug"
     ]
@@ -10987,7 +10730,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 7,
     "communities": [
       "okiwi"
     ]
@@ -11005,8 +10747,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_limit": 23,
-    "rsvp_count": 23,
     "communities": [
       "okiwi"
     ]
@@ -11061,7 +10801,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -11079,7 +10818,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 66,
     "communities": [
       "bordeauxjug"
     ]
@@ -11097,8 +10835,6 @@
       "country": "France"
     },
     "location": "Le Bourg, 47700 Ruffiac",
-    "rsvp_limit": 30,
-    "rsvp_count": 29,
     "communities": [
       "okiwi"
     ]
@@ -11116,7 +10852,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -11134,7 +10869,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -11152,7 +10886,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9,
     "communities": [
       "okiwi"
     ]
@@ -11170,7 +10903,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -11188,7 +10920,6 @@
       "country": "France"
     },
     "location": "14-18 Cours Albret, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "bordeauxjug"
     ]
@@ -11224,7 +10955,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -11260,7 +10990,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -11296,7 +11025,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 51,
     "communities": [
       "bordeauxjug"
     ]
@@ -11332,7 +11060,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -11350,7 +11077,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 37,
     "communities": [
       "bordeauxjug"
     ]
@@ -11368,7 +11094,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -11386,7 +11111,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -11441,7 +11165,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 9,
     "communities": [
       "okiwi"
     ]
@@ -11459,7 +11182,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 50,
     "communities": [
       "bordeauxjug"
     ]
@@ -11477,7 +11199,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -11513,7 +11234,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 70,
     "communities": [
       "bordeauxjug"
     ]
@@ -11568,7 +11288,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -11586,7 +11305,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -11622,7 +11340,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -11640,7 +11357,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 52,
     "communities": [
       "bordeauxjug"
     ]
@@ -11658,7 +11374,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -11712,7 +11427,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -11768,7 +11482,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -11786,7 +11499,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 36,
     "communities": [
       "bordeauxjug"
     ]
@@ -11840,7 +11552,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -11858,7 +11569,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 1,
     "communities": [
       "okiwi"
     ]
@@ -11876,7 +11586,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 7,
     "communities": [
       "bordeauxjug"
     ]
@@ -11894,7 +11603,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -11912,7 +11620,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 38,
     "communities": [
       "bordeauxjug"
     ]
@@ -11948,7 +11655,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 10,
     "communities": [
       "okiwi"
     ]
@@ -11966,7 +11672,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 53,
     "communities": [
       "bordeauxjug"
     ]
@@ -12002,7 +11707,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -12020,7 +11724,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 4,
     "communities": [
       "okiwi"
     ]
@@ -12038,7 +11741,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 98,
     "communities": [
       "bordeauxjug"
     ]
@@ -12091,7 +11793,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 7,
     "communities": [
       "okiwi"
     ]
@@ -12109,7 +11810,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 29,
     "communities": [
       "bordeauxjug"
     ]
@@ -12127,7 +11827,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 5,
     "communities": [
       "okiwi"
     ]
@@ -12145,7 +11844,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 15,
     "communities": [
       "okiwi"
     ]
@@ -12163,7 +11861,6 @@
       "country": "France"
     },
     "location": "Le Bourg, 47700 Ruffiac",
-    "rsvp_count": 2,
     "communities": [
       "okiwi"
     ]
@@ -12199,7 +11896,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 3,
     "communities": [
       "okiwi"
     ]
@@ -12217,7 +11913,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 6,
     "communities": [
       "okiwi"
     ]
@@ -12235,7 +11930,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 13,
     "communities": [
       "okiwi"
     ]
@@ -12271,7 +11965,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 13,
     "communities": [
       "okiwi"
     ]
@@ -12289,7 +11982,6 @@
       "country": "France"
     },
     "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 7,
     "communities": [
       "okiwi"
     ]
@@ -12307,7 +11999,6 @@
       "country": "France"
     },
     "location": "14-18 Cours Albret, Bordeaux",
-    "rsvp_count": 10,
     "communities": [
       "bordeauxjug"
     ]
@@ -12343,7 +12034,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 50,
     "communities": [
       "bordeauxjug"
     ]
@@ -12397,7 +12087,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 40,
     "communities": [
       "bordeauxjug"
     ]
@@ -12433,7 +12122,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 78,
     "communities": [
       "bordeauxjug"
     ]
@@ -12451,7 +12139,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 52,
     "communities": [
       "bordeauxjug"
     ]
@@ -12487,7 +12174,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 71,
     "communities": [
       "bordeauxjug"
     ]
@@ -12505,7 +12191,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 31,
     "communities": [
       "bordeauxjug"
     ]
@@ -12560,7 +12245,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 12,
     "communities": [
       "bordeauxjug"
     ]
@@ -12597,7 +12281,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 64,
     "communities": [
       "bordeauxjug"
     ]
@@ -12615,7 +12298,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 34,
     "communities": [
       "bordeauxjug"
     ]
@@ -12633,7 +12315,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 64,
     "communities": [
       "bordeauxjug"
     ]
@@ -12670,7 +12351,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 45,
     "communities": [
       "bordeauxjug"
     ]
@@ -12688,7 +12368,6 @@
       "country": "France"
     },
     "location": "14-18 Cours Albret, Bordeaux",
-    "rsvp_count": 12,
     "communities": [
       "bordeauxjug"
     ]
@@ -12724,7 +12403,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 42,
     "communities": [
       "bordeauxjug"
     ]
@@ -12742,7 +12420,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 51,
     "communities": [
       "bordeauxjug"
     ]
@@ -12797,7 +12474,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 21,
     "communities": [
       "bordeauxjug"
     ]
@@ -12815,7 +12491,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 32,
     "communities": [
       "bordeauxjug"
     ]
@@ -12833,8 +12508,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_limit": 25,
-    "rsvp_count": 12,
     "communities": [
       "bordeauxjug"
     ]
@@ -12852,7 +12525,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 36,
     "communities": [
       "bordeauxjug"
     ]
@@ -12888,8 +12560,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_limit": 1,
-    "rsvp_count": 1,
     "communities": [
       "bordeauxjug"
     ]
@@ -12907,7 +12577,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 34,
     "communities": [
       "bordeauxjug"
     ]
@@ -12925,7 +12594,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 55,
     "communities": [
       "bordeauxjug"
     ]
@@ -12943,7 +12611,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 17,
     "communities": [
       "bordeauxjug"
     ]
@@ -12979,7 +12646,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 48,
     "communities": [
       "bordeauxjug"
     ]
@@ -12997,7 +12663,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 48,
     "communities": [
       "bordeauxjug"
     ]
@@ -13051,7 +12716,6 @@
       "country": "France"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "rsvp_count": 57,
     "communities": [
       "bordeauxjug"
     ]

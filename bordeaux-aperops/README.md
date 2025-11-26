@@ -94,7 +94,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-aperops/events.ics](.
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Jeudi 11 décembre 2025 à 18:30 | IA et développement : apprendre à collaborer avec l’intelligence artificielle | Le Wagon Bordeaux  107 cours Balguerie Stuttenberg - Bordeaux | https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311991794/ |
+| Jeudi 11 décembre 2025 à 18:30 | IA & développement : apprendre à collaborer avec l’intelligence artificielle | 107 cours Balguerie Stuttenberg, Bordeaux | https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311991794/ |
 
 ## 📆 Past Events
 
@@ -103,6 +103,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-aperops/events.ics](.
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 15 octobre 2025 à 18:30 | DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA | Ippon Technologies Bordeaux - 44 Allée de Tourny · Bordeaux | https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2 |
+| Mercredi 15 octobre 2025 à 18:30 | DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA | TBD | https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2 |
 </details>
 <!-- EVENTS:END -->

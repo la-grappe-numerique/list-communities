@@ -7,26 +7,52 @@ X-WR-CALDESC:Calendrier des événements de la communauté bdx-testing-com
 X-WR-CALNAME:Événements bdx-testing-community
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:MEETUP #4 - BDX Testing Community @Betclic
+SUMMARY:MEETUP #4 - BDX Testing Community
 DTSTART;TZID=Europe/Paris:20251202T180000
 DTEND;TZID=Europe/Paris:20251202T200000
 UID:https://www.meetup.com/bdx-testing-community/events/311642889/@communi
  ty-events
 DESCRIPTION:🔗 https://www.meetup.com/bdx-testing-community/events/31164
- 2889/\n📍 Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux\n\nRejoignez-no
- us pour une nouvelle soirée dédiée aux passionnés du test logiciel ! A
- u programme : 3 talks suivis d'un moment convivial d'échanges et de parta
- ges.\n\n**Détails de l'événement**\n\n- **Date** : 2 décembre 2025\n- 
- **Lieu** : Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux\n- **Horaires** 
- : 18h-22h\n\n**Sujets des Talks**\n\n**Talk 1**: " TMMi : Évaluez et faî
- tes progresser vos services de test" par Frédéric Levalet\n**Talk 2**: "
-  De 2010 à 11 tests end-to-end - Optimiser la couverture tout en réduisa
- nt les temps d'exécution" par Nicolas Lespiaucq\n**Talk 3**: "Au secours\
- , mon manager me demande des KPIs" par Geoffrey Graveaud\nNous attendons a
- vec impatience de vous retrouver nombreux pour une nouvelle soirée enrich
- issante !\n\nLes inscriptions sont ouvertes jusqu'au 27 novembre.\n\nCommu
- nauté: bdx-testing-community
-LOCATION:Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux
+ 2889/\n📍 Betclic Everest Group\, 117 Quai de Bacalan\, Bordeaux\, fr\n\
+ nRejoignez-nous pour une nouvelle soirée dédiée aux passionnés du test
+  logiciel ! Au programme : 3 talks suivis d'un moment convivial d'échange
+ s et de partages.\n\n**Détails de l'événement**\n\n* Date : 2 décembre
+  2025\n* Lieu : Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux\n* Horaires
+  : 18h-22h\n\n**Sujets des Talks**\n\n* **Talk 1:** " TMMi : Évaluez et f
+ aîtes progresser vos services de test" par *Frédéric Levalet*\n* **Talk
+  2:** " De 2010 à 11 tests end-to-end - Optimiser la couverture tout en r
+ éduisant les temps d'exécution" par *Nicolas Lespiaucq*\n* **Talk 3:** "
+ Au secours\, mon manager me demande des KPIs" par *Geoffrey Graveaud*\n\nN
+ ous attendons avec impatience de vous retrouver nombreux pour une nouvelle
+  soirée enrichissante !\n\nLes inscriptions sont ouvertes jusqu'au 27 nov
+ embre.\n\n***\n\n**Détails des talks**\n\n* **Talk 1:** " TMMi : Évaluez
+  et faîtes progresser vos services de test" par *Frédéric Levalet*\n*De
+ scription:*\nL’objectif de ce talk est de présenter les avantages d’u
+ tiliser le modèle TMMi pour une organisation qui souhaite structurer\, pr
+ ofessionnaliser et améliorer ses pratiques de test logiciel.\nJe présent
+ erai également les étapes de mise en œuvre et le déroulement d’un au
+ dit menant à une certification. Les illustrations se feront à travers de
+ s retours d’expériences de structures en France certifiées TMMi.\n* **
+ Talk 2:** " De 2010 à 11 tests end-to-end - Optimiser la couverture tout 
+ en réduisant les temps d'exécution" par *Nicolas Lespiaucq*\n*Descriptio
+ n:*\nLa pyramide de test est un concept connu\, mais son implémentation e
+ t sa cohérence dans le temps restent un défi.\nDécouvrez le REX sur un 
+ cas concret où nous avons réaligné nos tests (unitaires\, composants\, 
+ end-to-end)\, renforcé le shift left et la collaboration entre développe
+ urs et QA engineers.\nSi vous souhaitez savoir comment améliorer la couve
+ rture et les performances des tests\, c'est par ici !\n* **Talk 3:** "Au s
+ ecours\, mon manager me demande des KPIs" par *Geoffrey Graveaud*\n*Descri
+ ption:*\nKevin était un bon lead technique. Il travaillait dans une équi
+ pe de développement de 8 personnes. Il soutenait son équipe\, il était 
+ respecté et il était écouté par son manager.\nMais un jour\, son respo
+ nsable lui demanda de mesurer la productivité de son équipe.\nEt lui dem
+ anda la chose dont on ne dit pas le nom !Des KPIs...\nAinsi\, la vie de Ke
+ vin bascule et débute ainsi une période sombre.Heureusement sur la route
+  de son périple\, il rencontre Eline - une coach agile expérimentée.\nA
+  eux 2\, ils feront face à la cruauté du destin et ils chercheront à d
+ éjouer ce mauvais sort.Rétabliront-ils la paix et l'ordre dans leur équ
+ ipe ?\n\nCommunauté: bdx-testing-community
+LOCATION:Betclic Everest Group\, 117 Quai de Bacalan\, Bordeaux\, fr
 TZID:Europe/Paris
 URL:https://www.meetup.com/bdx-testing-community/events/311642889/
 END:VEVENT

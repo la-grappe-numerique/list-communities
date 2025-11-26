@@ -24,7 +24,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./even
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Lundi 08 décembre 2025 à 19:00 | Créer un Chatbot Intelligent avec LangChain4j | ENSEIRB, 1 Avenue du Docteur Albert Schweitzer, 33400 Talence | https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j |
+| Lundi 08 décembre 2025 à 19:00 | Créer un Chatbot Intelligent avec LangChain4j | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/312127890/ |
+| Lundi 08 décembre 2025 à 19:00 | Créer un Chatbot Intelligent avec LangChain4j | TBD | https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j |
 
 ## 📆 Past Events
 
@@ -33,9 +34,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./even
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Jeudi 20 novembre 2025 à 18:50 | Spring Boot: Chapitre 4 | ENSEIRB, 1 Avenue du Docteur Albert Schweitzer, 33400 Talence | https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4 |
-| Jeudi 16 octobre 2025 à 19:00 | Karate Connect : votre partenaire de combat dans l’arène des tests API | ENSEIRB, 1 Avenue du Docteur Albert Schweitzer · Talence | https://www.meetup.com/bordeauxjug/events/311318217/ |
-| Jeudi 12 juin 2025 à 19:00 | Les super pouvoirs du package java.util.function | ENSEIRB 1 Avenue du Docteur Albert Schweitzer · Talence | https://www.bordeauxjug.org/ |
+| Jeudi 20 novembre 2025 à 18:50 | Spring Boot: Chapitre 4 | TBD | https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4 |
+| Jeudi 16 octobre 2025 à 19:00 | Karate Connect : votre partenaire de combat dans l’arène des tests API | TBD | https://www.meetup.com/bordeauxjug/events/311318217/ |
+| Jeudi 12 juin 2025 à 19:00 | Les super pouvoirs du package java.util.function | TBD | https://www.bordeauxjug.org/ |
 | Jeudi 20 mars 2025 à 19:00 | Elasticsearch Query Language: ES|QL | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/306640938/ |
 | Jeudi 13 mars 2025 à 19:00 | Assemblée Générales 2025 | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/306640736/ |
 | Jeudi 13 février 2025 à 19:00 | Tabby & Continue.dev : la dream team pour un IA coding assistant | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/306028825/ |
