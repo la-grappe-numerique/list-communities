@@ -1,5 +1,14 @@
 [
   {
+    "title": "Tu sais faire du React ? Alors tu sais déjà faire du mobile (avec React Native & Expo)",
+    "date": "2025-12-10T19:00:00",
+    "url": "https://luma.com/3v8xjzep",
+    "description": "Le développement mobile a changé. Aujourd'hui, si tu sais faire du React, tu peux quasiment déjà faire une app mobile. Avec React Native, Expo (le framework React-Native) et une nouvelle vague d'outils (expo-router, expo go, EAS, assistants IA, MCP…), la création d'apps iOS/Android n'a jamais été aussi simple et rapide.\n\nCe talk montre comment les compétences React se réutilisent telles quelles côté mobile, et comment l'écosystème Expo a fait disparaître les plus gros pain points.\n\nMaintenant, le développement mobile, ce n'est plus ce champ de bataille où chaque erreur te coûte trois heures, un sacrifice à Xcode et te donne envie de changer de métier.",
+    "community": "bordeauxjs",
+    "location": "Wanteeed, 13 Rue des Cordeliers, 33300 Bordeaux, France",
+    "is_online": false
+  },
+  {
     "title": "Pourquoi Javascript est un langage de merde ?",
     "date": "2025-11-13T19:00:00",
     "url": "https://www.linkedin.com/events/pourquoijavascriptestunlangaged7391045061519765504/",
