@@ -15,6 +15,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 11 décembre 2025 à 18:30 | "Ce n'est pas tout" | Capgemini Bordeaux  19 All. James Watt à Mérignac | https://www.linkedin.com/feed/update/urn:li:activity:7400215812839612416/ |
+
 ## 📆 Past Events
 
 <details>

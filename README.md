@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Vendredi 28 novembre 2025 à 09:00 | [okiwi](okiwi/) | [Open Okiwi #4](https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac730ffcc) | TBD |
 | Lundi 01 décembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/) | 9 Rue de Condé, Bordeaux |
 | Lundi 01 décembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/311567886/) | 9 Rue de Condé, Bordeaux |
+| Mardi 02 décembre 2025 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #4 - BDX Testing Community](https://www.meetup.com/bdx-testing-community/events/311642889/) | 117 Quai de Bacalan, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

@@ -3285,6 +3285,29 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/228109596/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"Ce n'est pas tout"
+DTSTART;TZID=Europe/Paris:20251211T183000
+DTEND;TZID=Europe/Paris:20251211T203000
+UID:https://www.linkedin.com/feed/update/urn:li:activity:74002158128396124
+ 16/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/feed/update/urn:li:activity:7400
+ 215812839612416/\n📍 Capgemini Bordeaux  19 All. James Watt à Mérignac
+ \n\nLe jeudi 11 décembre\, de 18h30 à 20h30\, Serious Gamers Bordeaux pr
+ opose de découvrir l'atelier "Ce n'est pas tout"\n\nEt si vous aviez le p
+ ouvoir de voir les ficelles invisibles de ces interactions ? Je vous invit
+ e à participer avec nous au prochain meetup #\n\nLe saviez-vous ? Nous so
+ mmes tous manipulés plusieurs fois par jour. 🧠\nPar une pub\, un coll
+ ègue\, un vendeur... ou même par nos proches.\n\nEt si vous aviez le pou
+ voir de voir les ficelles invisibles de ces interactions ?\nJe vous invite
+  à participer avec nous au prochain meetup #SeriousGamers Bordeaux pour d
+ écouvrir et tester un nouveau SG : "Et ce n'est pas tout !".\n\nCommunaut
+ é: agile-bordeaux
+LOCATION:Capgemini Bordeaux  19 All. James Watt à Mérignac
+TZID:Europe/Paris
+URL:https://www.linkedin.com/feed/update/urn:li:activity:74002158128396124
+ 16/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bière Agile de Bordeaux
 DTSTART;TZID=Europe/Paris:20251119T183000
 DTEND;TZID=Europe/Paris:20251119T203000
