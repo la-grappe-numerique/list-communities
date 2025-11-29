@@ -3285,6 +3285,23 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/228109596/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club de lecture - Manuel de Coaching d'Organisation
+DTSTART;TZID=Europe/Paris:20260110T100000
+DTEND;TZID=Europe/Paris:20260110T120000
+UID:https://www.linkedin.com/feed/update/urn:li:activity:73975145140044636
+ 16/?actorCompanyId=108814133@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/feed/update/urn:li:activity:7397
+ 514514004463616/?actorCompanyId=108814133\n📍 Le Node\, 12 Rue des Fauss
+ ets\, 33000\, Bordeaux\n\nLe prochain club de lecture se tiendra samedi 10
+  janvier de 10h00 à 12h00 au Node.\nLe livre sélectionné pour cette ses
+ sion est “Manuel de coaching d’organisation” de Arnaud Tonnelé.\n\n
+ Communauté: agile-bordeaux
+LOCATION:Le Node\, 12 Rue des Faussets\, 33000\, Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/feed/update/urn:li:activity:73975145140044636
+ 16/?actorCompanyId=108814133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:"Ce n'est pas tout"
 DTSTART;TZID=Europe/Paris:20251211T183000
 DTEND;TZID=Europe/Paris:20251211T203000

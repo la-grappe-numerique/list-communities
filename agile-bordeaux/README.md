@@ -20,6 +20,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 11 décembre 2025 à 18:30 | "Ce n'est pas tout" | Capgemini Bordeaux  19 All. James Watt à Mérignac | https://www.linkedin.com/feed/update/urn:li:activity:7400215812839612416/ |
+| Samedi 10 janvier 2026 à 10:00 | Club de lecture - Manuel de Coaching d'Organisation | Le Node, 12 Rue des Faussets, 33000, Bordeaux | https://www.linkedin.com/feed/update/urn:li:activity:7397514514004463616/?actorCompanyId=108814133 |
 
 ## 📆 Past Events
 
