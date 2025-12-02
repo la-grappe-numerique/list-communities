@@ -22,14 +22,13 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](./events.ics
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Lundi 01 décembre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/ |
-| Lundi 01 décembre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/311567886/ |
 | Lundi 05 janvier 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb/ |
 | Lundi 05 janvier 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/311567887/ |
 | Lundi 02 février 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/ |
 | Lundi 02 février 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/311567889/ |
 | Lundi 02 mars 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb/ |
 | Lundi 02 mars 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/311567890/ |
+| Lundi 06 avril 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/311567891/ |
 
 ## 📆 Past Events
 
@@ -38,6 +37,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](./events.ics
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Lundi 01 décembre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/ |
+| Lundi 01 décembre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/311567886/ |
 | Vendredi 28 novembre 2025 à 09:00 | Open Okiwi #4 | TBD | https://mobilizon.fr/events/fb6c2972-1af1-4c28-9f22-d76ac730ffcc |
 | Lundi 03 novembre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcpbfb/ |
 | Lundi 06 octobre 2025 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcnbjb/ |

@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 01 décembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyhcqbcb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 01 décembre 2025 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/311567886/) | 9 Rue de Condé, Bordeaux |
 | Mardi 02 décembre 2025 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #4 - BDX Testing Community](https://www.meetup.com/bdx-testing-community/events/311642889/) | 117 Quai de Bacalan, Bordeaux |
+| Mardi 02 décembre 2025 à 19:00 | [digitalnights](digitalnights/) | [Afterwork networking entre acteur du digital - DN#21 & anniversaire](https://www.eventbrite.fr/e/afterwork-networking-entre-acteur-du-digital-dn21-anniversaire-tickets-1963595401705) | 1 Pl. Pey Berland, 33000 Bordeaux |
+| Mardi 02 décembre 2025 à 19:00 | [apero-web](apero-web/) | [🍷🍻 L'Apéro Web Bordeaux](https://www.meetup.com/apero-web-bordeaux/events/311727286/) | 11 Rue Parlement Sainte-Catherine, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
