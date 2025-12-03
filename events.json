@@ -118,6 +118,23 @@
     ]
   },
   {
+    "title": "Meetup #12 @Back Market : Backstage et Security Champions",
+    "date": "2025-12-09T19:00:00+01:00",
+    "url": "https://www.meetup.com/cloud-native-computing-bordeaux/events/312268349/",
+    "description": "**Back Market 🤝 CNCF Bordeaux**\n\n**Lieu**\nBack Market Bordeaux, 123 Rue Lucien Faure, 33000 Bordeaux\n**Détails**\n18:30 - Accueil des participantes et participants\n19:00 - Début des talks\n20:15 - Discussions et échanges\n21:00 - Fermeture des locaux\n\n**Présentations**\n\n*\"Backstage: c’est compliqué non ?\"* par **Guillaume CHENUET**\n\nRetour d’expérience d’un portail développeur chez Back Market, de l’idée à la réalisation, des cas concrets à l’adoption. Reportage.\n\n*\"Comment Deezer a implémenté un programme de Security Champions ?\"* par **Soufiane Joumar**\n\nDans un contexte où les équipes de développement livrent de nouvelles fonctionnalités à un rythme de plus en plus élevé dans les mains de millions d'utilisateurs, augmenter proportionnellement la taille de l'équipe sécurité n'est ni réaliste ni scalable.\nSur ce challenge, Deezer a lancé un programme de Security Champions visant à s'appuyer sur des ingénieurs motivés par les problématiques de sécurité au sein des équipes de tech.\nCe talk présentera comment ce réseau de relais contribue au quotidien : diffusion des bonnes pratiques, participation au threat models, accélération de la remédiation des vulnérabilités, intégration de contrôles de sécurité dans les pipelines CI/CD et support pendant les incidents.\nNous verrons également comment le programme a été structuré, les difficultés rencontrées, les outils et workflows retenus, et l'impact concret observé sur la sécurité chez Deezer.",
+    "is_online": false,
+    "venue": {
+      "name": "Back market",
+      "address": "123 rue lucien faure BAT cap horn",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "123 rue lucien faure BAT cap horn, Bordeaux",
+    "communities": [
+      "cloud-native-bordeaux"
+    ]
+  },
+  {
     "title": "Bataille de l'IA - Data For Good Bordeaux x Latitudes",
     "date": "2025-12-09T19:00:00",
     "url": "https://www.eventbrite.fr/e/bataille-de-lia-data-for-good-bordeaux-x-latitudes-tickets-1964775632808?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
@@ -150,7 +167,6 @@
     "date": "2025-12-09T18:30:00",
     "url": "https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/",
     "description": "More to come",
-    "location": "BACK MARKET, BAT G7 BASSINS A FLOTS, 71 RUE LUCIEN FAURE ,33300 BORDEAUX",
     "is_online": false,
     "communities": [
       "cloud-native-bordeaux"
@@ -271,7 +287,6 @@
     "date": "2025-11-25T18:30:00",
     "url": "https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/311973761/?eventOrigin=group_upcoming_events",
     "description": "\"Crossplane: Déployer vos composants Cloud depuis votre K8S sans drift\" par Vivien RAMAHANDRY\n\nTes applications-métiers ont souvent besoin de composants Cloud pour fonctionner comme un bucket S3, des permissions, une stack de messaging. Pour déployer ça tu utilises sûrement Terraform/OpenTofu mais à chaque fois après une semaine, un mois ou un an, le constat est le même, tu as drifté.\nEt je te l'accorde, c'est pénible !\nAprès presque 5 ans à créer des modules Terraform réutilisables par les développeurs·euses et déployer des applications dans un cluster Kubernetes, j’ai découvert récemment Crossplane.\nDans ce talk, tu découvriras cet outil à travers une démo pas à pas qui peut remplacer ton bon vieux Terraform/OpenTofu pour peu que tu aies déjà un cluster Kubernetes.\n\n\"Kubernetes : 5 façons créatives de flinguer sa prod 🔫\" par Denis GERMAIN\n\nN'en déplaise à ceux qui pensent que Kubernetes ne sert à rien, 11 ans après le premier commit, cet outil est devenu un standard de-facto. Il permet à de nombreuses équipes tech de gérer de manière efficace des logiciels hétérogènes, tout en apportant aux développeurs l'autonomie qu'ils souhaitaient.\nPourtant, on ne peut pas non plus dire qu'installer, et pire... administrer un cluster Kubernetes soit quelque chose de trivial. En 8 ans de prod, dans 4 entreprises différentes, j'ai forcément rencontré de petits pépins, certains amusants (enfin... a posteriori).\nJe vous raconterai tout ça, sans tabou 😉.\n\nPetite info complémentaire : Denis Germain offrira un exemplaire de son livre \"Kubernetes: 50 solutions pour les postes de développement et les clusters de production\" à un·e participant·e",
-    "location": "Deezer Bordeaux, 20 rue Saint-François, 33000 Bordeaux",
     "is_online": false,
     "communities": [
       "cloud-native-bordeaux"
@@ -1073,8 +1088,6 @@
       "country": "France"
     },
     "location": "20 rue Saint-François, Bordeaux",
-    "rsvp_limit": 50,
-    "rsvp_count": 8,
     "communities": [
       "cloud-native-bordeaux"
     ]
@@ -5181,8 +5194,6 @@
       "country": "France"
     },
     "location": "31 Rue d'Armagnac, Bordeaux",
-    "rsvp_limit": 80,
-    "rsvp_count": 69,
     "communities": [
       "cloud-native-bordeaux"
     ]
@@ -5379,8 +5390,6 @@
       "country": "France"
     },
     "location": "107 Cr Balguerie Stuttenberg, Bordeaux",
-    "rsvp_limit": 80,
-    "rsvp_count": 65,
     "communities": [
       "cloud-native-bordeaux"
     ]
@@ -5757,8 +5766,6 @@
       "country": "France"
     },
     "location": "Quai Armand Lalande, Bordeaux",
-    "rsvp_limit": 80,
-    "rsvp_count": 65,
     "communities": [
       "cloud-native-bordeaux"
     ]
@@ -6002,8 +6009,6 @@
       "country": "France"
     },
     "location": "56 Quai Lawton, Bordeaux",
-    "rsvp_limit": 90,
-    "rsvp_count": 86,
     "communities": [
       "cloud-native-bordeaux"
     ]
@@ -6196,8 +6201,6 @@
       "country": "France"
     },
     "location": "10 Rue Thomas Edison, Pessac",
-    "rsvp_limit": 90,
-    "rsvp_count": 83,
     "communities": [
       "cloud-native-bordeaux"
     ]
@@ -6480,7 +6483,6 @@
       "country": "France"
     },
     "location": "104 bis Quai des Chartrons, 33300 Bordeaux, Bordeaux",
-    "rsvp_count": 81,
     "communities": [
       "cloud-native-bordeaux"
     ]
@@ -6708,7 +6710,6 @@
       "country": "France"
     },
     "location": "107 cours Balguerie Stuttenberg, Bordeaux",
-    "rsvp_count": 61,
     "communities": [
       "cloud-native-bordeaux"
     ]

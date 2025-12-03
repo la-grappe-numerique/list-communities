@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 02 décembre 2025 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #4 - BDX Testing Community](https://www.meetup.com/bdx-testing-community/events/311642889/) | 117 Quai de Bacalan, Bordeaux |
-| Mardi 02 décembre 2025 à 19:00 | [digitalnights](digitalnights/) | [Afterwork networking entre acteur du digital - DN#21 & anniversaire](https://www.eventbrite.fr/e/afterwork-networking-entre-acteur-du-digital-dn21-anniversaire-tickets-1963595401705) | 1 Pl. Pey Berland, 33000 Bordeaux |
-| Mardi 02 décembre 2025 à 19:00 | [apero-web](apero-web/) | [🍷🍻 L'Apéro Web Bordeaux](https://www.meetup.com/apero-web-bordeaux/events/311727286/) | 11 Rue Parlement Sainte-Catherine, Bordeaux |
+| Jeudi 04 décembre 2025 à 18:30 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Cyber & Expertise : rendre visible l’invisible](https://luma.com/2foedvti) | SFEIR, 5 Rue de Condé, 33000 Bordeaux |
+| Lundi 08 décembre 2025 à 19:00 | [bordeauxjug](bordeauxjug/) | [Créer un Chatbot Intelligent avec LangChain4j](https://www.meetup.com/bordeauxjug/events/312127890/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
+| Lundi 08 décembre 2025 à 19:00 | [bordeauxjug](bordeauxjug/) | [Créer un Chatbot Intelligent avec LangChain4j](https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j) | TBD |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

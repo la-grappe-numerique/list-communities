@@ -1957,16 +1957,48 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/218821208/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meetup #12 @Back Market : Backstage et Security Champions
+DTSTART;TZID=Europe/Paris:20251209T190000
+DTEND;TZID=Europe/Paris:20251209T210000
+UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/31226834
+ 9/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
+ ents/312268349/\n📍 Back market\, 123 rue lucien faure BAT cap horn\, Bo
+ rdeaux\, fr\n\n**Back Market 🤝 CNCF Bordeaux**\n\n**Lieu**\nBack Market
+  Bordeaux\, 123 Rue Lucien Faure\, 33000 Bordeaux\n**Détails**\n18:30 - A
+ ccueil des participantes et participants\n19:00 - Début des talks\n20:15 
+ - Discussions et échanges\n21:00 - Fermeture des locaux\n\n**Présentatio
+ ns**\n\n*"Backstage: c’est compliqué non ?"* par **Guillaume CHENUET**\
+ n\nRetour d’expérience d’un portail développeur chez Back Market\, d
+ e l’idée à la réalisation\, des cas concrets à l’adoption. Reporta
+ ge.\n\n*"Comment Deezer a implémenté un programme de Security Champions 
+ ?"* par **Soufiane Joumar**\n\nDans un contexte où les équipes de dével
+ oppement livrent de nouvelles fonctionnalités à un rythme de plus en plu
+ s élevé dans les mains de millions d'utilisateurs\, augmenter proportion
+ nellement la taille de l'équipe sécurité n'est ni réaliste ni scalable
+ .\nSur ce challenge\, Deezer a lancé un programme de Security Champions v
+ isant à s'appuyer sur des ingénieurs motivés par les problématiques de
+  sécurité au sein des équipes de tech.\nCe talk présentera comment ce 
+ réseau de relais contribue au quotidien : diffusion des bonnes pratiques\
+ , participation au threat models\, accélération de la remédiation des v
+ ulnérabilités\, intégration de contrôles de sécurité dans les pipeli
+ nes CI/CD et support pendant les incidents.\nNous verrons également comme
+ nt le programme a été structuré\, les difficultés rencontrées\, les o
+ utils et workflows retenus\, et l'impact concret observé sur la sécurit
+ é chez Deezer.\n\nCommunauté: cloud-native-bordeaux
+LOCATION:Back market\, 123 rue lucien faure BAT cap horn\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/31226834
+ 9/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CNCF Meetup #12
 DTSTART;TZID=Europe/Paris:20251209T183000
 DTEND;TZID=Europe/Paris:20251209T203000
 UID:https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/@communit
  y-events
 DESCRIPTION:🔗 https://www.meetup.com/fr-fr/cloud-native-computing-borde
- aux/\n📍 BACK MARKET\, BAT G7 BASSINS A FLOTS\, 71 RUE LUCIEN FAURE \,33
- 300 BORDEAUX\n\nMore to come\n\nCommunauté: cloud-native-bordeaux
-LOCATION:BACK MARKET\, BAT G7 BASSINS A FLOTS\, 71 RUE LUCIEN FAURE \,3330
- 0 BORDEAUX
+ aux/\n\nMore to come\n\nCommunauté: cloud-native-bordeaux
 TZID:Europe/Paris
 URL:https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/
 END:VEVENT
@@ -1977,33 +2009,31 @@ DTEND;TZID=Europe/Paris:20251125T203000
 UID:https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/31
  1973761/?eventOrigin=group_upcoming_events@community-events
 DESCRIPTION:🔗 https://www.meetup.com/fr-fr/cloud-native-computing-borde
- aux/events/311973761/?eventOrigin=group_upcoming_events\n📍 Deezer Borde
- aux\, 20 rue Saint-François\, 33000 Bordeaux\n\n"Crossplane: Déployer vo
- s composants Cloud depuis votre K8S sans drift" par Vivien RAMAHANDRY\n\nT
- es applications-métiers ont souvent besoin de composants Cloud pour fonct
- ionner comme un bucket S3\, des permissions\, une stack de messaging. Pour
-  déployer ça tu utilises sûrement Terraform/OpenTofu mais à chaque foi
- s après une semaine\, un mois ou un an\, le constat est le même\, tu as 
- drifté.\nEt je te l'accorde\, c'est pénible !\nAprès presque 5 ans à c
- réer des modules Terraform réutilisables par les développeurs·euses et
-  déployer des applications dans un cluster Kubernetes\, j’ai découvert
-  récemment Crossplane.\nDans ce talk\, tu découvriras cet outil à trave
- rs une démo pas à pas qui peut remplacer ton bon vieux Terraform/OpenTof
- u pour peu que tu aies déjà un cluster Kubernetes.\n\n"Kubernetes : 5 fa
- çons créatives de flinguer sa prod 🔫" par Denis GERMAIN\n\nN'en dépl
- aise à ceux qui pensent que Kubernetes ne sert à rien\, 11 ans après le
-  premier commit\, cet outil est devenu un standard de-facto. Il permet à 
- de nombreuses équipes tech de gérer de manière efficace des logiciels h
- étérogènes\, tout en apportant aux développeurs l'autonomie qu'ils sou
- haitaient.\nPourtant\, on ne peut pas non plus dire qu'installer\, et pire
- ... administrer un cluster Kubernetes soit quelque chose de trivial. En 8 
- ans de prod\, dans 4 entreprises différentes\, j'ai forcément rencontré
-  de petits pépins\, certains amusants (enfin... a posteriori).\nJe vous r
- aconterai tout ça\, sans tabou 😉.\n\nPetite info complémentaire : Den
- is Germain offrira un exemplaire de son livre "Kubernetes: 50 solutions po
- ur les postes de développement et les clusters de production" à un·e pa
- rticipant·e\n\nCommunauté: cloud-native-bordeaux
-LOCATION:Deezer Bordeaux\, 20 rue Saint-François\, 33000 Bordeaux
+ aux/events/311973761/?eventOrigin=group_upcoming_events\n\n"Crossplane: D
+ éployer vos composants Cloud depuis votre K8S sans drift" par Vivien RAMA
+ HANDRY\n\nTes applications-métiers ont souvent besoin de composants Cloud
+  pour fonctionner comme un bucket S3\, des permissions\, une stack de mess
+ aging. Pour déployer ça tu utilises sûrement Terraform/OpenTofu mais à
+  chaque fois après une semaine\, un mois ou un an\, le constat est le mê
+ me\, tu as drifté.\nEt je te l'accorde\, c'est pénible !\nAprès presque
+  5 ans à créer des modules Terraform réutilisables par les développeur
+ s·euses et déployer des applications dans un cluster Kubernetes\, j’ai
+  découvert récemment Crossplane.\nDans ce talk\, tu découvriras cet out
+ il à travers une démo pas à pas qui peut remplacer ton bon vieux Terraf
+ orm/OpenTofu pour peu que tu aies déjà un cluster Kubernetes.\n\n"Kubern
+ etes : 5 façons créatives de flinguer sa prod 🔫" par Denis GERMAIN\n\
+ nN'en déplaise à ceux qui pensent que Kubernetes ne sert à rien\, 11 an
+ s après le premier commit\, cet outil est devenu un standard de-facto. Il
+  permet à de nombreuses équipes tech de gérer de manière efficace des 
+ logiciels hétérogènes\, tout en apportant aux développeurs l'autonomie
+  qu'ils souhaitaient.\nPourtant\, on ne peut pas non plus dire qu'installe
+ r\, et pire... administrer un cluster Kubernetes soit quelque chose de tri
+ vial. En 8 ans de prod\, dans 4 entreprises différentes\, j'ai forcément
+  rencontré de petits pépins\, certains amusants (enfin... a posteriori).
+ \nJe vous raconterai tout ça\, sans tabou 😉.\n\nPetite info complémen
+ taire : Denis Germain offrira un exemplaire de son livre "Kubernetes: 50 s
+ olutions pour les postes de développement et les clusters de production" 
+ à un·e participant·e\n\nCommunauté: cloud-native-bordeaux
 TZID:Europe/Paris
 URL:https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/31
  1973761/?eventOrigin=group_upcoming_events
@@ -2046,8 +2076,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  cela\, nous allons comprendre les concepts-clés de Karpenter ainsi que le
  s bénéfices par rapport à Cluster Autoscaler. Enfin\, je vous donnerai 
  des conseils à mettre en place avant et après l’utilisation de Karpent
- er.\n\nCommunauté: cloud-native-bordeaux\n👥 8 participant(s)\nLimité 
- à 50 places
+ er.\n\nCommunauté: cloud-native-bordeaux
 LOCATION:Deezer Bdx\, 20 rue Saint-François\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/30653417
@@ -2101,8 +2130,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  ppuyant notamment sur ECK.\n-------------\n21h - Nous nous retrouverons da
  ns les bureaux de ManoMano\, comme d'habitude\, pour échanger autour d'un
  e bière et d'une part de pizza offertes par Elastic.\nNous vous attendons
-  nombreux !\nCNCF Bdx team !\n\nCommunauté: cloud-native-bordeaux\n👥 6
- 9 participant(s)\nLimité à 80 places
+  nombreux !\nCNCF Bdx team !\n\nCommunauté: cloud-native-bordeaux
 LOCATION:Spaces - Bordeaux Spaces Euratlantique\, 31 Rue d'Armagnac\, Bord
  eaux\, France
 TZID:Europe/Paris
@@ -2158,7 +2186,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  es.-------------\n21h - Nous nous retrouverons\, comme d'habitude\, pour 
  échanger autour d'une bière et d'une part de pizza offertes par nos hôt
  es.\nNous vous attendons nombreux !\nCNCF Bdx team !\n\nCommunauté: cloud
- -native-bordeaux\n👥 65 participant(s)\nLimité à 80 places
+ -native-bordeaux
 LOCATION:Le Wagon Bordeaux - Training Développement Web\, Data Science & 
  Data Analytics\, 107 Cr Balguerie Stuttenberg\, Bordeaux\, France
 TZID:Europe/Paris
@@ -2202,8 +2230,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
   Google Home Mini sera à gagner :)-------------\n21h - Nous nous retrouve
  rons\, comme d'habitude\, pour échanger autour d'une bière et d'une part
   de pizza offertes par nos hôtes.\nNous vous attendons nombreux !\nCNCF B
- dx team !\n\nCommunauté: cloud-native-bordeaux\n👥 65 participant(s)\nL
- imité à 80 places
+ dx team !\n\nCommunauté: cloud-native-bordeaux
 LOCATION:Fieldbox\, Quai Armand Lalande\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/26180399
@@ -2250,7 +2277,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  ant.\n-------------\n21h - Nous nous retrouverons\, comme d'habitude\, pou
  r échanger autour d'une bière et d'une part de pizza offertes par nos h
  ôtes.\nNous vous attendons nombreux !\nCNCF Bdx team !\n\nCommunauté: cl
- oud-native-bordeaux\n👥 86 participant(s)\nLimité à 90 places
+ oud-native-bordeaux
 LOCATION:56 Quai Lawton\, 56 Quai Lawton\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/25999141
@@ -2298,7 +2325,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  dans ce contexte.\n-------------\n21h - Nous nous retrouverons pour échan
  ger autour d'une bière et d'une part de pizza offert par nos hôtes\nNous
   vous attendons nombreux !\nCNCF Bdx team !\n\nCommunauté: cloud-native-b
- ordeaux\n👥 83 participant(s)\nLimité à 90 places
+ ordeaux
 LOCATION:SQLI Bordeaux\, 10 Rue Thomas Edison\, Pessac\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/25835114
@@ -2336,8 +2363,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  ’on est amené à déployer du code sur ce type de plateforme.\n--------
  -----\n21h - Nous nous retrouverons pour échanger autour d'une bière et 
  d'une part de pizza offert par nos hôtes\nNous vous attendons nombreux !\
- nCNCF Bdx team\n\nCommunauté: cloud-native-bordeaux\n👥 81 participant(
- s)
+ nCNCF Bdx team\n\nCommunauté: cloud-native-bordeaux
 LOCATION:NP6\, 104 bis Quai des Chartrons\, 33300 Bordeaux\, Bordeaux\, Fr
  ance
 TZID:Europe/Paris
@@ -2375,7 +2401,7 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  h development and operational teams.\n------------------\nA la suite de ce
  s talks\, une collation sera offerte par nos amis de Pickmeup afin d'écha
  nger.\nNous vous attendons nombreux !\nCNCF Bdx team\n\nCommunauté: cloud
- -native-bordeaux\n👥 61 participant(s)
+ -native-bordeaux
 LOCATION:Le Wagon Bordeaux\, 107 cours Balguerie Stuttenberg\, Bordeaux\, 
  France
 TZID:Europe/Paris

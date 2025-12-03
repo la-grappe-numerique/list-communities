@@ -17,7 +17,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/cloud-native-bordeaux/events.i
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mardi 09 décembre 2025 à 18:30 | CNCF Meetup #12 | BACK MARKET, BAT G7 BASSINS A FLOTS, 71 RUE LUCIEN FAURE ,33300 BORDEAUX | https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/ |
+| Mardi 09 décembre 2025 à 18:30 | CNCF Meetup #12 | TBD | https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/ |
+| Mardi 09 décembre 2025 à 19:00 | Meetup #12 @Back Market : Backstage et Security Champions | 123 rue lucien faure BAT cap horn, Bordeaux | https://www.meetup.com/cloud-native-computing-bordeaux/events/312268349/ |
 
 ## 📆 Past Events
 
@@ -26,7 +27,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/cloud-native-bordeaux/events.i
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mardi 25 novembre 2025 à 18:30 | Crossplane et des incidents dans Kubernetes | Deezer Bordeaux, 20 rue Saint-François, 33000 Bordeaux | https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/311973761/?eventOrigin=group_upcoming_events |
+| Mardi 25 novembre 2025 à 18:30 | Crossplane et des incidents dans Kubernetes | TBD | https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/311973761/?eventOrigin=group_upcoming_events |
 | Jeudi 13 mars 2025 à 19:00 | Meetup #8 @BDX/IO @Deezer : Falco et Karpenter | 20 rue Saint-François, Bordeaux | https://www.meetup.com/cloud-native-computing-bordeaux/events/306534174/ |
 </details>
 

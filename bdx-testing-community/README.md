@@ -27,9 +27,13 @@ Les échanges peuvent se poursuivre en ligne via nos canaux de communication (gr
 - **📧 Contact** : a.fontaine@lectra.com, jul.leonard@gmail.com, yann.srt@gmail.com
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2025</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mardi 02 décembre 2025 à 18:00 | MEETUP #4 - BDX Testing Community | 117 Quai de Bacalan, Bordeaux | https://www.meetup.com/bdx-testing-community/events/311642889/ |
+</details>
 <!-- EVENTS:END -->
