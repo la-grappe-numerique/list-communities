@@ -8,8 +8,8 @@ Human Talks Bordeaux est une communauté de pratique dynamique où l'apprentissa
 Le contenu s’adressent aux professionnels de l’industrie Tech désireux de développer leurs compétences interpersonnelles à travers des cas d’usage concrets. Par la dénomination “Tech”, nous incluons tous les professionnels de la technologie (ingénieurs, développeurs, designers, concepteurs, analystes..) mais aussi les enseignants, les entrepreneurs et tous les curieux qui souhaitent découvrir cette industrie. L'événement reste un événement à 100% OUVERT à toutes les personnes curieuses.
 
 🌍 Site web : https://humantalks.com/cities/bordeaux
-
-Meetup  : https://www.meetup.com/fr-FR/human-talks-bordeaux/
+👉 Meetup  : https://www.meetup.com/fr-FR/human-talks-bordeaux
+🚀 Linkedin : https://www.linkedin.com/company/human-talks-bordeaux/
 
 Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/human-talks/events.ics](./events.ics ':ignore')
