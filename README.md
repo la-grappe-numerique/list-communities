@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 04 décembre 2025 à 18:30 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Cyber & Expertise : rendre visible l’invisible](https://luma.com/2foedvti) | SFEIR, 5 Rue de Condé, 33000 Bordeaux |
 | Lundi 08 décembre 2025 à 19:00 | [bordeauxjug](bordeauxjug/) | [Créer un Chatbot Intelligent avec LangChain4j](https://www.meetup.com/bordeauxjug/events/312127890/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
 | Lundi 08 décembre 2025 à 19:00 | [bordeauxjug](bordeauxjug/) | [Créer un Chatbot Intelligent avec LangChain4j](https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j) | TBD |
+| Mardi 09 décembre 2025 à 18:30 | [cloud-native-bordeaux](cloud-native-bordeaux/) | [CNCF Meetup #12](https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/) | TBD |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
