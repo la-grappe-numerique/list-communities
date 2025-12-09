@@ -20,13 +20,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Lundi 08 décembre 2025 à 19:00 | Créer un Chatbot Intelligent avec LangChain4j | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/312127890/ |
-| Lundi 08 décembre 2025 à 19:00 | Créer un Chatbot Intelligent avec LangChain4j | TBD | https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j |
-
 ## 📆 Past Events
 
 <details>
@@ -34,6 +27,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./even
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Lundi 08 décembre 2025 à 19:00 | Créer un Chatbot Intelligent avec LangChain4j | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/312127890/ |
+| Lundi 08 décembre 2025 à 19:00 | Créer un Chatbot Intelligent avec LangChain4j | TBD | https://www.bordeauxjug.org/meetings/20251208-creer_un_chatbot_intelligent_avec_langchain4j |
 | Jeudi 20 novembre 2025 à 18:50 | Spring Boot: Chapitre 4 | TBD | https://bordeauxjug.org/meetings/20251120-Spring_Boot__Chapitre_4 |
 | Jeudi 16 octobre 2025 à 19:00 | Karate Connect : votre partenaire de combat dans l’arène des tests API | TBD | https://www.meetup.com/bordeauxjug/events/311318217/ |
 | Jeudi 12 juin 2025 à 19:00 | Les super pouvoirs du package java.util.function | TBD | https://www.bordeauxjug.org/ |
