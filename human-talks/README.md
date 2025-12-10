@@ -17,12 +17,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/human-talks/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Mardi 09 décembre 2025 à 18:30 | Human Talks Bordeaux #12 | 83 Rue Lucien Faure, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/311997103/ |
-
 ## 📆 Past Events
 
 <details>
@@ -30,6 +24,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/human-talks/events.ics](./even
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mardi 09 décembre 2025 à 18:30 | Human Talks Bordeaux #12 | 83 Rue Lucien Faure, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/311997103/ |
 | Mardi 11 mars 2025 à 18:30 | Human Talks Bordeaux #10 - Organisation & Leadership | 1 Quai Armand Lalande, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/306118686/ |
 | Mardi 11 février 2025 à 18:30 | Human Talks Bordeaux #9 - Culture & Stratégie Design  | 26 rue Raze, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/305610389/ |
 | Mardi 14 janvier 2025 à 18:30 | Human Talks Bordeaux #8 - Carrières | 117 Quai de Bacalan, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/305180987/ |

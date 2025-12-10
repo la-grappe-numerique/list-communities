@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 09 décembre 2025 à 18:30 | [cloud-native-bordeaux](cloud-native-bordeaux/) | [CNCF Meetup #12](https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/) | TBD |
-| Mardi 09 décembre 2025 à 18:30 | [human-talks](human-talks/) | [Human Talks Bordeaux #12](https://www.meetup.com/human-talks-bordeaux/events/311997103/) | 83 Rue Lucien Faure, Bordeaux |
-| Mardi 09 décembre 2025 à 19:00 | [cloud-native-bordeaux](cloud-native-bordeaux/) | [Meetup #12 @Back Market : Backstage et Security Champions](https://www.meetup.com/cloud-native-computing-bordeaux/events/312268349/) | 123 rue lucien faure BAT cap horn, Bordeaux |
+| Jeudi 11 décembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | ["Ce n'est pas tout"](https://www.linkedin.com/feed/update/urn:li:activity:7400215812839612416/) | Capgemini Bordeaux  19 All. James Watt à Mérignac |
+| Jeudi 11 décembre 2025 à 18:30 | [bordeaux-aperops](bordeaux-aperops/) | [IA & développement : apprendre à collaborer avec l’intelligence artificielle](https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311991794/) | 107 cours Balguerie Stuttenberg, Bordeaux |
+| Lundi 05 janvier 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
