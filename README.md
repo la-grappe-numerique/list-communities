@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 11 décembre 2025 à 18:30 | [agile-bordeaux](agile-bordeaux/) | ["Ce n'est pas tout"](https://www.linkedin.com/feed/update/urn:li:activity:7400215812839612416/) | Capgemini Bordeaux  19 All. James Watt à Mérignac |
-| Jeudi 11 décembre 2025 à 18:30 | [bordeaux-aperops](bordeaux-aperops/) | [IA & développement : apprendre à collaborer avec l’intelligence artificielle](https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311991794/) | 107 cours Balguerie Stuttenberg, Bordeaux |
 | Lundi 05 janvier 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 05 janvier 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/311567887/) | 9 Rue de Condé, Bordeaux |
+| Samedi 10 janvier 2026 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture - Manuel de Coaching d'Organisation](https://www.linkedin.com/feed/update/urn:li:activity:7397514514004463616/?actorCompanyId=108814133) | Le Node, 12 Rue des Faussets, 33000, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
