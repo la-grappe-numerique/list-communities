@@ -1,11 +1,25 @@
 [
   {
+    "title": "MTG x GitHub x JUG x Betclic #8",
+    "date": "2026-01-08T18:30:00+01:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/312635439/",
+    "description": "**MTG x GitHub x JUG x Betclic**\n\nPour fêter les deux ans du MTG Bordeaux, nous organisons un évènement surprise main dans la main avec GitHub, Betclic et le JUG!\n\nAu programme, une session immersive d'une heure et demie, composée à 90 % de démonstrations, qui raconte l'histoire d'un développeur qui découvre et maîtrise progressivement l'ère agentique de GitHub Copilot.\n\n**📅 Programme de l’événement**\n*18h30* – **Accueil & Networking**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour une session passionnante.\n*18h45* – **Bienvenue & Introduction**\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*19h00* – **AI Discipline, From Vibe Coding to Spec Driven Development with GitHub Copilot par Tugdual Grall**\nAperçu des nouvelles fonctionnalités annoncées lors du GitHub Universe et des dernières mises à jour : Coding Agent, Plan Mode, Custom Agents, Mission Control, Github Code Quality, CLI Copilot\n\\- Prenez un projet existant et montrez comment le contexte transforme Copilot en un expert de votre base de code \\(démonstration en direct\\)\n\\- MCP \\(Model Context Protocol\\) : connectez Copilot à vos outils et à vos données\n\\- Lancez plusieurs agents de codage en parallèle et orchestrez à grande échelle \\(démonstration en direct\\)\n\\- Commentaires et cas d'utilisation spécifiques\n\\- Conseils pour démarrer\n*20h30* – **Clôture, Pizza, Drinks & Networking**\nProfitez d’un moment convivial.\n\n**📍 Lieu de l’événement :** Betclic Arena\n117 Quai de Bacalan, 33300 Bordeaux\n[https://maps.app.goo.gl/wcZPDYWcv112Mist7](https://maps.app.goo.gl/wcZPDYWcv112Mist7)\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participants. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "community": "mtg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Betclic",
+      "address": "117 Quai de Bacalan",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "117 Quai de Bacalan, Bordeaux"
+  },
+  {
     "title": "VS Code Dev Days Bordeaux",
     "date": "2025-09-29T18:00:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/310407674",
     "description": "Rejoignez-nous pour un évènement tech où vous apprendrez à exploiter tout le potentiel de VS Code et GitHub Copilot et à améliorer votre expérience de développement. Au programme 2 talks et 1 workshop. Que vous soyez débutant·e ou développ·eur·euse expérimenté·e, cet événement est fait pour vous !\n\n📅 Programme de l’événement\n18h – Accueil & Networking\nRencontrez d’autres développ·eurs·euses et préparez-vous pour une session passionnante.\n18h10 – Bienvenue & Introduction\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n18h20 – Session : Techniques essentielles pour GitHub Copilot dans VS Code\nMaîtrisez les fondamentaux de GitHub et découvrez comment utiliser cet outil comme un pro.\n18h50 – Session Communautaire (intitulé et contenu dévoilés bientôt)\n19h35 – Atelier : Explorer VS Code et GitHub Copilot\nMettez la main à la pâte avec GitHub Copilot et découvrez comment utiliser l’IA pour la complétion de code, le refactoring, les agents et plus encore.\n20h35 – Clôture & Networking\nProfitez d’un moment de networking.\n\n📍 Lieu de l’événement : L'événement aura lieu à Bordeaux, le lieu exact sera communiqué prochainement.\n\n💻 Pensez à apporter votre ordinateur portable ! Il y aura une session interactive en fin de soirée qui nécessitera votre propre laptop pour que vous puissiez pratiquer les nouvelles techniques en temps réel.\n💡 Commencez ici : Téléchargez [VS Code](https://code.visualstudio.com/) et activez [votre compte GitHub Copilot gratuit pour VS Code](https://code.visualstudio.com/blogs/2024/12/18/free-github-copilot)",
     "community": "mtg-bordeaux",
-    "location": "Microsoft Lab (Cité Numérique), 2 Rue Marc Sangnier, Bègles, France",
     "is_online": false
   },
   {
@@ -14,7 +28,6 @@
     "url": "https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email&utm_campaign=group-new-rsvps",
     "description": "# Programme :\n18h00 - 18h30 => Accueil\n18H30 - 18H40 => Introduction\n18H40 - 19h25 => \"Testing: pushing the limits\" par Guillaume Saint Etienne\n19h25 - 20h10 => \" gRPC, c'est pas sorcier\" par Antoine Delmaere et Xavier Noya\n20h10 => Moment convivial",
     "community": "mtg-bordeaux",
-    "location": "Betclic, 117 Quai de Bacalan, Bordeaux",
     "is_online": false
   },
   {
@@ -30,9 +43,7 @@
       "city": "Pessac",
       "country": "France"
     },
-    "location": "198 Av. du Haut Lévêque, 33600 Pessac, Pessac",
-    "rsvp_limit": 40,
-    "rsvp_count": 6
+    "location": "198 Av. du Haut Lévêque, 33600 Pessac, Pessac"
   },
   {
     "title": "Meetup MTG:Bordeaux #5",
@@ -47,9 +58,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "5 Rue de Condé, Bordeaux",
-    "rsvp_limit": 30,
-    "rsvp_count": 30
+    "location": "5 Rue de Condé, Bordeaux"
   },
   {
     "title": "Meetup MTG:Bordeaux #4",
@@ -64,8 +73,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "117 Quai de Bacalan, Bordeaux",
-    "rsvp_count": 42
+    "location": "117 Quai de Bacalan, Bordeaux"
   },
   {
     "title": "Meetup MTG:Bordeaux #3",
@@ -80,8 +88,7 @@
       "city": "Bègles",
       "country": "France"
     },
-    "location": "2 Rue Marc Sangnier, Bègles",
-    "rsvp_count": 26
+    "location": "2 Rue Marc Sangnier, Bègles"
   },
   {
     "title": "Meetup MTG:Bordeaux #2",
@@ -96,8 +103,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "44 All. de Tourny, Bordeaux",
-    "rsvp_count": 30
+    "location": "44 All. de Tourny, Bordeaux"
   },
   {
     "title": "Lancement du MTG:Bordeaux",
@@ -112,7 +118,6 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "107 Cr Balguerie Stuttenberg, Bordeaux",
-    "rsvp_count": 41
+    "location": "107 Cr Balguerie Stuttenberg, Bordeaux"
   }
 ]
