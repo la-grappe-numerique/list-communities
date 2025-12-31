@@ -10610,37 +10610,72 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/278556971/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MTG x GitHub x JUG x Betclic #8
+DTSTART;TZID=Europe/Paris:20260108T183000
+DTEND;TZID=Europe/Paris:20260108T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/312635439/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/312635439/\n
+ 📍 Betclic\, 117 Quai de Bacalan\, Bordeaux\, fr\n\n**MTG x GitHub x JUG
+  x Betclic**\n\nPour fêter les deux ans du MTG Bordeaux\, nous organisons
+  un évènement surprise main dans la main avec GitHub\, Betclic et le JUG
+ !\n\nAu programme\, une session immersive d'une heure et demie\, composée
+  à 90 % de démonstrations\, qui raconte l'histoire d'un développeur qui
+  découvre et maîtrise progressivement l'ère agentique de GitHub Copilot
+ .\n\n**📅 Programme de l’événement**\n*18h30* – **Accueil & Networ
+ king**\nRencontrez d’autres développ·eurs·euses et préparez-vous pou
+ r une session passionnante.\n*18h45* – **Bienvenue & Introduction**\nPr
+ ésentation du déroulé de la soirée et des intervenant·e·s.\n*19h00* 
+ – **AI Discipline\, From Vibe Coding to Spec Driven Development with Git
+ Hub Copilot par Tugdual Grall**\nAperçu des nouvelles fonctionnalités an
+ noncées lors du GitHub Universe et des dernières mises à jour : Coding 
+ Agent\, Plan Mode\, Custom Agents\, Mission Control\, Github Code Quality\
+ , CLI Copilot\n\\- Prenez un projet existant et montrez comment le context
+ e transforme Copilot en un expert de votre base de code \\(démonstration 
+ en direct\\)\n\\- MCP \\(Model Context Protocol\\) : connectez Copilot à 
+ vos outils et à vos données\n\\- Lancez plusieurs agents de codage en pa
+ rallèle et orchestrez à grande échelle \\(démonstration en direct\\)\n
+ \\- Commentaires et cas d'utilisation spécifiques\n\\- Conseils pour dém
+ arrer\n*20h30* – **Clôture\, Pizza\, Drinks & Networking**\nProfitez d
+ ’un moment convivial.\n\n**📍 Lieu de l’événement :** Betclic Aren
+ a\n117 Quai de Bacalan\, 33300 Bordeaux\n[https://maps.app.goo.gl/wcZPDYWc
+ v112Mist7](https://maps.app.goo.gl/wcZPDYWcv112Mist7)\n\n**📜 Code de co
+ nduite**\nNous nous engageons à créer un environnement inclusif et accue
+ illant pour tous les participants. Merci de consulter notre [Code de condu
+ ite](https://www.mtg-france.org/coc) avant de participer.\n\nCommunauté: 
+ mtg-bordeaux
+LOCATION:Betclic\, 117 Quai de Bacalan\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/312635439/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VS Code Dev Days Bordeaux
 DTSTART;TZID=Europe/Paris:20250929T180000
 DTEND;TZID=Europe/Paris:20250929T200000
 UID:https://www.meetup.com/mtg-bordeaux/events/310407674@community-events
-DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/310407674\n
- 📍 Microsoft Lab (Cité Numérique)\, 2 Rue Marc Sangnier\, Bègles\, Fr
- ance\n\nRejoignez-nous pour un évènement tech où vous apprendrez à exp
- loiter tout le potentiel de VS Code et GitHub Copilot et à améliorer vot
- re expérience de développement. Au programme 2 talks et 1 workshop. Que 
- vous soyez débutant·e ou développ·eur·euse expérimenté·e\, cet év
- énement est fait pour vous !\n\n📅 Programme de l’événement\n18h 
- – Accueil & Networking\nRencontrez d’autres développ·eurs·euses et 
- préparez-vous pour une session passionnante.\n18h10 – Bienvenue & Intro
- duction\nPrésentation du déroulé de la soirée et des intervenant·e·s
- .\n18h20 – Session : Techniques essentielles pour GitHub Copilot dans VS
-  Code\nMaîtrisez les fondamentaux de GitHub et découvrez comment utilise
- r cet outil comme un pro.\n18h50 – Session Communautaire (intitulé et c
- ontenu dévoilés bientôt)\n19h35 – Atelier : Explorer VS Code et GitHu
- b Copilot\nMettez la main à la pâte avec GitHub Copilot et découvrez co
- mment utiliser l’IA pour la complétion de code\, le refactoring\, les a
- gents et plus encore.\n20h35 – Clôture & Networking\nProfitez d’un mo
- ment de networking.\n\n📍 Lieu de l’événement : L'événement aura l
- ieu à Bordeaux\, le lieu exact sera communiqué prochainement.\n\n💻 Pe
- nsez à apporter votre ordinateur portable ! Il y aura une session interac
- tive en fin de soirée qui nécessitera votre propre laptop pour que vous 
- puissiez pratiquer les nouvelles techniques en temps réel.\n💡 Commence
- z ici : Téléchargez [VS Code](https://code.visualstudio.com/) et activez
-  [votre compte GitHub Copilot gratuit pour VS Code](https://code.visualstu
- dio.com/blogs/2024/12/18/free-github-copilot)\n\nCommunauté: mtg-bordeaux
-LOCATION:Microsoft Lab (Cité Numérique)\, 2 Rue Marc Sangnier\, Bègles\
- , France
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/310407674\n\nR
+ ejoignez-nous pour un évènement tech où vous apprendrez à exploiter to
+ ut le potentiel de VS Code et GitHub Copilot et à améliorer votre expér
+ ience de développement. Au programme 2 talks et 1 workshop. Que vous soye
+ z débutant·e ou développ·eur·euse expérimenté·e\, cet événement 
+ est fait pour vous !\n\n📅 Programme de l’événement\n18h – Accueil
+  & Networking\nRencontrez d’autres développ·eurs·euses et préparez-v
+ ous pour une session passionnante.\n18h10 – Bienvenue & Introduction\nPr
+ ésentation du déroulé de la soirée et des intervenant·e·s.\n18h20 
+ – Session : Techniques essentielles pour GitHub Copilot dans VS Code\nMa
+ îtrisez les fondamentaux de GitHub et découvrez comment utiliser cet out
+ il comme un pro.\n18h50 – Session Communautaire (intitulé et contenu d
+ évoilés bientôt)\n19h35 – Atelier : Explorer VS Code et GitHub Copilo
+ t\nMettez la main à la pâte avec GitHub Copilot et découvrez comment ut
+ iliser l’IA pour la complétion de code\, le refactoring\, les agents et
+  plus encore.\n20h35 – Clôture & Networking\nProfitez d’un moment de 
+ networking.\n\n📍 Lieu de l’événement : L'événement aura lieu à B
+ ordeaux\, le lieu exact sera communiqué prochainement.\n\n💻 Pensez à 
+ apporter votre ordinateur portable ! Il y aura une session interactive en 
+ fin de soirée qui nécessitera votre propre laptop pour que vous puissiez
+  pratiquer les nouvelles techniques en temps réel.\n💡 Commencez ici : 
+ Téléchargez [VS Code](https://code.visualstudio.com/) et activez [votre 
+ compte GitHub Copilot gratuit pour VS Code](https://code.visualstudio.com/
+ blogs/2024/12/18/free-github-copilot)\n\nCommunauté: mtg-bordeaux
 TZID:Europe/Paris
 URL:https://www.meetup.com/mtg-bordeaux/events/310407674
 END:VEVENT
@@ -10651,13 +10686,11 @@ DTEND;TZID=Europe/Paris:20250603T203000
 UID:https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email
  &utm_campaign=group-new-rsvps@community-events
 DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/307780893/?utm
- _medium=email&utm_campaign=group-new-rsvps\n📍 Betclic\, 117 Quai de Bac
- alan\, Bordeaux\n\n# Programme :\n18h00 - 18h30 => Accueil\n18H30 - 18H40 
- => Introduction\n18H40 - 19h25 => "Testing: pushing the limits" par Guilla
- ume Saint Etienne\n19h25 - 20h10 => " gRPC\, c'est pas sorcier" par Antoin
- e Delmaere et Xavier Noya\n20h10 => Moment convivial\n\nCommunauté: mtg-b
- ordeaux
-LOCATION:Betclic\, 117 Quai de Bacalan\, Bordeaux
+ _medium=email&utm_campaign=group-new-rsvps\n\n# Programme :\n18h00 - 18h30
+  => Accueil\n18H30 - 18H40 => Introduction\n18H40 - 19h25 => "Testing: pus
+ hing the limits" par Guillaume Saint Etienne\n19h25 - 20h10 => " gRPC\, c'
+ est pas sorcier" par Antoine Delmaere et Xavier Noya\n20h10 => Moment conv
+ ivial\n\nCommunauté: mtg-bordeaux
 TZID:Europe/Paris
 URL:https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email
  &utm_campaign=group-new-rsvps
@@ -10679,8 +10712,7 @@ DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/306572236/\n
  w%3D%3D)\nVoici le programme de la soirée :\n* 18h00 - 18h30 => Accueil* 
  18H30 - 18H40 => Introduction* 18H40 - 19h25 => Talk 1* 19h25 - 20h10 => T
  alk 2* 20h10 => Moment convivial\nLes détails du programme (talks et spea
- kers) sont communiqués prochainement.\n\nCommunauté: mtg-bordeaux\n👥 
- 6 participant(s)\nLimité à 40 places
+ kers) sont communiqués prochainement.\n\nCommunauté: mtg-bordeaux
 LOCATION:Hager\, 198 Av. du Haut Lévêque\, 33600 Pessac\, Pessac\, Franc
  e
 TZID:Europe/Paris
@@ -10699,8 +10731,7 @@ DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/305136888/\n
   18h30 => Accueil* 18H30 - 18H40 => Introduction* 18H40 - 19h25 => "Notre 
  premier déploiement sur Azure China ?"par Jean Villette & Vincenzo Scalzi
  * 19h25 - 20h10 => "Automatisation du Release Management" par Tristan Isam
- bart* 20h10 => Moment convivial\n\nCommunauté: mtg-bordeaux\n👥 30 part
- icipant(s)\nLimité à 30 places
+ bart* 20h10 => Moment convivial\n\nCommunauté: mtg-bordeaux
 LOCATION:SFEIR Bordeaux\, 5 Rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/mtg-bordeaux/events/305136888/
@@ -10720,8 +10751,7 @@ DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/302549137/\n
  - 20h00 => .NET MAUI : un framework (mobile) pour les dominer tous ? par J
  ulien DAUGARON et Stéphane LOUGE* 20h => Moment convivial\n**Note importa
  nte : les personnes qui ne se seront pas inscrites en amont ne pourront pa
- s rentrer dans le batiment**\n\nCommunauté: mtg-bordeaux\n👥 42 partici
- pant(s)
+ s rentrer dans le batiment**\n\nCommunauté: mtg-bordeaux
 LOCATION:Betclic\, 117 Quai de Bacalan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/mtg-bordeaux/events/302549137/
@@ -10739,7 +10769,7 @@ DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/300232411/\n
  erience Architecte chez Pulumi.\nLe programme :\\- Pulumi ❤️ Azure: Ge
  tting Started with Modern Infrastructure as Code par Engin Diri\\- Industr
  ialiser la configuration de ses dépôts Github avec de l'IaC par Alexandr
- e Nédélec\n\nCommunauté: mtg-bordeaux\n👥 26 participant(s)
+ e Nédélec\n\nCommunauté: mtg-bordeaux
 LOCATION:Wellio Bordeaux Cité Numérique\, 2 Rue Marc Sangnier\, Bègles\
  , France
 TZID:Europe/Paris
@@ -10759,7 +10789,7 @@ DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/298989875/\n
  emps réel" par Thomas Gaignard\, Victor Lohezic\, Rebecca Pinoteau\, Flor
  ian Bour (Enseirb-Matmeca)3. "Comment économiser de l'argent et donc du C
  o2 dans Azure ?" par Eddy Montus (Hello Asso)4. Temps convivial\n\nCommuna
- uté: mtg-bordeaux\n👥 30 participant(s)
+ uté: mtg-bordeaux
 LOCATION:Ippon Technologies Bordeaux\, 44 All. de Tourny\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -10779,7 +10809,7 @@ DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/298066350/\n
  e Series Insights Gen1 vers Azure Data Explorer" par Thomas Rouchaud (Hage
  r Group)3. "Abstraire mon architecture distribuée ? Pourquoi et Comment ?
  " par Vivien Maleze (Ippon Technologies)4. Temps convivial\n\nCommunauté:
-  mtg-bordeaux\n👥 41 participant(s)
+  mtg-bordeaux
 LOCATION:Le Wagon Bordeaux - Training Développement Web\, Data Science & 
  Data Analytics\, 107 Cr Balguerie Stuttenberg\, Bordeaux\, France
 TZID:Europe/Paris

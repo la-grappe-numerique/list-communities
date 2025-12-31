@@ -19,6 +19,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 08 janvier 2026 à 18:30 | MTG x GitHub x JUG x Betclic #8 | 117 Quai de Bacalan, Bordeaux | https://www.meetup.com/mtg-bordeaux/events/312635439/ |
+
 ## 📆 Past Events
 
 <details>
@@ -26,8 +32,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](./eve
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Lundi 29 septembre 2025 à 18:00 | VS Code Dev Days Bordeaux | Microsoft Lab (Cité Numérique), 2 Rue Marc Sangnier, Bègles, France | https://www.meetup.com/mtg-bordeaux/events/310407674 |
-| Mardi 03 juin 2025 à 18:30 | Meetup MTG:Bordeaux #7 | Betclic, 117 Quai de Bacalan, Bordeaux | https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email&utm_campaign=group-new-rsvps |
+| Lundi 29 septembre 2025 à 18:00 | VS Code Dev Days Bordeaux | TBD | https://www.meetup.com/mtg-bordeaux/events/310407674 |
+| Mardi 03 juin 2025 à 18:30 | Meetup MTG:Bordeaux #7 | TBD | https://www.meetup.com/mtg-bordeaux/events/307780893/?utm_medium=email&utm_campaign=group-new-rsvps |
 | Jeudi 10 avril 2025 à 18:30 | Meetup MTG:Bordeaux #6 | 198 Av. du Haut Lévêque, 33600 Pessac, Pessac | https://www.meetup.com/mtg-bordeaux/events/306572236/ |
 | Jeudi 06 février 2025 à 18:30 | Meetup MTG:Bordeaux #5 | 5 Rue de Condé, Bordeaux | https://www.meetup.com/mtg-bordeaux/events/305136888/ |
 </details>
