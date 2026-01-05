@@ -1,5 +1,20 @@
 [
   {
+    "title": "Off-Playground - Creative Coding",
+    "date": "2026-01-15T19:00:00+01:00",
+    "url": "https://www.meetup.com/creative-coding-bordeaux/events/312710464/",
+    "description": "[Playground](https://plgrnd.cc) est une rencontre destinée au partage d'idées, de techniques et de passions autour de l'art algorithmique et de la programmation créative, de l'image au son, et au delà. Cet évènement est ouvert à tous·tes, peu importe l'expérience.\n\nNous serons hébergé·e·s dans les locaux de Deezer à Bordeaux et ce sera l'occasion d'échanger sur nos projets et nos passions.\n\nPas de plan, pas de slides, que des humains. **Amenez vos idées !** Et pourquoi pas vos laptops, pour des petites séances improvisées, de démos, apprentissage, découvertes.\n\nEntre discussions, démos et hacking, une séance de livecoding musical collaboratif sera proposée (débutant·e·s bienvenu·e·s). Amenez des choses à grignoter ou à boire si vous le souhaitez.",
+    "community": "creative-coding-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "20 Rue Saint-François",
+      "address": "20 Rue Saint-François",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "20 Rue Saint-François, Bordeaux"
+  },
+  {
     "title": "Atelier livecoding audiovisuel",
     "date": "2024-10-24T19:00:00+02:00",
     "url": "https://www.meetup.com/creative-coding-bordeaux/events/303995439/",
@@ -12,9 +27,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 10,
-    "rsvp_count": 10
+    "location": "20 Rue Saint-François, Bordeaux"
   },
   {
     "title": "Playground #4 - Creative Coding",
@@ -29,9 +42,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 41,
-    "rsvp_count": 29
+    "location": "20 Rue Saint-François, Bordeaux"
   },
   {
     "title": "Atelier livecoding sonore",
@@ -46,9 +57,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 7,
-    "rsvp_count": 7
+    "location": "20 Rue Saint-François, Bordeaux"
   },
   {
     "title": "Playground #3 - Creative Coding",
@@ -63,9 +72,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 41,
-    "rsvp_count": 41
+    "location": "20 Rue Saint-François, Bordeaux"
   },
   {
     "title": "Playground #2 - Creative Coding",
@@ -80,9 +87,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "44 Rue Barreyre, Bordeaux",
-    "rsvp_limit": 41,
-    "rsvp_count": 38
+    "location": "44 Rue Barreyre, Bordeaux"
   },
   {
     "title": "Playground #1 - Creative Coding",
@@ -97,8 +102,6 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 41,
-    "rsvp_count": 41
+    "location": "20 Rue Saint-François, Bordeaux"
   }
 ]
