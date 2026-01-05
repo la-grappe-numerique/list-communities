@@ -62,6 +62,23 @@
     ]
   },
   {
+    "title": "Off-Playground - Creative Coding",
+    "date": "2026-01-15T19:00:00+01:00",
+    "url": "https://www.meetup.com/creative-coding-bordeaux/events/312710464/",
+    "description": "[Playground](https://plgrnd.cc) est une rencontre destinée au partage d'idées, de techniques et de passions autour de l'art algorithmique et de la programmation créative, de l'image au son, et au delà. Cet évènement est ouvert à tous·tes, peu importe l'expérience.\n\nNous serons hébergé·e·s dans les locaux de Deezer à Bordeaux et ce sera l'occasion d'échanger sur nos projets et nos passions.\n\nPas de plan, pas de slides, que des humains. **Amenez vos idées !** Et pourquoi pas vos laptops, pour des petites séances improvisées, de démos, apprentissage, découvertes.\n\nEntre discussions, démos et hacking, une séance de livecoding musical collaboratif sera proposée (débutant·e·s bienvenu·e·s). Amenez des choses à grignoter ou à boire si vous le souhaitez.",
+    "is_online": false,
+    "venue": {
+      "name": "20 Rue Saint-François",
+      "address": "20 Rue Saint-François",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "20 Rue Saint-François, Bordeaux",
+    "communities": [
+      "creative-coding-bordeaux"
+    ]
+  },
+  {
     "title": "Club de lecture - Manuel de Coaching d'Organisation",
     "date": "2026-01-10T10:00:00",
     "url": "https://www.linkedin.com/feed/update/urn:li:activity:7397514514004463616/?actorCompanyId=108814133",
@@ -1614,8 +1631,6 @@
       "country": "France"
     },
     "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 10,
-    "rsvp_count": 10,
     "communities": [
       "creative-coding-bordeaux"
     ]
@@ -1776,8 +1791,6 @@
       "country": "France"
     },
     "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 41,
-    "rsvp_count": 29,
     "communities": [
       "creative-coding-bordeaux"
     ]
@@ -1922,8 +1935,6 @@
       "country": "France"
     },
     "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 7,
-    "rsvp_count": 7,
     "communities": [
       "creative-coding-bordeaux"
     ]
@@ -2449,8 +2460,6 @@
       "country": "France"
     },
     "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 41,
-    "rsvp_count": 41,
     "communities": [
       "creative-coding-bordeaux"
     ]
@@ -2698,8 +2707,6 @@
       "country": "France"
     },
     "location": "44 Rue Barreyre, Bordeaux",
-    "rsvp_limit": 41,
-    "rsvp_count": 38,
     "communities": [
       "creative-coding-bordeaux"
     ]
@@ -2948,8 +2955,6 @@
       "country": "France"
     },
     "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 41,
-    "rsvp_count": 41,
     "communities": [
       "creative-coding-bordeaux"
     ]
