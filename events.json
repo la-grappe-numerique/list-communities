@@ -12,6 +12,23 @@
   },
   {
     "title": "Coding dojo",
+    "date": "2026-05-04T18:30:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjchbgb/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "9 Rue de Condé, Bordeaux",
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
+    "title": "Coding dojo",
     "date": "2026-04-06T18:30:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/311567891/",
     "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",

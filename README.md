@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 05 janvier 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjccbhb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 05 janvier 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/311567887/) | 9 Rue de Condé, Bordeaux |
 | Jeudi 08 janvier 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [MTG x GitHub x JUG x Betclic #8](https://www.meetup.com/mtg-bordeaux/events/312635439/) | 117 Quai de Bacalan, Bordeaux |
+| Samedi 10 janvier 2026 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture - Manuel de Coaching d'Organisation](https://www.linkedin.com/feed/update/urn:li:activity:7397514514004463616/?actorCompanyId=108814133) | Le Node, 12 Rue des Faussets, 33000, Bordeaux |
+| Jeudi 15 janvier 2026 à 19:00 | [creative-coding-bordeaux](creative-coding-bordeaux/) | [Off-Playground - Creative Coding](https://www.meetup.com/creative-coding-bordeaux/events/312710464/) | 20 Rue Saint-François, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
