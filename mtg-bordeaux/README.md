@@ -19,13 +19,15 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 08 janvier 2026 à 18:30 | MTG x GitHub x JUG x Betclic #8 | 117 Quai de Bacalan, Bordeaux | https://www.meetup.com/mtg-bordeaux/events/312635439/ |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>
