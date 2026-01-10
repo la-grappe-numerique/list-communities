@@ -21,6 +21,12 @@ Un moment **détente et convivial** autour de pizzas et boissons pour échanger,
 | 📆 La fréquence des évènements | Bimestriel |
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 28 janvier 2026 à 18:30 | Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26 | Le Node, 12 Rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708 |
+
 ## 📆 Past Events
 
 <details>
