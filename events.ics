@@ -2409,6 +2409,28 @@ URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/25498828
  1/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26
+DTSTART;TZID=Europe/Paris:20260128T183000
+DTEND;TZID=Europe/Paris:20260128T203000
+UID:https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives
+ -26-tickets-1976754762708@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25
+ -perspectives-26-tickets-1976754762708\n📍 Le Node\, 12 Rue des Faussets
+ \, 33000 Bordeaux\n\nMeetup Rétro 25 & Perspective 26 + Présentation Fla
+ sh\n4ère Rencontre de la communauté XR Bordelaise autour des technologie
+ s immersives !\n\nRejoignez-nous pour une soirée conviviale et enrichissa
+ nte :\n\n🎤 Présentations Flash ⚡\n🧑🏻‍🏫 Rétrospective 202
+ 5 et perspective 2026\n✨ Zone de Démo : Vous avez un projet XR à montr
+ er ? C'est l'endroit idéal !\n🍕 Apéro Networking 🍷: pour échanger
+  dans une ambiance conviviale ! Si vous le pouvez apportez de quoi grignot
+ er ou boire.\n\n\n📍Le Node\, 12 Rue des Faussets\, Bordeaux - 🗓️28
+ /01 - 🕐 18:30\n\nCommunauté: bordeaux-xr
+LOCATION:Le Node\, 12 Rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives
+ -26-tickets-1976754762708
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bordeaux XR - Tendances XR en recherche
 DTSTART;TZID=Europe/Paris:20250924T183000
 DTEND;TZID=Europe/Paris:20250924T203000

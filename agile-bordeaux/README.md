@@ -15,13 +15,15 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Samedi 10 janvier 2026 à 10:00 | Club de lecture - Manuel de Coaching d'Organisation | Le Node, 12 Rue des Faussets, 33000, Bordeaux | https://www.linkedin.com/feed/update/urn:li:activity:7397514514004463616/?actorCompanyId=108814133 |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>
