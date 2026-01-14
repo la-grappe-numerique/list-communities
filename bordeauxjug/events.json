@@ -1,5 +1,20 @@
 [
   {
+    "title": "Kafka 4, fantastique ?",
+    "date": "2026-01-22T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/312859620/",
+    "description": "Vous l'attendiez, impatiemment, depuis quatre ans et ... ça y est ! **Kafka 4 est là !** À chaque release majeure, son lot de nouveautés, et on se retrouve pour explorer les évolutions clés, leurs motivations et leurs impacts.\n\nNous aborderons, entre autres :\n\n* **La suppression de ZooKeeper** : le passage à Rraft pour simplifier la gestion et améliorer la scalabilité\n* **Le nouveau protocole de rééquilibrage** : une optimisation des groupes de consommateurs pour plus de stabilité et de performance\n* **Les files d'attente (Early Access)** : une consommation coopérative pour des cas d'usage point-à-point, étendant la polyvalence de Kafka\n\nNous détaillerons également les changements nécessaires pour vos applications (producteurs, consommateurs) et clusters : **migration de Log4j vers Log4j2**, transition de ZooKeeper à KRaft, mise à jour vers Java 11 (clients/Streams) et **Java 17** (brokers/Connect/tools).\n\nVous repartirez avec une compréhension claire des **nouveautés de Kafka 4** et des étapes concrètes pour réussir votre migration, que vous soyez développeur, architecte ou administrateur.",
+    "community": "bordeauxjug",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
+  },
+  {
     "title": "Créer un Chatbot Intelligent avec LangChain4j",
     "date": "2025-12-08T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/312127890/",

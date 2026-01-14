@@ -1,5 +1,20 @@
 [
   {
+    "title": "IA : Productivité, Données et réalité",
+    "date": "2026-02-04T18:00:00+01:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/312868461/",
+    "description": "**MTG:Bordeaux x Women in tech**\n\nPour ce 9ème meetup, nous avons le plaisir de co-organiser l'événement avec [Women in tech Bordeaux](https://wit-bdx.com/) et d'être accueilli par [Programisto](https://programisto.fr/) à l'[École de Turing](https://ecoledeturing.fr/).\n\n**📅 Programme de l’événement**\n*18h00* – **Accueil & Networking**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour plusieurs sessions passionnantes.\n*18h30* – **Bienvenue & Introduction**\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*18h45* – **Démarrage des talks**\nLe détail des talks sera communiqué ultérieurement mais les présentations seront faites par :\n\\- Marine Thierry \\- Data Analyst & Formatrice\n\\- Laura Julien \\- CTO Loré\n\\- Arthur Magne \\- CTPO\\, Packmind\n*20h30* – **Clôture & Networking**\nProfitez d’un moment convivial.\n\n**📍 Lieu de l’événement :** École de Turing\n353 Boulevard du Président Wilson 7ème étage, 33200 Bordeaux\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participant∙e∙s. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "community": "mtg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "École de Turing",
+      "address": "353 Boulevard du Président Wilson 7ème étage",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "353 Boulevard du Président Wilson 7ème étage, Bordeaux"
+  },
+  {
     "title": "MTG x GitHub x JUG x Betclic #8",
     "date": "2026-01-08T18:30:00+01:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/312635439/",
