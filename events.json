@@ -62,6 +62,23 @@
     ]
   },
   {
+    "title": "IA : Productivité, Données et réalité",
+    "date": "2026-02-04T18:00:00+01:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/312868461/",
+    "description": "**MTG:Bordeaux x Women in tech**\n\nPour ce 9ème meetup, nous avons le plaisir de co-organiser l'événement avec [Women in tech Bordeaux](https://wit-bdx.com/) et d'être accueilli par [Programisto](https://programisto.fr/) à l'[École de Turing](https://ecoledeturing.fr/).\n\n**📅 Programme de l’événement**\n*18h00* – **Accueil & Networking**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour plusieurs sessions passionnantes.\n*18h30* – **Bienvenue & Introduction**\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*18h45* – **Démarrage des talks**\nLe détail des talks sera communiqué ultérieurement mais les présentations seront faites par :\n\\- Marine Thierry \\- Data Analyst & Formatrice\n\\- Laura Julien \\- CTO Loré\n\\- Arthur Magne \\- CTPO\\, Packmind\n*20h30* – **Clôture & Networking**\nProfitez d’un moment convivial.\n\n**📍 Lieu de l’événement :** École de Turing\n353 Boulevard du Président Wilson 7ème étage, 33200 Bordeaux\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participant∙e∙s. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "is_online": false,
+    "venue": {
+      "name": "École de Turing",
+      "address": "353 Boulevard du Président Wilson 7ème étage",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "353 Boulevard du Président Wilson 7ème étage, Bordeaux",
+    "communities": [
+      "mtg-bordeaux"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2026-02-02T18:30:00+01:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/",
@@ -87,6 +104,23 @@
     "is_online": false,
     "communities": [
       "bordeaux-xr"
+    ]
+  },
+  {
+    "title": "Kafka 4, fantastique ?",
+    "date": "2026-01-22T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/312859620/",
+    "description": "Vous l'attendiez, impatiemment, depuis quatre ans et ... ça y est ! **Kafka 4 est là !** À chaque release majeure, son lot de nouveautés, et on se retrouve pour explorer les évolutions clés, leurs motivations et leurs impacts.\n\nNous aborderons, entre autres :\n\n* **La suppression de ZooKeeper** : le passage à Rraft pour simplifier la gestion et améliorer la scalabilité\n* **Le nouveau protocole de rééquilibrage** : une optimisation des groupes de consommateurs pour plus de stabilité et de performance\n* **Les files d'attente (Early Access)** : une consommation coopérative pour des cas d'usage point-à-point, étendant la polyvalence de Kafka\n\nNous détaillerons également les changements nécessaires pour vos applications (producteurs, consommateurs) et clusters : **migration de Log4j vers Log4j2**, transition de ZooKeeper à KRaft, mise à jour vers Java 11 (clients/Streams) et **Java 17** (brokers/Connect/tools).\n\nVous repartirez avec une compréhension claire des **nouveautés de Kafka 4** et des étapes concrètes pour réussir votre migration, que vous soyez développeur, architecte ou administrateur.",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {

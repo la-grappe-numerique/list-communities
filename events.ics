@@ -6703,6 +6703,33 @@ TZID:Europe/Paris
 URL:https://www.aquinum.fr/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kafka 4\, fantastique ?
+DTSTART;TZID=Europe/Paris:20260122T190000
+DTEND;TZID=Europe/Paris:20260122T210000
+UID:https://www.meetup.com/bordeauxjug/events/312859620/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/312859620/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr\n\nVou
+ s l'attendiez\, impatiemment\, depuis quatre ans et ... ça y est ! **Kafk
+ a 4 est là !** À chaque release majeure\, son lot de nouveautés\, et on
+  se retrouve pour explorer les évolutions clés\, leurs motivations et le
+ urs impacts.\n\nNous aborderons\, entre autres :\n\n* **La suppression de 
+ ZooKeeper** : le passage à Rraft pour simplifier la gestion et améliorer
+  la scalabilité\n* **Le nouveau protocole de rééquilibrage** : une opti
+ misation des groupes de consommateurs pour plus de stabilité et de perfor
+ mance\n* **Les files d'attente (Early Access)** : une consommation coopér
+ ative pour des cas d'usage point-à-point\, étendant la polyvalence de Ka
+ fka\n\nNous détaillerons également les changements nécessaires pour vos
+  applications (producteurs\, consommateurs) et clusters : **migration de L
+ og4j vers Log4j2**\, transition de ZooKeeper à KRaft\, mise à jour vers 
+ Java 11 (clients/Streams) et **Java 17** (brokers/Connect/tools).\n\nVous 
+ repartirez avec une compréhension claire des **nouveautés de Kafka 4** e
+ t des étapes concrètes pour réussir votre migration\, que vous soyez d
+ éveloppeur\, architecte ou administrateur.\n\nCommunauté: bordeauxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/312859620/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Créer un Chatbot Intelligent avec LangChain4j
 DTSTART;TZID=Europe/Paris:20251208T190000
 DTEND;TZID=Europe/Paris:20251208T210000
@@ -10630,6 +10657,36 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/278556971/\n\nNo
   Événement en ligne\n👥 345 participant(s)
 TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/278556971/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IA : Productivité\, Données et réalité
+DTSTART;TZID=Europe/Paris:20260204T180000
+DTEND;TZID=Europe/Paris:20260204T200000
+UID:https://www.meetup.com/mtg-bordeaux/events/312868461/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/312868461/\n
+ 📍 École de Turing\, 353 Boulevard du Président Wilson 7ème étage\, 
+ Bordeaux\, fr\n\n**MTG:Bordeaux x Women in tech**\n\nPour ce 9ème meetup\
+ , nous avons le plaisir de co-organiser l'événement avec [Women in tech 
+ Bordeaux](https://wit-bdx.com/) et d'être accueilli par [Programisto](htt
+ ps://programisto.fr/) à l'[École de Turing](https://ecoledeturing.fr/).\
+ n\n**📅 Programme de l’événement**\n*18h00* – **Accueil & Networki
+ ng**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour 
+ plusieurs sessions passionnantes.\n*18h30* – **Bienvenue & Introduction*
+ *\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*18
+ h45* – **Démarrage des talks**\nLe détail des talks sera communiqué u
+ ltérieurement mais les présentations seront faites par :\n\\- Marine Thi
+ erry \\- Data Analyst & Formatrice\n\\- Laura Julien \\- CTO Loré\n\\- Ar
+ thur Magne \\- CTPO\\\, Packmind\n*20h30* – **Clôture & Networking**\nP
+ rofitez d’un moment convivial.\n\n**📍 Lieu de l’événement :** Éc
+ ole de Turing\n353 Boulevard du Président Wilson 7ème étage\, 33200 Bor
+ deaux\n\n**📜 Code de conduite**\nNous nous engageons à créer un envir
+ onnement inclusif et accueillant pour tous les participant∙e∙s. Merci 
+ de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avan
+ t de participer.\n\nCommunauté: mtg-bordeaux
+LOCATION:École de Turing\, 353 Boulevard du Président Wilson 7ème étag
+ e\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/312868461/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MTG x GitHub x JUG x Betclic #8

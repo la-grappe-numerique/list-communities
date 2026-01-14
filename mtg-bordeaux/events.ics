@@ -5,6 +5,36 @@ X-WR-CALDESC:Calendrier des événements de la communauté mtg-bordeaux
 X-WR-CALNAME:Événements mtg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:IA : Productivité\, Données et réalité
+DTSTART;TZID=Europe/Paris:20260204T180000
+DTEND;TZID=Europe/Paris:20260204T200000
+UID:https://www.meetup.com/mtg-bordeaux/events/312868461/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/312868461/\n
+ 📍 École de Turing\, 353 Boulevard du Président Wilson 7ème étage\, 
+ Bordeaux\, fr\n\n**MTG:Bordeaux x Women in tech**\n\nPour ce 9ème meetup\
+ , nous avons le plaisir de co-organiser l'événement avec [Women in tech 
+ Bordeaux](https://wit-bdx.com/) et d'être accueilli par [Programisto](htt
+ ps://programisto.fr/) à l'[École de Turing](https://ecoledeturing.fr/).\
+ n\n**📅 Programme de l’événement**\n*18h00* – **Accueil & Networki
+ ng**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour 
+ plusieurs sessions passionnantes.\n*18h30* – **Bienvenue & Introduction*
+ *\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*18
+ h45* – **Démarrage des talks**\nLe détail des talks sera communiqué u
+ ltérieurement mais les présentations seront faites par :\n\\- Marine Thi
+ erry \\- Data Analyst & Formatrice\n\\- Laura Julien \\- CTO Loré\n\\- Ar
+ thur Magne \\- CTPO\\\, Packmind\n*20h30* – **Clôture & Networking**\nP
+ rofitez d’un moment convivial.\n\n**📍 Lieu de l’événement :** Éc
+ ole de Turing\n353 Boulevard du Président Wilson 7ème étage\, 33200 Bor
+ deaux\n\n**📜 Code de conduite**\nNous nous engageons à créer un envir
+ onnement inclusif et accueillant pour tous les participant∙e∙s. Merci 
+ de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avan
+ t de participer.\n\nCommunauté: mtg-bordeaux
+LOCATION:École de Turing\, 353 Boulevard du Président Wilson 7ème étag
+ e\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/312868461/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MTG x GitHub x JUG x Betclic #8
 DTSTART;TZID=Europe/Paris:20260108T183000
 DTEND;TZID=Europe/Paris:20260108T203000

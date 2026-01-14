@@ -19,6 +19,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 04 février 2026 à 18:00 | IA : Productivité, Données et réalité | 353 Boulevard du Président Wilson 7ème étage, Bordeaux | https://www.meetup.com/mtg-bordeaux/events/312868461/ |
+
 ## 📆 Past Events
 
 <details>
