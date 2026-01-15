@@ -107,6 +107,23 @@
     ]
   },
   {
+    "title": "APERO #4 - BDX TESTING",
+    "date": "2026-01-28T18:30:00+01:00",
+    "url": "https://www.meetup.com/bdx-testing-community/events/312885328/",
+    "description": "Après les 3 derniers Meet Up, c'est le retour de l'apéro de la BDX Testing Community.\nPlus d'un an après le dernier apéro du groupe, nous sommes ravis de pouvoir à nouveau rassembler les acteurs de la **Qualité et du Testing** avec ce nouvel événement **APERO - BDX TESTING** qui se tiendra le **Mercredi 28 Janvier 2026** à partir de **18h30** à **LES BERTHOM** (45 cours Alsace Lorraine, 33000 Bordeaux).\n\nC'est l'occasion d'échanger sur nos pratiques, nos projets, de nouvelles découvertes, de nouveaux outils ou sur l'actualité de la QA à Bordeaux.\n\nQue tu sois un professionnel chevronné de la Qualité Logicielle ou que tu commences tout juste ton parcours dans le Test, cet événement est parfait pour faire de nouvelles connaissances.",
+    "location": "45 cours D'Alsace-Et-Lorraine ,, Bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Les Berthom",
+      "address": "45 cours D'Alsace-Et-Lorraine ,",
+      "city": "Bordeaux",
+      "country": "FR"
+    },
+    "communities": [
+      "bdx-testing-community"
+    ]
+  },
+  {
     "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
     "date": "2026-01-28T18:30:00",
     "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
@@ -365,6 +382,23 @@
     "is_online": false,
     "communities": [
       "digitalnights"
+    ]
+  },
+  {
+    "title": "MEETUP #4 - BDX Testing Community",
+    "date": "2025-12-02T18:00:00+01:00",
+    "url": "https://www.meetup.com/bdx-testing-community/events/311642889/",
+    "description": "Rejoignez-nous pour une nouvelle soirée dédiée aux passionnés du test logiciel ! Au programme : 3 talks suivis d'un moment convivial d'échanges et de partages.\n\n**Détails de l'événement**\n\n* Date : 2 décembre 2025\n* Lieu : Betclic, 117 Quai de Bacalan, 33300 Bordeaux\n* Horaires : 18h-22h\n\n**Sujets des Talks**\n\n* **Talk 1:** \" TMMi : Évaluez et faîtes progresser vos services de test\" par *Frédéric Levalet*\n* **Talk 2:** \" De 2010 à 11 tests end-to-end - Optimiser la couverture tout en réduisant les temps d'exécution\" par *Nicolas Lespiaucq*\n* **Talk 3:** \"Au secours, mon manager me demande des KPIs\" par *Geoffrey Graveaud*\n\nNous attendons avec impatience de vous retrouver nombreux pour une nouvelle soirée enrichissante !\n\nLes inscriptions sont ouvertes jusqu'au 27 novembre.\n\n***\n\n**Détails des talks**\n\n* **Talk 1:** \" TMMi : Évaluez et faîtes progresser vos services de test\" par *Frédéric Levalet*\n*Description:*\nL’objectif de ce talk est de présenter les avantages d’utiliser le modèle TMMi pour une organisation qui souhaite structurer, professionnaliser et améliorer ses pratiques de test logiciel.\nJe présenterai également les étapes de mise en œuvre et le déroulement d’un audit menant à une certification. Les illustrations se feront à travers des retours d’expériences de structures en France certifiées TMMi.\n* **Talk 2:** \" De 2010 à 11 tests end-to-end - Optimiser la couverture tout en réduisant les temps d'exécution\" par *Nicolas Lespiaucq*\n*Description:*\nLa pyramide de test est un concept connu, mais son implémentation et sa cohérence dans le temps restent un défi.\nDécouvrez le REX sur un cas concret où nous avons réaligné nos tests (unitaires, composants, end-to-end), renforcé le shift left et la collaboration entre développeurs et QA engineers.\nSi vous souhaitez savoir comment améliorer la couverture et les performances des tests, c'est par ici !\n* **Talk 3:** \"Au secours, mon manager me demande des KPIs\" par *Geoffrey Graveaud*\n*Description:*\nKevin était un bon lead technique. Il travaillait dans une équipe de développement de 8 personnes. Il soutenait son équipe, il était respecté et il était écouté par son manager.\nMais un jour, son responsable lui demanda de mesurer la productivité de son équipe.\nEt lui demanda la chose dont on ne dit pas le nom !Des KPIs...\nAinsi, la vie de Kevin bascule et débute ainsi une période sombre.Heureusement sur la route de son périple, il rencontre Eline - une coach agile expérimentée.\nA eux 2, ils feront face à la cruauté du destin et ils chercheront à déjouer ce mauvais sort.Rétabliront-ils la paix et l'ordre dans leur équipe ?",
+    "is_online": false,
+    "venue": {
+      "name": "Betclic Everest Group",
+      "address": "117 Quai de Bacalan",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "117 Quai de Bacalan, Bordeaux",
+    "communities": [
+      "bdx-testing-community"
     ]
   },
   {
