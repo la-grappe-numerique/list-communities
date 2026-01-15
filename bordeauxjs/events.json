@@ -1,5 +1,14 @@
 [
   {
+    "title": "Angular v21: Le framework se met à jour !",
+    "date": "2026-01-28T18:30:00",
+    "url": "https://luma.com/8ioijhjc",
+    "description": "Angular v21 vient de sortir, et c’est une super occasion de se retrouver pour parler des nouveautés, avec un focus sur Signals, le gros sujet de cette release.\n\n​🎤 Format\n\n​1 talk principal (20–25 min) + Q&A\n\n​1 lightning talk (15 min) + Q&A\n\n​Puis networking / discussions informelles\n\n​🧠 Talks\n\n​✅ Florian Allainmat — Signals : le nouveau modèle de réactivité d’Angular v21 (20–25 min)\n\n​✅ Jérémy Guilpin — Angular en entreprise aujourd’hui + comparaison avec React (et le reste 😄) (15 min)\n\n​🤝 Pour qui ?\n\n​Que tu fasses déjà de l’Angular au quotidien ou que tu sois juste curieux de découvrir ce que la v21 change concrètement, tu es le/la bienvenu(e) !\n\n​On terminera par un moment chill pour discuter front/back, architecture, tooling… et rencontrer d’autres devs de Bordeaux 🍻",
+    "community": "bordeauxjs",
+    "location": "Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France",
+    "is_online": false
+  },
+  {
     "title": "Tu sais faire du React ? Alors tu sais déjà faire du mobile (avec React Native & Expo)",
     "date": "2025-12-10T19:00:00",
     "url": "https://luma.com/3v8xjzep",
