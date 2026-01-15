@@ -20,6 +20,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](./event
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mercredi 10 décembre 2025 à 19:00 | Tu sais faire du React ? Alors tu sais déjà faire du mobile (avec React Native & Expo) | Wanteeed, 13 Rue des Cordeliers, 33300 Bordeaux, France | https://luma.com/3v8xjzep |
 | Jeudi 13 novembre 2025 à 19:00 | Pourquoi Javascript est un langage de merde ? | Le node, 12 Rue des Faussets, 33000 Bordeaux | https://www.linkedin.com/events/pourquoijavascriptestunlangaged7391045061519765504/ |
 | Mercredi 15 octobre 2025 à 19:00 | Migrer l’écosystème React Native au Edge-to-Edge : la rétrospective | SFEIR, 5 Rue de Condé, 33000 Bordeaux | https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913363066884096/ |
 | Jeudi 02 octobre 2025 à 19:00 | odfjs, une bibliothèque pour générer et manipuler les fichiers .odt et .ods | Le node, 12 Rue des Faussets, 33000 Bordeaux | https://www.linkedin.com/events/odfjs-unebiblioth-quepourg-n-re7373626860389273600/ |

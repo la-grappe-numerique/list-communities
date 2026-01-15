@@ -5,6 +5,17 @@ X-WR-CALDESC:Calendrier des événements de la communauté data-for-good
 X-WR-CALNAME:Événements data-for-good
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Lancement de la saison 14 Data For Good
+DTSTART;TZID=Europe/Paris:20260129T183000
+DTEND;TZID=Europe/Paris:20260129T203000
+UID:https://www.eventbrite.fr/e/1977881303221@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/1977881303221\n📍 Le Node\,
+  12 Rue des Faussets  33000 Bordeaux\n\n\n\nCommunauté: data-for-good
+LOCATION:Le Node\, 12 Rue des Faussets  33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/1977881303221
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bataille de l'IA - Data For Good Bordeaux x Latitudes
 DTSTART;TZID=Europe/Paris:20251209T190000
 DTEND;TZID=Europe/Paris:20251209T210000

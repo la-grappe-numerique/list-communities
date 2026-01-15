@@ -5,6 +5,28 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Tu sais faire du React ? Alors tu sais déjà faire du mobile (ave
+ c React Native & Expo)
+DTSTART;TZID=Europe/Paris:20251210T190000
+DTEND;TZID=Europe/Paris:20251210T210000
+UID:https://luma.com/3v8xjzep@community-events
+DESCRIPTION:🔗 https://luma.com/3v8xjzep\n📍 Wanteeed\, 13 Rue des Cor
+ deliers\, 33300 Bordeaux\, France\n\nLe développement mobile a changé. A
+ ujourd'hui\, si tu sais faire du React\, tu peux quasiment déjà faire un
+ e app mobile. Avec React Native\, Expo (le framework React-Native) et une 
+ nouvelle vague d'outils (expo-router\, expo go\, EAS\, assistants IA\, MCP
+ …)\, la création d'apps iOS/Android n'a jamais été aussi simple et ra
+ pide.\n\nCe talk montre comment les compétences React se réutilisent tel
+ les quelles côté mobile\, et comment l'écosystème Expo a fait dispara
+ ître les plus gros pain points.\n\nMaintenant\, le développement mobile\
+ , ce n'est plus ce champ de bataille où chaque erreur te coûte trois heu
+ res\, un sacrifice à Xcode et te donne envie de changer de métier.\n\nCo
+ mmunauté: bordeauxjs
+LOCATION:Wanteeed\, 13 Rue des Cordeliers\, 33300 Bordeaux\, France
+TZID:Europe/Paris
+URL:https://luma.com/3v8xjzep
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pourquoi Javascript est un langage de merde ?
 DTSTART;TZID=Europe/Paris:20251113T190000
 DTEND;TZID=Europe/Paris:20251113T210000

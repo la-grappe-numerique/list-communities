@@ -96,6 +96,17 @@
     ]
   },
   {
+    "title": "Lancement de la saison 14 Data For Good",
+    "date": "2026-01-29T18:30:00",
+    "url": "https://www.eventbrite.fr/e/1977881303221",
+    "description": "",
+    "location": "Le Node, 12 Rue des Faussets  33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "data-for-good"
+    ]
+  },
+  {
     "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
     "date": "2026-01-28T18:30:00",
     "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
@@ -211,6 +222,17 @@
     "is_online": false,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Tu sais faire du React ? Alors tu sais déjà faire du mobile (avec React Native & Expo)",
+    "date": "2025-12-10T19:00:00",
+    "url": "https://luma.com/3v8xjzep",
+    "description": "Le développement mobile a changé. Aujourd'hui, si tu sais faire du React, tu peux quasiment déjà faire une app mobile. Avec React Native, Expo (le framework React-Native) et une nouvelle vague d'outils (expo-router, expo go, EAS, assistants IA, MCP…), la création d'apps iOS/Android n'a jamais été aussi simple et rapide.\n\nCe talk montre comment les compétences React se réutilisent telles quelles côté mobile, et comment l'écosystème Expo a fait disparaître les plus gros pain points.\n\nMaintenant, le développement mobile, ce n'est plus ce champ de bataille où chaque erreur te coûte trois heures, un sacrifice à Xcode et te donne envie de changer de métier.",
+    "location": "Wanteeed, 13 Rue des Cordeliers, 33300 Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
     ]
   },
   {
