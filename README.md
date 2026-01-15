@@ -55,7 +55,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 - [Human talks](human-talks/)
 - [Serious Gamers Bordeaux](serious-gamers-bordeaux/)
 
-### Programation/3D
+### Programmation/3D
 
 - [AFUP Bordeaux](afup-bordeaux/)
 - [Archilocus](archilocus/)
