@@ -71,7 +71,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 
 ### Sécurité
 
-- [BièreSecu Bordeaux](bieresecu)
+- [BièreSecu Bordeaux](bieresecu/)
 
 ### Services
 
