@@ -7,6 +7,29 @@ X-WR-CALDESC:Calendrier des événements de la communauté bdx-testing-com
 X-WR-CALNAME:Événements bdx-testing-community
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:APERO #4 - BDX TESTING
+DTSTART;TZID=Europe/Paris:20260128T183000
+DTEND;TZID=Europe/Paris:20260128T203000
+UID:https://www.meetup.com/bdx-testing-community/events/312885328/@communi
+ ty-events
+DESCRIPTION:🔗 https://www.meetup.com/bdx-testing-community/events/31288
+ 5328/\n📍 Les Berthom\, 45 cours D'Alsace-Et-Lorraine \,\, Bordeaux\, FR
+ \n\nAprès les 3 derniers Meet Up\, c'est le retour de l'apéro de la BDX 
+ Testing Community.\nPlus d'un an après le dernier apéro du groupe\, nous
+  sommes ravis de pouvoir à nouveau rassembler les acteurs de la **Qualit
+ é et du Testing** avec ce nouvel événement **APERO - BDX TESTING** qui 
+ se tiendra le **Mercredi 28 Janvier 2026** à partir de **18h30** à **LES
+  BERTHOM** (45 cours Alsace Lorraine\, 33000 Bordeaux).\n\nC'est l'occasio
+ n d'échanger sur nos pratiques\, nos projets\, de nouvelles découvertes\
+ , de nouveaux outils ou sur l'actualité de la QA à Bordeaux.\n\nQue tu s
+ ois un professionnel chevronné de la Qualité Logicielle ou que tu commen
+ ces tout juste ton parcours dans le Test\, cet événement est parfait pou
+ r faire de nouvelles connaissances.\n\nCommunauté: bdx-testing-community
+LOCATION:Les Berthom\, 45 cours D'Alsace-Et-Lorraine \,\, Bordeaux\, FR
+TZID:Europe/Paris
+URL:https://www.meetup.com/bdx-testing-community/events/312885328/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MEETUP #4 - BDX Testing Community
 DTSTART;TZID=Europe/Paris:20251202T180000
 DTEND;TZID=Europe/Paris:20251202T200000
