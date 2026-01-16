@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 15 janvier 2026 à 19:00 | [creative-coding-bordeaux](creative-coding-bordeaux/) | [Off-Playground - Creative Coding](https://www.meetup.com/creative-coding-bordeaux/events/312710464/) | 20 Rue Saint-François, Bordeaux |
 | Jeudi 22 janvier 2026 à 19:00 | [bordeauxjug](bordeauxjug/) | [Kafka 4, fantastique ?](https://www.meetup.com/bordeauxjug/events/312859620/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
 | Mercredi 28 janvier 2026 à 18:30 | [bordeaux-xr](bordeaux-xr/) | [Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26](https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708) | Le Node, 12 Rue des Faussets, 33000 Bordeaux |
+| Mercredi 28 janvier 2026 à 18:30 | [bdx-testing-community](bdx-testing-community/) | [APERO #4 - BDX TESTING](https://www.meetup.com/bdx-testing-community/events/312885328/) | 45 cours D'Alsace-Et-Lorraine ,, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
