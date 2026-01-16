@@ -5,7 +5,7 @@ X-WR-CALDESC:Calendrier des événements de la communauté agile-bordeaux
 X-WR-CALNAME:Événements agile-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:Agile Games France 2026
+SUMMARY:Agile Games France 2026 - J2
 DTSTART;TZID=Europe/Paris:20260328T090000
 DTEND;TZID=Europe/Paris:20260328T110000
 UID:https://agilegamesfrance.fr/doku.php?id=evenement_2026@community-event
@@ -54,7 +54,7 @@ TZID:Europe/Paris
 URL:https://agilegamesfrance.fr/doku.php?id=evenement_2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Agile Games France 2026
+SUMMARY:Agile Games France 2026 - J1
 DTSTART;TZID=Europe/Paris:20260327T090000
 DTEND;TZID=Europe/Paris:20260327T110000
 UID:https://agilegamesfrance.fr/doku.php?id=evenement_2026@community-event
