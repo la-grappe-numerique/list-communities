@@ -3333,6 +3333,26 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/228109596/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bière Agile de Bordeaux - Bonne année!
+DTSTART;TZID=Europe/Paris:20260128T183000
+DTEND;TZID=Europe/Paris:20260128T203000
+UID:https://www.linkedin.com/events/7416947844756127744/@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/7416947844756127744/\n
+ 📍 Le Castan\, 2 Quai de la Douane\, Bordeaux\n\nBonne année à toutes 
+ et à tous !\nJ’espère que vous avez bien profité des fêtes de fin d
+ ’année.\n2025 est passée beaucoup trop vite\, et clairement pas assez 
+ arrosée de bière agile\, alors je vous propose de remettre ça en 2026 
+ 🍻\n\nComme toujours : zéro slide\, zéro préparation. Juste de la cur
+ iosité\, des échanges qui partent dans tous les sens (mais toujours au b
+ on endroit)\, et un bon moment partagé entre agilistes convaincus et curi
+ eux assumés.\n\nUn rendez-vous à Bordeaux\, pour discuter\, débattre\, 
+ rigoler… et repartir avec des idées plein la tête.\n\nCommunauté: agi
+ le-bordeaux
+LOCATION:Le Castan\, 2 Quai de la Douane\, Bordeaux
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/7416947844756127744/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture - Manuel de Coaching d'Organisation
 DTSTART;TZID=Europe/Paris:20260110T100000
 DTEND;TZID=Europe/Paris:20260110T120000

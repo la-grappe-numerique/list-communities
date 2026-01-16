@@ -135,6 +135,17 @@
     ]
   },
   {
+    "title": "Bière Agile de Bordeaux - Bonne année!",
+    "date": "2026-01-28T18:30:00",
+    "url": "https://www.linkedin.com/events/7416947844756127744/",
+    "description": "Bonne année à toutes et à tous !\nJ’espère que vous avez bien profité des fêtes de fin d’année.\n2025 est passée beaucoup trop vite, et clairement pas assez arrosée de bière agile, alors je vous propose de remettre ça en 2026 🍻\n\nComme toujours : zéro slide, zéro préparation. Juste de la curiosité, des échanges qui partent dans tous les sens (mais toujours au bon endroit), et un bon moment partagé entre agilistes convaincus et curieux assumés.\n\nUn rendez-vous à Bordeaux, pour discuter, débattre, rigoler… et repartir avec des idées plein la tête.",
+    "location": "Le Castan, 2 Quai de la Douane, Bordeaux",
+    "is_online": false,
+    "communities": [
+      "agile-bordeaux"
+    ]
+  },
+  {
     "title": "Angular v21: Le framework se met à jour !",
     "date": "2026-01-28T18:30:00",
     "url": "https://luma.com/8ioijhjc",

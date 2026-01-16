@@ -15,6 +15,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 28 janvier 2026 à 18:30 | Bière Agile de Bordeaux - Bonne année! | Le Castan, 2 Quai de la Douane, Bordeaux | https://www.linkedin.com/events/7416947844756127744/ |
+
 ## 📆 Past Events
 
 <details>
