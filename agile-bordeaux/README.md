@@ -20,8 +20,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./e
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mercredi 28 janvier 2026 à 18:30 | Bière Agile de Bordeaux - Bonne année! | Le Castan, 2 Quai de la Douane, Bordeaux | https://www.linkedin.com/events/7416947844756127744/ |
-| Vendredi 27 mars 2026 à 09:00 | Agile Games France 2026 | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux | https://agilegamesfrance.fr/doku.php?id=evenement_2026 |
-| Samedi 28 mars 2026 à 09:00 | Agile Games France 2026 | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux | https://agilegamesfrance.fr/doku.php?id=evenement_2026 |
+| Vendredi 27 mars 2026 à 09:00 | Agile Games France 2026 - J1 | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux | https://agilegamesfrance.fr/doku.php?id=evenement_2026 |
+| Samedi 28 mars 2026 à 09:00 | Agile Games France 2026 - J2 | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux | https://agilegamesfrance.fr/doku.php?id=evenement_2026 |
 
 ## 📆 Past Events
 
