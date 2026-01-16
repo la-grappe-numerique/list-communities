@@ -6,7 +6,8 @@ Rejoignez-nous pour explorer l'univers JavaScript sous toutes ses facettes ! Nos
 
 |                                |     |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?              | [Florian Vander Put](https://www.linkedin.com/in/florian-vanderput/), [Jérôme Béhuet](https://www.linkedin.com/in/jbehuet/), [Michael](https://www.linkedin.com/in/bonfilsmichael/) |
+| ✉️  Qui contacter ?             | [Florian Vander Put](https://www.linkedin.com/in/florian-vanderput/), [Jérôme Béhuet](https://www.linkedin.com/in/jbehuet/), [Michael](https://www.linkedin.com/in/bonfilsmichael/), [Ludwig Vantours](https://www.linkedin.com/in/ludwig-vantours/) |
+| 🌍 Site Web                    | https://bordeauxjs.com/ |
 | 🌍 LinkedIn                    | https://www.linkedin.com/company/bordeauxjs/ |
 
 Le calendrier des évènements est disponible au format iCal.
