@@ -10,7 +10,7 @@ Groupe bordelais qui se réunit pour apprendre et discuter d'AWS, lors de réuni
 | ✨ Slack                       | https://join.slack.com/t/aws-user-group/shared_invite/zt-2pfz3sbjm-uSRpaCZZAXPNQ2qe9St2wQ  |
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/aws-bordeaux/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/aws-bordeaux/events.ics](/aws-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
