@@ -87,7 +87,7 @@ La première édition d'ApérOps avec Maguette MBAYE (ACC) et Vivien RAMAHANDRY 
 
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-aperops/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-aperops/events.ics](/bordeaux-aperops/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📆 Past Events

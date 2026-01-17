@@ -10,7 +10,7 @@ Ces rencontres permettent d'approfondir des sujets, de découvrir de nouvelles t
 🌍 Site web : [https://www.aquinum.fr](https://www.meetup.com/bieresecu-bordeaux/)
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/bieresecu/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/bieresecu/events.ics](/bieresecu/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 <!-- EVENTS:END -->

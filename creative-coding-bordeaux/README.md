@@ -11,7 +11,7 @@ Développeur·se, artiste, simplement curieux·se, ou tout ça à la fois ? Ce g
 | 🌍 Inscription                   | https://www.meetup.com/fr-FR/creative-coding-bordeaux/ |
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/creative-coding-bordeaux/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/creative-coding-bordeaux/events.ics](/creative-coding-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📆 Past Events

@@ -8,7 +8,7 @@ Nous voulons partager nos meilleures pratiques afin de nous améliorer collectiv
 Meetup : https://www.meetup.com/fr-FR/archilocus/ |
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/archilocus/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/archilocus/events.ics](/archilocus/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📆 Past Events

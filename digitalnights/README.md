@@ -10,7 +10,7 @@ C'est aussi un afterwork bimestriel. Rejoins-nous !
 🌍 Serveur discord : https://discord.com/invite/MM87mZueKx
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/digitalnights/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/digitalnights/events.ics](/digitalnights/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
