@@ -15,7 +15,7 @@ Si ces 2 lignes te donnent envie de venir nous voir ou même, que sais-je, de pr
 Les événements c'est par [ici](https://www.meetup.com/fr-FR/bordeaux-php-meetup/) si tu souhaites être notifié des futurs meetup !
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](/afup-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events

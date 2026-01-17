@@ -17,7 +17,7 @@ L'objectif du **Bordeaux** **J**ava **U**ser **G**roup est de permettre à des a
 | Meetup                         | https://www.meetup.com/fr-FR/bordeauxjug/ |
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](/bordeauxjug/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
