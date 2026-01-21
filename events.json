@@ -84,6 +84,23 @@
     ]
   },
   {
+    "title": "Data, qualité & Projets qui Passent à l’Echelle",
+    "date": "2026-02-11T18:45:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/312975150/",
+    "description": "## 🍻 Data, Qualité & Projets qui Passent à l’Echelle\n\nRejoignez-nous pour une soirée **Data & Ops** à Bordeaux, placée sous le signe de la **qualité des données**, de l’**impact sociétal** et des **bonnes pratiques d’ingénierie**.\nCet événement est un **cross-over exceptionnel** 🍇entre **Bordeaux ApérOps** et **Data for Good Bordeaux**, co-organisé avec **SFEIR**, pour croiser les regards entre **data en production** et **data à impact** — toujours dans une ambiance conviviale, autour d’un apéro 🍻\n\n***\n\n## 🎤 Au programme\n\n### 🔎 *Euros for Docs : Renforcer la transparence dans la santé grâce à la data quality*\n\n**Christophe Goudet** — *Freelance · Lead Data for Good*\nMalgré des données ouvertes, l'objectif de transparence des risques de conflits d'intérêt dans la santé n'est pas atteint; principalement à cause de la mauvaise qualité des données. Nous présentons ici le travail de l'association **Euros for Docs** pour restaurer une qualité compatible avec les besoin de transparence.\n\n***\n\n### ⚙️ *Project as Code avec Projen et Just*\n\n**Luis Iglesias Hernandez** — *Freelance · Lead Machine Learning Engineer*\nComment éviter le classique *“ça marche chez moi”* dans les projets Data et ML ?\nEn traitant le projet lui-même comme du code.\nCe talk présentera comment **standardiser la structure, les commandes et les bonnes pratiques** d’un projet Data ou ML (ou tout autre!) grâce à **Projen** et **Just**, afin de :\n\n* simplifier l’onboarding\n* améliorer la cohérence des projets\n* faciliter la collaboration et l’industrialisation\n\n***\n\n## 🤝 Et aussi…\n\n* Une **présentation rapide** des communautés **Bordeaux ApérOps**, **Data for Good Bordeaux** et de leur mission\n* Un **apéro networking** pour échanger, rencontrer et connecter les acteurs de la data bordelaise 🍷\n\n***\n\n## 📅 Infos pratiques\n\n📆 **Date** : Mercredi 11 février\n🕡 **Heure** : 18h45\n📍 **Lieu** : SFEIR Bordeaux, 5 rue de Condé, 33000 Bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "SFEIR",
+      "address": "5, rue de Condé, 33000 Bordeaux",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "5, rue de Condé, 33000 Bordeaux, Bordeaux",
+    "communities": [
+      "bordeaux-aperops"
+    ]
+  },
+  {
     "title": "IA : Productivité, Données et réalité",
     "date": "2026-02-04T18:00:00+01:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/312868461/",

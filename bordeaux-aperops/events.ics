@@ -6,6 +6,48 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeaux-aperop
 X-WR-CALNAME:Événements bordeaux-aperops
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Data\, qualité & Projets qui Passent à l’Echelle
+DTSTART;TZID=Europe/Paris:20260211T184500
+DTEND;TZID=Europe/Paris:20260211T204500
+UID:https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/312975150
+ /@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-aperops-dataops-mlops/eve
+ nts/312975150/\n📍 SFEIR\, 5\, rue de Condé\, 33000 Bordeaux\, Bordeaux
+ \, fr\n\n## 🍻 Data\, Qualité & Projets qui Passent à l’Echelle\n\nR
+ ejoignez-nous pour une soirée **Data & Ops** à Bordeaux\, placée sous l
+ e signe de la **qualité des données**\, de l’**impact sociétal** et d
+ es **bonnes pratiques d’ingénierie**.\nCet événement est un **cross-o
+ ver exceptionnel** 🍇entre **Bordeaux ApérOps** et **Data for Good Bord
+ eaux**\, co-organisé avec **SFEIR**\, pour croiser les regards entre **da
+ ta en production** et **data à impact** — toujours dans une ambiance co
+ nviviale\, autour d’un apéro 🍻\n\n***\n\n## 🎤 Au programme\n\n###
+  🔎 *Euros for Docs : Renforcer la transparence dans la santé grâce à
+  la data quality*\n\n**Christophe Goudet** — *Freelance · Lead Data for
+  Good*\nMalgré des données ouvertes\, l'objectif de transparence des ris
+ ques de conflits d'intérêt dans la santé n'est pas atteint\; principale
+ ment à cause de la mauvaise qualité des données. Nous présentons ici l
+ e travail de l'association **Euros for Docs** pour restaurer une qualité 
+ compatible avec les besoin de transparence.\n\n***\n\n### ⚙️ *Project 
+ as Code avec Projen et Just*\n\n**Luis Iglesias Hernandez** — *Freelance
+  · Lead Machine Learning Engineer*\nComment éviter le classique *“ça 
+ marche chez moi”* dans les projets Data et ML ?\nEn traitant le projet l
+ ui-même comme du code.\nCe talk présentera comment **standardiser la str
+ ucture\, les commandes et les bonnes pratiques** d’un projet Data ou ML 
+ (ou tout autre!) grâce à **Projen** et **Just**\, afin de :\n\n* simplif
+ ier l’onboarding\n* améliorer la cohérence des projets\n* faciliter la
+  collaboration et l’industrialisation\n\n***\n\n## 🤝 Et aussi…\n\n*
+  Une **présentation rapide** des communautés **Bordeaux ApérOps**\, **D
+ ata for Good Bordeaux** et de leur mission\n* Un **apéro networking** pou
+ r échanger\, rencontrer et connecter les acteurs de la data bordelaise 
+ 🍷\n\n***\n\n## 📅 Infos pratiques\n\n📆 **Date** : Mercredi 11 fév
+ rier\n🕡 **Heure** : 18h45\n📍 **Lieu** : SFEIR Bordeaux\, 5 rue de Co
+ ndé\, 33000 Bordeaux\n\nCommunauté: bordeaux-aperops
+LOCATION:SFEIR\, 5\, rue de Condé\, 33000 Bordeaux\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/312975150
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IA & développement : apprendre à collaborer avec l’intelligenc
  e artificielle
 DTSTART;TZID=Europe/Paris:20251211T183000
