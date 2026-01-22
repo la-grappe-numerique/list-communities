@@ -20,5 +20,6 @@ Nous organisons des soirées autour de présentations techniques pour discuter d
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 11 septembre 2025 à 19:00 | Caupain : comment vous aussi, vous pouvez créer un outil open source | Deezer, 20 Rue Saint-François, 33000 Bordeaux | https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-pouvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator |
+| Lundi 27 janvier 2025 à 18:00 | Pub Quiz #2 | Le Connemara, 18 Cours d'Albret, 33000 Bordeaux | https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-quiz-mobile-pub-quiz-get-together-2/ |
 </details>
 <!-- EVENTS:END -->

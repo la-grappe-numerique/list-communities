@@ -1550,6 +1550,17 @@
     ]
   },
   {
+    "title": "Pub Quiz #2",
+    "date": "2025-01-27T18:00:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-quiz-mobile-pub-quiz-get-together-2/",
+    "description": "BordeauxKt, le GDG Bordeaux et Cocoahead Bordeaux s'allient à nouveau pour vous proposer un nouveau quiz sur le développement mobile ! Quelques lots seront à gagner ! 👀\n\nPas d'inquiétude si vous ne connaissez pas le développement mobile, c'est aussi l'occasion de nous retrouver et de profiter d'un moment tous ensemble. 🍻",
+    "location": "Le Connemara, 18 Cours d'Albret, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeauxkt"
+    ]
+  },
+  {
     "title": "#56: Session lightning talks",
     "date": "2025-01-22T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/304967965/",

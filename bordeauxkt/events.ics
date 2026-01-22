@@ -34,4 +34,23 @@ TZID:Europe/Paris
 URL:https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-po
  uvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pub Quiz #2
+DTSTART;TZID=Europe/Paris:20250127T180000
+DTEND;TZID=Europe/Paris:20250127T200000
+UID:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
+ quiz-mobile-pub-quiz-get-together-2/@community-events
+DESCRIPTION:🔗 https://gdg.community.dev/events/details/google-gdg-borde
+ aux-presents-quiz-mobile-pub-quiz-get-together-2/\n📍 Le Connemara\, 18 
+ Cours d'Albret\, 33000 Bordeaux\n\nBordeauxKt\, le GDG Bordeaux et Cocoahe
+ ad Bordeaux s'allient à nouveau pour vous proposer un nouveau quiz sur le
+  développement mobile ! Quelques lots seront à gagner ! 👀\n\nPas d'in
+ quiétude si vous ne connaissez pas le développement mobile\, c'est aussi
+  l'occasion de nous retrouver et de profiter d'un moment tous ensemble. 
+ 🍻\n\nCommunauté: bordeauxkt
+LOCATION:Le Connemara\, 18 Cours d'Albret\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
+ quiz-mobile-pub-quiz-get-together-2/
+END:VEVENT
 END:VCALENDAR
