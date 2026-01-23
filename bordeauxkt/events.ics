@@ -36,8 +36,8 @@ URL:https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-po
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pub Quiz #2
-DTSTART;TZID=Europe/Paris:20250127T180000
-DTEND;TZID=Europe/Paris:20250127T200000
+DTSTART;TZID=Europe/Paris:20260127T180000
+DTEND;TZID=Europe/Paris:20260127T200000
 UID:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
  quiz-mobile-pub-quiz-get-together-2/@community-events
 DESCRIPTION:🔗 https://gdg.community.dev/events/details/google-gdg-borde
