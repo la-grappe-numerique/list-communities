@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/digitalnights/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 03 février 2026 à 19:00 | Afterwork #22 | Le Rohan, 1 Place Pey Berland (1er étage) | https://www.eventbrite.fr/e/billets-afterwork-networking-numerique-dn22-1981243737352 |
+
 ## 📆 Past Events
 
 <details>
