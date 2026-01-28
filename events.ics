@@ -19263,52 +19263,79 @@ TZID:Europe/Paris
 URL:https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Meetup AWS re:Invent re:Cap 2025
+DTSTART;TZID=Europe/Paris:20260204T183000
+DTEND;TZID=Europe/Paris:20260204T203000
+UID:https://www.meetup.com/bordeaux-amazon-web-services/events/313077203/@
+ community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
+ s/313077203/\n📍 Beltic\, Betclic Group 117 Quai de Bacalan Bordeaux\, N
+ ouvelle-Aquitaine 33300\, Bordeaux\, fr\n\n**🚀 AWS User Group Bordeaux 
+ – re:Cap re:Invent 2025 🚀**\n\nHello tout le monde ! 👋\n\nOn déma
+ rre l’année comme il se doit avec un **meetup spécial re:Cap AWS re:In
+ vent** ! 🔥\n\n🗓 **Quand ?** Mardi **4 février** à partir de **18h3
+ 0**\n📍 **Où ?** **Betclic**\, 117 Quai de Bacalan\, 33300 Bordeaux\n\n
+ 📋 **Au programme**\nEnviron **2 heures de re:Cap** pour revenir sur une
+  **sélection des annonces (et pré-annonces)** faites lors de l’**AWS r
+ e:Invent 2025** : nouveautés\, tendances et services à ne pas rater.\n\n
+ AWS re:Invent\, la conférence annuelle d’AWS à Las Vegas\, reste **LE 
+ rendez-vous incontournable du cloud**\, où sont dévoilées les innovatio
+ ns qui façonneront les mois à venir. Que vous soyez dev\, ops\, architec
+ te ou simplement curieux\, ce meetup est fait pour vous ☁️\n\n🍕 **U
+ n grand merci à Betclic** pour l’accueil !\n⚠️ **Places limitées**
+  : pensez à vous inscrire rapidement.\n\nAu plaisir de vous retrouver nom
+ breux !\n**L’équipe AWS User Group Bordeaux** 💙\n\nCommunauté: aws-
+ bordeaux
+LOCATION:Beltic\, Betclic Group 117 Quai de Bacalan Bordeaux\, Nouvelle-Aq
+ uitaine 33300\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-amazon-web-services/events/313077203/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AWS GameDay Francophone 2025 - Going serverless
 DTSTART;TZID=Europe/Paris:20251009T180000
 DTEND;TZID=Europe/Paris:20251009T200000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/311306392/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
- s/311306392/\n📍 Epitech Bordeaux\, 16 Rue Théodore Blanc\, 33520 Bruge
- s\n\n🌍 Une soirée\, 10 pays\, 18 villes\, une seule communauté !\n\nP
- our la toute première fois\, les user groups AWS francophones d’Afrique
-  et d’Europe s’unissent pour organiser un GameDay international et sim
- ultané. Que vous soyez à Grenoble\, Dakar\, Casablanca\, Genève\, Abidj
- an\, Lyon ou ailleurs… vous participerez au même challenge\, au même m
- oment\, dans 17 lieux différents\, tous reliés par une seule mission : s
- ’amuser\, apprendre et relever un défi AWS ensemble.\nRetrouvez la list
- e complête des lieux sur notre site : [awscommunityfrancophone](https://w
- ww.awscommunityfrancophone.com/)\n\n🦄 Qu’est-ce qu’un GameDay AWS ?
- \nUn AWS GameDay est un événement d’apprentissage ludique qui met les 
- participants au défi d’utiliser les solutions AWS pour résoudre des pr
- oblèmes techniques réels en équipe. Contrairement aux ateliers traditio
- nnels\, les GameDays sont ouverts et non prescriptifs\, offrant aux partic
- ipants la liberté d’explorer et de penser en dehors des sentiers battus
- .\n\n📌 Le thème : Going Serverless!\nL’événement s’adresse à to
- ute personne ayant une connaissance générale d’AWS – pas besoin d’
- être expert !\nEmbarquez vos amis ou collègues - vous pouvez former une 
- équipe avec eux\, de 3 à 4 joueurs.\nAvez-vous déjà une équipe ? 👉
-  Inscription de votre équipe par ici : https://forms.fillout.com/t/voD9uk
- 6auZus\nPas d’équipe ? 👉 Pas de problème\, on vous en trouvera une.
-  Mais indiquez le nous : https://forms.fillout.com/t/voD9uk6auZus\n\n🏆 
- Prix pour les 3 premières équipes :\n\n1er : 4 licences VizCon\, 4 hoodi
- es\, 4 sacs à dos et 4 codes de crédits AWS de 50€\n2ème : 2 hoodies\
- , 2 sacs à dos et 4 codes de crédits AWS de 50€\n3ème : 4 codes de cr
- édits AWS de 50€\n🔧 Infos pratiques\n\nÉquipes : 3 à 4 joueurs –
-  venez avec votre équipe ou nous en formerons une sur place.\nMatériel :
-  votre fidèle ordinateur portable – une connexion internet sera fournie
- .\nRestauration : collations\, boissons et repas léger disponibles tout a
- u long de la soirée.\nCompte AWS : fourni sur place\, aucun compte person
- nel requis.\nDurée du jeu : environ 2h15 de compétition entre les équip
- es locales et internationales.\n🕒 Agenda\n18h00 – 18h30 : Arrivée & 
- connexion à la plateforme\n18h30 – 18h45 : Introduction au GameDay\n18h
- 45 – 20h30 : Déroulement du jeu (snacks & boissons à volonté)\n21h00 
- : Cérémonie de clôture - Des prix seront remis aux meilleures équipes 
- 🎁\n\n🤝 Rejoignez la communauté\, on vous attend sur [le Slack des u
- tilisateurs AWS francophones](https://sebs.to/frmeetup) pour échanger ava
- nt et après l’événement !\nAu plaisir de vous y voir nombreux !\n\nCo
- mmunauté: aws-bordeaux
-LOCATION:Epitech Bordeaux\, 16 Rue Théodore Blanc\, 33520 Bruges
+ s/311306392/\n\n🌍 Une soirée\, 10 pays\, 18 villes\, une seule communa
+ uté !\n\nPour la toute première fois\, les user groups AWS francophones 
+ d’Afrique et d’Europe s’unissent pour organiser un GameDay internati
+ onal et simultané. Que vous soyez à Grenoble\, Dakar\, Casablanca\, Gen
+ ève\, Abidjan\, Lyon ou ailleurs… vous participerez au même challenge\
+ , au même moment\, dans 17 lieux différents\, tous reliés par une seule
+  mission : s’amuser\, apprendre et relever un défi AWS ensemble.\nRetro
+ uvez la liste complête des lieux sur notre site : [awscommunityfrancophon
+ e](https://www.awscommunityfrancophone.com/)\n\n🦄 Qu’est-ce qu’un G
+ ameDay AWS ?\nUn AWS GameDay est un événement d’apprentissage ludique 
+ qui met les participants au défi d’utiliser les solutions AWS pour rés
+ oudre des problèmes techniques réels en équipe. Contrairement aux ateli
+ ers traditionnels\, les GameDays sont ouverts et non prescriptifs\, offran
+ t aux participants la liberté d’explorer et de penser en dehors des sen
+ tiers battus.\n\n📌 Le thème : Going Serverless!\nL’événement s’a
+ dresse à toute personne ayant une connaissance générale d’AWS – pas
+  besoin d’être expert !\nEmbarquez vos amis ou collègues - vous pouvez
+  former une équipe avec eux\, de 3 à 4 joueurs.\nAvez-vous déjà une é
+ quipe ? 👉 Inscription de votre équipe par ici : https://forms.fillout.
+ com/t/voD9uk6auZus\nPas d’équipe ? 👉 Pas de problème\, on vous en t
+ rouvera une. Mais indiquez le nous : https://forms.fillout.com/t/voD9uk6au
+ Zus\n\n🏆 Prix pour les 3 premières équipes :\n\n1er : 4 licences VizC
+ on\, 4 hoodies\, 4 sacs à dos et 4 codes de crédits AWS de 50€\n2ème 
+ : 2 hoodies\, 2 sacs à dos et 4 codes de crédits AWS de 50€\n3ème : 4
+  codes de crédits AWS de 50€\n🔧 Infos pratiques\n\nÉquipes : 3 à 4
+  joueurs – venez avec votre équipe ou nous en formerons une sur place.\
+ nMatériel : votre fidèle ordinateur portable – une connexion internet 
+ sera fournie.\nRestauration : collations\, boissons et repas léger dispon
+ ibles tout au long de la soirée.\nCompte AWS : fourni sur place\, aucun c
+ ompte personnel requis.\nDurée du jeu : environ 2h15 de compétition entr
+ e les équipes locales et internationales.\n🕒 Agenda\n18h00 – 18h30 :
+  Arrivée & connexion à la plateforme\n18h30 – 18h45 : Introduction au 
+ GameDay\n18h45 – 20h30 : Déroulement du jeu (snacks & boissons à volon
+ té)\n21h00 : Cérémonie de clôture - Des prix seront remis aux meilleur
+ es équipes 🎁\n\n🤝 Rejoignez la communauté\, on vous attend sur [le
+  Slack des utilisateurs AWS francophones](https://sebs.to/frmeetup) pour 
+ échanger avant et après l’événement !\nAu plaisir de vous y voir nom
+ breux !\n\nCommunauté: aws-bordeaux
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/311306392/
 END:VEVENT
@@ -19319,31 +19346,30 @@ DTEND;TZID=Europe/Paris:20250915T203000
 UID:https://www.meetup.com/bordeaux-amazon-web-services/events/310813673/@
  community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
- s/310813673/\n📍 Daveo Bordeaux\, 23 Parv. des Chartrons\, 33000 Bordeau
- x\n\nHello tout le monde ! 👋\n\nC'est la rentrée ! 🎒\nNous sommes r
- avis de relancer les meetups AWS User Group Bordeaux avec une soirée exce
- ptionnelle dédiée à l'IA générative et au développement !\n\nPour ce
- tte reprise\, nous avons la chance d'accueillir directement des experts d'
- AWS qui viendront partager leur connaissances ! 🚀\n🗓️ Quand ? Lund
- i 15 septembre\, à partir de 18h30\n📍 Où ? Daveo (23 Parv. des Chartr
- ons\, 33000 Bordeaux)\n\n📋 Au programme : Une soirée passionnante avec
-  des talks inspirants pour bien démarrer cette nouvelle saison !\n\n🎯 
- L'Avenir des Développeurs à l'Ère de l'IA Générative\npar Sebastien S
- tormacq\, Principal Developer Advocate AWS\n\nL'IA générative va-t-elle 
- remplacer les développeurs ? Spoiler : non ! Découvrez comment l'IA red
- éfinit notre métier et devient un collaborateur plutôt qu'un concurrent
- . Entre analogies\, humour et vérités sobres\, explorons ensemble l'arch
- étype émergent du développeur moderne.\n\n🎲 Créer un maître du jeu
-  (de rôle) multi-agents avec Strands\npar Olivier Leplus\, AWS\n\nPlongez
-  dans l'univers des jeux de rôle sur table et découvrez comment construi
- re un assistant MJ multi-agents avec Strands. Une démonstration fascinant
- e alliant créativité\, improvisation et technologie pour révolutionner 
- l'expérience du jeu de rôle !\n\nMerci à Daveo qui nous accueille !\n\n
- ⚠️ Attention : places limitées ! Inscrivez-vous dès maintenant pour 
- ne pas manquer cette soirée de rentrée unique entre IA\, développement 
- et créativité.\n\nAu plaisir de vous retrouver nombreux pour cette repri
- se !\n\nL'équipe AWS User Group Bordeaux\n\nCommunauté: aws-bordeaux
-LOCATION:Daveo Bordeaux\, 23 Parv. des Chartrons\, 33000 Bordeaux
+ s/310813673/\n\nHello tout le monde ! 👋\n\nC'est la rentrée ! 🎒\nNo
+ us sommes ravis de relancer les meetups AWS User Group Bordeaux avec une s
+ oirée exceptionnelle dédiée à l'IA générative et au développement !
+ \n\nPour cette reprise\, nous avons la chance d'accueillir directement des
+  experts d'AWS qui viendront partager leur connaissances ! 🚀\n🗓️ Q
+ uand ? Lundi 15 septembre\, à partir de 18h30\n📍 Où ? Daveo (23 Parv.
+  des Chartrons\, 33000 Bordeaux)\n\n📋 Au programme : Une soirée passio
+ nnante avec des talks inspirants pour bien démarrer cette nouvelle saison
+  !\n\n🎯 L'Avenir des Développeurs à l'Ère de l'IA Générative\npar 
+ Sebastien Stormacq\, Principal Developer Advocate AWS\n\nL'IA générative
+  va-t-elle remplacer les développeurs ? Spoiler : non ! Découvrez commen
+ t l'IA redéfinit notre métier et devient un collaborateur plutôt qu'un 
+ concurrent. Entre analogies\, humour et vérités sobres\, explorons ensem
+ ble l'archétype émergent du développeur moderne.\n\n🎲 Créer un maî
+ tre du jeu (de rôle) multi-agents avec Strands\npar Olivier Leplus\, AWS\
+ n\nPlongez dans l'univers des jeux de rôle sur table et découvrez commen
+ t construire un assistant MJ multi-agents avec Strands. Une démonstration
+  fascinante alliant créativité\, improvisation et technologie pour révo
+ lutionner l'expérience du jeu de rôle !\n\nMerci à Daveo qui nous accue
+ ille !\n\n⚠️ Attention : places limitées ! Inscrivez-vous dès mainte
+ nant pour ne pas manquer cette soirée de rentrée unique entre IA\, déve
+ loppement et créativité.\n\nAu plaisir de vous retrouver nombreux pour c
+ ette reprise !\n\nL'équipe AWS User Group Bordeaux\n\nCommunauté: aws-bo
+ rdeaux
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/310813673/
 END:VEVENT
@@ -19368,7 +19394,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  c** qui nous accueille !**⚠️ Attention : places limitées !** Inscrive
  z-vous dès maintenant pour ne pas manquer cet événement.\nAu plaisir de
   vous retrouver nombreux !**L'équipe AWS User Group Bordeaux**\n\nCommuna
- uté: aws-bordeaux\n👥 10 participant(s)\nLimité à 80 places
+ uté: aws-bordeaux
 LOCATION:Beltic\, Betclic Group 117 Quai de Bacalan Bordeaux\, Nouvelle-Aq
  uitaine 33300\, Bordeaux\, France
 TZID:Europe/Paris
@@ -19436,8 +19462,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  frir un moment convivial avec de quoi grignoter et se restaurer en fin de 
  meetup !\n**⚠️ Nombre de places limité**\, pensez à vous inscrire d
  ès maintenant !\nAu plaisir de vous retrouver nombreux !\n**L’équipe A
- WS User Group Bordeaux**\n\nCommunauté: aws-bordeaux\n👥 45 participant
- (s)\nLimité à 80 places
+ WS User Group Bordeaux**\n\nCommunauté: aws-bordeaux
 LOCATION:Beltic\, Betclic Group 117 Quai de Bacalan Bordeaux\, Nouvelle-Aq
  uitaine 33300\, Bordeaux\, France
 TZID:Europe/Paris
@@ -19459,8 +19484,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
   des services Serverless tels que AWS Lambda et Amazon DynamoDB\, des prat
  iques de développement et d'exploitation parsemées d'IoT. »\n**Interven
  ants**\n🎙 Vincenzo Scalzi - Gekko / Accenture🎙 Samuel Renassia - Gek
- ko / Accenture\n🍕🍺\n\nCommunauté: aws-bordeaux\n👥 37 participant
- (s)
+ ko / Accenture\n🍕🍺\n\nCommunauté: aws-bordeaux
 LOCATION:Halle Héméra\, 132 Rue Fondaudège\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/285568376/
@@ -19502,7 +19526,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ojets d'optimisation menés chez Teads sur différents périmètres (compu
  te\, storage\, network) et ouverture sur le challenge de la mesure d'impac
  t environnemental du cloud.\n\nCommunauté: aws-bordeaux\n💻 Événement
-  en ligne\n👥 10 participant(s)
+  en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/282446411/
 END:VEVENT
@@ -19537,8 +19561,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ustriel (IIoT)\, découvrez comment combiner ces données afin d'améliore
  r de manière proactive les performances des machines au sein par exemple 
  d'usines de fabrication\, d'installations d'assemblage ou encore de raffin
- eries.\n\nCommunauté: aws-bordeaux\n💻 Événement en ligne\n👥 3 par
- ticipant(s)
+ eries.\n\nCommunauté: aws-bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/
 END:VEVENT
@@ -19570,7 +19593,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ume Dupont Data Fullstack chez Neoxia\nComment utiliser AWS Forecast et pr
  ésentation d'un usecase sur la prédiction des ventes de Walmart à l'éc
  helle des Etats-Unis.\n\nCommunauté: aws-bordeaux\n💻 Événement en li
- gne\n👥 5 participant(s)
+ gne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/280378703/
 END:VEVENT
@@ -19615,7 +19638,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  e vous propose de découvrir comment je réduis les coûts des mes instanc
  es EC2\, ASG\, RDS\, de mes environnements hors production\, multicompte e
  t tout cela de façon automatisée.\n\nCommunauté: aws-bordeaux\n💻 Év
- énement en ligne\n👥 7 participant(s)
+ énement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/278427584/
 END:VEVENT
@@ -19651,8 +19674,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  netes\, cela entraine des variations de plusieurs centaines\, voire millie
  rs\, de pods en fonction des journées. Cela vient avec des contraintes op
  érationnelles fortement simplifiées grâces à EKS et son écosystème.\
- n\nCommunauté: aws-bordeaux\n💻 Événement en ligne\n👥 8 participan
- t(s)
+ n\nCommunauté: aws-bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/278017587/
 END:VEVENT
@@ -19679,7 +19701,6 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  lien ci-dessus depuis le navigateur Chrome ou Firefox à jour)\nCette sess
  ion est co-organisée avec WAP - We Are Peers\, spécialiste de l'apprenti
  ssage entre pairs.\n\nCommunauté: aws-bordeaux\n💻 Événement en ligne
- \n👥 2 participant(s)
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/277242569/
 END:VEVENT
@@ -19712,7 +19733,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  🌊 16h30 à 17h00 : Talk 8 : Le drift d'infrastructure: t'empêche tout 
  le monde de dormir - Level 200 (Intermédiaire)\n🌙 17h00 à 17h30 : Tal
  k 9 : Les coûts de la gratuité - Level 100 (débutant)\n\nCommunauté: a
- ws-bordeaux\n💻 Événement en ligne\n👥 7 participant(s)
+ ws-bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/277030683/
 END:VEVENT
@@ -19735,7 +19756,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  s donnerons les clés pour comprendre et utiliser le cloud en 2021. Cette 
  session est interactive\, avec au minimum 15 minutes après la session pou
  r répondre à vos questions.\nPublic cible\, les IT Managers / CIOs\n\nCo
- mmunauté: aws-bordeaux\n💻 Événement en ligne\n👥 13 participant(s)
+ mmunauté: aws-bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581480/
 END:VEVENT
@@ -19768,7 +19789,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  te\, etc.)\, et qui est intéressé par la construction et le test de nouv
  elles implémentations\, services et les cas d'utilisation\, tout en élar
  gissant leurs connaissances et leurs domaines de couverture.\n\nCommunaut
- é: aws-bordeaux\n💻 Événement en ligne\n👥 10 participant(s)
+ é: aws-bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581471/
 END:VEVENT
@@ -19802,7 +19823,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  but de ce groupe est de maintenir une barre de sécurité informatique él
  evée et de gérer les risques associés aux logiciels et aux systèmes qu
  'une organisation exécute.\n\nCommunauté: aws-bordeaux\n💻 Événement
-  en ligne\n👥 10 participant(s)
+  en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581452/
 END:VEVENT
@@ -19840,7 +19861,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  lques domaines de configuration\, de surveillance et de mise en réseau. P
  ar conséquent\, ils fonctionnent en tant qu'ingénieurs DevOps pour garan
  tir que les systèmes sont testés et déployés de manière fiable.\n\nCo
- mmunauté: aws-bordeaux\n💻 Événement en ligne\n👥 7 participant(s)
+ mmunauté: aws-bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581450/
 END:VEVENT
@@ -19874,7 +19895,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  raditionnels ou des développeurs natifs dans le cloud. Ils peuvent égale
  ment participer à l'automatisation et à l'accélération du cycle de pub
  lication des logiciels (DevOps).\n\nCommunauté: aws-bordeaux\n💻 Évén
- ement en ligne\n👥 19 participant(s)
+ ement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581443/
 END:VEVENT
@@ -19908,7 +19929,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  connaissances de l'industrie et du domaine pour interpréter les résultat
  s\, aidant les entreprises à prendre des décisions basées sur les donn
  ées pour stimuler la stratégie d'entreprise.\n\nCommunauté: aws-bordeau
- x\n💻 Événement en ligne\n👥 8 participant(s)
+ x\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581433/
 END:VEVENT
@@ -19946,7 +19967,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ipelines de données évolutifs et robustes à intégrer à des bases de d
  onnées\, des entrepôts de données ou des lacs de données\, transforman
  t les données en informations.\n\nCommunauté: aws-bordeaux\n💻 Événe
- ment en ligne\n👥 9 participant(s)
+ ment en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581425/
 END:VEVENT
@@ -19980,7 +20001,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
   définissent les spécifications\, la feuille de route de mise en œuvre 
  et d'autres lignes directrices à transmettre aux équipes opérationnelle
  s pour la mise en œuvre.\n\nCommunauté: aws-bordeaux\n💻 Événement e
- n ligne\n👥 17 participant(s)
+ n ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/275581417/
 END:VEVENT
@@ -20032,7 +20053,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  WS en utilisant à la fois des outils AWS et internes. Nous parlerons du d
  éploiement à l'échelle des ressources\, de notre account factory et de 
  notre API interne pour gérer les affectations aux applications.\n\nCommun
- auté: aws-bordeaux\n💻 Événement en ligne\n👥 12 participant(s)
+ auté: aws-bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/274511001/
 END:VEVENT
@@ -20068,7 +20089,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  (Level 200 - 300) : Sébastien Crème - CoFounder et CTO - NomalabGoing El
  astic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEff
  ectively use of Messaging / Spot instances and lambda\n\nCommunauté: aws-
- bordeaux\n💻 Événement en ligne\n👥 5 participant(s)
+ bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/
 END:VEVENT
@@ -20086,7 +20107,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 5 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  nc/
@@ -20105,7 +20126,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 6 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  fc/
@@ -20124,7 +20145,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 6 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  vb/
@@ -20143,7 +20164,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 7 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  mb/
@@ -20162,7 +20183,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 5 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybckb
  db/
@@ -20208,8 +20229,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
   roles.\n🎙 Talk 4: Continuous Resilience - Adrian Cockcroft - Level 200
  \nHow can we set everything so that we can be sure that the resilience we 
  want is continuously available\, and our backup plans will work when we ne
- ed them.\n\nCommunauté: aws-bordeaux\n💻 Événement en ligne\n👥 10 
- participant(s)
+ ed them.\n\nCommunauté: aws-bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/271494821/
 END:VEVENT
@@ -20227,7 +20247,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 7 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  hc/
@@ -20246,7 +20266,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 4 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  xb/
@@ -20265,7 +20285,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 7 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  pb/
@@ -20284,7 +20304,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 7 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybcjb
  gb/
@@ -20303,7 +20323,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 9 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  lc/
@@ -20322,7 +20342,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 13 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  cc/
@@ -20341,7 +20361,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 11 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  sb/
@@ -20360,7 +20380,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  et porte sur la migration (et ses péripéties) d'une application dans le 
  cloud. Ca sera un rendez-vous recurrent en plusieurs episodes.\nA noter\, 
  la séance est donnée en Français.\n\nCommunauté: aws-bordeaux\n💻 É
- vénement en ligne\n👥 27 participant(s)
+ vénement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/wkzvrrybchb
  kb/
@@ -20403,7 +20423,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  a façon dont ils peuvent être sécurisés. Quelles sont les options de s
  écurité open source disponibles aujourd'hui ? Quel est l'avenir de la s
  écurité des conteneurs ? Qu'adviendra-t-il des conteneurs ?\n\nCommunaut
- é: aws-bordeaux\n💻 Événement en ligne\n👥 43 participant(s)
+ é: aws-bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/270058143/
 END:VEVENT
@@ -20432,7 +20452,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  rvy - VP emerging technology - Gameloft - Level 200 - IntermediateDécouvr
  ez la stratégie de migration cloud de Gameloft et posez toutes vos questi
  ons à Gilles Chervy.\n\nCommunauté: aws-bordeaux\n💻 Événement en li
- gne\n👥 11 participant(s)
+ gne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/269643080/
 END:VEVENT
@@ -20454,7 +20474,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  é\, de l’EC2\, du RDS\, de l’ALB et de l’auto scaling. »\nInterven
  ant : Guillaume Lannebere (https://www.linkedin.com/in/guillaume-lannebere
  -51a17183/)\nN'hésitez pas à en parler autour de vous \;)\n🍕🍺\n\nC
- ommunauté: aws-bordeaux\n👥 93 participant(s)
+ ommunauté: aws-bordeaux
 LOCATION:Whoorks Bordeaux Bacalan\, 117 Quai de Bacalan\, Bordeaux\, Franc
  e
 TZID:Europe/Paris
@@ -20474,8 +20494,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  rs AWS de part le monde.Rejoignez-nous à Bordeaux pour découvrir les pri
  ncipales annonces\, les nouveaux services\, des démos de certaines nouvea
  utés\, prendre le pouls de re:Invent 2019 et faire le plein d'inspiration
- s pour vos projets 2020.\n🍕🍺\n\nCommunauté: aws-bordeaux\n👥 25 p
- articipant(s)
+ s pour vos projets 2020.\n🍕🍺\n\nCommunauté: aws-bordeaux
 LOCATION:School Data Processing Bordeaux - Epitech\, 16 Rue Théodore Blan
  c\, Bruges\, France
 TZID:Europe/Paris
@@ -20497,7 +20516,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ccasion de les découvrir et poser toutes les questions que vous avez/aure
  z\; si vous les connaissez déjà\, une petite piqûre de rappel ne fait j
  amais de mal 😊\n🎙️Thibaut Charlier\, Cloud Evangelist @ Gekko\n
- 🍕🍺\n🙏Gekko\n\nCommunauté: aws-bordeaux\n👥 54 participant(s)
+ 🍕🍺\n🙏Gekko\n\nCommunauté: aws-bordeaux
 LOCATION:Halle Héméra\, 132 Rue Fondaudège\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/
@@ -20526,8 +20545,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  ion de ses utilisateurs est clé dans le succès d’un produit. Présenta
  tion de la stack analytics chez Betclic basée sur AWS et Snowflake.\nInte
  rvenants:Camille Reverdy - Mobile IT Manager @ Betclic\n––\nPlus d'inf
- ormations prochainement.\n🍕🍺\n\nCommunauté: aws-bordeaux\n👥 60 p
- articipant(s)
+ ormations prochainement.\n🍕🍺\n\nCommunauté: aws-bordeaux
 LOCATION:School Data Processing Bordeaux - Epitech\, 16 Rue Théodore Blan
  c\, Bruges\, France
 TZID:Europe/Paris
@@ -20563,7 +20581,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  z Ippon Technologies\, évangéliste Serverless et contributeur sur des pr
  ojets Open Source comme JHipster et daSWAG. Il est fier d’être un #Geek
  Enthusiast.\nPierre Baillet (@octplane) - DataDog\n\nCommunauté: aws-bord
- eaux\n👥 91 participant(s)
+ eaux
 LOCATION:Halle Héméra\, 132 Rue Fondaudège\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/260941625/
@@ -20589,7 +20607,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
   et quels sont les SDKs disponibles pour vous simplifier cette intégratio
  n. Compute\, persistence\, logging\, stockage tout y passera !!!\nMerci le
   Wagon Bordeaux pour l'accueil !! https://www.lewagon.com/fr/bordeaux\n\nC
- ommunauté: aws-bordeaux\n👥 29 participant(s)\nLimité à 50 places
+ ommunauté: aws-bordeaux
 LOCATION:Le Wagon Bordeaux\, 1 107 Cours Balguerie Stuttenberg\, Bordeaux\
  , France
 TZID:Europe/Paris
@@ -20611,8 +20629,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-amazon-web-services/event
  n2) Julien Simon (AWS) fera une introduction sur les architectures Serverl
  ess et présentera plusieurs outils Open Source permettant de simplifier l
  e développement avec AWS Lambda.\nA bientôt et n'hésitez pas à inviter
-  vos collègues et amis :)\n\nCommunauté: aws-bordeaux\n👥 34 participa
- nt(s)
+  vos collègues et amis :)\n\nCommunauté: aws-bordeaux
 LOCATION:AT Internet\, 85 Avenue John Fitzgerald Kennedy\, Merignac\, Fran
  ce
 TZID:Europe/Paris

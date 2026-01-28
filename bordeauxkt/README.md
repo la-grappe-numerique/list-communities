@@ -12,13 +12,15 @@ Nous organisons des soirées autour de présentations techniques pour discuter d
 | Réseaux            | [LinkedIn](https://www.linkedin.com/company/bordeauxkt/) • [YouTube](https://www.youtube.com/@BordeauxKt) |
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mardi 27 janvier 2026 à 18:00 | Pub Quiz #2 | Le Connemara, 18 Cours d'Albret, 33000 Bordeaux | https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-quiz-mobile-pub-quiz-get-together-2/ |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>
