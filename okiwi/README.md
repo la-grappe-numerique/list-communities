@@ -15,7 +15,7 @@ L'association est notamment reconnue pour l'organisation :
 | 👥 Meetup                      | https://www.meetup.com/fr-FR/software-craftsmanship-bdx/ |
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](/okiwi/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events

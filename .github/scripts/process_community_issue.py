@@ -104,7 +104,7 @@ def generate_readme(data: Dict) -> str:
 
     # Add iCal info
     readme += (f"Le calendrier des évènements est disponible au format iCal.\n"
-              f"Voici son URL : [https://www.lagrappenumerique.fr/{data['community_name']}/events.ics](./events.ics ':ignore')\n\n")
+              f"Voici son URL : [https://www.lagrappenumerique.fr/{data['community_name']}/events.ics](/{data['community_name']}/events.ics ':ignore')\n\n")
 
     # Add events placeholder
     readme += "<!-- EVENTS:START -->\n<!-- EVENTS:END -->\n"

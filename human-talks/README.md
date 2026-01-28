@@ -14,7 +14,7 @@ Le contenu s’adressent aux professionnels de l’industrie Tech désireux de d
 🚀 Linkedin : https://www.linkedin.com/company/human-talks-bordeaux/
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/human-talks/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/human-talks/events.ics](/human-talks/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📆 Past Events

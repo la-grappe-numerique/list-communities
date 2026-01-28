@@ -14,7 +14,7 @@ A chaque évènement un bar bordelais différent !
 
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](/apero-web/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
