@@ -14,13 +14,15 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](./events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mercredi 28 janvier 2026 à 18:30 | Angular v21: Le framework se met à jour ! | Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France | https://luma.com/8ioijhjc |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>

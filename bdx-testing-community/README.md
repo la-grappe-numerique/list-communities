@@ -27,13 +27,15 @@ Les échanges peuvent se poursuivre en ligne via nos canaux de communication (gr
 - **📧 Contact** : a.fontaine@lectra.com, jul.leonard@gmail.com, yann.srt@gmail.com
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mercredi 28 janvier 2026 à 18:30 | APERO #4 - BDX TESTING | 45 cours D'Alsace-Et-Lorraine ,, Bordeaux | https://www.meetup.com/bdx-testing-community/events/312885328/ |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>

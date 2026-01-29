@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 28 janvier 2026 à 18:30 | [bordeaux-xr](bordeaux-xr/) | [Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26](https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708) | Le Node, 12 Rue des Faussets, 33000 Bordeaux |
-| Mercredi 28 janvier 2026 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [Bière Agile de Bordeaux - Bonne année!](https://www.linkedin.com/events/7416947844756127744/) | Le Castan, 2 Quai de la Douane, Bordeaux |
-| Mercredi 28 janvier 2026 à 18:30 | [bdx-testing-community](bdx-testing-community/) | [APERO #4 - BDX TESTING](https://www.meetup.com/bdx-testing-community/events/312885328/) | 45 cours D'Alsace-Et-Lorraine ,, Bordeaux |
+| Jeudi 29 janvier 2026 à 18:30 | [data-for-good](data-for-good/) | [Lancement de la saison 14 Data For Good](https://www.eventbrite.fr/e/1977881303221) | Le Node, 12 Rue des Faussets  33000 Bordeaux |
+| Lundi 02 février 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 02 février 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/311567889/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
