@@ -12,7 +12,7 @@ Nos événements sont généralement hébergés par des entreprises bordelaises,
 | 🌍 Quelques archives des événements passés  | https://www.meetup.com/fr-FR/agile-bordeaux |
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](/agile-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events

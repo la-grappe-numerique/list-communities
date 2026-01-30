@@ -18,7 +18,7 @@ Les WIT sont avant tout là pour rassembler les femmes et leur donner plus de vi
 ---
 
 Le calendrier des évènements est disponible au format iCal.
-Voici son URL : [https://www.lagrappenumerique.fr/women-in-tech-bordeaux/events.ics](./events.ics ':ignore')
+Voici son URL : [https://www.lagrappenumerique.fr/women-in-tech-bordeaux/events.ics](/women-in-tech-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
 ## 📆 Past Events
