@@ -5,8 +5,22 @@
     "url": "https://event.afup.org/",
     "description": "**AFUP Day Bordeaux, nouvelle destination !**\nL’AFUP Bordeaux se réjouit d’accueillir la communauté du sud-ouest lors de cette **première édition** accuellie par le **Bordeaux Ynov Campus**?\n\nBénéficiez du **partage des connaissances** et de toute la convivialité de la communauté locale : l’AFUP Bordeaux se prépare à vous en mettre **plein la vue** et vous promet une première édition qui aura tout d’une grande.",
     "community": "afup-bordeaux",
-    "location": "Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat, France",
     "is_online": false
+  },
+  {
+    "title": "#64 : Mots de passe, SSO et Passkeys - l’authentification moderne en PHP",
+    "date": "2026-02-18T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/313037197/",
+    "description": "Après une petite pause pour les fêtes, c'est le moment de se retrouver en 2026 !\n\nCela sera l'occasion pour parler de l'[AFUP Day Bordeaux 2026](https://event.afup.org/afup-day-2026/afup-day-2026-bordeaux/) !\nOn pourra répondre à vos questions sur le programme qui a été divulgué en ce début d'année par exemple 🤓\nProfitez des places au tarif de croisière.\n\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿\n\nCet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\n\nLa parole au premier speaker de l'année qui **nous vient de Paris juste pour vous** ! 📣\n*D'ailleurs vous pourrez le retrouver à l'AFUP Day Paris avec un autre sujet 👀*\n\n**\\#\\#\\#\\# Mots de passe\\, SSO et Passkeys : l’authentification moderne en PHP**\nPar **Sylvain Combraque**, Architecte Go / ReactJS chez VINVIN CORP\n\n*Comment sécuriser correctement l’authentification dans nos applications en 2025 ? Nous ferons le point sur ce qu’il faut encore (et ne faut plus) faire avec les mots de passe, l’usage approprié de l’authentification déléguée (OAuth2 / OpenID Connect), puis nous regarderons comment WebAuthn et les Passkeys changent complètement le paradigme. Une conférence pragmatique, avec des recommandations, des architectures types et des exemples concrets dans l’écosystème PHP.*",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "62 : Écrire du code qui tient dans nos têtes",
@@ -14,7 +28,6 @@
     "url": "https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/311181173",
     "description": "L'[Agile Tour Bordeaux](https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/) est bientôt ! Pour l'occasion, nous accueillerons l'un des speakers de la conférence mais avec un autre sujet 😛\n\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\n\nLa parole aux speakeurs 📣\n\n#### Écrire du code qui tient dans nos têtes\nPar Julien Vitte, coach craft chez [Inside](https://insidegroup.fr/)\n\n_Nous savons tous que “le code propre” est important, mais dès qu’on essaie de le définir, les opinions peuvent s'accorder et diverger en même temps : lisible, maintenable, testé, robuste, flexible… autant de termes qui recouvrent des définitions très différentes selon les équipes et les contextes._\n\n_Dans le même temps, nous constatons souvent qu’au fil des itérations, le rythme de développement ralentit : estimer ou maintenir une bonne vélocité devient un effort constant, malgré des indicateurs de qualité soignés et l'utilisation de pratiques reconnues._\n\n_Et si une partie du problème ne venait pas d’un manque de compétences ou de connaissances techniques, mais d’une méconnaissance de nos propres limites cognitives ?_\n\n_Dans ce talk, nous explorerons comment les sciences cognitives éclairent la manière dont nous lisons, comprenons et transformons du code. Nous verrons comment ces connaissances permettent de dépasser le débats stériles entre “qualité” et \"over engineering\" pour identifier des critères factuels, poser des heuristiques simples et concevoir des habitudes de développement qui facilitent la compréhension collective sur le long terme, permettant d'écrire — et de faire évoluer — du code qui tient dans nos têtes._\n\n--------\n🎤 **Autres informations importantes : pour ceux qui ont commander des elephpants/t-shirts PHPStan, pour ceux qui ne sont pas venu les récupérer en septembre, venez les récupérer là!**",
     "community": "afup-bordeaux",
-    "location": "Le node, 12 Rue des Faussets, 33000 Bordeaux",
     "is_online": false
   },
   {
@@ -23,7 +36,6 @@
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/310668434/",
     "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\n\nPour l'occasion, nous aurons le plaisir d'accueillir 2 speakeurs qui nous présenterons en avant première avant le grand jour au [Forum PHP 2025](https://event.afup.org/forum-php-2025) leurs talks respectifs 🎉\n\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\n\nLa parole aux speakeurs 📣\n\n#### De la veille isolée aux squads collaboratives : Révolutionnez votre tech watch !\nPar **Julien Joye**, ingénieur PHP chez **ekino**\n\n_Vos ingénieurs ne trouvent pas le temps de faire de la veille de qualité ? Et si ce n'était plus un problème individuel ?_\n\n_Nous avons transformé ce défi récurrent en opportunité collective. Notre approche collaborative a changé la façon dont nos ingénieurs restent à la pointe de la technologie, tout en créant de la valeur pour l'ensemble de l'organisation._\n\n_Cette session vous apportera :_\n\n* _Une méthode éprouvée pour améliorer l'efficacité de votre veille tech_\n* _Les clés pour maintenir l'engagement et éviter l'essoufflement des équipes_\n* _Une solution pour transformer la veille en véritable levier d'innovation_\n* _Des stratégies concrètes pour créer des synergies entre vos différents pôles techniques_\n\n_Une session qui va changer votre regard sur la veille technologique et vous donner des outils à mettre en place dans votre entreprise !_\n\n#### Overcoming our Primitive Obsessions\n##### L'abus de type primitif est-il dangereux pour la santé ?\nPar **Benjamin Rambaud**, ingénieur/software crafter\n\n_Avez-vous déjà été frustré par la complexité inutile de votre code ? Vous n'êtes pas seul !_\n\n_L'un des facteurs qui complexifient notre code est l'utilisation excessive de types primitifs. Cette obsession est un problème courant en programmation : nous nous appuyons trop sur les types de données primitifs pour représenter des concepts complexes (exemple : l'utilisation d'un tableau pour les paramètres d'une méthode). Ceci peut rendre notre code difficile à comprendre et à maintenir. En explorant des alternatives nous pouvons améliorer la robustesse, la sécurité et la lisibilité de notre code._\n\n_Découvrons ensemble comment surmonter ces limitations et écrire un code plus propre et plus efficace !_\n\n--------\n\n**🎤 Autres informations importantes : pour ceux qui ont commander des elephpants/t-shirts PHPStan, nous les avons reçu et ça sera le moment de la distribution !**",
     "community": "afup-bordeaux",
-    "location": "Le Node - Aquinum, 12 Rue des Faussets, 33000 Bordeaux",
     "is_online": false
   },
   {
@@ -32,7 +44,6 @@
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/309263810/",
     "description": "Hello !\n\nAvant de parler de l'event, rappelez-vous que le meetup se termine ou commence par un **apéro collaboratif** 🍻🍿\n\n**Merci d'apporter de quoi manger et boire tous ensemble !**\n\nCet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\n\n---\n\nLe saviez-vous ? Il faut voter pour le bureau de l'antenne tous les ans ! Donc retrouvons-nous pour voter le bureau qui représentera Bordeaux l'année prochaine 🫣\n\nEt vous vous souvenez du Super Apéro 2024 ? On a beta tester un jeu avec Pitchart le \"The Refactoring Xplorer\", et si cette fois on y jouait avec sa version finale ?!\n\nBref, vous l'avez compris, cette événement pré-été est là pour surtout nous détendre, rigoler en coup et profiter d'une bonne compagnie (ou pas 😛)",
     "community": "afup-bordeaux",
-    "location": "Le Node - Aquinum, 12 Rue des Faussets, 33000 Bordeaux",
     "is_online": false
   },
   {
@@ -41,7 +52,6 @@
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/307068650/",
     "description": "Ce soir [Dotsafe](https://fr.linkedin.com/company/dotsafe) nous accompagne, avec des speakers et des locaux !\n\nJ'ai dis \"des\", oui oui ! Car ce soir, nous aurons 2 presentations au format court !\n\n---\n\nMerci à Dotsafe qui **sponso l'apéro/pizzas** de ce soir🍻🍿\nOn a tous hâte d'y être !\n\n---\n\nLa parole aux speakeurs 📣\n\n### Présentation de FrankenPHP, le serveur d'application PHP moderne\nDans cette présentation, nous verrons pour quelles raisons FrankenPHP a vu le jour, comment le mettre en place dans son projet via Docker et comment l'utiliser en mode Worker.\n\nQuelques points d'attention sur l'utilisation du mode worker seront également abordés.\nEnfin, des données comparatives seront présentées afin de montrer quel a été l'impact positif de sa mise en place sur un projet client.\nBy[ Vincent Touzet](https://fr.linkedin.com/in/vincent-touzet-2a166a106), _Dotsafe_\n\n### L'observabilité, surveiller et comprendre ses systèmes informatiques en temps réel\nDans cette présentation, nous expliquerons quels sont les 3 piliers de l'observabilité (Logs, Metrics and Traces) et pour quelles raisons on la met en place dans un projet.\n\nNous verrons également comment on fait de l'observabilité concrètement en évoquant notamment l'exemple de YouSign qui a été présenté lors du Forum PHP 2023.\nEnfin, nous parlerons de ce qui est fait, à l'heure actuelle chez Dotsafe, en termes d'observabilité.\nBy Ely Lebesson, _Dotsafe_",
     "community": "afup-bordeaux",
-    "location": "Dotsafe, 125 quai des Chartrons, 33000 Bordeaux",
     "is_online": false
   },
   {
@@ -57,8 +67,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "23 Rue Ausone, Bordeaux",
-    "rsvp_count": 11
+    "location": "23 Rue Ausone, Bordeaux"
   },
   {
     "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
@@ -73,8 +82,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "rsvp_count": 18
+    "location": "1 Cr Xavier Arnozan, Bordeaux"
   },
   {
     "title": "#56: Session lightning talks",
@@ -89,8 +97,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 13
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "#55: J'ai hacké puis contribué à Symfony",
@@ -105,8 +112,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 20
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "#54: L'OOP au coeur du templating Symfony - TwigComponent & LiveComponent",
@@ -121,8 +127,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 19
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
@@ -137,8 +142,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "1 cours Xavier Arnozan, , Bordeaux",
-    "rsvp_count": 25
+    "location": "1 cours Xavier Arnozan, , Bordeaux"
   },
   {
     "title": "Meetup PHP #52 : Index me baby! Une intro elastic; Parlons search engine",
@@ -153,8 +157,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 35
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP #51 : Symfony - Composant Scheduler + l'intérieur d'un Bundle",
@@ -169,8 +172,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 30
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP #50 : Redis, le couteau suisse du développeur",
@@ -185,8 +187,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 34
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Super-Apéro 2024",
@@ -201,8 +202,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "38 Rue Capdeville, Bordeaux",
-    "rsvp_count": 18
+    "location": "38 Rue Capdeville, Bordeaux"
   },
   {
     "title": "Meetup PHP #49 : PHP + ChatGPT: let's review a generative feature!",
@@ -217,8 +217,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 46
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP #48 : Xdebug, la lumière au bout du tunnel. Cette fois c'est la bonne",
@@ -233,8 +232,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 26
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP #47 : Mutation testing et Dette technique",
@@ -249,8 +247,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 31
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP #46 : Xdebug, la lumière au bout du tunnel.",
@@ -265,8 +262,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 28
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP #45 : La mutabilité m’a tué, l’immutabilité m’a sauvé",
@@ -281,8 +277,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 28
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP #44 : on parlera AI et Open Source",
@@ -297,8 +292,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "rsvp_count": 33
+    "location": "1 Cr Xavier Arnozan, Bordeaux"
   },
   {
     "title": "Meetup PHP #43: ManoMano nous accueille pour 2 talks",
@@ -313,8 +307,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "43 Rue d'Armagnac, Bordeaux",
-    "rsvp_count": 43
+    "location": "43 Rue d'Armagnac, Bordeaux"
   },
   {
     "title": "Meetup PHP #42 : Domaine Riche vs Domaine Anémique",
@@ -329,8 +322,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 18
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Super-Apéro 2023",
@@ -345,8 +337,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "23 Rue Ausone, Bordeaux",
-    "rsvp_count": 29
+    "location": "23 Rue Ausone, Bordeaux"
   },
   {
     "title": "Super-Apéro 2022",
@@ -361,8 +352,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "rsvp_count": 14
+    "location": "1 Cr Xavier Arnozan, Bordeaux"
   },
   {
     "title": "Meetup PHP #39 : Quoi de neuf dans Symfony 6.1 ?",
@@ -377,8 +367,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "171 Rue Lucien Faure, Bordeaux",
-    "rsvp_count": 44
+    "location": "171 Rue Lucien Faure, Bordeaux"
   },
   {
     "title": "Meetup PHP (online) #37 : Pipeline Pattern",
@@ -386,8 +375,7 @@
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/283045545/",
     "description": "Découvrons ensemble ce dont Jonathan Barbin (@_papajo_) nous parlera !\nOn va parler CI/CD …? Eh non, ce n’est pas le sujet de ce meetup :)\nLe pipeline pattern peut être assimilé à une chaîne de montage.Mais oui vous savez, c’est une méthode de travail qui a été mise en oeuvre par le fondateur d’une célèbre marque automobile. Figurez-vous qu’elle a permis entre autres d’améliorer la productivité.\nEt si on pouvez appliquer cette méthode dans nos développements ? Qu’est-ce que cela pourrait apporter à nos applications ?\nSi vous voulez le savoir, inscrivez-vous et venez découvrir ce patron de conception qui va révolutionner votre façon de développer :)\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :P",
     "community": "afup-bordeaux",
-    "is_online": true,
-    "rsvp_count": 47
+    "is_online": true
   },
   {
     "title": "Meetup PHP (online) #37 : PHP Static Code Analysis 101",
@@ -395,8 +383,7 @@
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/281446735/",
     "description": "Nous sommes de retour !\nVous êtes curieux de connaître les bases de l'analyse statique en PHP ?Ça tombe bien ! Benjamin Rambaud (@rambaud_b) vous en parlera lors de ce meetup !\nAujourd'hui, nous utilisons quasiment tous des outils pour analyser statiquement notre code. Ces outils sont puissants et nous permettent d'avoir un code davantage robuste par exemple.Avant de pouvoir comprendre comment ils fonctionnent, il faudra parcourir comment fonctionne PHP ! Que c'est excitant !\nÀ la fin de ce meetup, vous devriez être capable d'écrire vous même des outils basiques d'analyse statique :P(Mais si vous voulez approfondir pour créer des outils plus complexes (style phpstan, psalm etc..), stay tuned pour une partie 2)\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
     "community": "afup-bordeaux",
-    "is_online": true,
-    "rsvp_count": 46
+    "is_online": true
   },
   {
     "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
@@ -404,8 +391,7 @@
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
     "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
     "community": "afup-bordeaux",
-    "is_online": true,
-    "rsvp_count": 36
+    "is_online": true
   },
   {
     "title": "Meetup PHP (online) #35 : 1 Monolithe, N microservices",
@@ -413,8 +399,7 @@
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/270601172/",
     "description": "Pour ce premier meetup en ligne, Julien VITTE (@pitchart) présentera comment créer une architecture en micro services tout en développant un monolithe, en se basant sur le framework Symfony :---L’architecture microservice a pour but d’apporter une solution à un certain nombre de problématiques liées aux grosses applications : évolutivité, fiabilité, scalabilité …Mais après avoir passé la phase de hype, une certaine idée se dégage de la mise en place de cette architecture : partir de zéro est plus compliqué. Déterminer les limites et le découpage sans idée des directions d’évolutions des différents projets relève de la voyance, et faire du refactoring cross-projet rends les évolutions plus coûteuses.Partant du principe que nous maitrisions mieux les monolithes que des architectures distribuées, nous avons opté pour la mise en place d’une approche « Monolithe microservice ready™ », ou Monolithe modulaire.Je vous propose un retour d’expérience sur la mise en place de cette architecture : comment déployer plusieurs microservices à partir d’une seule base de code, tout en se protégeant contre l’apparition d’une complexité inhérente aux monolithes.---Ce premier meetup en ligne, est organisé en partenariat avec l'agence Inside de Bordeaux, qui nous fourni les moyens de visio conférence.Pas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
     "community": "afup-bordeaux",
-    "is_online": true,
-    "rsvp_count": 40
+    "is_online": true
   },
   {
     "title": "Meetup PHP #34 : Concevoir des applications PHP résilientes en 2020",
@@ -429,9 +414,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 60,
-    "rsvp_count": 49
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP #33: Playlist preprogramming, from (almost) nothing to something cool",
@@ -446,9 +429,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "20 Rue Saint-François, Bordeaux",
-    "rsvp_limit": 60,
-    "rsvp_count": 46
+    "location": "20 Rue Saint-François, Bordeaux"
   },
   {
     "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
@@ -463,9 +444,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "rsvp_limit": 40,
-    "rsvp_count": 29
+    "location": "1 Cr Xavier Arnozan, Bordeaux"
   },
   {
     "title": "Meetup PHP #31 : De la performance, même avec Doctrine !",
@@ -480,9 +459,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_limit": 60,
-    "rsvp_count": 51
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP #30 : L'e-commerce sans accroc avec Sylius",
@@ -497,9 +474,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "23 Quai de Paludate, Bordeaux",
-    "rsvp_limit": 40,
-    "rsvp_count": 30
+    "location": "23 Quai de Paludate, Bordeaux"
   },
   {
     "title": "Meetup PHP #29 : Deep dive into the Symfony Debug component",
@@ -514,8 +489,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 Rue des Faussets, Bordeaux",
-    "rsvp_count": 50
+    "location": "12 Rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP #28 : Architecture extensible avec Laravel",
@@ -530,8 +504,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "88 Cr de Verdun, Bordeaux",
-    "rsvp_count": 24
+    "location": "88 Cr de Verdun, Bordeaux"
   },
   {
     "title": "Meetup PHP #27 : Le container d'injections de dépendances aux petits oignons !",
@@ -546,8 +519,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "rsvp_count": 23
+    "location": "1 Cr Xavier Arnozan, Bordeaux"
   },
   {
     "title": "Super Apéro PHP 2019",
@@ -562,8 +534,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "23 Rue Ausone, Bordeaux",
-    "rsvp_count": 42
+    "location": "23 Rue Ausone, Bordeaux"
   },
   {
     "title": "Meetup PHP #26 : DDD, CQ(R)S, Clean Architecture ... dans un framework MVC",
@@ -578,9 +549,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 50,
-    "rsvp_count": 50
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
@@ -595,8 +564,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "28 Rue Latour, Bordeaux",
-    "rsvp_count": 22
+    "location": "28 Rue Latour, Bordeaux"
   },
   {
     "title": "Meetup PHP #25 : Lightning Talks: Back to the Future - Rétrospective 2018",
@@ -611,9 +579,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "13 rue de la manutention, Bordeaux",
-    "rsvp_limit": 60,
-    "rsvp_count": 33
+    "location": "13 rue de la manutention, Bordeaux"
   },
   {
     "title": "Meetup PHP #24 : contribuer à des projets opensource",
@@ -628,9 +594,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 50,
-    "rsvp_count": 29
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Defensive programming",
@@ -645,9 +609,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 60,
-    "rsvp_count": 38
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "API, REST ou GraphQL ? Par Kevin Dunglas. Elections des représentants",
@@ -662,8 +624,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des faussets, Bordeaux",
-    "rsvp_count": 55
+    "location": "12 rue des faussets, Bordeaux"
   },
   {
     "title": "meetup php #21 : CQRS, FONCTIONNEL, EVENT SOURCING & DOMAIN DRIVEN DESIGN",
@@ -678,9 +639,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 60,
-    "rsvp_count": 41
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP meetup #20 : Des projets de qualité avec l'intégration continue ! ",
@@ -695,8 +654,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 60
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Super Apéro AFUP",
@@ -711,9 +669,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "14 Rue Castelnau D'auros, Bordeaux",
-    "rsvp_limit": 30,
-    "rsvp_count": 13
+    "location": "14 Rue Castelnau D'auros, Bordeaux"
   },
   {
     "title": "PHP meetup #19 - Recruter vos developpeurs",
@@ -728,8 +684,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 35
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "SfPot Afup/Afsy du 12 Janvier 2017 avec Nicolas Grekas",
@@ -744,8 +699,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 15
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #18: SOAP vs REST, on en parle ?",
@@ -760,8 +714,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 18
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #17: Tester son application PHP",
@@ -776,8 +729,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 32
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #16:  Architecture REST & API RESTful",
@@ -792,8 +744,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 26
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #15 : Le passé doit mourir; migrer vers PHP 7.2",
@@ -808,8 +759,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 31
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #14 : Mieux comprendre les PHP Standards Recommandations (PSR)",
@@ -824,8 +774,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 21
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
@@ -840,9 +789,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 10,
-    "rsvp_count": 9
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #13: analyse statique de code",
@@ -857,8 +804,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "15, Place Canteloup, Bordeaux",
-    "rsvp_count": 16
+    "location": "15, Place Canteloup, Bordeaux"
   },
   {
     "title": "PHP Meetup #12: sécurité web",
@@ -873,8 +819,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 17
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Super-Apéro au Frog and Rosbif",
@@ -889,9 +834,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "23 Rue Ausone, Bordeaux",
-    "rsvp_limit": 25,
-    "rsvp_count": 15
+    "location": "23 Rue Ausone, Bordeaux"
   },
   {
     "title": "PHP Meetup #11 : Développement d'applications CLI en PHP",
@@ -906,8 +849,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 11
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #10 : Haxe pour les développeurs web",
@@ -922,8 +864,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 17
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #9 : Rétrospective d’une mutation technique d’un projet digital",
@@ -938,8 +879,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 11
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #8: Typo3 & PHP: Trollons peu mais trollons bien",
@@ -954,8 +894,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 8
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "Lightning talk : Les design patterns",
@@ -970,8 +909,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 19
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #6: REST in peace",
@@ -986,8 +924,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 22
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "PHP Meetup #5: Introduction à la programmation fonctionnelle",
@@ -1002,8 +939,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "9 rue de Condé, Bordeaux",
-    "rsvp_count": 28
+    "location": "9 rue de Condé, Bordeaux"
   },
   {
     "title": "PHPMeetup #4 : STUPID vs SOLID ",
@@ -1018,8 +954,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 29
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Lightning talks",
@@ -1034,8 +969,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 12
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Scalability & High performance of legacy php application",
@@ -1050,9 +984,7 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 30,
-    "rsvp_count": 8
+    "location": "12 rue des Faussets, Bordeaux"
   },
   {
     "title": "Meetup PHP: Retour sur le Forum PHP / Domain Driven Design",
@@ -1067,8 +999,6 @@
       "city": "Bordeaux",
       "country": "France"
     },
-    "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 30,
-    "rsvp_count": 13
+    "location": "12 rue des Faussets, Bordeaux"
   }
 ]
