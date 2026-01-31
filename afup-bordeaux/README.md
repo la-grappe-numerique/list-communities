@@ -22,7 +22,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](./ev
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Vendredi 22 mai 2026 à 09:00 | AFUP Day 2026 Bordeaux | Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat, France | https://event.afup.org/ |
+| Mercredi 18 février 2026 à 19:00 | #64 : Mots de passe, SSO et Passkeys - l’authentification moderne en PHP | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/313037197/ |
+| Vendredi 22 mai 2026 à 09:00 | AFUP Day 2026 Bordeaux | TBD | https://event.afup.org/ |
 
 ## 📆 Past Events
 
@@ -31,10 +32,10 @@ Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](./ev
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 22 octobre 2025 à 19:00 | 62 : Écrire du code qui tient dans nos têtes | Le node, 12 Rue des Faussets, 33000 Bordeaux | https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/311181173 |
-| Mercredi 17 septembre 2025 à 19:00 | #61 : Preview Forum PHP - Transformez votre veille & vos Obsessions Primitives | Le Node - Aquinum, 12 Rue des Faussets, 33000 Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/310668434/ |
-| Mercredi 23 juillet 2025 à 19:00 | #60: Votons et jouons ensembles 🎉 | Le Node - Aquinum, 12 Rue des Faussets, 33000 Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/309263810/ |
-| Jeudi 24 avril 2025 à 19:00 | #59: Parlons FrankenPHP et Observabilité | Dotsafe, 125 quai des Chartrons, 33000 Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/307068650/ |
+| Mercredi 22 octobre 2025 à 19:00 | 62 : Écrire du code qui tient dans nos têtes | TBD | https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/311181173 |
+| Mercredi 17 septembre 2025 à 19:00 | #61 : Preview Forum PHP - Transformez votre veille & vos Obsessions Primitives | TBD | https://www.meetup.com/bordeaux-php-meetup/events/310668434/ |
+| Mercredi 23 juillet 2025 à 19:00 | #60: Votons et jouons ensembles 🎉 | TBD | https://www.meetup.com/bordeaux-php-meetup/events/309263810/ |
+| Jeudi 24 avril 2025 à 19:00 | #59: Parlons FrankenPHP et Observabilité | TBD | https://www.meetup.com/bordeaux-php-meetup/events/307068650/ |
 | Jeudi 20 mars 2025 à 19:00 | Super-Apéro 2025 | 23 Rue Ausone, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/306530360/ |
 | Mercredi 26 février 2025 à 19:00 | #57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager | 1 Cr Xavier Arnozan, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/306119819/ |
 | Mercredi 22 janvier 2025 à 19:00 | #56: Session lightning talks | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/304967965/ |

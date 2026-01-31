@@ -9,17 +9,48 @@ SUMMARY:AFUP Day 2026 Bordeaux
 DTSTART;TZID=Europe/Paris:20260522T090000
 DTEND;TZID=Europe/Paris:20260522T110000
 UID:https://event.afup.org/@community-events
-DESCRIPTION:🔗 https://event.afup.org/\n📍 Ynov Campus\, 2 Esplanade d
- e la Gare\, 33110 Le Bouscat\, France\n\n**AFUP Day Bordeaux\, nouvelle de
- stination !**\nL’AFUP Bordeaux se réjouit d’accueillir la communauté
-  du sud-ouest lors de cette **première édition** accuellie par le **Bord
- eaux Ynov Campus**?\n\nBénéficiez du **partage des connaissances** et de
-  toute la convivialité de la communauté locale : l’AFUP Bordeaux se pr
- épare à vous en mettre **plein la vue** et vous promet une première éd
- ition qui aura tout d’une grande.\n\nCommunauté: afup-bordeaux
-LOCATION:Ynov Campus\, 2 Esplanade de la Gare\, 33110 Le Bouscat\, France
+DESCRIPTION:🔗 https://event.afup.org/\n\n**AFUP Day Bordeaux\, nouvelle
+  destination !**\nL’AFUP Bordeaux se réjouit d’accueillir la communau
+ té du sud-ouest lors de cette **première édition** accuellie par le **B
+ ordeaux Ynov Campus**?\n\nBénéficiez du **partage des connaissances** et
+  de toute la convivialité de la communauté locale : l’AFUP Bordeaux se
+  prépare à vous en mettre **plein la vue** et vous promet une première 
+ édition qui aura tout d’une grande.\n\nCommunauté: afup-bordeaux
 TZID:Europe/Paris
 URL:https://event.afup.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#64 : Mots de passe\, SSO et Passkeys - l’authentification moder
+ ne en PHP
+DTSTART;TZID=Europe/Paris:20260218T190000
+DTEND;TZID=Europe/Paris:20260218T210000
+UID:https://www.meetup.com/bordeaux-php-meetup/events/313037197/@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3130371
+ 97/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr\n\nAprè
+ s une petite pause pour les fêtes\, c'est le moment de se retrouver en 20
+ 26 !\n\nCela sera l'occasion pour parler de l'[AFUP Day Bordeaux 2026](htt
+ ps://event.afup.org/afup-day-2026/afup-day-2026-bordeaux/) !\nOn pourra r
+ épondre à vos questions sur le programme qui a été divulgué en ce dé
+ but d'année par exemple 🤓\nProfitez des places au tarif de croisière.
+ \n\nAvant la présentation des talks\, rappelez-vous que le meetup se term
+ ine par un **apéro collaboratif** 🍻🍿\n\nCet apéro est l'occasion i
+ déale de rencontrer de nouvelles personnes et d'échanger autour de PHP e
+ t son écosystème.\n\nLa parole au premier speaker de l'année qui **nous
+  vient de Paris juste pour vous** ! 📣\n*D'ailleurs vous pourrez le retr
+ ouver à l'AFUP Day Paris avec un autre sujet 👀*\n\n**\\#\\#\\#\\# Mots
+  de passe\\\, SSO et Passkeys : l’authentification moderne en PHP**\nPar
+  **Sylvain Combraque**\, Architecte Go / ReactJS chez VINVIN CORP\n\n*Comm
+ ent sécuriser correctement l’authentification dans nos applications en 
+ 2025 ? Nous ferons le point sur ce qu’il faut encore (et ne faut plus) f
+ aire avec les mots de passe\, l’usage approprié de l’authentification
+  déléguée (OAuth2 / OpenID Connect)\, puis nous regarderons comment Web
+ Authn et les Passkeys changent complètement le paradigme. Une conférence
+  pragmatique\, avec des recommandations\, des architectures types et des e
+ xemples concrets dans l’écosystème PHP.*\n\nCommunauté: afup-bordeaux
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-php-meetup/events/313037197/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:62 : Écrire du code qui tient dans nos têtes
@@ -28,37 +59,36 @@ DTEND;TZID=Europe/Paris:20251022T210000
 UID:https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/311181173@comm
  unity-events
 DESCRIPTION:🔗 https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/3
- 11181173\n📍 Le node\, 12 Rue des Faussets\, 33000 Bordeaux\n\nL'[Agile 
- Tour Bordeaux](https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/
- ) est bientôt ! Pour l'occasion\, nous accueillerons l'un des speakers de
-  la conférence mais avec un autre sujet 😛\n\nAvant la présentation de
- s talks\, rappelez-vous que le meetup se termine par un **apéro collabora
- tif** 🍻🍿\nCet apéro est l'occasion idéale de rencontrer de nouvell
- es personnes et d'échanger autour de PHP et son écosystème.\n\nLa parol
- e aux speakeurs 📣\n\n#### Écrire du code qui tient dans nos têtes\nPa
- r Julien Vitte\, coach craft chez [Inside](https://insidegroup.fr/)\n\n_No
- us savons tous que “le code propre” est important\, mais dès qu’on 
- essaie de le définir\, les opinions peuvent s'accorder et diverger en mê
- me temps : lisible\, maintenable\, testé\, robuste\, flexible… autant d
- e termes qui recouvrent des définitions très différentes selon les équ
- ipes et les contextes._\n\n_Dans le même temps\, nous constatons souvent 
- qu’au fil des itérations\, le rythme de développement ralentit : estim
- er ou maintenir une bonne vélocité devient un effort constant\, malgré 
- des indicateurs de qualité soignés et l'utilisation de pratiques reconnu
- es._\n\n_Et si une partie du problème ne venait pas d’un manque de comp
- étences ou de connaissances techniques\, mais d’une méconnaissance de 
- nos propres limites cognitives ?_\n\n_Dans ce talk\, nous explorerons comm
- ent les sciences cognitives éclairent la manière dont nous lisons\, comp
- renons et transformons du code. Nous verrons comment ces connaissances per
- mettent de dépasser le débats stériles entre “qualité” et "over en
- gineering" pour identifier des critères factuels\, poser des heuristiques
-  simples et concevoir des habitudes de développement qui facilitent la co
- mpréhension collective sur le long terme\, permettant d'écrire — et de
-  faire évoluer — du code qui tient dans nos têtes._\n\n--------\n🎤 
- **Autres informations importantes : pour ceux qui ont commander des elephp
- ants/t-shirts PHPStan\, pour ceux qui ne sont pas venu les récupérer en 
- septembre\, venez les récupérer là!**\n\nCommunauté: afup-bordeaux
-LOCATION:Le node\, 12 Rue des Faussets\, 33000 Bordeaux
+ 11181173\n\nL'[Agile Tour Bordeaux](https://agiletourbordeaux.fr/evenement
+ s/atbdx-edition-2025/) est bientôt ! Pour l'occasion\, nous accueillerons
+  l'un des speakers de la conférence mais avec un autre sujet 😛\n\nAvan
+ t la présentation des talks\, rappelez-vous que le meetup se termine par 
+ un **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de 
+ rencontrer de nouvelles personnes et d'échanger autour de PHP et son éco
+ système.\n\nLa parole aux speakeurs 📣\n\n#### Écrire du code qui tien
+ t dans nos têtes\nPar Julien Vitte\, coach craft chez [Inside](https://in
+ sidegroup.fr/)\n\n_Nous savons tous que “le code propre” est important
+ \, mais dès qu’on essaie de le définir\, les opinions peuvent s'accord
+ er et diverger en même temps : lisible\, maintenable\, testé\, robuste\,
+  flexible… autant de termes qui recouvrent des définitions très diffé
+ rentes selon les équipes et les contextes._\n\n_Dans le même temps\, nou
+ s constatons souvent qu’au fil des itérations\, le rythme de développe
+ ment ralentit : estimer ou maintenir une bonne vélocité devient un effor
+ t constant\, malgré des indicateurs de qualité soignés et l'utilisation
+  de pratiques reconnues._\n\n_Et si une partie du problème ne venait pas 
+ d’un manque de compétences ou de connaissances techniques\, mais d’un
+ e méconnaissance de nos propres limites cognitives ?_\n\n_Dans ce talk\, 
+ nous explorerons comment les sciences cognitives éclairent la manière do
+ nt nous lisons\, comprenons et transformons du code. Nous verrons comment 
+ ces connaissances permettent de dépasser le débats stériles entre “qu
+ alité” et "over engineering" pour identifier des critères factuels\, p
+ oser des heuristiques simples et concevoir des habitudes de développement
+  qui facilitent la compréhension collective sur le long terme\, permettan
+ t d'écrire — et de faire évoluer — du code qui tient dans nos têtes
+ ._\n\n--------\n🎤 **Autres informations importantes : pour ceux qui ont
+  commander des elephpants/t-shirts PHPStan\, pour ceux qui ne sont pas ven
+ u les récupérer en septembre\, venez les récupérer là!**\n\nCommunaut
+ é: afup-bordeaux
 TZID:Europe/Paris
 URL:https://www.meetup.com/fr-FR/bordeaux-php-meetup/events/311181173
 END:VEVENT
@@ -70,45 +100,44 @@ DTEND;TZID=Europe/Paris:20250917T220000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/310668434/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3106684
- 34/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, 33000 Bordeaux\n\nFini
-  les vacances d'été ! C'est le moment de se préparer pour la rentrée !
- \n\nPour l'occasion\, nous aurons le plaisir d'accueillir 2 speakeurs qui 
- nous présenterons en avant première avant le grand jour au [Forum PHP 20
- 25](https://event.afup.org/forum-php-2025) leurs talks respectifs 🎉\n\n
- Avant la présentation des talks\, rappelez-vous que le meetup se termine 
- par un **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale
-  de rencontrer de nouvelles personnes et d'échanger autour de PHP et son 
- écosystème.\n\nLa parole aux speakeurs 📣\n\n#### De la veille isolée
-  aux squads collaboratives : Révolutionnez votre tech watch !\nPar **Juli
- en Joye**\, ingénieur PHP chez **ekino**\n\n_Vos ingénieurs ne trouvent 
- pas le temps de faire de la veille de qualité ? Et si ce n'était plus un
-  problème individuel ?_\n\n_Nous avons transformé ce défi récurrent en
-  opportunité collective. Notre approche collaborative a changé la façon
-  dont nos ingénieurs restent à la pointe de la technologie\, tout en cr
- éant de la valeur pour l'ensemble de l'organisation._\n\n_Cette session v
- ous apportera :_\n\n* _Une méthode éprouvée pour améliorer l'efficac
- ité de votre veille tech_\n* _Les clés pour maintenir l'engagement et é
- viter l'essoufflement des équipes_\n* _Une solution pour transformer la v
- eille en véritable levier d'innovation_\n* _Des stratégies concrètes po
- ur créer des synergies entre vos différents pôles techniques_\n\n_Une s
- ession qui va changer votre regard sur la veille technologique et vous don
- ner des outils à mettre en place dans votre entreprise !_\n\n#### Overcom
- ing our Primitive Obsessions\n##### L'abus de type primitif est-il dangere
- ux pour la santé ?\nPar **Benjamin Rambaud**\, ingénieur/software crafte
- r\n\n_Avez-vous déjà été frustré par la complexité inutile de votre 
- code ? Vous n'êtes pas seul !_\n\n_L'un des facteurs qui complexifient no
- tre code est l'utilisation excessive de types primitifs. Cette obsession e
- st un problème courant en programmation : nous nous appuyons trop sur les
-  types de données primitifs pour représenter des concepts complexes (exe
- mple : l'utilisation d'un tableau pour les paramètres d'une méthode). Ce
- ci peut rendre notre code difficile à comprendre et à maintenir. En expl
- orant des alternatives nous pouvons améliorer la robustesse\, la sécurit
- é et la lisibilité de notre code._\n\n_Découvrons ensemble comment surm
- onter ces limitations et écrire un code plus propre et plus efficace !_\n
- \n--------\n\n**🎤 Autres informations importantes : pour ceux qui ont c
- ommander des elephpants/t-shirts PHPStan\, nous les avons reçu et ça ser
- a le moment de la distribution !**\n\nCommunauté: afup-bordeaux
-LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, 33000 Bordeaux
+ 34/\n\nFini les vacances d'été ! C'est le moment de se préparer pour la
+  rentrée !\n\nPour l'occasion\, nous aurons le plaisir d'accueillir 2 spe
+ akeurs qui nous présenterons en avant première avant le grand jour au [F
+ orum PHP 2025](https://event.afup.org/forum-php-2025) leurs talks respecti
+ fs 🎉\n\nAvant la présentation des talks\, rappelez-vous que le meetup 
+ se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l'occas
+ ion idéale de rencontrer de nouvelles personnes et d'échanger autour de 
+ PHP et son écosystème.\n\nLa parole aux speakeurs 📣\n\n#### De la vei
+ lle isolée aux squads collaboratives : Révolutionnez votre tech watch !\
+ nPar **Julien Joye**\, ingénieur PHP chez **ekino**\n\n_Vos ingénieurs n
+ e trouvent pas le temps de faire de la veille de qualité ? Et si ce n'ét
+ ait plus un problème individuel ?_\n\n_Nous avons transformé ce défi r
+ écurrent en opportunité collective. Notre approche collaborative a chang
+ é la façon dont nos ingénieurs restent à la pointe de la technologie\,
+  tout en créant de la valeur pour l'ensemble de l'organisation._\n\n_Cett
+ e session vous apportera :_\n\n* _Une méthode éprouvée pour améliore
+ r l'efficacité de votre veille tech_\n* _Les clés pour maintenir l'engag
+ ement et éviter l'essoufflement des équipes_\n* _Une solution pour trans
+ former la veille en véritable levier d'innovation_\n* _Des stratégies co
+ ncrètes pour créer des synergies entre vos différents pôles techniques
+ _\n\n_Une session qui va changer votre regard sur la veille technologique 
+ et vous donner des outils à mettre en place dans votre entreprise !_\n\n#
+ ### Overcoming our Primitive Obsessions\n##### L'abus de type primitif est
+ -il dangereux pour la santé ?\nPar **Benjamin Rambaud**\, ingénieur/soft
+ ware crafter\n\n_Avez-vous déjà été frustré par la complexité inutil
+ e de votre code ? Vous n'êtes pas seul !_\n\n_L'un des facteurs qui compl
+ exifient notre code est l'utilisation excessive de types primitifs. Cette 
+ obsession est un problème courant en programmation : nous nous appuyons t
+ rop sur les types de données primitifs pour représenter des concepts com
+ plexes (exemple : l'utilisation d'un tableau pour les paramètres d'une m
+ éthode). Ceci peut rendre notre code difficile à comprendre et à mainte
+ nir. En explorant des alternatives nous pouvons améliorer la robustesse\,
+  la sécurité et la lisibilité de notre code._\n\n_Découvrons ensemble 
+ comment surmonter ces limitations et écrire un code plus propre et plus e
+ fficace !_\n\n--------\n\n**🎤 Autres informations importantes : pour ce
+ ux qui ont commander des elephpants/t-shirts PHPStan\, nous les avons reç
+ u et ça sera le moment de la distribution !**\n\nCommunauté: afup-bordea
+ ux
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/310668434/
 END:VEVENT
@@ -119,20 +148,18 @@ DTEND;TZID=Europe/Paris:20250723T220000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/309263810/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3092638
- 10/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, 33000 Bordeaux\n\nHell
- o !\n\nAvant de parler de l'event\, rappelez-vous que le meetup se termine
-  ou commence par un **apéro collaboratif** 🍻🍿\n\n**Merci d'apporter
-  de quoi manger et boire tous ensemble !**\n\nCet apéro est l'occasion id
- éale de rencontrer de nouvelles personnes et d'échanger autour de PHP et
-  son écosystème.\n\n---\n\nLe saviez-vous ? Il faut voter pour le bureau
-  de l'antenne tous les ans ! Donc retrouvons-nous pour voter le bureau qui
-  représentera Bordeaux l'année prochaine 🫣\n\nEt vous vous souvenez d
- u Super Apéro 2024 ? On a beta tester un jeu avec Pitchart le "The Refact
- oring Xplorer"\, et si cette fois on y jouait avec sa version finale ?!\n\
- nBref\, vous l'avez compris\, cette événement pré-été est là pour su
- rtout nous détendre\, rigoler en coup et profiter d'une bonne compagnie (
- ou pas 😛)\n\nCommunauté: afup-bordeaux
-LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, 33000 Bordeaux
+ 10/\n\nHello !\n\nAvant de parler de l'event\, rappelez-vous que le meetup
+  se termine ou commence par un **apéro collaboratif** 🍻🍿\n\n**Merci
+  d'apporter de quoi manger et boire tous ensemble !**\n\nCet apéro est l'
+ occasion idéale de rencontrer de nouvelles personnes et d'échanger autou
+ r de PHP et son écosystème.\n\n---\n\nLe saviez-vous ? Il faut voter pou
+ r le bureau de l'antenne tous les ans ! Donc retrouvons-nous pour voter le
+  bureau qui représentera Bordeaux l'année prochaine 🫣\n\nEt vous vous
+  souvenez du Super Apéro 2024 ? On a beta tester un jeu avec Pitchart le 
+ "The Refactoring Xplorer"\, et si cette fois on y jouait avec sa version f
+ inale ?!\n\nBref\, vous l'avez compris\, cette événement pré-été est 
+ là pour surtout nous détendre\, rigoler en coup et profiter d'une bonne 
+ compagnie (ou pas 😛)\n\nCommunauté: afup-bordeaux
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/309263810/
 END:VEVENT
@@ -143,29 +170,27 @@ DTEND;TZID=Europe/Paris:20250424T220000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/307068650/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3070686
- 50/\n📍 Dotsafe\, 125 quai des Chartrons\, 33000 Bordeaux\n\nCe soir [Do
- tsafe](https://fr.linkedin.com/company/dotsafe) nous accompagne\, avec des
-  speakers et des locaux !\n\nJ'ai dis "des"\, oui oui ! Car ce soir\, nous
-  aurons 2 presentations au format court !\n\n---\n\nMerci à Dotsafe qui *
- *sponso l'apéro/pizzas** de ce soir🍻🍿\nOn a tous hâte d'y être !\
- n\n---\n\nLa parole aux speakeurs 📣\n\n### Présentation de FrankenPHP\
- , le serveur d'application PHP moderne\nDans cette présentation\, nous ve
- rrons pour quelles raisons FrankenPHP a vu le jour\, comment le mettre en 
- place dans son projet via Docker et comment l'utiliser en mode Worker.\n\n
- Quelques points d'attention sur l'utilisation du mode worker seront égale
- ment abordés.\nEnfin\, des données comparatives seront présentées afin
-  de montrer quel a été l'impact positif de sa mise en place sur un proje
- t client.\nBy[ Vincent Touzet](https://fr.linkedin.com/in/vincent-touzet-2
- a166a106)\, _Dotsafe_\n\n### L'observabilité\, surveiller et comprendre s
- es systèmes informatiques en temps réel\nDans cette présentation\, nous
-  expliquerons quels sont les 3 piliers de l'observabilité (Logs\, Metrics
-  and Traces) et pour quelles raisons on la met en place dans un projet.\n\
- nNous verrons également comment on fait de l'observabilité concrètement
-  en évoquant notamment l'exemple de YouSign qui a été présenté lors d
- u Forum PHP 2023.\nEnfin\, nous parlerons de ce qui est fait\, à l'heure 
- actuelle chez Dotsafe\, en termes d'observabilité.\nBy Ely Lebesson\, _Do
- tsafe_\n\nCommunauté: afup-bordeaux
-LOCATION:Dotsafe\, 125 quai des Chartrons\, 33000 Bordeaux
+ 50/\n\nCe soir [Dotsafe](https://fr.linkedin.com/company/dotsafe) nous acc
+ ompagne\, avec des speakers et des locaux !\n\nJ'ai dis "des"\, oui oui ! 
+ Car ce soir\, nous aurons 2 presentations au format court !\n\n---\n\nMerc
+ i à Dotsafe qui **sponso l'apéro/pizzas** de ce soir🍻🍿\nOn a tous 
+ hâte d'y être !\n\n---\n\nLa parole aux speakeurs 📣\n\n### Présentat
+ ion de FrankenPHP\, le serveur d'application PHP moderne\nDans cette prés
+ entation\, nous verrons pour quelles raisons FrankenPHP a vu le jour\, com
+ ment le mettre en place dans son projet via Docker et comment l'utiliser e
+ n mode Worker.\n\nQuelques points d'attention sur l'utilisation du mode wo
+ rker seront également abordés.\nEnfin\, des données comparatives seront
+  présentées afin de montrer quel a été l'impact positif de sa mise en 
+ place sur un projet client.\nBy[ Vincent Touzet](https://fr.linkedin.com/i
+ n/vincent-touzet-2a166a106)\, _Dotsafe_\n\n### L'observabilité\, surveill
+ er et comprendre ses systèmes informatiques en temps réel\nDans cette pr
+ ésentation\, nous expliquerons quels sont les 3 piliers de l'observabilit
+ é (Logs\, Metrics and Traces) et pour quelles raisons on la met en place 
+ dans un projet.\n\nNous verrons également comment on fait de l'observabil
+ ité concrètement en évoquant notamment l'exemple de YouSign qui a été
+  présenté lors du Forum PHP 2023.\nEnfin\, nous parlerons de ce qui est 
+ fait\, à l'heure actuelle chez Dotsafe\, en termes d'observabilité.\nBy 
+ Ely Lebesson\, _Dotsafe_\n\nCommunauté: afup-bordeaux
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/307068650/
 END:VEVENT
@@ -183,8 +208,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3065303
  er-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fê
  tez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻
  🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super int
- éressantes 😄 🤓\n\nCommunauté: afup-bordeaux\n👥 11 participant(s
- )
+ éressantes 😄 🤓\n\nCommunauté: afup-bordeaux
 LOCATION:The Frog & Rosbif\, Bordeaux\, 23 Rue Ausone\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/306530360/
@@ -222,7 +246,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3061198
  en avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bo
  rdeaux\,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le
   20 mars\, réservez votre soirée dés maintenant !\n\nCommunauté: afup-
- bordeaux\n👥 18 participant(s)
+ bordeaux
 LOCATION:EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/306119819/
@@ -276,7 +300,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3049679
  (https://bsky.app/profile/ternel.bsky.social)*\n*[Description]*Découvrons
   ensemble l’incroyable évolution de ce header HTTPMerci à nos trois sp
  eakers de cette session ! 🫶\nPensez à vous inscrire 😎\n\nCommunaut
- é: afup-bordeaux\n👥 13 participant(s)
+ é: afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/304967965/
@@ -301,7 +325,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3044154
  é le XmlEncoder de Symfony**\\* Proposé une solution propre**\\* Documen
  té cette contribution**\\* Préparé ce talk"*\nCe meetup est sponsorisé
   par [Conserto](https://conserto.pro/) ! Merci à eux !\n\nCommunauté: af
- up-bordeaux\n👥 20 participant(s)
+ up-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/304415496/
@@ -335,7 +359,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3039752
  nces\, venez explorer des solutions innovantes pour des interfaces utilisa
  teur plus performantes et agréables à utiliser."*\n🎁 D'ailleurs à la
   fin de se meetup quelqu'un partira avec un cadeau ! 🎁\n\nCommunauté: 
- afup-bordeaux\n👥 19 participant(s)
+ afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/303975250/
@@ -380,7 +404,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3033530
  k8s est toujours la solution ?*\n*Dans cette conférence\, je vous fais un
   petit rappel de ce qu’est k8s\, vous montre pourquoi Drupal (ou l’inf
  ra) peut devenir votre pire ennemi dans ce contexte\, et comment éviter c
- ertains pièges.*\n\nCommunauté: afup-bordeaux\n👥 25 participant(s)
+ ertains pièges.*\n\nCommunauté: afup-bordeaux
 LOCATION:HEMERA\, 1 cours Xavier Arnozan\, \, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/303353062/
@@ -414,8 +438,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3008067
  ais en itérations !*\nLe meetup se termine par un apéro sponsorisé par 
  **ekino** \\- que nous remercions chaleureusement \\! 🥗 🍕🍹Ce sera
   l'occasion idéale de rencontrer de nouvelles personnes et d'échanger au
- tour de PHP et de son écosystème.\n\nCommunauté: afup-bordeaux\n👥 35
-  participant(s)
+ tour de PHP et de son écosystème.\n\nCommunauté: afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/300806782/
@@ -448,8 +471,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3008066
  guration semantique.*\nLe meetup se termine par un apéro sponsorisé par 
  **SensioLabs** \\- que nous remercions chaleureusement \\! 🥗 🍕🍹Ce
   sera l'occasion idéale de rencontrer de nouvelles personnes et d'échang
- er autour de PHP et de son écosystème.\n\nCommunauté: afup-bordeaux\n
- 👥 30 participant(s)
+ er autour de PHP et de son écosystème.\n\nCommunauté: afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/300806648/
@@ -474,8 +496,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3000139
   séduiront !"*\nLe meetup se termine par un **apéro collaboratif** 🍻
  🍿 Merci d'apporter de quoi manger et boire tous ensemble !C'est l'occas
  ion idéale de rencontrer de nouvelles personnes et d'échanger autour de 
- PHP et son écosystème.\n\nCommunauté: afup-bordeaux\n👥 34 participan
- t(s)
+ PHP et son écosystème.\n\nCommunauté: afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/300013958/
@@ -495,7 +516,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2992755
   sait tous que l'aspect nourriture est important donc notre sponsor [Insid
  e](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous off
  rira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 
- 🍕🍕🍕\n\nCommunauté: afup-bordeaux\n👥 18 participant(s)
+ 🍕🍕🍕\n\nCommunauté: afup-bordeaux
 LOCATION:38 Rue Capdeville\, 38 Rue Capdeville\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/299275583/
@@ -524,7 +545,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2990418
  nsorisé par [PlayPlay](https://playplay.com/) 🎉🍻🍕C'est l'occasio
  n idéale de rencontrer de nouvelles personnes et d'échanger autour de PH
  P et son écosystème.\nPS : Pas de connaissances en AI requise.\n\nCommun
- auté: afup-bordeaux\n👥 46 participant(s)
+ auté: afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/299041870/
@@ -555,7 +576,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2978361
  par un apéro collaboratif - pensez à amener un petit quelque chose à ma
  nger ou à boire ! C'est l'occasion idéale de rencontrer de nouvelles per
  sonnes et d'échanger autour de PHP et son écosystème.\n\nCommunauté: a
- fup-bordeaux\n👥 26 participant(s)
+ fup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/297836117/
@@ -591,7 +612,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2971779
  ://conserto.pro/) ! 🎉🍻🍕\nMerci à eux de nous régaler lors de ce
   moment de partage !C'est l'occasion idéale de rencontrer de nouvelles pe
  rsonnes et d'échanger autour de PHP et son écosystème.\n\nCommunauté: 
- afup-bordeaux\n👥 31 participant(s)
+ afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/297177923/
@@ -619,7 +640,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2962495
  (https://www.seyos.fr/) ! 🎉🍻🍕Merci à eux de nous régaler lors d
  e ce moment de partage !C'est l'occasion idéale de rencontrer de nouvelle
  s personnes et d'échanger autour de PHP et son écosystème.\n\nCommunaut
- é: afup-bordeaux\n👥 28 participant(s)
+ é: afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/296249567/
@@ -656,7 +677,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2957142
  ins de stress.*\nLe meetup se termine par un apéro collaboratif - pensez 
  à amener un petit quelque chose à manger ou à boire ! C'est l'occasion 
  idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP 
- et son écosystème.\n\nCommunauté: afup-bordeaux\n👥 28 participant(s)
+ et son écosystème.\n\nCommunauté: afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/295714201/
@@ -704,7 +725,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2939758
  ubliez pas de répondre à la question pour qu'on puisse prévoir les bonn
  es quantités de nourriture ! Leur meetup est par [là](https://www.meetup
  .com/fr-FR/drupal-france-francophonie/events/293565941/).\n\nCommunauté: 
- afup-bordeaux\n👥 33 participant(s)
+ afup-bordeaux
 LOCATION:EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/293975851/
@@ -748,7 +769,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2932841
  NB : les élections du bureau auront lieu lors de notre Meetup de juin\, s
  i vous avez des questions ou si vous voulez nous rejoindre\, nous serons d
  isponibles toute la soirée pour en discuter.\n\nCommunauté: afup-bordeau
- x\n👥 43 participant(s)
+ x
 LOCATION:43 Rue d'Armagnac\, 43 Rue d'Armagnac\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/293284178/
@@ -792,7 +813,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2923681
   apéro collaboratif - pensez à amener un petit quelque chose à manger o
  u à boire ! C'est l'occasion idéale de rencontrer de nouvelles personnes
   et d'échanger autour de PHP et son écosystème.\n\nCommunauté: afup-bo
- rdeaux\n👥 18 participant(s)
+ rdeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/292368112/
@@ -812,8 +833,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2919606
  ous au Frog & Rosbif à partir de 19h pour une soirée d’enfer ! Au prog
  ramme de cette soirée il y aura :\n* Plein de discussions super intéress
  antes 😄* Un concours photo avec toutes les autres antennes 📸* De la 
- bière mais pas que ! 🍻🥤\n\nCommunauté: afup-bordeaux\n👥 29 part
- icipant(s)
+ bière mais pas que ! 🍻🥤\n\nCommunauté: afup-bordeaux
 LOCATION:The Frog & Rosbif\, Bordeaux\, 23 Rue Ausone\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/291960656/
@@ -835,8 +855,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2865521
  pero-phpxelections-23-juin !\nNotre sponsor [ekino](https://www.ekino.com/
  ) nous offrira de quoi s'enjailler et boire pour passer un bon moment !Com
  me à l'accoutumé n'hésitez pas à apporter des choses pour participer 
- à l'apéro collaboratif !\n\nCommunauté: afup-bordeaux\n👥 14 particip
- ant(s)
+ à l'apéro collaboratif !\n\nCommunauté: afup-bordeaux
 LOCATION:EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/286552197/
@@ -862,7 +881,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2855389
  mener un petit quelque chose à manger ou à boire !\nNous allons essayer 
  de le diffuser aussi en live sur [https://meet.google.com/iuc-abuv-phg](ht
  tps://meet.google.com/iuc-abuv-phg?authuser=0)\n\nCommunauté: afup-bordea
- ux\n👥 44 participant(s)
+ ux
 LOCATION:Wild Code School\, Formation Développeur Web & Data Analyst\, 17
  1 Rue Lucien Faure\, Bordeaux\, France
 TZID:Europe/Paris
@@ -888,7 +907,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2830455
   partenariat avec l'agence ekino de Bordeaux\, qui nous fourni les moyens 
  de visioconférence.\nPas d'apéro collaboratif pour cet événement mais 
  vous pouvez prévoir ce que vous voulez chez vous :P\n\nCommunauté: afup-
- bordeaux\n💻 Événement en ligne\n👥 47 participant(s)
+ bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/283045545/
 END:VEVENT
@@ -913,7 +932,6 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2814467
   Bordeaux\, qui nous fourni les moyens de visioconférence.\nPas d'apéro 
  collaboratif pour cet événement mais vous pouvez prévoir ce que vous vo
  ulez chez vous :p\n\nCommunauté: afup-bordeaux\n💻 Événement en ligne
- \n👥 46 participant(s)
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/281446735/
 END:VEVENT
@@ -931,7 +949,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2735728
  nariat avec l'agence ekino de Bordeaux\, qui nous fourni les moyens de vis
  ioconférence.\nPas d'apéro collaboratif pour cet événement mais vous p
  ouvez prévoir ce que vous voulez chez vous :p\n\nCommunauté: afup-bordea
- ux\n💻 Événement en ligne\n👥 36 participant(s)
+ ux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/273572868/
 END:VEVENT
@@ -962,8 +980,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2706011
  e\, est organisé en partenariat avec l'agence Inside de Bordeaux\, qui no
  us fourni les moyens de visio conférence.Pas d'apéro collaboratif pour c
  et événement mais vous pouvez prévoir ce que vous voulez chez vous :p\n
- \nCommunauté: afup-bordeaux\n💻 Événement en ligne\n👥 40 participa
- nt(s)
+ \nCommunauté: afup-bordeaux\n💻 Événement en ligne
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/270601172/
 END:VEVENT
@@ -990,8 +1007,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2683761
  us craindre les problèmes de réseau. Et vous aurez acquis un nouveau ré
  flexe: penser au pire\, pour garantir le minimum vital à vos utilisateurs
  .---Le meetup se termine par un apéro collaboratif - pensez à amener un 
- petit quelque chose à manger ou à boire !\n\nCommunauté: afup-bordeaux\
- n👥 49 participant(s)\nLimité à 60 places
+ petit quelque chose à manger ou à boire !\n\nCommunauté: afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/268376150/
@@ -1011,7 +1027,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2676944
  sur la mise en place de la publication différée des playlists éditorial
  es chez Deezer.Challenges techniques et solutions mises en place.\nLe meet
  up se terminera par un apéro offert par Deezer !\n\nCommunauté: afup-bor
- deaux\n👥 46 participant(s)\nLimité à 60 places
+ deaux
 LOCATION:Deezer Bordeaux\, 20 Rue Saint-François\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/267694409/
@@ -1031,8 +1047,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2668245
  e ? Est-ce que le mystère des lettres O.\, D.\, I.\, et L sera résolu ? 
  Où habite le Père Noël ?\nIl faudra venir pour découvrir les réponses
   \;)\nC'est un apéro collaboratif - pensez à amener un petit quelque cho
- se à manger ou à boire !\n\nCommunauté: afup-bordeaux\n👥 29 particip
- ant(s)\nLimité à 40 places
+ se à manger ou à boire !\n\nCommunauté: afup-bordeaux
 LOCATION:EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/266824505/
@@ -1060,7 +1075,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2663118
  ogramme : Unit of Work\, listeners\, caches\, héritage et bien d'autres s
  ujets encore !\nLe meetup se termine par un apéro collaboratif - pensez 
  à amener un petit quelque chose à manger ou à boire !\n\nCommunauté: a
- fup-bordeaux\n👥 51 participant(s)\nLimité à 60 places
+ fup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/266311873/
@@ -1084,8 +1099,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2643072
  ests afin que le lancement de votre prochain projet de site e-commerce se 
  déroule comme votre plan préféré\, c’est-à-dire\, sans accroc !\nLe
   meetup se terminera par un apéro. Synolia prendra en charge la bière et
-  les pizzas <3 !\n\nCommunauté: afup-bordeaux\n👥 30 participant(s)\nLi
- mité à 40 places
+  les pizzas <3 !\n\nCommunauté: afup-bordeaux
 LOCATION:Synolia\, agence conseil\, e-commerce\, CRM\, PIM et Business Int
  elligence\, 23 Quai de Paludate\, Bordeaux\, France
 TZID:Europe/Paris
@@ -1117,7 +1131,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2618590
  des plus téléchargé et utilisé car il fournit un gros plus à l’exp
  érience développeur.\nLe meetup se termine par un apéro collaboratif - 
  pensez à amener un petit quelque chose à manger ou à boire !\n\nCommuna
- uté: afup-bordeaux\n👥 50 participant(s)
+ uté: afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/261859060/
@@ -1134,8 +1148,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2610417
  vec Laravel. Le meetup sera accueilli par la société Mink.\nLe Meetup se
   terminera par un apéro collaboratif !Pensez à amener un petit quelque c
  hose à manger ou à boire !\nGrâce aux Éditions Eyrolles un livre sur "
- PHP 7 Avancé" sera à gagner !\n\nCommunauté: afup-bordeaux\n👥 24 par
- ticipant(s)
+ PHP 7 Avancé" sera à gagner !\n\nCommunauté: afup-bordeaux
 LOCATION:Mink\, 88 Cr de Verdun\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/261041713/
@@ -1155,7 +1168,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2604454
  le DIC est implémenté dans un projet open source comme Drupal.Nous irons
   explorer les entrailles du Kernel pour répondre à de multiples question
  s :Comment le composant de Symfony est-il utilisé ?Pourquoi l'est-il ?etc
- ..\n\nCommunauté: afup-bordeaux\n👥 23 participant(s)
+ ..\n\nCommunauté: afup-bordeaux
 LOCATION:1 Cr Xavier Arnozan\, 1 Cr Xavier Arnozan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/260445410/
@@ -1174,8 +1187,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2593212
   PHP autour de quelques bières et de quoi grignotter !\nÀ partir de 19h\
  , retrouvez-nous au bar The Frog & Rosbif. Réservation au doux petit nom 
  AFUP \;)\nPour avoir les informations de toutes les autres antennes : http
- s://afup.org/association/super-apero\n\nCommunauté: afup-bordeaux\n👥 4
- 2 participant(s)
+ s://afup.org/association/super-apero\n\nCommunauté: afup-bordeaux
 LOCATION:The Frog & Rosbif\, Bordeaux\, 23 Rue Ausone\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/259321285/
@@ -1198,7 +1210,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2589404
  roche.\nEt si on essayait de concilier les 2 camps en se basant sur des ex
  emples concrets ?"\nLe Meetup se terminera par un apéro collaboratif !Pen
  sez à amener un petit quelque chose à manger ou à boire !\n\nCommunaut
- é: afup-bordeaux\n👥 50 participant(s)\nLimité à 50 places
+ é: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/258940449/
@@ -1215,7 +1227,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2579878
  éro au Zytho.Pas de sujet prédéfini\, discussion libre !Ca pourra aussi
   être l'occasion pour ceux qui songent à faire des présentations\, mais
   n'ont pas encore sauté le pas\, d'échanger et poser leurs questions.\n\
- nCommunauté: afup-bordeaux\n👥 22 participant(s)
+ nCommunauté: afup-bordeaux
 LOCATION:Le Zytho\, 28 Rue Latour\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/257987818/
@@ -1240,7 +1252,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2561580
  i vous avez besoin d'un peu d'aide pour vous mettre à l'eau.\nLe Meetup s
  e terminera par un apéro et des pizzas\, gracieusement offerts par notre 
  sponsor Externatic : https://www.externatic.fr/\n\nCommunauté: afup-borde
- aux\n👥 33 participant(s)\nLimité à 60 places
+ aux
 LOCATION:MOTA COWORKING\, 13 rue de la manutention\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/256158020/
@@ -1271,8 +1283,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2557391
  open source\, s’il y a un intérêt à contribuer sur GitHub ou si vous 
  voulez me rejoindre chez PrestaShop: discutons-en autour d’une bière :)
  \nLe Meetup se terminera par un apéro collaboratif !Pensez à amener un p
- etit quelque chose à manger ou à boire !\n\nCommunauté: afup-bordeaux\n
- 👥 29 participant(s)\nLimité à 50 places
+ etit quelque chose à manger ou à boire !\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/255739189/
@@ -1296,8 +1307,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2543484
  nt dans la conception de leurs librairies Open-Source.\nVoyons ensemble un
   aperçu de ces "techniques" avec notre langage préféré : PHP 7.2\nLe M
  eetup se terminera par un apéro collaboratif !Pensez à amener un petit q
- uelque chose à manger ou à boire !\n\nCommunauté: afup-bordeaux\n👥 3
- 8 participant(s)\nLimité à 60 places
+ uelque chose à manger ou à boire !\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/254348414/
@@ -1339,7 +1349,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2515235
  nf parlera surtout des formats\, pas besoin d’être développeur #PHP ou
   #JavaScript pour y assister.\nLe meetup sera clôturé par un apéro\, of
  fert par notre sponsor Ekino ! http://www.ekino.com/\n\nCommunauté: afup-
- bordeaux\n👥 55 participant(s)
+ bordeaux
 LOCATION:Node\, 12 rue des faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/251523532/
@@ -1374,7 +1384,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2508373
  e DDD.– Savoir comment implémenter correctement un système basé sur l
  ’event sourcing.\nLe meetup se termine par un apéro collaboratif - pens
  ez à amener un petit quelque chose à manger ou à boire !\n\nCommunauté
- : afup-bordeaux\n👥 41 participant(s)\nLimité à 60 places
+ : afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/250837322/
@@ -1398,8 +1408,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2492193
  es échanges autour d'un apéro collaboratif.\nPour cet évènement\, INS
  IDE Group\, spécialisé principalement sur les métiers de l'infrastruc
  tures\, les applications et le conseil est sponsor de l'évènement et nou
- s offre les consommations.\n\nCommunauté: afup-bordeaux\n👥 60 particip
- ant(s)
+ s offre les consommations.\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/249219313/
@@ -1416,7 +1425,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2483681
  our la 2ème édition du super apéro AFUP\, organisé en parallèle dans 
  toutes les antennes de France.\nAu programme\, rencontre et échange dans 
  une ambiance détendue\, et participation au Quizz inter-antenne !\n\nComm
- unauté: afup-bordeaux\n👥 13 participant(s)\nLimité à 30 places
+ unauté: afup-bordeaux
 LOCATION:Casey's Pub\, 14 Rue Castelnau D'auros\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/248368183/
@@ -1435,7 +1444,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2474233
  vos candidats avec autre chose qu'un algo sur papier.\n10 ans de recruteme
  nt sans compétence particulière pour cela\,seulement être un développe
  ur qui peut se mettre à la place du candidat\, et ça change tout."\n\nCo
- mmunauté: afup-bordeaux\n👥 35 participant(s)
+ mmunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/247423312/
@@ -1464,7 +1473,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2464050
  tif: rendre vos applications toujours plus expressives\, donc maintenables
  ."\nUn gros merci à l'AFUP et à Nicolas sans qui ce meetup ne pourrait p
  as avoir lieu. On terminera par un apéro dans un bar proche du Meetup !\n
- \nCommunauté: afup-bordeaux\n👥 15 participant(s)
+ \nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/246405038/
@@ -1490,7 +1499,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2455591
  Puis voyons quels sont nos moyens de les consommer avec plus ou moins de f
  acilité."\nOn terminera comme d'habitude par un apéro participatif - ram
  enez un petit quelques choses à boire ou à manger pour féter les vacanc
- es !\n\nCommunauté: afup-bordeaux\n👥 18 participant(s)
+ es !\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/245559102/
@@ -1520,8 +1529,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2450723
  ploration afin de vous donnez les clés pour un apprentissage plus poussé
   de ce framework.\nECHANGE & CONVIVIALITE\nLe Meetup se terminera\, comme 
  toujours\, par un apéro collaboratif - Pensez à amener un petit quelque 
- chose à boire et/ou grignoter !\n\nCommunauté: afup-bordeaux\n👥 32 pa
- rticipant(s)
+ chose à boire et/ou grignoter !\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/245072350/
@@ -1543,7 +1551,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2433548
  ’APIPlatform\, un nouveau framework RAD pour la mise en place d’API RE
  ST solide et rapide avec Symfony.\nLe meetup se termine par un apéro coll
  aboratif - pensez à ramener un petit quelque chose à boire ou grignoter 
- !\n\nCommunauté: afup-bordeaux\n👥 26 participant(s)
+ !\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/243354825/
@@ -1575,8 +1583,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2419980
  contributions au monde PHP\, son expérience l'a fait passer par la rédac
  tion de la documentation\, l'élevage d'elephants\, l'animation de groupes
   d'utilisateurs sur trois continents. Il aime faire du gremlin\, des 狮
- 子头 et du camembert.\n\nCommunauté: afup-bordeaux\n👥 31 participan
- t(s)
+ 子头 et du camembert.\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/241998031/
@@ -1600,8 +1607,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2403879
   Request »\, en « Response »\, de participer à l’élaboration d’un
   « Middleware » humain\, de devenir une « LoggerInterface » tout ceci 
  afin de comprendre l’intérêt de ces standards."\nOn terminera comme d'
- habitude par un apéro collaboratif !\n\nCommunauté: afup-bordeaux\n👥 
- 21 participant(s)
+ habitude par un apéro collaboratif !\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/240387941/
@@ -1622,8 +1628,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2398736
   de hauteur sur des concepts qui sortent des spécificités des langages\,
   et que je vous promet être très intéressante !\nPour faciliter la gest
  ion de l'événement\, inscrivez-vous de préférence via le lien ci-dessu
- s :) \nTrès bonne journée à tous\,\n\nCommunauté: afup-bordeaux\n👥
-  9 participant(s)\nLimité à 10 places
+ s :) \nTrès bonne journée à tous\,\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/239873606/
@@ -1646,8 +1651,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2391253
   outils historiques et les nouveaux venus avec des mises en pratiques. Pui
  s nous verrons ce qui nous attends dans un future proche grâce aux nouvea
  utés de PHP7.\nOn pourra ensuite échanger autour d'un apéro\, offert pa
- r la Wild Code School :)\n\nCommunauté: afup-bordeaux\n👥 16 participan
- t(s)
+ r la Wild Code School :)\n\nCommunauté: afup-bordeaux
 LOCATION:Wild Code School Bordeaux\, 15\, Place Canteloup\, Bordeaux\, Fra
  nce
 TZID:Europe/Paris
@@ -1673,8 +1677,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2384049
  erminera comme toujours par un apéro collaboratif : chacun est invité a 
  amener un petit quelque chose à boire ou à grignoter.\nNote : la présen
  tation initialement prévue "analyse de code statique" est reportée\, pro
- bablement au prochain meetup.\n\nCommunauté: afup-bordeaux\n👥 17 parti
- cipant(s)
+ bablement au prochain meetup.\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/238404985/
@@ -1700,8 +1703,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2378779
  as à en rajouter ! \nEnfin\, un nouveau meetup Symfony vient de se lance
  r\, avec une présentation dès jeud prochain sur l'implémentation des de
  sign patterns avec php: https://www.meetup.com/fr-FR/Symfony-User-Group-B
- ordeaux/\nExcellente soirée\,\n\nCommunauté: afup-bordeaux\n👥 15 part
- icipant(s)\nLimité à 25 places
+ ordeaux/\nExcellente soirée\,\n\nCommunauté: afup-bordeaux
 LOCATION:Frog and Rosbif\, 23 Rue Ausone\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/237877972/
@@ -1727,7 +1729,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2315570
  permettra le développement de commandes en PHP.\nLa présentation sera ac
  compagnée d'un apéro collaboratif : vous êtes donc invité.e.s à ramen
  er de quoi boire ou grignoter :)\nA très bientôt !\n\nCommunauté: afup-
- bordeaux\n👥 11 participant(s)
+ bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/231557035/
@@ -1748,7 +1750,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2279866
   - Partager du code et des structures entre le client et le serveur - SP
  OD\, un ORM avec typage fort - Sugoï\, framework web simple et robuste 
  - Exemple de Cagette.net\, web app open-source en Haxe\n\nCommunauté: afu
- p-bordeaux\n👥 17 participant(s)
+ p-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/227986634/
@@ -1768,8 +1770,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2262377
   de ses nombreuses péripéties. On y parlera d'API REST\, de micro-servic
  es\, de mobile hybride et plus encore ..."\nLa présentation sera comme to
  ujours accompagnée d'un apéro collaboratif : ramenez-donc une petite bou
- teille et / ou un morceau à grignoter !\n\nCommunauté: afup-bordeaux\n
- 👥 11 participant(s)
+ teille et / ou un morceau à grignoter !\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/226237783/
@@ -1803,7 +1804,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2258908
   nécessite un digicode. Quelqu'un sera en bas pour vous accueillir et vou
  s ouvrir avant le début de la conf. \nSi vous êtes en retard\, et que p
  ersonne ne répond quand vous sonnez à l'interphone\, vous pouvez appeler
-  Arnaud : [masked]\n\nCommunauté: afup-bordeaux\n👥 8 participant(s)
+  Arnaud : [masked]\n\nCommunauté: afup-bordeaux
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/225890851/
@@ -1821,7 +1822,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2247375
  éré. N’hésitez à nous faire signe avant le meetup histoire d’évit
  er les doublons.\nEt comme toujours\, des débats et du trolling autour d'
  un apéro collaboratif. Pensez à amener un petit quelque chose à boire o
- u à grignoter !\n\nCommunauté: afup-bordeaux\n👥 19 participant(s)
+ u à grignoter !\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/224737500/
@@ -1841,7 +1842,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2235747
  lement orientée PHP\, elle peut s’adresser à n'importe quel dev.\nEt c
  omme toujours\, des débats et du trolling autour d'un apéro collaboratif
  . Pensez à amener un petit quelque chose à boire ou à grignoter !\n\nCo
- mmunauté: afup-bordeaux\n👥 22 participant(s)
+ mmunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/223574747/
@@ -1867,7 +1868,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2229559
  erselles\, les autres développeurs sont donc bienvenus.\nEt comme toujour
  s\, la présentation sera suivi d'un apéro collaboratif - pensez donc à 
  amener un petit quelque chose à boire ou grignoter :)\n\nCommunauté: afu
- p-bordeaux\n👥 28 participant(s)
+ p-bordeaux
 LOCATION:Coolworking\, 9 rue de Condé\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/222955952/
@@ -1885,7 +1886,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2223181
  rammation orientée objet : STUPID et SOLID. Soit\, pour résumer\, les ma
  uvaises versus les bonnes pratiques. Alors\, vous êtes plutôt SOLID ou S
  TUPID ?\nComme toujours\, la présentation sera suivie/accompagnée d'un a
- péro collaboratif.\n\nCommunauté: afup-bordeaux\n👥 29 participant(s)
+ péro collaboratif.\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/222318186/
@@ -1909,8 +1910,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2215743
  sujet susceptible d’intéresser les gens brillants que nous sommes (donc
  \, à peu près n'importe quoi)\nPropositions de présentations\nhttps://d
  ocs.google.com/spreadsheets/d/1TKCbWi0lak1-BREamF9-ySa67meGVK0HS8sGat60WWY
- /edit?usp=sharing\nA vos suggestions !\n\nCommunauté: afup-bordeaux\n👥
-  12 participant(s)
+ /edit?usp=sharing\nA vos suggestions !\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/221574381/
@@ -1930,8 +1930,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2197135
  n avec un minimum d'intervention sur le code ?- Comment améliorer les per
  fs de la base de donnée ?- Le tout à travers des retours d'XP\nOn termin
  era comme la dernière fois par une bonne discussion autour d'un apéro co
- llaboratif.\n\nCommunauté: afup-bordeaux\n👥 8 participant(s)\nLimité 
- à 30 places
+ llaboratif.\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/219713593/
@@ -1950,7 +1949,7 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2188212
  ne grosse appli initialement developpée en mode (c)RAD(e) -  avec ses su
  ccès et ses échecs.\nOn finira sur un apéro collaboratif\, chacun pouva
  nt amener un petit quelque chose à manger ou à boire.\n\nCommunauté: af
- up-bordeaux\n👥 13 participant(s)\nLimité à 30 places
+ up-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/218821208/
