@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 03 février 2026 à 19:00 | [digitalnights](digitalnights/) | [Afterwork #22](https://www.eventbrite.fr/e/billets-afterwork-networking-numerique-dn22-1981243737352) | Le Rohan, 1 Place Pey Berland (1er étage) |
 | Mercredi 04 février 2026 à 18:00 | [mtg-bordeaux](mtg-bordeaux/) | [IA : Productivité, Données et réalité](https://www.meetup.com/mtg-bordeaux/events/312868461/) | 353 Boulevard du Président Wilson 7ème étage, Bordeaux |
 | Mercredi 04 février 2026 à 18:30 | [aws-bordeaux](aws-bordeaux/) | [Meetup AWS re:Invent re:Cap 2025](https://www.meetup.com/bordeaux-amazon-web-services/events/313077203/) | Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux |
+| Mercredi 11 février 2026 à 18:45 | [bordeaux-aperops](bordeaux-aperops/) | [Data, qualité & Projets qui Passent à l’Echelle](https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/312975150/) | 5, rue de Condé, 33000 Bordeaux, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
