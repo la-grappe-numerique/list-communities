@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 04 février 2026 à 18:00 | [mtg-bordeaux](mtg-bordeaux/) | [IA : Productivité, Données et réalité](https://www.meetup.com/mtg-bordeaux/events/312868461/) | 353 Boulevard du Président Wilson 7ème étage, Bordeaux |
-| Mercredi 04 février 2026 à 18:30 | [aws-bordeaux](aws-bordeaux/) | [Meetup AWS re:Invent re:Cap 2025](https://www.meetup.com/bordeaux-amazon-web-services/events/313077203/) | Betclic Group 117 Quai de Bacalan Bordeaux, Nouvelle-Aquitaine 33300, Bordeaux |
 | Mercredi 11 février 2026 à 18:45 | [bordeaux-aperops](bordeaux-aperops/) | [Data, qualité & Projets qui Passent à l’Echelle](https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/312975150/) | 5, rue de Condé, 33000 Bordeaux, Bordeaux |
+| Mercredi 18 février 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#64 : Mots de passe, SSO et Passkeys - l’authentification moderne en PHP](https://www.meetup.com/bordeaux-php-meetup/events/313037197/) | 12 Rue des Faussets, Bordeaux |
+| Lundi 02 mars 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
