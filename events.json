@@ -83,6 +83,17 @@
     ]
   },
   {
+    "title": "Open Okiwi #5",
+    "date": "2026-03-20T09:00:00",
+    "url": "https://mobilizon.fr/events/768fb76c-15b2-4103-9a44-c4a496058a3e",
+    "description": "Un [forum ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) organisé par Okiwi. Attendez-vous à l'inattendu.\n\nUn forum ouvert est une \"non-conférence\" où les participants apportent les sujets dont ils souhaitent parler, le planning est créé en début de journée tous ensemble, puis chacun suit ses envies et participe aux sessions qui l'intéresse (plusieurs salles sont disponibles et permettent plusieurs discussions simultanées).\n\nLe petit déjeuner et le repas du midi sont offerts par Okiwi.\n\nUn [code de conduite](https://okiwi.org/reglement-interieur.html#article-2--code-de-conduite-de-la-communaut) s'applique à cet événement, merci de le consulter et de l'appliquer.\n\n**Attention : l'inscription est limitée à 30 personnes et l'évènement est en présentiel**, si vous êtes inscrit vous vous engagez à venir, vérifiez votre disponibilité pour la journée 😄\n\nIl est possible de vous inscrire sans créer de compte, il vous faut alors **mentionner votre nom et prénom et/ou pseudo Slack** lors de votre inscription, sans quoi nous ne pourrons l'accepter.",
+    "location": "16 rue des Terres Neuves, 33130 Bègles",
+    "is_online": false,
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2026-03-02T18:30:00+01:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb/",

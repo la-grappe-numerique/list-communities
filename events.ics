@@ -12225,6 +12225,34 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/311567891/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Okiwi #5
+DTSTART;TZID=Europe/Paris:20260320T090000
+DTEND;TZID=Europe/Paris:20260320T110000
+UID:https://mobilizon.fr/events/768fb76c-15b2-4103-9a44-c4a496058a3e@commu
+ nity-events
+DESCRIPTION:🔗 https://mobilizon.fr/events/768fb76c-15b2-4103-9a44-c4a49
+ 6058a3e\n📍 16 rue des Terres Neuves\, 33130 Bègles\n\nUn [forum ouvert
+ ](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) organisé 
+ par Okiwi. Attendez-vous à l'inattendu.\n\nUn forum ouvert est une "non-c
+ onférence" où les participants apportent les sujets dont ils souhaitent 
+ parler\, le planning est créé en début de journée tous ensemble\, puis
+  chacun suit ses envies et participe aux sessions qui l'intéresse (plusie
+ urs salles sont disponibles et permettent plusieurs discussions simultané
+ es).\n\nLe petit déjeuner et le repas du midi sont offerts par Okiwi.\n\n
+ Un [code de conduite](https://okiwi.org/reglement-interieur.html#article-2
+ --code-de-conduite-de-la-communaut) s'applique à cet événement\, merci 
+ de le consulter et de l'appliquer.\n\n**Attention : l'inscription est limi
+ tée à 30 personnes et l'évènement est en présentiel**\, si vous êtes
+  inscrit vous vous engagez à venir\, vérifiez votre disponibilité pour 
+ la journée 😄\n\nIl est possible de vous inscrire sans créer de compte
+ \, il vous faut alors **mentionner votre nom et prénom et/ou pseudo Slack
+ ** lors de votre inscription\, sans quoi nous ne pourrons l'accepter.\n\nC
+ ommunauté: okiwi
+LOCATION:16 rue des Terres Neuves\, 33130 Bègles
+TZID:Europe/Paris
+URL:https://mobilizon.fr/events/768fb76c-15b2-4103-9a44-c4a496058a3e
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coding dojo
 DTSTART;TZID=Europe/Paris:20260302T183000
 DTEND;TZID=Europe/Paris:20260302T203000
