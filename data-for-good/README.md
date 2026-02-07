@@ -30,6 +30,12 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 | Notion Calendrier       | https://dataforgood.notion.site/calendrier |
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 25 février 2026 à 18:30 | Fresque du Numérique | Le node, Rue des Faussets, Bordeaux, France | https://www.eventbrite.fr/e/fresque-du-numerique-x-data-for-good-bordeaux-tickets-1982496539517?aff=oddtdtcreator |
+
 ## 📆 Past Events
 
 <details>

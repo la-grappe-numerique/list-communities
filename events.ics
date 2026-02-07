@@ -11273,6 +11273,34 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/creative-coding-bordeaux/events/295328666/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fresque du Numérique
+DTSTART;TZID=Europe/Paris:20260225T183000
+DTEND;TZID=Europe/Paris:20260225T203000
+UID:https://www.eventbrite.fr/e/fresque-du-numerique-x-data-for-good-borde
+ aux-tickets-1982496539517?aff=oddtdtcreator@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/fresque-du-numerique-x-data-f
+ or-good-bordeaux-tickets-1982496539517?aff=oddtdtcreator\n📍 Le node\, R
+ ue des Faussets\, Bordeaux\, France\n\nLe numérique n’est pas immatéri
+ el.\nIA\, cloud\, data\, terminaux : derrière nos usages quotidiens se ca
+ chent des impacts environnementaux bien réels.\n\n👉 C’est pour ça q
+ ue Data For Good Bordeaux organise une Fresque du Numérique\, un atelier 
+ collaboratif pour :\n- comprendre les enjeux environnementaux de l’IA et
+  des technologies numériques\n- prendre du recul sur nos usages pro et pe
+ rso\n- identifier des leviers d’action concrets\, à l’échelle indivi
+ duelle et collective\n\nSi le sujet t’interpelle ou si tu travailles dan
+ s le numérique\, l’IA ou l’innovation responsable\, cet atelier est f
+ ait pour toi.\n\nN’hésite pas à partager autour de toi 🙌\n\n! Atten
+ tion\, places limitées et payantes !\n👥 Places limitées à 16 personn
+ es\n(Un mail sera envoyé aux inscrits quelques jours avant l’évènemen
+ t pour le paiement.)\n\nPrix / Montants recommandés :\n- 5€ (personnes 
+ en difficulté financière)\n- 10€ (classique)\n- 20€ (tarif de soutie
+ n)\n\nCommunauté: data-for-good
+LOCATION:Le node\, Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/fresque-du-numerique-x-data-for-good-borde
+ aux-tickets-1982496539517?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lancement de la saison 14 Data For Good
 DTSTART;TZID=Europe/Paris:20260129T183000
 DTEND;TZID=Europe/Paris:20260129T203000
