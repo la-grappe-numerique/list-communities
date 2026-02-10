@@ -7,5 +7,14 @@
     "community": "dev-with-ai",
     "location": "25 Quai des Chartrons, 33300 Bordeaux",
     "is_online": false
+  },
+  {
+    "title": "Dev With AI Meetup #6 @ Betclic",
+    "date": "2025-02-24T19:00:00",
+    "url": "https://luma.com/5bwwbafl",
+    "description": "Au programme de cette édition :\n\n​Clement Bolin - Construire des Agents IA \"Headless\" pour votre CI/CD\n\n​Nous avons tous expérimenté le \"pair programming\" avec des assistants IA dans nos IDE. C'est magique, mais cela reste une action manuelle: si vous oubliez de demander à l'IA de documenter votre code ou de vérifier une convention, elle ne le fera pas.\n\n​Et si nous pouvions prendre ce même coding agent, supprimer l'interface de chat, et l'intégrer directement dans nos pipelines de build ?\n\n​--\n\n​Geoffrey Graveaud - Coding with AI: poser des gardes fous pour accélérer sans se perdre\n\n​Depuis le vibecoding, il est devenu important de cadrer nos pratiques. En effet, les problématiques liées au code restent les memes mais arrivent 10 fois plus vite. Que pouvons-nous mettre en place pour protéger nos bases de code? A travers cette conf, je vous ferai un retour d'expérience sur le \"cadre\" indispensable pour augmenter votre productivité en gardant une base de code propre. Je parlerai aussi du \"shift left best pratices\" qui sera la prochaine tendance dans les organisations.\n\n​--\n\n​Kévin Llopis - Un seul flow, moins d’onglets : GitLab Duo du Dev jusqu'à la Prod\n\n​Les développeurs passent trop de temps à naviguer entre outils : pipelines CI en échec, MR à publier, tickets Jira à mettre à jour, reviews à accélérer.\n\n​Dans ce talk, je vous propose un retour d’expérience concret de GitLab Duo chez BforBank.\n\n​Nous verrons comment GitLab Duo et ses Agents IA ont permis d’accélérer la chaîne de développement, du Dev à la prod, en réduisant le context switching : MR, Jira, code reviews, CI, reportings et déploiements.\n\n​Un REX pragmatique, orienté terrain.\n\n​--\n\n​Pas possible de venir en présentiel ? Le meetup sera également diffusé en live streaming : Youtube : https://youtube.com/live/JTeqTs_IBnU activez la cloche pour ne pas le manquer ! 😉",
+    "community": "dev-with-ai",
+    "location": "Betclic, 117 Quai de Bacalan, 33300 Bordeaux",
+    "is_online": false
   }
 ]
