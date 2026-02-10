@@ -110,6 +110,16 @@
     ]
   },
   {
+    "title": "Bordeaux Python Meetup 2026.1",
+    "date": "2026-02-26T18:30:00+01:00",
+    "url": "https://www.meetup.com/py-bdx/events/313276455/",
+    "description": "**Meetup Python Bordeaux** le **26 février** dès **18:30** au Yack à Bègles🍷\n\n* *Canaille, un gestionnaire d'identité et d'accès ultra-léger en Python*, par [Éloi Rivard](https://www.linkedin.com/in/eloi-rivard-51976b5/)\n\n* *Live-coding d'algorithmes de génération de labyrinthes*, par [Fabien Lamarque](https://www.linkedin.com/in/fabienlamarque/)\n\nÉvénement ouvert à tous les débutant.e.s ou confirmé.e.s sur inscription via Discuss ou Meetup :\n🔗 [https://discuss.afpy.org/t/sur-bordeaux-le-26-fevrier/2934](https://discuss.afpy.org/t/sur-bordeaux-le-26-fevrier/2934)\n\n**Auberge espagnole** : apportez à boire et à manger que vous voudrez bien partager avec les autres participant.e.s.",
+    "is_online": true,
+    "communities": [
+      "bordeaux-python-meetup"
+    ]
+  },
+  {
     "title": "Fresque du Numérique",
     "date": "2026-02-25T18:30:00",
     "url": "https://www.eventbrite.fr/e/fresque-du-numerique-x-data-for-good-bordeaux-tickets-1982496539517?aff=oddtdtcreator",
@@ -1113,7 +1123,6 @@
     "date": "2025-06-17T18:30:00",
     "url": "https://www.meetup.com/py-bdx/events/308081760/",
     "description": "![Image](https://github.com/user-attachments/assets/3d0f6836-fc74-4456-b21d-5907a05c5c04)\n\n- à 19:00 : **Marimo : des notebooks Python pour remplacer les notebooks Jupyter** (Jean-Luc Charles, consultant IA et data processing)\n- à 19:30 : **Les descripteurs Python : maitrisez l'art du contrôle des attributs** (Luis Iglesias Hernandez, machine learning engineer chez ACC)\n\nPrésentations suivies d'un moment convivial avec des pizzas et goodies\n\nLe meetup est ouvert à [tou.te.s](http://tou.te.s/) les pythonistes novices ou confirmé.e.s.\n\nNous serons reçu par SII Nouvelle Aquitaine dans ses locaux de Mérignac.\nIl est impératif de RSVP sur meetup.com au plus tard le 13 juin.",
-    "location": "SII, 3 impasse Rudolf Diesel, Mérignac (tram A)",
     "is_online": false,
     "communities": [
       "bordeaux-python-meetup"
@@ -1713,7 +1722,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 38,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -2314,7 +2322,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 41,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -3696,8 +3703,7 @@
       "city": "Talence",
       "country": "France"
     },
-    "location": ", Talence",
-    "rsvp_count": 14,
+    "location": "Talence",
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -5755,7 +5761,6 @@
       "country": "France"
     },
     "location": "15 Rue Rode, Bordeaux",
-    "rsvp_count": 8,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -6726,7 +6731,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 14,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -7744,8 +7748,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 35,
-    "rsvp_count": 11,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -8023,7 +8025,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 18,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -8199,8 +8200,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_limit": 50,
-    "rsvp_count": 49,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -8252,7 +8251,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 26,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -8428,7 +8426,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 16,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -8633,7 +8630,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 18,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -8804,7 +8800,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 20,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -9442,7 +9437,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 14,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -9787,7 +9781,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 12,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -9960,7 +9953,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 9,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -10220,7 +10212,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 17,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -10307,7 +10298,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 19,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -10531,7 +10521,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 16,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -10583,7 +10572,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 30,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -10637,7 +10625,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 13,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -10779,7 +10766,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 14,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -10848,7 +10834,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 22,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -10883,7 +10868,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 36,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -11125,7 +11109,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 25,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -11229,7 +11212,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 27,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -11509,7 +11491,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 26,
     "communities": [
       "bordeaux-python-meetup"
     ]
@@ -11578,7 +11559,6 @@
       "country": "France"
     },
     "location": "12 rue des Faussets, Bordeaux",
-    "rsvp_count": 22,
     "communities": [
       "bordeaux-python-meetup"
     ]

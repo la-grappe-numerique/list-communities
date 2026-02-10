@@ -8,6 +8,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-python-meetup/events.ics](/bordeaux-python-meetup/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 26 février 2026 à 18:30 | Bordeaux Python Meetup 2026.1 | Online | https://www.meetup.com/py-bdx/events/313276455/ |
+
 ## 📆 Past Events
 
 <details>
@@ -15,7 +21,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-python-meetup/events.
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mardi 17 juin 2025 à 18:30 | Bordeaux Python meetup 2025.1 | SII, 3 impasse Rudolf Diesel, Mérignac (tram A) | https://www.meetup.com/py-bdx/events/308081760/ |
+| Mardi 17 juin 2025 à 18:30 | Bordeaux Python meetup 2025.1 | TBD | https://www.meetup.com/py-bdx/events/308081760/ |
 </details>
 
 <details>
@@ -32,7 +38,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-python-meetup/events.
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Jeudi 16 février 2023 à 09:00 | Conférence francophone Python 2023 à Bordeaux | , Talence | https://www.meetup.com/py-bdx/events/289726289/ |
+| Jeudi 16 février 2023 à 09:00 | Conférence francophone Python 2023 à Bordeaux | Talence | https://www.meetup.com/py-bdx/events/289726289/ |
 </details>
 
 <details>

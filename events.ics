@@ -2466,23 +2466,41 @@ URL:https://www.linkedin.com/events/bordeauxxr-meetup-pre-launch7331004824
  588611584/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bordeaux Python Meetup 2026.1
+DTSTART;TZID=Europe/Paris:20260226T183000
+DTEND;TZID=Europe/Paris:20260226T203000
+UID:https://www.meetup.com/py-bdx/events/313276455/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/313276455/\n\n**Meet
+ up Python Bordeaux** le **26 février** dès **18:30** au Yack à Bègles
+ 🍷\n\n* *Canaille\, un gestionnaire d'identité et d'accès ultra-léger
+  en Python*\, par [Éloi Rivard](https://www.linkedin.com/in/eloi-rivard-5
+ 1976b5/)\n\n* *Live-coding d'algorithmes de génération de labyrinthes*\,
+  par [Fabien Lamarque](https://www.linkedin.com/in/fabienlamarque/)\n\nÉv
+ énement ouvert à tous les débutant.e.s ou confirmé.e.s sur inscription
+  via Discuss ou Meetup :\n🔗 [https://discuss.afpy.org/t/sur-bordeaux-le
+ -26-fevrier/2934](https://discuss.afpy.org/t/sur-bordeaux-le-26-fevrier/29
+ 34)\n\n**Auberge espagnole** : apportez à boire et à manger que vous vou
+ drez bien partager avec les autres participant.e.s.\n\nCommunauté: bordea
+ ux-python-meetup\n💻 Événement en ligne
+TZID:Europe/Paris
+URL:https://www.meetup.com/py-bdx/events/313276455/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bordeaux Python meetup 2025.1
 DTSTART;TZID=Europe/Paris:20250617T183000
 DTEND;TZID=Europe/Paris:20250617T203000
 UID:https://www.meetup.com/py-bdx/events/308081760/@community-events
-DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/308081760/\n📍 SII
- \, 3 impasse Rudolf Diesel\, Mérignac (tram A)\n\n![Image](https://github
- .com/user-attachments/assets/3d0f6836-fc74-4456-b21d-5907a05c5c04)\n\n- à
-  19:00 : **Marimo : des notebooks Python pour remplacer les notebooks Jupy
- ter** (Jean-Luc Charles\, consultant IA et data processing)\n- à 19:30 : 
- **Les descripteurs Python : maitrisez l'art du contrôle des attributs** (
- Luis Iglesias Hernandez\, machine learning engineer chez ACC)\n\nPrésenta
- tions suivies d'un moment convivial avec des pizzas et goodies\n\nLe meetu
- p est ouvert à [tou.te.s](http://tou.te.s/) les pythonistes novices ou co
- nfirmé.e.s.\n\nNous serons reçu par SII Nouvelle Aquitaine dans ses loca
- ux de Mérignac.\nIl est impératif de RSVP sur meetup.com au plus tard le
-  13 juin.\n\nCommunauté: bordeaux-python-meetup
-LOCATION:SII\, 3 impasse Rudolf Diesel\, Mérignac (tram A)
+DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/308081760/\n\n![Imag
+ e](https://github.com/user-attachments/assets/3d0f6836-fc74-4456-b21d-5907
+ a05c5c04)\n\n- à 19:00 : **Marimo : des notebooks Python pour remplacer l
+ es notebooks Jupyter** (Jean-Luc Charles\, consultant IA et data processin
+ g)\n- à 19:30 : **Les descripteurs Python : maitrisez l'art du contrôle 
+ des attributs** (Luis Iglesias Hernandez\, machine learning engineer chez 
+ ACC)\n\nPrésentations suivies d'un moment convivial avec des pizzas et go
+ odies\n\nLe meetup est ouvert à [tou.te.s](http://tou.te.s/) les pythonis
+ tes novices ou confirmé.e.s.\n\nNous serons reçu par SII Nouvelle Aquita
+ ine dans ses locaux de Mérignac.\nIl est impératif de RSVP sur meetup.co
+ m au plus tard le 13 juin.\n\nCommunauté: bordeaux-python-meetup
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/308081760/
 END:VEVENT
@@ -2502,7 +2520,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/304470904/\n📍 Nod
  illons de RSVP au plus tôt.\nNous serons reçus au Node par **Aquinum**\,
   et **Seyos** nous offrira à boire et à manger pour passer un moment con
  vivial. Merci à eux ainsi qu'à nos deux intervenants.\n\nCommunauté: bo
- rdeaux-python-meetup\n👥 38 participant(s)
+ rdeaux-python-meetup
 LOCATION:Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/304470904/
@@ -2524,7 +2542,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/300614701/\n📍 Nod
  ées\, nous vous conseillons de RSVP au plus tôt.\nNous serons reçu au N
  ode par **Aquinum**\, et **Seyos** nous offrira à boire et à manger pour
   passer un moment convivial. Merci à eux ainsi qu'à nos deux intervenant
- s.\n\nCommunauté: bordeaux-python-meetup\n👥 41 participant(s)
+ s.\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/300614701/
@@ -2541,7 +2559,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/289726289/\n📍 Bâ
  inscrire comme visiteur\, rendez-vous sur https://www.pycon.fr/2023/fr/sch
  edule.html#register\nPour animer un atelier\, une conférence ou tout simp
  lement devenir bénévole sur place\, rendez-vous sur https://cfp-2023.pyc
- on.fr/\n\nCommunauté: bordeaux-python-meetup\n👥 14 participant(s)
+ on.fr/\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Bâtiment Licence - A22\, \, Talence\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/289726289/
@@ -2566,7 +2584,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/263669824/\n📍 The
  r tout le monde. Je vous encourage néanmoins à confirmer votre présence
   directement sur https://www.meetup.com/software-craftsmanship-bdx/events/
  263222676/\nMerci à tou·te·s et à bientôt. Chaleureusement\,Damien \;
- -)\n\nCommunauté: bordeaux-python-meetup\n👥 8 participant(s)
+ -)\n\nCommunauté: bordeaux-python-meetup
 LOCATION:The Market Tavern\, 15 Rue Rode\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/263669824/
@@ -2594,7 +2612,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/256121895/\n📍 Nod
  mais pas que)\, aura lieu avec un petit exemple live avec l'utilisation de
  s serveurs publiques (sous réserve).\nMQTT: http://mqtt.org/\nEt à la fi
  n un apéro conviviale pour clore la session !\n\nCommunauté: bordeaux-py
- thon-meetup\n👥 14 participant(s)
+ thon-meetup
 LOCATION:Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/256121895/
@@ -2634,8 +2652,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/249592838/\n📍 Le
  t et ce\, sans aucun dédommagement possible de la part des organisateurs
  ·rices.\nPour la version longue\, c'est sur le site officiel: https://dja
  ngogirls.org/pages/coc-fr/\n• What to bring\n• Important to know\n\nCo
- mmunauté: bordeaux-python-meetup\n👥 11 participant(s)\nLimité à 35 p
- laces
+ mmunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/249592838/
@@ -2677,7 +2694,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/248168016/\n📍 Le
  s de l'évènement et ce\, sans aucun dédommagement possible de la part d
  es organisateurs·rices.\nPour la version longue\, c'est sur le site offic
  iel: https://djangogirls.org/pages/coc-fr/\n\nCommunauté: bordeaux-python
- -meetup\n👥 18 participant(s)
+ -meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/248168016/
@@ -2703,8 +2720,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/247587158/\n📍 Le
  ging ou sequential et aurez quelques exemples reproductibles de visualisat
  ion de données.\nCette présentation convient à tout type de profil (dé
  butant\, intermédiaire\, experte\, ...). La suite de la présentation don
- nera lieu à un apéro convivial !\n\nCommunauté: bordeaux-python-meetup\
- n👥 49 participant(s)\nLimité à 50 places
+ nera lieu à un apéro convivial !\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/247587158/
@@ -2746,7 +2762,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/247151241/\n📍 Le
  s de l'évènement et ce\, sans aucun dédommagement possible de la part d
  es organisateurs·rices.\nPour la version longue\, c'est sur le site offic
  iel: https://djangogirls.org/pages/coc-fr/\n\nCommunauté: bordeaux-python
- -meetup\n👥 26 participant(s)
+ -meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/247151241/
@@ -2788,7 +2804,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/246115013/\n📍 Le
  s de l'évènement et ce\, sans aucun dédommagement possible de la part d
  es organisateurs·rices.\nPour la version longue\, c'est sur le site offic
  iel: https://djangogirls.org/pages/coc-fr/\n\nCommunauté: bordeaux-python
- -meetup\n👥 16 participant(s)
+ -meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/246115013/
@@ -2826,7 +2842,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/245464004/\n📍 Le
  nt et ce\, sans aucun dédommagement possible de la part des organisateurs
  ·rices.\nPour la version longue\, c'est sur le site officiel: https://dja
  ngogirls.org/pages/coc-fr/<a href="https://djangogirls.org/pages/coc/"></a
- >\n\nCommunauté: bordeaux-python-meetup\n👥 18 participant(s)
+ >\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/245464004/
@@ -2862,7 +2878,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/244747708/\n📍 Le
  ement possible de la part des organisateurs·rices.\nPour la version longu
  e\, c'est sur le site officiel: https://djangogirls.org/pages/coc-fr/<a hr
  ef="https://djangogirls.org/pages/coc/"></a>\n\nCommunauté: bordeaux-pyth
- on-meetup\n👥 20 participant(s)
+ on-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/244747708/
@@ -2898,7 +2914,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/240728025/\n📍 Le
  ent possible de la part des organisateurs·rices.\nPour la version longue\
  , c'est sur le site officiel: https://djangogirls.org/pages/coc-fr/<a href
  ="https://djangogirls.org/pages/coc/"></a>\n\nCommunauté: bordeaux-python
- -meetup\n👥 14 participant(s)
+ -meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/240728025/
@@ -2933,8 +2949,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/240384835/\n📍 Le
  e l'évènement et ce\, sans aucun dédommagement possible de la part des 
  organisateurs·rices.\nPour la version longue\, c'est sur le site officiel
  : https://djangogirls.org/pages/coc-fr/<a href="https://djangogirls.org/pa
- ges/coc/"></a>\n\nCommunauté: bordeaux-python-meetup\n👥 12 participant
- (s)
+ ges/coc/"></a>\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/240384835/
@@ -2969,8 +2984,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/238836345/\n📍 Le
  e l'évènement et ce\, sans aucun dédommagement possible de la part des 
  organisateurs·rices.\nPour la version longue\, c'est sur le site officiel
  : https://djangogirls.org/pages/coc-fr/<a href="https://djangogirls.org/pa
- ges/coc/"></a>\n\nCommunauté: bordeaux-python-meetup\n👥 9 participant(
- s)
+ ges/coc/"></a>\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/238836345/
@@ -3006,8 +3020,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/238380531/\n📍 Le
  u·e·s de l'évènement et ce\, sans aucun dédommagement possible de la 
  part des organisateurs·rices.\nPour la version longue\, c'est sur le site
   officiel: https://djangogirls.org/pages/coc-fr/<a href="https://djangogir
- ls.org/pages/coc/"></a>\n\nCommunauté: bordeaux-python-meetup\n👥 17 pa
- rticipant(s)
+ ls.org/pages/coc/"></a>\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/238380531/
@@ -3038,8 +3051,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/238293674/\n📍 Le
  t to perform a simple data analysis. There will be a live demo at the end 
  of the talk.\nUne présentation "légère" suivra sur le thème "il existe
   une fonction pour ça !". Et comme d'habitude\, nous finirons par un apé
- ro convivial !!\n\nCommunauté: bordeaux-python-meetup\n👥 19 participan
- t(s)
+ ro convivial !!\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/238293674/
@@ -3075,7 +3087,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/236826307/\n📍 Le
  ommagement possible de la part des organisateurs·rices.\nPour la version 
  longue\, c'est sur le site officiel: https://djangogirls.org/pages/coc-fr/
  <a href="https://djangogirls.org/pages/coc/"></a>\n\nCommunauté: bordeaux
- -python-meetup\n👥 16 participant(s)
+ -python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/236826307/
@@ -3104,8 +3116,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/236606920/\n📍 Le
  ésitez pas à mettre des liens d'articles\, projets ou vidéos que vous a
  vez vus récemment dans la section What's Up du framapad https://annuel.fr
  amapad.org/p/py-bdx\nComme à l'accoutumée\, nous finirons ce meetup par 
- un sympathique apéro.\n\nCommunauté: bordeaux-python-meetup\n👥 30 par
- ticipant(s)
+ un sympathique apéro.\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/236606920/
@@ -3141,7 +3152,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/236098698/\n📍 Le
  ommagement possible de la part des organisateurs·rices.\nPour la version 
  longue\, c'est sur le site officiel: https://djangogirls.org/pages/coc-fr/
  <a href="https://djangogirls.org/pages/coc/"></a>\n\nCommunauté: bordeaux
- -python-meetup\n👥 13 participant(s)
+ -python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/236098698/
@@ -3178,7 +3189,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/235645273/\n📍 Le
  ènement et ce\, sans aucun dédommagement possible de la part des organis
  ateurs·rices.\nPour la version longue\, c'est sur le site officiel: https
  ://djangogirls.org/pages/coc-fr/<a href="https://djangogirls.org/pages/coc
- /"></a>\n\nCommunauté: bordeaux-python-meetup\n👥 14 participant(s)
+ /"></a>\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/235645273/
@@ -3210,7 +3221,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/235149134/\n📍 Le
  clu·e·s de l'évènement et ce\, sans aucun dédommagement possible de l
  a part des organisateurs·rices.\nPour la version longue\, c'est sur le si
  te officiel: https://djangogirls.org/pages/coc/\n\nCommunauté: bordeaux-p
- ython-meetup\n👥 22 participant(s)
+ ython-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/235149134/
@@ -3238,7 +3249,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/234773390/\n📍 Le
  spect de la bibliothèque que vous n'utilisez pas (encore).\nCe tutoriel p
  andas sera suivi par le p'tit apéro convivial qui va bien !\n[1] http://p
  andas.pydata.org/\n[2] http://jupyter.org/\n\nCommunauté: bordeaux-pytho
- n-meetup\n👥 36 participant(s)
+ n-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/234773390/
@@ -3263,8 +3274,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/231686557/\n📍 Le
   le Framapad dédié https://annuel.framapad.org/p/py-bdx\nLe meetup est 
  ouvert au format court\, présentation de 5 à 10 minutes\, sur un sujet P
  ython qui vous plaît.\nNous finirons le meetup avec le p'tit apéro convi
- vial qui va bien !\n\nCommunauté: bordeaux-python-meetup\n👥 25 partici
- pant(s)
+ vial qui va bien !\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/231686557/
@@ -3285,7 +3295,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/231038436/\n📍 Le
  uants depuis la dernière fois dans le pad dédié au meetup dans la secti
  on "What's Up" : https://annuel.framapad.org/p/py-bdx Et on finira ce mee
  tup avec un p'tit apéro sympathique.\n\nCommunauté: bordeaux-python-mee
- tup\n👥 27 participant(s)
+ tup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/231038436/
@@ -3303,7 +3313,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/228877726/\n📍 Le
  p de bonne humeur.\nN'oubliez pas de remplir les articles\, vidéos ou pro
  jets qui ont attiré votre attention ces dernières semaines dans la secti
  on "What's Up" du pad dédié au meetup https://annuel.framapad.org/p/py-b
- dx\n\nCommunauté: bordeaux-python-meetup\n👥 26 participant(s)
+ dx\n\nCommunauté: bordeaux-python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/228877726/
@@ -3326,7 +3336,7 @@ DESCRIPTION:🔗 https://www.meetup.com/py-bdx/events/228109596/\n📍 Le
  ccasion d'échanger sur l'utilisation de Python :ce que vous faites ou sou
  haitez faire. Venez avec vos sujets et vos envies.\nLe meetup sera suivi d
  'un p'tit apéro pour continuer les discussions.\n\nCommunauté: bordeaux-
- python-meetup\n👥 22 participant(s)
+ python-meetup
 LOCATION:Le Node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/228109596/
