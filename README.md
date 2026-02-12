@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 11 février 2026 à 18:45 | [bordeaux-aperops](bordeaux-aperops/) | [Data, qualité & Projets qui Passent à l’Echelle](https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/312975150/) | 5, rue de Condé, 33000 Bordeaux, Bordeaux |
 | Mercredi 18 février 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#64 : Mots de passe, SSO et Passkeys - l’authentification moderne en PHP](https://www.meetup.com/bordeaux-php-meetup/events/313037197/) | 12 Rue des Faussets, Bordeaux |
 | Mercredi 25 février 2026 à 18:30 | [data-for-good](data-for-good/) | [Fresque du Numérique](https://www.eventbrite.fr/e/fresque-du-numerique-x-data-for-good-bordeaux-tickets-1982496539517?aff=oddtdtcreator) | Le node, Rue des Faussets, Bordeaux, France |
+| Jeudi 26 février 2026 à 18:30 | [bordeaux-python-meetup](bordeaux-python-meetup/) | [Bordeaux Python Meetup 2026.1](https://www.meetup.com/py-bdx/events/313276455/) | Online |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

@@ -90,13 +90,15 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-aperops/events.ics](/bordeaux-aperops/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mercredi 11 février 2026 à 18:45 | Data, qualité & Projets qui Passent à l’Echelle | 5, rue de Condé, 33000 Bordeaux, Bordeaux | https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/312975150/ |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>
