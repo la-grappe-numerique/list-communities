@@ -255,17 +255,6 @@
     ]
   },
   {
-    "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
-    "date": "2026-01-28T18:30:00",
-    "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
-    "description": "Meetup Rétro 25 & Perspective 26 + Présentation Flash\n4ère Rencontre de la communauté XR Bordelaise autour des technologies immersives !\n\nRejoignez-nous pour une soirée conviviale et enrichissante :\n\n🎤 Présentations Flash ⚡\n🧑🏻‍🏫 Rétrospective 2025 et perspective 2026\n✨ Zone de Démo : Vous avez un projet XR à montrer ? C'est l'endroit idéal !\n🍕 Apéro Networking 🍷: pour échanger dans une ambiance conviviale ! Si vous le pouvez apportez de quoi grignoter ou boire.\n\n\n📍Le Node, 12 Rue des Faussets, Bordeaux - 🗓️28/01 - 🕐 18:30",
-    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
-    "is_online": false,
-    "communities": [
-      "bordeaux-xr"
-    ]
-  },
-  {
     "title": "Bière Agile de Bordeaux - Bonne année!",
     "date": "2026-01-28T18:30:00",
     "url": "https://www.linkedin.com/events/7416947844756127744/",
@@ -274,6 +263,17 @@
     "is_online": false,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
+    "date": "2026-01-28T18:30:00",
+    "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
+    "description": "Meetup Rétro 25 & Perspective 26 + Présentation Flash\n4ère Rencontre de la communauté XR Bordelaise autour des technologies immersives !\n\nRejoignez-nous pour une soirée conviviale et enrichissante :\n\n🎤 Présentations Flash ⚡\n🧑🏻‍🏫 Rétrospective 2025 et perspective 2026\n✨ Zone de Démo : Vous avez un projet XR à montrer ? C'est l'endroit idéal !\n🍕 Apéro Networking 🍷: pour échanger dans une ambiance conviviale ! Si vous le pouvez apportez de quoi grignoter ou boire.\n\n\n📍Le Node, 12 Rue des Faussets, Bordeaux - 🗓️28/01 - 🕐 18:30",
+    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeaux-xr"
     ]
   },
   {
@@ -771,6 +771,16 @@
     ]
   },
   {
+    "title": "DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA",
+    "date": "2025-10-15T18:30:00",
+    "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",
+    "description": "### Événement Bordeaux ApérOps #2\n\nDescription :\nPour ce deuxième rendez-vous Bordeaux ApérOps, nous vous proposons une soirée double thématique autour de la data et de l’IA :\n\n### ⚙️dbt : Garantissez la Qualité de vos Données Grâce à des Tests Robustes\n\n🎤 Jérémy Nadal - Data Engineer @Ippon Technologies\n\n### 🪴 Comment estimer l'empreinte carbone d'un modèle d'IA de l'entraînement à la mise en production\n\n🎤 Sonia Tabti, PhD - Computer Vision & VLM Expert\n\n🍻 Comme toujours, échanges, retours d’expérience et convivialité autour d’un apéro !\nRejoignez-nous pour une soirée qui mêle rigueur technique et réflexion responsable, à l’image de la communauté DataOps & MLOps bordelaise.",
+    "is_online": false,
+    "communities": [
+      "aperops-dataops-mlops"
+    ]
+  },
+  {
     "title": "Bière Agile de Bordeaux",
     "date": "2025-10-15T18:30:00",
     "url": "https://www.linkedin.com/events/bi-reagiledebordeaux7380175331695087616/",
@@ -779,16 +789,6 @@
     "is_online": false,
     "communities": [
       "agile-bordeaux"
-    ]
-  },
-  {
-    "title": "DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA",
-    "date": "2025-10-15T18:30:00",
-    "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",
-    "description": "### Événement Bordeaux ApérOps #2\n\nDescription :\nPour ce deuxième rendez-vous Bordeaux ApérOps, nous vous proposons une soirée double thématique autour de la data et de l’IA :\n\n### ⚙️dbt : Garantissez la Qualité de vos Données Grâce à des Tests Robustes\n\n🎤 Jérémy Nadal - Data Engineer @Ippon Technologies\n\n### 🪴 Comment estimer l'empreinte carbone d'un modèle d'IA de l'entraînement à la mise en production\n\n🎤 Sonia Tabti, PhD - Computer Vision & VLM Expert\n\n🍻 Comme toujours, échanges, retours d’expérience et convivialité autour d’un apéro !\nRejoignez-nous pour une soirée qui mêle rigueur technique et réflexion responsable, à l’image de la communauté DataOps & MLOps bordelaise.",
-    "is_online": false,
-    "communities": [
-      "aperops-dataops-mlops"
     ]
   },
   {
@@ -1329,6 +1329,23 @@
     ]
   },
   {
+    "title": "Elasticsearch Query Language: ES|QL",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
+    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "Super-Apéro 2025",
     "date": "2025-03-20T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
@@ -1346,10 +1363,10 @@
     ]
   },
   {
-    "title": "Elasticsearch Query Language: ES|QL",
-    "date": "2025-03-20T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
-    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
+    "title": "Assemblée Générales 2025",
+    "date": "2025-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
+    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
     "is_online": false,
     "venue": {
       "name": "ENSEIRB",
@@ -1377,23 +1394,6 @@
     "location": "20 rue Saint-François, Bordeaux",
     "communities": [
       "cloud-native-bordeaux"
-    ]
-  },
-  {
-    "title": "Assemblée Générales 2025",
-    "date": "2025-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
-    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
     ]
   },
   {
@@ -1956,23 +1956,6 @@
     ]
   },
   {
-    "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
-    "date": "2024-09-26T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
-    "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\nPour l'occasion, nous aurons le plaisir d'accueillir 2 speakeurs•euses qui nous présenterons en avant première avant le grand jour au [Forum PHP 2024](https://event.afup.org/) leurs talks respectifs 🎉\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nLa parole aux speakeurs•euses 📣\n**\\#\\#\\#\\# StandAAArdisez vos tests \\!**Par **Nerea Enrique**, ingénieure PHP chez **ekino**\n*Une bonne partie de notre travail consiste à lire et écrire des tests. Mais comment les unifier tout en gardant la maintenabilité et la robustesse ?**Une partie de la réponse pourrait bien se trouver dans le pattern AAA !*\n*Le pattern AAA (Arrange, Act, Assert) est une approche qui permet de structurer l’écriture de tests unitaires. Cela peut améliorer la qualité de notre code en nous forçant à écrire des tests concis et focalisés, ce qui rend le code plus facile à comprendre et à déboguer. Cependant, comme toute approche, le pattern AAA a aussi ses défis. Par exemple, il peut être difficile d’appliquer ce pattern dans des scénarios complexes.*\n*Voyons comment ce pattern peut simplifier notre écriture de tests !*\n**\\#\\#\\#\\# La goutte d’eau qui fait déborder le Cloud**Par **Julien Joye**, ingénieur PHP chez **ekino**\n*Vous déployez votre application Symfony bien architecturée en micro-services sur une infra kubernetes, trop bien !*\n*Mais avez-vous déjà essayé de faire tourner Drupal sur le même type d’infra ?*\n*Ça peut paraître trivial ; pourtant deux mentalités bien différentes viennent se confronter l’une à l’autre. Quand Drupal peut envoyer 800 requêtes SQL sur un cold start, ou faire transiter des téraoctets de données redis sur le réseau par mois, est-ce que k8s est toujours la solution ?*\n*Dans cette conférence, je vous fais un petit rappel de ce qu’est k8s, vous montre pourquoi Drupal (ou l’infra) peut devenir votre pire ennemi dans ce contexte, et comment éviter certains pièges.*",
-    "is_online": false,
-    "venue": {
-      "name": "HEMERA",
-      "address": "1 cours Xavier Arnozan, ",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 cours Xavier Arnozan, , Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Design First : OpenApi et AsyncApi en action !",
     "date": "2024-09-26T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
@@ -1987,6 +1970,23 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
+    "date": "2024-09-26T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
+    "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\nPour l'occasion, nous aurons le plaisir d'accueillir 2 speakeurs•euses qui nous présenterons en avant première avant le grand jour au [Forum PHP 2024](https://event.afup.org/) leurs talks respectifs 🎉\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nLa parole aux speakeurs•euses 📣\n**\\#\\#\\#\\# StandAAArdisez vos tests \\!**Par **Nerea Enrique**, ingénieure PHP chez **ekino**\n*Une bonne partie de notre travail consiste à lire et écrire des tests. Mais comment les unifier tout en gardant la maintenabilité et la robustesse ?**Une partie de la réponse pourrait bien se trouver dans le pattern AAA !*\n*Le pattern AAA (Arrange, Act, Assert) est une approche qui permet de structurer l’écriture de tests unitaires. Cela peut améliorer la qualité de notre code en nous forçant à écrire des tests concis et focalisés, ce qui rend le code plus facile à comprendre et à déboguer. Cependant, comme toute approche, le pattern AAA a aussi ses défis. Par exemple, il peut être difficile d’appliquer ce pattern dans des scénarios complexes.*\n*Voyons comment ce pattern peut simplifier notre écriture de tests !*\n**\\#\\#\\#\\# La goutte d’eau qui fait déborder le Cloud**Par **Julien Joye**, ingénieur PHP chez **ekino**\n*Vous déployez votre application Symfony bien architecturée en micro-services sur une infra kubernetes, trop bien !*\n*Mais avez-vous déjà essayé de faire tourner Drupal sur le même type d’infra ?*\n*Ça peut paraître trivial ; pourtant deux mentalités bien différentes viennent se confronter l’une à l’autre. Quand Drupal peut envoyer 800 requêtes SQL sur un cold start, ou faire transiter des téraoctets de données redis sur le réseau par mois, est-ce que k8s est toujours la solution ?*\n*Dans cette conférence, je vous fais un petit rappel de ce qu’est k8s, vous montre pourquoi Drupal (ou l’infra) peut devenir votre pire ennemi dans ce contexte, et comment éviter certains pièges.*",
+    "is_online": false,
+    "venue": {
+      "name": "HEMERA",
+      "address": "1 cours Xavier Arnozan, ",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 cours Xavier Arnozan, , Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -2618,23 +2618,6 @@
     ]
   },
   {
-    "title": "Super-Apéro 2024",
-    "date": "2024-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
-    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
-    "is_online": false,
-    "venue": {
-      "name": "38 Rue Capdeville",
-      "address": "38 Rue Capdeville",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "38 Rue Capdeville, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Atelier du PO #5 : Lean Coffee",
     "date": "2024-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/299637290/",
@@ -2651,6 +2634,23 @@
     "rsvp_count": 9,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Super-Apéro 2024",
+    "date": "2024-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
+    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
+    "is_online": false,
+    "venue": {
+      "name": "38 Rue Capdeville",
+      "address": "38 Rue Capdeville",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "38 Rue Capdeville, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -4862,16 +4862,6 @@
     ]
   },
   {
-    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
-    "date": "2020-09-30T18:30:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
-    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
-    "is_online": true,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
     "date": "2020-09-30T18:30:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
@@ -4879,6 +4869,16 @@
     "is_online": true,
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
+    "date": "2020-09-30T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
+    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
+    "is_online": true,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -6474,23 +6474,6 @@
     ]
   },
   {
-    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
-    "date": "2019-01-24T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
-    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
-    "is_online": false,
-    "venue": {
-      "name": "Le Zytho",
-      "address": "28 Rue Latour",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "28 Rue Latour, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Agile Bordeaux 19.1",
     "date": "2019-01-24T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
@@ -6506,6 +6489,23 @@
     "rsvp_count": 43,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
+    "date": "2019-01-24T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
+    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
+    "is_online": false,
+    "venue": {
+      "name": "Le Zytho",
+      "address": "28 Rue Latour",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "28 Rue Latour, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -9101,23 +9101,6 @@
     ]
   },
   {
-    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
-    "date": "2017-09-21T19:00:00+02:00",
-    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
-    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "okiwi"
-    ]
-  },
-  {
     "title": "AperoJS",
     "date": "2017-09-21T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/243276773/",
@@ -9133,6 +9116,23 @@
     "rsvp_count": 21,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
+    "date": "2017-09-21T19:00:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
+    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "okiwi"
     ]
   },
   {
@@ -10286,23 +10286,6 @@
     ]
   },
   {
-    "title": "Python Bordeaux #7 : données géospatiales",
-    "date": "2017-03-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/py-bdx/events/238293674/",
-    "description": "Nous accueillons pour ce meetup Yassine qui viendra nous parler de données géospatiales et de SIG (Système d'Information Géographique) en Python.\nFaisons du SIG avec Python !\nTravailler avec des données géolocalisées est une tâche difficile. En effet, entre apprendre la manipulation de logiciels propriétaires (pensez Arcgis) et trouver la meilleure façon de les intégrer à votre « stack » technologique actuelle n'est jamais facile. Heureusement, Python possède un ensemble de bibliothèques SIG qui rend le travail avec des données géolocalisées plus facile et agréable. Dans cette présentation, je vous montrerais rapidement les outils SIG qu’offre Python et comment s’en servir pour effectuer une analyse de données. Il y aura une démo interactive à la fin.\nLet’s do some GIS with Python!\nWorking with geolocated data can be a hard task. In fact, between learning proprietary software (think Arcgis) and finding the best way to integrate them with your current technology stack is no easy feat. Fortunately, Python has a complete GIS stack that makes working with geolocated data a breeze. In this talk, I will quickly present the Python GIS stack and how to use it to perform a simple data analysis. There will be a live demo at the end of the talk.\nUne présentation \"légère\" suivra sur le thème \"il existe une fonction pour ça !\". Et comme d'habitude, nous finirons par un apéro convivial !!",
-    "is_online": false,
-    "venue": {
-      "name": "Le Node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "bordeaux-python-meetup"
-    ]
-  },
-  {
     "title": "TypeScript : dès lundi sur votre App Legacy",
     "date": "2017-03-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
@@ -10317,6 +10300,23 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Python Bordeaux #7 : données géospatiales",
+    "date": "2017-03-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/py-bdx/events/238293674/",
+    "description": "Nous accueillons pour ce meetup Yassine qui viendra nous parler de données géospatiales et de SIG (Système d'Information Géographique) en Python.\nFaisons du SIG avec Python !\nTravailler avec des données géolocalisées est une tâche difficile. En effet, entre apprendre la manipulation de logiciels propriétaires (pensez Arcgis) et trouver la meilleure façon de les intégrer à votre « stack » technologique actuelle n'est jamais facile. Heureusement, Python possède un ensemble de bibliothèques SIG qui rend le travail avec des données géolocalisées plus facile et agréable. Dans cette présentation, je vous montrerais rapidement les outils SIG qu’offre Python et comment s’en servir pour effectuer une analyse de données. Il y aura une démo interactive à la fin.\nLet’s do some GIS with Python!\nWorking with geolocated data can be a hard task. In fact, between learning proprietary software (think Arcgis) and finding the best way to integrate them with your current technology stack is no easy feat. Fortunately, Python has a complete GIS stack that makes working with geolocated data a breeze. In this talk, I will quickly present the Python GIS stack and how to use it to perform a simple data analysis. There will be a live demo at the end of the talk.\nUne présentation \"légère\" suivra sur le thème \"il existe une fonction pour ça !\". Et comme d'habitude, nous finirons par un apéro convivial !!",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "bordeaux-python-meetup"
     ]
   },
   {
