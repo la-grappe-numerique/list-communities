@@ -1,0 +1,11 @@
+[
+  {
+    "title": "🗺️ Cartopartie OSM - Cartographie des bâtiments quartier Victor Hugo",
+    "date": "2026-02-24T18:00:00",
+    "url": "https://forum.openstreetmap.fr/t/cartopartie-la-semaine-du-19-02/40654",
+    "description": "**Une cartopartie ? Mais qu'est-ce que c'est au juste ?** 🤔\n\nUne cartopartie, c’est un moment d’échange et de convivialité où on se retrouve pour améliorer ensemble la base de données d’OpenStreetMap (OSM). Ces rencontres sont importantes pour faire non seulement vivre la communauté mais aussi pour améliorer la qualité des données. Vous pourrez ainsi contribuer avec d’autres utilisateurs et partager des connaissances et des informations.\n\nQue vous soyez un doyen ou un nouveau contributeur d’OSM, tout le monde est le bienvenu à cette cartopartie !\n\n**Au programme de cette cartopartie :** 📅\n\nOn se donne rendez-vous le 24/02 à 18h place de la victoire (près de la tortue).\nL’objectif sera de compléter un maximum d’information sur les bâtiments du quartier.\nLe périmètre est défini sur cette carte [uMaps](https://umap.openstreetmap.fr/fr/map/cartopartie-n2-groupe-de-bordeaux_1350532#15/44.832836/-0.572877).\n\nNous utiliserons principalement le tag building et vous pouvez retrouver toutes les informations sur ce tag dans le [wiki](https://wiki.openstreetmap.org/wiki/Key:building).\n\n**Comment contribuer ?** 🙌\n\nIl est conseillé aux contributeurs d'installer avant la cartopartie l'application [OsmAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=fr&pli=1) ou [StreetComplete](https://streetcomplete.app/?lang=fr) pour les utilisateurs Android et [Go Map !!](https://apps.apple.com/us/app/go-map/id592990211) pour les utilisateurs iOS.\n\nLes nouveaux contributeurs seront accompagnés tout au long de la cartopartie, mais vous pouvez dès à présent apprendre à contribuer sur le site [LearnOSM](https://learnosm.org/fr/beginner/).\n\n**Pour suivre les actualités d'OSM France, vous pouvez nous rejoindre sur le [forum](https://forum.openstreetmap.fr/)**.",
+    "community": "openstreetmap-bordeaux",
+    "location": "Place de la victoire - Autour de la tortue 🐢",
+    "is_online": false
+  }
+]
