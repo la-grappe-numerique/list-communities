@@ -1,5 +1,20 @@
 [
   {
+    "title": "Spring AI en action : intégrer les capacités des LLM dans vos applications Java",
+    "date": "2026-02-26T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/313356172/",
+    "description": "L’IA générative est de plus en plus présente dans nos applications, et plusieurs solutions existent déjà pour l’utiliser. Mais lorsqu’il s’agit d’intégrer un LLM dans une application Java, des questions très concrètes se posent : comment structurer les échanges avec le modèle, lui fournir du contexte métier, ou l’amener à interagir proprement avec vos services ? Spring AI répond à ces enjeux en s’appuyant sur le modèle de programmation Spring.\n\nDans cette session, nous présenterons les concepts essentiels : RAG, Function Calling, Tools, Agents et l’arrivée du MCP, en expliquant clairement leur rôle et en montrant comment ils s’utilisent dans la pratique.\nL’objectif n’est pas de réaliser des implémentations complètes, mais d’illustrer chaque pattern avec des exemples simples afin de mieux comprendre l’intégration des LLM dans une application Java.\n\nNous verrons notamment comment :\n\n* un RAG peut enrichir un modèle avec du contexte issu de vos données\n* le Function Calling permet au LLM d’invoquer des fonctions Java typées\n* certains patterns d’agents permettent de coordonner plusieurs étapes de façon structurée\n* et comment le MCP permet aux modèles d’IA d’interagir avec des outils et des ressources externes de manière structurée\n\nCette session offrira une vue d’ensemble pratique et accessible sur la manière d’intégrer les capacités des LLM dans une application Java en utilisant les mécanismes proposés par Spring AI.",
+    "community": "bordeauxjug",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
+  },
+  {
     "title": "Kafka 4, fantastique ?",
     "date": "2026-01-22T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/312859620/",
