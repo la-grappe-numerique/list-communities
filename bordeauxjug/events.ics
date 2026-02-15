@@ -5,6 +5,40 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjug
 X-WR-CALNAME:Événements bordeauxjug
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Spring AI en action : intégrer les capacités des LLM dans vos ap
+ plications Java
+DTSTART;TZID=Europe/Paris:20260226T190000
+DTEND;TZID=Europe/Paris:20260226T210000
+UID:https://www.meetup.com/bordeauxjug/events/313356172/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/313356172/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr\n\nL
+ ’IA générative est de plus en plus présente dans nos applications\, e
+ t plusieurs solutions existent déjà pour l’utiliser. Mais lorsqu’il 
+ s’agit d’intégrer un LLM dans une application Java\, des questions tr
+ ès concrètes se posent : comment structurer les échanges avec le modèl
+ e\, lui fournir du contexte métier\, ou l’amener à interagir propremen
+ t avec vos services ? Spring AI répond à ces enjeux en s’appuyant sur 
+ le modèle de programmation Spring.\n\nDans cette session\, nous présente
+ rons les concepts essentiels : RAG\, Function Calling\, Tools\, Agents et 
+ l’arrivée du MCP\, en expliquant clairement leur rôle et en montrant c
+ omment ils s’utilisent dans la pratique.\nL’objectif n’est pas de r
+ éaliser des implémentations complètes\, mais d’illustrer chaque patte
+ rn avec des exemples simples afin de mieux comprendre l’intégration des
+  LLM dans une application Java.\n\nNous verrons notamment comment :\n\n* u
+ n RAG peut enrichir un modèle avec du contexte issu de vos données\n* le
+  Function Calling permet au LLM d’invoquer des fonctions Java typées\n*
+  certains patterns d’agents permettent de coordonner plusieurs étapes d
+ e façon structurée\n* et comment le MCP permet aux modèles d’IA d’i
+ nteragir avec des outils et des ressources externes de manière structuré
+ e\n\nCette session offrira une vue d’ensemble pratique et accessible sur
+  la manière d’intégrer les capacités des LLM dans une application Jav
+ a en utilisant les mécanismes proposés par Spring AI.\n\nCommunauté: bo
+ rdeauxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/313356172/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kafka 4\, fantastique ?
 DTSTART;TZID=Europe/Paris:20260122T190000
 DTEND;TZID=Europe/Paris:20260122T210000
