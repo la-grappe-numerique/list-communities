@@ -6,5 +6,7 @@ OpenStreetMap crée et fournit des données géographiques libres, telles que de
 <!-- EVENTS:START -->
 ## 📅 Upcoming Events
 
-## 📆 Past Events
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 24 février 2026 à 18:00 | 🗺️ Cartopartie OSM - Cartographie des bâtiments quartier Victor Hugo | Place de la victoire - Autour de la tortue 🐢 | https://forum.openstreetmap.fr/t/cartopartie-la-semaine-du-19-02/40654 |
 <!-- EVENTS:END -->

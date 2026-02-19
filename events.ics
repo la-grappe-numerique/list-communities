@@ -12981,6 +12981,45 @@ URL:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
  quiz-mobile-pub-quiz-get-together-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🗺️ Cartopartie OSM - Cartographie des bâtiments quartier Vic
+ tor Hugo
+DTSTART;TZID=Europe/Paris:20260224T180000
+DTEND;TZID=Europe/Paris:20260224T200000
+UID:https://forum.openstreetmap.fr/t/cartopartie-la-semaine-du-19-02/40654
+ @community-events
+DESCRIPTION:🔗 https://forum.openstreetmap.fr/t/cartopartie-la-semaine-d
+ u-19-02/40654\n📍 Place de la victoire - Autour de la tortue 🐢\n\n**U
+ ne cartopartie ? Mais qu'est-ce que c'est au juste ?** 🤔\n\nUne cartopa
+ rtie\, c’est un moment d’échange et de convivialité où on se retrou
+ ve pour améliorer ensemble la base de données d’OpenStreetMap (OSM). C
+ es rencontres sont importantes pour faire non seulement vivre la communaut
+ é mais aussi pour améliorer la qualité des données. Vous pourrez ainsi
+  contribuer avec d’autres utilisateurs et partager des connaissances et 
+ des informations.\n\nQue vous soyez un doyen ou un nouveau contributeur d
+ ’OSM\, tout le monde est le bienvenu à cette cartopartie !\n\n**Au prog
+ ramme de cette cartopartie :** 📅\n\nOn se donne rendez-vous le 24/02 à
+  18h place de la victoire (près de la tortue).\nL’objectif sera de comp
+ léter un maximum d’information sur les bâtiments du quartier.\nLe pér
+ imètre est défini sur cette carte [uMaps](https://umap.openstreetmap.fr/
+ fr/map/cartopartie-n2-groupe-de-bordeaux_1350532#15/44.832836/-0.572877).\
+ n\nNous utiliserons principalement le tag building et vous pouvez retrouve
+ r toutes les informations sur ce tag dans le [wiki](https://wiki.openstree
+ tmap.org/wiki/Key:building).\n\n**Comment contribuer ?** 🙌\n\nIl est co
+ nseillé aux contributeurs d'installer avant la cartopartie l'application 
+ [OsmAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=fr&pl
+ i=1) ou [StreetComplete](https://streetcomplete.app/?lang=fr) pour les uti
+ lisateurs Android et [Go Map !!](https://apps.apple.com/us/app/go-map/id59
+ 2990211) pour les utilisateurs iOS.\n\nLes nouveaux contributeurs seront a
+ ccompagnés tout au long de la cartopartie\, mais vous pouvez dès à pré
+ sent apprendre à contribuer sur le site [LearnOSM](https://learnosm.org/f
+ r/beginner/).\n\n**Pour suivre les actualités d'OSM France\, vous pouvez 
+ nous rejoindre sur le [forum](https://forum.openstreetmap.fr/)**.\n\nCommu
+ nauté: openstreetmap-bordeaux
+LOCATION:Place de la victoire - Autour de la tortue 🐢
+TZID:Europe/Paris
+URL:https://forum.openstreetmap.fr/t/cartopartie-la-semaine-du-19-02/40654
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IA : Productivité\, Données et réalité
 DTSTART;TZID=Europe/Paris:20260204T180000
 DTEND;TZID=Europe/Paris:20260204T200000
