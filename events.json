@@ -148,6 +148,17 @@
     ]
   },
   {
+    "title": "Découverte des Ordinosaures",
+    "date": "2026-02-19T10:00:00",
+    "url": "https://www.helloasso.com/associations/la-boussole-de-la-tech/evenements/re-decouverte-des-ordinosaures",
+    "description": "La Boussole de la Tech propose dans le cadre de ses activité de préservation du patrimoine informatique et de l'orientation professionnelle des jeunes vers des métiers scientifiques et technologiques, une découverte en famille des ordinosaures.\n\nLes ordinosaures, ces micro-ordinateurs des années 80 qui ont révolutionné le monde de l'informatique familiale et engendré toute une génération d'ingénieur.e.s et de passionnée.e.s en informatique, en intelligence artificielle, en reconnaissance de formes, en cybersécurité, en systèmes embarqués temps réels, en développement de site Web, en Télécommunications et réseau ou encore ........... en jeux vidéos.\n\nTout au long de ces journées, vous y découvrirez des micro-ordinateurs d'une quarantaine d'années : Commodore 64, Amstrad CPC 464 et CPC 6128, Matra-Hachette Alice, Sinclair ZX-Spectrum+2 et ZX-81, Apple IIe et autres TRS-80.\n\nVous vous essayerez au BASIC, un des ancêtres du langage Python et présent sur toutes ces machines (un héritage des compétences techniques et commerciales de Bill Gates lui-même, le fondateur de Microsoft).\n\nSi la disposition le permet, vous pourrez jouer en récompense de vos efforts à quelques jeux d'anthologie des années 80.\n\nVous pourrez même tenter de comprendre et d'expérimenter quelques lignes d'assembleur pour les plus téméraires.\n\nDu 18 au 20 février 2026 de 10h00 à 18h00.\n\nSalle Daguin à Villenave d'Ornon, rue du professeur Daguin, à 100m en face de la médiathèque et après les travaux de la nouvelle salle en construction. Le parking est situé juste après la salle, le long de la double allée.\n\nEntrée libre et gratuite pour venir voir les ordinosaures; ateliers sur réservation avec adhésion ou don à l'association sur place pour les non adhérents.\n\nVenez nombreux.ses et faîtes passer le mot.",
+    "location": "Salle Daguin, rue du professeur Daguin à Villenave d’Ornon, à 100m de la médiathèque (salle et parking le long de la double allée, après les travaux de la nouvelle salle communale)",
+    "is_online": false,
+    "communities": [
+      "la-boussole-de-la-tech"
+    ]
+  },
+  {
     "title": "#64 : Mots de passe, SSO et Passkeys - l’authentification moderne en PHP",
     "date": "2026-02-18T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/313037197/",

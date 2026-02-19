@@ -12167,6 +12167,50 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/218821208/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Découverte des Ordinosaures
+DTSTART;TZID=Europe/Paris:20260219T100000
+DTEND;TZID=Europe/Paris:20260219T120000
+UID:https://www.helloasso.com/associations/la-boussole-de-la-tech/evenemen
+ ts/re-decouverte-des-ordinosaures@community-events
+DESCRIPTION:🔗 https://www.helloasso.com/associations/la-boussole-de-la-
+ tech/evenements/re-decouverte-des-ordinosaures\n📍 Salle Daguin\, rue du
+  professeur Daguin à Villenave d’Ornon\, à 100m de la médiathèque (s
+ alle et parking le long de la double allée\, après les travaux de la nou
+ velle salle communale)\n\nLa Boussole de la Tech propose dans le cadre de 
+ ses activité de préservation du patrimoine informatique et de l'orientat
+ ion professionnelle des jeunes vers des métiers scientifiques et technolo
+ giques\, une découverte en famille des ordinosaures.\n\nLes ordinosaures\
+ , ces micro-ordinateurs des années 80 qui ont révolutionné le monde de 
+ l'informatique familiale et engendré toute une génération d'ingénieur.
+ e.s et de passionnée.e.s en informatique\, en intelligence artificielle\,
+  en reconnaissance de formes\, en cybersécurité\, en systèmes embarqué
+ s temps réels\, en développement de site Web\, en Télécommunications e
+ t réseau ou encore ........... en jeux vidéos.\n\nTout au long de ces jo
+ urnées\, vous y découvrirez des micro-ordinateurs d'une quarantaine d'an
+ nées : Commodore 64\, Amstrad CPC 464 et CPC 6128\, Matra-Hachette Alice\
+ , Sinclair ZX-Spectrum+2 et ZX-81\, Apple IIe et autres TRS-80.\n\nVous vo
+ us essayerez au BASIC\, un des ancêtres du langage Python et présent sur
+  toutes ces machines (un héritage des compétences techniques et commerci
+ ales de Bill Gates lui-même\, le fondateur de Microsoft).\n\nSi la dispos
+ ition le permet\, vous pourrez jouer en récompense de vos efforts à quel
+ ques jeux d'anthologie des années 80.\n\nVous pourrez même tenter de com
+ prendre et d'expérimenter quelques lignes d'assembleur pour les plus tém
+ éraires.\n\nDu 18 au 20 février 2026 de 10h00 à 18h00.\n\nSalle Daguin 
+ à Villenave d'Ornon\, rue du professeur Daguin\, à 100m en face de la m
+ édiathèque et après les travaux de la nouvelle salle en construction. L
+ e parking est situé juste après la salle\, le long de la double allée.\
+ n\nEntrée libre et gratuite pour venir voir les ordinosaures\; ateliers s
+ ur réservation avec adhésion ou don à l'association sur place pour les 
+ non adhérents.\n\nVenez nombreux.ses et faîtes passer le mot.\n\nCommuna
+ uté: la-boussole-de-la-tech
+LOCATION:Salle Daguin\, rue du professeur Daguin à Villenave d’Ornon\, 
+ à 100m de la médiathèque (salle et parking le long de la double allée\
+ , après les travaux de la nouvelle salle communale)
+TZID:Europe/Paris
+URL:https://www.helloasso.com/associations/la-boussole-de-la-tech/evenemen
+ ts/re-decouverte-des-ordinosaures
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Soirée de lancement de la grappe numérique
 DTSTART;TZID=Europe/Paris:20250910T183000
 DTEND;TZID=Europe/Paris:20250910T203000

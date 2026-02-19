@@ -5,7 +5,13 @@ La Boussole de la Tech propose des ateliers ludiques de découverte des Technolo
 🌍 Site web : https://www.helloasso.com/associations/la-boussole-de-la-tech
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
 ## 📆 Past Events
+
+<details>
+<summary>2026</summary>
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 19 février 2026 à 10:00 | Découverte des Ordinosaures | Salle Daguin, rue du professeur Daguin à Villenave d’Ornon, à 100m de la médiathèque (salle et parking le long de la double allée, après les travaux de la nouvelle salle communale) | https://www.helloasso.com/associations/la-boussole-de-la-tech/evenements/re-decouverte-des-ordinosaures |
+</details>
 <!-- EVENTS:END -->
