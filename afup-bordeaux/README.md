@@ -22,10 +22,17 @@ Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](/afu
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 18 février 2026 à 19:00 | #64 : Mots de passe, SSO et Passkeys - l’authentification moderne en PHP | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/313037197/ |
 | Vendredi 22 mai 2026 à 09:00 | AFUP Day 2026 Bordeaux | TBD | https://event.afup.org/ |
 
 ## 📆 Past Events
+
+<details>
+<summary>2026</summary>
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 18 février 2026 à 19:00 | #64 : Mots de passe, SSO et Passkeys - l’authentification moderne en PHP | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/313037197/ |
+</details>
 
 <details>
 <summary>2025</summary>
