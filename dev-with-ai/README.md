@@ -21,5 +21,6 @@ Notre objectif : partager expériences et bonnes pratiques autour de l’IA gén
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mardi 18 novembre 2025 à 19:00 | Dev With AI Meetup #2 @ Luni | 25 Quai des Chartrons, 33300 Bordeaux | https://luma.com/8f9h2dh1 |
+| Lundi 24 février 2025 à 19:00 | Dev With AI Meetup #6 @ Betclic | Betclic, 117 Quai de Bacalan, 33300 Bordeaux | https://luma.com/5bwwbafl |
 </details>
 <!-- EVENTS:END -->

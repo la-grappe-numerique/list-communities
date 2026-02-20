@@ -39,4 +39,42 @@ LOCATION:25 Quai des Chartrons\, 33300 Bordeaux
 TZID:Europe/Paris
 URL:https://luma.com/8f9h2dh1
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dev With AI Meetup #6 @ Betclic
+DTSTART;TZID=Europe/Paris:20250224T190000
+DTEND;TZID=Europe/Paris:20250224T210000
+UID:https://luma.com/5bwwbafl@community-events
+DESCRIPTION:🔗 https://luma.com/5bwwbafl\n📍 Betclic\, 117 Quai de Bac
+ alan\, 33300 Bordeaux\n\nAu programme de cette édition :\n\n​Clement Bo
+ lin - Construire des Agents IA "Headless" pour votre CI/CD\n\n​Nous avon
+ s tous expérimenté le "pair programming" avec des assistants IA dans nos
+  IDE. C'est magique\, mais cela reste une action manuelle: si vous oubliez
+  de demander à l'IA de documenter votre code ou de vérifier une conventi
+ on\, elle ne le fera pas.\n\n​Et si nous pouvions prendre ce même codin
+ g agent\, supprimer l'interface de chat\, et l'intégrer directement dans 
+ nos pipelines de build ?\n\n​--\n\n​Geoffrey Graveaud - Coding with AI
+ : poser des gardes fous pour accélérer sans se perdre\n\n​Depuis le vi
+ becoding\, il est devenu important de cadrer nos pratiques. En effet\, les
+  problématiques liées au code restent les memes mais arrivent 10 fois pl
+ us vite. Que pouvons-nous mettre en place pour protéger nos bases de code
+ ? A travers cette conf\, je vous ferai un retour d'expérience sur le "cad
+ re" indispensable pour augmenter votre productivité en gardant une base d
+ e code propre. Je parlerai aussi du "shift left best pratices" qui sera la
+  prochaine tendance dans les organisations.\n\n​--\n\n​Kévin Llopis -
+  Un seul flow\, moins d’onglets : GitLab Duo du Dev jusqu'à la Prod\n\n
+ ​Les développeurs passent trop de temps à naviguer entre outils : pipe
+ lines CI en échec\, MR à publier\, tickets Jira à mettre à jour\, revi
+ ews à accélérer.\n\n​Dans ce talk\, je vous propose un retour d’exp
+ érience concret de GitLab Duo chez BforBank.\n\n​Nous verrons comment G
+ itLab Duo et ses Agents IA ont permis d’accélérer la chaîne de dével
+ oppement\, du Dev à la prod\, en réduisant le context switching : MR\, J
+ ira\, code reviews\, CI\, reportings et déploiements.\n\n​Un REX pragma
+ tique\, orienté terrain.\n\n​--\n\n​Pas possible de venir en présent
+ iel ? Le meetup sera également diffusé en live streaming : Youtube : htt
+ ps://youtube.com/live/JTeqTs_IBnU activez la cloche pour ne pas le manquer
+  ! 😉\n\nCommunauté: dev-with-ai
+LOCATION:Betclic\, 117 Quai de Bacalan\, 33300 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/5bwwbafl
+END:VEVENT
 END:VCALENDAR
