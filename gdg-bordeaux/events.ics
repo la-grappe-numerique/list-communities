@@ -1,0 +1,7 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements gdg-bordeaux//Bordeaux Community Events//FR
+X-WR-CALDESC:Calendrier des événements de la communauté gdg-bordeaux
+X-WR-CALNAME:Événements gdg-bordeaux
+X-WR-TIMEZONE:Europe/Paris
+END:VCALENDAR
