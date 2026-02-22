@@ -68,6 +68,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 - [Cocoaheads Bordeaux](cocoaheads/)
 - [Creative Coding Bordeaux](creative-coding-bordeaux/)
 - [Framer Bordeaux](framer-bordeaux/)
+- [Google Developer Group Bordeaux](gdg-bordeaux/)
 
 ### Sécurité
 
