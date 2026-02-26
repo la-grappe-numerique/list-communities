@@ -5,6 +5,25 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:jq - deal with JSON like a boss
+DTSTART;TZID=Europe/Paris:20260312T190000
+DTEND;TZID=Europe/Paris:20260312T210000
+UID:https://luma.com/w3tdxut2@community-events
+DESCRIPTION:🔗 https://luma.com/w3tdxut2\n📍 Le node\, 12 Rue des Faus
+ sets\, 33000 Bordeaux\n\nOn manipule tous du JSON. APIs\, logs\, configs\,
+  payloads…\n\n​Mais combien d'entre nous savent vraiment l'exploiter e
+ fficacement en ligne de commande ?\n\n​Lors de ce talk en live coding\, 
+ Xavier vous propose de découvrir jq\, un outil puissant et élégant pour
+  : • filtrer des structures complexes • transformer des données imbri
+ quées • mettre à jour des valeurs • composer des opérations • éc
+ rire des fonctions réutilisables\n\n​Le tout directement dans votre ter
+ minal.\n\nhttps://jqlang.org/\n\nlive coding de ~30-45 minutes\n\nCommunau
+ té: bordeauxjs
+LOCATION:Le node\, 12 Rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/w3tdxut2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Angular v21: Le framework se met à jour !
 DTSTART;TZID=Europe/Paris:20260128T183000
 DTEND;TZID=Europe/Paris:20260128T203000

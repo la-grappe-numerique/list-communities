@@ -14,6 +14,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](/bordeauxjs/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 12 mars 2026 à 19:00 | jq - deal with JSON like a boss | Le node, 12 Rue des Faussets, 33000 Bordeaux | https://luma.com/w3tdxut2 |
+
 ## 📆 Past Events
 
 <details>

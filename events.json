@@ -93,6 +93,17 @@
     ]
   },
   {
+    "title": "jq - deal with JSON like a boss",
+    "date": "2026-03-12T19:00:00",
+    "url": "https://luma.com/w3tdxut2",
+    "description": "On manipule tous du JSON. APIs, logs, configs, payloads…\n\n​Mais combien d'entre nous savent vraiment l'exploiter efficacement en ligne de commande ?\n\n​Lors de ce talk en live coding, Xavier vous propose de découvrir jq, un outil puissant et élégant pour : • filtrer des structures complexes • transformer des données imbriquées • mettre à jour des valeurs • composer des opérations • écrire des fonctions réutilisables\n\n​Le tout directement dans votre terminal.\n\nhttps://jqlang.org/\n\nlive coding de ~30-45 minutes",
+    "location": "Le node, 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
+    ]
+  },
+  {
     "title": "🍷🍻 Apéro Web Bordeaux",
     "date": "2026-03-03T19:00:00+01:00",
     "url": "https://www.meetup.com/apero-web-bordeaux/events/313428518/",
