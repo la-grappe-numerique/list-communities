@@ -8,13 +8,15 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-python-meetup/events.ics](/bordeaux-python-meetup/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 26 février 2026 à 18:30 | Bordeaux Python Meetup 2026.1 | Online | https://www.meetup.com/py-bdx/events/313276455/ |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>

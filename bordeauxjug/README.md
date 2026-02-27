@@ -20,12 +20,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](/bordeauxjug/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Jeudi 26 février 2026 à 19:00 | Spring AI en action : intégrer les capacités des LLM dans vos applications Java | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313356172/ |
-
 ## 📆 Past Events
 
 <details>
@@ -33,6 +27,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](/borde
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Jeudi 26 février 2026 à 19:00 | Spring AI en action : intégrer les capacités des LLM dans vos applications Java | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313356172/ |
 | Jeudi 22 janvier 2026 à 19:00 | Kafka 4, fantastique ? | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/312859620/ |
 </details>
 

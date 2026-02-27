@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 26 février 2026 à 18:30 | [bordeaux-python-meetup](bordeaux-python-meetup/) | [Bordeaux Python Meetup 2026.1](https://www.meetup.com/py-bdx/events/313276455/) | Online |
-| Jeudi 26 février 2026 à 19:00 | [bordeauxjug](bordeauxjug/) | [Spring AI en action : intégrer les capacités des LLM dans vos applications Java](https://www.meetup.com/bordeauxjug/events/313356172/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
 | Lundi 02 mars 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 02 mars 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/311567890/) | 9 Rue de Condé, Bordeaux |
+| Mardi 03 mars 2026 à 19:00 | [apero-web](apero-web/) | [🍷🍻 Apéro Web Bordeaux](https://www.meetup.com/apero-web-bordeaux/events/313428518/) | 39 Rue Ausone, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
