@@ -21129,6 +21129,29 @@ URL:https://www.meetup.com/seriousgamers-bordeaux/events/261255186/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Off-Playground - Creative Coding
+DTSTART;TZID=Europe/Paris:20260305T190000
+DTEND;TZID=Europe/Paris:20260305T210000
+UID:https://www.meetup.com/creative-coding-bordeaux/events/313586042/@comm
+ unity-events
+DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/31
+ 3586042/\n📍 20 Rue Saint-François\, 20 Rue Saint-François\, Bordeaux\
+ , fr\n\n[Playground](https://plgrnd.cc) est une rencontre destinée au par
+ tage d'idées\, de techniques et de passions autour de l'art algorithmique
+  et de la programmation créative\, de l'image au son\, et au delà. Cet 
+ évènement est ouvert à tous·tes\, peu importe l'expérience.\n\nNous s
+ erons hébergé·e·s dans les locaux de Deezer à Bordeaux et ce sera l'o
+ ccasion d'échanger sur nos projets et nos passions.\n\nPas de plan\, pas 
+ de slides\, que des humains. **Amenez vos idées !** Et pourquoi pas vos l
+ aptops\, pour des petites séances improvisées\, de démos\, apprentissag
+ e\, découvertes (débutant·e·s bienvenu·e·s).\n\nAmenez des choses à
+  grignoter ou à boire si vous le souhaitez.\n\nCommunauté: creative-codi
+ ng-bordeaux
+LOCATION:20 Rue Saint-François\, 20 Rue Saint-François\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/creative-coding-bordeaux/events/313586042/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Off-Playground - Creative Coding
 DTSTART;TZID=Europe/Paris:20260115T190000
 DTEND;TZID=Europe/Paris:20260115T210000
 UID:https://www.meetup.com/creative-coding-bordeaux/events/312710464/@comm
