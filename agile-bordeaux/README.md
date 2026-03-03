@@ -21,6 +21,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](/ag
 |------|--------|----------|------|
 | Vendredi 27 mars 2026 à 09:00 | Agile Games France 2026 - J1 | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux | https://agilegamesfrance.fr/doku.php?id=evenement_2026 |
 | Samedi 28 mars 2026 à 09:00 | Agile Games France 2026 - J2 | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux | https://yp.events/eefdd201-32d4-4300-bd0f-a9423b258d89/Agile-Games-France-2026 |
+| Mardi 14 avril 2026 à 18:30 | After work post-AGFr | Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  33700 MERIGNAC | https://www.linkedin.com/events/7434682990204698624 |
 
 ## 📆 Past Events
 

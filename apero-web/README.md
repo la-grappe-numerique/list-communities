@@ -17,13 +17,15 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](/apero-web/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mardi 03 mars 2026 à 19:00 | 🍷🍻 Apéro Web Bordeaux | 39 Rue Ausone, Bordeaux | https://www.meetup.com/apero-web-bordeaux/events/313428518/ |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>

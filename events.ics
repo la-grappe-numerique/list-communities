@@ -6219,6 +6219,28 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/py-bdx/events/228109596/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:After work post-AGFr
+DTSTART;TZID=Europe/Paris:20260414T183000
+DTEND;TZID=Europe/Paris:20260414T203000
+UID:https://www.linkedin.com/events/7434682990204698624@community-events
+DESCRIPTION:🔗 https://www.linkedin.com/events/7434682990204698624\n📍
+  Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  33700 MERIG
+ NAC\n\nFin mars\, Bordeaux devient la capitale du jeu agile avec l’arriv
+ ée d’Agile Games France !\n\nSi l'événement national affiche complet 
+ (https://agilegamesfrance.fr/doku.php?id=evenement_2026)\, l’énergie\, 
+ elle\, circule partout. Pour marquer le coup à notre échelle locale\, je
+  vous propose de nous retrouver pour un afterwork informel.\n\nL'idée ? S
+ implement se réunir entre passionnés (que vous ayez participé à l'év
+ énement ou non) pour :\n- Débriefer les ateliers marquants pour les chan
+ ceux qui y étaient.\n- Découvrir de nouveaux ateliers et mécaniques pou
+ r ceux qui n'ont pas pu avoir de place.\n- Renforcer les liens de notre co
+ mmunauté bordelaise\, tout simplement.\n\nCommunauté: agile-bordeaux
+LOCATION:Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  337
+ 00 MERIGNAC
+TZID:Europe/Paris
+URL:https://www.linkedin.com/events/7434682990204698624
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agile Games France 2026 - J2
 DTSTART;TZID=Europe/Paris:20260328T090000
 DTEND;TZID=Europe/Paris:20260328T110000

@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 03 mars 2026 à 19:00 | [apero-web](apero-web/) | [🍷🍻 Apéro Web Bordeaux](https://www.meetup.com/apero-web-bordeaux/events/313428518/) | 39 Rue Ausone, Bordeaux |
 | Jeudi 05 mars 2026 à 19:00 | [creative-coding-bordeaux](creative-coding-bordeaux/) | [Off-Playground - Creative Coding](https://www.meetup.com/creative-coding-bordeaux/events/313586042/) | 20 Rue Saint-François, Bordeaux |
 | Jeudi 12 mars 2026 à 19:00 | [bordeauxjs](bordeauxjs/) | [jq - deal with JSON like a boss](https://luma.com/w3tdxut2) | Le node, 12 Rue des Faussets, 33000 Bordeaux |
+| Vendredi 20 mars 2026 à 09:00 | [okiwi](okiwi/) | [Open Okiwi #5](https://mobilizon.fr/events/768fb76c-15b2-4103-9a44-c4a496058a3e) | TBD |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
