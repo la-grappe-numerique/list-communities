@@ -20,6 +20,52 @@ TZID:Europe/Paris
 URL:https://event.afup.org/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:#66 : Introduction à la dettes non-technique
+DTSTART;TZID=Europe/Paris:20260325T190000
+DTEND;TZID=Europe/Paris:20260325T210000
+UID:https://www.meetup.com/bordeaux-php-meetup/events/313651506/@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3136515
+ 06/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr\n\nAvant
+  la présentation des talks\, rappelez-vous que le meetup se termine par u
+ n **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de r
+ encontrer de nouvelles personnes et d'échanger autour de PHP et son écos
+ ystème.\n\nLa parole à notre cher speaker 🎉\n\n**\\#\\#\\#\\# Cette t
+ héorie révolutionnaire que les managers détestent : Introduction à la 
+ dette non\\-technique**\nPar [Florian Kauder](https://aamulumi.info/)\, Ex
+ pert-e Back-end @ekino - Spécialiste JS/TS\n\nVous connaissez la **dette 
+ technique**.\nTout le monde en a parlé en 2015\, jusqu'à ce que les chat
+ bots envahissent le podium des tendances. Mais\, pendant que plus personne
+  ne la regardait\, la dette s'est métamorphosée\nElle est devenue une so
+ rte de monstre de Cronenberg\, agglomérant tout ce qui ressemblait à de 
+ la dette\, jusqu'à ce jour.\nCe fameux jour où la dette technique vit ap
+ paraître son jumeau maléfique.\nLe yin de son yang.\nLe Joker de son Bat
+ man.\nL'ananas de sa pizza.\n\nCommunauté: afup-bordeaux
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-php-meetup/events/313651506/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#65 : SUPER APERO
+DTSTART;TZID=Europe/Paris:20260311T190000
+DTEND;TZID=Europe/Paris:20260311T210000
+UID:https://www.meetup.com/bordeaux-php-meetup/events/313651440/@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3136514
+ 40/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr\n\nComme
+  chaque année\, c'est le moment où **toutes** les antennes AFUP de **Fra
+ nce** se retrouvent le **même jour** pour le **SUPER APERO** 😁😁😁
+ \n\nCet **apéro collaboratif** est l'occasion idéale de rencontrer de no
+ uvelles personnes et d'échanger autour de PHP et son écosystème\n\nNous
+  profiterons de cette occasion pour présenter plus en détail le programm
+ e de l'[AFUP Day Bordeaux](https://event.afup.org/afup-day-2026/afup-day-2
+ 026-bordeaux/) qui aura lieu le 22 mai 2026 !\n*Prenez vos billets avant q
+ u'il n'en reste plus !*\n\nCommunauté: afup-bordeaux
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-php-meetup/events/313651440/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:#64 : Mots de passe\, SSO et Passkeys - l’authentification moder
  ne en PHP
 DTSTART;TZID=Europe/Paris:20260218T190000

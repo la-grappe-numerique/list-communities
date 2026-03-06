@@ -22,6 +22,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](/afu
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mercredi 11 mars 2026 à 19:00 | #65 : SUPER APERO | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/313651440/ |
+| Mercredi 25 mars 2026 à 19:00 | #66 : Introduction à la dettes non-technique | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/313651506/ |
 | Vendredi 22 mai 2026 à 09:00 | AFUP Day 2026 Bordeaux | TBD | https://event.afup.org/ |
 
 ## 📆 Past Events

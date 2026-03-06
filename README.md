@@ -98,7 +98,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 05 mars 2026 à 19:00 | [creative-coding-bordeaux](creative-coding-bordeaux/) | [Off-Playground - Creative Coding](https://www.meetup.com/creative-coding-bordeaux/events/313586042/) | 20 Rue Saint-François, Bordeaux |
+| Mercredi 11 mars 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#65 : SUPER APERO](https://www.meetup.com/bordeaux-php-meetup/events/313651440/) | 12 Rue des Faussets, Bordeaux |
 | Jeudi 12 mars 2026 à 19:00 | [bordeauxjs](bordeauxjs/) | [jq - deal with JSON like a boss](https://luma.com/w3tdxut2) | Le node, 12 Rue des Faussets, 33000 Bordeaux |
 | Vendredi 20 mars 2026 à 09:00 | [okiwi](okiwi/) | [Open Okiwi #5](https://mobilizon.fr/events/768fb76c-15b2-4103-9a44-c4a496058a3e) | TBD |
 <!-- ALL-EVENTS-LIST:END -->
