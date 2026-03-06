@@ -8,6 +8,36 @@
     "is_online": false
   },
   {
+    "title": "#66 : Introduction à la dettes non-technique",
+    "date": "2026-03-25T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/313651506/",
+    "description": "Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\n\nLa parole à notre cher speaker 🎉\n\n**\\#\\#\\#\\# Cette théorie révolutionnaire que les managers détestent : Introduction à la dette non\\-technique**\nPar [Florian Kauder](https://aamulumi.info/), Expert-e Back-end @ekino - Spécialiste JS/TS\n\nVous connaissez la **dette technique**.\nTout le monde en a parlé en 2015, jusqu'à ce que les chatbots envahissent le podium des tendances. Mais, pendant que plus personne ne la regardait, la dette s'est métamorphosée\nElle est devenue une sorte de monstre de Cronenberg, agglomérant tout ce qui ressemblait à de la dette, jusqu'à ce jour.\nCe fameux jour où la dette technique vit apparaître son jumeau maléfique.\nLe yin de son yang.\nLe Joker de son Batman.\nL'ananas de sa pizza.",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "12 Rue des Faussets, Bordeaux"
+  },
+  {
+    "title": "#65 : SUPER APERO",
+    "date": "2026-03-11T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/313651440/",
+    "description": "Comme chaque année, c'est le moment où **toutes** les antennes AFUP de **France** se retrouvent le **même jour** pour le **SUPER APERO** 😁😁😁\n\nCet **apéro collaboratif** est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème\n\nNous profiterons de cette occasion pour présenter plus en détail le programme de l'[AFUP Day Bordeaux](https://event.afup.org/afup-day-2026/afup-day-2026-bordeaux/) qui aura lieu le 22 mai 2026 !\n*Prenez vos billets avant qu'il n'en reste plus !*",
+    "community": "afup-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "12 Rue des Faussets, Bordeaux"
+  },
+  {
     "title": "#64 : Mots de passe, SSO et Passkeys - l’authentification moderne en PHP",
     "date": "2026-02-18T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/313037197/",
