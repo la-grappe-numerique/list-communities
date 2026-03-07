@@ -138,6 +138,16 @@
     ]
   },
   {
+    "title": "Openrewrite: Refactoring as code",
+    "date": "2026-03-19T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/313662953/",
+    "description": "Vous êtes dans la team **Doc as code, Infrastructure as code, Ci as code** ? La réponse à ces questions vous semble évidente.\n\nLes bienfaits de l'approche \"as code\" ne sont plus à démontrer et pourtant il reste un domaine laissé pour compte.\n\nOui parce que si je vous pose ces questions pour vos refactorings et vos migrations, ça sera plutôt :\n\nVous êtes plutôt team **chercher/remplacer ? regexp ? IDE click droit rename method ?**\n\nEh oui, les cordonniers sont toujours les plus mal chaussés, et nous continuons a écrire des guides de migrations longs comme un dimanche de pluie. Fatigué de mener des migrations JUnit4 ->JUnit 5? Spring-boot 2 -> Spring-boot 3?\n\nEst-ce qu’il ne serait pas temps d’entrer dans la team **refactoring as code?**\n\nOpenRewrite est la boîte à outils parfaite pour écrire, versionner et partager vos refactoring. L'Ansible du refactoring.\n\nNe repartez pas sans une nouvelle as corde à votre arc, ne faite plus jamais vos migrations à la main.",
+    "is_online": true,
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "jq - deal with JSON like a boss",
     "date": "2026-03-12T19:00:00",
     "url": "https://luma.com/w3tdxut2",
