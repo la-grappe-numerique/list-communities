@@ -10,22 +10,24 @@ SUMMARY:Openrewrite: Refactoring as code
 DTSTART;TZID=Europe/Paris:20260319T190000
 DTEND;TZID=Europe/Paris:20260319T210000
 UID:https://www.meetup.com/bordeauxjug/events/313662953/@community-events
-DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/313662953/\n\nV
- ous êtes dans la team **Doc as code\, Infrastructure as code\, Ci as code
- ** ? La réponse à ces questions vous semble évidente.\n\nLes bienfaits 
- de l'approche "as code" ne sont plus à démontrer et pourtant il reste un
-  domaine laissé pour compte.\n\nOui parce que si je vous pose ces questio
- ns pour vos refactorings et vos migrations\, ça sera plutôt :\n\nVous ê
- tes plutôt team **chercher/remplacer ? regexp ? IDE click droit rename me
- thod ?**\n\nEh oui\, les cordonniers sont toujours les plus mal chaussés\
- , et nous continuons a écrire des guides de migrations longs comme un dim
- anche de pluie. Fatigué de mener des migrations JUnit4 ->JUnit 5? Spring-
- boot 2 -> Spring-boot 3?\n\nEst-ce qu’il ne serait pas temps d’entrer 
- dans la team **refactoring as code?**\n\nOpenRewrite est la boîte à outi
- ls parfaite pour écrire\, versionner et partager vos refactoring. L'Ansib
- le du refactoring.\n\nNe repartez pas sans une nouvelle as corde à votre 
- arc\, ne faite plus jamais vos migrations à la main.\n\nCommunauté: bord
- eauxjug\n💻 Événement en ligne
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/313662953/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr\n\nVou
+ s êtes dans la team **Doc as code\, Infrastructure as code\, Ci as code**
+  ? La réponse à ces questions vous semble évidente.\n\nLes bienfaits de
+  l'approche "as code" ne sont plus à démontrer et pourtant il reste un d
+ omaine laissé pour compte.\n\nOui parce que si je vous pose ces questions
+  pour vos refactorings et vos migrations\, ça sera plutôt :\n\nVous ête
+ s plutôt team **chercher/remplacer ? regexp ? IDE click droit rename meth
+ od ?**\n\nEh oui\, les cordonniers sont toujours les plus mal chaussés\, 
+ et nous continuons a écrire des guides de migrations longs comme un diman
+ che de pluie. Fatigué de mener des migrations JUnit4 ->JUnit 5? Spring-bo
+ ot 2 -> Spring-boot 3?\n\nEst-ce qu’il ne serait pas temps d’entrer da
+ ns la team **refactoring as code?**\n\nOpenRewrite est la boîte à outils
+  parfaite pour écrire\, versionner et partager vos refactoring. L'Ansible
+  du refactoring.\n\nNe repartez pas sans une nouvelle as corde à votre ar
+ c\, ne faite plus jamais vos migrations à la main.\n\nCommunauté: bordea
+ uxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/313662953/
 END:VEVENT

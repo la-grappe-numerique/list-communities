@@ -24,7 +24,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](/borde
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Jeudi 19 mars 2026 à 19:00 | Openrewrite: Refactoring as code | Online | https://www.meetup.com/bordeauxjug/events/313662953/ |
+| Jeudi 19 mars 2026 à 19:00 | Openrewrite: Refactoring as code | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313662953/ |
 
 ## 📆 Past Events
 
