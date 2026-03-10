@@ -9,8 +9,8 @@ X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:🗺️ Mapathon en Pays Basque dans le cadre du projet européen 
  SYSTOUR
-DTSTART;TZID=Europe/Paris:20260309T090000
-DTEND;TZID=Europe/Paris:20260309T110000
+DTSTART;TZID=Europe/Paris:20260317T090000
+DTEND;TZID=Europe/Paris:20260317T110000
 UID:https://meet.jit.si/moderated/b6d0ff0febf76fec2fffe21b1aca93960a96876d
  bfeac46209cbf1be4f8c70ad@community-events
 DESCRIPTION:🔗 https://meet.jit.si/moderated/b6d0ff0febf76fec2fffe21b1ac
