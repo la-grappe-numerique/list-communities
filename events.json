@@ -183,6 +183,17 @@
     ]
   },
   {
+    "title": "🗺️ Mapathon en Pays Basque dans le cadre du projet européen SYSTOUR",
+    "date": "2026-03-09T09:00:00",
+    "url": "https://meet.jit.si/moderated/b6d0ff0febf76fec2fffe21b1aca93960a96876dbfeac46209cbf1be4f8c70ad",
+    "description": "Dans le cadre du projet européen **SYSTOUR** sur le tourisme durable en milieu rural, un mapathon aura lieu en distanciel le 17 mars de 9h à 12h. L'objectif est d'enrichir une cartographie participative des circuits courts autour du label Tokikoa en Pays Basque.\n\n🌱 Le projet SYSTOUR\n\nL'objectif principal de SYSTOUR est de déplacer le flux touristique des zones urbaines vers les zones rurales non exploitées et de mettre en avant les richesses de ces territoires. Toutes les infrastructures doivent être durables et donner accès aux espaces naturels. Le projet cherche à atteindre 3 objectifs principaux :\n\n1. Accroître les bénéfices économiques et les investissements locaux.\n2. Créer des opportunités d'emplois dans la transition écologique.\n3. Renforcer l'attractivité des zones rurales\n\nPour en savoir plus 👉 https://www.interregeurope.eu/systour\n\n📅 Le programme de la matinée, organisé et piloté par **Elena Liquet** :\n\n**1. Temps 1 : Introduction (20')**\n\n- Présentation du projet SYSTOUR et de l'action pilote autour de la cartographie collaborative\n- Présentation d'OpenStreetMap et de la cartographie collaborative comme outil de coopération dans les territoires\n- Présentation du modèle de données OSM\n\n**2. Temps 2 : Comment contribuer ? (60')**\n\n- Comment contribuer à distance\n- Présentation de l'éditeur iD\n- Exemples pratiques dans la région\n\n**3. Session de cartographie (90')**",
+    "location": "En ligne sur Jitsi Meet",
+    "is_online": true,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
     "title": "Off-Playground - Creative Coding",
     "date": "2026-03-05T19:00:00+01:00",
     "url": "https://www.meetup.com/creative-coding-bordeaux/events/313586042/",

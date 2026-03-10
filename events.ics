@@ -13140,6 +13140,41 @@ URL:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
  quiz-mobile-pub-quiz-get-together-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🗺️ Mapathon en Pays Basque dans le cadre du projet européen 
+ SYSTOUR
+DTSTART;TZID=Europe/Paris:20260309T090000
+DTEND;TZID=Europe/Paris:20260309T110000
+UID:https://meet.jit.si/moderated/b6d0ff0febf76fec2fffe21b1aca93960a96876d
+ bfeac46209cbf1be4f8c70ad@community-events
+DESCRIPTION:🔗 https://meet.jit.si/moderated/b6d0ff0febf76fec2fffe21b1ac
+ a93960a96876dbfeac46209cbf1be4f8c70ad\n📍 En ligne sur Jitsi Meet\n\nDan
+ s le cadre du projet européen **SYSTOUR** sur le tourisme durable en mili
+ eu rural\, un mapathon aura lieu en distanciel le 17 mars de 9h à 12h. L'
+ objectif est d'enrichir une cartographie participative des circuits courts
+  autour du label Tokikoa en Pays Basque.\n\n🌱 Le projet SYSTOUR\n\nL'ob
+ jectif principal de SYSTOUR est de déplacer le flux touristique des zones
+  urbaines vers les zones rurales non exploitées et de mettre en avant les
+  richesses de ces territoires. Toutes les infrastructures doivent être du
+ rables et donner accès aux espaces naturels. Le projet cherche à atteind
+ re 3 objectifs principaux :\n\n1. Accroître les bénéfices économiques 
+ et les investissements locaux.\n2. Créer des opportunités d'emplois dans
+  la transition écologique.\n3. Renforcer l'attractivité des zones rurale
+ s\n\nPour en savoir plus 👉 https://www.interregeurope.eu/systour\n\n
+ 📅 Le programme de la matinée\, organisé et piloté par **Elena Liquet
+ ** :\n\n**1. Temps 1 : Introduction (20')**\n\n- Présentation du projet S
+ YSTOUR et de l'action pilote autour de la cartographie collaborative\n- Pr
+ ésentation d'OpenStreetMap et de la cartographie collaborative comme outi
+ l de coopération dans les territoires\n- Présentation du modèle de donn
+ ées OSM\n\n**2. Temps 2 : Comment contribuer ? (60')**\n\n- Comment contr
+ ibuer à distance\n- Présentation de l'éditeur iD\n- Exemples pratiques 
+ dans la région\n\n**3. Session de cartographie (90')**\n\nCommunauté: op
+ enstreetmap-bordeaux\n💻 Événement en ligne
+LOCATION:En ligne sur Jitsi Meet
+TZID:Europe/Paris
+URL:https://meet.jit.si/moderated/b6d0ff0febf76fec2fffe21b1aca93960a96876d
+ bfeac46209cbf1be4f8c70ad
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🗺️ Cartopartie OSM - Cartographie des bâtiments quartier Vic
  tor Hugo
 DTSTART;TZID=Europe/Paris:20260224T180000
