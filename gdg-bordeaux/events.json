@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "title": "Tech Quiz / Get Together #3",
+    "date": "2026-04-07T19:00:00+02:00",
+    "url": "https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/",
+    "description": "Google Developer Bordeaux est ravi de vous inviter à une soirée exceptionnelle pour fédérer l'écosystème tech bordelais ! Pour cet événement, nous nous associons à l'événement organisé par DigitalNights ainsi que nos partenaires de BordeauxKt et du Flutter Meetup Group. 🙌\n\nVenez participer l'afterwork dédié au networking et tester vos connaissances lors d'un quiz épique sur le digital ! ⏲️\n\nC'est l'occasion idéale pour :\n\n👉 Élargir votre réseau en rencontrant les membres de quatre communautés majeures.\n\n👉 Partager vos idées dans une ambiance décontractée.\n\n👉 Découvrir les actualités et les prochains projets de nos associations respectives.\n\nDes prix passionnants attendent les plus rapides et les plus précis d'entre vous lors du quiz. Ne manquez pas cette opportunité de vous amuser tout en enrichissant vos compétences et votre réseau professionnel !\nInscrivez-vous dès maintenant pour garantir votre place et venez partager une expérience enrichissante avec votre communauté de développeurs. 👇\n📍Ou ? Aquinum - Le Node\n🕒Quand ? Le 7 Avril de 19h00 a 21h00\n\nAgenda\n\n---\n\nHosted By\n\nEnzo Conty, Organizer\n\nHaving started out as a freelancer in France over five years ago, I have been passionate about Flutter since then.\nI created a freelance agency for Flutter mobile development after creating around 30 mobile apps over the years.\n\nWith Flutter, I explore new platforms to use, such as Steam Deck, embeddable systems such as drink distributors, and even Steam games.\n\nIvan Canet, Software Engineer\n\n---\n\nPartner\n\nBordeauxKt (https://bordeauxkt.io)\nBordeauxKt est un user group au service du langage Kotlin et son écosystème, à destination des développeurs de Bordeaux et sa métropole.\n\nNous organisons des soirées autour de présentations techniques pour discuter des différentes utilisations de Kotlin : développement côté serveur, mobile, web, ou encore natif.\n\n---\n\nComplete your event RSVP here: https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-tech-quiz-get-together-3/.",
+    "community": "gdg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "bordeaux",
+      "country": "fr"
+    },
+    "location": "12 rue des Faussets, bordeaux"
+  }
+]
