@@ -12326,6 +12326,47 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/218821208/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tech Quiz / Get Together #3
+DTSTART;TZID=Europe/Paris:20260407T190000
+DTEND;TZID=Europe/Paris:20260407T210000
+UID:https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/@community-
+ events
+DESCRIPTION:🔗 https://www.meetup.com/fr-FR/gdg-bordeaux/events/31381796
+ 5/\n📍 le node\, 12 rue des Faussets\, bordeaux\, fr\n\nGoogle Developer
+  Bordeaux est ravi de vous inviter à une soirée exceptionnelle pour féd
+ érer l'écosystème tech bordelais ! Pour cet événement\, nous nous ass
+ ocions à l'événement organisé par DigitalNights ainsi que nos partenai
+ res de BordeauxKt et du Flutter Meetup Group. 🙌\n\nVenez participer l'a
+ fterwork dédié au networking et tester vos connaissances lors d'un quiz 
+ épique sur le digital ! ⏲️\n\nC'est l'occasion idéale pour :\n\n👉
+  Élargir votre réseau en rencontrant les membres de quatre communautés 
+ majeures.\n\n👉 Partager vos idées dans une ambiance décontractée.\n\
+ n👉 Découvrir les actualités et les prochains projets de nos associati
+ ons respectives.\n\nDes prix passionnants attendent les plus rapides et le
+ s plus précis d'entre vous lors du quiz. Ne manquez pas cette opportunit
+ é de vous amuser tout en enrichissant vos compétences et votre réseau p
+ rofessionnel !\nInscrivez-vous dès maintenant pour garantir votre place e
+ t venez partager une expérience enrichissante avec votre communauté de d
+ éveloppeurs. 👇\n📍Ou ? Aquinum - Le Node\n🕒Quand ? Le 7 Avril de 
+ 19h00 a 21h00\n\nAgenda\n\n---\n\nHosted By\n\nEnzo Conty\, Organizer\n\nH
+ aving started out as a freelancer in France over five years ago\, I have b
+ een passionate about Flutter since then.\nI created a freelance agency for
+  Flutter mobile development after creating around 30 mobile apps over the 
+ years.\n\nWith Flutter\, I explore new platforms to use\, such as Steam De
+ ck\, embeddable systems such as drink distributors\, and even Steam games.
+ \n\nIvan Canet\, Software Engineer\n\n---\n\nPartner\n\nBordeauxKt (https:
+ //bordeauxkt.io)\nBordeauxKt est un user group au service du langage Kotli
+ n et son écosystème\, à destination des développeurs de Bordeaux et sa
+  métropole.\n\nNous organisons des soirées autour de présentations tech
+ niques pour discuter des différentes utilisations de Kotlin : développem
+ ent côté serveur\, mobile\, web\, ou encore natif.\n\n---\n\nComplete yo
+ ur event RSVP here: https://gdg.community.dev/events/details/google-gdg-bo
+ rdeaux-presents-tech-quiz-get-together-3/.\n\nCommunauté: gdg-bordeaux
+LOCATION:le node\, 12 rue des Faussets\, bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Découverte des Ordinosaures
 DTSTART;TZID=Europe/Paris:20260219T100000
 DTEND;TZID=Europe/Paris:20260219T120000

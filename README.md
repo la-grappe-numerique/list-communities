@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 17 mars 2026 à 09:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [🗺️ Mapathon en Pays Basque dans le cadre du projet européen SYSTOUR](https://meet.jit.si/moderated/b6d0ff0febf76fec2fffe21b1aca93960a96876dbfeac46209cbf1be4f8c70ad) | En ligne sur Jitsi Meet |
 | Jeudi 19 mars 2026 à 19:00 | [bordeauxjug](bordeauxjug/) | [Openrewrite: Refactoring as code](https://www.meetup.com/bordeauxjug/events/313662953/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
 | Vendredi 20 mars 2026 à 09:00 | [okiwi](okiwi/) | [Open Okiwi #5](https://mobilizon.fr/events/768fb76c-15b2-4103-9a44-c4a496058a3e) | TBD |
+| Mercredi 25 mars 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#66 : Introduction à la dettes non-technique](https://www.meetup.com/bordeaux-php-meetup/events/313651506/) | 12 Rue des Faussets, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
