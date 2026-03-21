@@ -22,7 +22,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](/okiwi/event
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Vendredi 20 mars 2026 à 09:00 | Open Okiwi #5 | TBD | https://mobilizon.fr/events/768fb76c-15b2-4103-9a44-c4a496058a3e |
 | Lundi 06 avril 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/311567891/ |
 | Lundi 04 mai 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjchbgb/ |
 | Lundi 04 mai 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/313443239/ |
@@ -36,6 +35,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](/okiwi/event
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Vendredi 20 mars 2026 à 09:00 | Open Okiwi #5 | TBD | https://mobilizon.fr/events/768fb76c-15b2-4103-9a44-c4a496058a3e |
 | Lundi 02 mars 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcfbdb/ |
 | Lundi 02 mars 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/311567890/ |
 | Lundi 02 février 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcdbdb/ |
