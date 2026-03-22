@@ -6,6 +6,26 @@ X-WR-CALDESC:Calendrier global de tous les événements communautaires
 X-WR-CALNAME:Tous les événements communautaires
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Assemblée Générales 2026
+DTSTART;TZID=Europe/Paris:20260322T190000
+DTEND;TZID=Europe/Paris:20260322T210000
+UID:https://www.meetup.com/bordeauxjug/events/313885191/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/313885191/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr\n\nLes
+  soirées du BordeauxJUG sont organisées par des bénévoles. **L'associa
+ tion a besoin de volontaire comme vous pour poursuivre ces activités**\n\
+ nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'anné
+ e passée ainsi que d'élire un nouveau bureau.\nNous rappelons que **l'AG
+  est ouverte à tous**. Par contre\, seules les personnes ayant fait un do
+ n ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux 
+ votes\, et notamment à l'élection du futur bureau.\n\n**N'hésitez donc 
+ pas à verser votre obole**\n\nPlus d'informations sur https://bordeauxjug
+ .org/meetings/20260326-assemble_generale_2026\n\nCommunauté: bordeauxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/313885191/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Openrewrite: Refactoring as code
 DTSTART;TZID=Europe/Paris:20260319T190000
 DTEND;TZID=Europe/Paris:20260319T210000
