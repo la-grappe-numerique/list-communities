@@ -1,7 +1,22 @@
 [
   {
+    "title": "CQRS & Event Sourcing : La revanche des micro-services",
+    "date": "2026-04-02T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/313885181/",
+    "description": "Si vous travaillez avec une architecture récente, il y a fort à parier que vous avez déjà mis les mains dans des micro-services. Et il y a également des chances que vous ayez, un jour, été confronté.e à cette situation (trop) familière : “Mais comment cette donnée pourrie a bien pu se retrouver dans la DB 💩 ?!”\n**Ce problème est malheureusement universel !** Dans les systèmes distribués, la traçabilité des données peut devenir très rapidement un casse-tête : des flux compliqués, des responsabilités multiples, des bugs alambiqués… 😵‍💫\nCe talk propose une approche concrète pour **résoudre ce défi des temps modernes** en combinant trois principes clé pour construire une architecture permettant :\n\n* Traçabilité des données 🕵️\n* Conservation de la scalabilité 📈\n* Aucun sacrifice de performance ⚡\n\n**La session s’appuie sur une démonstration live** mettant en œuvre cette approche et démontrant son impact réel sur la compréhension et la fiabilité des flux de données 🧑‍💻!",
+    "community": "bordeauxjug",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
+  },
+  {
     "title": "Assemblée Générales 2026",
-    "date": "2026-03-22T19:00:00+01:00",
+    "date": "2026-03-26T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/313885191/",
     "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\n\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.\nNous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n\n**N'hésitez donc pas à verser votre obole**\n\nPlus d'informations sur https://bordeauxjug.org/meetings/20260326-assemble_generale_2026",
     "community": "bordeauxjug",
