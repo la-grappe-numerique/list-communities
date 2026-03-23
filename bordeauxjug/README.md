@@ -24,7 +24,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](/borde
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Dimanche 22 mars 2026 à 19:00 | Assemblée Générales 2026 | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313885191/ |
+| Jeudi 26 mars 2026 à 19:00 | Assemblée Générales 2026 | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313885191/ |
+| Jeudi 02 avril 2026 à 19:00 | CQRS & Event Sourcing : La revanche des micro-services | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313885181/ |
 
 ## 📆 Past Events
 

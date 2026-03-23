@@ -98,8 +98,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Dimanche 22 mars 2026 à 19:00 | [bordeauxjug](bordeauxjug/) | [Assemblée Générales 2026](https://www.meetup.com/bordeauxjug/events/313885191/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
 | Mercredi 25 mars 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#66 : Introduction à la dettes non-technique](https://www.meetup.com/bordeaux-php-meetup/events/313651506/) | 12 Rue des Faussets, Bordeaux |
+| Jeudi 26 mars 2026 à 19:00 | [bordeauxjug](bordeauxjug/) | [Assemblée Générales 2026](https://www.meetup.com/bordeauxjug/events/313885191/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
 | Vendredi 27 mars 2026 à 09:00 | [agile-bordeaux](agile-bordeaux/) | [Agile Games France 2026 - J1](https://agilegamesfrance.fr/doku.php?id=evenement_2026) | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->

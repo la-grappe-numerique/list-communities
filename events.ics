@@ -6,9 +6,35 @@ X-WR-CALDESC:Calendrier global de tous les événements communautaires
 X-WR-CALNAME:Tous les événements communautaires
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:CQRS & Event Sourcing : La revanche des micro-services
+DTSTART;TZID=Europe/Paris:20260402T190000
+DTEND;TZID=Europe/Paris:20260402T210000
+UID:https://www.meetup.com/bordeauxjug/events/313885181/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/313885181/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr\n\nSi 
+ vous travaillez avec une architecture récente\, il y a fort à parier que
+  vous avez déjà mis les mains dans des micro-services. Et il y a égalem
+ ent des chances que vous ayez\, un jour\, été confronté.e à cette situ
+ ation (trop) familière : “Mais comment cette donnée pourrie a bien pu 
+ se retrouver dans la DB 💩 ?!”\n**Ce problème est malheureusement uni
+ versel !** Dans les systèmes distribués\, la traçabilité des données 
+ peut devenir très rapidement un casse-tête : des flux compliqués\, des 
+ responsabilités multiples\, des bugs alambiqués… 😵‍💫\nCe talk 
+ propose une approche concrète pour **résoudre ce défi des temps moderne
+ s** en combinant trois principes clé pour construire une architecture per
+ mettant :\n\n* Traçabilité des données 🕵️\n* Conservation de la sc
+ alabilité 📈\n* Aucun sacrifice de performance ⚡\n\n**La session s’
+ appuie sur une démonstration live** mettant en œuvre cette approche et d
+ émontrant son impact réel sur la compréhension et la fiabilité des flu
+ x de données 🧑‍💻!\n\nCommunauté: bordeauxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/313885181/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Assemblée Générales 2026
-DTSTART;TZID=Europe/Paris:20260322T190000
-DTEND;TZID=Europe/Paris:20260322T210000
+DTSTART;TZID=Europe/Paris:20260326T190000
+DTEND;TZID=Europe/Paris:20260326T210000
 UID:https://www.meetup.com/bordeauxjug/events/313885191/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/313885191/\n
  📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr\n\nLes
