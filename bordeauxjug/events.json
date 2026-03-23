@@ -15,6 +15,15 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
   },
   {
+    "title": "CQRS & Event Sourcing : La revanche des micro-services",
+    "date": "2026-04-02T18:50:00",
+    "url": "https://www.bordeauxjug.org/meetings/20260402-cqrs_&_event_sourcing_:_la_revanche_des_micro-services",
+    "description": "Si vous travaillez avec une architecture récente, il y a fort à parier que vous avez déjà mis les mains dans des micro-services. Et il y a également des chances que vous ayez, un jour, été confronté.e à cette situation (trop) familière : “Mais comment cette donnée pourrie a bien pu se retrouver dans la DB 💩 ?!”\nCe problème est malheureusement universel ! Dans les systèmes distribués, la traçabilité des données peut devenir très rapidement un casse-tête : des flux compliqués, des responsabilités multiples, des bugs alambiqués… 😵‍💫\nCe talk propose une approche concrète pour résoudre ce défi des temps modernes en combinant trois principes clé pour construire une architecture permettant :\n\nTraçabilité des données 🕵️\nConservation de la scalabilité 📈\nAucun sacrifice de performance ⚡",
+    "community": "bordeauxjug",
+    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer · Talence",
+    "is_online": false
+  },
+  {
     "title": "Assemblée Générales 2026",
     "date": "2026-03-26T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/313885191/",
