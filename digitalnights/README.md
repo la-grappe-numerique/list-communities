@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/digitalnights/events.ics](/digitalnights/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 07 avril 2026 à 19:00 | Afterwork networking entre acteur du digital - DN#23 | Aquinum - Le Node 12 Rue des Faussets  33000 Bordeaux | https://www.eventbrite.fr/e/billets-afterwork-networking-entre-acteur-du-digital-dn23-1984501608733?keep_tld=true |
+
 ## 📆 Past Events
 
 <details>
