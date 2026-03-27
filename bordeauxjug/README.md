@@ -24,7 +24,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](/borde
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Jeudi 26 mars 2026 à 19:00 | Assemblée Générales 2026 | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313885191/ |
 | Jeudi 02 avril 2026 à 19:00 | CQRS & Event Sourcing : La revanche des micro-services | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313885181/ |
 
 ## 📆 Past Events
@@ -34,6 +33,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjug/events.ics](/borde
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Jeudi 26 mars 2026 à 19:00 | Assemblée Générales 2026 | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313885191/ |
 | Jeudi 19 mars 2026 à 19:00 | Openrewrite: Refactoring as code | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313662953/ |
 | Jeudi 26 février 2026 à 19:00 | Spring AI en action : intégrer les capacités des LLM dans vos applications Java | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/313356172/ |
 | Jeudi 22 janvier 2026 à 19:00 | Kafka 4, fantastique ? | 1 Avenue du Docteur Albert Schweitzer, Talence | https://www.meetup.com/bordeauxjug/events/312859620/ |
