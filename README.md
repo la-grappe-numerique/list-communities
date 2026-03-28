@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Vendredi 27 mars 2026 à 09:00 | [agile-bordeaux](agile-bordeaux/) | [Agile Games France 2026 - J1](https://agilegamesfrance.fr/doku.php?id=evenement_2026) | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux |
 | Samedi 28 mars 2026 à 09:00 | [agile-bordeaux](agile-bordeaux/) | [Agile Games France 2026 - J2](https://yp.events/eefdd201-32d4-4300-bd0f-a9423b258d89/Agile-Games-France-2026) | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux |
 | Jeudi 02 avril 2026 à 18:30 | [human-talks](human-talks/) | [Human Talks x FrenchProduit Bdx - Parcours & transformations de Product Managers](https://www.meetup.com/human-talks-bordeaux/events/313793684/) | 107 Cours Balguerie Stuttenberg, Bordeaux |
+| Jeudi 02 avril 2026 à 19:00 | [bordeauxjug](bordeauxjug/) | [CQRS & Event Sourcing : La revanche des micro-services](https://www.meetup.com/bordeauxjug/events/313885181/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
