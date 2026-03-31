@@ -7,6 +7,73 @@ X-WR-CALDESC:Calendrier des événements de la communauté women-in-tech-b
 X-WR-CALNAME:Événements women-in-tech-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Santé mentale et biais cognitif : la tech à l’épreuve de l’
+ humain
+DTSTART;TZID=Europe/Paris:20260421T183000
+DTEND;TZID=Europe/Paris:20260421T203000
+UID:https://luma.com/sb9a2gj1@community-events
+DESCRIPTION:🔗 https://luma.com/sb9a2gj1\n📍 20 Parv. des Chartrons\, 
+ 33000 Bordeaux\n\n​Rejoins nous pour un moment d'échange autour de la s
+ anté mentale et des biais cognitifs\, dans la tech.\nPour cette session\,
+  on te propose deux interventions pour mieux comprendre\, questionner et r
+ eprendre la main.\n\n**​1️⃣ INFO PRATIQUES**\n\n​​📍MIRAKL\, 2
+ 0 Parvis des Chartrons\, 33000 Bordeaux\n🕡 18h30 : accueil\n🎙 19h : 
+ talks\n🍸 20h30 : échanges + cocktail (végé friendly)\n👋 21h30 : f
+ in de soirée\n​L’événement est gratuit mais les places sont limité
+ es : inscris toi ici pour réserver la tienne !\n\n**2️⃣ PRÉSENTATION
+ S**\n\n**​« Soft skills\, hard truths\, survivre ou s’épanouir au tr
+ avail »\, par Sarah Gicquel**\n\n​Cette conférence\, c’est un défou
+ loir.\n\n​Comme ce moment où\, seule face à son miroir\, on laisse enf
+ in sortir ce qu’on n’a pas osé dire.\n\n​C’est mieux comprendre d
+ ’où vient le burn out\, reconnaître le culte de la productivité et le
+ urs impacts sur notre santé mentale.\n\n​C’est trouver un endroit où
+  enfin on peut parler de santé mentale féminine sans se juger\, baisser 
+ sa garde.\n\n​C’est reconnaitre les difficultés d’une femme dans la
+  tech. Confrontée parfois ou souvent à un environnement de travail qui n
+ ’est pas toujours sain. Se demander parfois comment on peut trouver sa p
+ lace sans se perdre\, rester soi-même dans un système qui nous bouscule.
+ \n\n​Elle est faite pour se retrouver\, se reconnecter à pourquoi on a 
+ commencé dans cette voie\, plutôt qu’une autre.  Repenser les dépense
+ s de notre énergie\, lorsqu’on a l’impression qu’on nous en prend t
+ rop.  En retrouver\, pour se la partager.\n\n\n**​« Le rôle de l'humai
+ n dans la machine : Qui se cache derrière les algorithmes ? »\, par Nina
+  Franiatte**\n\n​Notre cerveau n’est pas parfaitement rationnel. Les s
+ ciences cognitives ont montré que nos jugements sont influencés par de n
+ ombreux biais cognitifs\, qui peuvent parfois conduire à des décisions i
+ njustes ou discriminatoires.\n\n​À l’heure où les algorithmes et l
+ ’intelligence artificielle occupent une place croissante dans nos socié
+ tés\, on espère souvent que ces technologies permettront de rendre les d
+ écisions plus objectives. Mais que se passe-t-il lorsque des machines son
+ t conçues par des humains eux-mêmes biaisés ?\n\n​Dans ce talk\, nous
+  explorerons l’origine des biais algorithmiques du point de vue du facte
+ ur humain. Nous nous intéresserons aux humains derrière la machine : com
+ ment les biais cognitifs peuvent influencer la conception des systèmes et
+  se retrouver\, parfois sans le vouloir\, intégrés dans les technologies
+  que nous créons ? Réponse le 21 avril !\n\n\n**​​​3️⃣ A PROPO
+ S DES INTERVENANTES**\n\n**​​À propos de Sarah**\n​Infirmière en s
+ anté mentale\, elle s’intéresse aux gens à la manière dont ils viven
+ t leur travail\, leurs émotions et leurs relations. Elle travaille en ser
+ vice d’hospitalisation en psychiatrie fermée\, et elle a appris à obse
+ rver les conséquences de certaines difficultés. Elle est passionnée de 
+ prise de parole en public. Lauréate de concours\, amatrice d’impro\, fo
+ rmatrice en animation. Pour elle\, la parole\, c’est du partage\, de la 
+ richesse et un outil de pouvoir. Son approche\, c’est la curiosité. Ell
+ e n’a découvert l’univers de la tech que récemment\, par amitié. Sa
+  légitimité\, c’est celle de croiser les univers et de les connecter l
+ es uns ou autres\, afin d’y mettre\, partout\, du sens.\n\n**​​À pr
+ opos de Nina**\n​Après un diplôme d’ingénieure à l’École Nation
+ ale Supérieure de Cognitique de Bordeaux\, Nina a rejoint le laboratoire 
+ LaPsyDE de l’Université Paris Cité pour effectuer un doctorat en scien
+ ces cognitives sous la direction du Dr Wim De Neys\, en collaboration avec
+  l'entreprise onepoint. Ses travaux de recherche portent sur les processus
+  cognitifs impliqués dans le raisonnement humain et visent à développer
+  des méthodes pour limiter l'impact négatif des biais cognitifs et amél
+ iorer la prise de décision.\n\nCommunauté: women-in-tech-bordeaux
+LOCATION:20 Parv. des Chartrons\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/sb9a2gj1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cyber & Expertise : rendre visible l’invisible
 DTSTART;TZID=Europe/Paris:20251204T183000
 DTEND;TZID=Europe/Paris:20251204T203000
