@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 06 avril 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/311567891/) | 9 Rue de Condé, Bordeaux |
 | Mardi 07 avril 2026 à 19:00 | [gdg-bordeaux](gdg-bordeaux/) | [Tech Quiz / Get Together #3](https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/) | 12 rue des Faussets, bordeaux |
 | Mardi 07 avril 2026 à 19:00 | [digitalnights](digitalnights/) | [Afterwork networking entre acteur du digital - DN#23](https://www.eventbrite.fr/e/billets-afterwork-networking-entre-acteur-du-digital-dn23-1984501608733?keep_tld=true) | Aquinum - Le Node 12 Rue des Faussets  33000 Bordeaux |
+| Mardi 14 avril 2026 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [After work post-AGFr](https://www.linkedin.com/events/7434682990204698624) | Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  33700 MERIGNAC |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
