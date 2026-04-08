@@ -22,9 +22,13 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/gdg-bordeaux/events.ics](/gdg-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mardi 07 avril 2026 à 19:00 | Tech Quiz / Get Together #3 | 12 rue des Faussets, bordeaux | https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/ |
+</details>
 <!-- EVENTS:END -->
