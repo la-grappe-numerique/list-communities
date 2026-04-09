@@ -100,7 +100,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 |------|------------|--------|-----------|
 | Mardi 14 avril 2026 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [After work post-AGFr](https://www.linkedin.com/events/7434682990204698624) | Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  33700 MERIGNAC |
 | Mardi 21 avril 2026 à 18:30 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Santé mentale et biais cognitif : la tech à l’épreuve de l’humain](https://luma.com/sb9a2gj1) | 20 Parv. des Chartrons, 33000 Bordeaux |
-| Lundi 04 mai 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjchbgb/) | 9 Rue de Condé, Bordeaux |
+| Jeudi 23 avril 2026 à 19:00 | [bordeauxjs](bordeauxjs/) | [Automatiser ses mises en production avec GitHub Actions](https://luma.com/f11067ro) | 5 Quai Lawton 33300 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

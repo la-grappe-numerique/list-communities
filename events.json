@@ -89,6 +89,17 @@
     ]
   },
   {
+    "title": "Automatiser ses mises en production avec GitHub Actions",
+    "date": "2026-04-23T19:00:00",
+    "url": "https://luma.com/f11067ro",
+    "description": "**À propos de l'événement :**\n​Dans ce talk, Axel partagera son retour d’expérience sur la mise en place de processus automatisés de mise en production avec GitHub Actions.\n\n​À travers des cas concrets rencontrés dans deux entreprises différentes, il montrera comment fiabiliser les déploiements, réduire les tâches manuelles et gagner en sérénité au moment de livrer en production.\n\n​Un talk orienté terrain pour mieux comprendre comment structurer ses workflows CI/CD et rendre ses mises en production plus fluides, plus sûres et plus reproductibles.\n\n**Notre speaker :**\nAxel Mathieu-Le Gall est Senior Full Stack Developer chez Wealthcome. Basé à Bordeaux, il travaille sur des sujets web et s’intéresse particulièrement à l’automatisation, à la CI/CD et à la fiabilisation des mises en production.\n\n**Notre host et sponsor :**\nProgramisto, une société de conseil tech basée à Bordeaux, avec une activité autour du développement logiciel, de la QA, du product management et du pilotage de projet.",
+    "location": "5 Quai Lawton 33300 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
+    ]
+  },
+  {
     "title": "Santé mentale et biais cognitif : la tech à l’épreuve de l’humain",
     "date": "2026-04-21T18:30:00",
     "url": "https://luma.com/sb9a2gj1",

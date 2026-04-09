@@ -5,6 +5,31 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Automatiser ses mises en production avec GitHub Actions
+DTSTART;TZID=Europe/Paris:20260423T190000
+DTEND;TZID=Europe/Paris:20260423T210000
+UID:https://luma.com/f11067ro@community-events
+DESCRIPTION:🔗 https://luma.com/f11067ro\n📍 5 Quai Lawton 33300 Borde
+ aux\n\n**À propos de l'événement :**\n​Dans ce talk\, Axel partagera 
+ son retour d’expérience sur la mise en place de processus automatisés 
+ de mise en production avec GitHub Actions.\n\n​À travers des cas concre
+ ts rencontrés dans deux entreprises différentes\, il montrera comment fi
+ abiliser les déploiements\, réduire les tâches manuelles et gagner en s
+ érénité au moment de livrer en production.\n\n​Un talk orienté terra
+ in pour mieux comprendre comment structurer ses workflows CI/CD et rendre 
+ ses mises en production plus fluides\, plus sûres et plus reproductibles.
+ \n\n**Notre speaker :**\nAxel Mathieu-Le Gall est Senior Full Stack Develo
+ per chez Wealthcome. Basé à Bordeaux\, il travaille sur des sujets web e
+ t s’intéresse particulièrement à l’automatisation\, à la CI/CD et 
+ à la fiabilisation des mises en production.\n\n**Notre host et sponsor :*
+ *\nProgramisto\, une société de conseil tech basée à Bordeaux\, avec u
+ ne activité autour du développement logiciel\, de la QA\, du product man
+ agement et du pilotage de projet.\n\nCommunauté: bordeauxjs
+LOCATION:5 Quai Lawton 33300 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/f11067ro
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:jq - deal with JSON like a boss
 DTSTART;TZID=Europe/Paris:20260312T190000
 DTEND;TZID=Europe/Paris:20260312T210000

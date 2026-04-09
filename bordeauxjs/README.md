@@ -14,6 +14,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](/bordeauxjs/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 23 avril 2026 à 19:00 | Automatiser ses mises en production avec GitHub Actions | 5 Quai Lawton 33300 Bordeaux | https://luma.com/f11067ro |
+
 ## 📆 Past Events
 
 <details>
