@@ -16687,6 +16687,39 @@ TZID:Europe/Paris
 URL:https://event.afup.org/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:#67 : Dompter le refactoring
+DTSTART;TZID=Europe/Paris:20260430T190000
+DTEND;TZID=Europe/Paris:20260430T210000
+UID:https://www.meetup.com/bordeaux-php-meetup/events/314161757/@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3141617
+ 57/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr\n\nAvant
+  la présentation des talks\, rappelez-vous que le meetup se termine par u
+ n **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de r
+ encontrer de nouvelles personnes et d'échanger autour de PHP et son écos
+ ystème.\n\nLa parole à notre chère speakeuse 🎉\n\n**\\#\\#\\#\\# Dom
+ pter le refactoring**\nPar [Nerea Enrique](https://www.linkedin.com/in/ner
+ ea-enrique-448599a8/)\, Ingénieure séniore PHP @ekino\n\n\\*\\*Refactori
+ ng: \\*nom propre \\*\\*\\*🥁\nCette épreuve qui fait trembler et trans
+ pirer les développeurs•euses **et** le métier.\nQuand un•e développ
+ eur•euse prononce le mot “refacto” dans une phrase le silence s’in
+ stalle dans la salle ou le meet\, on pourrait presque entendre les mouches
+  voler. Derrière ce simple mot s’en cachent d’autres : “risqué”\
+ , “coûteux”\, …\n\nLa vérité\, c’est que le refactoring ne devr
+ ait pas rimer avec “danger”. Il devrait rimer avec **sérénité**.\n\
+ nComme toute autre tâche\, une “refacto” peut être analysée et trai
+ tée par des techniques simples. Ces techniques ont un nom\, une probléma
+ tique à résoudre et une résolution.\nLe but final étant d’intervenir
+  en toute sécurité **et** sérénité dans un code fragile\, sans bloque
+ r l’équipe de devs / métier et sans arrêter l’apport de valeur au p
+ roduit.\n\nVous quitterez la salle avec des illustrations simples et clair
+ es et l’envie de mettre ça en place à votre tour !\n\nCommunauté: afu
+ p-bordeaux
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-php-meetup/events/314161757/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:#66 : Introduction à la dettes non-technique
 DTSTART;TZID=Europe/Paris:20260325T190000
 DTEND;TZID=Europe/Paris:20260325T210000
