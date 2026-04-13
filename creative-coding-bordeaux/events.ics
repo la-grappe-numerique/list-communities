@@ -7,6 +7,35 @@ X-WR-CALDESC:Calendrier des événements de la communauté creative-coding
 X-WR-CALNAME:Événements creative-coding-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Playground #6 - Creative Coding
+DTSTART;TZID=Europe/Paris:20260421T190000
+DTEND;TZID=Europe/Paris:20260421T210000
+UID:https://www.meetup.com/creative-coding-bordeaux/events/314245132/@comm
+ unity-events
+DESCRIPTION:🔗 https://www.meetup.com/creative-coding-bordeaux/events/31
+ 4245132/\n📍 20 Rue Saint-François\, 20 Rue Saint-François\, Bordeaux\
+ , fr\n\n[Playground](https://plgrnd.cc) est une rencontre destinée au par
+ tage d'idées\, de techniques et de passions autour de l'art algorithmique
+  et de la programmation créative\, de l'image au son\, et au delà. Cet 
+ évènement est ouvert à tous·tes\, peu importe l'expérience.\n\nMardi 
+ 21 avril\, [Romain aka Krusty](https://demozoo.org/sceners/13230/) reviend
+ ra sur la [Revision](https://2026.revision-party.net/) et les [Meteoriks a
+ wards](https://2026.meteoriks.org/) : rétrospective des productions\, des
+  tendances et des moments marquants de la scène demo.\n\nNous ferons éga
+ lement la découverte interactive de [Shabda](https://shabda.ndre.gr/)\, u
+ n outil générateur de surprise dans une pratique de livecoding sonore\, 
+ avec [Alex](https://instagram.com/ilesinge).\n\nNous serons hébergé·e·
+ s dans les locaux de Deezer à Bordeaux et ce sera également l'occasion d
+ 'échanger sur nos projets et nos passions.\n\n**Amenez vos idées !** Et 
+ pourquoi pas vos laptops\, pour des petites séances improvisées\, de dé
+ mos\, apprentissage\, et autres découvertes (débutant·e·s bienvenu·e
+ ·s).\n\nAmenez des choses à grignoter ou à boire si vous le souhaitez.\
+ n\nCommunauté: creative-coding-bordeaux
+LOCATION:20 Rue Saint-François\, 20 Rue Saint-François\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/creative-coding-bordeaux/events/314245132/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Off-Playground - Creative Coding
 DTSTART;TZID=Europe/Paris:20260305T190000
 DTEND;TZID=Europe/Paris:20260305T210000

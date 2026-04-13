@@ -14,6 +14,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/creative-coding-bordeaux/events.ics](/creative-coding-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 21 avril 2026 à 19:00 | Playground #6 - Creative Coding | 20 Rue Saint-François, Bordeaux | https://www.meetup.com/creative-coding-bordeaux/events/314245132/ |
+
 ## 📆 Past Events
 
 <details>
