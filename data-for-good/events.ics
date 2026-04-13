@@ -5,6 +5,27 @@ X-WR-CALDESC:Calendrier des événements de la communauté data-for-good
 X-WR-CALNAME:Événements data-for-good
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🌱 [ATELIER - La Fresque de la Biodiversité x Data for Good Bor
+ deaux]
+DTSTART;TZID=Europe/Paris:20260414T183000
+DTEND;TZID=Europe/Paris:20260414T203000
+UID:https://www.billetweb.fr/gironde-33@community-events
+DESCRIPTION:🔗 https://www.billetweb.fr/gironde-33\n📍 Le node\, 12 ru
+ e des Faussets\, 33000 Bordeaux\n\n🌱 [ATELIER - La Fresque de la Biodiv
+ ersité x Data for Good Bordeaux]\n\nVenez participer à un atelier ludiqu
+ e\, collaboratif et ancré dans la science pour explorer les mécanismes d
+ u vivant\, comprendre les 5 grandes pressions menaçant la biodiversité e
+ t surtout échanger concrètement sur nos leviers d’action pour la prés
+ erver!\n\nSi le sujet t’interpelle\, cet atelier est fait pour toi 🌿\
+ n\nInfos pratiques\n📅 Quand : mardi 14 avril 2026 de 18h30 à 21h30\n
+ 📍 Où : Le Node Bordeaux (AQUINUM)\n\n👥 Places limitées à 10 perso
+ nnes\n\n➡️ Inscriptions: https://www.billetweb.fr/gironde-33\n\nCommun
+ auté: data-for-good
+LOCATION:Le node\, 12 rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.billetweb.fr/gironde-33
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fresque du Numérique
 DTSTART;TZID=Europe/Paris:20260225T183000
 DTEND;TZID=Europe/Paris:20260225T203000

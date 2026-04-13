@@ -30,6 +30,12 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 | Notion Calendrier       | https://dataforgood.notion.site/calendrier |
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 14 avril 2026 à 18:30 | 🌱 [ATELIER - La Fresque de la Biodiversité x Data for Good Bordeaux] | Le node, 12 rue des Faussets, 33000 Bordeaux | https://www.billetweb.fr/gironde-33 |
+
 ## 📆 Past Events
 
 <details>
