@@ -19,6 +19,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](/mtg-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 30 avril 2026 à 18:00 | GitHub Copilot Dev Days | Bordeaux | 55 Cours Georges Clemenceau, Bordeaux | https://www.meetup.com/mtg-bordeaux/events/314271013/ |
+
 ## 📆 Past Events
 
 <details>

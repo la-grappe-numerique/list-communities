@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 14 avril 2026 à 18:30 | [data-for-good](data-for-good/) | [🌱 [ATELIER - La Fresque de la Biodiversité x Data for Good Bordeaux]](https://www.billetweb.fr/gironde-33) | Le node, 12 rue des Faussets, 33000 Bordeaux |
 | Mardi 21 avril 2026 à 18:30 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Santé mentale et biais cognitif : la tech à l’épreuve de l’humain](https://luma.com/sb9a2gj1) | 20 Parv. des Chartrons, 33000 Bordeaux |
 | Mardi 21 avril 2026 à 19:00 | [creative-coding-bordeaux](creative-coding-bordeaux/) | [Playground #6 - Creative Coding](https://www.meetup.com/creative-coding-bordeaux/events/314245132/) | 20 Rue Saint-François, Bordeaux |
+| Jeudi 23 avril 2026 à 19:00 | [bordeauxjs](bordeauxjs/) | [Automatiser ses mises en production avec GitHub Actions](https://luma.com/f11067ro) | 5 Quai Lawton 33300 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

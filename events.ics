@@ -6,6 +6,38 @@ X-WR-CALDESC:Calendrier global de tous les événements communautaires
 X-WR-CALNAME:Tous les événements communautaires
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:GitHub Copilot Dev Days | Bordeaux
+DTSTART;TZID=Europe/Paris:20260430T180000
+DTEND;TZID=Europe/Paris:20260430T200000
+UID:https://www.meetup.com/mtg-bordeaux/events/314271013/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/314271013/\n
+ 📍 Avanade Bordeaux\, 55 Cours Georges Clemenceau\, Bordeaux\, fr\n\n**G
+ itHub Copilot Dev Days – Bordeaux**\n\nRejoignez-nous pour un évènemen
+ t tech consacré au développement assisté par l'IA avec **GitHub Copilot
+ .** Au programme les dernières nouveautés (avec peut-être quelques surp
+ rises 🤩)\, des retours d'expérience\, des démos et même un peu de pr
+ atique pour celles et ceux qui voudront faire le lab en même temps que no
+ us. Que vous soyez débutant·e ou développ·eur·euse expérimenté·e\,
+  cet événement est fait pour vous !\n\n**📅 Programme de l’événeme
+ nt**\n*18h* – **Accueil & Networking**\nRencontrez d’autres développ
+ ·eurs·euses et préparez-vous pour une session passionnante.\n*18h10* 
+ – **Bienvenue & Introduction**\nPrésentation du déroulé de la soirée
+  et des intervenant·e·s.\n*18h20* – **Démarrage des présentations te
+ chniques (Nouveautés GitHub Copilot\, GitHub Copilot CLI\, Agentic Workfl
+ ows\, ... programme détaillé à venir)**\n*20h35* – **Clôture & Netwo
+ rking**\nProfitez d’un moment de networking.\n\n**📍 Lieu de l’évé
+ nement :** L'événement aura lieu dans les locaux d'Avanade Bordeaux\, au
+  55 cours Georges Clémenceau\, 33000 Bordeaux\n\n💻 **Pensez à apporte
+ r votre ordinateur portable si jamais vous voulez expérimenter les démos
+  et le lab en même temps que nous !**\n\n**📜 Code de conduite**\nNous 
+ nous engageons à créer un environnement inclusif et accueillant pour tou
+ s les participants. Merci de consulter notre [Code de conduite](https://ww
+ w.mtg-france.org/coc) avant de participer.\n\nCommunauté: mtg-bordeaux
+LOCATION:Avanade Bordeaux\, 55 Cours Georges Clemenceau\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/314271013/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IA : Productivité\, Données et réalité
 DTSTART;TZID=Europe/Paris:20260204T180000
 DTEND;TZID=Europe/Paris:20260204T200000
