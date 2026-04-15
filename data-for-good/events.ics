@@ -5,6 +5,39 @@ X-WR-CALDESC:Calendrier des événements de la communauté data-for-good
 X-WR-CALNAME:Événements data-for-good
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Demo Day S14
+DTSTART;TZID=Europe/Paris:20260512T183000
+DTEND;TZID=Europe/Paris:20260512T203000
+UID:https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-19
+ 87488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=disco
+ very&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/demo-day-data-for-good-bordea
+ ux-tickets-1987488652060?utm-campaign=social&utm-content=attendeeshare&utm
+ -medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl\n📍 L
+ e node\, 12 rue des Faussets\, 33000 Bordeaux\n\n🥳 Mardi 12 mai\, l’a
+ ntenne bordelaise de Data For Good vous invite au Node pour revivre la gra
+ nde soirée de présentation des projets de la saison 14 !\n\n🤝 Chaque 
+ année une douzaine de projets portés par des associations expertes et qu
+ i défendent la justice sociale\, l'environnement et la démocratie sont s
+ électionnés.\n\n🛠️ Pendant 4 mois\, les bénévoles de Data For Goo
+ d se mobilisent et accompagnent ces associations dans la construction d'ou
+ tils numériques qui leur sont nécessaires\, le tout dans une démarche d
+ e sobriété numérique et en développant le plus possible des outils ope
+ n source.\n\nCes quatre mois de travail touchent à leur fin et nous somme
+ s prêts.es à vous présenter les projets co-développés auprès des ass
+ ociations.\n\nC'est l'occasion de :\n👉 rencontrer les bénévoles de l'
+ association\n👉 comprendre le fonctionnement et l'impact de la saison Da
+ ta For Good\n\n📋 Au programme\, une présentation des projets\, des tem
+ ps pour échanger et un apéro en mode auberge espagnole!\n\n📅 RDV Mard
+ i 12 mai de 18h30 à 21h00 à Le Node Aquinum\n\nCommunauté: data-for-goo
+ d
+LOCATION:Le node\, 12 rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-19
+ 87488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=disco
+ very&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🌱 [ATELIER - La Fresque de la Biodiversité x Data for Good Bor
  deaux]
 DTSTART;TZID=Europe/Paris:20260414T183000

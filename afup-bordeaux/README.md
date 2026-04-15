@@ -23,7 +23,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](/afu
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 30 avril 2026 à 19:00 | #67 : Dompter le refactoring | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/314161757/ |
-| Vendredi 22 mai 2026 à 09:00 | AFUP Day 2026 Bordeaux | Bordeaux Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat | https://event.afup.org/ |
+| Vendredi 22 mai 2026 à 09:00 | AFUP Day 2026 Bordeaux | TBD | https://event.afup.org/ |
 
 ## 📆 Past Events
 
