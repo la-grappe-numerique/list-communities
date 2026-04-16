@@ -34,7 +34,7 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mardi 12 mai 2026 à 18:30 | Demo Day S14 | Le node, 12 rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-1987488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl |
+| Lundi 11 mai 2026 à 18:30 | Demo Day S14 | Le node, 12 rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-1987488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl |
 
 ## 📆 Past Events
 
