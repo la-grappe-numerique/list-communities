@@ -5385,6 +5385,26 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytkbrb/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Édition d'avril – Afterwork convivial
+DTSTART;TZID=Europe/Paris:20260422T183000
+DTEND;TZID=Europe/Paris:20260422T203000
+UID:https://www.aquinum.fr/l-association-aquinum/@community-events
+DESCRIPTION:🔗 https://www.aquinum.fr/l-association-aquinum/\n📍 Le No
+ de\, 12 Rue des Faussets\, 33000 Bordeaux\n\nHappyNum du mois 🍷\n\nOn s
+ e retrouve pour un HappyNum en mode afterwork convivial !\n\nLe principe :
+  une auberge espagnole\, chacun ramène ce qu’il veut (à boire\, à man
+ ger) et on partage le tout dans une ambiance simple et sympa.\n🍷 Une d
+ égustation de vin est aussi proposée pour ceux qui veulent participer (p
+ laces limitées).\n👉 Pour s’inscrire\, envoyez un message à contact@
+ aquinum.fr\n\nPas besoin d’inscription pour le reste de la soirée : vou
+ s venez comme vous êtes\, avec quelque chose à partager.\nL’idée\, c
+ ’est juste de se retrouver\, échanger et passer un bon moment ensemble.
+  Alors on vous attend :)\n\nCommunauté: aquinum
+LOCATION:Le Node\, 12 Rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.aquinum.fr/l-association-aquinum/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Créer ton premier agent IA
 DTSTART;TZID=Europe/Paris:20251021T183000
 DTEND;TZID=Europe/Paris:20251021T203000

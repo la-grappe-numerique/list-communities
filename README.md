@@ -100,7 +100,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 |------|------------|--------|-----------|
 | Mardi 21 avril 2026 à 18:30 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Santé mentale et biais cognitif : la tech à l’épreuve de l’humain](https://luma.com/sb9a2gj1) | 20 Parv. des Chartrons, 33000 Bordeaux |
 | Mardi 21 avril 2026 à 19:00 | [creative-coding-bordeaux](creative-coding-bordeaux/) | [Playground #6 - Creative Coding](https://www.meetup.com/creative-coding-bordeaux/events/314245132/) | 20 Rue Saint-François, Bordeaux |
-| Jeudi 23 avril 2026 à 19:00 | [bordeauxjs](bordeauxjs/) | [Automatiser ses mises en production avec GitHub Actions](https://luma.com/f11067ro) | 5 Quai Lawton 33300 Bordeaux |
+| Mercredi 22 avril 2026 à 18:30 | [aquinum](aquinum/) | [Édition d'avril – Afterwork convivial](https://www.aquinum.fr/l-association-aquinum/) | Le Node, 12 Rue des Faussets, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
