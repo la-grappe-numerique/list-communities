@@ -1,5 +1,14 @@
 [
   {
+    "title": "Et si vous arrêtiez de coder votre API avant de l'avoir pensée ?",
+    "date": "2026-05-12T18:30:00",
+    "url": "https://luma.com/r2vnp9kp",
+    "description": "Deux grandes familles d'**API** coexistent aujourd'hui : les API **synchrones** (REST) et **asynchrones** (Messaging, EDA). Pour chacune, une spécification s'est imposée: **OpenAPI** d'un côté, **AsyncAPI** de l'autre.\n\nAu travers de démos concrètes, **Philippe Bousquet**  nous montrera comment l'approche **Design First** permet de définir son API en amont et d'en tirer parti pour la documentation, la génération de code et bien plus encore.\n\nRetours d'expérience et convictions personnelles de Philippe inclus 😃",
+    "community": "bordeauxjs",
+    "location": "Le Node, 12 rue des Faussets 33000 Bordeaux",
+    "is_online": false
+  },
+  {
     "title": "Automatiser ses mises en production avec GitHub Actions",
     "date": "2026-04-23T19:00:00",
     "url": "https://luma.com/f11067ro",
