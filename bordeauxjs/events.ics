@@ -5,6 +5,24 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Et si vous arrêtiez de coder votre API avant de l'avoir pensée ?
+DTSTART;TZID=Europe/Paris:20260512T183000
+DTEND;TZID=Europe/Paris:20260512T203000
+UID:https://luma.com/r2vnp9kp@community-events
+DESCRIPTION:🔗 https://luma.com/r2vnp9kp\n📍 Le Node\, 12 rue des Faus
+ sets 33000 Bordeaux\n\nDeux grandes familles d'**API** coexistent aujourd'
+ hui : les API **synchrones** (REST) et **asynchrones** (Messaging\, EDA). 
+ Pour chacune\, une spécification s'est imposée: **OpenAPI** d'un côté\
+ , **AsyncAPI** de l'autre.\n\nAu travers de démos concrètes\, **Philippe
+  Bousquet**  nous montrera comment l'approche **Design First** permet de d
+ éfinir son API en amont et d'en tirer parti pour la documentation\, la g
+ énération de code et bien plus encore.\n\nRetours d'expérience et convi
+ ctions personnelles de Philippe inclus 😃\n\nCommunauté: bordeauxjs
+LOCATION:Le Node\, 12 rue des Faussets 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/r2vnp9kp
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Automatiser ses mises en production avec GitHub Actions
 DTSTART;TZID=Europe/Paris:20260423T190000
 DTEND;TZID=Europe/Paris:20260423T210000

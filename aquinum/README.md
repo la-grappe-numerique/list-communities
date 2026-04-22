@@ -15,13 +15,15 @@ L'association organise plus de 150 événements par an, contribuant ainsi active
 🌍 Site web : https://www.aquinum.fr
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mercredi 22 avril 2026 à 18:30 | Édition d'avril – Afterwork convivial | Le Node, 12 Rue des Faussets, 33000 Bordeaux | https://www.aquinum.fr/l-association-aquinum/ |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>

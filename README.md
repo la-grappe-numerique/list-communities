@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 22 avril 2026 à 18:30 | [aquinum](aquinum/) | [Édition d'avril – Afterwork convivial](https://www.aquinum.fr/l-association-aquinum/) | Le Node, 12 Rue des Faussets, 33000 Bordeaux |
 | Jeudi 23 avril 2026 à 19:00 | [bordeauxjs](bordeauxjs/) | [Automatiser ses mises en production avec GitHub Actions](https://luma.com/f11067ro) | 5 Quai Lawton 33300 Bordeaux |
 | Mercredi 29 avril 2026 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [After work post-AGFr](https://the-playground.fr/m/after-work-post-agfr) | Randstad Digital - Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  33700 MERIGNAC |
+| Jeudi 30 avril 2026 à 18:00 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://www.meetup.com/mtg-bordeaux/events/314271013/) | 55 Cours Georges Clemenceau, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
