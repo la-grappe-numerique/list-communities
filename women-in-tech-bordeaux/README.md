@@ -21,13 +21,15 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/women-in-tech-bordeaux/events.ics](/women-in-tech-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Mardi 21 avril 2026 à 18:30 | Santé mentale et biais cognitif : la tech à l’épreuve de l’humain | 20 Parv. des Chartrons, 33000 Bordeaux | https://luma.com/sb9a2gj1 |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>
