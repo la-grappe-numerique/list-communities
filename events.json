@@ -156,6 +156,17 @@
     ]
   },
   {
+    "title": "Club de lecture 26.3 - Le travail: Pourquoi travaillons-nous ?",
+    "date": "2026-04-25T10:00:00",
+    "url": "https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e17580184b26",
+    "description": "",
+    "location": "Le Node, 12 Rue des Faussets, 33000, Bordeaux",
+    "is_online": false,
+    "communities": [
+      "agile-bordeaux"
+    ]
+  },
+  {
     "title": "Automatiser ses mises en production avec GitHub Actions",
     "date": "2026-04-23T19:00:00",
     "url": "https://luma.com/f11067ro",

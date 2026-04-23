@@ -19,6 +19,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](/ag
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Samedi 25 avril 2026 à 10:00 | Club de lecture 26.3 - Le travail: Pourquoi travaillons-nous ? | Le Node, 12 Rue des Faussets, 33000, Bordeaux | https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e17580184b26 |
 | Mercredi 29 avril 2026 à 18:30 | After work post-AGFr | Randstad Digital - Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  33700 MERIGNAC | https://the-playground.fr/m/after-work-post-agfr |
 | Mardi 19 mai 2026 à 18:30 | Afterwork Agile Bordeaux | Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong 33700 MERIGNAC | https://the-playground.fr/m/au-secours-mon-manager-me-demande-des-kpis |
 

@@ -55,6 +55,19 @@ TZID:Europe/Paris
 URL:https://the-playground.fr/m/after-work-post-agfr
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club de lecture 26.3 - Le travail: Pourquoi travaillons-nous ?
+DTSTART;TZID=Europe/Paris:20260425T100000
+DTEND;TZID=Europe/Paris:20260425T120000
+UID:https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e17580184b26@commu
+ nity-events
+DESCRIPTION:🔗 https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e1758
+ 0184b26\n📍 Le Node\, 12 Rue des Faussets\, 33000\, Bordeaux\n\n\n\nComm
+ unauté: agile-bordeaux
+LOCATION:Le Node\, 12 Rue des Faussets\, 33000\, Bordeaux
+TZID:Europe/Paris
+URL:https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e17580184b26
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agile Games France 2026 - J2
 DTSTART;TZID=Europe/Paris:20260328T090000
 DTEND;TZID=Europe/Paris:20260328T110000
