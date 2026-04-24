@@ -675,17 +675,6 @@
     ]
   },
   {
-    "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
-    "date": "2026-01-28T18:30:00",
-    "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
-    "description": "Meetup Rétro 25 & Perspective 26 + Présentation Flash\n4ère Rencontre de la communauté XR Bordelaise autour des technologies immersives !\n\nRejoignez-nous pour une soirée conviviale et enrichissante :\n\n🎤 Présentations Flash ⚡\n🧑🏻‍🏫 Rétrospective 2025 et perspective 2026\n✨ Zone de Démo : Vous avez un projet XR à montrer ? C'est l'endroit idéal !\n🍕 Apéro Networking 🍷: pour échanger dans une ambiance conviviale ! Si vous le pouvez apportez de quoi grignoter ou boire.\n\n\n📍Le Node, 12 Rue des Faussets, Bordeaux - 🗓️28/01 - 🕐 18:30",
-    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
-    "is_online": false,
-    "communities": [
-      "bordeaux-xr"
-    ]
-  },
-  {
     "title": "Angular v21: Le framework se met à jour !",
     "date": "2026-01-28T18:30:00",
     "url": "https://luma.com/8ioijhjc",
@@ -694,6 +683,17 @@
     "is_online": false,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
+    "date": "2026-01-28T18:30:00",
+    "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
+    "description": "Meetup Rétro 25 & Perspective 26 + Présentation Flash\n4ère Rencontre de la communauté XR Bordelaise autour des technologies immersives !\n\nRejoignez-nous pour une soirée conviviale et enrichissante :\n\n🎤 Présentations Flash ⚡\n🧑🏻‍🏫 Rétrospective 2025 et perspective 2026\n✨ Zone de Démo : Vous avez un projet XR à montrer ? C'est l'endroit idéal !\n🍕 Apéro Networking 🍷: pour échanger dans une ambiance conviviale ! Si vous le pouvez apportez de quoi grignoter ou boire.\n\n\n📍Le Node, 12 Rue des Faussets, Bordeaux - 🗓️28/01 - 🕐 18:30",
+    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeaux-xr"
     ]
   },
   {
@@ -1738,23 +1738,6 @@
     ]
   },
   {
-    "title": "Super-Apéro 2025",
-    "date": "2025-03-20T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
-    "description": "Le 20 mars se tient **THE Super Apéro 2025** de l'AFUP 🎉\nCet événement a lieu dans plusieurs antennes de l’AFUP en même temps !Vous pouvez découvrir la liste en ligne ici : [https://afup.org/association/super-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fêtez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super intéressantes 😄 🤓",
-    "is_online": false,
-    "venue": {
-      "name": "The Frog & Rosbif, Bordeaux",
-      "address": "23 Rue Ausone",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "23 Rue Ausone, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Elasticsearch Query Language: ES|QL",
     "date": "2025-03-20T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
@@ -1769,6 +1752,23 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Super-Apéro 2025",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
+    "description": "Le 20 mars se tient **THE Super Apéro 2025** de l'AFUP 🎉\nCet événement a lieu dans plusieurs antennes de l’AFUP en même temps !Vous pouvez découvrir la liste en ligne ici : [https://afup.org/association/super-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fêtez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super intéressantes 😄 🤓",
+    "is_online": false,
+    "venue": {
+      "name": "The Frog & Rosbif, Bordeaux",
+      "address": "23 Rue Ausone",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "23 Rue Ausone, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -2376,23 +2376,6 @@
     ]
   },
   {
-    "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
-    "date": "2024-09-26T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
-    "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\nPour l'occasion, nous aurons le plaisir d'accueillir 2 speakeurs•euses qui nous présenterons en avant première avant le grand jour au [Forum PHP 2024](https://event.afup.org/) leurs talks respectifs 🎉\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nLa parole aux speakeurs•euses 📣\n**\\#\\#\\#\\# StandAAArdisez vos tests \\!**Par **Nerea Enrique**, ingénieure PHP chez **ekino**\n*Une bonne partie de notre travail consiste à lire et écrire des tests. Mais comment les unifier tout en gardant la maintenabilité et la robustesse ?**Une partie de la réponse pourrait bien se trouver dans le pattern AAA !*\n*Le pattern AAA (Arrange, Act, Assert) est une approche qui permet de structurer l’écriture de tests unitaires. Cela peut améliorer la qualité de notre code en nous forçant à écrire des tests concis et focalisés, ce qui rend le code plus facile à comprendre et à déboguer. Cependant, comme toute approche, le pattern AAA a aussi ses défis. Par exemple, il peut être difficile d’appliquer ce pattern dans des scénarios complexes.*\n*Voyons comment ce pattern peut simplifier notre écriture de tests !*\n**\\#\\#\\#\\# La goutte d’eau qui fait déborder le Cloud**Par **Julien Joye**, ingénieur PHP chez **ekino**\n*Vous déployez votre application Symfony bien architecturée en micro-services sur une infra kubernetes, trop bien !*\n*Mais avez-vous déjà essayé de faire tourner Drupal sur le même type d’infra ?*\n*Ça peut paraître trivial ; pourtant deux mentalités bien différentes viennent se confronter l’une à l’autre. Quand Drupal peut envoyer 800 requêtes SQL sur un cold start, ou faire transiter des téraoctets de données redis sur le réseau par mois, est-ce que k8s est toujours la solution ?*\n*Dans cette conférence, je vous fais un petit rappel de ce qu’est k8s, vous montre pourquoi Drupal (ou l’infra) peut devenir votre pire ennemi dans ce contexte, et comment éviter certains pièges.*",
-    "is_online": false,
-    "venue": {
-      "name": "HEMERA",
-      "address": "1 cours Xavier Arnozan, ",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 cours Xavier Arnozan, , Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Design First : OpenApi et AsyncApi en action !",
     "date": "2024-09-26T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
@@ -2407,6 +2390,23 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
+    "date": "2024-09-26T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
+    "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\nPour l'occasion, nous aurons le plaisir d'accueillir 2 speakeurs•euses qui nous présenterons en avant première avant le grand jour au [Forum PHP 2024](https://event.afup.org/) leurs talks respectifs 🎉\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nLa parole aux speakeurs•euses 📣\n**\\#\\#\\#\\# StandAAArdisez vos tests \\!**Par **Nerea Enrique**, ingénieure PHP chez **ekino**\n*Une bonne partie de notre travail consiste à lire et écrire des tests. Mais comment les unifier tout en gardant la maintenabilité et la robustesse ?**Une partie de la réponse pourrait bien se trouver dans le pattern AAA !*\n*Le pattern AAA (Arrange, Act, Assert) est une approche qui permet de structurer l’écriture de tests unitaires. Cela peut améliorer la qualité de notre code en nous forçant à écrire des tests concis et focalisés, ce qui rend le code plus facile à comprendre et à déboguer. Cependant, comme toute approche, le pattern AAA a aussi ses défis. Par exemple, il peut être difficile d’appliquer ce pattern dans des scénarios complexes.*\n*Voyons comment ce pattern peut simplifier notre écriture de tests !*\n**\\#\\#\\#\\# La goutte d’eau qui fait déborder le Cloud**Par **Julien Joye**, ingénieur PHP chez **ekino**\n*Vous déployez votre application Symfony bien architecturée en micro-services sur une infra kubernetes, trop bien !*\n*Mais avez-vous déjà essayé de faire tourner Drupal sur le même type d’infra ?*\n*Ça peut paraître trivial ; pourtant deux mentalités bien différentes viennent se confronter l’une à l’autre. Quand Drupal peut envoyer 800 requêtes SQL sur un cold start, ou faire transiter des téraoctets de données redis sur le réseau par mois, est-ce que k8s est toujours la solution ?*\n*Dans cette conférence, je vous fais un petit rappel de ce qu’est k8s, vous montre pourquoi Drupal (ou l’infra) peut devenir votre pire ennemi dans ce contexte, et comment éviter certains pièges.*",
+    "is_online": false,
+    "venue": {
+      "name": "HEMERA",
+      "address": "1 cours Xavier Arnozan, ",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 cours Xavier Arnozan, , Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -4077,6 +4077,23 @@
     ]
   },
   {
+    "title": "JOOQ, joy of SQL",
+    "date": "2023-02-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
+    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "Manuel de sabotage du partage de connaissances",
     "date": "2023-02-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjs/events/291437327/",
@@ -4092,23 +4109,6 @@
     "rsvp_count": 22,
     "communities": [
       "bordeauxjs"
-    ]
-  },
-  {
-    "title": "JOOQ, joy of SQL",
-    "date": "2023-02-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
-    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
     ]
   },
   {
@@ -4278,6 +4278,23 @@
     ]
   },
   {
+    "title": "Micronaut Test Resources",
+    "date": "2022-10-18T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
+    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)",
     "date": "2022-10-18T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/289042639/",
@@ -4293,23 +4310,6 @@
     "rsvp_count": 23,
     "communities": [
       "bordeauxjs"
-    ]
-  },
-  {
-    "title": "Micronaut Test Resources",
-    "date": "2022-10-18T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
-    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
     ]
   },
   {
@@ -4806,16 +4806,6 @@
     ]
   },
   {
-    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
-    "date": "2021-11-16T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
-    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
-    "is_online": true,
-    "communities": [
-      "aws-bordeaux"
-    ]
-  },
-  {
     "title": "Java 17 la dernière LTS par Rémi Forax",
     "date": "2021-11-16T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/281736541/",
@@ -4830,6 +4820,16 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
+    "date": "2021-11-16T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
+    "is_online": true,
+    "communities": [
+      "aws-bordeaux"
     ]
   },
   {
@@ -5282,16 +5282,6 @@
     ]
   },
   {
-    "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
-    "date": "2020-09-30T18:30:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
-    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le sixième meetup AWS virtuel 👐. Cet événement sera dédié à trois sociétés de la \"Media-techs\" françaises. Vous découvrirez comment elles ont construit leur réussite grâce au Cloud.\nRendez-vous le 30 septembre prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Introduction : Jordan Oziel et Julien Bichon\n🎙 Talk 1 (Level 200) : Philippe Laurent - CEO - easylive.ioEasylive.io est le leader de la production live en cloud. Modèle 100% SaaS permettant aux plus grand producteurs de contenus (Premier League, Disney, PSG, Twitch, Facebook etc.) de réaliser des contenus live délocalisés et collaboratif à travers le monde depuis un navigateur. Notre outil, bâti sur les architectures AWS nous permet d'agréger n’importe quel type de flux vidéos, audios, graphiques, etc. en temps réel, de les mélanger et de les formater pour les publier sur n’importe quelle type de destination (Facebook, Twitch, TV, etc.). Rejoignez-nous sur cette session pour découvrir les applications médias live possible grâce à AWS.\n🎙 Talk 2 (Level 100) : Guillaume Doret - CEO - synchronized.tvDécouvrez comment Synchronized Smart-Video Platform automatise le processus complet de création de vignettes vidéo grâce à AWS Rekognition. Désormais, les diffuseurs TV et les services OTT peuvent économiser des centaines d'heures de travail manuel avec des gains significatifs en termes de qualité et de productivité.\n🎙 Talk 3 : (Level 200 - 300) : Sébastien Crème - CoFounder et CTO - NomalabGoing Elastic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEffectively use of Messaging / Spot instances and lambda",
-    "is_online": true,
-    "communities": [
-      "aws-bordeaux"
-    ]
-  },
-  {
     "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
     "date": "2020-09-30T18:30:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
@@ -5299,6 +5289,16 @@
     "is_online": true,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
+    "date": "2020-09-30T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
+    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le sixième meetup AWS virtuel 👐. Cet événement sera dédié à trois sociétés de la \"Media-techs\" françaises. Vous découvrirez comment elles ont construit leur réussite grâce au Cloud.\nRendez-vous le 30 septembre prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Introduction : Jordan Oziel et Julien Bichon\n🎙 Talk 1 (Level 200) : Philippe Laurent - CEO - easylive.ioEasylive.io est le leader de la production live en cloud. Modèle 100% SaaS permettant aux plus grand producteurs de contenus (Premier League, Disney, PSG, Twitch, Facebook etc.) de réaliser des contenus live délocalisés et collaboratif à travers le monde depuis un navigateur. Notre outil, bâti sur les architectures AWS nous permet d'agréger n’importe quel type de flux vidéos, audios, graphiques, etc. en temps réel, de les mélanger et de les formater pour les publier sur n’importe quelle type de destination (Facebook, Twitch, TV, etc.). Rejoignez-nous sur cette session pour découvrir les applications médias live possible grâce à AWS.\n🎙 Talk 2 (Level 100) : Guillaume Doret - CEO - synchronized.tvDécouvrez comment Synchronized Smart-Video Platform automatise le processus complet de création de vignettes vidéo grâce à AWS Rekognition. Désormais, les diffuseurs TV et les services OTT peuvent économiser des centaines d'heures de travail manuel avec des gains significatifs en termes de qualité et de productivité.\n🎙 Talk 3 : (Level 200 - 300) : Sébastien Crème - CoFounder et CTO - NomalabGoing Elastic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEffectively use of Messaging / Spot instances and lambda",
+    "is_online": true,
+    "communities": [
+      "aws-bordeaux"
     ]
   },
   {
@@ -6027,23 +6027,6 @@
     ]
   },
   {
-    "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
-    "date": "2019-10-17T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
-    "description": "Venez découvrir comment construire des architectures modernes pour vos applications Web et mobiles autour des services AWS.Nous parlerons évidemment Rest API mais aussi bases de données, sécurité, haute disponibilité, cache, Authorization et même un peu de GraphQL, et tout cela en mode Serverless.Si vous n'avez jamais essayé ces solutions, c'est l'occasion de les découvrir et poser toutes les questions que vous avez/aurez; si vous les connaissez déjà, une petite piqûre de rappel ne fait jamais de mal 😊\n🎙️Thibaut Charlier, Cloud Evangelist @ Gekko\n🍕🍺\n🙏Gekko",
-    "is_online": false,
-    "venue": {
-      "name": "Halle Héméra",
-      "address": "132 Rue Fondaudège",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "132 Rue Fondaudège, Bordeaux",
-    "communities": [
-      "aws-bordeaux"
-    ]
-  },
-  {
     "title": "La JVM et Docker, vers une symbiose parfaite !",
     "date": "2019-10-17T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
@@ -6058,6 +6041,23 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
+    "date": "2019-10-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
+    "description": "Venez découvrir comment construire des architectures modernes pour vos applications Web et mobiles autour des services AWS.Nous parlerons évidemment Rest API mais aussi bases de données, sécurité, haute disponibilité, cache, Authorization et même un peu de GraphQL, et tout cela en mode Serverless.Si vous n'avez jamais essayé ces solutions, c'est l'occasion de les découvrir et poser toutes les questions que vous avez/aurez; si vous les connaissez déjà, une petite piqûre de rappel ne fait jamais de mal 😊\n🎙️Thibaut Charlier, Cloud Evangelist @ Gekko\n🍕🍺\n🙏Gekko",
+    "is_online": false,
+    "venue": {
+      "name": "Halle Héméra",
+      "address": "132 Rue Fondaudège",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "132 Rue Fondaudège, Bordeaux",
+    "communities": [
+      "aws-bordeaux"
     ]
   },
   {
@@ -9521,6 +9521,23 @@
     ]
   },
   {
+    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
+    "date": "2017-09-21T19:00:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
+    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
     "title": "AperoJS",
     "date": "2017-09-21T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/243276773/",
@@ -9536,23 +9553,6 @@
     "rsvp_count": 21,
     "communities": [
       "bordeauxjs"
-    ]
-  },
-  {
-    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
-    "date": "2017-09-21T19:00:00+02:00",
-    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
-    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "okiwi"
     ]
   },
   {
@@ -10706,23 +10706,6 @@
     ]
   },
   {
-    "title": "Python Bordeaux #7 : données géospatiales",
-    "date": "2017-03-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/py-bdx/events/238293674/",
-    "description": "Nous accueillons pour ce meetup Yassine qui viendra nous parler de données géospatiales et de SIG (Système d'Information Géographique) en Python.\nFaisons du SIG avec Python !\nTravailler avec des données géolocalisées est une tâche difficile. En effet, entre apprendre la manipulation de logiciels propriétaires (pensez Arcgis) et trouver la meilleure façon de les intégrer à votre « stack » technologique actuelle n'est jamais facile. Heureusement, Python possède un ensemble de bibliothèques SIG qui rend le travail avec des données géolocalisées plus facile et agréable. Dans cette présentation, je vous montrerais rapidement les outils SIG qu’offre Python et comment s’en servir pour effectuer une analyse de données. Il y aura une démo interactive à la fin.\nLet’s do some GIS with Python!\nWorking with geolocated data can be a hard task. In fact, between learning proprietary software (think Arcgis) and finding the best way to integrate them with your current technology stack is no easy feat. Fortunately, Python has a complete GIS stack that makes working with geolocated data a breeze. In this talk, I will quickly present the Python GIS stack and how to use it to perform a simple data analysis. There will be a live demo at the end of the talk.\nUne présentation \"légère\" suivra sur le thème \"il existe une fonction pour ça !\". Et comme d'habitude, nous finirons par un apéro convivial !!",
-    "is_online": false,
-    "venue": {
-      "name": "Le Node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "bordeaux-python-meetup"
-    ]
-  },
-  {
     "title": "TypeScript : dès lundi sur votre App Legacy",
     "date": "2017-03-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
@@ -10737,6 +10720,23 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Python Bordeaux #7 : données géospatiales",
+    "date": "2017-03-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/py-bdx/events/238293674/",
+    "description": "Nous accueillons pour ce meetup Yassine qui viendra nous parler de données géospatiales et de SIG (Système d'Information Géographique) en Python.\nFaisons du SIG avec Python !\nTravailler avec des données géolocalisées est une tâche difficile. En effet, entre apprendre la manipulation de logiciels propriétaires (pensez Arcgis) et trouver la meilleure façon de les intégrer à votre « stack » technologique actuelle n'est jamais facile. Heureusement, Python possède un ensemble de bibliothèques SIG qui rend le travail avec des données géolocalisées plus facile et agréable. Dans cette présentation, je vous montrerais rapidement les outils SIG qu’offre Python et comment s’en servir pour effectuer une analyse de données. Il y aura une démo interactive à la fin.\nLet’s do some GIS with Python!\nWorking with geolocated data can be a hard task. In fact, between learning proprietary software (think Arcgis) and finding the best way to integrate them with your current technology stack is no easy feat. Fortunately, Python has a complete GIS stack that makes working with geolocated data a breeze. In this talk, I will quickly present the Python GIS stack and how to use it to perform a simple data analysis. There will be a live demo at the end of the talk.\nUne présentation \"légère\" suivra sur le thème \"il existe une fonction pour ça !\". Et comme d'habitude, nous finirons par un apéro convivial !!",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "bordeaux-python-meetup"
     ]
   },
   {
@@ -11811,6 +11811,23 @@
     ]
   },
   {
+    "title": "De Zéro à Héros avec Spring Boot",
+    "date": "2016-03-31T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
+    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "Migrer une application React de MObservable vers Redux",
     "date": "2016-03-31T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/229812115/",
@@ -11827,23 +11844,6 @@
     "rsvp_count": 14,
     "communities": [
       "bordeauxjs"
-    ]
-  },
-  {
-    "title": "De Zéro à Héros avec Spring Boot",
-    "date": "2016-03-31T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
-    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
     ]
   },
   {
