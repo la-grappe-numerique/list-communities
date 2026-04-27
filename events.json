@@ -61,17 +61,6 @@
     ]
   },
   {
-    "title": "Afterwork Agile Bordeaux",
-    "date": "2026-05-19T18:30:00",
-    "url": "https://the-playground.fr/m/au-secours-mon-manager-me-demande-des-kpis",
-    "description": "Le 19 mai à 18h30, en collaboration avec Seconde Vague BDX I/O, Geoffrey GRAVEAUD nous propose l'une de ses dernières conférences :\n\n\"**Au secours ! Mon manager me demande des KPIs !**\n\n_Et si mesurer la performance d’une équipe tech devenait le début d’un vrai casse-tête ?\nÀ travers l’histoire de Kevin, lead technique respecté soudain confronté à la demande de KPIs, Geoffrey Graveaud explore avec humour et recul les dérives possibles de la mesure de la productivité en IT. Accompagné d’une coach agile, ce récit met en lumière les tensions entre indicateurs, réalité terrain et dynamiques d’équipe. Une conférence accessible et concrète qui interroge notre rapport aux métriques dans les organisations modernes._\n\"\n\nQue diriez-vous de partager autour de ce sujet ?\n\n<img width=\"720\" height=\"720\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2fb3af3b-c5c3-47b0-aad7-5302982ff468\" />",
-    "location": "Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong 33700 MERIGNAC",
-    "is_online": false,
-    "communities": [
-      "agile-bordeaux"
-    ]
-  },
-  {
     "title": "Et si vous arrêtiez de coder votre API avant de l'avoir pensée ?",
     "date": "2026-05-12T18:30:00",
     "url": "https://luma.com/r2vnp9kp",
@@ -664,17 +653,6 @@
     ]
   },
   {
-    "title": "Angular v21: Le framework se met à jour !",
-    "date": "2026-01-28T18:30:00",
-    "url": "https://luma.com/8ioijhjc",
-    "description": "Angular v21 vient de sortir, et c’est une super occasion de se retrouver pour parler des nouveautés, avec un focus sur Signals, le gros sujet de cette release.\n\n​🎤 Format\n\n​1 talk principal (20–25 min) + Q&A\n\n​1 lightning talk (15 min) + Q&A\n\n​Puis networking / discussions informelles\n\n​🧠 Talks\n\n​✅ Florian Allainmat — Signals : le nouveau modèle de réactivité d’Angular v21 (20–25 min)\n\n​✅ Jérémy Guilpin — Angular en entreprise aujourd’hui + comparaison avec React (et le reste 😄) (15 min)\n\n​🤝 Pour qui ?\n\n​Que tu fasses déjà de l’Angular au quotidien ou que tu sois juste curieux de découvrir ce que la v21 change concrètement, tu es le/la bienvenu(e) !\n\n​On terminera par un moment chill pour discuter front/back, architecture, tooling… et rencontrer d’autres devs de Bordeaux 🍻",
-    "location": "Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France",
-    "is_online": false,
-    "communities": [
-      "bordeauxjs"
-    ]
-  },
-  {
     "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
     "date": "2026-01-28T18:30:00",
     "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
@@ -683,6 +661,17 @@
     "is_online": false,
     "communities": [
       "bordeaux-xr"
+    ]
+  },
+  {
+    "title": "Angular v21: Le framework se met à jour !",
+    "date": "2026-01-28T18:30:00",
+    "url": "https://luma.com/8ioijhjc",
+    "description": "Angular v21 vient de sortir, et c’est une super occasion de se retrouver pour parler des nouveautés, avec un focus sur Signals, le gros sujet de cette release.\n\n​🎤 Format\n\n​1 talk principal (20–25 min) + Q&A\n\n​1 lightning talk (15 min) + Q&A\n\n​Puis networking / discussions informelles\n\n​🧠 Talks\n\n​✅ Florian Allainmat — Signals : le nouveau modèle de réactivité d’Angular v21 (20–25 min)\n\n​✅ Jérémy Guilpin — Angular en entreprise aujourd’hui + comparaison avec React (et le reste 😄) (15 min)\n\n​🤝 Pour qui ?\n\n​Que tu fasses déjà de l’Angular au quotidien ou que tu sois juste curieux de découvrir ce que la v21 change concrètement, tu es le/la bienvenu(e) !\n\n​On terminera par un moment chill pour discuter front/back, architecture, tooling… et rencontrer d’autres devs de Bordeaux 🍻",
+    "location": "Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
     ]
   },
   {
@@ -1727,23 +1716,6 @@
     ]
   },
   {
-    "title": "Elasticsearch Query Language: ES|QL",
-    "date": "2025-03-20T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
-    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Super-Apéro 2025",
     "date": "2025-03-20T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
@@ -1758,6 +1730,23 @@
     "location": "23 Rue Ausone, Bordeaux",
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Elasticsearch Query Language: ES|QL",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
+    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -2365,23 +2354,6 @@
     ]
   },
   {
-    "title": "Design First : OpenApi et AsyncApi en action !",
-    "date": "2024-09-26T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
-    "description": "Aujourd'hui en terme d'API nous notons deux grandes familles, les **API Synchrones** (de type REST par exemple) et **Asynchrone** (Messaging, Topic).\nAfin d'uniformiser et de spécifier des contrats d'interface clair, deux spécifications ont peu à peu emmergées : **OpenApi** d'un côté pour les API REST et **AsyncApi** dans le cadre des architecture évenmentielles **(EDA).**\nNous allons voir au travers de ce talk et de démos ce qu'apportent ces deux spécifications en terme de design, de documentation mais également en terme de génération de code.\nCe principe appelé **Design First** consiste à Définir son API (REST ou Asynchrone) en amont et de bénéficier d'outils divers et variés pour manipuler ces contrats.\nJe ne prétends pas détenir la vérité absolue, ce sont plutôt mes réflexions au grès de mes expériences autour des APIs REST puis désormais Asynchrones que j'essaye de promouvoir auprès de clients et développeurs.",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
     "date": "2024-09-26T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
@@ -2396,6 +2368,23 @@
     "location": "1 cours Xavier Arnozan, , Bordeaux",
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Design First : OpenApi et AsyncApi en action !",
+    "date": "2024-09-26T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
+    "description": "Aujourd'hui en terme d'API nous notons deux grandes familles, les **API Synchrones** (de type REST par exemple) et **Asynchrone** (Messaging, Topic).\nAfin d'uniformiser et de spécifier des contrats d'interface clair, deux spécifications ont peu à peu emmergées : **OpenApi** d'un côté pour les API REST et **AsyncApi** dans le cadre des architecture évenmentielles **(EDA).**\nNous allons voir au travers de ce talk et de démos ce qu'apportent ces deux spécifications en terme de design, de documentation mais également en terme de génération de code.\nCe principe appelé **Design First** consiste à Définir son API (REST ou Asynchrone) en amont et de bénéficier d'outils divers et variés pour manipuler ces contrats.\nJe ne prétends pas détenir la vérité absolue, ce sont plutôt mes réflexions au grès de mes expériences autour des APIs REST puis désormais Asynchrones que j'essaye de promouvoir auprès de clients et développeurs.",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -4066,23 +4055,6 @@
     ]
   },
   {
-    "title": "JOOQ, joy of SQL",
-    "date": "2023-02-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
-    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Manuel de sabotage du partage de connaissances",
     "date": "2023-02-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjs/events/291437327/",
@@ -4098,6 +4070,23 @@
     "rsvp_count": 22,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "JOOQ, joy of SQL",
+    "date": "2023-02-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
+    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -4267,23 +4256,6 @@
     ]
   },
   {
-    "title": "Micronaut Test Resources",
-    "date": "2022-10-18T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
-    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)",
     "date": "2022-10-18T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/289042639/",
@@ -4299,6 +4271,23 @@
     "rsvp_count": 23,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Micronaut Test Resources",
+    "date": "2022-10-18T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
+    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -4795,6 +4784,16 @@
     ]
   },
   {
+    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
+    "date": "2021-11-16T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
+    "is_online": true,
+    "communities": [
+      "aws-bordeaux"
+    ]
+  },
+  {
     "title": "Java 17 la dernière LTS par Rémi Forax",
     "date": "2021-11-16T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/281736541/",
@@ -4809,16 +4808,6 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
-    ]
-  },
-  {
-    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
-    "date": "2021-11-16T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
-    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
-    "is_online": true,
-    "communities": [
-      "aws-bordeaux"
     ]
   },
   {
@@ -5271,16 +5260,6 @@
     ]
   },
   {
-    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
-    "date": "2020-09-30T18:30:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
-    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
-    "is_online": true,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
     "date": "2020-09-30T18:30:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
@@ -5288,6 +5267,16 @@
     "is_online": true,
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
+    "date": "2020-09-30T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
+    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
+    "is_online": true,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -6016,23 +6005,6 @@
     ]
   },
   {
-    "title": "La JVM et Docker, vers une symbiose parfaite !",
-    "date": "2019-10-17T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
-    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
     "date": "2019-10-17T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
@@ -6047,6 +6019,23 @@
     "location": "132 Rue Fondaudège, Bordeaux",
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "La JVM et Docker, vers une symbiose parfaite !",
+    "date": "2019-10-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
+    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -9510,23 +9499,6 @@
     ]
   },
   {
-    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
-    "date": "2017-09-21T19:00:00+02:00",
-    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
-    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "okiwi"
-    ]
-  },
-  {
     "title": "AperoJS",
     "date": "2017-09-21T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/243276773/",
@@ -9542,6 +9514,23 @@
     "rsvp_count": 21,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
+    "date": "2017-09-21T19:00:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
+    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "okiwi"
     ]
   },
   {
@@ -10695,23 +10684,6 @@
     ]
   },
   {
-    "title": "TypeScript : dès lundi sur votre App Legacy",
-    "date": "2017-03-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
-    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Python Bordeaux #7 : données géospatiales",
     "date": "2017-03-23T19:00:00+01:00",
     "url": "https://www.meetup.com/py-bdx/events/238293674/",
@@ -10726,6 +10698,23 @@
     "location": "12 rue des Faussets, Bordeaux",
     "communities": [
       "bordeaux-python-meetup"
+    ]
+  },
+  {
+    "title": "TypeScript : dès lundi sur votre App Legacy",
+    "date": "2017-03-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
+    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -11800,23 +11789,6 @@
     ]
   },
   {
-    "title": "De Zéro à Héros avec Spring Boot",
-    "date": "2016-03-31T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
-    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Migrer une application React de MObservable vers Redux",
     "date": "2016-03-31T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/229812115/",
@@ -11833,6 +11805,23 @@
     "rsvp_count": 14,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "De Zéro à Héros avec Spring Boot",
+    "date": "2016-03-31T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
+    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {

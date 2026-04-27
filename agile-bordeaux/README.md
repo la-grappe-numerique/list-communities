@@ -15,12 +15,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](/agile-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Mardi 19 mai 2026 à 18:30 | Afterwork Agile Bordeaux | Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong 33700 MERIGNAC | https://the-playground.fr/m/au-secours-mon-manager-me-demande-des-kpis |
-
 ## 📆 Past Events
 
 <details>
