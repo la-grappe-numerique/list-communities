@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 29 avril 2026 à 18:30 | [agile-bordeaux](agile-bordeaux/) | [After work post-AGFr](https://the-playground.fr/m/after-work-post-agfr) | Randstad Digital - Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  33700 MERIGNAC |
 | Jeudi 30 avril 2026 à 18:00 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://www.meetup.com/mtg-bordeaux/events/314271013/) | 55 Cours Georges Clemenceau, Bordeaux |
 | Jeudi 30 avril 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#67 : Dompter le refactoring](https://www.meetup.com/bordeaux-php-meetup/events/314161757/) | 12 Rue des Faussets, Bordeaux |
+| Lundi 04 mai 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjchbgb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

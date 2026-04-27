@@ -6415,29 +6415,6 @@ TZID:Europe/Paris
 URL:https://the-playground.fr/m/au-secours-mon-manager-me-demande-des-kpis
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:After work post-AGFr
-DTSTART;TZID=Europe/Paris:20260429T183000
-DTEND;TZID=Europe/Paris:20260429T203000
-UID:https://the-playground.fr/m/after-work-post-agfr@community-events
-DESCRIPTION:🔗 https://the-playground.fr/m/after-work-post-agfr\n📍 Ra
- ndstad Digital - Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstr
- ong  33700 MERIGNAC\n\nFin mars\, Bordeaux devient la capitale du jeu agil
- e avec l’arrivée d’Agile Games France !\n\nSi l'événement national 
- affiche complet (https://agilegamesfrance.fr/doku.php?id=evenement_2026)\,
-  l’énergie\, elle\, circule partout. Pour marquer le coup à notre éch
- elle locale\, je vous propose de nous retrouver pour un afterwork informel
- .\n\nL'idée ? Simplement se réunir entre passionnés (que vous ayez part
- icipé à l'événement ou non) pour :\n- Débriefer les ateliers marquant
- s pour les chanceux qui y étaient.\n- Découvrir de nouveaux ateliers et 
- mécaniques pour ceux qui n'ont pas pu avoir de place.\n- Renforcer les li
- ens de notre communauté bordelaise\, tout simplement.\n\nCommunauté: agi
- le-bordeaux
-LOCATION:Randstad Digital - Bâtiment l'Escale - 3ème étage - 14 avenue 
- Neil Armstrong  33700 MERIGNAC
-TZID:Europe/Paris
-URL:https://the-playground.fr/m/after-work-post-agfr
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club de lecture 26.3 - Le travail: Pourquoi travaillons-nous ?
 DTSTART;TZID=Europe/Paris:20260425T100000
 DTEND;TZID=Europe/Paris:20260425T120000
