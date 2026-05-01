@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 30 avril 2026 à 18:00 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://www.meetup.com/mtg-bordeaux/events/314271013/) | 55 Cours Georges Clemenceau, Bordeaux |
-| Jeudi 30 avril 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#67 : Dompter le refactoring](https://www.meetup.com/bordeaux-php-meetup/events/314161757/) | 12 Rue des Faussets, Bordeaux |
 | Lundi 04 mai 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjchbgb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 04 mai 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/313443239/) | 9 Rue de Condé, Bordeaux |
+| Lundi 11 mai 2026 à 18:30 | [data-for-good](data-for-good/) | [Demo Day S14](https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-1987488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) | Le node, 12 rue des Faussets, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
