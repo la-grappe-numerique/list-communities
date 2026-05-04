@@ -1,8 +1,8 @@
 # 🗺️ OpenStreetMap, le groupe local bordelais de cartographie libre 
 
 <div align="center">
-  <img src="https://forum.openstreetmap.fr/uploads/default/original/3X/7/5/75f9a5e7ae3cda25b42ee27d214e873968dfcd9f.jpeg" alt="Logo OSM local Bordeaux" width="200">
-  <img src="https://forum.openstreetmap.fr/uploads/default/original/2X/9/97900d2cd1e6fce893c002a0b59566eb8f9dae7e.jpeg" alt="Logo OSM France" width="180">
+  <img src="./logo-osm-bordeaux.jpg" alt="" width="230">
+  <img src="./logo-osm-france.jpeg" alt="" width="200">
 </div>
 <br>
 
