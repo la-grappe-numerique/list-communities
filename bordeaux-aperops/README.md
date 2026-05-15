@@ -8,28 +8,6 @@
 
 ---
 
-## 📅 Prochaine Session
-
-### **De la Qualité des Données à l'Impact Environnemental de l'IA**
-
-**📍 Lieu :** Ippon Technologies Bordeaux - 44 Allée de Tourny
-**🕐 Horaire :** 18h30 - 20h30
-**📆 Date :** 15 Octobre 2025
-
-#### Au programme :
-
-**🎤 Jérémy Nadal** - Data Engineer @ Ippon Technologies
-*"dbt : Garantissez la Qualité de vos Données Grâce à des Tests Robustes"*
-
-**🎤 Sonia Tabti, PhD** - Computer Vision & VLM Consultant
-*"Comment estimer l'empreinte carbone d'un modèle d'IA de l'entraînement à la mise en production"*
-
-🍻 Suivi d'un apéro networking pour échanger avec la communauté !
-
-**[👉 S'inscrire à l'événement](https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035)**
-
----
-
 ## 💡 Thématiques abordées
 
 - **📊 DataOps** : Pipelines de données, orchestration, qualité des données, gouvernance
@@ -43,6 +21,7 @@
 - Data Engineers
 - Data Scientists
 - ML Engineers
+- AI Engineers
 - DevOps
 - SRE
 - Tous les passionnés de data et d'ops !
@@ -52,8 +31,8 @@
 ## 🔗 Rejoignez la communauté
 
 - **🌐 Site web** : [le site](https://bordeaux-aperops.com)
-- **📧 Newsletter** : [S'inscrire à la newsletter](https://8a1efb29.sibforms.com/serve/MUIFAHLrnS0f4T52Dow5oOcIQ3OBYp7c2xUYoVT3erOIffCVGdIi4m366UIkMg2VejuNwK50oGc6bbG0DL7oZfd_FumIv85pqjwDFZnPBTnBUf3NQNSTgrMdBnAnwYQLv_DX2SILfSMZ5Zrz0wmH1ltnAbPHK4LtrAvnLsMbY98LnRzyXCLlVFbhqEitvineyRwg98BOBmowgNqR)
 - **👥 Meetup.com** : [Bordeaux ApérOps](https://www.meetup.com/bordeaux-aperops-dataops-mlops)
+- **💼 LinkedIn** : [Bordeaux ApérOps](https://www.linkedin.com/company/bordeaux-aperops/)
 - **📧 Contact** : lu.iglesiash@gmail.com
 
 ---
@@ -71,15 +50,6 @@ Vous avez une expertise à partager avec la communauté DataOps & MLOps ?
 Votre entreprise souhaite soutenir la communauté DataOps & MLOps bordelaise ?
 
 **[Devenir sponsor](https://8a1efb29.sibforms.com/serve/MUIFAH7Bul7-ozCi7jJHYWkqO2vopTnVG_nTwZTie7rRWbBEiAfrBj0GYRCtXlPVV5jWehRa8JDNcaEzNRWeA6aI531RWW7t_q-pXAO5zCbZ5P1kMBCnkB2TkRcoGrcOaNsSuiLCixj6T-4O_ljNBUY3vcezaWX9O6qn-BdPOD7qNYI9tP8CRgRdHobZLP3ma_tMTixmUdADkBWy)**
-
----
-
-## ✨ Sessions précédentes
-
-### Data Templates and Self Hosted LLMs
-*29 Mai 2025 - HMS Victory, English Pub Bordeaux*
-
-La première édition d'ApérOps avec Maguette MBAYE (ACC) et Vivien RAMAHANDRY (Foxintelligence).
 
 ---
 
