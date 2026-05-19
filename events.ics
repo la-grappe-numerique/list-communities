@@ -14205,6 +14205,42 @@ TZID:Europe/Paris
 URL:https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Management Agile : sortir des croyances\, activer les bons leviers
+DTSTART;TZID=Europe/Paris:20260602T183000
+DTEND;TZID=Europe/Paris:20260602T203000
+UID:https://luma.com/o64gqm6t@community-events
+DESCRIPTION:🔗 https://luma.com/o64gqm6t\n📍 5 Rue de Condé\, 33000 B
+ ordeaux\n\n​Deux approches complémentaires pour mieux comprendre ce qui
+  freine réellement vos équipes :\n\n**​​« De la pseudoscience pour 
+ mon (pseudo) management »\, par Anaïs HUET**\n\n​​"Êtes-vous plutô
+ t INFP\, type Rouge\, type D\, Capricorne ? Cerveau Gauche\, Cerveau Droit
+ \, Cerveau Reptilien ? Serdaigle\, Gryffondor ? Dragon ? Licorne ?\n\n​P
+ ourquoi les tests de personnalité et les types qui y sont liés nous fasc
+ inent-ils autant ? En quoi sont-ils basés sur de la pseudoscience\, et pe
+ uvent-ils être réellement utiles au travail en équipe ?\n\n​Explorons
+  ensemble les promesses (et les pièges) des tests de personnalité dans l
+ e management ainsi que l’accompagnement agile\, et posons-nous la questi
+ on : est-il vraiment nécessaire de faire passer des tests à des personne
+ s pour savoir si l’on peut travailler efficacement avec elles ?\n\n​Ap
+ rès tout\, “les individus et leurs interactions plus que les processus 
+ et les outils”\, donc quelque chose qui nous aide à cartographier les i
+ ndividus devrait nous être utile… Mais jusqu’à quel point ?"\n\n​\
+ n\n**​​« Des projets qui patinent ? Rendez visibles les vrais blocage
+ s »\, par Marina FILLATRE**\n\n​​Les projets peuvent ralentir malgré
+  des équipes engagées et des processus en place\, en raison d’ineffica
+ cités souvent invisibles : tâches en attente\, validations longues\, ret
+ ouches inutiles.\n\n​Ce talk propose d’identifier ces blocages en s’
+ appuyant sur la visualisation des flux de travail\, afin de mettre en évi
+ dence les goulots d’étranglement et les sources de friction. À travers
+  des exemples concrets issus d’équipes IT et produit\, il présentera d
+ es leviers simples et activables rapidement pour fluidifier les processus 
+ et améliorer durablement la performance du delivery.\n\nCommunauté: wome
+ n-in-tech-bordeaux
+LOCATION:5 Rue de Condé\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/o64gqm6t
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Santé mentale et biais cognitif : la tech à l’épreuve de l’
  humain
 DTSTART;TZID=Europe/Paris:20260421T183000
