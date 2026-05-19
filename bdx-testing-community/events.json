@@ -1,5 +1,14 @@
 [
   {
+    "title": "MEETUP #5 - BDX Testing Community @SII",
+    "date": "2026-06-17T18:00:00",
+    "url": "https://www.meetup.com/bdx-testing-community/events/314847233/",
+    "description": "La BDX Testing Community revient pour un nouveau meetup placé sous le signe de l’inspiration, du partage et de la rencontre. Que vous soyez QA expérimenté, développeur, manager ou simplement curieux, cette soirée est pensée pour vous.\n==> Venez découvrir de nouvelles idées… et surtout échanger avec une communauté locale passionnée.\n\n**Les infos clés**\n- **Date** : 17 juin 2026\n- **Horaires** : 18h – 22h\n- **Lieu** : SII, 3 Imp. Rudolf Diesel, 33700 Mérignac\n\n**Au programme**\n- 18h00 - Accueil des participants\n- 18h15 - Présentation de SII et de ses activités\n- 18h30 - Présentation des 3 talks\n- 20h00 - Buffet & networking\n\nLes talks seront annoncés prochainement... restez connectés !\n\n**Les places sont limitées.\nInscriptions ouvertes jusqu’au 12 juin 2026 inclus.**",
+    "community": "bdx-testing-community",
+    "location": "SII, 3 Imp. Rudolf Diesel, 33700 Mérignac",
+    "is_online": false
+  },
+  {
     "title": "APERO #4 - BDX TESTING",
     "date": "2026-01-28T18:30:00+01:00",
     "url": "https://www.meetup.com/bdx-testing-community/events/312885328/",
