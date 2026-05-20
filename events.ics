@@ -5278,6 +5278,29 @@ URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcmbkb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20260907T183000
+DTEND;TZID=Europe/Paris:20260907T203000
+UID:https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcmbkb/@com
+ munity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-crafters-bdx/events/pkmrk
+ tyjcmbkb/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\
+ , Bordeaux\, fr\n\nDes coding dojos\, sessions amusantes et intenses penda
+ nt lesquelles des développeurs améliorent leurs compétences en programm
+ ation. Le principe est simple : on prend un exercice de programmation simp
+ le\, on choisit un langage\, et on essaie de coder une solution en respect
+ ant les 4 règles du design simple de Kent Beck :\n\n• passer tous les t
+ ests \;\n• aucune duplication de code \;\n• révéler les intentions p
+ ar le code\, être très attentif au nommage \;\n• réduire le nombre de
+  classes et de méthodes.\n\nLe kata et le langage sont décidé sur place
+ \, par les personnes présentes. Ils peuvent etre tiré de ce site -https:
+ //codingdojo.org/\n\nCommunauté: okiwi
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcmbkb/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
 DTSTART;TZID=Europe/Paris:20260803T183000
 DTEND;TZID=Europe/Paris:20260803T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjclbfb
@@ -5302,6 +5325,29 @@ URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjclbfb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20260803T183000
+DTEND;TZID=Europe/Paris:20260803T203000
+UID:https://www.meetup.com/software-crafters-bdx/events/pkmrktyjclbfb/@com
+ munity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-crafters-bdx/events/pkmrk
+ tyjclbfb/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\
+ , Bordeaux\, fr\n\nDes coding dojos\, sessions amusantes et intenses penda
+ nt lesquelles des développeurs améliorent leurs compétences en programm
+ ation. Le principe est simple : on prend un exercice de programmation simp
+ le\, on choisit un langage\, et on essaie de coder une solution en respect
+ ant les 4 règles du design simple de Kent Beck :\n\n• passer tous les t
+ ests \;\n• aucune duplication de code \;\n• révéler les intentions p
+ ar le code\, être très attentif au nommage \;\n• réduire le nombre de
+  classes et de méthodes.\n\nLe kata et le langage sont décidé sur place
+ \, par les personnes présentes. Ils peuvent etre tiré de ce site -https:
+ //codingdojo.org/\n\nCommunauté: okiwi
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-crafters-bdx/events/pkmrktyjclbfb/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
 DTSTART;TZID=Europe/Paris:20260706T183000
 DTEND;TZID=Europe/Paris:20260706T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjckbjb
@@ -5323,6 +5369,29 @@ LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjckbjb
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20260706T183000
+DTEND;TZID=Europe/Paris:20260706T203000
+UID:https://www.meetup.com/software-crafters-bdx/events/pkmrktyjckbjb/@com
+ munity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-crafters-bdx/events/pkmrk
+ tyjckbjb/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\
+ , Bordeaux\, fr\n\nDes coding dojos\, sessions amusantes et intenses penda
+ nt lesquelles des développeurs améliorent leurs compétences en programm
+ ation. Le principe est simple : on prend un exercice de programmation simp
+ le\, on choisit un langage\, et on essaie de coder une solution en respect
+ ant les 4 règles du design simple de Kent Beck :\n\n• passer tous les t
+ ests \;\n• aucune duplication de code \;\n• révéler les intentions p
+ ar le code\, être très attentif au nommage \;\n• réduire le nombre de
+  classes et de méthodes.\n\nLe kata et le langage sont décidé sur place
+ \, par les personnes présentes. Ils peuvent etre tiré de ce site -https:
+ //codingdojo.org/\n\nCommunauté: okiwi
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-crafters-bdx/events/pkmrktyjckbjb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
@@ -5370,6 +5439,29 @@ LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
  aux\, fr
 TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/314447992/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20260601T183000
+DTEND;TZID=Europe/Paris:20260601T203000
+UID:https://www.meetup.com/software-crafters-bdx/events/314447992/@communi
+ ty-events
+DESCRIPTION:🔗 https://www.meetup.com/software-crafters-bdx/events/31444
+ 7992/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Bo
+ rdeaux\, fr\n\nDes coding dojos\, sessions amusantes et intenses pendant l
+ esquelles des développeurs améliorent leurs compétences en programmatio
+ n. Le principe est simple : on prend un exercice de programmation simple\,
+  on choisit un langage\, et on essaie de coder une solution en respectant 
+ les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests
+  \;\n• aucune duplication de code \;\n• révéler les intentions par l
+ e code\, être très attentif au nommage \;\n• réduire le nombre de cla
+ sses et de méthodes.\n\nLe kata et le langage sont décidé sur place\, p
+ ar les personnes présentes. Ils peuvent etre tiré de ce site -https://co
+ dingdojo.org/\n\nCommunauté: okiwi
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-crafters-bdx/events/314447992/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo
@@ -13843,6 +13935,39 @@ LOCATION:20 Rue Saint-François\, 20 Rue Saint-François\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
 URL:https://www.meetup.com/creative-coding-bordeaux/events/295328666/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEETUP #5 - BDX Testing Community @SII
+DTSTART;TZID=Europe/Paris:20260617T180000
+DTEND;TZID=Europe/Paris:20260617T200000
+UID:https://www.meetup.com/bdx-testing-community/events/314847233/@communi
+ ty-events
+DESCRIPTION:🔗 https://www.meetup.com/bdx-testing-community/events/31484
+ 7233/\n📍 SII Nouvelle Aquitaine\, 3 impasse Rudolf Diesel\, Mérignac\,
+  fr\n\nEt si vous faisiez évoluer votre vision du test logiciel… en une
+  soirée ?\n\nLa BDX Testing Community revient pour un nouveau meetup plac
+ é sous le signe de l’inspiration\, du partage et de la rencontre. Que v
+ ous soyez QA expérimenté\, développeur\, manager ou simplement curieux\
+ , cette soirée est pensée pour vous.\n==> Venez découvrir de nouvelles 
+ idées… et surtout échanger avec une communauté locale passionnée.\n\
+ n**Les infos clés**\n\n* **Date** : 17 juin 2026\n* **Horaires** : 18h 
+ – 22h\n* **Lieu** : SII\, 3 Imp. Rudolf Diesel\, 33700 Mérignac\n\n**Au
+  programme**\n\n* 18h00 - Accueil des participants\n* 18h15 - Présentatio
+ n de SII et de ses activités\n* 18h30 - Présentation des 3 talks\n* 20h0
+ 0 - Buffet & networking\n\nLes talks seront annoncés prochainement... res
+ tez connectés !\n\n**Bien plus que des talks**\nParce que les meilleures 
+ discussions se font souvent après les présentations\, il est prévu un m
+ oment convivial & networking **:**\nÉchangez librement avec d’autres pa
+ ssionnés\, partagez vos problématiques\, vos réussites… et développe
+ z votre réseau local.\n\n**Pourquoi vous inscrire ?**\n\n* Découvrir de 
+ nouvelles pratiques QA\n* Prendre du recul sur vos enjeux actuels\n* Écha
+ nger avec des pairs de la région bordelaise\n* Passer un bon moment dans 
+ une ambiance bienveillante\n\n**Les places sont limitées.**\n**Inscriptio
+ ns ouvertes jusqu’au 12 juin 2026 inclus.**\n\nCommunauté: bdx-testing-
+ community
+LOCATION:SII Nouvelle Aquitaine\, 3 impasse Rudolf Diesel\, Mérignac\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bdx-testing-community/events/314847233/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:APERO #4 - BDX TESTING

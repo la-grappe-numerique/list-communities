@@ -24,9 +24,13 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](/okiwi/event
 |------|--------|----------|------|
 | Lundi 01 juin 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcjbcb/ |
 | Lundi 01 juin 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/314447992/ |
+| Lundi 01 juin 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/314447992/ |
 | Lundi 06 juillet 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjckbjb/ |
+| Lundi 06 juillet 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjckbjb/ |
 | Lundi 03 août 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjclbfb/ |
+| Lundi 03 août 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjclbfb/ |
 | Lundi 07 septembre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcmbkb/ |
+| Lundi 07 septembre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcmbkb/ |
 
 ## 📆 Past Events
 
