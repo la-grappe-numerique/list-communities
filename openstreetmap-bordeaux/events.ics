@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Festival Printemps des Cartes à Montmorillon
 DTSTART;TZID=Europe/Paris:20260528T100000
-DTEND;TZID=Europe/Paris:20260528T120000
+DTEND;TZID=Europe/Paris:20260531T190000
 UID:https://www.printempsdescartes.fr/@community-events
 DESCRIPTION:🔗 https://www.printempsdescartes.fr/\n📍 16 rue des Réco
  llets 86500 Montmorillon\, France\n\n🗺️ **Le Printemps des Cartes\, u
