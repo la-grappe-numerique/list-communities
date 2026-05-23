@@ -99,8 +99,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
 | Jeudi 28 mai 2026 à 10:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [Festival Printemps des Cartes à Montmorillon Jour 1](https://www.printempsdescartes.fr/) | 16 rue des Récollets 86500 Montmorillon, France |
+| Vendredi 29 mai 2026 à 10:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [Festival Printemps des Cartes à Montmorillon Jour 2](https://www.printempsdescartes.fr/) | 16 rue des Récollets 86500 Montmorillon, France |
 | Lundi 01 juin 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcjbcb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 01 juin 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/314447992/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
