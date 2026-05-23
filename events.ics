@@ -5179,6 +5179,37 @@ URL:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
  quiz-mobile-pub-quiz-get-together-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Festival Printemps des Cartes à Montmorillon
+DTSTART;TZID=Europe/Paris:20260528T100000
+DTEND;TZID=Europe/Paris:20260528T120000
+UID:https://www.printempsdescartes.fr/@community-events
+DESCRIPTION:🔗 https://www.printempsdescartes.fr/\n📍 16 rue des Réco
+ llets 86500 Montmorillon\, France\n\n🗺️ **Le Printemps des Cartes\, u
+ n festival de cartographie ouvert à toutes et à tous !**\n\nLe Printemps
+  des Cartes\, est un festival qui rassemble habitants\, citoyens\, artiste
+ s\, publics scolaires (du primaire à l’Université)\, enseignants\, che
+ rcheurs\, entrepreneurs\, curieux de tous âges\, monde associatif et coll
+ ectivités\, autour des cartes géographiques !\n\nCartographes\, géograp
+ hes\, écrivains\, historiens\, romanciers\, urbanistes\, philosophes\, pl
+ asticiens\, dessinateurs… pratiquent la cartographie et viennent échang
+ er à Montmorillon dans la Vienne.\n\nL’évènement est organisé depuis
+  2018\, par un collectif qui regroupe l’Université de Poitiers\, L’Es
+ pace Mendès France Poitiers et la MJC Claude Nougaro de Montmorillon.\n\n
+ Pour en savoir plus\, vous pouvez consulter le [programme](https://www.pri
+ ntempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CART
+ ES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site officiel du [printemps des 
+ cartes](https://www.printempsdescartes.fr/).\n\n🤔 **Et OpenStreetMap da
+ ns tout ça ?**\n\nDominique Andrieu de l'Université de Tours fera une pr
+ ésentation d'OpenStreetMap à 14h le samedi 30 mai. Vous pourrez aussi re
+ trouver de nombreux contributeurs OSM de France ou du groupe local de bord
+ eaux.\n\nL'organisation se déroule [ici](https://forum.openstreetmap.fr/t
+ /printemps-des-cartes-montmorillon-28-05-31-05/43518) !\n\nCommunauté: op
+ enstreetmap-bordeaux
+LOCATION:16 rue des Récollets 86500 Montmorillon\, France
+TZID:Europe/Paris
+URL:https://www.printempsdescartes.fr/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🗺️ Mapathon en Pays Basque dans le cadre du projet européen 
  SYSTOUR
 DTSTART;TZID=Europe/Paris:20260317T090000
