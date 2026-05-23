@@ -1,5 +1,14 @@
 [
   {
+    "title": "Festival Printemps des Cartes Jour 2",
+    "date": "2026-05-29T10:00:00",
+    "url": "https://www.printempsdescartes.fr/",
+    "description": "🗺️ **Le Printemps des Cartes, un festival de cartographie ouvert à toutes et à tous !**\n\nLe Printemps des Cartes, est un festival qui rassemble habitants, citoyens, artistes, publics scolaires (du primaire à l’Université), enseignants, chercheurs, entrepreneurs, curieux de tous âges, monde associatif et collectivités, autour des cartes géographiques !\n\nCartographes, géographes, écrivains, historiens, romanciers, urbanistes, philosophes, plasticiens, dessinateurs… pratiquent la cartographie et viennent échanger à Montmorillon dans la Vienne.\n\nL’évènement est organisé depuis 2018, par un collectif qui regroupe l’Université de Poitiers, L’Espace Mendès France Poitiers et la MJC Claude Nougaro de Montmorillon.\n\nPour en savoir plus, vous pouvez consulter le [programme](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site officiel du [printemps des cartes](https://www.printempsdescartes.fr/).\n\n🤔 **Et OpenStreetMap dans tout ça ?**\n\nDominique Andirue de l'Université de Tours fera une présentation d'OpenStreetMap à 14h le samedi 30 mai. Vous pourrez aussi retrouver de nombreux contributeurs OSM de France ou du groupe local de bordeaux.\n\nL'organisation se déroule [ici](https://forum.openstreetmap.fr/t/printemps-des-cartes-montmorillon-28-05-31-05/43518) !",
+    "community": "openstreetmap-bordeaux",
+    "location": "16 rue des Récollets 86500 Montmorillon, France",
+    "is_online": false
+  },
+  {
     "title": "🗺️ Mapathon en Pays Basque dans le cadre du projet européen SYSTOUR",
     "date": "2026-03-17T09:00:00",
     "url": "https://meet.jit.si/moderated/b6d0ff0febf76fec2fffe21b1aca93960a96876dbfeac46209cbf1be4f8c70ad",
