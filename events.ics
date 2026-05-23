@@ -5180,6 +5180,76 @@ URL:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Festival Printemps des Cartes à Montmorillon
+DTSTART;TZID=Europe/Paris:20260531T100000
+DTEND;TZID=Europe/Paris:20260531T120000
+UID:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
+ /PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13@community-ev
+ ents
+DESCRIPTION:🔗 https://www.printempsdescartes.fr/wp-content/uploads/site
+ s/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13
+ \n📍 16 rue des Récollets 86500 Montmorillon\, France\n\n🗺️ **Le P
+ rintemps des Cartes\, un festival de cartographie ouvert à toutes et à t
+ ous !**\n\nLe Printemps des Cartes\, est un festival qui rassemble habitan
+ ts\, citoyens\, artistes\, publics scolaires (du primaire à l’Universit
+ é)\, enseignants\, chercheurs\, entrepreneurs\, curieux de tous âges\, m
+ onde associatif et collectivités\, autour des cartes géographiques !\n\n
+ Cartographes\, géographes\, écrivains\, historiens\, romanciers\, urbani
+ stes\, philosophes\, plasticiens\, dessinateurs… pratiquent la cartograp
+ hie et viennent échanger à Montmorillon dans la Vienne.\n\nL’évèneme
+ nt est organisé depuis 2018\, par un collectif qui regroupe l’Universit
+ é de Poitiers\, L’Espace Mendès France Poitiers et la MJC Claude Nouga
+ ro de Montmorillon.\n\nPour en savoir plus\, vous pouvez consulter le [pro
+ gramme](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/202
+ 6/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site offi
+ ciel du [printemps des cartes](https://www.printempsdescartes.fr/).\n\n
+ 🤔 **Et OpenStreetMap dans tout ça ?**\n\nDominique Andrieu de l'Univer
+ sité de Tours fera une présentation d'OpenStreetMap à 14h le samedi 30 
+ mai. Vous pourrez aussi retrouver de nombreux contributeurs OSM de France 
+ ou du groupe local de bordeaux.\n\nL'organisation se déroule [ici](https:
+ //forum.openstreetmap.fr/t/printemps-des-cartes-montmorillon-28-05-31-05/4
+ 3518) !\n\nCommunauté: openstreetmap-bordeaux
+LOCATION:16 rue des Récollets 86500 Montmorillon\, France
+TZID:Europe/Paris
+URL:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
+ /PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Printemps des Cartes à Montmorillon
+DTSTART;TZID=Europe/Paris:20260530T100000
+DTEND;TZID=Europe/Paris:20260530T120000
+UID:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
+ /PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10@community-ev
+ ents
+DESCRIPTION:🔗 https://www.printempsdescartes.fr/wp-content/uploads/site
+ s/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10
+ \n📍 16 rue des Récollets 86500 Montmorillon\, France\n\n🗺️ **Le P
+ rintemps des Cartes\, un festival de cartographie ouvert à toutes et à t
+ ous !**\n\nLe Printemps des Cartes\, est un festival qui rassemble habitan
+ ts\, citoyens\, artistes\, publics scolaires (du primaire à l’Universit
+ é)\, enseignants\, chercheurs\, entrepreneurs\, curieux de tous âges\, m
+ onde associatif et collectivités\, autour des cartes géographiques !\n\n
+ Cartographes\, géographes\, écrivains\, historiens\, romanciers\, urbani
+ stes\, philosophes\, plasticiens\, dessinateurs… pratiquent la cartograp
+ hie et viennent échanger à Montmorillon dans la Vienne.\n\nL’évèneme
+ nt est organisé depuis 2018\, par un collectif qui regroupe l’Universit
+ é de Poitiers\, L’Espace Mendès France Poitiers et la MJC Claude Nouga
+ ro de Montmorillon.\n\nPour en savoir plus\, vous pouvez consulter le [pro
+ gramme](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/202
+ 6/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site offi
+ ciel du [printemps des cartes](https://www.printempsdescartes.fr/).\n\n
+ 🤔 **Et OpenStreetMap dans tout ça ?**\n\nDominique Andrieu de l'Univer
+ sité de Tours fera une présentation d'OpenStreetMap à 14h le samedi 30 
+ mai. Vous pourrez aussi retrouver de nombreux contributeurs OSM de France 
+ ou du groupe local de bordeaux.\n\nL'organisation se déroule [ici](https:
+ //forum.openstreetmap.fr/t/printemps-des-cartes-montmorillon-28-05-31-05/4
+ 3518) !\n\nCommunauté: openstreetmap-bordeaux
+LOCATION:16 rue des Récollets 86500 Montmorillon\, France
+TZID:Europe/Paris
+URL:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
+ /PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Printemps des Cartes à Montmorillon
 DTSTART;TZID=Europe/Paris:20260529T100000
 DTEND;TZID=Europe/Paris:20260529T120000
 UID:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
