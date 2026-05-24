@@ -22,6 +22,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/gdg-bordeaux/events.ics](/gdg-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Lundi 08 juin 2026 à 19:00 | GDG Meetup #43 - Flutter x IA & Animations : Repoussez les limites de vos applic | 117 Quai de Bacalan, Bordeaux | https://www.meetup.com/fr-FR/gdg-bordeaux/events/314920389/ |
+
 ## 📆 Past Events
 
 <details>

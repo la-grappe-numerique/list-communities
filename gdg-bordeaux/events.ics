@@ -5,6 +5,62 @@ X-WR-CALDESC:Calendrier des événements de la communauté gdg-bordeaux
 X-WR-CALNAME:Événements gdg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:GDG Meetup #43 - Flutter x IA & Animations : Repoussez les limites
+  de vos applic
+DTSTART;TZID=Europe/Paris:20260608T190000
+DTEND;TZID=Europe/Paris:20260608T210000
+UID:https://www.meetup.com/fr-FR/gdg-bordeaux/events/314920389/@community-
+ events
+DESCRIPTION:🔗 https://www.meetup.com/fr-FR/gdg-bordeaux/events/31492038
+ 9/\n📍 Betclic Group\, 117 Quai de Bacalan\, Bordeaux\, fr\n\nRejoignez-
+ nous pour une soirée exceptionnelle placée sous le signe de l'innovation
+  mobile\, de l'animation de pointe et de l'Intelligence Artificielle ! Que
+  vous soyez développeur Flutter chevronné\, curieux de l'impact de l'IA 
+ sur le code ou passionné d'UI/UX\, ce meetup est fait pour vous.\n\nNous 
+ aurons le plaisir d'accueillir des experts de la communauté pour décrypt
+ er les architectures de demain\, animer vos interfaces comme jamais et voi
+ r comment l'IA peut dynamiser vos applications en temps réel.\n\nEn bonus
+ \, la soirée se clôturera par un moment d'échange convivial (networking
+ ) autour d'un verre ! 🍕🥤\n\n📅 Infos Pratiques\n\nDate : Lundi 8 J
+ uin 2026\n\nHoraire : 19h00\n\nLieu : Betclic - 17 Quai de Bacalan\, 33300
+  Bordeaux\n\nInscription : Gratuite mais obligatoire (places limitées !)\
+ n\n🎤 Le Programme & Les Talks\n🛠️ Sujet 1 : Rive: animate your app
+ s like never before\n\nSpeakers : Thomas Guerin & Nicolas Favereaux\n\nDes
+ cription : Découvrez comment donner vie à vos interfaces et transcender 
+ l'expérience utilisateur. Thomas et Nicolas vous présenteront la puissan
+ ce de Rive pour intégrer des animations complexes\, interactives et ultra
+ -fluides dans vos applications Flutter\, sans aucune perte de performance.
+ \n\n🏗️ Sujet 2 : Scalable architecture in flutter to embrace AI codin
+ g\n\nSpeakers : Guillaume Boussion & Paul-Anatole Claudot\n\nDescription :
+  L'avènement des assistants de code et de la génération d'applications 
+ par l'IA change la donne. Comment concevoir une architecture Flutter qui s
+ oit non seulement robuste et scalable\, mais aussi pensée pour maximiser 
+ la collaboration avec les outils de "AI coding" ? Guillaume et Paul-Anatol
+ e vous partagent leurs meilleures pratiques.\n\n🤖 Sujet 3 : Flutter Gen
+ UI : Générer des interfaces dynamiques par l'IA sans perdre le contrôle
+ \n\nSpeaker : Grégoire Bonnier\n\nDescription : Comment passer d'un chatb
+ ot textuel à une interface interactive générée dynamiquement ? Décryp
+ tage et POC du package genui (Generative User Interface)\, où l'IA devien
+ t un simple moteur d'état qui pioche directement dans vos widgets Flutter
+ . Une session incontournable pour repenser l'interaction homme-machine !\n
+ \n💬 Déroulé de la soirée\n\n18h45 : Accueil & Mot d'ouverture\n\n19h
+ 00 : Début des talks (Suivis de sessions Q&A)\n\n20h30 : Afterwork\, netw
+ orking\, pizzas & boissons !\n\nVenez nombreux pour échanger\, apprendre 
+ et vous inspirer ! 🚀\n\nAgenda\n\n---\n\nHosted By\n\nEnzo Conty\, Orga
+ nizer\n\nHaving started out as a freelancer in France over five years ago\
+ , I have been passionate about Flutter since then.\nI created a freelance 
+ agency for Flutter mobile development after creating around 30 mobile apps
+  over the years.\n\nWith Flutter\, I explore new platforms to use\, such a
+ s Steam Deck\, embeddable systems such as drink distributors\, and even St
+ eam games.\n\nIvan Canet\, Software Engineer\n\nComplete your event RSVP h
+ ere: https://gdg.community.dev/events/details/google-gdg-bordeaux-presents
+ -gdg-meetup-43-flutter-x-ia-amp-animations-repoussez-les-limites-de-vos-ap
+ plications/.\n\nCommunauté: gdg-bordeaux
+LOCATION:Betclic Group\, 117 Quai de Bacalan\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-FR/gdg-bordeaux/events/314920389/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tech Quiz / Get Together #3
 DTSTART;TZID=Europe/Paris:20260407T190000
 DTEND;TZID=Europe/Paris:20260407T210000

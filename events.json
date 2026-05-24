@@ -79,6 +79,23 @@
     ]
   },
   {
+    "title": "GDG Meetup #43 - Flutter x IA & Animations : Repoussez les limites de vos applic",
+    "date": "2026-06-08T19:00:00+02:00",
+    "url": "https://www.meetup.com/fr-FR/gdg-bordeaux/events/314920389/",
+    "description": "Rejoignez-nous pour une soirée exceptionnelle placée sous le signe de l'innovation mobile, de l'animation de pointe et de l'Intelligence Artificielle ! Que vous soyez développeur Flutter chevronné, curieux de l'impact de l'IA sur le code ou passionné d'UI/UX, ce meetup est fait pour vous.\n\nNous aurons le plaisir d'accueillir des experts de la communauté pour décrypter les architectures de demain, animer vos interfaces comme jamais et voir comment l'IA peut dynamiser vos applications en temps réel.\n\nEn bonus, la soirée se clôturera par un moment d'échange convivial (networking) autour d'un verre ! 🍕🥤\n\n📅 Infos Pratiques\n\nDate : Lundi 8 Juin 2026\n\nHoraire : 19h00\n\nLieu : Betclic - 17 Quai de Bacalan, 33300 Bordeaux\n\nInscription : Gratuite mais obligatoire (places limitées !)\n\n🎤 Le Programme & Les Talks\n🛠️ Sujet 1 : Rive: animate your apps like never before\n\nSpeakers : Thomas Guerin & Nicolas Favereaux\n\nDescription : Découvrez comment donner vie à vos interfaces et transcender l'expérience utilisateur. Thomas et Nicolas vous présenteront la puissance de Rive pour intégrer des animations complexes, interactives et ultra-fluides dans vos applications Flutter, sans aucune perte de performance.\n\n🏗️ Sujet 2 : Scalable architecture in flutter to embrace AI coding\n\nSpeakers : Guillaume Boussion & Paul-Anatole Claudot\n\nDescription : L'avènement des assistants de code et de la génération d'applications par l'IA change la donne. Comment concevoir une architecture Flutter qui soit non seulement robuste et scalable, mais aussi pensée pour maximiser la collaboration avec les outils de \"AI coding\" ? Guillaume et Paul-Anatole vous partagent leurs meilleures pratiques.\n\n🤖 Sujet 3 : Flutter GenUI : Générer des interfaces dynamiques par l'IA sans perdre le contrôle\n\nSpeaker : Grégoire Bonnier\n\nDescription : Comment passer d'un chatbot textuel à une interface interactive générée dynamiquement ? Décryptage et POC du package genui (Generative User Interface), où l'IA devient un simple moteur d'état qui pioche directement dans vos widgets Flutter. Une session incontournable pour repenser l'interaction homme-machine !\n\n💬 Déroulé de la soirée\n\n18h45 : Accueil & Mot d'ouverture\n\n19h00 : Début des talks (Suivis de sessions Q&A)\n\n20h30 : Afterwork, networking, pizzas & boissons !\n\nVenez nombreux pour échanger, apprendre et vous inspirer ! 🚀\n\nAgenda\n\n---\n\nHosted By\n\nEnzo Conty, Organizer\n\nHaving started out as a freelancer in France over five years ago, I have been passionate about Flutter since then.\nI created a freelance agency for Flutter mobile development after creating around 30 mobile apps over the years.\n\nWith Flutter, I explore new platforms to use, such as Steam Deck, embeddable systems such as drink distributors, and even Steam games.\n\nIvan Canet, Software Engineer\n\nComplete your event RSVP here: https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-gdg-meetup-43-flutter-x-ia-amp-animations-repoussez-les-limites-de-vos-applications/.",
+    "is_online": false,
+    "venue": {
+      "name": "Betclic Group",
+      "address": "117 Quai de Bacalan",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "117 Quai de Bacalan, Bordeaux",
+    "communities": [
+      "gdg-bordeaux"
+    ]
+  },
+  {
     "title": "Human Talks Bdx #14 - Ed. spéciale FlowCon",
     "date": "2026-06-04T18:30:00+02:00",
     "url": "https://www.meetup.com/human-talks-bordeaux/events/314639269/",
