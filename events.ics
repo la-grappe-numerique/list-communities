@@ -10098,6 +10098,31 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytkbrb/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Danse avec les événements : construisons une Event-Driven Archit
+ ecture ensemble
+DTSTART;TZID=Europe/Paris:20260611T190000
+DTEND;TZID=Europe/Paris:20260611T210000
+UID:https://www.meetup.com/bordeauxjug/events/314967340/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/314967340/\n
+ 📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr\n\nDep
+ uis plus de deux ans\, chez Primary\, nous faisons **tourner une event-dri
+ ven architecture en production.** Basée sur des concepts très simples\, 
+ elle offre de nombreux avantages\, mais cache aussi des pièges dans lesqu
+ els il est facile de tomber.\n\nVenez découvrir avec moi comment nous avo
+ ns construit cette plateforme event-driven\, comment nous l'avons outillé
+ e\, et comment nous la maintenons aujourd'hui.\n\nEn prenant un exemple en
+  **live-coding**\, je vous montrerai le socle qu'il nous a fallu mettre en
+  place. Nous verrons comment l'ensemble fonctionne\, ainsi que les outils 
+ construits sur mesure\, mais aussi notre gestion de la résilience et de l
+ 'observabilité.\n\n**Ce retour d'expérience sur nos choix pragmatiques**
+ \, les soucis que nous avons rencontrés et les leçons que nous en avons 
+ tiré vous permettra de vous faire un avis éclairé sur cette architectur
+ e.\n\nCommunauté: bordeauxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer\, Talence\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/314967340/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CQRS & Event Sourcing : La revanche des micro-services
 DTSTART;TZID=Europe/Paris:20260402T190000
 DTEND;TZID=Europe/Paris:20260402T210000
