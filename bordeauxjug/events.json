@@ -1,5 +1,20 @@
 [
   {
+    "title": "Danse avec les événements : construisons une Event-Driven Architecture ensemble",
+    "date": "2026-06-11T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/314967340/",
+    "description": "Depuis plus de deux ans, chez Primary, nous faisons **tourner une event-driven architecture en production.** Basée sur des concepts très simples, elle offre de nombreux avantages, mais cache aussi des pièges dans lesquels il est facile de tomber.\n\nVenez découvrir avec moi comment nous avons construit cette plateforme event-driven, comment nous l'avons outillée, et comment nous la maintenons aujourd'hui.\n\nEn prenant un exemple en **live-coding**, je vous montrerai le socle qu'il nous a fallu mettre en place. Nous verrons comment l'ensemble fonctionne, ainsi que les outils construits sur mesure, mais aussi notre gestion de la résilience et de l'observabilité.\n\n**Ce retour d'expérience sur nos choix pragmatiques**, les soucis que nous avons rencontrés et les leçons que nous en avons tiré vous permettra de vous faire un avis éclairé sur cette architecture.",
+    "community": "bordeauxjug",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
+  },
+  {
     "title": "CQRS & Event Sourcing : La revanche des micro-services",
     "date": "2026-04-02T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjug/events/313885181/",
