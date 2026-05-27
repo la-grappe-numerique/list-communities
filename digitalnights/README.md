@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/digitalnights/events.ics](/digitalnights/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 09 juin 2026 à 19:00 | Afterwork networking entre acteurs du digital : DN#24 | Le Café Rohan 1 Place Pey Berland  33000 Bordeaux | https://www.eventbrite.fr/e/afterwork-networking-entre-acteurs-du-digital-dn24-tickets-1987681363465?aff=oddtdtcreator |
+
 ## 📆 Past Events
 
 <details>

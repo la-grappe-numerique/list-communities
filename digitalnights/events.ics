@@ -5,6 +5,44 @@ X-WR-CALDESC:Calendrier des événements de la communauté digitalnights
 X-WR-CALNAME:Événements digitalnights
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Afterwork networking entre acteurs du digital : DN#24
+DTSTART;TZID=Europe/Paris:20260609T190000
+DTEND;TZID=Europe/Paris:20260609T210000
+UID:https://www.eventbrite.fr/e/afterwork-networking-entre-acteurs-du-digi
+ tal-dn24-tickets-1987681363465?aff=oddtdtcreator@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/afterwork-networking-entre-ac
+ teurs-du-digital-dn24-tickets-1987681363465?aff=oddtdtcreator\n📍 Le Caf
+ é Rohan 1 Place Pey Berland  33000 Bordeaux\n\nAfterworks bimestriels gra
+ tuits à Bordeaux pour connecter pros et passionnés du numérique autour 
+ d'échanges et de rencontres.\n\n🌐 DigitalNights Bordeaux\, l'afterwork
+  du numérique\n\nTu travailles dans le digital\, tu t'y intéresses\, ou 
+ tu as juste un projet qui traîne dans un coin de ta tête ? Tu es au bon 
+ endroit.\n\n📍 Le Rohan : 1 Place Pey Berland\, Bordeaux\n\n📅 Mardi 0
+ 9 juin 2026 à 19:00\n\n🚋 Accès : Tram A ou B\, à l’arrêt Hôtel d
+ e Ville\n\n💸 Participation gratuite\, consommation sur place\n\nDigital
+ Nights\, c'est un afterwork bimestriel gratuit à Bordeaux qui rassemble d
+ éveloppeurs\, designers\, chefs de projet\, freelances\, étudiants et cu
+ rieux autour d'un verre. Pas de conférence\, pas de costume obligatoire. 
+ Juste l'envie d'échanger sur le numérique\, les projets et les idées\, 
+ dans une ambiance décontractée.\n\n👉 Les places sont limitées\, l'in
+ scription vaut engagement : si tu réserves\, viens ! Ça permet à tout l
+ e monde de profiter pleinement de la soirée.\n\n🎲 Le programme\n\n19h0
+ 0 : accueil et début de la soirée\n19h15 : atelier ou icebreaker\n20h15 
+ : discussions libres autour d'un verre\nC'est souvent là que les meilleur
+ es choses se passent.\n\n👋 Pour qui ?\n\nPour toi si tu es dev\, design
+ er\, PO\, graphiste\, freelance\, étudiant ou simplement quelqu'un qui br
+ icole sur le web et a envie de rencontrer du monde. La seule condition : 
+ être curieux.\n\n💬 La communauté continue sur Discord\n\nLa communaut
+ é DN vit aussi entre les soirées. C'est l'endroit pour suivre les évén
+ ements\, discuter avec une communauté soudée et rester dans la boucle.\n
+ \n👉 [Rejoins le serveur Discord DigitalNights](https://discord.gg/MM87m
+ ZueKx)\n\nCommunauté: digitalnights
+LOCATION:Le Café Rohan 1 Place Pey Berland  33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/afterwork-networking-entre-acteurs-du-digi
+ tal-dn24-tickets-1987681363465?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Afterwork networking entre acteur du digital - DN#23
 DTSTART;TZID=Europe/Paris:20260407T190000
 DTEND;TZID=Europe/Paris:20260407T210000
