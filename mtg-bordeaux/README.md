@@ -19,6 +19,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](/mtg-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Lundi 08 juin 2026 à 17:30 | Microsoft Build 2026 //localhost:bordeaux | 353 Boulevard du Président Wilson 7ème étage, Bordeaux | https://www.meetup.com/mtg-bordeaux/events/314984774/ |
+
 ## 📆 Past Events
 
 <details>

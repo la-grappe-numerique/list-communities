@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 28 mai 2026 à 10:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [Festival Printemps des Cartes à Montmorillon](https://www.printempsdescartes.fr/) | 16 rue des Récollets 86500 Montmorillon, France |
 | Vendredi 29 mai 2026 à 10:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [Festival Printemps des Cartes à Montmorillon](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=7) | 16 rue des Récollets 86500 Montmorillon, France |
 | Samedi 30 mai 2026 à 10:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [Festival Printemps des Cartes à Montmorillon](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10) | 16 rue des Récollets 86500 Montmorillon, France |
+| Dimanche 31 mai 2026 à 10:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [Festival Printemps des Cartes à Montmorillon](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13) | 16 rue des Récollets 86500 Montmorillon, France |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

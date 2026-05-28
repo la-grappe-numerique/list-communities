@@ -5,6 +5,42 @@ X-WR-CALDESC:Calendrier des événements de la communauté mtg-bordeaux
 X-WR-CALNAME:Événements mtg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Microsoft Build 2026 //localhost:bordeaux
+DTSTART;TZID=Europe/Paris:20260608T173000
+DTEND;TZID=Europe/Paris:20260608T193000
+UID:https://www.meetup.com/mtg-bordeaux/events/314984774/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/314984774/\n
+ 📍 École de Turing\, 353 Boulevard du Président Wilson 7ème étage\, 
+ Bordeaux\, fr\n\n**IMPORTANT : MERCI DE VOUS INSCRIRE SUR LA [PAGE MICROSO
+ FT REACTOR](https://developer.microsoft.com/fr-fr/reactor/events/27221/) P
+ OUR PARTICIPER A L'ÉVÉNEMENT**\n\n**Microsoft Build //localhost:bordeaux
+ **\nNous sommes heureux de vous inviter à la version localhost de la Micr
+ osoft Build. Un événement local et communautaire à Bordeaux pour faire 
+ suite à la Microsoft Build. On parlera des nouveautés annoncées à la B
+ uild et de différentes thématiques à commencer par l'IA et Azure. On au
+ ra le plaisir\nd'être accueilli par [Programisto](https://programisto.fr/
+ ) à l'[École de Turing](https://ecoledeturing.fr/).\n\nExceptionnellemen
+ t\, les inscriptions se feront à cette [adresse](https://developer.micros
+ oft.com/fr-fr/reactor/events/27221/).\n\n**📅 Programme de l’événeme
+ nt**\n*Démarrage à 17h30*\n**Accueil & Networking & Introduction**\nRenc
+ ontrez d’autres développ·eurs·euses et préparez-vous pour plusieurs 
+ sessions passionnantes.\n**Panel**\nUne table ronde pour débriefer des an
+ nonces de la Microsoft Build\n**Lab**\nFrom zero to deployed on Azure with
+  AI agent\n**Talk**\nBreakout session sur une nouveauté de Microsoft Buil
+ d\n**Clôture & Networking**\nProfitez d’un moment convivial.\n\n📺 **
+ Live**\nPour ceux et celles à distance l'événement est diffusé en dire
+ ct sur YouTube : https://youtube.com/live/L9rMyhtrHnI\n\n**📍 Lieu de l
+ ’événement :** École de Turing\n353 Boulevard du Président Wilson 7
+ ème étage\, 33200 Bordeaux\n\n**📜 Code de conduite**\nNous nous engag
+ eons à créer un environnement inclusif et accueillant pour tous les part
+ icipant∙e∙s. Merci de consulter notre [Code de conduite](https://www.m
+ tg-france.org/coc) avant de participer.\n\nCommunauté: mtg-bordeaux
+LOCATION:École de Turing\, 353 Boulevard du Président Wilson 7ème étag
+ e\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/314984774/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GitHub Copilot Dev Days | Bordeaux
 DTSTART;TZID=Europe/Paris:20260430T180000
 DTEND;TZID=Europe/Paris:20260430T200000

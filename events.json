@@ -124,10 +124,27 @@
     ]
   },
   {
+    "title": "Microsoft Build 2026 //localhost:bordeaux",
+    "date": "2026-06-08T17:30:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/314984774/",
+    "description": "**IMPORTANT : MERCI DE VOUS INSCRIRE SUR LA [PAGE MICROSOFT REACTOR](https://developer.microsoft.com/fr-fr/reactor/events/27221/) POUR PARTICIPER A L'ÉVÉNEMENT**\n\n**Microsoft Build //localhost:bordeaux**\nNous sommes heureux de vous inviter à la version localhost de la Microsoft Build. Un événement local et communautaire à Bordeaux pour faire suite à la Microsoft Build. On parlera des nouveautés annoncées à la Build et de différentes thématiques à commencer par l'IA et Azure. On aura le plaisir\nd'être accueilli par [Programisto](https://programisto.fr/) à l'[École de Turing](https://ecoledeturing.fr/).\n\nExceptionnellement, les inscriptions se feront à cette [adresse](https://developer.microsoft.com/fr-fr/reactor/events/27221/).\n\n**📅 Programme de l’événement**\n*Démarrage à 17h30*\n**Accueil & Networking & Introduction**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour plusieurs sessions passionnantes.\n**Panel**\nUne table ronde pour débriefer des annonces de la Microsoft Build\n**Lab**\nFrom zero to deployed on Azure with AI agent\n**Talk**\nBreakout session sur une nouveauté de Microsoft Build\n**Clôture & Networking**\nProfitez d’un moment convivial.\n\n📺 **Live**\nPour ceux et celles à distance l'événement est diffusé en direct sur YouTube : https://youtube.com/live/L9rMyhtrHnI\n\n**📍 Lieu de l’événement :** École de Turing\n353 Boulevard du Président Wilson 7ème étage, 33200 Bordeaux\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participant∙e∙s. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "is_online": false,
+    "venue": {
+      "name": "École de Turing",
+      "address": "353 Boulevard du Président Wilson 7ème étage",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "353 Boulevard du Président Wilson 7ème étage, Bordeaux",
+    "communities": [
+      "mtg-bordeaux"
+    ]
+  },
+  {
     "title": "Human Talks Bdx #14 - Ed. spéciale FlowCon",
     "date": "2026-06-04T18:30:00+02:00",
     "url": "https://www.meetup.com/human-talks-bordeaux/events/314639269/",
-    "description": "Chez Human Talks Bordeaux, nous croyons que la Tech ne se limite pas à des lignes de code ou à des outils : c’est avant tout une aventure collective où l'humain, les organisations et les innovations s’entremêlent. Fidèle à cette croyance, nous avons saisi l’opportunité de mettre la [FlowCon](https://www.flowcon.fr/) à l’honneur lors de notre prochain meetup.\n\nChaque année depuis 10 ans, la FlowCon réunit à Paris les professionnels du développement logiciel autour d’une notion principale : le développement de produit en flux, que ce soit Lean Kanban, l’agilité, le Lean, le Continuous Delivery et toutes les réflexions internationales sur les façons de mieux travailler en équipe.\n\nLa 10ème édition de l'événement a eu lieu fin mars et nous avons voulu partager avec vous un échantillon de cet événement emblématique qui nous inspire. Pour vous offrir une immersion complète, nous avons imaginé 3 interventions sous la forme de 3 regards, complémentaires, sur cette conférence et ses enjeux :\n\n* **Un talk adapté et rejoué** : Thomas Babin, un des intervenants de FlowCon 2026, rejouera son intervention, spécialement pour vous, en 10 minutes. Découvrez, ou redécouvrez, une thématique phare de la conférence, avec un regard frais et des perspectives adaptées à la communauté Human Talks.\n* **Les apprentissages clés de Flowcon** : Sébastien Durand, a participé à la conférence ; il viendra partager ses learnings et les insights marquants qu’il en a tirés. Une occasion unique de décortiquer les enjeux de l’événement et de les adapter à nos réalités locales.\n* **L’histoire de Flowcon** : Dimitri Baeli, un des cofondateurs de Flowcon, viendra nous raconter l’histoire de cette aventure, née il y a 10 ans. Au-delà des coulisses de l’organisation, il abordera aussi la question de l’engagement bénévole dans la Tech : comment une communauté s’organise, se mobilise et fait vivre un événement d’une telle envergure ?\n\nUn grand MERCI au [Node Bordeaux](https://www.node.aquinum.fr/) d'accueillir ce meetup !\n\n###\n\n--\n**Agenda**\n18h30 - Accueil\n\n19h - **POV Speaker - Hands-on : l’IA pour lancer son produit… et remettre en question vos méthodes** par [Thomas Babin](https://www.linkedin.com/in/thomasbabin/), Product & Tech Leader indépendant\n*Dans la série IA, il y a un peu de tout, du bon comme du moins bon. Or j'ai remarqué que certains ingénieurs boudaient les outils d'IA pour le développement et le lancement de leurs produits, alors qu'ils permettent aux parties prenantes (fondateurs, PM, profils métiers) de matérialiser simplement et visualiser rapidement une idée. Ces outils permettent de tester une hypothèse et de valider le problème ou le solution fit. Et puis, c'est un premier pas pour développer ensuite un produit robuste... Lors de cette intervention, je vous propose de remettre en question une manière de travailler et d'utiliser l'IA comme un bon starter kit pour itérer vite et bien.*\n\n19h20 - **POV Participant - Rapport d’étonnement FlowCon 2026 : mes découvertes, mes apprentissages et mes idées d’applications** par [Sébastien Durand](https://www.linkedin.com/in/durandsebastien/) Responsable transformation / Chief of staff @ [Cdiscount](https://www.cdiscount.com/)\n*Chaque année, on court après de nouvelles méthodes, de nouveaux frameworks, de nouveaux “best practices”. Et pourtant, certaines conférences arrivent encore à vraiment nourrir une pratique sur la durée. Participant de FlowCon depuis 3 éditions, je vous partagerai mon retour d’expérience à chaud et très concret : ce qui rend la FlowCon différente des autres événements, les idées / déclics que j’en retire et comment je transforme ces apports en actions. Un talk orienté “rapport d’étonnement” : ce qui surprend, ce qui inspire, ce qui challenge et comment repartir avec quelques pistes immédiatement réutilisables.*\n\n19h40 - **POV Organisateur - retour d’expérience sur 10 ans de FlowCon** par [Dimitri Baeli](https://www.linkedin.com/in/dbaeli), Head of Software Engineering @ [BackMarket Pro](https://pro.backmarket.fr/) / Co-founder @ [FlowCon](https://flowcon.io/)\n*En 10 ans, la FlowCon a construit une identité rare : une ligne éditoriale cohérente, un scope assumé (l’agilité d’une squad, pas l’agilité d’entreprise) et une communauté qui dure, le tout porté par des bénévoles. Lors de cette intervention, Dimitri nous racontera les choix qui permettent de tenir dans le temps : avancer par petites itérations façon continuous delivery et surtout “construire avec l’énergie disponible” pour éviter la frustration. Anecdotes, coulisses et échanges pour repartir avec des principes concrets applicables à tout événement communautaire.*\n\n20h - Discussions autour d’un verre\n\n21h - Fin",
+    "description": "Chez Human Talks Bordeaux, nous croyons que la Tech ne se limite pas à des lignes de code ou à des outils : c’est avant tout une aventure collective où l'humain, les organisations et les innovations s’entremêlent. Fidèle à cette croyance, nous avons saisi l’opportunité de mettre la [FlowCon](https://www.flowcon.fr/) à l’honneur lors de notre prochain meetup.\n\nChaque année depuis 10 ans, la FlowCon réunit à Paris les professionnels du développement logiciel autour d’une notion principale : le développement de produit en flux, que ce soit Lean Kanban, l’agilité, le Lean, le Continuous Delivery et toutes les réflexions internationales sur les façons de mieux travailler en équipe.\n\nLa 10ème édition de l'événement a eu lieu fin mars et nous avons voulu partager avec vous un échantillon de cet événement emblématique qui nous inspire. Pour vous offrir une immersion complète, nous avons imaginé 3 interventions sous la forme de 3 regards, complémentaires, sur cette conférence et ses enjeux :\n\n* **Un talk adapté et rejoué** : Thomas Babin, un des intervenants de FlowCon 2026, rejouera son intervention, spécialement pour vous, en 10 minutes. Découvrez, ou redécouvrez, une thématique phare de la conférence, avec un regard frais et des perspectives adaptées à la communauté Human Talks.\n* **Les apprentissages clés de Flowcon** : Sébastien Durand, a participé à la conférence ; il viendra partager ses learnings et les insights marquants qu’il en a tirés. Une occasion unique de décortiquer les enjeux de l’événement et de les adapter à nos réalités locales.\n* **L’histoire de Flowcon** : Dimitri Baeli, un des cofondateurs de Flowcon, viendra nous raconter l’histoire de cette aventure, née il y a 10 ans. Au-delà des coulisses de l’organisation, il abordera aussi la question de l’engagement bénévole dans la Tech : comment une communauté s’organise, se mobilise et fait vivre un événement d’une telle envergure ?\n\nUn grand MERCI au [Node Bordeaux](https://www.node.aquinum.fr/) d'accueillir ce meetup !\n\n###\n\n--\n**Agenda**\n18h30 - Accueil\n\n19h - **POV Speaker - Hands-on : l’IA pour lancer son produit… et remettre en question vos méthodes** par [Thomas Babin](https://www.linkedin.com/in/thomasbabin/), Product & Tech Leader indépendant\n*Et si votre avantage compétitif ne dépendait plus de vos ressources… mais de votre capacité à tester plus vite que les autres ?*\n\n*Dans la plupart des entreprises, tester une nouvelle idée reste un processus long, coûteux et incertain : cadrage, spécifications, priorisation, développement... Ce délai n’est plus une contrainte technologique. C’est devenu un problème d’organisation. Ce talk propose d’expérimenter un modèle alternatif : celui où une idée peut être transformée en outil testable en quelques dizaines de minutes. À partir de données réelles, nous construirons un outil décisionnel intégrant visualisation, logique métier et simulation de scénarios. L’enjeu n’est pas technique, il est stratégique :*\n*\\- réduire drastiquement le temps entre une idée et sa validation*\n*\\- permettre aux équipes métier de tester directement leurs hypothèses*\n*\\- repositionner les équipes techniques sur des sujets à plus forte valeur*\n\n*Ce contenu s’adresse à tout ceux qui s’interrogent sur la vitesse d’exécution de leur organisation et sur leur capacité à transformer rapidement des idées en décisions concrètes.*\n\n19h20 - **POV Participant - Rapport d’étonnement FlowCon 2026 : mes découvertes, mes apprentissages et mes idées d’applications** par [Sébastien Durand](https://www.linkedin.com/in/durandsebastien/) Responsable transformation / Chief of staff @ [Cdiscount](https://www.cdiscount.com/)\n*Chaque année, on court après de nouvelles méthodes, de nouveaux frameworks, de nouveaux “best practices”. Et pourtant, certaines conférences arrivent encore à vraiment nourrir une pratique sur la durée. Participant de FlowCon depuis 3 éditions, je vous partagerai mon retour d’expérience à chaud et très concret : ce qui rend la FlowCon différente des autres événements, les idées / déclics que j’en retire et comment je transforme ces apports en actions. Un talk orienté “rapport d’étonnement” : ce qui surprend, ce qui inspire, ce qui challenge et comment repartir avec quelques pistes immédiatement réutilisables.*\n\n19h40 - **POV Organisateur - retour d’expérience sur 10 ans de FlowCon** par [Dimitri Baeli](https://www.linkedin.com/in/dbaeli), Head of Software Engineering @ [BackMarket Pro](https://pro.backmarket.fr/) / Co-founder @ [FlowCon](https://flowcon.io/)\n*En 10 ans, la FlowCon a construit une identité rare : une ligne éditoriale cohérente, un scope assumé (l’agilité d’une squad, pas l’agilité d’entreprise) et une communauté qui dure, le tout porté par des bénévoles. Lors de cette intervention, Dimitri nous racontera les choix qui permettent de tenir dans le temps : avancer par petites itérations façon continuous delivery et surtout “construire avec l’énergie disponible” pour éviter la frustration. Anecdotes, coulisses et échanges pour repartir avec des principes concrets applicables à tout événement communautaire.*\n\n20h - Discussions autour d’un verre\n\n21h - Fin",
     "is_online": false,
     "venue": {
       "name": "LE NODE",
@@ -821,17 +838,6 @@
     ]
   },
   {
-    "title": "Angular v21: Le framework se met à jour !",
-    "date": "2026-01-28T18:30:00",
-    "url": "https://luma.com/8ioijhjc",
-    "description": "Angular v21 vient de sortir, et c’est une super occasion de se retrouver pour parler des nouveautés, avec un focus sur Signals, le gros sujet de cette release.\n\n​🎤 Format\n\n​1 talk principal (20–25 min) + Q&A\n\n​1 lightning talk (15 min) + Q&A\n\n​Puis networking / discussions informelles\n\n​🧠 Talks\n\n​✅ Florian Allainmat — Signals : le nouveau modèle de réactivité d’Angular v21 (20–25 min)\n\n​✅ Jérémy Guilpin — Angular en entreprise aujourd’hui + comparaison avec React (et le reste 😄) (15 min)\n\n​🤝 Pour qui ?\n\n​Que tu fasses déjà de l’Angular au quotidien ou que tu sois juste curieux de découvrir ce que la v21 change concrètement, tu es le/la bienvenu(e) !\n\n​On terminera par un moment chill pour discuter front/back, architecture, tooling… et rencontrer d’autres devs de Bordeaux 🍻",
-    "location": "Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France",
-    "is_online": false,
-    "communities": [
-      "bordeauxjs"
-    ]
-  },
-  {
     "title": "Bière Agile de Bordeaux - Bonne année!",
     "date": "2026-01-28T18:30:00",
     "url": "https://www.linkedin.com/events/7416947844756127744/",
@@ -851,6 +857,17 @@
     "is_online": false,
     "communities": [
       "bordeaux-xr"
+    ]
+  },
+  {
+    "title": "Angular v21: Le framework se met à jour !",
+    "date": "2026-01-28T18:30:00",
+    "url": "https://luma.com/8ioijhjc",
+    "description": "Angular v21 vient de sortir, et c’est une super occasion de se retrouver pour parler des nouveautés, avec un focus sur Signals, le gros sujet de cette release.\n\n​🎤 Format\n\n​1 talk principal (20–25 min) + Q&A\n\n​1 lightning talk (15 min) + Q&A\n\n​Puis networking / discussions informelles\n\n​🧠 Talks\n\n​✅ Florian Allainmat — Signals : le nouveau modèle de réactivité d’Angular v21 (20–25 min)\n\n​✅ Jérémy Guilpin — Angular en entreprise aujourd’hui + comparaison avec React (et le reste 😄) (15 min)\n\n​🤝 Pour qui ?\n\n​Que tu fasses déjà de l’Angular au quotidien ou que tu sois juste curieux de découvrir ce que la v21 change concrètement, tu es le/la bienvenu(e) !\n\n​On terminera par un moment chill pour discuter front/back, architecture, tooling… et rencontrer d’autres devs de Bordeaux 🍻",
+    "location": "Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
     ]
   },
   {
@@ -1337,16 +1354,6 @@
     ]
   },
   {
-    "title": "DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA",
-    "date": "2025-10-15T18:30:00",
-    "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",
-    "description": "### Événement Bordeaux ApérOps #2\n\nDescription :\nPour ce deuxième rendez-vous Bordeaux ApérOps, nous vous proposons une soirée double thématique autour de la data et de l’IA :\n\n### ⚙️dbt : Garantissez la Qualité de vos Données Grâce à des Tests Robustes\n\n🎤 Jérémy Nadal - Data Engineer @Ippon Technologies\n\n### 🪴 Comment estimer l'empreinte carbone d'un modèle d'IA de l'entraînement à la mise en production\n\n🎤 Sonia Tabti, PhD - Computer Vision & VLM Expert\n\n🍻 Comme toujours, échanges, retours d’expérience et convivialité autour d’un apéro !\nRejoignez-nous pour une soirée qui mêle rigueur technique et réflexion responsable, à l’image de la communauté DataOps & MLOps bordelaise.",
-    "is_online": false,
-    "communities": [
-      "aperops-dataops-mlops"
-    ]
-  },
-  {
     "title": "Bière Agile de Bordeaux",
     "date": "2025-10-15T18:30:00",
     "url": "https://www.linkedin.com/events/bi-reagiledebordeaux7380175331695087616/",
@@ -1355,6 +1362,16 @@
     "is_online": false,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "DataOps & MLOps : de la Qualité des Données à l’Impact Environnemental de l’IA",
+    "date": "2025-10-15T18:30:00",
+    "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/311033035/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2",
+    "description": "### Événement Bordeaux ApérOps #2\n\nDescription :\nPour ce deuxième rendez-vous Bordeaux ApérOps, nous vous proposons une soirée double thématique autour de la data et de l’IA :\n\n### ⚙️dbt : Garantissez la Qualité de vos Données Grâce à des Tests Robustes\n\n🎤 Jérémy Nadal - Data Engineer @Ippon Technologies\n\n### 🪴 Comment estimer l'empreinte carbone d'un modèle d'IA de l'entraînement à la mise en production\n\n🎤 Sonia Tabti, PhD - Computer Vision & VLM Expert\n\n🍻 Comme toujours, échanges, retours d’expérience et convivialité autour d’un apéro !\nRejoignez-nous pour une soirée qui mêle rigueur technique et réflexion responsable, à l’image de la communauté DataOps & MLOps bordelaise.",
+    "is_online": false,
+    "communities": [
+      "aperops-dataops-mlops"
     ]
   },
   {
@@ -1407,17 +1424,6 @@
     ]
   },
   {
-    "title": "K8S, SaaS, Leadership, Qualité de code, Happiness - Le Tremplin Bordelais 2025",
-    "date": "2025-09-30T18:30:00",
-    "url": "https://www.meetup.com/fr-FR/craftsrecords/events/310781062",
-    "description": "Les conférences Agile Tour Bordeaux et BDX I/O s'associent à CraftsRecords pour organiser une mini-conférence Tremplin le 30 septembre, dédiée aux personnes souhaitant devenir oratrice ou orateur en conférence Tech.",
-    "location": "Betclic, 117 Quai de Bacalan, 33300 Bordeaux",
-    "is_online": false,
-    "communities": [
-      "bdx-io, agile-tour-bordeaux"
-    ]
-  },
-  {
     "title": "Oser, malgré la peur : quand confiance et collectif deviennent moteurs",
     "date": "2025-09-30T18:30:00",
     "url": "https://luma.com/17u8ysfd",
@@ -1426,6 +1432,17 @@
     "is_online": false,
     "communities": [
       "women-in-tech-bordeaux"
+    ]
+  },
+  {
+    "title": "K8S, SaaS, Leadership, Qualité de code, Happiness - Le Tremplin Bordelais 2025",
+    "date": "2025-09-30T18:30:00",
+    "url": "https://www.meetup.com/fr-FR/craftsrecords/events/310781062",
+    "description": "Les conférences Agile Tour Bordeaux et BDX I/O s'associent à CraftsRecords pour organiser une mini-conférence Tremplin le 30 septembre, dédiée aux personnes souhaitant devenir oratrice ou orateur en conférence Tech.",
+    "location": "Betclic, 117 Quai de Bacalan, 33300 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bdx-io, agile-tour-bordeaux"
     ]
   },
   {
@@ -1506,7 +1523,7 @@
   {
     "title": "Soirée Serious Game",
     "date": "2025-09-16T18:30:00",
-    "url": "https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/",
+    "url": "https://www.meetup.com/agile-bordeaux/events/309810368/",
     "description": "Que diriez-vous d'une soirée Serious Game ?\nC'est exactement ce que nous vous proposons en partenariat avec Serious Gamers in Bordeaux (https://www.meetup.com/seriousgamers-bordeaux).\nPour cette belle occasion, c'est Capgemini qui nous accueille, et c'est Alain qui nous a concocté un atelier : **l'usine des animaux en briques**.\n\n_Notre usine fabrique des animaux en briques pour le plus grand plaisir des petits et des grands depuis plus de 50 ans.\nDepuis quelques temps nos clients trouvent que nos délais de fabrications sont trop importants. Et nous cherchons des solutions pour leur livrer plus vite leurs commandes.\nPour cela nous avons besoin d'un équipe de professionnels experts en assemblages de briques.\nToi qui lit cela : sauras tu relever le défi et nous sauver de la banqueroute ?\nNous désespérons de trouver une solution. Sera tu la bonne personne ?\nAu travers de la manipulation des briques LEGO nous allons explorer le flux et ces aléas pour en tirer de précieux enseignements qui nous aiderons certainement dans notre quotidien de professionnels_\n\nMais n'attendez pas plus : réservez dores et déjà votre soirée !\n\nOn vous attend donc le 16 septembre à 18h30, entrée D du bâtiment, 2ème étage.",
     "location": "Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage",
     "is_online": false,
@@ -3195,23 +3212,6 @@
     ]
   },
   {
-    "title": "Super-Apéro 2024",
-    "date": "2024-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
-    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
-    "is_online": false,
-    "venue": {
-      "name": "38 Rue Capdeville",
-      "address": "38 Rue Capdeville",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "38 Rue Capdeville, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Atelier du PO #5 : Lean Coffee",
     "date": "2024-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/299637290/",
@@ -3228,6 +3228,23 @@
     "rsvp_count": 9,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Super-Apéro 2024",
+    "date": "2024-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
+    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
+    "is_online": false,
+    "venue": {
+      "name": "38 Rue Capdeville",
+      "address": "38 Rue Capdeville",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "38 Rue Capdeville, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -4234,23 +4251,6 @@
     ]
   },
   {
-    "title": "JOOQ, joy of SQL",
-    "date": "2023-02-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
-    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Manuel de sabotage du partage de connaissances",
     "date": "2023-02-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjs/events/291437327/",
@@ -4266,6 +4266,23 @@
     "rsvp_count": 22,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "JOOQ, joy of SQL",
+    "date": "2023-02-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
+    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -4435,23 +4452,6 @@
     ]
   },
   {
-    "title": "Micronaut Test Resources",
-    "date": "2022-10-18T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
-    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)",
     "date": "2022-10-18T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/289042639/",
@@ -4467,6 +4467,23 @@
     "rsvp_count": 23,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Micronaut Test Resources",
+    "date": "2022-10-18T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
+    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -4963,6 +4980,16 @@
     ]
   },
   {
+    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
+    "date": "2021-11-16T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
+    "is_online": true,
+    "communities": [
+      "aws-bordeaux"
+    ]
+  },
+  {
     "title": "Java 17 la dernière LTS par Rémi Forax",
     "date": "2021-11-16T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/281736541/",
@@ -4977,16 +5004,6 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
-    ]
-  },
-  {
-    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
-    "date": "2021-11-16T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
-    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
-    "is_online": true,
-    "communities": [
-      "aws-bordeaux"
     ]
   },
   {
@@ -5439,16 +5456,6 @@
     ]
   },
   {
-    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
-    "date": "2020-09-30T18:30:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
-    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
-    "is_online": true,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
     "date": "2020-09-30T18:30:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
@@ -5456,6 +5463,16 @@
     "is_online": true,
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
+    "date": "2020-09-30T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
+    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
+    "is_online": true,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -5992,6 +6009,23 @@
     ]
   },
   {
+    "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
+    "date": "2019-12-17T19:30:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
+    "description": "PHP 7.4 est sorti ! Forcément vous souhaitez savoir ce que cette version contient :)\nPour ce dernier meetup de l'année nous vous proposons donc de découvrir les nouveautés de PHP 7.4 à travers un Apéro Quizz !\nQui gagnera des cadeaux ? Qui sera le grand vainqueur ? Quel est l'âge du capitaine ? Est-ce que le mystère des lettres O., D., I., et L sera résolu ? Où habite le Père Noël ?\nIl faudra venir pour découvrir les réponses ;)\nC'est un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
     "date": "2019-12-17T19:30:00+01:00",
     "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
@@ -6007,23 +6041,6 @@
     "rsvp_count": 21,
     "communities": [
       "serious-gamers-bordeaux"
-    ]
-  },
-  {
-    "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
-    "date": "2019-12-17T19:30:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
-    "description": "PHP 7.4 est sorti ! Forcément vous souhaitez savoir ce que cette version contient :)\nPour ce dernier meetup de l'année nous vous proposons donc de découvrir les nouveautés de PHP 7.4 à travers un Apéro Quizz !\nQui gagnera des cadeaux ? Qui sera le grand vainqueur ? Quel est l'âge du capitaine ? Est-ce que le mystère des lettres O., D., I., et L sera résolu ? Où habite le Père Noël ?\nIl faudra venir pour découvrir les réponses ;)\nC'est un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
-    "is_online": false,
-    "venue": {
-      "name": "EKINO - 33000",
-      "address": "1 Cr Xavier Arnozan",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
     ]
   },
   {
@@ -6184,23 +6201,6 @@
     ]
   },
   {
-    "title": "La JVM et Docker, vers une symbiose parfaite !",
-    "date": "2019-10-17T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
-    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
     "date": "2019-10-17T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
@@ -6215,6 +6215,23 @@
     "location": "132 Rue Fondaudège, Bordeaux",
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "La JVM et Docker, vers une symbiose parfaite !",
+    "date": "2019-10-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
+    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -7051,23 +7068,6 @@
     ]
   },
   {
-    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
-    "date": "2019-01-24T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
-    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
-    "is_online": false,
-    "venue": {
-      "name": "Le Zytho",
-      "address": "28 Rue Latour",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "28 Rue Latour, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Agile Bordeaux 19.1",
     "date": "2019-01-24T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
@@ -7083,6 +7083,23 @@
     "rsvp_count": 43,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
+    "date": "2019-01-24T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
+    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
+    "is_online": false,
+    "venue": {
+      "name": "Le Zytho",
+      "address": "28 Rue Latour",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "28 Rue Latour, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -11968,23 +11985,6 @@
     ]
   },
   {
-    "title": "De Zéro à Héros avec Spring Boot",
-    "date": "2016-03-31T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
-    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Migrer une application React de MObservable vers Redux",
     "date": "2016-03-31T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/229812115/",
@@ -12001,6 +12001,23 @@
     "rsvp_count": 14,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "De Zéro à Héros avec Spring Boot",
+    "date": "2016-03-31T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
+    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
