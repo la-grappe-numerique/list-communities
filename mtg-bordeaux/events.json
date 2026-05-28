@@ -1,5 +1,20 @@
 [
   {
+    "title": "Microsoft Build 2026 //localhost:bordeaux",
+    "date": "2026-06-08T17:30:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/314984774/",
+    "description": "**IMPORTANT : MERCI DE VOUS INSCRIRE SUR LA [PAGE MICROSOFT REACTOR](https://developer.microsoft.com/fr-fr/reactor/events/27221/) POUR PARTICIPER A L'ÉVÉNEMENT**\n\n**Microsoft Build //localhost:bordeaux**\nNous sommes heureux de vous inviter à la version localhost de la Microsoft Build. Un événement local et communautaire à Bordeaux pour faire suite à la Microsoft Build. On parlera des nouveautés annoncées à la Build et de différentes thématiques à commencer par l'IA et Azure. On aura le plaisir\nd'être accueilli par [Programisto](https://programisto.fr/) à l'[École de Turing](https://ecoledeturing.fr/).\n\nExceptionnellement, les inscriptions se feront à cette [adresse](https://developer.microsoft.com/fr-fr/reactor/events/27221/).\n\n**📅 Programme de l’événement**\n*Démarrage à 17h30*\n**Accueil & Networking & Introduction**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour plusieurs sessions passionnantes.\n**Panel**\nUne table ronde pour débriefer des annonces de la Microsoft Build\n**Lab**\nFrom zero to deployed on Azure with AI agent\n**Talk**\nBreakout session sur une nouveauté de Microsoft Build\n**Clôture & Networking**\nProfitez d’un moment convivial.\n\n📺 **Live**\nPour ceux et celles à distance l'événement est diffusé en direct sur YouTube : https://youtube.com/live/L9rMyhtrHnI\n\n**📍 Lieu de l’événement :** École de Turing\n353 Boulevard du Président Wilson 7ème étage, 33200 Bordeaux\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participant∙e∙s. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "community": "mtg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "École de Turing",
+      "address": "353 Boulevard du Président Wilson 7ème étage",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "353 Boulevard du Président Wilson 7ème étage, Bordeaux"
+  },
+  {
     "title": "GitHub Copilot Dev Days | Bordeaux",
     "date": "2026-04-30T18:00:00+02:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/314271013/",
