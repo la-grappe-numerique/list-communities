@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Vendredi 29 mai 2026 à 10:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [Festival Printemps des Cartes à Montmorillon](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=7) | 16 rue des Récollets 86500 Montmorillon, France |
 | Samedi 30 mai 2026 à 10:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [Festival Printemps des Cartes à Montmorillon](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10) | 16 rue des Récollets 86500 Montmorillon, France |
 | Dimanche 31 mai 2026 à 10:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [Festival Printemps des Cartes à Montmorillon](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13) | 16 rue des Récollets 86500 Montmorillon, France |
+| Lundi 01 juin 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcjbcb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
