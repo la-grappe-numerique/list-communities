@@ -62,6 +62,23 @@
     ]
   },
   {
+    "title": "#68 : Esprit critique, es-tu là ? Let's goto hell!",
+    "date": "2026-06-18T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/315007280/",
+    "description": "Le saviez-vous ? Il faut voter pour le bureau de l'antenne tous les ans ! Donc retrouvons-nous pour voter le bureau qui représentera Bordeaux l'année prochaine 🫣\n\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\n\nLa parole à notre chère speaker 🎉\n\n**\\#\\#\\#\\# Esprit critique\\, es\\-tu là ? Let's goto hell\\!**\nPar Benjamin Rambaud, Staff Engineer\n\n\"C'est une bonne pratique.\" \"Tout le monde sait que...\" \"On a toujours fait comme ça.\"\n\nEn tant que développeur·euse, combien de certitudes répétez-vous sans les avoir vérifiées ?\nEt qu'est-ce qu'on répond quand un·e junior·e demande \"pourquoi ?\" et qu'on n'a rien de mieux que \"c'est comme ça\" ou \"c'est moche\" ?\n\nPrenons un exemple à priori simple : goto en PHP.\nVous êtes sûr·e que c'est mal ?\nQue c'est à bannir absolument ?\nQue personne de sérieux ne l'utilise ?\nQui vous l'a dit ?\nEst-ce que vous avez vérifié, ou est-ce que vous répétez ce qu'on vous a répété ?\n\nDans ce talk, on va utiliser goto comme terrain de jeu pour muscler notre esprit critique.\nOn confrontera les arguments, on parlera entre autres de biais cognitifs, et on se donnera des outils concrets pour éviter de gober une affirmation les yeux fermés.\nÀ l'ère de l'IA qui génère du code et des réponses avec aplomb, cette compétence n'a jamais été aussi essentielle.\n\nEt on appliquera ces mêmes outils à ce talk. Parce que si vous me croyez sur parole, c'est que vous n'avez rien retenu.\n\nL'objectif n'est pas de vous convaincre d'utiliser goto.\nL'objectif est que vous ne disiez plus jamais \"parce que c'est comme ça\" sans sourciller.",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "MEETUP #5 - BDX Testing Community @SII",
     "date": "2026-06-17T18:00:00+02:00",
     "url": "https://www.meetup.com/bdx-testing-community/events/314847233/",

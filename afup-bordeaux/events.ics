@@ -5,6 +5,44 @@ X-WR-CALDESC:Calendrier des événements de la communauté afup-bordeaux
 X-WR-CALNAME:Événements afup-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:#68 : Esprit critique\, es-tu là ? Let's goto hell!
+DTSTART;TZID=Europe/Paris:20260618T190000
+DTEND;TZID=Europe/Paris:20260618T210000
+UID:https://www.meetup.com/bordeaux-php-meetup/events/315007280/@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3150072
+ 80/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr\n\nLe sa
+ viez-vous ? Il faut voter pour le bureau de l'antenne tous les ans ! Donc 
+ retrouvons-nous pour voter le bureau qui représentera Bordeaux l'année p
+ rochaine 🫣\n\nAvant la présentation des talks\, rappelez-vous que le m
+ eetup se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l
+ 'occasion idéale de rencontrer de nouvelles personnes et d'échanger auto
+ ur de PHP et son écosystème.\n\nLa parole à notre chère speaker 🎉\n
+ \n**\\#\\#\\#\\# Esprit critique\\\, es\\-tu là ? Let's goto hell\\!**\nP
+ ar Benjamin Rambaud\, Staff Engineer\n\n"C'est une bonne pratique." "Tout 
+ le monde sait que..." "On a toujours fait comme ça."\n\nEn tant que déve
+ loppeur·euse\, combien de certitudes répétez-vous sans les avoir vérif
+ iées ?\nEt qu'est-ce qu'on répond quand un·e junior·e demande "pourquo
+ i ?" et qu'on n'a rien de mieux que "c'est comme ça" ou "c'est moche" ?\n
+ \nPrenons un exemple à priori simple : goto en PHP.\nVous êtes sûr·e q
+ ue c'est mal ?\nQue c'est à bannir absolument ?\nQue personne de sérieux
+  ne l'utilise ?\nQui vous l'a dit ?\nEst-ce que vous avez vérifié\, ou e
+ st-ce que vous répétez ce qu'on vous a répété ?\n\nDans ce talk\, on 
+ va utiliser goto comme terrain de jeu pour muscler notre esprit critique.\
+ nOn confrontera les arguments\, on parlera entre autres de biais cognitifs
+ \, et on se donnera des outils concrets pour éviter de gober une affirmat
+ ion les yeux fermés.\nÀ l'ère de l'IA qui génère du code et des répo
+ nses avec aplomb\, cette compétence n'a jamais été aussi essentielle.\n
+ \nEt on appliquera ces mêmes outils à ce talk. Parce que si vous me croy
+ ez sur parole\, c'est que vous n'avez rien retenu.\n\nL'objectif n'est pas
+  de vous convaincre d'utiliser goto.\nL'objectif est que vous ne disiez pl
+ us jamais "parce que c'est comme ça" sans sourciller.\n\nCommunauté: afu
+ p-bordeaux
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-php-meetup/events/315007280/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AFUP Day 2026 Bordeaux
 DTSTART;TZID=Europe/Paris:20260522T090000
 DTEND;TZID=Europe/Paris:20260522T110000

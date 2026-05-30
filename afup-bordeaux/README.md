@@ -18,6 +18,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](/afup-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 18 juin 2026 à 19:00 | #68 : Esprit critique, es-tu là ? Let's goto hell! | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/315007280/ |
+
 ## 📆 Past Events
 
 <details>
