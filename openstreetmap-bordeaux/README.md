@@ -54,12 +54,6 @@ Le calendrier des évènements est disponible au format iCal : https://www.lagra
 <!-- EVENTS:END -->
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Dimanche 31 mai 2026 à 10:00 | Festival Printemps des Cartes à Montmorillon | 16 rue des Récollets 86500 Montmorillon, France | https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13 |
-
 ## 📆 Past Events
 
 <details>
@@ -67,6 +61,7 @@ Le calendrier des évènements est disponible au format iCal : https://www.lagra
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Dimanche 31 mai 2026 à 10:00 | Festival Printemps des Cartes à Montmorillon | 16 rue des Récollets 86500 Montmorillon, France | https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13 |
 | Samedi 30 mai 2026 à 10:00 | Festival Printemps des Cartes à Montmorillon | 16 rue des Récollets 86500 Montmorillon, France | https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10 |
 | Vendredi 29 mai 2026 à 10:00 | Festival Printemps des Cartes à Montmorillon | 16 rue des Récollets 86500 Montmorillon, France | https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=7 |
 | Jeudi 28 mai 2026 à 10:00 | Festival Printemps des Cartes à Montmorillon | 16 rue des Récollets 86500 Montmorillon, France | https://www.printempsdescartes.fr/ |
