@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 01 juin 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcjbcb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 01 juin 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/314447992/) | 9 Rue de Condé, Bordeaux |
-| Lundi 01 juin 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/314447992/) | 9 Rue de Condé, Bordeaux |
+| Mardi 02 juin 2026 à 18:30 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Management Agile : sortir des croyances, activer les bons leviers](https://luma.com/o64gqm6t) | 5 Rue de Condé, 33000 Bordeaux |
+| Mardi 02 juin 2026 à 18:45 | [bordeaux-aperops](bordeaux-aperops/) | [Data, GenAI & Adoption : l'IA de bout en bout](https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/314672229/) | 72 Av. Thiers, 33100 Bordeaux, Bordeaux |
+| Jeudi 04 juin 2026 à 18:30 | [human-talks](human-talks/) | [Human Talks Bdx #14 - Ed. spéciale FlowCon](https://www.meetup.com/human-talks-bordeaux/events/314639269/) | 12 RUE DES FAUSSETS, BORDEAUX |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

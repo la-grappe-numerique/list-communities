@@ -6,6 +6,29 @@ X-WR-CALNAME:Événements okiwi
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20261005T183000
+DTEND;TZID=Europe/Paris:20261005T203000
+UID:https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/@com
+ munity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-crafters-bdx/events/pkmrk
+ tyjcnbhb/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\
+ , Bordeaux\, fr\n\nDes coding dojos\, sessions amusantes et intenses penda
+ nt lesquelles des développeurs améliorent leurs compétences en programm
+ ation. Le principe est simple : on prend un exercice de programmation simp
+ le\, on choisit un langage\, et on essaie de coder une solution en respect
+ ant les 4 règles du design simple de Kent Beck :\n\n• passer tous les t
+ ests \;\n• aucune duplication de code \;\n• révéler les intentions p
+ ar le code\, être très attentif au nommage \;\n• réduire le nombre de
+  classes et de méthodes.\n\nLe kata et le langage sont décidé sur place
+ \, par les personnes présentes. Ils peuvent etre tiré de ce site -https:
+ //codingdojo.org/\n\nCommunauté: okiwi
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
 DTSTART;TZID=Europe/Paris:20260907T183000
 DTEND;TZID=Europe/Paris:20260907T203000
 UID:https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcmbkb
