@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 04 juin 2026 à 18:30 | [human-talks](human-talks/) | [Human Talks Bdx #14 - Ed. spéciale FlowCon](https://www.meetup.com/human-talks-bordeaux/events/314639269/) | 12 RUE DES FAUSSETS, BORDEAUX |
 | Lundi 08 juin 2026 à 17:30 | [mtg-bordeaux](mtg-bordeaux/) | [Microsoft Build 2026 //localhost:bordeaux](https://www.meetup.com/mtg-bordeaux/events/314984774/) | 353 Boulevard du Président Wilson 7ème étage, Bordeaux |
 | Lundi 08 juin 2026 à 19:00 | [gdg-bordeaux](gdg-bordeaux/) | [GDG Meetup #43 - Flutter x IA & Animations : Repoussez les limites de vos applic](https://www.meetup.com/fr-FR/gdg-bordeaux/events/314920389/) | 117 Quai de Bacalan, Bordeaux |
+| Mardi 09 juin 2026 à 19:00 | [digitalnights](digitalnights/) | [Afterwork networking entre acteurs du digital : DN#24](https://www.eventbrite.fr/e/afterwork-networking-entre-acteurs-du-digital-dn24-tickets-1987681363465?aff=oddtdtcreator) | Le Café Rohan 1 Place Pey Berland  33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
