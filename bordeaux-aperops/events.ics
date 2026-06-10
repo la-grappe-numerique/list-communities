@@ -6,6 +6,39 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeaux-aperop
 X-WR-CALNAME:Événements bordeaux-aperops
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Data & IA sous Contrôle
+DTSTART;TZID=Europe/Paris:20260702T183000
+DTEND;TZID=Europe/Paris:20260702T203000
+UID:https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/315188016
+ /@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-aperops-dataops-mlops/eve
+ nts/315188016/\n📍 Thélio Bordeaux\, 235 rue Judaïque\, Bordeaux\, fr\
+ n\n🍻 **Bordeaux ApérOps × Microsoft Tech Group × Thélio — l'édit
+ ion crossover !**\nPour notre dernier meetup avant la pause estivale\, on 
+ sort de nos quartiers habituels : on est reçus chez **Thélio Bordeaux** 
+ pour un événement conjoint avec le **Microsoft Tech Group** et **Bordeau
+ x ApérOps**.\nTrois talks\, trois angles complémentaires sur la data et 
+ l'IA en prod — du contrat d'ingestion à la gouvernance LLM\, en passant
+  par les outils Microsoft.\n**Au programme :**\n🎤 **"Data Contracts : E
+ n finir avec les pannes d'ingestion"** par **Youva Gharout**\n🎤 **"15 m
+ inutes pour comprendre Microsoft Foundry"** par **Iuliia Mazur**\n🎤 **"
+ Gouvernance et anonymisation des données dans les flux LLM"** par **Pierr
+ e Chaumont**\nDu Microsoft Fabric\, du Microsoft Foundry\, de la data\, de
+  l'IA — bref\, de quoi alimenter les discussions entre profils dev\, ops
+  et data.\nEt comme d'hab : après les talks\, on prend le temps d'échang
+ er autour d'un verre. C'est souvent là que les meilleures conversations d
+ émarrent.\n**📺 Pas dispo sur place ?** Le live YouTube est ouvert : [h
+ ttps://www.youtube.com/live/dGJ2v9Wyy-0](https://www.youtube.com/live/dGJ2
+ v9Wyy-0)\n\n***\n\n**📆 Infos pratiques** 🗓️ Jeudi 2 juillet · à 
+ partir de 18h30 📍 Thélio Bordeaux — 235 rue Judaïque\, Bordeaux 
+ 🤝 Co-organisé avec Microsoft Tech Group & Thélio\nÀ très vite pour 
+ clôturer la saison ! 🍻\n\nCommunauté: bordeaux-aperops
+LOCATION:Thélio Bordeaux\, 235 rue Judaïque\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/315188016
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Data\, GenAI & Adoption : l'IA de bout en bout
 DTSTART;TZID=Europe/Paris:20260602T184500
 DTEND;TZID=Europe/Paris:20260602T204500

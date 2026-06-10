@@ -5,6 +5,33 @@ X-WR-CALDESC:Calendrier des événements de la communauté mtg-bordeaux
 X-WR-CALNAME:Événements mtg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Data & IA sous contrôle
+DTSTART;TZID=Europe/Paris:20260702T183000
+DTEND;TZID=Europe/Paris:20260702T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/315181282/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/315181282/\n
+ 📍 Thélio Bordeaux\, 235 rue Judaïque\, Bordeaux\, fr\n\n**MTG:Bordeau
+ x x ApérOps**\n\nPour ce meetup\, nous avons le plaisir de co-organiser l
+ 'événement avec [ApérOps](https://bordeaux-aperops.com/) et d'être acc
+ ueillis par [Thélio](https://www.thelio.fr/)\n\n**📅 Programme de l’
+ événement**\n*18h30* – **Bienvenue & Introduction**\nPrésentation du 
+ déroulé de la soirée et des intervenant·e·s.\n*18h40* – **Démarrag
+ e des talks**\nNous aurons la chance d'accueillir 3 personnes qui nous pr
+ ésenteront chacune un talk :\n\\- "Data Contracts : En finir avec les pan
+ nes d'ingestion" par Youva Gharout\n\\- "15 minutes pour comprendre Micros
+ oft Foundry" par Iuliia Mazur\n\\- "Gouvernance et anonymisation des donn
+ ées dans les flux LLM" par Pierre Chaumont\n\n*20h* – **Networking**\nP
+ rofitez d’un moment convivial.\n\n**📍 Lieu de l’événement :** Th
+ élio\n235 rue Judaïque\, 33000 Bordeaux\n\n**📜 Code de conduite**\nNo
+ us nous engageons à créer un environnement inclusif et accueillant pour 
+ tous les participant∙e∙s. Merci de consulter notre [Code de conduite](
+ https://www.mtg-france.org/coc) avant de participer.\n\nCommunauté: mtg-b
+ ordeaux
+LOCATION:Thélio Bordeaux\, 235 rue Judaïque\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/315181282/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Microsoft Build 2026 //localhost:bordeaux
 DTSTART;TZID=Europe/Paris:20260608T173000
 DTEND;TZID=Europe/Paris:20260608T193000

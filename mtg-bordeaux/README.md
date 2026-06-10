@@ -19,6 +19,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](/mtg-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 02 juillet 2026 à 18:30 | Data & IA sous contrôle | 235 rue Judaïque, Bordeaux | https://www.meetup.com/mtg-bordeaux/events/315181282/ |
+
 ## 📆 Past Events
 
 <details>

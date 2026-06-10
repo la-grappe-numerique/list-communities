@@ -68,6 +68,24 @@
     ]
   },
   {
+    "title": "Data & IA sous Contrôle",
+    "date": "2026-07-02T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/315188016/",
+    "description": "🍻 **Bordeaux ApérOps × Microsoft Tech Group × Thélio — l'édition crossover !**\nPour notre dernier meetup avant la pause estivale, on sort de nos quartiers habituels : on est reçus chez **Thélio Bordeaux** pour un événement conjoint avec le **Microsoft Tech Group** et **Bordeaux ApérOps**.\nTrois talks, trois angles complémentaires sur la data et l'IA en prod — du contrat d'ingestion à la gouvernance LLM, en passant par les outils Microsoft.\n**Au programme :**\n🎤 **\"Data Contracts : En finir avec les pannes d'ingestion\"** par **Youva Gharout**\n🎤 **\"15 minutes pour comprendre Microsoft Foundry\"** par **Iuliia Mazur**\n🎤 **\"Gouvernance et anonymisation des données dans les flux LLM\"** par **Pierre Chaumont**\nDu Microsoft Fabric, du Microsoft Foundry, de la data, de l'IA — bref, de quoi alimenter les discussions entre profils dev, ops et data.\nEt comme d'hab : après les talks, on prend le temps d'échanger autour d'un verre. C'est souvent là que les meilleures conversations démarrent.\n**📺 Pas dispo sur place ?** Le live YouTube est ouvert : [https://www.youtube.com/live/dGJ2v9Wyy-0](https://www.youtube.com/live/dGJ2v9Wyy-0)\n\n***\n\n**📆 Infos pratiques** 🗓️ Jeudi 2 juillet · à partir de 18h30 📍 Thélio Bordeaux — 235 rue Judaïque, Bordeaux 🤝 Co-organisé avec Microsoft Tech Group & Thélio\nÀ très vite pour clôturer la saison ! 🍻",
+    "is_online": false,
+    "venue": {
+      "name": "Thélio Bordeaux",
+      "address": "235 rue Judaïque",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "235 rue Judaïque, Bordeaux",
+    "communities": [
+      "bordeaux-aperops",
+      "mtg-bordeaux"
+    ]
+  },
+  {
     "title": "Club de lecture 26.4 - L’éloge de la fuite",
     "date": "2026-06-27T10:00:00",
     "url": "https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite",

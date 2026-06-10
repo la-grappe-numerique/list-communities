@@ -60,6 +60,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-aperops/events.ics](/bordeaux-aperops/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 02 juillet 2026 à 18:30 | Data & IA sous Contrôle | 235 rue Judaïque, Bordeaux | https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/315188016/ |
+
 ## 📆 Past Events
 
 <details>

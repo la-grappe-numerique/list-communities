@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 09 juin 2026 à 19:00 | [digitalnights](digitalnights/) | [Afterwork networking entre acteurs du digital : DN#24](https://www.eventbrite.fr/e/afterwork-networking-entre-acteurs-du-digital-dn24-tickets-1987681363465?aff=oddtdtcreator) | Le Café Rohan 1 Place Pey Berland  33000 Bordeaux |
 | Jeudi 11 juin 2026 à 19:00 | [bordeauxjug](bordeauxjug/) | [Danse avec les événements : construisons une Event-Driven Architecture ensemble](https://www.meetup.com/bordeauxjug/events/314967340/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
 | Mercredi 17 juin 2026 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #5 - BDX Testing Community @SII](https://www.meetup.com/bdx-testing-community/events/314847233/) | 3 impasse Rudolf Diesel, Mérignac |
+| Jeudi 18 juin 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#68 : Esprit critique, es-tu là ? Let's goto hell!](https://www.meetup.com/bordeaux-php-meetup/events/315007280/) | 12 Rue des Faussets, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
