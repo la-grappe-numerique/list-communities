@@ -1,5 +1,20 @@
 [
   {
+    "title": "Data & IA sous contrôle",
+    "date": "2026-07-02T18:30:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/315181282/",
+    "description": "**MTG:Bordeaux x ApérOps**\n\nPour ce meetup, nous avons le plaisir de co-organiser l'événement avec [ApérOps](https://bordeaux-aperops.com/) et d'être accueillis par [Thélio](https://www.thelio.fr/)\n\n**📅 Programme de l’événement**\n*18h30* – **Bienvenue & Introduction**\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*18h40* – **Démarrage des talks**\nNous aurons la chance d'accueillir 3 personnes qui nous présenteront chacune un talk :\n\\- \"Data Contracts : En finir avec les pannes d'ingestion\" par Youva Gharout\n\\- \"15 minutes pour comprendre Microsoft Foundry\" par Iuliia Mazur\n\\- \"Gouvernance et anonymisation des données dans les flux LLM\" par Pierre Chaumont\n\n*20h* – **Networking**\nProfitez d’un moment convivial.\n\n**📍 Lieu de l’événement :** Thélio\n235 rue Judaïque, 33000 Bordeaux\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participant∙e∙s. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "community": "mtg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Thélio Bordeaux",
+      "address": "235 rue Judaïque",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "235 rue Judaïque, Bordeaux"
+  },
+  {
     "title": "Microsoft Build 2026 //localhost:bordeaux",
     "date": "2026-06-08T17:30:00+02:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/314984774/",
