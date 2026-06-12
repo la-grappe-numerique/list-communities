@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 11 juin 2026 à 19:00 | [bordeauxjug](bordeauxjug/) | [Danse avec les événements : construisons une Event-Driven Architecture ensemble](https://www.meetup.com/bordeauxjug/events/314967340/) | 1 Avenue du Docteur Albert Schweitzer, Talence |
 | Mercredi 17 juin 2026 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #5 - BDX Testing Community @SII](https://www.meetup.com/bdx-testing-community/events/314847233/) | 3 impasse Rudolf Diesel, Mérignac |
 | Jeudi 18 juin 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#68 : Esprit critique, es-tu là ? Let's goto hell!](https://www.meetup.com/bordeaux-php-meetup/events/315007280/) | 12 Rue des Faussets, Bordeaux |
+| Samedi 27 juin 2026 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 26.4 - L’éloge de la fuite](https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite) | Le Node, 12 rue des Faussets, 33000 BORDEAUX |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
