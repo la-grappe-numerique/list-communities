@@ -42,7 +42,8 @@ Pour contribuer depuis votre mobile (Android ou iOS), vous pouvez télécharger 
 Le calendrier des évènements est disponible au format iCal : https://www.lagrappenumerique.fr/apero-web/events.ics
 
 <!-- EVENTS:START -->
-### 📆 Événements passés
+## 📆 Past Events
+
 <details>
 <summary>2026</summary>
 
@@ -54,6 +55,5 @@ Le calendrier des évènements est disponible au format iCal : https://www.lagra
 | Jeudi 28 mai 2026 à 10:00 | Festival Printemps des Cartes à Montmorillon | 16 rue des Récollets 86500 Montmorillon, France | https://www.printempsdescartes.fr/ |
 | Mardi 17 mars 2026 à 09:00 | 🗺️ Mapathon en Pays Basque dans le cadre du projet européen SYSTOUR | En ligne sur Jitsi Meet | https://meet.jit.si/moderated/b6d0ff0febf76fec2fffe21b1aca93960a96876dbfeac46209cbf1be4f8c70ad |
 | Mardi 24 février 2026 à 18:00 | 🗺️ Cartopartie OSM - Cartographie des bâtiments quartier Victor Hugo | Place de la victoire - Autour de la tortue 🐢 | https://forum.openstreetmap.fr/t/cartopartie-la-semaine-du-19-02/40654 |
-
 </details>
 <!-- EVENTS:END -->
