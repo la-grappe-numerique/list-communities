@@ -86,6 +86,23 @@
     ]
   },
   {
+    "title": "Bordeaux Python Meetup 2026.2",
+    "date": "2026-06-29T18:30:00+02:00",
+    "url": "https://www.meetup.com/py-bdx/events/315258543/",
+    "description": "**Meetup Python Bordeaux** le **29 juin** dès **18:30** au Yack à Bègles🍷\n\n* *Hypothesis : laissez la machine trouver vos edge cases*, par [Charles Pellegrini](https://www.linkedin.com/in/charles-pellegrini-a90b98bb/)\n* *Histoire secrète des bonnes pratiques, après 70 ans de développement logiciel*, par [Vincent Poulailleau](https://www.linkedin.com/in/vpoulailleau/)\n\nÉvénement ouvert à tous les débutant.e.s ou confirmé.e.s sur inscription via Discuss ou Meetup :\n🔗 [https://discuss.afpy.org/t/sur-bordeaux-le-26-fevrier/2934](https://discuss.afpy.org/t/sur-bordeaux-le-26-fevrier/2934)\n\n**🍴 Auberge espagnole** : apportez à boire et à manger que vous voudrez bien partager avec les autres participant.e.s.\n\n**⚠️ Localisation** : l'entrée du Yack est discrète : avant de venir, prenez soin de [consulter la ](https://cartes.app/?allez=Yack+-+coworking+B%C3%A9glais%7Cn11921858725%7C-0.55185%7C44.81310#18/44.8131/-0.55185/15/40)**[carte](https://cartes.app/?allez=Yack+-+coworking+B%C3%A9glais%7Cn11921858725%7C-0.55185%7C44.81310#18/44.8131/-0.55185/15/40)** ainsi que [la ](https://www.meetup.com/py-bdx/photos/36032434/534743037/)**[photo](https://www.meetup.com/py-bdx/photos/36032434/534743037/)**[ de l'entrée](https://www.meetup.com/py-bdx/photos/36032434/534743037/). Le bâtiment 19 aura un fléchage avec des feuilles A4.",
+    "is_online": false,
+    "venue": {
+      "name": "Le Yack coworking béglais",
+      "address": "16 rue des Terres Neuves, premier étage coursive droite,",
+      "city": "Bègles",
+      "country": "fr"
+    },
+    "location": "16 rue des Terres Neuves, premier étage coursive droite,, Bègles",
+    "communities": [
+      "bordeaux-python-meetup"
+    ]
+  },
+  {
     "title": "Club de lecture 26.4 - L’éloge de la fuite",
     "date": "2026-06-27T10:00:00",
     "url": "https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite",
