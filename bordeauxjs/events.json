@@ -1,5 +1,14 @@
 [
   {
+    "title": "Vue.js, Nuxt & AI",
+    "date": "2026-06-30T19:00:00",
+    "url": "https://luma.com/kim18lag",
+    "description": "Pour cette nouvelle édition de BordeauxJS, les équipes d'HelloAsso accueillent l'événement à la Cité Numérique.\n\nAu programme : trois lightning talks proposés par des développeurs d'HelloAsso et de Back Market, suivis d'un moment convivial autour de pizzas et boissons.\n\nTalks annoncés: MCP Toolkit - Nuxt à l'heure de l'agentic, par Clément Ollivier (Staff Engineer @ HelloAsso); Customiser sa DX avec Nuxt, par Pierre Darrieutort (Frontend Developer @ HelloAsso); Talk #3 à venir.\n\nLieu : Cité Numérique, locaux de HelloAsso, 2 Rue Marc Sangnier, 33130 Bègles.",
+    "community": "bordeauxjs",
+    "location": "Cité Numérique - Locaux de HelloAsso, 2 Rue Marc Sangnier, 33130 Bègles, France",
+    "is_online": false
+  },
+  {
     "title": "Et si vous arrêtiez de coder votre API avant de l'avoir pensée ?",
     "date": "2026-05-12T18:30:00",
     "url": "https://luma.com/r2vnp9kp",
