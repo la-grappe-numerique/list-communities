@@ -14,6 +14,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](/bordeauxjs/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 30 juin 2026 à 19:00 | Vue.js, Nuxt & AI | Cité Numérique - Locaux de HelloAsso, 2 Rue Marc Sangnier, 33130 Bègles, France | https://luma.com/kim18lag |
+
 ## 📆 Past Events
 
 <details>

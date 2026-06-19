@@ -9799,6 +9799,27 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/301716042/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vue.js\, Nuxt & AI
+DTSTART;TZID=Europe/Paris:20260630T190000
+DTEND;TZID=Europe/Paris:20260630T210000
+UID:https://luma.com/kim18lag@community-events
+DESCRIPTION:🔗 https://luma.com/kim18lag\n📍 Cité Numérique - Locaux
+  de HelloAsso\, 2 Rue Marc Sangnier\, 33130 Bègles\, France\n\nPour cette
+  nouvelle édition de BordeauxJS\, les équipes d'HelloAsso accueillent l'
+ événement à la Cité Numérique.\n\nAu programme : trois lightning talk
+ s proposés par des développeurs d'HelloAsso et de Back Market\, suivis d
+ 'un moment convivial autour de pizzas et boissons.\n\nTalks annoncés: MCP
+  Toolkit - Nuxt à l'heure de l'agentic\, par Clément Ollivier (Staff Eng
+ ineer @ HelloAsso)\; Customiser sa DX avec Nuxt\, par Pierre Darrieutort (
+ Frontend Developer @ HelloAsso)\; Talk #3 à venir.\n\nLieu : Cité Numér
+ ique\, locaux de HelloAsso\, 2 Rue Marc Sangnier\, 33130 Bègles.\n\nCommu
+ nauté: bordeauxjs
+LOCATION:Cité Numérique - Locaux de HelloAsso\, 2 Rue Marc Sangnier\, 33
+ 130 Bègles\, France
+TZID:Europe/Paris
+URL:https://luma.com/kim18lag
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Et si vous arrêtiez de coder votre API avant de l'avoir pensée ?
 DTSTART;TZID=Europe/Paris:20260512T183000
 DTEND;TZID=Europe/Paris:20260512T203000
