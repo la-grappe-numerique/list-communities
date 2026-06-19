@@ -5,6 +5,27 @@ X-WR-CALDESC:Calendrier des événements de la communauté dev-with-ai
 X-WR-CALNAME:Événements dev-with-ai
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Dev With AI Meetup #16 @ Cap Sciences [Bordeaux]
+DTSTART;TZID=Europe/Paris:20260701T190000
+DTEND;TZID=Europe/Paris:20260701T210000
+UID:https://luma.com/dm16@community-events
+DESCRIPTION:🔗 https://luma.com/dm16\n📍 Cap Sciences\, Hangar 20\, Qu
+ ai de Bacalan\, 33300 Bordeaux\, France\n\nMeetup Dev With AI #16 à Cap S
+ ciences Bordeaux.\n\nAu programme : trois talks autour du développement l
+ ogiciel à l'ère de l'IA.\n\nTalk 1 : Maxime Ribera\, "Après l'IDE : bie
+ nvenue dans l'ère des Agentic Development Environments".\n\nTalk 2 : Vinc
+ ent Rouilly\, "Faire tourner de l'IA chez soi : performances\, coûts et l
+ imites"\, avec un retour terrain.\n\nTalk 3 : Mohammed Ben Said\, "L'IA da
+ ns le produit : de l'appel LLM simple aux architectures multi-agents".\n\n
+ L'événement se déroule en présentiel à Cap Sciences. Un live stream e
+ st aussi annoncé sur YouTube pour les personnes qui ne peuvent pas venir 
+ sur place.\n\nCommunauté: dev-with-ai
+LOCATION:Cap Sciences\, Hangar 20\, Quai de Bacalan\, 33300 Bordeaux\, Fra
+ nce
+TZID:Europe/Paris
+URL:https://luma.com/dm16
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dev With AI Meetup #2 @ Luni
 DTSTART;TZID=Europe/Paris:20251118T190000
 DTEND;TZID=Europe/Paris:20251118T210000

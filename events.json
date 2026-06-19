@@ -86,6 +86,17 @@
     ]
   },
   {
+    "title": "Dev With AI Meetup #16 @ Cap Sciences [Bordeaux]",
+    "date": "2026-07-01T19:00:00",
+    "url": "https://luma.com/dm16",
+    "description": "Meetup Dev With AI #16 à Cap Sciences Bordeaux.\n\nAu programme : trois talks autour du développement logiciel à l'ère de l'IA.\n\nTalk 1 : Maxime Ribera, \"Après l'IDE : bienvenue dans l'ère des Agentic Development Environments\".\n\nTalk 2 : Vincent Rouilly, \"Faire tourner de l'IA chez soi : performances, coûts et limites\", avec un retour terrain.\n\nTalk 3 : Mohammed Ben Said, \"L'IA dans le produit : de l'appel LLM simple aux architectures multi-agents\".\n\nL'événement se déroule en présentiel à Cap Sciences. Un live stream est aussi annoncé sur YouTube pour les personnes qui ne peuvent pas venir sur place.",
+    "location": "Cap Sciences, Hangar 20, Quai de Bacalan, 33300 Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "dev-with-ai"
+    ]
+  },
+  {
     "title": "Vue.js, Nuxt & AI",
     "date": "2026-06-30T19:00:00",
     "url": "https://luma.com/kim18lag",
