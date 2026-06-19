@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 18 juin 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#68 : Esprit critique, es-tu là ? Let's goto hell!](https://www.meetup.com/bordeaux-php-meetup/events/315007280/) | 12 Rue des Faussets, Bordeaux |
 | Samedi 27 juin 2026 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 26.4 - L’éloge de la fuite](https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite) | Le Node, 12 rue des Faussets, 33000 BORDEAUX |
 | Lundi 29 juin 2026 à 18:30 | [bordeaux-python-meetup](bordeaux-python-meetup/) | [Bordeaux Python Meetup 2026.2](https://www.meetup.com/py-bdx/events/315258543/) | 16 rue des Terres Neuves, premier étage coursive droite,, Bègles |
+| Jeudi 02 juillet 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [Data & IA sous contrôle](https://www.meetup.com/mtg-bordeaux/events/315181282/) | 235 rue Judaïque, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

@@ -18,12 +18,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](/afup-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Jeudi 18 juin 2026 à 19:00 | #68 : Esprit critique, es-tu là ? Let's goto hell! | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/315007280/ |
-
 ## 📆 Past Events
 
 <details>
@@ -31,6 +25,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](/afu
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Jeudi 18 juin 2026 à 19:00 | #68 : Esprit critique, es-tu là ? Let's goto hell! | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/315007280/ |
 | Vendredi 22 mai 2026 à 09:00 | AFUP Day 2026 Bordeaux | TBD | https://event.afup.org/ |
 | Jeudi 30 avril 2026 à 19:00 | #67 : Dompter le refactoring | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/314161757/ |
 | Mercredi 25 mars 2026 à 19:00 | #66 : Introduction à la dettes non-technique | 12 Rue des Faussets, Bordeaux | https://www.meetup.com/bordeaux-php-meetup/events/313651506/ |
