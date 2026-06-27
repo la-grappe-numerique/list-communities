@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Samedi 27 juin 2026 à 10:00 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 26.4 - L’éloge de la fuite](https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite) | Le Node, 12 rue des Faussets, 33000 BORDEAUX |
 | Lundi 29 juin 2026 à 18:30 | [bordeaux-python-meetup](bordeaux-python-meetup/) | [Bordeaux Python Meetup 2026.2](https://www.meetup.com/py-bdx/events/315258543/) | 16 rue des Terres Neuves, premier étage coursive droite,, Bègles |
 | Mardi 30 juin 2026 à 19:00 | [bordeauxjs](bordeauxjs/) | [Vue.js, Nuxt & AI](https://luma.com/kim18lag) | Cité Numérique - Locaux de HelloAsso, 2 Rue Marc Sangnier, 33130 Bègles, France |
+| Mercredi 01 juillet 2026 à 19:00 | [dev-with-ai](dev-with-ai/) | [Dev With AI Meetup #16 @ Cap Sciences [Bordeaux]](https://luma.com/dm16) | Cap Sciences, Hangar 20, Quai de Bacalan, 33300 Bordeaux, France |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
