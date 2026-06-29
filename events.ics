@@ -1993,6 +1993,26 @@ URL:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
  quiz-mobile-pub-quiz-get-together-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:JUG Off 2026
+DTSTART;TZID=Europe/Paris:20260702T190000
+DTEND;TZID=Europe/Paris:20260702T210000
+UID:https://www.meetup.com/bordeauxjug/events/315464823/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/bordeauxjug/events/315464823/\n
+ 📍 Alcala\, Place Alcala de Henares\, 33400\, Talence\, fr\n\nLe mois de
+  Juillet est là et cela sent bon les vacances.\n\nC'est l'occasion pour s
+ e retrouver autour d'une table pour discuter du monde JAVA\, de la JVM ou 
+ d'autres sujets amenés par les participants.\n\nCette année\, nous repre
+ nons les basiques avec un restaurant italien\n\nCela sera aussi l'opportun
+ ité de retrouver l'équipe et de faire un point sur le BordeauxJUG donc n
+ 'hésitez pas à venir.\n\nAttention afin de pouvoir réserver\, la limite
+  des inscriptions est fixée au 1 juillet à 14h.\n\nA fin de réserver le
+  nombre correcte\, Merci de vous inscrire si vous êtes sûr de venir et d
+ e décommander si vous avez un empêchement.\n\nCommunauté: bordeauxjug
+LOCATION:Alcala\, Place Alcala de Henares\, 33400\, Talence\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeauxjug/events/315464823/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Danse avec les événements : construisons une Event-Driven Archit
  ecture ensemble
 DTSTART;TZID=Europe/Paris:20260611T190000
