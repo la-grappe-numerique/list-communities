@@ -8,12 +8,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-python-meetup/events.ics](/bordeaux-python-meetup/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Lundi 29 juin 2026 à 18:30 | Bordeaux Python Meetup 2026.2 | 16 rue des Terres Neuves, premier étage coursive droite,, Bègles | https://www.meetup.com/py-bdx/events/315258543/ |
-
 ## 📆 Past Events
 
 <details>
@@ -21,6 +15,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeaux-python-meetup/events.
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Lundi 29 juin 2026 à 18:30 | Bordeaux Python Meetup 2026.2 | 16 rue des Terres Neuves, premier étage coursive droite,, Bègles | https://www.meetup.com/py-bdx/events/315258543/ |
 | Jeudi 26 février 2026 à 18:30 | Bordeaux Python Meetup 2026.1 | Online | https://www.meetup.com/py-bdx/events/313276455/ |
 </details>
 
