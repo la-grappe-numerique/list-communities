@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 30 juin 2026 à 19:00 | [bordeauxjs](bordeauxjs/) | [Vue.js, Nuxt & AI](https://luma.com/kim18lag) | Cité Numérique - Locaux de HelloAsso, 2 Rue Marc Sangnier, 33130 Bègles, France |
 | Mercredi 01 juillet 2026 à 19:00 | [dev-with-ai](dev-with-ai/) | [Dev With AI Meetup #16 @ Cap Sciences [Bordeaux]](https://luma.com/dm16) | Cap Sciences, Hangar 20, Quai de Bacalan, 33300 Bordeaux, France |
 | Jeudi 02 juillet 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [Data & IA sous contrôle](https://www.meetup.com/mtg-bordeaux/events/315181282/) | 235 rue Judaïque, Bordeaux |
+| Jeudi 02 juillet 2026 à 18:30 | [bordeaux-aperops](bordeaux-aperops/) | [Data & IA sous Contrôle](https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/315188016/) | 235 rue Judaïque, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
