@@ -8888,6 +8888,30 @@ TZID:Europe/Paris
 URL:https://luma.com/5bwwbafl
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mapathon : Cartographie du plan de bus Bordelais
+DTSTART;TZID=Europe/Paris:20260713T180000
+DTEND;TZID=Europe/Paris:20260713T200000
+UID:https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-obsolete-sur-
+ osm/41982@community-events
+DESCRIPTION:🔗 https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-
+ obsolete-sur-osm/41982\n📍 Aquilenet\, 20 Rue Tourat\, 33000 Bordeaux\n\
+ nBonjour\,\n\nNous réalisons le 13/07 à 18h notre premier mapathon à Aq
+ uilenet. L’objectif est de cartographier l’ensemble du plan de bus bor
+ delais avec les données GTFS (pour General Transit Feed Specification).\n
+ \nVous êtes nouveaux et ne connaissez pas l’écosystème OSM ? Pas de 
+ panique !\nNous serons présents pour vous aider\, vous accompagner et vo
+ us fournir la documentation nécessaire\, afin que vous puissiez appréhen
+ der sereinement l’écosystème OSM.\n\nPour suivre l’actualité de cet
+  évènement\, vous pouvez consulter la page correspondante sur notre foru
+ m : https://forum.openstreetmap.fr/t/qui-est-motive-e-pour-creer-un-groupe
+ -local-a-bordeaux/38783\n\nBon weekend à tous et au plaisir de vous voir
+  !\n\nCommunauté: openstreetmap-bordeaux
+LOCATION:Aquilenet\, 20 Rue Tourat\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-obsolete-sur-
+ osm/41982
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Festival Printemps des Cartes à Montmorillon
 DTSTART;TZID=Europe/Paris:20260531T100000
 DTEND;TZID=Europe/Paris:20260531T120000

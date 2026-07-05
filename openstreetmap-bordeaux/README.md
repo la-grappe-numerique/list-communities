@@ -42,6 +42,12 @@ Pour contribuer depuis votre mobile (Android ou iOS), vous pouvez télécharger 
 Le calendrier des évènements est disponible au format iCal : https://www.lagrappenumerique.fr/apero-web/events.ics
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Lundi 13 juillet 2026 à 18:00 | Mapathon : Cartographie du plan de bus Bordelais | Aquilenet, 20 Rue Tourat, 33000 Bordeaux | https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-obsolete-sur-osm/41982 |
+
 ## 📆 Past Events
 
 <details>
