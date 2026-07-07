@@ -22,14 +22,12 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](/okiwi/event
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Lundi 06 juillet 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjckbjb/ |
-| Lundi 06 juillet 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjckbjb/ |
-| Lundi 06 juillet 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/315285912/ |
 | Lundi 03 août 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjclbfb/ |
 | Lundi 03 août 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjclbfb/ |
 | Lundi 07 septembre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcmbkb/ |
 | Lundi 07 septembre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcmbkb/ |
 | Lundi 05 octobre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/ |
+| Lundi 02 novembre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcpbdb/ |
 
 ## 📆 Past Events
 
@@ -38,6 +36,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](/okiwi/event
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Lundi 06 juillet 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjckbjb/ |
+| Lundi 06 juillet 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjckbjb/ |
+| Lundi 06 juillet 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/315285912/ |
 | Lundi 01 juin 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcjbcb/ |
 | Lundi 01 juin 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/314447992/ |
 | Lundi 01 juin 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/314447992/ |
