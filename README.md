@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 13 juillet 2026 à 18:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [Mapathon : Cartographie du plan de bus Bordelais](https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-obsolete-sur-osm/41982) | Aquilenet, 20 Rue Tourat, 33000 Bordeaux |
 | Lundi 03 août 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjclbfb/) | 9 Rue de Condé, Bordeaux |
 | Lundi 03 août 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/pkmrktyjclbfb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 03 août 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/315653855/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

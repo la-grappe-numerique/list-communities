@@ -42,12 +42,6 @@ Pour contribuer depuis votre mobile (Android ou iOS), vous pouvez télécharger 
 Le calendrier des évènements est disponible au format iCal : https://www.lagrappenumerique.fr/apero-web/events.ics
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Lundi 13 juillet 2026 à 18:00 | Mapathon : Cartographie du plan de bus Bordelais | Aquilenet, 20 Rue Tourat, 33000 Bordeaux | https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-obsolete-sur-osm/41982 |
-
 ## 📆 Past Events
 
 <details>
@@ -55,6 +49,7 @@ Le calendrier des évènements est disponible au format iCal : https://www.lagra
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Lundi 13 juillet 2026 à 18:00 | Mapathon : Cartographie du plan de bus Bordelais | Aquilenet, 20 Rue Tourat, 33000 Bordeaux | https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-obsolete-sur-osm/41982 |
 | Dimanche 31 mai 2026 à 10:00 | Festival Printemps des Cartes à Montmorillon | 16 rue des Récollets 86500 Montmorillon, France | https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13 |
 | Samedi 30 mai 2026 à 10:00 | Festival Printemps des Cartes à Montmorillon | 16 rue des Récollets 86500 Montmorillon, France | https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10 |
 | Vendredi 29 mai 2026 à 10:00 | Festival Printemps des Cartes à Montmorillon | 16 rue des Récollets 86500 Montmorillon, France | https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=7 |
