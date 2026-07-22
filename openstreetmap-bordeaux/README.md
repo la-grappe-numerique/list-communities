@@ -42,6 +42,12 @@ Pour contribuer depuis votre mobile (Android ou iOS), vous pouvez télécharger 
 Le calendrier des évènements est disponible au format iCal : https://www.lagrappenumerique.fr/apero-web/events.ics
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Vendredi 28 août 2026 à 09:30 | State of The Map 2026 - Jour 1 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Friday |
+
 ## 📆 Past Events
 
 <details>
