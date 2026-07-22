@@ -48,6 +48,7 @@ Le calendrier des évènements est disponible au format iCal : https://www.lagra
 |------|--------|----------|------|
 | Vendredi 28 août 2026 à 09:30 | State of The Map 2026 - Jour 1 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Friday |
 | Samedi 29 août 2026 à 09:30 | State of The Map 2026 - Jour 2 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Saturday |
+| Dimanche 30 août 2026 à 09:30 | State of The Map 2026 - Jour 3 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Sunday |
 
 ## 📆 Past Events
 

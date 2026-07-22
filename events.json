@@ -51,6 +51,17 @@
     ]
   },
   {
+    "title": "State of The Map 2026 - Jour 3",
+    "date": "2026-08-30T09:30:00",
+    "url": "https://2026.stateofthemap.org/programme/#general_Sunday",
+    "description": "Le State of the Map 2026 est la conférence annuelle dédiée aux cartographes et utilisateurs d'OpenStreetMap. Cette édition se tiendra à Paris et en ligne, sur 3 jours, avec au programme des conférences, des ateliers et des échanges autour de la cartographie collaborative.",
+    "location": "Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne",
+    "is_online": true,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
     "title": "State of The Map 2026 - Jour 2",
     "date": "2026-08-29T09:30:00",
     "url": "https://2026.stateofthemap.org/programme/#general_Saturday",
@@ -996,14 +1007,14 @@
     ]
   },
   {
-    "title": "Angular v21: Le framework se met à jour !",
+    "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
     "date": "2026-01-28T18:30:00",
-    "url": "https://luma.com/8ioijhjc",
-    "description": "Angular v21 vient de sortir, et c’est une super occasion de se retrouver pour parler des nouveautés, avec un focus sur Signals, le gros sujet de cette release.\n\n​🎤 Format\n\n​1 talk principal (20–25 min) + Q&A\n\n​1 lightning talk (15 min) + Q&A\n\n​Puis networking / discussions informelles\n\n​🧠 Talks\n\n​✅ Florian Allainmat — Signals : le nouveau modèle de réactivité d’Angular v21 (20–25 min)\n\n​✅ Jérémy Guilpin — Angular en entreprise aujourd’hui + comparaison avec React (et le reste 😄) (15 min)\n\n​🤝 Pour qui ?\n\n​Que tu fasses déjà de l’Angular au quotidien ou que tu sois juste curieux de découvrir ce que la v21 change concrètement, tu es le/la bienvenu(e) !\n\n​On terminera par un moment chill pour discuter front/back, architecture, tooling… et rencontrer d’autres devs de Bordeaux 🍻",
-    "location": "Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France",
+    "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
+    "description": "Meetup Rétro 25 & Perspective 26 + Présentation Flash\n4ère Rencontre de la communauté XR Bordelaise autour des technologies immersives !\n\nRejoignez-nous pour une soirée conviviale et enrichissante :\n\n🎤 Présentations Flash ⚡\n🧑🏻‍🏫 Rétrospective 2025 et perspective 2026\n✨ Zone de Démo : Vous avez un projet XR à montrer ? C'est l'endroit idéal !\n🍕 Apéro Networking 🍷: pour échanger dans une ambiance conviviale ! Si vous le pouvez apportez de quoi grignoter ou boire.\n\n\n📍Le Node, 12 Rue des Faussets, Bordeaux - 🗓️28/01 - 🕐 18:30",
+    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
     "is_online": false,
     "communities": [
-      "bordeauxjs"
+      "bordeaux-xr"
     ]
   },
   {
@@ -1018,14 +1029,14 @@
     ]
   },
   {
-    "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
+    "title": "Angular v21: Le framework se met à jour !",
     "date": "2026-01-28T18:30:00",
-    "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
-    "description": "Meetup Rétro 25 & Perspective 26 + Présentation Flash\n4ère Rencontre de la communauté XR Bordelaise autour des technologies immersives !\n\nRejoignez-nous pour une soirée conviviale et enrichissante :\n\n🎤 Présentations Flash ⚡\n🧑🏻‍🏫 Rétrospective 2025 et perspective 2026\n✨ Zone de Démo : Vous avez un projet XR à montrer ? C'est l'endroit idéal !\n🍕 Apéro Networking 🍷: pour échanger dans une ambiance conviviale ! Si vous le pouvez apportez de quoi grignoter ou boire.\n\n\n📍Le Node, 12 Rue des Faussets, Bordeaux - 🗓️28/01 - 🕐 18:30",
-    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
+    "url": "https://luma.com/8ioijhjc",
+    "description": "Angular v21 vient de sortir, et c’est une super occasion de se retrouver pour parler des nouveautés, avec un focus sur Signals, le gros sujet de cette release.\n\n​🎤 Format\n\n​1 talk principal (20–25 min) + Q&A\n\n​1 lightning talk (15 min) + Q&A\n\n​Puis networking / discussions informelles\n\n​🧠 Talks\n\n​✅ Florian Allainmat — Signals : le nouveau modèle de réactivité d’Angular v21 (20–25 min)\n\n​✅ Jérémy Guilpin — Angular en entreprise aujourd’hui + comparaison avec React (et le reste 😄) (15 min)\n\n​🤝 Pour qui ?\n\n​Que tu fasses déjà de l’Angular au quotidien ou que tu sois juste curieux de découvrir ce que la v21 change concrètement, tu es le/la bienvenu(e) !\n\n​On terminera par un moment chill pour discuter front/back, architecture, tooling… et rencontrer d’autres devs de Bordeaux 🍻",
+    "location": "Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France",
     "is_online": false,
     "communities": [
-      "bordeaux-xr"
+      "bordeauxjs"
     ]
   },
   {
@@ -1582,17 +1593,6 @@
     ]
   },
   {
-    "title": "Oser, malgré la peur : quand confiance et collectif deviennent moteurs",
-    "date": "2025-09-30T18:30:00",
-    "url": "https://luma.com/17u8ysfd",
-    "description": "**​1️⃣ INFO PRATIQUES**\n\n​📍 Ippon Technologies Bordeaux – 44 Allée de Tourny, 33000 Bordeaux\n🕡 18h30 : accueil\n🎙 19h : talks\n🍸 20h30 : échanges + cocktail (végé friendly)\n👋 21h30 : fin de soirée\n\n​L’événement est gratuit mais les places sont limitées : inscris-toi ici pour réserver la tienne !\n\n​\n\n**​2️⃣ PRÉSENTATIONS**\n\n​🎤 « Osez sortir de votre zone de confort, grâce à la confiance et au collectif » par Bérengère ALART\n\n​Et si cette rentrée était l’occasion d’oser le pas de côté ? Décider d'un changement structurant, changer de rôle, élargir son champ d’action, quitter l’expertise pour un leadership plus global.\nSortir de sa zone de confort peut faire peur. Pourtant, c’est souvent en osant ces transitions qu’on découvre de nouvelles forces, en cultivant la confiance – en soi, en les autres, et dans le collectif.\nDans ce talk, je partagerai le témoignage de mon parcours dans la tech et le monde associatif et surtout ce que j’ai appris en chemin : la confiance et le collectif comme fil rouge.\n\n​——\n\n​🎤 « J’ai peur de ne plus avoir peur » par Clara MAMET\n\n​On a tou(te)s peur de quelque chose : parler en public, prendre une décision difficile ou parfois simplement dire non. On nous parle de la surmonter, la dépasser, comme si cette peur était un obstacle et qu’une fois ce dernier franchi, elle disparaîtrait.\nÇa n’est pas si facile, car non, on ne supprime pas la peur, on apprend à danser avec. Et parfois, il faut l’admettre, elle a un meilleur rythme que nous.\nEt si cette peur, ce cœur qui bat un peu trop vite, ce cerveau qui chauffe, était en fait le signe que nous sommes exactement là où nous devons être : sur le point d’oser quelque chose qui compte ?\nQu’elles viennent du syndrome de l’imposteur, du regard des autres ou de la crainte d’échouer, je souhaite vous partager l’idée selon laquelle vos peurs ne sont pas un frein au quotidien mais un véritable moteur. Action !\n\n​\n\n**​3️⃣ A PROPOS DES INTERVENANTES**\n\n​👤 Bérengère ALART :\n\n​Après un parcours dans des entreprises tech d’envergure comme Google et Uber, Bérengère rejoint HelloAsso en 2020 en tant que Chief Product Officer, avant de prendre la direction des équipes Techniques en tant que CPTO, puis la Direction Générale récemment.\nConvaincue qu’innovation, performance et utilité sociale peuvent se conjuguer, Bérengère défend un modèle d’entreprise fondé sur la responsabilité collective, la confiance et l’engagement. Elle œuvre aujourd’hui à faire de HelloAsso un acteur clé de l’économie associative, en garantissant sa performance économique et en préservant une culture de travail profondément ancrée dans les valeurs de l’engagement.\nEn tant que plateforme digitale et solidaire au service des associations françaises, HelloAsso accompagne plus de 400 000 associations et 15 Millions de citoyens engagés partout en France, avec un modèle unique basé sur la contribution volontaire, et ambitionne de rendre l’engagement simple et accessible à toutes et tous, sans barrières techniques ni économiques.\n\n​——\n\n​👤 Clara MAMET :\n\n​Clara a 29 ans et travaille dans le secteur de l’événementiel. Passionnée par la sociologie, elle aime particulièrement explorer les peurs et comprendre comment elles façonnent les choix des individus.\nIl y a un an, elle a fait ses premiers pas dans la tech, un univers où elle a découvert à quel point le partage de connaissances et la transmission sont essentiels. Cette culture du collectif lui parle profondément, car elle pense qu’il est l’un des piliers pour s’épanouir pleinement.\nAujourd’hui, elle a la chance de pouvoir elle aussi partager ses recherches et réflexions à travers des conférences, toujours sur des sujets de relations intra et inter-personnelles.",
-    "location": "Ippon Technologies Bordeaux, 44 Allée de Tourny, 33000 Bordeaux, France",
-    "is_online": false,
-    "communities": [
-      "women-in-tech-bordeaux"
-    ]
-  },
-  {
     "title": "K8S, SaaS, Leadership, Qualité de code, Happiness - Le Tremplin Bordelais 2025",
     "date": "2025-09-30T18:30:00",
     "url": "https://www.meetup.com/fr-FR/craftsrecords/events/310781062",
@@ -1601,6 +1601,17 @@
     "is_online": false,
     "communities": [
       "bdx-io, agile-tour-bordeaux"
+    ]
+  },
+  {
+    "title": "Oser, malgré la peur : quand confiance et collectif deviennent moteurs",
+    "date": "2025-09-30T18:30:00",
+    "url": "https://luma.com/17u8ysfd",
+    "description": "**​1️⃣ INFO PRATIQUES**\n\n​📍 Ippon Technologies Bordeaux – 44 Allée de Tourny, 33000 Bordeaux\n🕡 18h30 : accueil\n🎙 19h : talks\n🍸 20h30 : échanges + cocktail (végé friendly)\n👋 21h30 : fin de soirée\n\n​L’événement est gratuit mais les places sont limitées : inscris-toi ici pour réserver la tienne !\n\n​\n\n**​2️⃣ PRÉSENTATIONS**\n\n​🎤 « Osez sortir de votre zone de confort, grâce à la confiance et au collectif » par Bérengère ALART\n\n​Et si cette rentrée était l’occasion d’oser le pas de côté ? Décider d'un changement structurant, changer de rôle, élargir son champ d’action, quitter l’expertise pour un leadership plus global.\nSortir de sa zone de confort peut faire peur. Pourtant, c’est souvent en osant ces transitions qu’on découvre de nouvelles forces, en cultivant la confiance – en soi, en les autres, et dans le collectif.\nDans ce talk, je partagerai le témoignage de mon parcours dans la tech et le monde associatif et surtout ce que j’ai appris en chemin : la confiance et le collectif comme fil rouge.\n\n​——\n\n​🎤 « J’ai peur de ne plus avoir peur » par Clara MAMET\n\n​On a tou(te)s peur de quelque chose : parler en public, prendre une décision difficile ou parfois simplement dire non. On nous parle de la surmonter, la dépasser, comme si cette peur était un obstacle et qu’une fois ce dernier franchi, elle disparaîtrait.\nÇa n’est pas si facile, car non, on ne supprime pas la peur, on apprend à danser avec. Et parfois, il faut l’admettre, elle a un meilleur rythme que nous.\nEt si cette peur, ce cœur qui bat un peu trop vite, ce cerveau qui chauffe, était en fait le signe que nous sommes exactement là où nous devons être : sur le point d’oser quelque chose qui compte ?\nQu’elles viennent du syndrome de l’imposteur, du regard des autres ou de la crainte d’échouer, je souhaite vous partager l’idée selon laquelle vos peurs ne sont pas un frein au quotidien mais un véritable moteur. Action !\n\n​\n\n**​3️⃣ A PROPOS DES INTERVENANTES**\n\n​👤 Bérengère ALART :\n\n​Après un parcours dans des entreprises tech d’envergure comme Google et Uber, Bérengère rejoint HelloAsso en 2020 en tant que Chief Product Officer, avant de prendre la direction des équipes Techniques en tant que CPTO, puis la Direction Générale récemment.\nConvaincue qu’innovation, performance et utilité sociale peuvent se conjuguer, Bérengère défend un modèle d’entreprise fondé sur la responsabilité collective, la confiance et l’engagement. Elle œuvre aujourd’hui à faire de HelloAsso un acteur clé de l’économie associative, en garantissant sa performance économique et en préservant une culture de travail profondément ancrée dans les valeurs de l’engagement.\nEn tant que plateforme digitale et solidaire au service des associations françaises, HelloAsso accompagne plus de 400 000 associations et 15 Millions de citoyens engagés partout en France, avec un modèle unique basé sur la contribution volontaire, et ambitionne de rendre l’engagement simple et accessible à toutes et tous, sans barrières techniques ni économiques.\n\n​——\n\n​👤 Clara MAMET :\n\n​Clara a 29 ans et travaille dans le secteur de l’événementiel. Passionnée par la sociologie, elle aime particulièrement explorer les peurs et comprendre comment elles façonnent les choix des individus.\nIl y a un an, elle a fait ses premiers pas dans la tech, un univers où elle a découvert à quel point le partage de connaissances et la transmission sont essentiels. Cette culture du collectif lui parle profondément, car elle pense qu’il est l’un des piliers pour s’épanouir pleinement.\nAujourd’hui, elle a la chance de pouvoir elle aussi partager ses recherches et réflexions à travers des conférences, toujours sur des sujets de relations intra et inter-personnelles.",
+    "location": "Ippon Technologies Bordeaux, 44 Allée de Tourny, 33000 Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "women-in-tech-bordeaux"
     ]
   },
   {
@@ -1681,7 +1692,7 @@
   {
     "title": "Soirée Serious Game",
     "date": "2025-09-16T18:30:00",
-    "url": "https://www.meetup.com/agile-bordeaux/events/309810368/",
+    "url": "https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/",
     "description": "Que diriez-vous d'une soirée Serious Game ?\nC'est exactement ce que nous vous proposons en partenariat avec Serious Gamers in Bordeaux (https://www.meetup.com/seriousgamers-bordeaux).\nPour cette belle occasion, c'est Capgemini qui nous accueille, et c'est Alain qui nous a concocté un atelier : **l'usine des animaux en briques**.\n\n_Notre usine fabrique des animaux en briques pour le plus grand plaisir des petits et des grands depuis plus de 50 ans.\nDepuis quelques temps nos clients trouvent que nos délais de fabrications sont trop importants. Et nous cherchons des solutions pour leur livrer plus vite leurs commandes.\nPour cela nous avons besoin d'un équipe de professionnels experts en assemblages de briques.\nToi qui lit cela : sauras tu relever le défi et nous sauver de la banqueroute ?\nNous désespérons de trouver une solution. Sera tu la bonne personne ?\nAu travers de la manipulation des briques LEGO nous allons explorer le flux et ces aléas pour en tirer de précieux enseignements qui nous aiderons certainement dans notre quotidien de professionnels_\n\nMais n'attendez pas plus : réservez dores et déjà votre soirée !\n\nOn vous attend donc le 16 septembre à 18h30, entrée D du bâtiment, 2ème étage.",
     "location": "Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage",
     "is_online": false,
@@ -2070,23 +2081,6 @@
     ]
   },
   {
-    "title": "Super-Apéro 2025",
-    "date": "2025-03-20T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
-    "description": "Le 20 mars se tient **THE Super Apéro 2025** de l'AFUP 🎉\nCet événement a lieu dans plusieurs antennes de l’AFUP en même temps !Vous pouvez découvrir la liste en ligne ici : [https://afup.org/association/super-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fêtez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super intéressantes 😄 🤓",
-    "is_online": false,
-    "venue": {
-      "name": "The Frog & Rosbif, Bordeaux",
-      "address": "23 Rue Ausone",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "23 Rue Ausone, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Elasticsearch Query Language: ES|QL",
     "date": "2025-03-20T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
@@ -2104,20 +2098,20 @@
     ]
   },
   {
-    "title": "Assemblée Générales 2025",
-    "date": "2025-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
-    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
+    "title": "Super-Apéro 2025",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
+    "description": "Le 20 mars se tient **THE Super Apéro 2025** de l'AFUP 🎉\nCet événement a lieu dans plusieurs antennes de l’AFUP en même temps !Vous pouvez découvrir la liste en ligne ici : [https://afup.org/association/super-apero](https://afup.org/association/super-apero)\nAu programme :\n* Fêtez les 25 ans de l'AFUP et les 30 ans de PHP ! 🎉🎊* à boire 🍻🥤🍹* à manger 🍕🥙🥗* des discussions endiablés et super intéressantes 😄 🤓",
     "is_online": false,
     "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
+      "name": "The Frog & Rosbif, Bordeaux",
+      "address": "23 Rue Ausone",
+      "city": "Bordeaux",
       "country": "France"
     },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "location": "23 Rue Ausone, Bordeaux",
     "communities": [
-      "bordeauxjug"
+      "afup-bordeaux"
     ]
   },
   {
@@ -2135,6 +2129,23 @@
     "location": "20 rue Saint-François, Bordeaux",
     "communities": [
       "cloud-native-bordeaux"
+    ]
+  },
+  {
+    "title": "Assemblée Générales 2025",
+    "date": "2025-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
+    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -2708,23 +2719,6 @@
     ]
   },
   {
-    "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
-    "date": "2024-09-26T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
-    "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\nPour l'occasion, nous aurons le plaisir d'accueillir 2 speakeurs•euses qui nous présenterons en avant première avant le grand jour au [Forum PHP 2024](https://event.afup.org/) leurs talks respectifs 🎉\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nLa parole aux speakeurs•euses 📣\n**\\#\\#\\#\\# StandAAArdisez vos tests \\!**Par **Nerea Enrique**, ingénieure PHP chez **ekino**\n*Une bonne partie de notre travail consiste à lire et écrire des tests. Mais comment les unifier tout en gardant la maintenabilité et la robustesse ?**Une partie de la réponse pourrait bien se trouver dans le pattern AAA !*\n*Le pattern AAA (Arrange, Act, Assert) est une approche qui permet de structurer l’écriture de tests unitaires. Cela peut améliorer la qualité de notre code en nous forçant à écrire des tests concis et focalisés, ce qui rend le code plus facile à comprendre et à déboguer. Cependant, comme toute approche, le pattern AAA a aussi ses défis. Par exemple, il peut être difficile d’appliquer ce pattern dans des scénarios complexes.*\n*Voyons comment ce pattern peut simplifier notre écriture de tests !*\n**\\#\\#\\#\\# La goutte d’eau qui fait déborder le Cloud**Par **Julien Joye**, ingénieur PHP chez **ekino**\n*Vous déployez votre application Symfony bien architecturée en micro-services sur une infra kubernetes, trop bien !*\n*Mais avez-vous déjà essayé de faire tourner Drupal sur le même type d’infra ?*\n*Ça peut paraître trivial ; pourtant deux mentalités bien différentes viennent se confronter l’une à l’autre. Quand Drupal peut envoyer 800 requêtes SQL sur un cold start, ou faire transiter des téraoctets de données redis sur le réseau par mois, est-ce que k8s est toujours la solution ?*\n*Dans cette conférence, je vous fais un petit rappel de ce qu’est k8s, vous montre pourquoi Drupal (ou l’infra) peut devenir votre pire ennemi dans ce contexte, et comment éviter certains pièges.*",
-    "is_online": false,
-    "venue": {
-      "name": "HEMERA",
-      "address": "1 cours Xavier Arnozan, ",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 cours Xavier Arnozan, , Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Design First : OpenApi et AsyncApi en action !",
     "date": "2024-09-26T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
@@ -2739,6 +2733,23 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
+    "date": "2024-09-26T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
+    "description": "Fini les vacances d'été ! C'est le moment de se préparer pour la rentrée !\nPour l'occasion, nous aurons le plaisir d'accueillir 2 speakeurs•euses qui nous présenterons en avant première avant le grand jour au [Forum PHP 2024](https://event.afup.org/) leurs talks respectifs 🎉\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\nLa parole aux speakeurs•euses 📣\n**\\#\\#\\#\\# StandAAArdisez vos tests \\!**Par **Nerea Enrique**, ingénieure PHP chez **ekino**\n*Une bonne partie de notre travail consiste à lire et écrire des tests. Mais comment les unifier tout en gardant la maintenabilité et la robustesse ?**Une partie de la réponse pourrait bien se trouver dans le pattern AAA !*\n*Le pattern AAA (Arrange, Act, Assert) est une approche qui permet de structurer l’écriture de tests unitaires. Cela peut améliorer la qualité de notre code en nous forçant à écrire des tests concis et focalisés, ce qui rend le code plus facile à comprendre et à déboguer. Cependant, comme toute approche, le pattern AAA a aussi ses défis. Par exemple, il peut être difficile d’appliquer ce pattern dans des scénarios complexes.*\n*Voyons comment ce pattern peut simplifier notre écriture de tests !*\n**\\#\\#\\#\\# La goutte d’eau qui fait déborder le Cloud**Par **Julien Joye**, ingénieur PHP chez **ekino**\n*Vous déployez votre application Symfony bien architecturée en micro-services sur une infra kubernetes, trop bien !*\n*Mais avez-vous déjà essayé de faire tourner Drupal sur le même type d’infra ?*\n*Ça peut paraître trivial ; pourtant deux mentalités bien différentes viennent se confronter l’une à l’autre. Quand Drupal peut envoyer 800 requêtes SQL sur un cold start, ou faire transiter des téraoctets de données redis sur le réseau par mois, est-ce que k8s est toujours la solution ?*\n*Dans cette conférence, je vous fais un petit rappel de ce qu’est k8s, vous montre pourquoi Drupal (ou l’infra) peut devenir votre pire ennemi dans ce contexte, et comment éviter certains pièges.*",
+    "is_online": false,
+    "venue": {
+      "name": "HEMERA",
+      "address": "1 cours Xavier Arnozan, ",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 cours Xavier Arnozan, , Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -3370,23 +3381,6 @@
     ]
   },
   {
-    "title": "Super-Apéro 2024",
-    "date": "2024-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
-    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
-    "is_online": false,
-    "venue": {
-      "name": "38 Rue Capdeville",
-      "address": "38 Rue Capdeville",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "38 Rue Capdeville, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Atelier du PO #5 : Lean Coffee",
     "date": "2024-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/299637290/",
@@ -3403,6 +3397,23 @@
     "rsvp_count": 9,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Super-Apéro 2024",
+    "date": "2024-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
+    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
+    "is_online": false,
+    "venue": {
+      "name": "38 Rue Capdeville",
+      "address": "38 Rue Capdeville",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "38 Rue Capdeville, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -5138,6 +5149,16 @@
     ]
   },
   {
+    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
+    "date": "2021-11-16T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
+    "is_online": true,
+    "communities": [
+      "aws-bordeaux"
+    ]
+  },
+  {
     "title": "Java 17 la dernière LTS par Rémi Forax",
     "date": "2021-11-16T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/281736541/",
@@ -5152,16 +5173,6 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
-    ]
-  },
-  {
-    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
-    "date": "2021-11-16T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
-    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
-    "is_online": true,
-    "communities": [
-      "aws-bordeaux"
     ]
   },
   {
@@ -5614,16 +5625,6 @@
     ]
   },
   {
-    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
-    "date": "2020-09-30T18:30:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
-    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
-    "is_online": true,
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
     "date": "2020-09-30T18:30:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
@@ -5631,6 +5632,16 @@
     "is_online": true,
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
+    "date": "2020-09-30T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
+    "description": "Pour cette rentrée nous commencerons par les élections du bureau de l'AFUP Bordeaux.\nEnsuite, Nicolas Perussel (@mamoot64) nous présentera comment mettre en place quelques bonnes pratiques sur un projet legacy (du moins des tentatives :p !).\nCe meetup en ligne est organisé en partenariat avec l'agence ekino de Bordeaux, qui nous fourni les moyens de visioconférence.\nPas d'apéro collaboratif pour cet événement mais vous pouvez prévoir ce que vous voulez chez vous :p",
+    "is_online": true,
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -6167,23 +6178,6 @@
     ]
   },
   {
-    "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
-    "date": "2019-12-17T19:30:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
-    "description": "PHP 7.4 est sorti ! Forcément vous souhaitez savoir ce que cette version contient :)\nPour ce dernier meetup de l'année nous vous proposons donc de découvrir les nouveautés de PHP 7.4 à travers un Apéro Quizz !\nQui gagnera des cadeaux ? Qui sera le grand vainqueur ? Quel est l'âge du capitaine ? Est-ce que le mystère des lettres O., D., I., et L sera résolu ? Où habite le Père Noël ?\nIl faudra venir pour découvrir les réponses ;)\nC'est un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
-    "is_online": false,
-    "venue": {
-      "name": "EKINO - 33000",
-      "address": "1 Cr Xavier Arnozan",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
     "date": "2019-12-17T19:30:00+01:00",
     "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
@@ -6199,6 +6193,23 @@
     "rsvp_count": 21,
     "communities": [
       "serious-gamers-bordeaux"
+    ]
+  },
+  {
+    "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
+    "date": "2019-12-17T19:30:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
+    "description": "PHP 7.4 est sorti ! Forcément vous souhaitez savoir ce que cette version contient :)\nPour ce dernier meetup de l'année nous vous proposons donc de découvrir les nouveautés de PHP 7.4 à travers un Apéro Quizz !\nQui gagnera des cadeaux ? Qui sera le grand vainqueur ? Quel est l'âge du capitaine ? Est-ce que le mystère des lettres O., D., I., et L sera résolu ? Où habite le Père Noël ?\nIl faudra venir pour découvrir les réponses ;)\nC'est un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -6359,23 +6370,6 @@
     ]
   },
   {
-    "title": "La JVM et Docker, vers une symbiose parfaite !",
-    "date": "2019-10-17T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
-    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
     "date": "2019-10-17T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
@@ -6390,6 +6384,23 @@
     "location": "132 Rue Fondaudège, Bordeaux",
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "La JVM et Docker, vers une symbiose parfaite !",
+    "date": "2019-10-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
+    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -7226,23 +7237,6 @@
     ]
   },
   {
-    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
-    "date": "2019-01-24T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
-    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
-    "is_online": false,
-    "venue": {
-      "name": "Le Zytho",
-      "address": "28 Rue Latour",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "28 Rue Latour, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "Agile Bordeaux 19.1",
     "date": "2019-01-24T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
@@ -7258,6 +7252,23 @@
     "rsvp_count": 43,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
+    "date": "2019-01-24T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
+    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
+    "is_online": false,
+    "venue": {
+      "name": "Le Zytho",
+      "address": "28 Rue Latour",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "28 Rue Latour, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -9853,6 +9864,23 @@
     ]
   },
   {
+    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
+    "date": "2017-09-21T19:00:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
+    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
     "title": "AperoJS",
     "date": "2017-09-21T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/243276773/",
@@ -9868,23 +9896,6 @@
     "rsvp_count": 21,
     "communities": [
       "bordeauxjs"
-    ]
-  },
-  {
-    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
-    "date": "2017-09-21T19:00:00+02:00",
-    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
-    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "okiwi"
     ]
   },
   {
@@ -10625,23 +10636,6 @@
     ]
   },
   {
-    "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
-    "date": "2017-05-23T18:45:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
-    "description": "Hello à tous, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi, qui va traiter de \nCQRS, Fonctionnel, Event Sourcing & Domain Driven Design, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est dans le lien - il s'agit d'une présentation qui permettra de prendre un peu de hauteur sur des concepts qui sortent des spécificités des langages, et que je vous promet être très intéressante !\nPour faciliter la gestion de l'événement, inscrivez-vous de préférence via le lien ci-dessus :) \nTrès bonne journée à tous,",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
     "date": "2017-05-23T18:45:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/239156476/",
@@ -10656,6 +10650,23 @@
     "location": "12 rue des Faussets, Bordeaux",
     "communities": [
       "okiwi"
+    ]
+  },
+  {
+    "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
+    "date": "2017-05-23T18:45:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
+    "description": "Hello à tous, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi, qui va traiter de \nCQRS, Fonctionnel, Event Sourcing & Domain Driven Design, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est dans le lien - il s'agit d'une présentation qui permettra de prendre un peu de hauteur sur des concepts qui sortent des spécificités des langages, et que je vous promet être très intéressante !\nPour faciliter la gestion de l'événement, inscrivez-vous de préférence via le lien ci-dessus :) \nTrès bonne journée à tous,",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -11038,23 +11049,6 @@
     ]
   },
   {
-    "title": "TypeScript : dès lundi sur votre App Legacy",
-    "date": "2017-03-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
-    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Python Bordeaux #7 : données géospatiales",
     "date": "2017-03-23T19:00:00+01:00",
     "url": "https://www.meetup.com/py-bdx/events/238293674/",
@@ -11069,6 +11063,23 @@
     "location": "12 rue des Faussets, Bordeaux",
     "communities": [
       "bordeaux-python-meetup"
+    ]
+  },
+  {
+    "title": "TypeScript : dès lundi sur votre App Legacy",
+    "date": "2017-03-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
+    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
