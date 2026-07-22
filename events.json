@@ -51,6 +51,17 @@
     ]
   },
   {
+    "title": "State of The Map 2026 - Jour 1",
+    "date": "2026-08-28T09:30:00",
+    "url": "https://2026.stateofthemap.org/programme/#general_Friday",
+    "description": "Le State of the Map 2026 est la conférence annuelle dédiée aux cartographes et utilisateurs d'OpenStreetMap. Cette édition se tiendra à Paris et en ligne, sur 3 jours, avec au programme des conférences, des ateliers et des échanges autour de la cartographie collaborative.",
+    "location": "Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne",
+    "is_online": true,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2026-08-03T18:30:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjclbfb/",

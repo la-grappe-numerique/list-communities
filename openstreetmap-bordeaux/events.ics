@@ -7,6 +7,24 @@ X-WR-CALDESC:Calendrier des événements de la communauté openstreetmap-b
 X-WR-CALNAME:Événements openstreetmap-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:State of The Map 2026 - Jour 1
+DTSTART;TZID=Europe/Paris:20260828T093000
+DTEND;TZID=Europe/Paris:20260828T113000
+UID:https://2026.stateofthemap.org/programme/#general_Friday@community-eve
+ nts
+DESCRIPTION:🔗 https://2026.stateofthemap.org/programme/#general_Friday\
+ n📍 Cité Descartes\, 6-8 Avenue Blaise Pascal\, 77420 Champs-sur-Marne\
+ n\nLe State of the Map 2026 est la conférence annuelle dédiée aux carto
+ graphes et utilisateurs d'OpenStreetMap. Cette édition se tiendra à Pari
+ s et en ligne\, sur 3 jours\, avec au programme des conférences\, des ate
+ liers et des échanges autour de la cartographie collaborative.\n\nCommuna
+ uté: openstreetmap-bordeaux\n💻 Événement en ligne
+LOCATION:Cité Descartes\, 6-8 Avenue Blaise Pascal\, 77420 Champs-sur-Mar
+ ne
+TZID:Europe/Paris
+URL:https://2026.stateofthemap.org/programme/#general_Friday
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mapathon : Cartographie du plan de bus Bordelais
 DTSTART;TZID=Europe/Paris:20260713T180000
 DTEND;TZID=Europe/Paris:20260713T200000
