@@ -1,11 +1,11 @@
 [
   {
-    "title": "Caupain : comment vous aussi, vous pouvez créer un outil open source",
-    "date": "2025-09-11T19:00:00",
-    "url": "https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-pouvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator",
-    "description": "### Caupain : qu'est-ce que c'est ?\n\nChez Deezer, nous avions besoin d’un outil pour gérer nos mises à jour de dépendances, et les solutions existantes ne nous suffisaient pas. La solution ? On a fait notre propre outil ! Et comme on a l’habitude de coder en Kotlin, on s’est dit qu’on allait faire ça avec Kotlin Multiplaform ! Dans ce talk, vous découvrirez :\n- Quelles librairies utiliser pour un outil en ligne de commande\n- Comment le distribuer pour que le maximum de personnes en profite\n- Comment en faire un projet open source et ce que ça implique\nAvec tout ça, vous serez fin prêts pour faire votre propre outil adapté à vos besoins !\n\n### Caupain : qui c'est ?\n\nValentin développe depuis maintenant presque 20 ans, d’abord en Java puis il s’est jeté sur Android dès que ça été possible, et n’en est plus jamais sorti. Il est Senior Developer à Deezer depuis 2024, et contribue à divers projets Open Source en dehors.",
+    "title": "15 ans de Kotlin 🎂",
+    "date": "2026-09-22T19:00:00",
+    "url": "https://www.eventbrite.fr/e/15-ans-de-kotlin-tickets-1994958612914",
+    "description": "Kotlin fête ses 15 ans cette année ! Venez fêter son anniversaire avec nous, au Node, le 22 septembre 2026.\nAu programme, des échanges, un retour sur l'histoire de Kotlin et son évolution au fil des années, et même quelques activités !\n\nTous les profils sont les bienvenus, pas besoin d'être dev ou même de connaître le langage. Par ailleurs, c'est l'événement idéal si vous souhaitez le découvrir !",
     "community": "bordeauxkt",
-    "location": "Deezer, 20 Rue Saint-François, 33000 Bordeaux",
+    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
     "is_online": false
   },
   {
@@ -15,6 +15,15 @@
     "description": "BordeauxKt, le GDG Bordeaux et Cocoahead Bordeaux s'allient à nouveau pour vous proposer un nouveau quiz sur le développement mobile ! Quelques lots seront à gagner ! 👀\n\nPas d'inquiétude si vous ne connaissez pas le développement mobile, c'est aussi l'occasion de nous retrouver et de profiter d'un moment tous ensemble. 🍻",
     "community": "bordeauxkt",
     "location": "Le Connemara, 18 Cours d'Albret, 33000 Bordeaux",
+    "is_online": false
+  },
+  {
+    "title": "Caupain : comment vous aussi, vous pouvez créer un outil open source",
+    "date": "2025-09-11T19:00:00",
+    "url": "https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-pouvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator",
+    "description": "### Caupain : qu'est-ce que c'est ?\n\nChez Deezer, nous avions besoin d’un outil pour gérer nos mises à jour de dépendances, et les solutions existantes ne nous suffisaient pas. La solution ? On a fait notre propre outil ! Et comme on a l’habitude de coder en Kotlin, on s’est dit qu’on allait faire ça avec Kotlin Multiplaform ! Dans ce talk, vous découvrirez :\n- Quelles librairies utiliser pour un outil en ligne de commande\n- Comment le distribuer pour que le maximum de personnes en profite\n- Comment en faire un projet open source et ce que ça implique\nAvec tout ça, vous serez fin prêts pour faire votre propre outil adapté à vos besoins !\n\n### Caupain : qui c'est ?\n\nValentin développe depuis maintenant presque 20 ans, d’abord en Java puis il s’est jeté sur Android dès que ça été possible, et n’en est plus jamais sorti. Il est Senior Developer à Deezer depuis 2024, et contribue à divers projets Open Source en dehors.",
+    "community": "bordeauxkt",
+    "location": "Deezer, 20 Rue Saint-François, 33000 Bordeaux",
     "is_online": false
   }
 ]
