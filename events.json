@@ -34,6 +34,17 @@
     ]
   },
   {
+    "title": "15 ans de Kotlin 🎂",
+    "date": "2026-09-22T19:00:00",
+    "url": "https://www.eventbrite.fr/e/15-ans-de-kotlin-tickets-1994958612914",
+    "description": "Kotlin fête ses 15 ans cette année ! Venez fêter son anniversaire avec nous, au Node, le 22 septembre 2026.\nAu programme, des échanges, un retour sur l'histoire de Kotlin et son évolution au fil des années, et même quelques activités !\n\nTous les profils sont les bienvenus, pas besoin d'être dev ou même de connaître le langage. Par ailleurs, c'est l'événement idéal si vous souhaitez le découvrir !",
+    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeauxkt"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2026-09-07T18:30:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcmbkb/",
