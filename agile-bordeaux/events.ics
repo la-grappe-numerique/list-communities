@@ -5,6 +5,40 @@ X-WR-CALDESC:Calendrier des événements de la communauté agile-bordeaux
 X-WR-CALNAME:Événements agile-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Club de lecture 26.6 - Factfulness
+DTSTART;TZID=Europe/Paris:20261010T103000
+DTEND;TZID=Europe/Paris:20261010T123000
+UID:https://the-playground.fr/m/club-de-lecture-26-6-factfulness@community
+ -events
+DESCRIPTION:🔗 https://the-playground.fr/m/club-de-lecture-26-6-factfuln
+ ess\n📍 Le Node\, 12 Rue des Faussets\, Bordeaux\, France\n\nLe club de 
+ lecture 26.6 se tiendra samedi 10 octobre de 10h30 à 12h30 au Node.\n\nLe
+  livre sélectionné est “Factfulness” de Hans Rosling.\n\n“Nous nou
+ s croyons rationnels et informés. Ce n'est pas le cas. Nous nous trompons
+  systématiquement\, quel que soit notre niveau d'études\, y compris - pe
+ ut-être même plus - sur les sujets que nous croyons bien connaître. Mai
+ s\, comme le met au jour Hans Rosling\, statisticien de génie et star des
+  conférences TED\, les raisons pour lesquelles nous nous trompons sont to
+ ujours les mêmes ! Hérité d'un ancestral instinct de survie\, c'est le 
+ fonctionnement même de notre cerveau qui nous induit en erreur : en nous 
+ incitant à chercher un coupable à tout phénomène \; en résumant la pl
+ upart des problèmes en une stérile opposition binaire \; en nous intiman
+ t de réagir dans l'urgence (confondant ainsi peur et danger) \; en étant
+  facilement ébloui par les gros chiffres \; en dramatisant à l'excès (e
+ t en adorant ça)... Ce livre nous apprend à repérer les situations où 
+ nos biais de pensée déforment notre vision des choses. Indispensable pou
+ r comprendre le monde tel qu'il est\, Factfulness permet de prendre\, enfi
+ n\, la saine habitude de ne fonder son opinion que sur des faits.”\n\n**
+ ***\n\nLe club de lecture est un moment de partage et d’échange autour 
+ d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins une pa
+ rtie significative.\n\nLe nombre de places étant limité à 15\, merci de
+  vous désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommuna
+ uté: agile-bordeaux
+LOCATION:Le Node\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://the-playground.fr/m/club-de-lecture-26-6-factfulness
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture 26.5 - Les livres de l’été
 DTSTART;TZID=Europe/Paris:20260905T103000
 DTEND;TZID=Europe/Paris:20260905T123000
