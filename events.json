@@ -62,6 +62,17 @@
     ]
   },
   {
+    "title": "Club de lecture 26.5 - Les livres de l’été",
+    "date": "2026-09-05T10:30:00",
+    "url": "https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete",
+    "description": "Le club de lecture 26.5 se tiendra samedi 5 septembre de 10h30 à 12h30 au Node.\n\nPour cette session au format estival nous vous proposons de venir partager vos lectures de l’été.\n\n*****\n\nLe club de lecture est un moment de partage et d’échange autour d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins une partie significative.\n\nLe nombre de places étant limité à 15, merci de vous désinscrire si vous ne pouvez plus vous joindre à nous.",
+    "location": "Le Node, 12 Rue des Faussets, Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "agile-bordeaux"
+    ]
+  },
+  {
     "title": "State of The Map 2026 - Jour 3",
     "date": "2026-08-30T09:30:00",
     "url": "https://2026.stateofthemap.org/programme/#general_Sunday",
