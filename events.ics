@@ -12711,6 +12711,25 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-amazon-web-services/events/229864331/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club de lecture 26.5 - Les livres de l’été
+DTSTART;TZID=Europe/Paris:20260905T103000
+DTEND;TZID=Europe/Paris:20260905T123000
+UID:https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete@c
+ ommunity-events
+DESCRIPTION:🔗 https://the-playground.fr/m/club-de-lecture-26-5-les-livr
+ es-de-l-ete\n📍 Le Node\, 12 Rue des Faussets\, Bordeaux\, France\n\nLe 
+ club de lecture 26.5 se tiendra samedi 5 septembre de 10h30 à 12h30 au No
+ de.\n\nPour cette session au format estival nous vous proposons de venir p
+ artager vos lectures de l’été.\n\n*****\n\nLe club de lecture est un m
+ oment de partage et d’échange autour d’un livre.\nLes participants on
+ t lu l’ouvrage ou tout au moins une partie significative.\n\nLe nombre d
+ e places étant limité à 15\, merci de vous désinscrire si vous ne pouv
+ ez plus vous joindre à nous.\n\nCommunauté: agile-bordeaux
+LOCATION:Le Node\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture 26.4 - L’éloge de la fuite
 DTSTART;TZID=Europe/Paris:20260627T100000
 DTEND;TZID=Europe/Paris:20260627T120000
