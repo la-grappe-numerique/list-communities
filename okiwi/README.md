@@ -27,6 +27,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](/okiwi/event
 | Lundi 03 août 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/315653855/ |
 | Lundi 07 septembre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcmbkb/ |
 | Lundi 07 septembre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcmbkb/ |
+| Lundi 07 septembre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/315903055/ |
 | Lundi 05 octobre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/ |
 | Lundi 02 novembre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcpbdb/ |
 
