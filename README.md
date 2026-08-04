@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 03 août 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjclbfb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 03 août 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/pkmrktyjclbfb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 03 août 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/315653855/) | 9 Rue de Condé, Bordeaux |
+| Vendredi 28 août 2026 à 09:30 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [State of The Map 2026 - Jour 1](https://2026.stateofthemap.org/programme/#general_Friday) | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne |
+| Samedi 29 août 2026 à 09:30 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [State of The Map 2026 - Jour 2](https://2026.stateofthemap.org/programme/#general_Saturday) | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne |
+| Dimanche 30 août 2026 à 09:30 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [State of The Map 2026 - Jour 3](https://2026.stateofthemap.org/programme/#general_Sunday) | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
