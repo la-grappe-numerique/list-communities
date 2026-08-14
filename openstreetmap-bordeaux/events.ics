@@ -7,6 +7,27 @@ X-WR-CALDESC:Calendrier des événements de la communauté openstreetmap-b
 X-WR-CALNAME:Événements openstreetmap-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🗺️ Rentrée bordelaise du groupe local OpenStreetMap
+DTSTART;TZID=Europe/Paris:20260903T180000
+DTEND;TZID=Europe/Paris:20260903T200000
+UID:https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457@communit
+ y-events
+DESCRIPTION:🔗 https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/4
+ 4457\n📍 Aquilenet\, 20 rue Tourat\, 33000 Bordeaux\n\nRejoignez-nous le
+  jeudi 3 septembre à 18h autour d'un pique-nique pour fêter la rentrée 
+ du groupe local OSM ! 🗺️\n\nCet évènement sera l'occasion de discut
+ er des modalités des futures rencontres et du contenu de celles-ci (carto
+ partie\, tutoriels\, mapathon\, etc.).\n\nChaque participant est invité 
+ à apporter quelque chose à manger ou à boire pour contribuer au bon dé
+ roulement du pique-nique. 🥪\n\nBonnes vacances à toutes et tous et au 
+ plaisir de vous voir !\n\nPour en savoir plus 👉 https://forum.openstree
+ tmap.fr/t/rentree-bordelaise-osm/44457\n\nCommunauté: openstreetmap-borde
+ aux
+LOCATION:Aquilenet\, 20 rue Tourat\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:State of The Map 2026 - Jour 3
 DTSTART;TZID=Europe/Paris:20260830T093000
 DTEND;TZID=Europe/Paris:20260830T113000
