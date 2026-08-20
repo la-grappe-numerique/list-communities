@@ -18,23 +18,23 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
   Bordeaux\, 123 Rue Lucien Faure\, 33000 Bordeaux\n**Détails**\n18:30 - A
  ccueil des participantes et participants\n19:00 - Début des talks\n20:15 
  - Discussions et échanges\n21:00 - Fermeture des locaux\n\n**Présentatio
- ns**\n\n*"Backstage: c’est compliqué non ?"* par **Guillaume CHENUET**\
- n\nRetour d’expérience d’un portail développeur chez Back Market\, d
- e l’idée à la réalisation\, des cas concrets à l’adoption. Reporta
- ge.\n\n*"Comment Deezer a implémenté un programme de Security Champions 
- ?"* par **Soufiane Joumar**\n\nDans un contexte où les équipes de dével
- oppement livrent de nouvelles fonctionnalités à un rythme de plus en plu
- s élevé dans les mains de millions d'utilisateurs\, augmenter proportion
- nellement la taille de l'équipe sécurité n'est ni réaliste ni scalable
- .\nSur ce challenge\, Deezer a lancé un programme de Security Champions v
- isant à s'appuyer sur des ingénieurs motivés par les problématiques de
-  sécurité au sein des équipes de tech.\nCe talk présentera comment ce 
- réseau de relais contribue au quotidien : diffusion des bonnes pratiques\
- , participation au threat models\, accélération de la remédiation des v
- ulnérabilités\, intégration de contrôles de sécurité dans les pipeli
- nes CI/CD et support pendant les incidents.\nNous verrons également comme
- nt le programme a été structuré\, les difficultés rencontrées\, les o
- utils et workflows retenus\, et l'impact concret observé sur la sécurit
+ ns**\n\n*"Backstage: c’est compliqué non ?"* par **Guillaume CHENUET**
+ \n\nRetour d’expérience d’un portail développeur chez Back Market\, 
+ de l’idée à la réalisation\, des cas concrets à l’adoption. Report
+ age.\n\n*"Comment Deezer a implémenté un programme de Security Champions
+  ?"* par **Soufiane Joumar**\n\nDans un contexte où les équipes de déve
+ loppement livrent de nouvelles fonctionnalités à un rythme de plus en pl
+ us élevé dans les mains de millions d'utilisateurs\, augmenter proportio
+ nnellement la taille de l'équipe sécurité n'est ni réaliste ni scalabl
+ e.\nSur ce challenge\, Deezer a lancé un programme de Security Champions 
+ visant à s'appuyer sur des ingénieurs motivés par les problématiques d
+ e sécurité au sein des équipes de tech.\nCe talk présentera comment ce
+  réseau de relais contribue au quotidien : diffusion des bonnes pratiques
+ \, participation au threat models\, accélération de la remédiation des 
+ vulnérabilités\, intégration de contrôles de sécurité dans les pipel
+ ines CI/CD et support pendant les incidents.\nNous verrons également comm
+ ent le programme a été structuré\, les difficultés rencontrées\, les 
+ outils et workflows retenus\, et l'impact concret observé sur la sécurit
  é chez Deezer.\n\nCommunauté: cloud-native-bordeaux
 LOCATION:Back market\, 123 rue lucien faure BAT cap horn\, Bordeaux\, fr
 TZID:Europe/Paris
@@ -71,19 +71,19 @@ DESCRIPTION:🔗 https://www.meetup.com/fr-fr/cloud-native-computing-borde
   découvert récemment Crossplane.\nDans ce talk\, tu découvriras cet out
  il à travers une démo pas à pas qui peut remplacer ton bon vieux Terraf
  orm/OpenTofu pour peu que tu aies déjà un cluster Kubernetes.\n\n"Kubern
- etes : 5 façons créatives de flinguer sa prod 🔫" par Denis GERMAIN\n\
- nN'en déplaise à ceux qui pensent que Kubernetes ne sert à rien\, 11 an
- s après le premier commit\, cet outil est devenu un standard de-facto. Il
-  permet à de nombreuses équipes tech de gérer de manière efficace des 
- logiciels hétérogènes\, tout en apportant aux développeurs l'autonomie
-  qu'ils souhaitaient.\nPourtant\, on ne peut pas non plus dire qu'installe
- r\, et pire... administrer un cluster Kubernetes soit quelque chose de tri
- vial. En 8 ans de prod\, dans 4 entreprises différentes\, j'ai forcément
-  rencontré de petits pépins\, certains amusants (enfin... a posteriori).
- \nJe vous raconterai tout ça\, sans tabou 😉.\n\nPetite info complémen
- taire : Denis Germain offrira un exemplaire de son livre "Kubernetes: 50 s
- olutions pour les postes de développement et les clusters de production" 
- à un·e participant·e\n\nCommunauté: cloud-native-bordeaux
+ etes : 5 façons créatives de flinguer sa prod 🔫" par Denis GERMAIN\n
+ \nN'en déplaise à ceux qui pensent que Kubernetes ne sert à rien\, 11 a
+ ns après le premier commit\, cet outil est devenu un standard de-facto. I
+ l permet à de nombreuses équipes tech de gérer de manière efficace des
+  logiciels hétérogènes\, tout en apportant aux développeurs l'autonomi
+ e qu'ils souhaitaient.\nPourtant\, on ne peut pas non plus dire qu'install
+ er\, et pire... administrer un cluster Kubernetes soit quelque chose de tr
+ ivial. En 8 ans de prod\, dans 4 entreprises différentes\, j'ai forcémen
+ t rencontré de petits pépins\, certains amusants (enfin... a posteriori)
+ .\nJe vous raconterai tout ça\, sans tabou 😉.\n\nPetite info compléme
+ ntaire : Denis Germain offrira un exemplaire de son livre "Kubernetes: 50 
+ solutions pour les postes de développement et les clusters de production"
+  à un·e participant·e\n\nCommunauté: cloud-native-bordeaux
 TZID:Europe/Paris
 URL:https://www.meetup.com/fr-fr/cloud-native-computing-bordeaux/events/31
  1973761/?eventOrigin=group_upcoming_events
@@ -157,30 +157,30 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
   complexe\, c'est encore plus vrai lorsque le déploiement se fait sur Kub
  ernetes.Dans ce talk Michael Morello vous présentera ECK\, l'opérateur K
  ubernetes d'Elastic qui facilite la gestion des clusters Elasticsearch\, l
- e déploiement de Kibana et du serveur APM sur Kubernetes.\n-------------\
- n20h15 - #2 Collecte et gestion des logs sur mon cluster Kubernetes\nSpeak
- er : Paul BoutesTwitter: https://twitter.com/pboutesGithub : https://githu
- b.com/pboutes\nJe suis Software Engineer chez Elastic au sein de l'équipe
-  Cloud\, dans laquelle je travaille sur la couche d'orchestration\, permet
- tant de gérer des flottes de clusters à très grande échelle.Je porte u
- n grand intérêt pour le programmation fonctionnelle\, n'aime pas les eff
- ets de bords\, et devient speaker quand l'occasion se présente.Lorsque je
-  ne suis pas derrière un ordinateur\, c'est derrière un piano que vous p
- ouvez me trouver.\nDescription :\nLa plupart des organisations ressentent 
- le besoin de centraliser leurs logs. Une fois que le nombre de serveurs et
- /ou conteneurs devient important\, nos bons vieux amis "SSH" et "tail" ne 
- vous sont plus d'une grande utilité. La question est donc de savoir comme
- nt parvenir à collecter et accéder à ces logs.Cette présentation abord
- e plusieurs approches de mise en place de collecte de logs\, avec leurs av
- antages et leurs inconvénients.Au cours de la présentation\, nous nous p
- oserons différentes questions afin de comprendre comment analyser et stru
- cturer des logs applicatifs et comment les récupérer en fonction du mode
-  de déploiement de vos applications (bare-metal\, docker\, kubernetes).No
- us verrons comment mettre en place cela sur un cluster Kubernetes\, en s'a
- ppuyant notamment sur ECK.\n-------------\n21h - Nous nous retrouverons da
- ns les bureaux de ManoMano\, comme d'habitude\, pour échanger autour d'un
- e bière et d'une part de pizza offertes par Elastic.\nNous vous attendons
-  nombreux !\nCNCF Bdx team !\n\nCommunauté: cloud-native-bordeaux
+ e déploiement de Kibana et du serveur APM sur Kubernetes.\n-------------
+ \n20h15 - #2 Collecte et gestion des logs sur mon cluster Kubernetes\nSpea
+ ker : Paul BoutesTwitter: https://twitter.com/pboutesGithub : https://gith
+ ub.com/pboutes\nJe suis Software Engineer chez Elastic au sein de l'équip
+ e Cloud\, dans laquelle je travaille sur la couche d'orchestration\, perme
+ ttant de gérer des flottes de clusters à très grande échelle.Je porte 
+ un grand intérêt pour le programmation fonctionnelle\, n'aime pas les ef
+ fets de bords\, et devient speaker quand l'occasion se présente.Lorsque j
+ e ne suis pas derrière un ordinateur\, c'est derrière un piano que vous 
+ pouvez me trouver.\nDescription :\nLa plupart des organisations ressentent
+  le besoin de centraliser leurs logs. Une fois que le nombre de serveurs e
+ t/ou conteneurs devient important\, nos bons vieux amis "SSH" et "tail" ne
+  vous sont plus d'une grande utilité. La question est donc de savoir comm
+ ent parvenir à collecter et accéder à ces logs.Cette présentation abor
+ de plusieurs approches de mise en place de collecte de logs\, avec leurs a
+ vantages et leurs inconvénients.Au cours de la présentation\, nous nous 
+ poserons différentes questions afin de comprendre comment analyser et str
+ ucturer des logs applicatifs et comment les récupérer en fonction du mod
+ e de déploiement de vos applications (bare-metal\, docker\, kubernetes).N
+ ous verrons comment mettre en place cela sur un cluster Kubernetes\, en s'
+ appuyant notamment sur ECK.\n-------------\n21h - Nous nous retrouverons d
+ ans les bureaux de ManoMano\, comme d'habitude\, pour échanger autour d'u
+ ne bière et d'une part de pizza offertes par Elastic.\nNous vous attendon
+ s nombreux !\nCNCF Bdx team !\n\nCommunauté: cloud-native-bordeaux
 LOCATION:Spaces - Bordeaux Spaces Euratlantique\, 31 Rue d'Armagnac\, Bord
  eaux\, France
 TZID:Europe/Paris
@@ -293,41 +293,41 @@ DTEND;TZID=Europe/Paris:20190402T211500
 UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/25999141
  8/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
- ents/259991418/\n📍 56 Quai Lawton\, 56 Quai Lawton\, Bordeaux\, France\
- n\nBonjour à tous\,\nNous nous sommes ravis de vous convier à ce 4ème m
- eetup CNCF à Bordeaux !\nUn grand merci à OVH (https://www.ovh.com/fr/) 
- qui nous hébergera et sponsorisera ce meetup #4.\nLe programme :\n19H15 A
- ccueil et news de l'écosystème CNCF par Etienne Coutaud\n-------------\n
- 19h30 - #1 Kubinception (en français)\nSpeaker : Kevin GeorgesTwitter: ht
- tps://twitter.com/0xd33d33\nKubernetes – Engineering Manager @OVH.Workin
- g at OVH for three years\, he led the Metrics team and now works on the Ku
- bernetes platform.Passionate by his work Kevin loves to share his experien
- ce and insights on how OVH operate stacks in production.\nDescription :\nH
- ow does OVH use Kubernetes to provide Kubernetes infrastructure for its cu
- stomers?\nAs of today\, Kubernetes is set as the standard for container or
- chestration and deployment.OVH has built an infrastucture that uses the fu
- nctionality and velocity of Kubernetes to deliver a seamless Kubernetes ex
- perience to customers.Why did we choose to build Kubernetes over Kubernete
- s? What are the main stakes when designing such an architecture? What prob
- lems did we encounter? How did we deal with theses issues?\n-------------\
- n20h15 - #2 State of the Art Edge Router: Simplicity and Automation (en fr
- ançais)\nSpeaker : Emile VaugeTwitter: https://twitter.com/containous?lan
- g=fr\nEmile Vauge is founder and developer at Containous and the creator o
- f Traefik. He has more than 10 years experience developing applications fo
- r both the web and industrial uses. He loves containers\, orchestrators an
- d gophers.\nDescription :\nThis talk introduces Traefik\, an open source e
- dge router which is used as a dynamic reverse proxy. Simplicity and automa
- tion are key concepts\, so developers don’t waste time configuring or re
- newing SSL certificates. Traefik removes the need to update routing config
- urations by interfacing to backends such as Kubernetes\, Docker\, Mesos\, 
- and Consul\, providing dynamic configuration.We will define what an edge r
- outer\, a reverse proxy and a load-balancer are. Then we’ll present the 
- concepts and features of Traefik and how to use it. Finally\, we’ll dig 
- deeper and show how we made Traefik distributed\, scalable and fault toler
- ant.\n-------------\n21h - Nous nous retrouverons\, comme d'habitude\, pou
- r échanger autour d'une bière et d'une part de pizza offertes par nos h
- ôtes.\nNous vous attendons nombreux !\nCNCF Bdx team !\n\nCommunauté: cl
- oud-native-bordeaux
+ ents/259991418/\n📍 56 Quai Lawton\, 56 Quai Lawton\, Bordeaux\, France
+ \n\nBonjour à tous\,\nNous nous sommes ravis de vous convier à ce 4ème 
+ meetup CNCF à Bordeaux !\nUn grand merci à OVH (https://www.ovh.com/fr/)
+  qui nous hébergera et sponsorisera ce meetup #4.\nLe programme :\n19H15 
+ Accueil et news de l'écosystème CNCF par Etienne Coutaud\n-------------
+ \n19h30 - #1 Kubinception (en français)\nSpeaker : Kevin GeorgesTwitter: 
+ https://twitter.com/0xd33d33\nKubernetes – Engineering Manager @OVH.Work
+ ing at OVH for three years\, he led the Metrics team and now works on the 
+ Kubernetes platform.Passionate by his work Kevin loves to share his experi
+ ence and insights on how OVH operate stacks in production.\nDescription :
+ \nHow does OVH use Kubernetes to provide Kubernetes infrastructure for its
+  customers?\nAs of today\, Kubernetes is set as the standard for container
+  orchestration and deployment.OVH has built an infrastucture that uses the
+  functionality and velocity of Kubernetes to deliver a seamless Kubernetes
+  experience to customers.Why did we choose to build Kubernetes over Kubern
+ etes? What are the main stakes when designing such an architecture? What p
+ roblems did we encounter? How did we deal with theses issues?\n-----------
+ --\n20h15 - #2 State of the Art Edge Router: Simplicity and Automation (en
+  français)\nSpeaker : Emile VaugeTwitter: https://twitter.com/containous?
+ lang=fr\nEmile Vauge is founder and developer at Containous and the creato
+ r of Traefik. He has more than 10 years experience developing applications
+  for both the web and industrial uses. He loves containers\, orchestrators
+  and gophers.\nDescription :\nThis talk introduces Traefik\, an open sourc
+ e edge router which is used as a dynamic reverse proxy. Simplicity and aut
+ omation are key concepts\, so developers don’t waste time configuring or
+  renewing SSL certificates. Traefik removes the need to update routing con
+ figurations by interfacing to backends such as Kubernetes\, Docker\, Mesos
+ \, and Consul\, providing dynamic configuration.We will define what an edg
+ e router\, a reverse proxy and a load-balancer are. Then we’ll present t
+ he concepts and features of Traefik and how to use it. Finally\, we’ll d
+ ig deeper and show how we made Traefik distributed\, scalable and fault to
+ lerant.\n-------------\n21h - Nous nous retrouverons\, comme d'habitude\, 
+ pour échanger autour d'une bière et d'une part de pizza offertes par nos
+  hôtes.\nNous vous attendons nombreux !\nCNCF Bdx team !\n\nCommunauté: 
+ cloud-native-bordeaux
 LOCATION:56 Quai Lawton\, 56 Quai Lawton\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/cloud-native-computing-bordeaux/events/25999141
@@ -412,8 +412,8 @@ DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
  tes. 12 grands principes\, règles\, bonnes pratiques à connaitre lorsqu
  ’on est amené à déployer du code sur ce type de plateforme.\n--------
  -----\n21h - Nous nous retrouverons pour échanger autour d'une bière et 
- d'une part de pizza offert par nos hôtes\nNous vous attendons nombreux !\
- nCNCF Bdx team\n\nCommunauté: cloud-native-bordeaux
+ d'une part de pizza offert par nos hôtes\nNous vous attendons nombreux !
+ \nCNCF Bdx team\n\nCommunauté: cloud-native-bordeaux
 LOCATION:NP6\, 104 bis Quai des Chartrons\, 33300 Bordeaux\, Bordeaux\, Fr
  ance
 TZID:Europe/Paris
@@ -427,31 +427,31 @@ DTEND;TZID=Europe/Paris:20181023T211500
 UID:https://www.meetup.com/cloud-native-computing-bordeaux/events/25498828
  1/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/cloud-native-computing-bordeaux/ev
- ents/254988281/\n📍 Le Wagon Bordeaux\, 107 cours Balguerie Stuttenberg\
- , Bordeaux\, France\n\nBonjour à tous\,\nLe premier meetup arrive !!!\nNo
- us sommes heureux de vous annoncer ce premier meetup pour échanger autour
-  de la Cloud Native Computing Fondation.\nAvant tout\, merci à nos 2 part
- enaires:- Le Wagon (https://www.lewagon.com/fr/bordeaux) pour nous hébér
- ger- Pickmeup (https://pickmeupfrance.com) pour sponsoriser ce premier mee
- tup\nLe programme:------------------\n#1 Présentation de la CNCF (en fran
- çais)\nSpeaker: Etienne Coutaud\nEtienne est consultant devops chez OCTO 
- Technologie\, convaincu que les technologies cloud changent les manières 
- de travailler et les organisations\, il aide les entreprises à les maitri
- ser pour en tirer le meilleur parti. Arrivé sur Bordeaux depuis peu\, il 
- a ammené dans ses bagages le meetup CNCF qui a son grand frère parisien.
- \nDescription:\nCe premier talk fera office de kickoff du meetup\, nous pa
- sserons en revue la CNCF\, les projets qui la composent et sa place dans l
- 'écosystème du logiciel.\n#2 From 0 to Prometheus at scale (en français
- )\nSpeaker: Adrien Fillon\nAdrien is a SRE Engineer at Cdiscount. Huge bel
- iever in the DevOps movement\, he also loves investing time in how Observa
- bility can change the way people work.\nDescription:\nIn this talk\, we'll
-  have a quick recap on Prometheus\, what it is and what it can do for you.
-  We'll talk about an example deployment at Cdiscount and strategies for lo
- ng term storage. Finally\, we'll finish with feedback on its impact on bot
- h development and operational teams.\n------------------\nA la suite de ce
- s talks\, une collation sera offerte par nos amis de Pickmeup afin d'écha
- nger.\nNous vous attendons nombreux !\nCNCF Bdx team\n\nCommunauté: cloud
- -native-bordeaux
+ ents/254988281/\n📍 Le Wagon Bordeaux\, 107 cours Balguerie Stuttenberg
+ \, Bordeaux\, France\n\nBonjour à tous\,\nLe premier meetup arrive !!!\nN
+ ous sommes heureux de vous annoncer ce premier meetup pour échanger autou
+ r de la Cloud Native Computing Fondation.\nAvant tout\, merci à nos 2 par
+ tenaires:- Le Wagon (https://www.lewagon.com/fr/bordeaux) pour nous hébé
+ rger- Pickmeup (https://pickmeupfrance.com) pour sponsoriser ce premier me
+ etup\nLe programme:------------------\n#1 Présentation de la CNCF (en fra
+ nçais)\nSpeaker: Etienne Coutaud\nEtienne est consultant devops chez OCTO
+  Technologie\, convaincu que les technologies cloud changent les manières
+  de travailler et les organisations\, il aide les entreprises à les maitr
+ iser pour en tirer le meilleur parti. Arrivé sur Bordeaux depuis peu\, il
+  a ammené dans ses bagages le meetup CNCF qui a son grand frère parisien
+ .\nDescription:\nCe premier talk fera office de kickoff du meetup\, nous p
+ asserons en revue la CNCF\, les projets qui la composent et sa place dans 
+ l'écosystème du logiciel.\n#2 From 0 to Prometheus at scale (en françai
+ s)\nSpeaker: Adrien Fillon\nAdrien is a SRE Engineer at Cdiscount. Huge be
+ liever in the DevOps movement\, he also loves investing time in how Observ
+ ability can change the way people work.\nDescription:\nIn this talk\, we'l
+ l have a quick recap on Prometheus\, what it is and what it can do for you
+ . We'll talk about an example deployment at Cdiscount and strategies for l
+ ong term storage. Finally\, we'll finish with feedback on its impact on bo
+ th development and operational teams.\n------------------\nA la suite de c
+ es talks\, une collation sera offerte par nos amis de Pickmeup afin d'éch
+ anger.\nNous vous attendons nombreux !\nCNCF Bdx team\n\nCommunauté: clou
+ d-native-bordeaux
 LOCATION:Le Wagon Bordeaux\, 107 cours Balguerie Stuttenberg\, Bordeaux\, 
  France
 TZID:Europe/Paris
