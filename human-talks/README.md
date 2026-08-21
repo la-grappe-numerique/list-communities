@@ -17,6 +17,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/human-talks/events.ics](/human-talks/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 08 septembre 2026 à 18:30 | HumanTalks Bordeaux #15 — Transformer la tech, réinventer l'organisation | 16 Rue Succursale, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/316194450/ |
+
 ## 📆 Past Events
 
 <details>
