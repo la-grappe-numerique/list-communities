@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Samedi 29 août 2026 à 09:30 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [State of The Map 2026 - Jour 2](https://2026.stateofthemap.org/programme/#general_Saturday) | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne |
 | Dimanche 30 août 2026 à 09:30 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [State of The Map 2026 - Jour 3](https://2026.stateofthemap.org/programme/#general_Sunday) | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne |
 | Jeudi 03 septembre 2026 à 18:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [🗺️ Rentrée bordelaise du groupe local OpenStreetMap](https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457) | Aquilenet, 20 rue Tourat, 33000 Bordeaux |
+| Samedi 05 septembre 2026 à 10:30 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 26.5 - Les livres de l’été](https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete) | Le Node, 12 Rue des Faussets, Bordeaux, France |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
