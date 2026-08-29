@@ -18867,6 +18867,34 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/313356172/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Openrewrite: Refactoring as code (en FR)
+DTSTART;TZID=Europe/Paris:20260219T185000
+DTEND;TZID=Europe/Paris:20260219T205000
+UID:https://www.bordeauxjug.org/meetings/20260319-openrewrite:_refactoring
+ _as_code@community-events
+DESCRIPTION:🔗 https://www.bordeauxjug.org/meetings/20260319-openrewrite
+ :_refactoring_as_code\n📍 ENSEIRB\, 1 Avenue du Docteur Albert Schweitze
+ r · Talence\n\nVous êtes dans la team Doc as code\, Infrastructure as co
+ de\, Ci as code ? La réponse à ces questions vous semble évidente.\n\nL
+ es bienfaits de l'approche "as code" ne sont plus à démontrer et pourtan
+ t il reste un domaine laissé pour compte.\n\nOui parce que si je vous pos
+ e ces questions pour vos refactorings et vos migrations\, ça sera plutôt
+  :\n\nVous êtes plutôt team chercher/remplacer ? regexp ? IDE click droi
+ t rename method ?\n\nEh oui\, les cordonniers sont toujours les plus mal c
+ haussés\, et nous continuons a écrire des guides de migrations longs com
+ me un dimanche de pluie. Fatigué de mener des migrations JUnit4 ->JUnit 5
+ ? Spring-boot 2 -> Spring-boot 3?\n\nEst-ce qu’il ne serait pas temps d
+ ’entrer dans la team refactoring as code?\n\nOpenRewrite est la boîte 
+ à outils parfaite pour écrire\, versionner et partager vos refactoring. 
+ L'Ansible du refactoring.\n\nNe repartez pas sans une nouvelle as corde à
+  votre arc\, ne faite plus jamais vos migrations à la main.\n\nCommunaut
+ é: bordeauxjug
+LOCATION:ENSEIRB\, 1 Avenue du Docteur Albert Schweitzer · Talence
+TZID:Europe/Paris
+URL:https://www.bordeauxjug.org/meetings/20260319-openrewrite:_refactoring
+ _as_code
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kafka 4\, fantastique ?
 DTSTART;TZID=Europe/Paris:20260122T190000
 DTEND;TZID=Europe/Paris:20260122T210000
