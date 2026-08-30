@@ -46,7 +46,6 @@ Le calendrier des évènements est disponible au format iCal : https://www.lagra
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Dimanche 30 août 2026 à 09:30 | State of The Map 2026 - Jour 3 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Sunday |
 | Jeudi 03 septembre 2026 à 18:00 | 🗺️ Rentrée bordelaise du groupe local OpenStreetMap | Aquilenet, 20 rue Tourat, 33000 Bordeaux | https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457 |
 
 ## 📆 Past Events
@@ -56,6 +55,7 @@ Le calendrier des évènements est disponible au format iCal : https://www.lagra
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Dimanche 30 août 2026 à 09:30 | State of The Map 2026 - Jour 3 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Sunday |
 | Samedi 29 août 2026 à 09:30 | State of The Map 2026 - Jour 2 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Saturday |
 | Vendredi 28 août 2026 à 09:30 | State of The Map 2026 - Jour 1 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Friday |
 | Lundi 13 juillet 2026 à 18:00 | Mapathon : Cartographie du plan de bus Bordelais | Aquilenet, 20 Rue Tourat, 33000 Bordeaux | https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-obsolete-sur-osm/41982 |
