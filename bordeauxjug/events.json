@@ -1,5 +1,65 @@
 [
   {
+    "title": "JUG Off 2026",
+    "date": "2026-07-02T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/315464823/",
+    "description": "Le mois de Juillet est là et cela sent bon les vacances.\n\nC'est l'occasion pour se retrouver autour d'une table pour discuter du monde JAVA, de la JVM ou d'autres sujets amenés par les participants.\n\nCette année, nous reprenons les basiques avec un restaurant italien\n\nCela sera aussi l'opportunité de retrouver l'équipe et de faire un point sur le BordeauxJUG donc n'hésitez pas à venir.\n\nAttention afin de pouvoir réserver, la limite des inscriptions est fixée au 1 juillet à 14h.\n\nA fin de réserver le nombre correcte, Merci de vous inscrire si vous êtes sûr de venir et de décommander si vous avez un empêchement.",
+    "community": "bordeauxjug",
+    "is_online": false,
+    "venue": {
+      "name": "Alcala",
+      "address": "Place Alcala de Henares, 33400",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "Place Alcala de Henares, 33400, Talence"
+  },
+  {
+    "title": "Danse avec les événements : construisons une Event-Driven Architecture ensemble",
+    "date": "2026-06-11T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/314967340/",
+    "description": "Depuis plus de deux ans, chez Primary, nous faisons **tourner une event-driven architecture en production.** Basée sur des concepts très simples, elle offre de nombreux avantages, mais cache aussi des pièges dans lesquels il est facile de tomber.\n\nVenez découvrir avec moi comment nous avons construit cette plateforme event-driven, comment nous l'avons outillée, et comment nous la maintenons aujourd'hui.\n\nEn prenant un exemple en **live-coding**, je vous montrerai le socle qu'il nous a fallu mettre en place. Nous verrons comment l'ensemble fonctionne, ainsi que les outils construits sur mesure, mais aussi notre gestion de la résilience et de l'observabilité.\n\n**Ce retour d'expérience sur nos choix pragmatiques**, les soucis que nous avons rencontrés et les leçons que nous en avons tiré vous permettra de vous faire un avis éclairé sur cette architecture.",
+    "community": "bordeauxjug",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
+  },
+  {
+    "title": "CQRS & Event Sourcing : La revanche des micro-services",
+    "date": "2026-04-02T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/313885181/",
+    "description": "Si vous travaillez avec une architecture récente, il y a fort à parier que vous avez déjà mis les mains dans des micro-services. Et il y a également des chances que vous ayez, un jour, été confronté.e à cette situation (trop) familière : “Mais comment cette donnée pourrie a bien pu se retrouver dans la DB 💩 ?!”\n**Ce problème est malheureusement universel !** Dans les systèmes distribués, la traçabilité des données peut devenir très rapidement un casse-tête : des flux compliqués, des responsabilités multiples, des bugs alambiqués… 😵‍💫\nCe talk propose une approche concrète pour **résoudre ce défi des temps modernes** en combinant trois principes clé pour construire une architecture permettant :\n\n* Traçabilité des données 🕵️\n* Conservation de la scalabilité 📈\n* Aucun sacrifice de performance ⚡\n\n**La session s’appuie sur une démonstration live** mettant en œuvre cette approche et démontrant son impact réel sur la compréhension et la fiabilité des flux de données 🧑‍💻!",
+    "community": "bordeauxjug",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
+  },
+  {
+    "title": "Assemblée Générales 2026",
+    "date": "2026-03-26T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/313885191/",
+    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\n\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.\nNous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n\n**N'hésitez donc pas à verser votre obole**\n\nPlus d'informations sur https://bordeauxjug.org/meetings/20260326-assemble_generale_2026",
+    "community": "bordeauxjug",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
+  },
+  {
     "title": "Openrewrite: Refactoring as code",
     "date": "2026-03-19T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/313662953/",
@@ -28,6 +88,15 @@
       "country": "fr"
     },
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence"
+  },
+  {
+    "title": "Openrewrite: Refactoring as code (en FR)",
+    "date": "2026-02-19T18:50:00",
+    "url": "https://www.bordeauxjug.org/meetings/20260319-openrewrite:_refactoring_as_code",
+    "description": "Vous êtes dans la team Doc as code, Infrastructure as code, Ci as code ? La réponse à ces questions vous semble évidente.\n\nLes bienfaits de l'approche \"as code\" ne sont plus à démontrer et pourtant il reste un domaine laissé pour compte.\n\nOui parce que si je vous pose ces questions pour vos refactorings et vos migrations, ça sera plutôt :\n\nVous êtes plutôt team chercher/remplacer ? regexp ? IDE click droit rename method ?\n\nEh oui, les cordonniers sont toujours les plus mal chaussés, et nous continuons a écrire des guides de migrations longs comme un dimanche de pluie. Fatigué de mener des migrations JUnit4 ->JUnit 5? Spring-boot 2 -> Spring-boot 3?\n\nEst-ce qu’il ne serait pas temps d’entrer dans la team refactoring as code?\n\nOpenRewrite est la boîte à outils parfaite pour écrire, versionner et partager vos refactoring. L'Ansible du refactoring.\n\nNe repartez pas sans une nouvelle as corde à votre arc, ne faite plus jamais vos migrations à la main.",
+    "community": "bordeauxjug",
+    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer · Talence",
+    "is_online": false
   },
   {
     "title": "Kafka 4, fantastique ?",

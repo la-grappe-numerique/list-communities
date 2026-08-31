@@ -4,4 +4,101 @@ PRODID:-//Événements gdg-bordeaux//Bordeaux Community Events//FR
 X-WR-CALDESC:Calendrier des événements de la communauté gdg-bordeaux
 X-WR-CALNAME:Événements gdg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+SUMMARY:GDG Meetup #43 - Flutter x IA & Animations : Repoussez les limites
+  de vos applic
+DTSTART;TZID=Europe/Paris:20260608T190000
+DTEND;TZID=Europe/Paris:20260608T210000
+UID:https://www.meetup.com/fr-FR/gdg-bordeaux/events/314920389/@community-
+ events
+DESCRIPTION:🔗 https://www.meetup.com/fr-FR/gdg-bordeaux/events/31492038
+ 9/\n📍 Betclic Group\, 117 Quai de Bacalan\, Bordeaux\, fr\n\nRejoignez-
+ nous pour une soirée exceptionnelle placée sous le signe de l'innovation
+  mobile\, de l'animation de pointe et de l'Intelligence Artificielle ! Que
+  vous soyez développeur Flutter chevronné\, curieux de l'impact de l'IA 
+ sur le code ou passionné d'UI/UX\, ce meetup est fait pour vous.\n\nNous 
+ aurons le plaisir d'accueillir des experts de la communauté pour décrypt
+ er les architectures de demain\, animer vos interfaces comme jamais et voi
+ r comment l'IA peut dynamiser vos applications en temps réel.\n\nEn bonus
+ \, la soirée se clôturera par un moment d'échange convivial (networking
+ ) autour d'un verre ! 🍕🥤\n\n📅 Infos Pratiques\n\nDate : Lundi 8 J
+ uin 2026\n\nHoraire : 19h00\n\nLieu : Betclic - 17 Quai de Bacalan\, 33300
+  Bordeaux\n\nInscription : Gratuite mais obligatoire (places limitées !)
+ \n\n🎤 Le Programme & Les Talks\n🛠️ Sujet 1 : Rive: animate your ap
+ ps like never before\n\nSpeakers : Thomas Guerin & Nicolas Favereaux\n\nDe
+ scription : Découvrez comment donner vie à vos interfaces et transcender
+  l'expérience utilisateur. Thomas et Nicolas vous présenteront la puissa
+ nce de Rive pour intégrer des animations complexes\, interactives et ultr
+ a-fluides dans vos applications Flutter\, sans aucune perte de performance
+ .\n\n🏗️ Sujet 2 : Scalable architecture in flutter to embrace AI codi
+ ng\n\nSpeakers : Guillaume Boussion & Paul-Anatole Claudot\n\nDescription 
+ : L'avènement des assistants de code et de la génération d'applications
+  par l'IA change la donne. Comment concevoir une architecture Flutter qui 
+ soit non seulement robuste et scalable\, mais aussi pensée pour maximiser
+  la collaboration avec les outils de "AI coding" ? Guillaume et Paul-Anato
+ le vous partagent leurs meilleures pratiques.\n\n🤖 Sujet 3 : Flutter Ge
+ nUI : Générer des interfaces dynamiques par l'IA sans perdre le contrôl
+ e\n\nSpeaker : Grégoire Bonnier\n\nDescription : Comment passer d'un chat
+ bot textuel à une interface interactive générée dynamiquement ? Décry
+ ptage et POC du package genui (Generative User Interface)\, où l'IA devie
+ nt un simple moteur d'état qui pioche directement dans vos widgets Flutte
+ r. Une session incontournable pour repenser l'interaction homme-machine !
+ \n\n💬 Déroulé de la soirée\n\n18h45 : Accueil & Mot d'ouverture\n\n1
+ 9h00 : Début des talks (Suivis de sessions Q&A)\n\n20h30 : Afterwork\, ne
+ tworking\, pizzas & boissons !\n\nVenez nombreux pour échanger\, apprendr
+ e et vous inspirer ! 🚀\n\nAgenda\n\n---\n\nHosted By\n\nEnzo Conty\, Or
+ ganizer\n\nHaving started out as a freelancer in France over five years ag
+ o\, I have been passionate about Flutter since then.\nI created a freelanc
+ e agency for Flutter mobile development after creating around 30 mobile ap
+ ps over the years.\n\nWith Flutter\, I explore new platforms to use\, such
+  as Steam Deck\, embeddable systems such as drink distributors\, and even 
+ Steam games.\n\nIvan Canet\, Software Engineer\n\nComplete your event RSVP
+  here: https://gdg.community.dev/events/details/google-gdg-bordeaux-presen
+ ts-gdg-meetup-43-flutter-x-ia-amp-animations-repoussez-les-limites-de-vos-
+ applications/.\n\nCommunauté: gdg-bordeaux
+LOCATION:Betclic Group\, 117 Quai de Bacalan\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-FR/gdg-bordeaux/events/314920389/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Quiz / Get Together #3
+DTSTART;TZID=Europe/Paris:20260407T190000
+DTEND;TZID=Europe/Paris:20260407T210000
+UID:https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/@community-
+ events
+DESCRIPTION:🔗 https://www.meetup.com/fr-FR/gdg-bordeaux/events/31381796
+ 5/\n📍 le node\, 12 rue des Faussets\, bordeaux\, fr\n\nGoogle Developer
+  Bordeaux est ravi de vous inviter à une soirée exceptionnelle pour féd
+ érer l'écosystème tech bordelais ! Pour cet événement\, nous nous ass
+ ocions à l'événement organisé par DigitalNights ainsi que nos partenai
+ res de BordeauxKt et du Flutter Meetup Group. 🙌\n\nVenez participer l'a
+ fterwork dédié au networking et tester vos connaissances lors d'un quiz 
+ épique sur le digital ! ⏲️\n\nC'est l'occasion idéale pour :\n\n👉
+  Élargir votre réseau en rencontrant les membres de quatre communautés 
+ majeures.\n\n👉 Partager vos idées dans une ambiance décontractée.\n
+ \n👉 Découvrir les actualités et les prochains projets de nos associat
+ ions respectives.\n\nDes prix passionnants attendent les plus rapides et l
+ es plus précis d'entre vous lors du quiz. Ne manquez pas cette opportunit
+ é de vous amuser tout en enrichissant vos compétences et votre réseau p
+ rofessionnel !\nInscrivez-vous dès maintenant pour garantir votre place e
+ t venez partager une expérience enrichissante avec votre communauté de d
+ éveloppeurs. 👇\n📍Ou ? Aquinum - Le Node\n🕒Quand ? Le 7 Avril de 
+ 19h00 a 21h00\n\nAgenda\n\n---\n\nHosted By\n\nEnzo Conty\, Organizer\n\nH
+ aving started out as a freelancer in France over five years ago\, I have b
+ een passionate about Flutter since then.\nI created a freelance agency for
+  Flutter mobile development after creating around 30 mobile apps over the 
+ years.\n\nWith Flutter\, I explore new platforms to use\, such as Steam De
+ ck\, embeddable systems such as drink distributors\, and even Steam games.
+ \n\nIvan Canet\, Software Engineer\n\n---\n\nPartner\n\nBordeauxKt (https:
+ //bordeauxkt.io)\nBordeauxKt est un user group au service du langage Kotli
+ n et son écosystème\, à destination des développeurs de Bordeaux et sa
+  métropole.\n\nNous organisons des soirées autour de présentations tech
+ niques pour discuter des différentes utilisations de Kotlin : développem
+ ent côté serveur\, mobile\, web\, ou encore natif.\n\n---\n\nComplete yo
+ ur event RSVP here: https://gdg.community.dev/events/details/google-gdg-bo
+ rdeaux-presents-tech-quiz-get-together-3/.\n\nCommunauté: gdg-bordeaux
+LOCATION:le node\, 12 rue des Faussets\, bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/
+END:VEVENT
 END:VCALENDAR

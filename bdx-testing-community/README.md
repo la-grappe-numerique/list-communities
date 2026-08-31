@@ -34,6 +34,7 @@ Les échanges peuvent se poursuivre en ligne via nos canaux de communication (gr
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mercredi 17 juin 2026 à 18:00 | MEETUP #5 - BDX Testing Community @SII | 3 impasse Rudolf Diesel, Mérignac | https://www.meetup.com/bdx-testing-community/events/314847233/ |
 | Mercredi 28 janvier 2026 à 18:30 | APERO #4 - BDX TESTING | 45 cours D'Alsace-Et-Lorraine ,, Bordeaux | https://www.meetup.com/bdx-testing-community/events/312885328/ |
 </details>
 

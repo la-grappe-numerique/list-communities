@@ -5,6 +5,60 @@ X-WR-CALDESC:Calendrier des événements de la communauté data-for-good
 X-WR-CALNAME:Événements data-for-good
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Demo Day S14
+DTSTART;TZID=Europe/Paris:20260511T183000
+DTEND;TZID=Europe/Paris:20260511T203000
+UID:https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-19
+ 87488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=disco
+ very&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/demo-day-data-for-good-bordea
+ ux-tickets-1987488652060?utm-campaign=social&utm-content=attendeeshare&utm
+ -medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl\n📍 L
+ e node\, 12 rue des Faussets\, 33000 Bordeaux\n\n🥳 Lundi 11 mai\, l’a
+ ntenne bordelaise de Data For Good vous invite au Node pour revivre la gra
+ nde soirée de présentation des projets de la saison 14 !\n\n🤝 Chaque 
+ année une douzaine de projets portés par des associations expertes et qu
+ i défendent la justice sociale\, l'environnement et la démocratie sont s
+ électionnés.\n\n🛠️ Pendant 4 mois\, les bénévoles de Data For Goo
+ d se mobilisent et accompagnent ces associations dans la construction d'ou
+ tils numériques qui leur sont nécessaires\, le tout dans une démarche d
+ e sobriété numérique et en développant le plus possible des outils ope
+ n source.\n\nCes quatre mois de travail touchent à leur fin et nous somme
+ s prêts.es à vous présenter les projets co-développés auprès des ass
+ ociations.\n\nC'est l'occasion de :\n👉 rencontrer les bénévoles de l'
+ association\n👉 comprendre le fonctionnement et l'impact de la saison Da
+ ta For Good\n\n📋 Au programme\, une présentation des projets\, des tem
+ ps pour échanger et un apéro en mode auberge espagnole!\n\n📅 RDV Lund
+ i 11 mai de 18h30 à 21h00 à Le Node Aquinum\n\nCommunauté: data-for-goo
+ d
+LOCATION:Le node\, 12 rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-19
+ 87488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=disco
+ very&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 [ATELIER - La Fresque de la Biodiversité x Data for Good Bor
+ deaux]
+DTSTART;TZID=Europe/Paris:20260414T183000
+DTEND;TZID=Europe/Paris:20260414T203000
+UID:https://www.billetweb.fr/gironde-33@community-events
+DESCRIPTION:🔗 https://www.billetweb.fr/gironde-33\n📍 Le node\, 12 ru
+ e des Faussets\, 33000 Bordeaux\n\n🌱 [ATELIER - La Fresque de la Biodiv
+ ersité x Data for Good Bordeaux]\n\nVenez participer à un atelier ludiqu
+ e\, collaboratif et ancré dans la science pour explorer les mécanismes d
+ u vivant\, comprendre les 5 grandes pressions menaçant la biodiversité e
+ t surtout échanger concrètement sur nos leviers d’action pour la prés
+ erver!\n\nSi le sujet t’interpelle\, cet atelier est fait pour toi 🌿
+ \n\nInfos pratiques\n📅 Quand : mardi 14 avril 2026 de 18h30 à 21h30\n
+ 📍 Où : Le Node Bordeaux (AQUINUM)\n\n👥 Places limitées à 10 perso
+ nnes\n\n➡️ Inscriptions: https://www.billetweb.fr/gironde-33\n\nCommun
+ auté: data-for-good
+LOCATION:Le node\, 12 rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.billetweb.fr/gironde-33
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fresque du Numérique
 DTSTART;TZID=Europe/Paris:20260225T183000
 DTEND;TZID=Europe/Paris:20260225T203000

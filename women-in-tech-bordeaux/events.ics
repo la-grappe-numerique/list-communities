@@ -7,6 +7,109 @@ X-WR-CALDESC:Calendrier des événements de la communauté women-in-tech-b
 X-WR-CALNAME:Événements women-in-tech-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Management Agile : sortir des croyances\, activer les bons leviers
+DTSTART;TZID=Europe/Paris:20260602T183000
+DTEND;TZID=Europe/Paris:20260602T203000
+UID:https://luma.com/o64gqm6t@community-events
+DESCRIPTION:🔗 https://luma.com/o64gqm6t\n📍 5 Rue de Condé\, 33000 B
+ ordeaux\n\n​Deux approches complémentaires pour mieux comprendre ce qui
+  freine réellement vos équipes :\n\n**​​« De la pseudoscience pour 
+ mon (pseudo) management »\, par Anaïs HUET**\n\n​​"Êtes-vous plutô
+ t INFP\, type Rouge\, type D\, Capricorne ? Cerveau Gauche\, Cerveau Droit
+ \, Cerveau Reptilien ? Serdaigle\, Gryffondor ? Dragon ? Licorne ?\n\n​P
+ ourquoi les tests de personnalité et les types qui y sont liés nous fasc
+ inent-ils autant ? En quoi sont-ils basés sur de la pseudoscience\, et pe
+ uvent-ils être réellement utiles au travail en équipe ?\n\n​Explorons
+  ensemble les promesses (et les pièges) des tests de personnalité dans l
+ e management ainsi que l’accompagnement agile\, et posons-nous la questi
+ on : est-il vraiment nécessaire de faire passer des tests à des personne
+ s pour savoir si l’on peut travailler efficacement avec elles ?\n\n​Ap
+ rès tout\, “les individus et leurs interactions plus que les processus 
+ et les outils”\, donc quelque chose qui nous aide à cartographier les i
+ ndividus devrait nous être utile… Mais jusqu’à quel point ?"\n\n​
+ \n\n**​​« Des projets qui patinent ? Rendez visibles les vrais blocag
+ es »\, par Marina FILLATRE**\n\n​​Les projets peuvent ralentir malgr
+ é des équipes engagées et des processus en place\, en raison d’ineffi
+ cacités souvent invisibles : tâches en attente\, validations longues\, r
+ etouches inutiles.\n\n​Ce talk propose d’identifier ces blocages en s
+ ’appuyant sur la visualisation des flux de travail\, afin de mettre en 
+ évidence les goulots d’étranglement et les sources de friction. À tra
+ vers des exemples concrets issus d’équipes IT et produit\, il présente
+ ra des leviers simples et activables rapidement pour fluidifier les proces
+ sus et améliorer durablement la performance du delivery.\n\nCommunauté: 
+ women-in-tech-bordeaux
+LOCATION:5 Rue de Condé\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/o64gqm6t
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Santé mentale et biais cognitif : la tech à l’épreuve de l’
+ humain
+DTSTART;TZID=Europe/Paris:20260421T183000
+DTEND;TZID=Europe/Paris:20260421T203000
+UID:https://luma.com/sb9a2gj1@community-events
+DESCRIPTION:🔗 https://luma.com/sb9a2gj1\n📍 20 Parv. des Chartrons\, 
+ 33000 Bordeaux\n\n​Rejoins nous pour un moment d'échange autour de la s
+ anté mentale et des biais cognitifs\, dans la tech.\nPour cette session\,
+  on te propose deux interventions pour mieux comprendre\, questionner et r
+ eprendre la main.\n\n**​1️⃣ INFO PRATIQUES**\n\n​​📍MIRAKL\, 2
+ 0 Parvis des Chartrons\, 33000 Bordeaux\n🕡 18h30 : accueil\n🎙 19h : 
+ talks\n🍸 20h30 : échanges + cocktail (végé friendly)\n👋 21h30 : f
+ in de soirée\n​L’événement est gratuit mais les places sont limité
+ es : inscris toi ici pour réserver la tienne !\n\n**2️⃣ PRÉSENTATION
+ S**\n\n**​« Soft skills\, hard truths\, survivre ou s’épanouir au tr
+ avail »\, par Sarah Gicquel**\n\n​Cette conférence\, c’est un défou
+ loir.\n\n​Comme ce moment où\, seule face à son miroir\, on laisse enf
+ in sortir ce qu’on n’a pas osé dire.\n\n​C’est mieux comprendre d
+ ’où vient le burn out\, reconnaître le culte de la productivité et le
+ urs impacts sur notre santé mentale.\n\n​C’est trouver un endroit où
+  enfin on peut parler de santé mentale féminine sans se juger\, baisser 
+ sa garde.\n\n​C’est reconnaitre les difficultés d’une femme dans la
+  tech. Confrontée parfois ou souvent à un environnement de travail qui n
+ ’est pas toujours sain. Se demander parfois comment on peut trouver sa p
+ lace sans se perdre\, rester soi-même dans un système qui nous bouscule.
+ \n\n​Elle est faite pour se retrouver\, se reconnecter à pourquoi on a 
+ commencé dans cette voie\, plutôt qu’une autre.  Repenser les dépense
+ s de notre énergie\, lorsqu’on a l’impression qu’on nous en prend t
+ rop.  En retrouver\, pour se la partager.\n\n\n**​« Le rôle de l'humai
+ n dans la machine : Qui se cache derrière les algorithmes ? »\, par Nina
+  Franiatte**\n\n​Notre cerveau n’est pas parfaitement rationnel. Les s
+ ciences cognitives ont montré que nos jugements sont influencés par de n
+ ombreux biais cognitifs\, qui peuvent parfois conduire à des décisions i
+ njustes ou discriminatoires.\n\n​À l’heure où les algorithmes et l
+ ’intelligence artificielle occupent une place croissante dans nos socié
+ tés\, on espère souvent que ces technologies permettront de rendre les d
+ écisions plus objectives. Mais que se passe-t-il lorsque des machines son
+ t conçues par des humains eux-mêmes biaisés ?\n\n​Dans ce talk\, nous
+  explorerons l’origine des biais algorithmiques du point de vue du facte
+ ur humain. Nous nous intéresserons aux humains derrière la machine : com
+ ment les biais cognitifs peuvent influencer la conception des systèmes et
+  se retrouver\, parfois sans le vouloir\, intégrés dans les technologies
+  que nous créons ? Réponse le 21 avril !\n\n\n**​​​3️⃣ A PROPO
+ S DES INTERVENANTES**\n\n**​​À propos de Sarah**\n​Infirmière en s
+ anté mentale\, elle s’intéresse aux gens à la manière dont ils viven
+ t leur travail\, leurs émotions et leurs relations. Elle travaille en ser
+ vice d’hospitalisation en psychiatrie fermée\, et elle a appris à obse
+ rver les conséquences de certaines difficultés. Elle est passionnée de 
+ prise de parole en public. Lauréate de concours\, amatrice d’impro\, fo
+ rmatrice en animation. Pour elle\, la parole\, c’est du partage\, de la 
+ richesse et un outil de pouvoir. Son approche\, c’est la curiosité. Ell
+ e n’a découvert l’univers de la tech que récemment\, par amitié. Sa
+  légitimité\, c’est celle de croiser les univers et de les connecter l
+ es uns ou autres\, afin d’y mettre\, partout\, du sens.\n\n**​​À pr
+ opos de Nina**\n​Après un diplôme d’ingénieure à l’École Nation
+ ale Supérieure de Cognitique de Bordeaux\, Nina a rejoint le laboratoire 
+ LaPsyDE de l’Université Paris Cité pour effectuer un doctorat en scien
+ ces cognitives sous la direction du Dr Wim De Neys\, en collaboration avec
+  l'entreprise onepoint. Ses travaux de recherche portent sur les processus
+  cognitifs impliqués dans le raisonnement humain et visent à développer
+  des méthodes pour limiter l'impact négatif des biais cognitifs et amél
+ iorer la prise de décision.\n\nCommunauté: women-in-tech-bordeaux
+LOCATION:20 Parv. des Chartrons\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/sb9a2gj1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cyber & Expertise : rendre visible l’invisible
 DTSTART;TZID=Europe/Paris:20251204T183000
 DTEND;TZID=Europe/Paris:20251204T203000
@@ -78,34 +181,34 @@ DESCRIPTION:🔗 https://luma.com/17u8ysfd\n📍 Ippon Technologies Bordea
  ns être : sur le point d’oser quelque chose qui compte ?\nQu’elles vi
  ennent du syndrome de l’imposteur\, du regard des autres ou de la craint
  e d’échouer\, je souhaite vous partager l’idée selon laquelle vos pe
- urs ne sont pas un frein au quotidien mais un véritable moteur. Action !\
- n\n​\n\n**​3️⃣ A PROPOS DES INTERVENANTES**\n\n​👤 Bérengère
-  ALART :\n\n​Après un parcours dans des entreprises tech d’envergure 
- comme Google et Uber\, Bérengère rejoint HelloAsso en 2020 en tant que C
- hief Product Officer\, avant de prendre la direction des équipes Techniqu
- es en tant que CPTO\, puis la Direction Générale récemment.\nConvaincue
-  qu’innovation\, performance et utilité sociale peuvent se conjuguer\, 
- Bérengère défend un modèle d’entreprise fondé sur la responsabilit
+ urs ne sont pas un frein au quotidien mais un véritable moteur. Action !
+ \n\n​\n\n**​3️⃣ A PROPOS DES INTERVENANTES**\n\n​👤 Bérengèr
+ e ALART :\n\n​Après un parcours dans des entreprises tech d’envergure
+  comme Google et Uber\, Bérengère rejoint HelloAsso en 2020 en tant que 
+ Chief Product Officer\, avant de prendre la direction des équipes Techniq
+ ues en tant que CPTO\, puis la Direction Générale récemment.\nConvaincu
+ e qu’innovation\, performance et utilité sociale peuvent se conjuguer\,
+  Bérengère défend un modèle d’entreprise fondé sur la responsabilit
  é collective\, la confiance et l’engagement. Elle œuvre aujourd’hui 
  à faire de HelloAsso un acteur clé de l’économie associative\, en gar
  antissant sa performance économique et en préservant une culture de trav
  ail profondément ancrée dans les valeurs de l’engagement.\nEn tant que
-  plateforme digitale et solidaire au service des associations françaises\
- , HelloAsso accompagne plus de 400 000 associations et 15 Millions de cito
- yens engagés partout en France\, avec un modèle unique basé sur la cont
- ribution volontaire\, et ambitionne de rendre l’engagement simple et acc
- essible à toutes et tous\, sans barrières techniques ni économiques.\n\
- n​——\n\n​👤 Clara MAMET :\n\n​Clara a 29 ans et travaille dans
-  le secteur de l’événementiel. Passionnée par la sociologie\, elle ai
- me particulièrement explorer les peurs et comprendre comment elles façon
- nent les choix des individus.\nIl y a un an\, elle a fait ses premiers pas
-  dans la tech\, un univers où elle a découvert à quel point le partage 
- de connaissances et la transmission sont essentiels. Cette culture du coll
- ectif lui parle profondément\, car elle pense qu’il est l’un des pili
- ers pour s’épanouir pleinement.\nAujourd’hui\, elle a la chance de po
- uvoir elle aussi partager ses recherches et réflexions à travers des con
- férences\, toujours sur des sujets de relations intra et inter-personnell
- es.\n\nCommunauté: women-in-tech-bordeaux
+  plateforme digitale et solidaire au service des associations françaises
+ \, HelloAsso accompagne plus de 400 000 associations et 15 Millions de cit
+ oyens engagés partout en France\, avec un modèle unique basé sur la con
+ tribution volontaire\, et ambitionne de rendre l’engagement simple et ac
+ cessible à toutes et tous\, sans barrières techniques ni économiques.\n
+ \n​——\n\n​👤 Clara MAMET :\n\n​Clara a 29 ans et travaille dan
+ s le secteur de l’événementiel. Passionnée par la sociologie\, elle a
+ ime particulièrement explorer les peurs et comprendre comment elles faço
+ nnent les choix des individus.\nIl y a un an\, elle a fait ses premiers pa
+ s dans la tech\, un univers où elle a découvert à quel point le partage
+  de connaissances et la transmission sont essentiels. Cette culture du col
+ lectif lui parle profondément\, car elle pense qu’il est l’un des pil
+ iers pour s’épanouir pleinement.\nAujourd’hui\, elle a la chance de p
+ ouvoir elle aussi partager ses recherches et réflexions à travers des co
+ nférences\, toujours sur des sujets de relations intra et inter-personnel
+ les.\n\nCommunauté: women-in-tech-bordeaux
 LOCATION:Ippon Technologies Bordeaux\, 44 Allée de Tourny\, 33000 Bordeau
  x\, France
 TZID:Europe/Paris
@@ -179,55 +282,55 @@ DESCRIPTION:🔗 https://www.linkedin.com/events/produit-discoveryavecl-ia
  -produ7325194369152495619/about/\n📍 SFEIR\, 5 Rue de Condé\, 33000 Bor
  deaux\n\n1️⃣ DÉTAILS\n\n📍 SFEIR\, 5 rue de condé\, 33000 Bordeaux
  \n\n18:30 - Accueil des participantes et participants\n19:00 - Début des 
- talks\n20:15 - Discussions et échanges\n21:00 - Fermeture des locaux\n\n\
- n2️⃣ PRÉSENTATIONS\n\n🎤 « Prototypes & IA : la discovery en mode 
- survitaminé » par Chloé MACKIE\n\nEt si on pouvait tester une idée en 
- quelques minutes\, sans écrire une seule ligne de code ? Grâce aux proto
- types dopés à l’IA\, la discovery devient un accélérateur stratégiq
- ue : plus rapide\, plus réelle\, plus connectée aux vrais besoins utilis
- ateurs. Fini les débats à l’aveugle — place à l’expérimentation 
- éclair\, day 1. Dans cette session\, vous découvrirez comment combiner I
- A et prototypage rapide pour explorer plus d’options\, plus tôt\, et av
- ancer avec plus de clarté. Objectif: moins d'incertitude\, plus de data\,
-  plus d'impact.\n\n----\n\n🎤 « Le produit traduit en justice : la plai
- doirie du product marketing » par Chloé GIRARDIN\n\nDans ce talk je mets
-  en scène un procès fictif où le Product est accusé de négligence par
-  le Product Marketing. Je suis son avocate\, présente pour démontrer sa 
- valeur.\nAvec une plaidoirie dynamique et structurée\, je vais prouver qu
- e le Product Marketing joue un rôle essentiel pour une entreprise tech\, 
- en particulier autour de 4 axes :\n1. Go-to-Market : Stratégie de lanceme
- nt efficace et différenciation sur le marché.\n2. Acquisition : Généra
- tion de la demande et engagement des prospects.\n3. Adoption : Facilitatio
- n de l’appropriation produit par les utilisateurs.\n4. Enablement intern
- e : Soutien des équipes commerciales et collaboration inter-services.\nJ
- ’inviterais les participants à reconsidérer le rôle du Product Market
- ing comme un pilier indispensable à la réussite produit\, à la conquêt
- e du marché\, et à la croissance durable d'une entreprise tech. Avec des
-  interventions (capsule vidéo) des « témoins » du product marketing po
- ur appuyer mon propos. À la fin le public sera invité à donner son verd
- ict via un formulaire en ligne !\nLes takeaways :\n- Comprendre le rôle c
- lé du Product Marketing dans une entreprise tech ainsi que son impact sur
-  le produit\, l’équipe et l’entreprise. Repartir avec une vision clai
- re de la fonction.\n- Comprendre l’importance du PMM sur les 4 principau
- x axes (Go-to-Market\, Acquisition\, Adoption\, Enablement interne)\n- Avo
- ir des exemples concrets d’OKRs pour suivre l’impact du Product Market
- ing.\n- Avoir avec des arguments clés. Soit pour convaincre leur organisa
- tion de recruter un PMM. Soit pour optimiser l’impact des PMM existants\
- n\n\n3️⃣ A PROPOS DES INTERVENANTES\n\n👤 Chloé MACKIE : Après 13 
- ans à Londres en tant que Product Leader\, Chloé s’est spécialisée d
- ans l’exploration de territoires à la pointe de l’innovation. Son par
- cours — entre startups\, scale-ups et labs en entreprise — lui a permi
- s de développer une compréhension globale des enjeux produits\, avec une
-  expertise pointue en Product Expansion : lancements internationaux et cr
- éation de nouveaux produits. Ses outils de prédilection ? Une connaissan
- ce fine des utilisateurs et des expérimentations IA agiles pour concevoir
-  des stratégies éclairées par la data. Curieuse et avide d’apprendre\
- , elle aime repousser les limites pour imaginer les solutions de demain.\n
- \n👤 Chloé GIRARDIN : Elle est spécialisée en Product Marketing depui
- s 2021 et travaille en freelance pour des start-ups et scale-ups dans le s
- ecteur de la tech. À travers son podcast "Les Meneuses"\, elle met en ava
- nt les femmes et les minorités de genre dans ce domaine.\n\nCommunauté: 
- women-in-tech-bordeaux
+ talks\n20:15 - Discussions et échanges\n21:00 - Fermeture des locaux\n\n
+ \n2️⃣ PRÉSENTATIONS\n\n🎤 « Prototypes & IA : la discovery en mode
+  survitaminé » par Chloé MACKIE\n\nEt si on pouvait tester une idée en
+  quelques minutes\, sans écrire une seule ligne de code ? Grâce aux prot
+ otypes dopés à l’IA\, la discovery devient un accélérateur stratégi
+ que : plus rapide\, plus réelle\, plus connectée aux vrais besoins utili
+ sateurs. Fini les débats à l’aveugle — place à l’expérimentation
+  éclair\, day 1. Dans cette session\, vous découvrirez comment combiner 
+ IA et prototypage rapide pour explorer plus d’options\, plus tôt\, et a
+ vancer avec plus de clarté. Objectif: moins d'incertitude\, plus de data
+ \, plus d'impact.\n\n----\n\n🎤 « Le produit traduit en justice : la pl
+ aidoirie du product marketing » par Chloé GIRARDIN\n\nDans ce talk je me
+ ts en scène un procès fictif où le Product est accusé de négligence p
+ ar le Product Marketing. Je suis son avocate\, présente pour démontrer s
+ a valeur.\nAvec une plaidoirie dynamique et structurée\, je vais prouver 
+ que le Product Marketing joue un rôle essentiel pour une entreprise tech
+ \, en particulier autour de 4 axes :\n1. Go-to-Market : Stratégie de lanc
+ ement efficace et différenciation sur le marché.\n2. Acquisition : Gén
+ ération de la demande et engagement des prospects.\n3. Adoption : Facilit
+ ation de l’appropriation produit par les utilisateurs.\n4. Enablement in
+ terne : Soutien des équipes commerciales et collaboration inter-services.
+ \nJ’inviterais les participants à reconsidérer le rôle du Product Mar
+ keting comme un pilier indispensable à la réussite produit\, à la conqu
+ ête du marché\, et à la croissance durable d'une entreprise tech. Avec 
+ des interventions (capsule vidéo) des « témoins » du product marketing
+  pour appuyer mon propos. À la fin le public sera invité à donner son v
+ erdict via un formulaire en ligne !\nLes takeaways :\n- Comprendre le rôl
+ e clé du Product Marketing dans une entreprise tech ainsi que son impact 
+ sur le produit\, l’équipe et l’entreprise. Repartir avec une vision c
+ laire de la fonction.\n- Comprendre l’importance du PMM sur les 4 princi
+ paux axes (Go-to-Market\, Acquisition\, Adoption\, Enablement interne)\n- 
+ Avoir des exemples concrets d’OKRs pour suivre l’impact du Product Mar
+ keting.\n- Avoir avec des arguments clés. Soit pour convaincre leur organ
+ isation de recruter un PMM. Soit pour optimiser l’impact des PMM existan
+ ts\n\n\n3️⃣ A PROPOS DES INTERVENANTES\n\n👤 Chloé MACKIE : Après 
+ 13 ans à Londres en tant que Product Leader\, Chloé s’est spécialisé
+ e dans l’exploration de territoires à la pointe de l’innovation. Son 
+ parcours — entre startups\, scale-ups et labs en entreprise — lui a pe
+ rmis de développer une compréhension globale des enjeux produits\, avec 
+ une expertise pointue en Product Expansion : lancements internationaux et 
+ création de nouveaux produits. Ses outils de prédilection ? Une connaiss
+ ance fine des utilisateurs et des expérimentations IA agiles pour concevo
+ ir des stratégies éclairées par la data. Curieuse et avide d’apprendr
+ e\, elle aime repousser les limites pour imaginer les solutions de demain.
+ \n\n👤 Chloé GIRARDIN : Elle est spécialisée en Product Marketing dep
+ uis 2021 et travaille en freelance pour des start-ups et scale-ups dans le
+  secteur de la tech. À travers son podcast "Les Meneuses"\, elle met en a
+ vant les femmes et les minorités de genre dans ce domaine.\n\nCommunauté
+ : women-in-tech-bordeaux
 LOCATION:SFEIR\, 5 Rue de Condé\, 33000 Bordeaux
 TZID:Europe/Paris
 URL:https://www.linkedin.com/events/produit-discoveryavecl-ia-produ7325194
@@ -253,17 +356,17 @@ DESCRIPTION:🔗 https://www.linkedin.com/events/7306627030899433472/about
  près ce congé. Dans un monde où la recherche d’un meilleur équilibre
   entre vie pro et vie perso est au cœur des préoccupations\, comment les
   entreprises peuvent-elles aider leurs collaboratrices à vivre une matern
- ité épanouie sans laisser de côté leur carrière ? À travers ce talk\
- , deux expertes de la parentalité déchiffreront avec vous les principaux
-  enjeux de santé publique liés à la santé mentale des mères. La discu
- ssion aura pour but de vous sensibiliser aux différentes problématiques 
- de la parentalité en entreprise mais aussi de faire émerger des pistes d
- e solution facilement applicables.\n\n----\n\n🎤 « Parcours atypique : 
- comment j'ai trouvé ma place dans la tech » par Bérénice BORGE-BAYSSE\
- n\nÀ travers son retour d’expérience\, Bérénice nous confie les mome
- nts clés de son parcours : des expériences dans des secteurs totalement 
- différents\, un burn-out\, un passage par l’entrepreneuriat en pleine c
- rise du Covid-19… Des challenges variés qui lui ont offert une vision 
+ ité épanouie sans laisser de côté leur carrière ? À travers ce talk
+ \, deux expertes de la parentalité déchiffreront avec vous les principau
+ x enjeux de santé publique liés à la santé mentale des mères. La disc
+ ussion aura pour but de vous sensibiliser aux différentes problématiques
+  de la parentalité en entreprise mais aussi de faire émerger des pistes 
+ de solution facilement applicables.\n\n----\n\n🎤 « Parcours atypique :
+  comment j'ai trouvé ma place dans la tech » par Bérénice BORGE-BAYSSE
+ \n\nÀ travers son retour d’expérience\, Bérénice nous confie les mom
+ ents clés de son parcours : des expériences dans des secteurs totalement
+  différents\, un burn-out\, un passage par l’entrepreneuriat en pleine 
+ crise du Covid-19… Des challenges variés qui lui ont offert une vision 
  éclectique du management et du développement des compétences. Mais comm
  ent est-elle arrivée dans la tech ? Qu'est ce qui la pousse à évoluer d
  ans ce secteur à la fois exigeant et excitant ? Attendez-vous à un talk 

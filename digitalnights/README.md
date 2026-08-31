@@ -20,6 +20,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/digitalnights/events.ics](/dig
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mardi 09 juin 2026 à 19:00 | Afterwork networking entre acteurs du digital : DN#24 | Le Café Rohan 1 Place Pey Berland  33000 Bordeaux | https://www.eventbrite.fr/e/afterwork-networking-entre-acteurs-du-digital-dn24-tickets-1987681363465?aff=oddtdtcreator |
+| Mardi 07 avril 2026 à 19:00 | Afterwork networking entre acteur du digital - DN#23 | Aquinum - Le Node 12 Rue des Faussets  33000 Bordeaux | https://www.eventbrite.fr/e/billets-afterwork-networking-entre-acteur-du-digital-dn23-1984501608733?keep_tld=true |
 | Mardi 03 février 2026 à 19:00 | Afterwork #22 | Le Rohan, 1 Place Pey Berland (1er étage) | https://www.eventbrite.fr/e/billets-afterwork-networking-numerique-dn22-1981243737352 |
 </details>
 

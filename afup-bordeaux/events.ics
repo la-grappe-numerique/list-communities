@@ -5,6 +5,44 @@ X-WR-CALDESC:Calendrier des événements de la communauté afup-bordeaux
 X-WR-CALNAME:Événements afup-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:#68 : Esprit critique\, es-tu là ? Let's goto hell!
+DTSTART;TZID=Europe/Paris:20260618T190000
+DTEND;TZID=Europe/Paris:20260618T210000
+UID:https://www.meetup.com/bordeaux-php-meetup/events/315007280/@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3150072
+ 80/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr\n\nLe sa
+ viez-vous ? Il faut voter pour le bureau de l'antenne tous les ans ! Donc 
+ retrouvons-nous pour voter le bureau qui représentera Bordeaux l'année p
+ rochaine 🫣\n\nAvant la présentation des talks\, rappelez-vous que le m
+ eetup se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l
+ 'occasion idéale de rencontrer de nouvelles personnes et d'échanger auto
+ ur de PHP et son écosystème.\n\nLa parole à notre chère speaker 🎉\n
+ \n**\\#\\#\\#\\# Esprit critique\\\, es\\-tu là ? Let's goto hell\\!**\nP
+ ar Benjamin Rambaud\, Staff Engineer\n\n"C'est une bonne pratique." "Tout 
+ le monde sait que..." "On a toujours fait comme ça."\n\nEn tant que déve
+ loppeur·euse\, combien de certitudes répétez-vous sans les avoir vérif
+ iées ?\nEt qu'est-ce qu'on répond quand un·e junior·e demande "pourquo
+ i ?" et qu'on n'a rien de mieux que "c'est comme ça" ou "c'est moche" ?\n
+ \nPrenons un exemple à priori simple : goto en PHP.\nVous êtes sûr·e q
+ ue c'est mal ?\nQue c'est à bannir absolument ?\nQue personne de sérieux
+  ne l'utilise ?\nQui vous l'a dit ?\nEst-ce que vous avez vérifié\, ou e
+ st-ce que vous répétez ce qu'on vous a répété ?\n\nDans ce talk\, on 
+ va utiliser goto comme terrain de jeu pour muscler notre esprit critique.
+ \nOn confrontera les arguments\, on parlera entre autres de biais cognitif
+ s\, et on se donnera des outils concrets pour éviter de gober une affirma
+ tion les yeux fermés.\nÀ l'ère de l'IA qui génère du code et des rép
+ onses avec aplomb\, cette compétence n'a jamais été aussi essentielle.
+ \n\nEt on appliquera ces mêmes outils à ce talk. Parce que si vous me cr
+ oyez sur parole\, c'est que vous n'avez rien retenu.\n\nL'objectif n'est p
+ as de vous convaincre d'utiliser goto.\nL'objectif est que vous ne disiez 
+ plus jamais "parce que c'est comme ça" sans sourciller.\n\nCommunauté: a
+ fup-bordeaux
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-php-meetup/events/315007280/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AFUP Day 2026 Bordeaux
 DTSTART;TZID=Europe/Paris:20260522T090000
 DTEND;TZID=Europe/Paris:20260522T110000
@@ -18,6 +56,39 @@ DESCRIPTION:🔗 https://event.afup.org/\n\n**AFUP Day Bordeaux\, nouvelle
  édition qui aura tout d’une grande.\n\nCommunauté: afup-bordeaux
 TZID:Europe/Paris
 URL:https://event.afup.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#67 : Dompter le refactoring
+DTSTART;TZID=Europe/Paris:20260430T190000
+DTEND;TZID=Europe/Paris:20260430T210000
+UID:https://www.meetup.com/bordeaux-php-meetup/events/314161757/@community
+ -events
+DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3141617
+ 57/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr\n\nAvant
+  la présentation des talks\, rappelez-vous que le meetup se termine par u
+ n **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de r
+ encontrer de nouvelles personnes et d'échanger autour de PHP et son écos
+ ystème.\n\nLa parole à notre chère speakeuse 🎉\n\n**\\#\\#\\#\\# Dom
+ pter le refactoring**\nPar [Nerea Enrique](https://www.linkedin.com/in/ner
+ ea-enrique-448599a8/)\, Ingénieure séniore PHP @ekino\n\n\\*\\*Refactori
+ ng: \\*nom propre \\*\\*\\*🥁\nCette épreuve qui fait trembler et trans
+ pirer les développeurs•euses **et** le métier.\nQuand un•e développ
+ eur•euse prononce le mot “refacto” dans une phrase le silence s’in
+ stalle dans la salle ou le meet\, on pourrait presque entendre les mouches
+  voler. Derrière ce simple mot s’en cachent d’autres : “risqué”
+ \, “coûteux”\, …\n\nLa vérité\, c’est que le refactoring ne dev
+ rait pas rimer avec “danger”. Il devrait rimer avec **sérénité**.\n
+ \nComme toute autre tâche\, une “refacto” peut être analysée et tra
+ itée par des techniques simples. Ces techniques ont un nom\, une problém
+ atique à résoudre et une résolution.\nLe but final étant d’interveni
+ r en toute sécurité **et** sérénité dans un code fragile\, sans bloqu
+ er l’équipe de devs / métier et sans arrêter l’apport de valeur au 
+ produit.\n\nVous quitterez la salle avec des illustrations simples et clai
+ res et l’envie de mettre ça en place à votre tour !\n\nCommunauté: af
+ up-bordeaux
+LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/bordeaux-php-meetup/events/314161757/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#66 : Introduction à la dettes non-technique
@@ -154,10 +225,10 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3106684
  se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l'occas
  ion idéale de rencontrer de nouvelles personnes et d'échanger autour de 
  PHP et son écosystème.\n\nLa parole aux speakeurs 📣\n\n#### De la vei
- lle isolée aux squads collaboratives : Révolutionnez votre tech watch !\
- nPar **Julien Joye**\, ingénieur PHP chez **ekino**\n\n_Vos ingénieurs n
- e trouvent pas le temps de faire de la veille de qualité ? Et si ce n'ét
- ait plus un problème individuel ?_\n\n_Nous avons transformé ce défi r
+ lle isolée aux squads collaboratives : Révolutionnez votre tech watch !
+ \nPar **Julien Joye**\, ingénieur PHP chez **ekino**\n\n_Vos ingénieurs 
+ ne trouvent pas le temps de faire de la veille de qualité ? Et si ce n'é
+ tait plus un problème individuel ?_\n\n_Nous avons transformé ce défi r
  écurrent en opportunité collective. Notre approche collaborative a chang
  é la façon dont nos ingénieurs restent à la pointe de la technologie\,
   tout en créant de la valeur pour l'ensemble de l'organisation._\n\n_Cett
@@ -464,27 +535,27 @@ UID:https://www.meetup.com/bordeaux-php-meetup/events/300806782/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/3008067
  82/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\nL
- e sponsor de ce mois de juin est **[ekino](https://www.ekino.com/)** 🎉\
- nÀ quelques jours de l'été et d'une pause estivale (on continuera de vo
- us préparer d'autres meetups quand même 😛)\, c'est le moment de se re
- trouver !\nNous profiterons de ce meetup pour effectuer les élections du 
- bureau de l'AFUP Bordeaux 🗳️Nous avons besoin de vous ! Venez souteni
- r la liste qui vous convient le mieux pour gérer l'organisation de l'AFUP
-  Bordeaux !\nDurant ce meetup\, **Nerea Enrique**\, ingénieure chez **eki
- no**\, nous vulgarisera le fonctionnement d'un search engine 🤓\nLa plac
- e à la speakeuse 📣\n*Tu t’es toujours demandé.e comment fonctionnen
- t les moteurs de recherche ? Tu n’as jamais eu envie d’aller plus loin
-  parce que ça te semble trop complexe ?**Dans ce cas\, bienvenu.e !**Ici 
- on va vulgariser le fonctionnement des moteurs de recherche en général e
- t le scoring. Allant des explications aux exemples (on se servira de Elast
- icSearch parfois)\, en passant par un parallèle dans la vie* 🤫*On va a
- ussi voir que configurer nos index\, c’est plus simple qu’il n’y par
- ait quand on comprend les principes !* 😛*Le plus important à comprendr
- e c’est qu’on ne trouvera pas la recherche idéale du premier coup\, m
- ais en itérations !*\nLe meetup se termine par un apéro sponsorisé par 
- **ekino** \\- que nous remercions chaleureusement \\! 🥗 🍕🍹Ce sera
-  l'occasion idéale de rencontrer de nouvelles personnes et d'échanger au
- tour de PHP et de son écosystème.\n\nCommunauté: afup-bordeaux
+ e sponsor de ce mois de juin est **[ekino](https://www.ekino.com/)** 🎉
+ \nÀ quelques jours de l'été et d'une pause estivale (on continuera de v
+ ous préparer d'autres meetups quand même 😛)\, c'est le moment de se r
+ etrouver !\nNous profiterons de ce meetup pour effectuer les élections du
+  bureau de l'AFUP Bordeaux 🗳️Nous avons besoin de vous ! Venez souten
+ ir la liste qui vous convient le mieux pour gérer l'organisation de l'AFU
+ P Bordeaux !\nDurant ce meetup\, **Nerea Enrique**\, ingénieure chez **ek
+ ino**\, nous vulgarisera le fonctionnement d'un search engine 🤓\nLa pla
+ ce à la speakeuse 📣\n*Tu t’es toujours demandé.e comment fonctionne
+ nt les moteurs de recherche ? Tu n’as jamais eu envie d’aller plus loi
+ n parce que ça te semble trop complexe ?**Dans ce cas\, bienvenu.e !**Ici
+  on va vulgariser le fonctionnement des moteurs de recherche en général 
+ et le scoring. Allant des explications aux exemples (on se servira de Elas
+ ticSearch parfois)\, en passant par un parallèle dans la vie* 🤫*On va 
+ aussi voir que configurer nos index\, c’est plus simple qu’il n’y pa
+ rait quand on comprend les principes !* 😛*Le plus important à comprend
+ re c’est qu’on ne trouvera pas la recherche idéale du premier coup\, 
+ mais en itérations !*\nLe meetup se termine par un apéro sponsorisé par
+  **ekino** \\- que nous remercions chaleureusement \\! 🥗 🍕🍹Ce ser
+ a l'occasion idéale de rencontrer de nouvelles personnes et d'échanger a
+ utour de PHP et de son écosystème.\n\nCommunauté: afup-bordeaux
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/300806782/
@@ -606,11 +677,11 @@ UID:https://www.meetup.com/bordeaux-php-meetup/events/297836117/@community
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2978361
  17/\n📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\nC
  ette fois c'est la bonne ! Les poumons de [Robin Colombier](https://twitte
- r.com/ChinaskiOnRails) vont le laisser vous parler de Xdebug !Entre-temps\
- , il aura eu l'occasion de partager ses connaissances avec [l'AFUP Rennes]
- (https://www.meetup.com/fr-FR/afup-rennes/events/297267125/) 😛\nSi jama
- is vous avez oubliez\, on redonne la parole au speaker :*"On est tous d'ac
- cords\, Xdebug est compliqué à configurer. Plutôt que de faire un éni
+ r.com/ChinaskiOnRails) vont le laisser vous parler de Xdebug !Entre-temps
+ \, il aura eu l'occasion de partager ses connaissances avec [l'AFUP Rennes
+ ](https://www.meetup.com/fr-FR/afup-rennes/events/297267125/) 😛\nSi jam
+ ais vous avez oubliez\, on redonne la parole au speaker :*"On est tous d'a
+ ccords\, Xdebug est compliqué à configurer. Plutôt que de faire un éni
  ème tutoriel qui ne correspondra pas à votre config\, mieux vaut vous do
  nner envie d'arpenter ce chemin par vous-même en vous montrant le résult
  at final : la pratique de Xdebug au sein de votre IDE. Nous nous appuieron
@@ -1172,9 +1243,9 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2618590
  ’autoload\, la gestion des erreurs ou bien encore la gestion des excepti
  ons\, le tout\, à travers le composant Debug du framework Symfony.\nNous 
  parlerons de ses fonctionnalités\, des problématiques qu’elles résolv
- ent ainsi que de la manière dont elles sont implémentés techniquement.\
- nMinimaliste et plutôt méconnu\, le composant Debug est pourtant l’un 
- des plus téléchargé et utilisé car il fournit un gros plus à l’exp
+ ent ainsi que de la manière dont elles sont implémentés techniquement.
+ \nMinimaliste et plutôt méconnu\, le composant Debug est pourtant l’un
+  des plus téléchargé et utilisé car il fournit un gros plus à l’exp
  érience développeur.\nLe meetup se termine par un apéro collaboratif - 
  pensez à amener un petit quelque chose à manger ou à boire !\n\nCommuna
  uté: afup-bordeaux
@@ -1207,8 +1278,8 @@ DTEND;TZID=Europe/Paris:20190418T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/260445410/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2604454
- 10/\n📍 1 Cr Xavier Arnozan\, 1 Cr Xavier Arnozan\, Bordeaux\, France\n\
- nPlusieurs meetups ont été effectués sur ce sujet depuis plusieurs ann
+ 10/\n📍 1 Cr Xavier Arnozan\, 1 Cr Xavier Arnozan\, Bordeaux\, France\n
+ \nPlusieurs meetups ont été effectués sur ce sujet depuis plusieurs ann
  ées\, Nicolas Grekas était notamment venu nous en parler l'année derni
  ère !\nCette fois ci c'est Nicolas Perussel qui nous détaillera comment 
  le DIC est implémenté dans un projet open source comme Drupal.Nous irons
@@ -1230,10 +1301,10 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2593212
  \n\nEn 2018\, le Super Apéro a rassemblé plus de 500 développeurs·ses 
  sur toute la France...\nLe soir du jeudi 14 mars\, tous les développeurs
  ·ses PHP sont invités à rejoindre la communauté locale pour célébrer
-  PHP autour de quelques bières et de quoi grignotter !\nÀ partir de 19h\
- , retrouvez-nous au bar The Frog & Rosbif. Réservation au doux petit nom 
- AFUP \;)\nPour avoir les informations de toutes les autres antennes : http
- s://afup.org/association/super-apero\n\nCommunauté: afup-bordeaux
+  PHP autour de quelques bières et de quoi grignotter !\nÀ partir de 19h
+ \, retrouvez-nous au bar The Frog & Rosbif. Réservation au doux petit nom
+  AFUP \;)\nPour avoir les informations de toutes les autres antennes : htt
+ ps://afup.org/association/super-apero\n\nCommunauté: afup-bordeaux
 LOCATION:The Frog & Rosbif\, Bordeaux\, 23 Rue Ausone\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/259321285/
@@ -1268,12 +1339,12 @@ DTEND;TZID=Europe/Paris:20190124T210000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/257987818/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2579878
- 18/\n📍 Le Zytho\, 28 Rue Latour\, Bordeaux\, France\n\nBonjour à tous\
- ,\nPour cette nouvelle année\, on vous propose de se retrouver pour un ap
- éro au Zytho.Pas de sujet prédéfini\, discussion libre !Ca pourra aussi
-  être l'occasion pour ceux qui songent à faire des présentations\, mais
-  n'ont pas encore sauté le pas\, d'échanger et poser leurs questions.\n\
- nCommunauté: afup-bordeaux
+ 18/\n📍 Le Zytho\, 28 Rue Latour\, Bordeaux\, France\n\nBonjour à tous
+ \,\nPour cette nouvelle année\, on vous propose de se retrouver pour un a
+ péro au Zytho.Pas de sujet prédéfini\, discussion libre !Ca pourra auss
+ i être l'occasion pour ceux qui songent à faire des présentations\, mai
+ s n'ont pas encore sauté le pas\, d'échanger et poser leurs questions.\n
+ \nCommunauté: afup-bordeaux
 LOCATION:Le Zytho\, 28 Rue Latour\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/257987818/
@@ -1286,19 +1357,19 @@ DTEND;TZID=Europe/Paris:20181129T213000
 UID:https://www.meetup.com/bordeaux-php-meetup/events/256158020/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2561580
- 20/\n📍 MOTA COWORKING\, 13 rue de la manutention\, Bordeaux\, France\n\
- nPour fêter l'année qui se termine bientôt nous vous invitons à un mee
- tup dont vous êtes le héros : une série de lightning talks sur une thé
- matique que vous avez découverte\, ou approfondie cette année.\nLe forma
- t : 1 thème - 5 slides (maximum) - 10 minutes par participantVenez nous p
- résenter un sujet qui vous a marqué cette année\, en rapport avec votre
-  langage préféré.Pour vous inscrire\, remplissez le formulaire suivant 
- : https://goo.gl/forms/217hffSjejlfLoyk1\nLa liste des thèmes abordées s
- era communiquée au fur et à mesure.\nN'hésitez pas à nous solliciter s
- i vous avez besoin d'un peu d'aide pour vous mettre à l'eau.\nLe Meetup s
- e terminera par un apéro et des pizzas\, gracieusement offerts par notre 
- sponsor Externatic : https://www.externatic.fr/\n\nCommunauté: afup-borde
- aux
+ 20/\n📍 MOTA COWORKING\, 13 rue de la manutention\, Bordeaux\, France\n
+ \nPour fêter l'année qui se termine bientôt nous vous invitons à un me
+ etup dont vous êtes le héros : une série de lightning talks sur une th
+ ématique que vous avez découverte\, ou approfondie cette année.\nLe for
+ mat : 1 thème - 5 slides (maximum) - 10 minutes par participantVenez nous
+  présenter un sujet qui vous a marqué cette année\, en rapport avec vot
+ re langage préféré.Pour vous inscrire\, remplissez le formulaire suivan
+ t : https://goo.gl/forms/217hffSjejlfLoyk1\nLa liste des thèmes abordées
+  sera communiquée au fur et à mesure.\nN'hésitez pas à nous solliciter
+  si vous avez besoin d'un peu d'aide pour vous mettre à l'eau.\nLe Meetup
+  se terminera par un apéro et des pizzas\, gracieusement offerts par notr
+ e sponsor Externatic : https://www.externatic.fr/\n\nCommunauté: afup-bor
+ deaux
 LOCATION:MOTA COWORKING\, 13 rue de la manutention\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/256158020/
@@ -1409,28 +1480,28 @@ UID:https://www.meetup.com/bordeaux-php-meetup/events/250837322/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2508373
  22/\n📍 le node\, 12 rue des Faussets\, Bordeaux\, France\n\nPrésentati
- on par Arnaud Lemaire (@lilobase)\nAvec autant de buzzwords dans le titre\
- , explicitons le menu :– Nous commencerons avec une étude des principes
-  du CQRS et la notion de projection pour construire les modèles de donné
- es dédiées à la lecture\, le tout avec un datastore traditionnel (relat
- ionnel).– Nous continuerons avec le concept d’état en programmation f
- onctionnelle\, et comment les gérer au sein d’une application tout en r
- espectant le principe d’immutabilité. Et comment ils ont transformé la
-  gestion d’états pour la construction d’interface utilisateur.– Dan
- s un troisième temps\, nous nous intéresserons aux évènements du domai
- ne-métier dans le Domain Driven Design et comment ceux-ci s’intègrent 
- dans la mécanique de construction des projections.– Enfin\, nous assemb
- lerons toutes ces notions pour faire apparaitre l’«event sourcing» com
- me modèle de persistance pour nos données.– Pour clôturer\, nous verr
- ons les erreurs les plus courantes rencontrées lors de l’implémentatio
- n d’un modèle en event sourcing.\nTake away:– Utiliser CQRS (sans eve
- nt-sourcing) pour simplifier la gestion de la persistance dans son applica
- tion.– Comprendre comment gérer des états dans un contexte fonctionnel
- – Gérer facilement les évènements-métier au sein d’une architectur
- e DDD.– Savoir comment implémenter correctement un système basé sur l
- ’event sourcing.\nLe meetup se termine par un apéro collaboratif - pens
- ez à amener un petit quelque chose à manger ou à boire !\n\nCommunauté
- : afup-bordeaux
+ on par Arnaud Lemaire (@lilobase)\nAvec autant de buzzwords dans le titre
+ \, explicitons le menu :– Nous commencerons avec une étude des principe
+ s du CQRS et la notion de projection pour construire les modèles de donn
+ ées dédiées à la lecture\, le tout avec un datastore traditionnel (rel
+ ationnel).– Nous continuerons avec le concept d’état en programmation
+  fonctionnelle\, et comment les gérer au sein d’une application tout en
+  respectant le principe d’immutabilité. Et comment ils ont transformé 
+ la gestion d’états pour la construction d’interface utilisateur.– D
+ ans un troisième temps\, nous nous intéresserons aux évènements du dom
+ aine-métier dans le Domain Driven Design et comment ceux-ci s’intègren
+ t dans la mécanique de construction des projections.– Enfin\, nous asse
+ mblerons toutes ces notions pour faire apparaitre l’«event sourcing» c
+ omme modèle de persistance pour nos données.– Pour clôturer\, nous ve
+ rrons les erreurs les plus courantes rencontrées lors de l’implémentat
+ ion d’un modèle en event sourcing.\nTake away:– Utiliser CQRS (sans e
+ vent-sourcing) pour simplifier la gestion de la persistance dans son appli
+ cation.– Comprendre comment gérer des états dans un contexte fonctionn
+ el– Gérer facilement les évènements-métier au sein d’une architect
+ ure DDD.– Savoir comment implémenter correctement un système basé sur
+  l’event sourcing.\nLe meetup se termine par un apéro collaboratif - pe
+ nsez à amener un petit quelque chose à manger ou à boire !\n\nCommunaut
+ é: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/250837322/
@@ -1614,21 +1685,21 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2419980
  en version beta ! Cette nouvelle version continue le travail d'assainissem
  ent et modernisation du langage. Deux directions importantes : l'obsolesce
  nce et la sophistication! \nLors de la migration\, il faut relire tout le
-  code\, et cibler uniquement les points les plus intéressants. Pour cela\
- , nous allons connecter ensemble les incompatibilités PHP 7.2 avec leurs 
- occurrences dans le code ancien\, en utilisant différentes techniques d'a
- nalyse statique. Grâce à notre connaissance du code\, et l'expérience c
- apitalisée des outils\, nous nous assurons d'une transition en douceur\, 
- et même le luxe des nouvelles capacités de PHP 7.2.\nNous terminerons ce
-  talk par un apéro collaboratif !Pensez à amener des boisons et/ou des p
- etits trucs à manger... \nA propos du conférencier :\nDamien Seguy est 
- directeur technique chez Exakat Ltd.\, société spécialisée dans les so
- lutions pour la qualité du code source en PHP. Il dirige le développemen
- t du moteur d'analyse statique d'Exakat\, qui assure la revue de code pour
-  les migrations\, la clarté et la sécurité. Avec plus de quinze ans de 
- contributions au monde PHP\, son expérience l'a fait passer par la rédac
- tion de la documentation\, l'élevage d'elephants\, l'animation de groupes
-  d'utilisateurs sur trois continents. Il aime faire du gremlin\, des 狮
+  code\, et cibler uniquement les points les plus intéressants. Pour cela
+ \, nous allons connecter ensemble les incompatibilités PHP 7.2 avec leurs
+  occurrences dans le code ancien\, en utilisant différentes techniques d'
+ analyse statique. Grâce à notre connaissance du code\, et l'expérience 
+ capitalisée des outils\, nous nous assurons d'une transition en douceur\,
+  et même le luxe des nouvelles capacités de PHP 7.2.\nNous terminerons c
+ e talk par un apéro collaboratif !Pensez à amener des boisons et/ou des 
+ petits trucs à manger... \nA propos du conférencier :\nDamien Seguy est
+  directeur technique chez Exakat Ltd.\, société spécialisée dans les s
+ olutions pour la qualité du code source en PHP. Il dirige le développeme
+ nt du moteur d'analyse statique d'Exakat\, qui assure la revue de code pou
+ r les migrations\, la clarté et la sécurité. Avec plus de quinze ans de
+  contributions au monde PHP\, son expérience l'a fait passer par la réda
+ ction de la documentation\, l'élevage d'elephants\, l'animation de groupe
+ s d'utilisateurs sur trois continents. Il aime faire du gremlin\, des 狮
  子头 et du camembert.\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
@@ -1666,15 +1737,15 @@ UID:https://www.meetup.com/bordeaux-php-meetup/events/239873606/@community
  -events
 DESCRIPTION:🔗 https://www.meetup.com/bordeaux-php-meetup/events/2398736
  06/\n📍 le node\, 12 rue des Faussets\, Bordeaux\, France\n\nHello à to
- us\, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi\
- , qui va traiter de \nCQRS\, Fonctionnel\, Event Sourcing & Domain Driven
-  Design\, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR/
- software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est da
- ns le lien - il s'agit d'une présentation qui permettra de prendre un peu
-  de hauteur sur des concepts qui sortent des spécificités des langages\,
-  et que je vous promet être très intéressante !\nPour faciliter la gest
- ion de l'événement\, inscrivez-vous de préférence via le lien ci-dessu
- s :) \nTrès bonne journée à tous\,\n\nCommunauté: afup-bordeaux
+ us\, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi
+ \, qui va traiter de \nCQRS\, Fonctionnel\, Event Sourcing & Domain Drive
+ n Design\, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR
+ /software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est d
+ ans le lien - il s'agit d'une présentation qui permettra de prendre un pe
+ u de hauteur sur des concepts qui sortent des spécificités des langages
+ \, et que je vous promet être très intéressante !\nPour faciliter la ge
+ stion de l'événement\, inscrivez-vous de préférence via le lien ci-des
+ sus :) \nTrès bonne journée à tous\,\n\nCommunauté: afup-bordeaux
 LOCATION:le node\, 12 rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/239873606/

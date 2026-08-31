@@ -1,0 +1,7 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Événements wip-bordeaux//Bordeaux Community Events//FR
+X-WR-CALDESC:Calendrier des événements de la communauté wip-bordeaux
+X-WR-CALNAME:Événements wip-bordeaux
+X-WR-TIMEZONE:Europe/Paris
+END:VCALENDAR

@@ -5,6 +5,43 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxkt
 X-WR-CALNAME:Événements bordeauxkt
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:15 ans de Kotlin 🎂
+DTSTART;TZID=Europe/Paris:20260922T190000
+DTEND;TZID=Europe/Paris:20260922T210000
+UID:https://www.eventbrite.fr/e/15-ans-de-kotlin-tickets-1994958612914@com
+ munity-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/15-ans-de-kotlin-tickets-1994
+ 958612914\n📍 Le Node\, 12 Rue des Faussets\, 33000 Bordeaux\n\nKotlin f
+ ête ses 15 ans cette année ! Venez fêter son anniversaire avec nous\, a
+ u Node\, le 22 septembre 2026.\nAu programme\, des échanges\, un retour s
+ ur l'histoire de Kotlin et son évolution au fil des années\, et même qu
+ elques activités !\n\nTous les profils sont les bienvenus\, pas besoin d'
+ être dev ou même de connaître le langage. Par ailleurs\, c'est l'évén
+ ement idéal si vous souhaitez le découvrir !\n\nCommunauté: bordeauxkt
+LOCATION:Le Node\, 12 Rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/15-ans-de-kotlin-tickets-1994958612914
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pub Quiz #2
+DTSTART;TZID=Europe/Paris:20260127T180000
+DTEND;TZID=Europe/Paris:20260127T200000
+UID:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
+ quiz-mobile-pub-quiz-get-together-2/@community-events
+DESCRIPTION:🔗 https://gdg.community.dev/events/details/google-gdg-borde
+ aux-presents-quiz-mobile-pub-quiz-get-together-2/\n📍 Le Connemara\, 18 
+ Cours d'Albret\, 33000 Bordeaux\n\nBordeauxKt\, le GDG Bordeaux et Cocoahe
+ ad Bordeaux s'allient à nouveau pour vous proposer un nouveau quiz sur le
+  développement mobile ! Quelques lots seront à gagner ! 👀\n\nPas d'in
+ quiétude si vous ne connaissez pas le développement mobile\, c'est aussi
+  l'occasion de nous retrouver et de profiter d'un moment tous ensemble. 
+ 🍻\n\nCommunauté: bordeauxkt
+LOCATION:Le Connemara\, 18 Cours d'Albret\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
+ quiz-mobile-pub-quiz-get-together-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Caupain : comment vous aussi\, vous pouvez créer un outil open so
  urce
 DTSTART;TZID=Europe/Paris:20250911T190000
@@ -33,24 +70,5 @@ LOCATION:Deezer\, 20 Rue Saint-François\, 33000 Bordeaux
 TZID:Europe/Paris
 URL:https://www.eventbrite.fr/e/billets-caupain-comment-vous-aussi-vous-po
  uvez-creer-un-outil-open-source-1500038147479?aff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pub Quiz #2
-DTSTART;TZID=Europe/Paris:20260127T180000
-DTEND;TZID=Europe/Paris:20260127T200000
-UID:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
- quiz-mobile-pub-quiz-get-together-2/@community-events
-DESCRIPTION:🔗 https://gdg.community.dev/events/details/google-gdg-borde
- aux-presents-quiz-mobile-pub-quiz-get-together-2/\n📍 Le Connemara\, 18 
- Cours d'Albret\, 33000 Bordeaux\n\nBordeauxKt\, le GDG Bordeaux et Cocoahe
- ad Bordeaux s'allient à nouveau pour vous proposer un nouveau quiz sur le
-  développement mobile ! Quelques lots seront à gagner ! 👀\n\nPas d'in
- quiétude si vous ne connaissez pas le développement mobile\, c'est aussi
-  l'occasion de nous retrouver et de profiter d'un moment tous ensemble. 
- 🍻\n\nCommunauté: bordeauxkt
-LOCATION:Le Connemara\, 18 Cours d'Albret\, 33000 Bordeaux
-TZID:Europe/Paris
-URL:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
- quiz-mobile-pub-quiz-get-together-2/
 END:VEVENT
 END:VCALENDAR

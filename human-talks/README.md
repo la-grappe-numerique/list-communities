@@ -17,7 +17,22 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/human-talks/events.ics](/human-talks/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 08 septembre 2026 à 18:30 | HumanTalks Bordeaux #15 — Transformer la tech, réinventer l'organisation | 16 Rue Succursale, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/316194450/ |
+
 ## 📆 Past Events
+
+<details>
+<summary>2026</summary>
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 04 juin 2026 à 18:30 | Human Talks Bdx #14 - Ed. spéciale FlowCon | 12 RUE DES FAUSSETS, BORDEAUX | https://www.meetup.com/human-talks-bordeaux/events/314639269/ |
+| Jeudi 02 avril 2026 à 18:30 | Human Talks x FrenchProduit Bdx - Parcours & transformations de Product Managers | 107 Cours Balguerie Stuttenberg, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/313793684/ |
+</details>
 
 <details>
 <summary>2025</summary>

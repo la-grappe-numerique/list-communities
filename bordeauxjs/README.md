@@ -14,12 +14,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](/bordeauxjs/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Jeudi 12 mars 2026 à 19:00 | jq - deal with JSON like a boss | Le node, 12 Rue des Faussets, 33000 Bordeaux | https://luma.com/w3tdxut2 |
-
 ## 📆 Past Events
 
 <details>
@@ -27,6 +21,10 @@ Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](/bordea
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mardi 30 juin 2026 à 19:00 | Vue.js, Nuxt & AI | Cité Numérique - Locaux de HelloAsso, 2 Rue Marc Sangnier, 33130 Bègles, France | https://luma.com/kim18lag |
+| Mardi 12 mai 2026 à 18:30 | Et si vous arrêtiez de coder votre API avant de l'avoir pensée ? | Le Node, 12 rue des Faussets 33000 Bordeaux | https://luma.com/r2vnp9kp |
+| Jeudi 23 avril 2026 à 19:00 | Automatiser ses mises en production avec GitHub Actions | 5 Quai Lawton 33300 Bordeaux | https://luma.com/f11067ro |
+| Jeudi 12 mars 2026 à 19:00 | jq - deal with JSON like a boss | Le node, 12 Rue des Faussets, 33000 Bordeaux | https://luma.com/w3tdxut2 |
 | Mercredi 28 janvier 2026 à 18:30 | Angular v21: Le framework se met à jour ! | Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France | https://luma.com/8ioijhjc |
 </details>
 

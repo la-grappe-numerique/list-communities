@@ -5,35 +5,132 @@ X-WR-CALDESC:Calendrier des événements de la communauté mtg-bordeaux
 X-WR-CALNAME:Événements mtg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Data & IA sous contrôle
+DTSTART;TZID=Europe/Paris:20260702T183000
+DTEND;TZID=Europe/Paris:20260702T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/315181282/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/315181282/\n
+ 📍 Thélio Bordeaux\, 235 rue Judaïque\, Bordeaux\, fr\n\n**MTG:Bordeau
+ x x ApérOps**\n\nPour ce meetup\, nous avons le plaisir de co-organiser l
+ 'événement avec [ApérOps](https://bordeaux-aperops.com/) et d'être acc
+ ueillis par [Thélio](https://www.thelio.fr/)\n\n**📅 Programme de l’
+ événement**\n*18h30* – **Bienvenue & Introduction**\nPrésentation du 
+ déroulé de la soirée et des intervenant·e·s.\n*18h40* – **Démarrag
+ e des talks**\nNous aurons la chance d'accueillir 3 personnes qui nous pr
+ ésenteront chacune un talk :\n\\- "Data Contracts : En finir avec les pan
+ nes d'ingestion" par Youva Gharout\n\\- "15 minutes pour comprendre Micros
+ oft Foundry" par Iuliia Mazur\n\\- "Gouvernance et anonymisation des donn
+ ées dans les flux LLM" par Pierre Chaumont\n\n*20h* – **Networking**\nP
+ rofitez d’un moment convivial.\n\n**📍 Lieu de l’événement :** Th
+ élio\n235 rue Judaïque\, 33000 Bordeaux\n\n**📜 Code de conduite**\nNo
+ us nous engageons à créer un environnement inclusif et accueillant pour 
+ tous les participant∙e∙s. Merci de consulter notre [Code de conduite](
+ https://www.mtg-france.org/coc) avant de participer.\n\nCommunauté: mtg-b
+ ordeaux
+LOCATION:Thélio Bordeaux\, 235 rue Judaïque\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/315181282/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Microsoft Build 2026 //localhost:bordeaux
+DTSTART;TZID=Europe/Paris:20260608T173000
+DTEND;TZID=Europe/Paris:20260608T193000
+UID:https://www.meetup.com/mtg-bordeaux/events/314984774/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/314984774/\n
+ 📍 École de Turing\, 353 Boulevard du Président Wilson 7ème étage\, 
+ Bordeaux\, fr\n\n**IMPORTANT : MERCI DE VOUS INSCRIRE SUR LA [PAGE MICROSO
+ FT REACTOR](https://developer.microsoft.com/fr-fr/reactor/events/27221/) P
+ OUR PARTICIPER A L'ÉVÉNEMENT**\n\n**Microsoft Build //localhost:bordeaux
+ **\nNous sommes heureux de vous inviter à la version localhost de la Micr
+ osoft Build. Un événement local et communautaire à Bordeaux pour faire 
+ suite à la Microsoft Build. On parlera des nouveautés annoncées à la B
+ uild et de différentes thématiques à commencer par l'IA et Azure. On au
+ ra le plaisir\nd'être accueilli par [Programisto](https://programisto.fr/
+ ) à l'[École de Turing](https://ecoledeturing.fr/).\n\nExceptionnellemen
+ t\, les inscriptions se feront à cette [adresse](https://developer.micros
+ oft.com/fr-fr/reactor/events/27221/).\n\n**📅 Programme de l’événeme
+ nt**\n*Démarrage à 17h30*\n**Accueil & Networking & Introduction**\nRenc
+ ontrez d’autres développ·eurs·euses et préparez-vous pour plusieurs 
+ sessions passionnantes.\n**Panel**\nUne table ronde pour débriefer des an
+ nonces de la Microsoft Build\nAvec Alexandre Nédélec (MVP)\, Christian B
+ onnaud\, Xavier Noya\, Romain Serre (MVP)\, Manitra Rambelon\, Arnaud Peti
+ tjean (Microsoft)\n**Lab**\nFrom zero to deployed on Azure with AI agent\n
+ **Talk**\nDévelopper souverain : AKS\, AI Foundry Local et GitHub Enterpr
+ ise sur Azure Local\n\n**Clôture & Networking**\nProfitez d’un moment c
+ onvivial.\n\n📺 **Live**\nPour ceux et celles à distance l'événement 
+ est diffusé en direct sur YouTube : https://youtube.com/live/L9rMyhtrHnI
+ \n\n**📍 Lieu de l’événement :** École de Turing\n353 Boulevard du 
+ Président Wilson 7ème étage\, 33200 Bordeaux\n\n**📜 Code de conduite
+ **\nNous nous engageons à créer un environnement inclusif et accueillant
+  pour tous les participant∙e∙s. Merci de consulter notre [Code de cond
+ uite](https://www.mtg-france.org/coc) avant de participer.\n\nCommunauté:
+  mtg-bordeaux
+LOCATION:École de Turing\, 353 Boulevard du Président Wilson 7ème étag
+ e\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/314984774/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GitHub Copilot Dev Days | Bordeaux
+DTSTART;TZID=Europe/Paris:20260430T180000
+DTEND;TZID=Europe/Paris:20260430T200000
+UID:https://www.meetup.com/mtg-bordeaux/events/314271013/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/314271013/\n
+ 📍 Avanade Bordeaux\, 55 Cours Georges Clemenceau\, Bordeaux\, fr\n\n**G
+ itHub Copilot Dev Days – Bordeaux**\n\nRejoignez-nous pour un évènemen
+ t tech consacré au développement assisté par l'IA avec **GitHub Copilot
+ .** Au programme les dernières nouveautés\, des retours d'expérience ai
+ nsi que des démos. Que vous soyez débutant·e ou développ·eur·euse ex
+ périmenté·e\, cet événement est fait pour vous !\n\n**📅 Programme 
+ de l’événement**\n*18h* – **Accueil & Networking**\nRencontrez d’a
+ utres développ·eurs·euses et préparez-vous pour une session passionnan
+ te.\n*18h10* – **Bienvenue & Introduction**\nPrésentation du déroulé 
+ de la soirée et des intervenant·e·s.\n*18h20* – **Démarrage des pré
+ sentations techniques (Nouveautés GitHub Copilot\, GitHub Copilot CLI\, A
+ gentic Workflows\, ... programme détaillé à venir)**\n*20h35* – **Cl
+ ôture & Networking**\nProfitez d’un moment de networking.\n\n**📍 Lie
+ u de l’événement :** L'événement aura lieu dans les locaux d'Avanade
+  Bordeaux\, au 55 cours Georges Clémenceau\, 33000 Bordeaux\n\n💻 **Pen
+ sez à apporter votre ordinateur portable si jamais vous voulez expérimen
+ ter les démos et le lab en même temps que nous !**\n\n**📜 Code de con
+ duite**\nNous nous engageons à créer un environnement inclusif et accuei
+ llant pour tous les participants. Merci de consulter notre [Code de condui
+ te](https://www.mtg-france.org/coc) avant de participer.\n\nCommunauté: m
+ tg-bordeaux
+LOCATION:Avanade Bordeaux\, 55 Cours Georges Clemenceau\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/314271013/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IA : Productivité\, Données et réalité
 DTSTART;TZID=Europe/Paris:20260204T180000
 DTEND;TZID=Europe/Paris:20260204T200000
 UID:https://www.meetup.com/mtg-bordeaux/events/312868461/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/312868461/\n
  📍 École de Turing\, 353 Boulevard du Président Wilson 7ème étage\, 
- Bordeaux\, fr\n\n**MTG:Bordeaux x Women in tech**\n\nPour ce 9ème meetup\
- , nous avons le plaisir de co-organiser l'événement avec [Women in tech 
- Bordeaux](https://wit-bdx.com/) et d'être accueilli par [Programisto](htt
- ps://programisto.fr/) à l'[École de Turing](https://ecoledeturing.fr/).\
- n\n**📅 Programme de l’événement**\n*18h00* – **Accueil & Networki
- ng**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour 
- plusieurs sessions passionnantes.\n*18h30* – **Bienvenue & Introduction*
- *\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*18
- h45* – **Démarrage des talks**\nNous aurons la chance d'accueillir 3 pe
- rsonnes qui nous présenterons chacune un talk :\n\\- Marine Thierry \\- D
- ata Analyst & Formatrice : Comment aborder les enjeux de la complexité en
-  data\\\, et pourquoi la simplicité et l’explicabilité sont essentiell
- es à la prise de décision ?\n\\- Laura Julien \\- CTO Loré : Comment Lo
- ré utilise l’IA de Microsoft pour automatiser le traitement de milliers
-  de documents dans la réhabilitation immobilière ?\n\\- Arthur Magne \\-
-  CTPO\\\, Packmind : IA & génération de code : productivité boostée\\\
- , lucidité en danger ?\n*20h30* – **Clôture & Networking**\nProfitez d
- ’un moment convivial.\n\n**📍 Lieu de l’événement :** École de Tu
- ring\n353 Boulevard du Président Wilson 7ème étage\, 33200 Bordeaux\n\n
- **📜 Code de conduite**\nNous nous engageons à créer un environnement 
- inclusif et accueillant pour tous les participant∙e∙s. Merci de consul
- ter notre [Code de conduite](https://www.mtg-france.org/coc) avant de part
- iciper.\n\nCommunauté: mtg-bordeaux
+ Bordeaux\, fr\n\n**MTG:Bordeaux x Women in tech**\n\nPour ce 9ème meetup
+ \, nous avons le plaisir de co-organiser l'événement avec [Women in tech
+  Bordeaux](https://wit-bdx.com/) et d'être accueilli par [Programisto](ht
+ tps://programisto.fr/) à l'[École de Turing](https://ecoledeturing.fr/).
+ \n\n**📅 Programme de l’événement**\n*18h00* – **Accueil & Network
+ ing**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour
+  plusieurs sessions passionnantes.\n*18h30* – **Bienvenue & Introduction
+ **\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*1
+ 8h45* – **Démarrage des talks**\nNous aurons la chance d'accueillir 3 p
+ ersonnes qui nous présenterons chacune un talk :\n\\- Marine Thierry \\- 
+ Data Analyst & Formatrice : Comment aborder les enjeux de la complexité e
+ n data\\\, et pourquoi la simplicité et l’explicabilité sont essentiel
+ les à la prise de décision ?\n\\- Laura Julien \\- CTO Loré : Comment L
+ oré utilise l’IA de Microsoft pour automatiser le traitement de millier
+ s de documents dans la réhabilitation immobilière ?\n\\- Arthur Magne \
+ \- CTPO\\\, Packmind : IA & génération de code : productivité boostée
+ \\\, lucidité en danger ?\n*20h30* – **Clôture & Networking**\nProfite
+ z d’un moment convivial.\n\n**📍 Lieu de l’événement :** École de
+  Turing\n353 Boulevard du Président Wilson 7ème étage\, 33200 Bordeaux
+ \n\n**📜 Code de conduite**\nNous nous engageons à créer un environnem
+ ent inclusif et accueillant pour tous les participant∙e∙s. Merci de co
+ nsulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de 
+ participer.\n\nCommunauté: mtg-bordeaux
 LOCATION:École de Turing\, 353 Boulevard du Président Wilson 7ème étag
  e\, Bordeaux\, fr
 TZID:Europe/Paris
@@ -58,21 +155,21 @@ DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/312635439/\n
  – **AI Discipline\, From Vibe Coding to Spec Driven Development with Git
  Hub Copilot par Tugdual Grall**\nAperçu des nouvelles fonctionnalités an
  noncées lors du GitHub Universe et des dernières mises à jour : Coding 
- Agent\, Plan Mode\, Custom Agents\, Mission Control\, Github Code Quality\
- , CLI Copilot\n\\- Prenez un projet existant et montrez comment le context
- e transforme Copilot en un expert de votre base de code \\(démonstration 
- en direct\\)\n\\- MCP \\(Model Context Protocol\\) : connectez Copilot à 
- vos outils et à vos données\n\\- Lancez plusieurs agents de codage en pa
- rallèle et orchestrez à grande échelle \\(démonstration en direct\\)\n
- \\- Commentaires et cas d'utilisation spécifiques\n\\- Conseils pour dém
- arrer\n*20h30* – **Clôture\, Pizza\, Drinks & Networking**\nProfitez d
- ’un moment convivial.\n\n**📍 Lieu de l’événement :** Betclic Aren
- a\n117 Quai de Bacalan\, 33300 Bordeaux\n[https://maps.app.goo.gl/wcZPDYWc
- v112Mist7](https://maps.app.goo.gl/wcZPDYWcv112Mist7)\n\n**📜 Code de co
- nduite**\nNous nous engageons à créer un environnement inclusif et accue
- illant pour tous les participants. Merci de consulter notre [Code de condu
- ite](https://www.mtg-france.org/coc) avant de participer.\n\nCommunauté: 
- mtg-bordeaux
+ Agent\, Plan Mode\, Custom Agents\, Mission Control\, Github Code Quality
+ \, CLI Copilot\n\\- Prenez un projet existant et montrez comment le contex
+ te transforme Copilot en un expert de votre base de code \\(démonstration
+  en direct\\)\n\\- MCP \\(Model Context Protocol\\) : connectez Copilot à
+  vos outils et à vos données\n\\- Lancez plusieurs agents de codage en p
+ arallèle et orchestrez à grande échelle \\(démonstration en direct\\)
+ \n\\- Commentaires et cas d'utilisation spécifiques\n\\- Conseils pour d
+ émarrer\n*20h30* – **Clôture\, Pizza\, Drinks & Networking**\nProfitez
+  d’un moment convivial.\n\n**📍 Lieu de l’événement :** Betclic Ar
+ ena\n117 Quai de Bacalan\, 33300 Bordeaux\n[https://maps.app.goo.gl/wcZPDY
+ Wcv112Mist7](https://maps.app.goo.gl/wcZPDYWcv112Mist7)\n\n**📜 Code de 
+ conduite**\nNous nous engageons à créer un environnement inclusif et acc
+ ueillant pour tous les participants. Merci de consulter notre [Code de con
+ duite](https://www.mtg-france.org/coc) avant de participer.\n\nCommunauté
+ : mtg-bordeaux
 LOCATION:Betclic\, 117 Quai de Bacalan\, Bordeaux\, fr
 TZID:Europe/Paris
 URL:https://www.meetup.com/mtg-bordeaux/events/312635439/
@@ -131,18 +228,18 @@ DTSTART;TZID=Europe/Paris:20250410T183000
 DTEND;TZID=Europe/Paris:20250410T203000
 UID:https://www.meetup.com/mtg-bordeaux/events/306572236/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/306572236/\n
- 📍 Hager\, 198 Av. du Haut Lévêque\, 33600 Pessac\, Pessac\, France\n\
- nCe second meetup de 2025 pour le MTG:Bordeaux se déroulera dans les loca
- ux d'Hager le jeudi 10 avril 2025 :\n[198 Av. du Haut Lévêque\, 33600 Pe
- ssac](https://www.google.fr/maps/place/Hager/@44.7824611\,-0.6532651\,17z/
- data=!3m1!5s0xd54d93065b8aad1:0x7924d24c0b3a37e0!4m14!1m7!3m6!1s0xd54d9f80
- e1fdd89:0x3a6b762f64d3b74a!2sHager!8m2!3d44.7824573!4d-0.6506902!16s%2Fg%2
- F1pp2vkg4l!3m5!1s0xd54d9f80e1fdd89:0x3a6b762f64d3b74a!8m2!3d44.7824573!4d-
- 0.6506902!16s%2Fg%2F1pp2vkg4l?entry=ttu&g_ep=EgoyMDI1MDMwMy4wIKXMDSoASAFQA
- w%3D%3D)\nVoici le programme de la soirée :\n* 18h00 - 18h30 => Accueil* 
- 18H30 - 18H40 => Introduction* 18H40 - 19h25 => Talk 1* 19h25 - 20h10 => T
- alk 2* 20h10 => Moment convivial\nLes détails du programme (talks et spea
- kers) sont communiqués prochainement.\n\nCommunauté: mtg-bordeaux
+ 📍 Hager\, 198 Av. du Haut Lévêque\, 33600 Pessac\, Pessac\, France\n
+ \nCe second meetup de 2025 pour le MTG:Bordeaux se déroulera dans les loc
+ aux d'Hager le jeudi 10 avril 2025 :\n[198 Av. du Haut Lévêque\, 33600 P
+ essac](https://www.google.fr/maps/place/Hager/@44.7824611\,-0.6532651\,17z
+ /data=!3m1!5s0xd54d93065b8aad1:0x7924d24c0b3a37e0!4m14!1m7!3m6!1s0xd54d9f8
+ 0e1fdd89:0x3a6b762f64d3b74a!2sHager!8m2!3d44.7824573!4d-0.6506902!16s%2Fg%
+ 2F1pp2vkg4l!3m5!1s0xd54d9f80e1fdd89:0x3a6b762f64d3b74a!8m2!3d44.7824573!4d
+ -0.6506902!16s%2Fg%2F1pp2vkg4l?entry=ttu&g_ep=EgoyMDI1MDMwMy4wIKXMDSoASAFQ
+ Aw%3D%3D)\nVoici le programme de la soirée :\n* 18h00 - 18h30 => Accueil*
+  18H30 - 18H40 => Introduction* 18H40 - 19h25 => Talk 1* 19h25 - 20h10 => 
+ Talk 2* 20h10 => Moment convivial\nLes détails du programme (talks et spe
+ akers) sont communiqués prochainement.\n\nCommunauté: mtg-bordeaux
 LOCATION:Hager\, 198 Av. du Haut Lévêque\, 33600 Pessac\, Pessac\, Franc
  e
 TZID:Europe/Paris
@@ -200,8 +297,8 @@ DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/300232411/\n
  tting Started with Modern Infrastructure as Code par Engin Diri\\- Industr
  ialiser la configuration de ses dépôts Github avec de l'IaC par Alexandr
  e Nédélec\n\nCommunauté: mtg-bordeaux
-LOCATION:Wellio Bordeaux Cité Numérique\, 2 Rue Marc Sangnier\, Bègles\
- , France
+LOCATION:Wellio Bordeaux Cité Numérique\, 2 Rue Marc Sangnier\, Bègles
+ \, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/mtg-bordeaux/events/300232411/
 END:VEVENT

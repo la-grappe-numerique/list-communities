@@ -5,26 +5,96 @@ X-WR-CALDESC:Calendrier des événements de la communauté agile-bordeaux
 X-WR-CALNAME:Événements agile-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:After work post-AGFr
-DTSTART;TZID=Europe/Paris:20260414T183000
-DTEND;TZID=Europe/Paris:20260414T203000
-UID:https://www.linkedin.com/events/7434682990204698624@community-events
-DESCRIPTION:🔗 https://www.linkedin.com/events/7434682990204698624\n📍
-  Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  33700 MERIG
- NAC\n\nFin mars\, Bordeaux devient la capitale du jeu agile avec l’arriv
- ée d’Agile Games France !\n\nSi l'événement national affiche complet 
- (https://agilegamesfrance.fr/doku.php?id=evenement_2026)\, l’énergie\, 
- elle\, circule partout. Pour marquer le coup à notre échelle locale\, je
-  vous propose de nous retrouver pour un afterwork informel.\n\nL'idée ? S
- implement se réunir entre passionnés (que vous ayez participé à l'év
- énement ou non) pour :\n- Débriefer les ateliers marquants pour les chan
- ceux qui y étaient.\n- Découvrir de nouveaux ateliers et mécaniques pou
- r ceux qui n'ont pas pu avoir de place.\n- Renforcer les liens de notre co
- mmunauté bordelaise\, tout simplement.\n\nCommunauté: agile-bordeaux
-LOCATION:Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  337
- 00 MERIGNAC
+SUMMARY:Club de lecture 26.6 - Factfulness
+DTSTART;TZID=Europe/Paris:20261010T103000
+DTEND;TZID=Europe/Paris:20261010T123000
+UID:https://the-playground.fr/m/club-de-lecture-26-6-factfulness@community
+ -events
+DESCRIPTION:🔗 https://the-playground.fr/m/club-de-lecture-26-6-factfuln
+ ess\n📍 Le Node\, 12 Rue des Faussets\, Bordeaux\, France\n\nLe club de 
+ lecture 26.6 se tiendra samedi 10 octobre de 10h30 à 12h30 au Node.\n\nLe
+  livre sélectionné est “Factfulness” de Hans Rosling.\n\n“Nous nou
+ s croyons rationnels et informés. Ce n'est pas le cas. Nous nous trompons
+  systématiquement\, quel que soit notre niveau d'études\, y compris - pe
+ ut-être même plus - sur les sujets que nous croyons bien connaître. Mai
+ s\, comme le met au jour Hans Rosling\, statisticien de génie et star des
+  conférences TED\, les raisons pour lesquelles nous nous trompons sont to
+ ujours les mêmes ! Hérité d'un ancestral instinct de survie\, c'est le 
+ fonctionnement même de notre cerveau qui nous induit en erreur : en nous 
+ incitant à chercher un coupable à tout phénomène \; en résumant la pl
+ upart des problèmes en une stérile opposition binaire \; en nous intiman
+ t de réagir dans l'urgence (confondant ainsi peur et danger) \; en étant
+  facilement ébloui par les gros chiffres \; en dramatisant à l'excès (e
+ t en adorant ça)... Ce livre nous apprend à repérer les situations où 
+ nos biais de pensée déforment notre vision des choses. Indispensable pou
+ r comprendre le monde tel qu'il est\, Factfulness permet de prendre\, enfi
+ n\, la saine habitude de ne fonder son opinion que sur des faits.”\n\n**
+ ***\n\nLe club de lecture est un moment de partage et d’échange autour 
+ d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins une pa
+ rtie significative.\n\nLe nombre de places étant limité à 15\, merci de
+  vous désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommuna
+ uté: agile-bordeaux
+LOCATION:Le Node\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
-URL:https://www.linkedin.com/events/7434682990204698624
+URL:https://the-playground.fr/m/club-de-lecture-26-6-factfulness
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de lecture 26.5 - Les livres de l’été
+DTSTART;TZID=Europe/Paris:20260905T103000
+DTEND;TZID=Europe/Paris:20260905T123000
+UID:https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete@c
+ ommunity-events
+DESCRIPTION:🔗 https://the-playground.fr/m/club-de-lecture-26-5-les-livr
+ es-de-l-ete\n📍 Le Node\, 12 Rue des Faussets\, Bordeaux\, France\n\nLe 
+ club de lecture 26.5 se tiendra samedi 5 septembre de 10h30 à 12h30 au No
+ de.\n\nPour cette session au format estival nous vous proposons de venir p
+ artager vos lectures de l’été.\n\n*****\n\nLe club de lecture est un m
+ oment de partage et d’échange autour d’un livre.\nLes participants on
+ t lu l’ouvrage ou tout au moins une partie significative.\n\nLe nombre d
+ e places étant limité à 15\, merci de vous désinscrire si vous ne pouv
+ ez plus vous joindre à nous.\n\nCommunauté: agile-bordeaux
+LOCATION:Le Node\, 12 Rue des Faussets\, Bordeaux\, France
+TZID:Europe/Paris
+URL:https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de lecture 26.4 - L’éloge de la fuite
+DTSTART;TZID=Europe/Paris:20260627T100000
+DTEND;TZID=Europe/Paris:20260627T120000
+UID:https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite@c
+ ommunity-events
+DESCRIPTION:🔗 https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-
+ de-la-fuite\n📍 Le Node\, 12 rue des Faussets\, 33000 BORDEAUX\n\nLe clu
+ b de lecture 26.4 se tiendra samedi 27 juin de 10h00 à 12h00 au Node.\n\n
+ Le livre sélectionné est “L’éloge de la fuite” de Henri Laborit.
+ \n\n"Se révolter\, c'est courir à sa perte\, car la révolte\, si elle s
+ e réalise en groupe\, retrouve aussitôt une échelle hiérarchique de so
+ umission à l'intérieur du groupe\, et la révolte\, seule\, aboutit rapi
+ dement à la soumission du révolté... Il ne reste plus que la fuite."\nH
+ enri Laborit pose\, à la lumière des découvertes biologiques\, la quest
+ ion de notre libre arbitre\, de notre personnalité même. La politique\, 
+ la société\, tout prend dès lors une autre dimension.\n\n*****\n\nLe cl
+ ub de lecture est un moment de partage et d’échange autour d’un livre
+ .\nLes participants ont lu l’ouvrage ou tout au moins une partie signifi
+ cative.\n\nLe nombre de places étant limité à 15\, merci de vous désin
+ scrire si vous ne pouvez plus vous joindre à nous.\n\nCommunauté: agile-
+ bordeaux
+LOCATION:Le Node\, 12 rue des Faussets\, 33000 BORDEAUX
+TZID:Europe/Paris
+URL:https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de lecture 26.3 - Le travail: Pourquoi travaillons-nous ?
+DTSTART;TZID=Europe/Paris:20260425T100000
+DTEND;TZID=Europe/Paris:20260425T120000
+UID:https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e17580184b26@commu
+ nity-events
+DESCRIPTION:🔗 https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e1758
+ 0184b26\n📍 Le Node\, 12 Rue des Faussets\, 33000\, Bordeaux\n\n\n\nComm
+ unauté: agile-bordeaux
+LOCATION:Le Node\, 12 Rue des Faussets\, 33000\, Bordeaux
+TZID:Europe/Paris
+URL:https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e17580184b26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Games France 2026 - J2
@@ -111,16 +181,16 @@ DESCRIPTION:🔗 https://agilegamesfrance.fr/doku.php?id=evenement_2026\n
  tion. L'organisation est particulière : elle suit le format du Forum Ouve
  rt. Ici\, pas de spectateurs passifs\, uniquement des acteurs.\n\nC'est po
  ur cette raison que vous trouverez deux types de places :\n- "Producteurs"
-  : Pour ceux qui souhaitent proposer un atelier\, un jeu\, une simulation\
- , ou même en créer un nouveau sur la base d'une problématique. L'idée 
- est simple : tout le monde contribue à la richesse des échanges.\n- "Pre
- mière fois" : Pour ceux qui découvrent cet univers\, qu'ils aient déjà
-  une âme de producteur ou pas encore. C'est aussi l'environnement idéal 
- pour se lancer.\n\nRendez-vous à Bordeaux les **27 et 28 mars 2026**.\n\n
- Prêt à changer de perspective par l'expérience ?\n\n👉 Billetterie et
-  infos : https://yp.events/eefdd201-32d4-4300-bd0f-a9423b258d89/Agile-Game
- s-France-2026\n\nNous vous attendons pour cette nouvelle édition de **Agi
- le Games France**\n\nCommunauté: agile-bordeaux
+  : Pour ceux qui souhaitent proposer un atelier\, un jeu\, une simulation
+ \, ou même en créer un nouveau sur la base d'une problématique. L'idée
+  est simple : tout le monde contribue à la richesse des échanges.\n- "Pr
+ emière fois" : Pour ceux qui découvrent cet univers\, qu'ils aient déj
+ à une âme de producteur ou pas encore. C'est aussi l'environnement idéa
+ l pour se lancer.\n\nRendez-vous à Bordeaux les **27 et 28 mars 2026**.\n
+ \nPrêt à changer de perspective par l'expérience ?\n\n👉 Billetterie 
+ et infos : https://yp.events/eefdd201-32d4-4300-bd0f-a9423b258d89/Agile-Ga
+ mes-France-2026\n\nNous vous attendons pour cette nouvelle édition de **A
+ gile Games France**\n\nCommunauté: agile-bordeaux
 LOCATION:Eklo Bordeaux 10 Rue de la Gare d'Orléans\, 33100 Bordeaux
 TZID:Europe/Paris
 URL:https://agilegamesfrance.fr/doku.php?id=evenement_2026
@@ -227,12 +297,12 @@ DESCRIPTION:🔗 https://www.linkedin.com/events/clubdelecture25-6-influen
  e les moyens employés par les spécialistes de la persuasion pour les exp
  loiter à notre insu. Il nous apprend à nous en défendre\, en tournant c
  es secrets à notre avantage. Grâce à ce livre indispensable\, vous ne d
- irez plus jamais « oui »\, alors que vous pensez « non ».”\n\n*****\
- n\nLe club de lecture est un moment de partage et d’échange autour d’
- un livre.\nLes participants ont lu l’ouvrage ou tout au moins une partie
-  significative.\n\nLe nombre de places étant limité à 15\, merci de vou
- s désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunauté
- : agile-bordeaux
+ irez plus jamais « oui »\, alors que vous pensez « non ».”\n\n*****
+ \n\nLe club de lecture est un moment de partage et d’échange autour d
+ ’un livre.\nLes participants ont lu l’ouvrage ou tout au moins une par
+ tie significative.\n\nLe nombre de places étant limité à 15\, merci de 
+ vous désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunau
+ té: agile-bordeaux
 LOCATION:Le Node\, 12 rue des Faussets\, 33000 Bordeaux
 TZID:Europe/Paris
 URL:https://www.linkedin.com/events/clubdelecture25-6-influenceetma7381040
@@ -270,12 +340,12 @@ DTSTART;TZID=Europe/Paris:20251023T183000
 DTEND;TZID=Europe/Paris:20251023T203000
 UID:https://www.linkedin.com/events/7380197152666333184/@community-events
 DESCRIPTION:🔗 https://www.linkedin.com/events/7380197152666333184/\n
- 📍 Capgemini Sud\, 19 all James Watt\, Mérignac - Tour D - 2eme étage\
- n\nUne nouvelle collab' avec #SeriousGamersBordeaux facilité par la grapp
- e numérique.\nNicolas nous propose un atelier pour vivre **l'impact de la
-  mesure lorsqu'elle s'érige en objectif.**\nCe sera le 23 octobre et nous
-  serons hébergés par Capgemini (Merci Alain).\n\nCommunauté: agile-bord
- eaux
+ 📍 Capgemini Sud\, 19 all James Watt\, Mérignac - Tour D - 2eme étage
+ \n\nUne nouvelle collab' avec #SeriousGamersBordeaux facilité par la grap
+ pe numérique.\nNicolas nous propose un atelier pour vivre **l'impact de l
+ a mesure lorsqu'elle s'érige en objectif.**\nCe sera le 23 octobre et nou
+ s serons hébergés par Capgemini (Merci Alain).\n\nCommunauté: agile-bor
+ deaux
 LOCATION:Capgemini Sud\, 19 all James Watt\, Mérignac - Tour D - 2eme ét
  age
 TZID:Europe/Paris
@@ -352,25 +422,25 @@ DTEND;TZID=Europe/Paris:20250916T203000
 UID:https://www.meetup.com/agile-bordeaux/events/309810368/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/309810368/\n
- 📍 Capgemini\, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage\
- n\nQue diriez-vous d'une soirée Serious Game ?\nC'est exactement ce que n
- ous vous proposons en partenariat avec Serious Gamers in Bordeaux (https:/
- /www.meetup.com/seriousgamers-bordeaux).\nPour cette belle occasion\, c'es
- t Capgemini qui nous accueille\, et c'est Alain qui nous a concocté un at
- elier : **l'usine des animaux en briques**.\n\n_Notre usine fabrique des a
- nimaux en briques pour le plus grand plaisir des petits et des grands depu
- is plus de 50 ans.\nDepuis quelques temps nos clients trouvent que nos dé
- lais de fabrications sont trop importants. Et nous cherchons des solutions
-  pour leur livrer plus vite leurs commandes.\nPour cela nous avons besoin 
- d'un équipe de professionnels experts en assemblages de briques.\nToi qui
-  lit cela : sauras tu relever le défi et nous sauver de la banqueroute ?\
- nNous désespérons de trouver une solution. Sera tu la bonne personne ?\n
- Au travers de la manipulation des briques LEGO nous allons explorer le flu
- x et ces aléas pour en tirer de précieux enseignements qui nous aiderons
-  certainement dans notre quotidien de professionnels_\n\nMais n'attendez p
- as plus : réservez dores et déjà votre soirée !\n\nOn vous attend donc
-  le 16 septembre à 18h30\, entrée D du bâtiment\, 2ème étage.\n\nComm
- unauté: agile-bordeaux
+ 📍 Capgemini\, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage
+ \n\nQue diriez-vous d'une soirée Serious Game ?\nC'est exactement ce que 
+ nous vous proposons en partenariat avec Serious Gamers in Bordeaux (https:
+ //www.meetup.com/seriousgamers-bordeaux).\nPour cette belle occasion\, c'e
+ st Capgemini qui nous accueille\, et c'est Alain qui nous a concocté un a
+ telier : **l'usine des animaux en briques**.\n\n_Notre usine fabrique des 
+ animaux en briques pour le plus grand plaisir des petits et des grands dep
+ uis plus de 50 ans.\nDepuis quelques temps nos clients trouvent que nos d
+ élais de fabrications sont trop importants. Et nous cherchons des solutio
+ ns pour leur livrer plus vite leurs commandes.\nPour cela nous avons besoi
+ n d'un équipe de professionnels experts en assemblages de briques.\nToi q
+ ui lit cela : sauras tu relever le défi et nous sauver de la banqueroute 
+ ?\nNous désespérons de trouver une solution. Sera tu la bonne personne ?
+ \nAu travers de la manipulation des briques LEGO nous allons explorer le f
+ lux et ces aléas pour en tirer de précieux enseignements qui nous aidero
+ ns certainement dans notre quotidien de professionnels_\n\nMais n'attendez
+  pas plus : réservez dores et déjà votre soirée !\n\nOn vous attend do
+ nc le 16 septembre à 18h30\, entrée D du bâtiment\, 2ème étage.\n\nCo
+ mmunauté: agile-bordeaux
 LOCATION:Capgemini\, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e ét
  age
 TZID:Europe/Paris
@@ -397,30 +467,30 @@ DTSTART;TZID=Europe/Paris:20250614T100000
 DTEND;TZID=Europe/Paris:20250614T120000
 UID:https://www.meetup.com/agile-bordeaux/events/307181506/?@community-eve
  nts
-DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/307181506/?\
- n📍 Lieu-dit Jambriaud à Saint-Hilaire d'Estissac\n\nLe club de lecture
-  25.3 se tiendra samedi 14 juin de 10h00 à 12h00 au lieu-dit Jambriaud à
-  Saint-Hilaire d'Estissac.\n\nLe livre sélectionné est “Ecotopia” de
-  Ernest Callenbach.\n\n“Trois États de la côte ouest des États-Unis -
-  la Californie\, l'Oregon et l'État de Washington - décident de faire s
- écession et de construire\, dans un isolement total\, une société écol
- ogique radicale\, baptisée Écotopia. Vingt ans après\, l'heure est à l
- a reprise des liaisons diplomatiques entre les deux pays. Pour la premièr
- e fois\, Écotopia ouvre ses frontières à un journaliste américain\, Wi
- lliam Weston. Au fil des articles envoyés au Times-Post\, il décrit tous
-  les aspects de la société écotopienne : les femmes au pouvoir\, l'auto
- gestion\, la décentralisation\, les vingt heures de travail hebdomadaire 
- et le recyclage systématique. D'abord sceptique\, voire cynique\, William
-  Weston vit une profonde transformation intérieure. Son histoire d'amour 
- intense avec une Écotopienne va le placer devant un dilemme crucial : cho
- isir entre deux mondes. Récit utopique publié en 1975\, traduit depuis d
- ans le monde entier\, Écotopia offre une voie concrète et désirable pou
- r demain\, et ce faisant agit comme un antidote au désastre en cours.”\
- n\n*****\n\nLe club de lecture est un moment de partage et d’échange au
- tour d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins u
- ne partie significative.\n\nLe nombre de places étant limité\, merci de 
- vous désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunau
- té: agile-bordeaux
+DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/307181506/?
+ \n📍 Lieu-dit Jambriaud à Saint-Hilaire d'Estissac\n\nLe club de lectur
+ e 25.3 se tiendra samedi 14 juin de 10h00 à 12h00 au lieu-dit Jambriaud 
+ à Saint-Hilaire d'Estissac.\n\nLe livre sélectionné est “Ecotopia” 
+ de Ernest Callenbach.\n\n“Trois États de la côte ouest des États-Unis
+  - la Californie\, l'Oregon et l'État de Washington - décident de faire 
+ sécession et de construire\, dans un isolement total\, une société éco
+ logique radicale\, baptisée Écotopia. Vingt ans après\, l'heure est à 
+ la reprise des liaisons diplomatiques entre les deux pays. Pour la premiè
+ re fois\, Écotopia ouvre ses frontières à un journaliste américain\, W
+ illiam Weston. Au fil des articles envoyés au Times-Post\, il décrit tou
+ s les aspects de la société écotopienne : les femmes au pouvoir\, l'aut
+ ogestion\, la décentralisation\, les vingt heures de travail hebdomadaire
+  et le recyclage systématique. D'abord sceptique\, voire cynique\, Willia
+ m Weston vit une profonde transformation intérieure. Son histoire d'amour
+  intense avec une Écotopienne va le placer devant un dilemme crucial : ch
+ oisir entre deux mondes. Récit utopique publié en 1975\, traduit depuis 
+ dans le monde entier\, Écotopia offre une voie concrète et désirable po
+ ur demain\, et ce faisant agit comme un antidote au désastre en cours.”
+ \n\n*****\n\nLe club de lecture est un moment de partage et d’échange a
+ utour d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins 
+ une partie significative.\n\nLe nombre de places étant limité\, merci de
+  vous désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommuna
+ uté: agile-bordeaux
 LOCATION:Lieu-dit Jambriaud à Saint-Hilaire d'Estissac
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/307181506/?
@@ -543,27 +613,27 @@ UID:https://www.meetup.com/agile-bordeaux/events/305223231/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/305223231/\n
  📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\nLe clu
- b de lecture 25.1 se tiendra samedi 8 février de 10h00 à 12h00 au Node.\
- nLe livre sélectionné est “Nexus” de Yuval Noah Harari.\n“Depuis c
- ent mille ans\, nous\, les Sapiens\, avons acquis un gigantesque pouvoir. 
- Mais malgré nos découvertes\, inventions et conquêtes\, nous sommes auj
- ourd'hui confrontés à une crise existentielle inédite. Le monde est au 
- bord de l'effondrement écologique. Les tensions politiques se multiplient
- . La désinformation abonde. Et nous entrons de plain-pied dans l'ère de 
- l'IA\, un réseau d'information qui sera bientôt capable de nous dominer.
- \nAvec ce nouvel ouvrage\, Yuval Noah Harari\, l'auteur du best-seller mon
- dial Sapiens\, revisite l'histoire de l'humanité pour comprendre comment 
- les réseaux d'information ont fait et défait notre monde. Il aborde les 
- choix cruciaux auxquels nous sommes - et serons - confrontés\, au moment 
- où l'IA révolutionne la médecine\, la guerre\, les démocraties\, et me
- nace notre existence même.\nNexus est un livre capital pour comprendre co
- mment\, en faisant des choix éclairés\, il nous est encore possible d'em
- pêcher le pire.”\n\\*\\*\\*\\*\\*\nLe club de lecture est un moment de 
- partage et d’échange autour d’un livre.Les participants ont lu l’ou
- vrage ou tout au moins une partie significative.\nLe nombre de places éta
- nt limité\, merci de vous désinscrire si vous ne pouvez plus vous joindr
- e à nous.\n\nCommunauté: agile-bordeaux\n👥 11 participant(s)\nLimité
-  à 15 places
+ b de lecture 25.1 se tiendra samedi 8 février de 10h00 à 12h00 au Node.
+ \nLe livre sélectionné est “Nexus” de Yuval Noah Harari.\n“Depuis 
+ cent mille ans\, nous\, les Sapiens\, avons acquis un gigantesque pouvoir.
+  Mais malgré nos découvertes\, inventions et conquêtes\, nous sommes au
+ jourd'hui confrontés à une crise existentielle inédite. Le monde est au
+  bord de l'effondrement écologique. Les tensions politiques se multiplien
+ t. La désinformation abonde. Et nous entrons de plain-pied dans l'ère de
+  l'IA\, un réseau d'information qui sera bientôt capable de nous dominer
+ .\nAvec ce nouvel ouvrage\, Yuval Noah Harari\, l'auteur du best-seller mo
+ ndial Sapiens\, revisite l'histoire de l'humanité pour comprendre comment
+  les réseaux d'information ont fait et défait notre monde. Il aborde les
+  choix cruciaux auxquels nous sommes - et serons - confrontés\, au moment
+  où l'IA révolutionne la médecine\, la guerre\, les démocraties\, et m
+ enace notre existence même.\nNexus est un livre capital pour comprendre c
+ omment\, en faisant des choix éclairés\, il nous est encore possible d'e
+ mpêcher le pire.”\n\\*\\*\\*\\*\\*\nLe club de lecture est un moment de
+  partage et d’échange autour d’un livre.Les participants ont lu l’o
+ uvrage ou tout au moins une partie significative.\nLe nombre de places ét
+ ant limité\, merci de vous désinscrire si vous ne pouvez plus vous joind
+ re à nous.\n\nCommunauté: agile-bordeaux\n👥 11 participant(s)\nLimit
+ é à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/305223231/
@@ -693,31 +763,31 @@ UID:https://www.meetup.com/agile-bordeaux/events/301013894/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/301013894/\n
  📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\n**Le c
- lub de lecture 24.5 se tiendra samedi 15 mai de 10h00 à 12h00 au Node.**\
- n**Le livre sélectionné est “Pour en finir avec le machin : Les désar
- rois d'un consultant en management” de Norbert Alter.**\n“Ce livre met
-  en scène Frédéric\, consultant atypique d’un grand cabinet-conseil\,
-  qui livre ici ses souvenirs professionnels et personnels. Mobilisant l’
- outrance verbale et l’humour pour se libérer de l’étouffant langage 
- des entreprises\, il abandonne toute bienséance pour décrire le « machi
- n » : les pratiques managériales absurdes qui ne cessent de remplacer le
- s solutions par des problèmes. Il décrit le marché et les dégâts de c
- e paradoxe.« Le terme de management renvoie à un sérieux indiscutable a
- lors que je suis persuadé qu’il s’agit d’une fumisterie. Il faut en
-  finir avec cette hypertrophie de la gestion qui n’a d’autre finalité
-  que d’enfler toujours plus. Sans cette pathologie\, on tirerait parti d
- e l’engagement spontané des salariés\, tout en cessant de les démobil
- iser. »Pathologiquement asocial\, Frédéric aime laisser son esprit crit
- ique divaguer\, se rebeller contre les positions d’autorité\, dire ce q
- ui est tu. Il donne à voir ce que beaucoup de salariés connaissent mais 
- n’osent confesser. Préférant l’exagération à la mesure et la liber
- té de pensée aux dogmes du management\, il propose au lecteur un texte d
- écalé et complice.”\n\\*\\*\\*\\*\\*\nLe club de lecture est un moment
-  de partage et d’échange autour d’un livre.Les participants ont lu l
- ’ouvrage ou tout au moins une partie significative.\nLe nombre de places
-  étant limité\, merci de vous désinscrire si vous ne pouvez plus vous j
- oindre à nous.\n\nCommunauté: agile-bordeaux\n👥 8 participant(s)\nLim
- ité à 15 places
+ lub de lecture 24.5 se tiendra samedi 15 mai de 10h00 à 12h00 au Node.**
+ \n**Le livre sélectionné est “Pour en finir avec le machin : Les désa
+ rrois d'un consultant en management” de Norbert Alter.**\n“Ce livre me
+ t en scène Frédéric\, consultant atypique d’un grand cabinet-conseil
+ \, qui livre ici ses souvenirs professionnels et personnels. Mobilisant l
+ ’outrance verbale et l’humour pour se libérer de l’étouffant langa
+ ge des entreprises\, il abandonne toute bienséance pour décrire le « ma
+ chin » : les pratiques managériales absurdes qui ne cessent de remplacer
+  les solutions par des problèmes. Il décrit le marché et les dégâts d
+ e ce paradoxe.« Le terme de management renvoie à un sérieux indiscutabl
+ e alors que je suis persuadé qu’il s’agit d’une fumisterie. Il faut
+  en finir avec cette hypertrophie de la gestion qui n’a d’autre finali
+ té que d’enfler toujours plus. Sans cette pathologie\, on tirerait part
+ i de l’engagement spontané des salariés\, tout en cessant de les démo
+ biliser. »Pathologiquement asocial\, Frédéric aime laisser son esprit c
+ ritique divaguer\, se rebeller contre les positions d’autorité\, dire c
+ e qui est tu. Il donne à voir ce que beaucoup de salariés connaissent ma
+ is n’osent confesser. Préférant l’exagération à la mesure et la li
+ berté de pensée aux dogmes du management\, il propose au lecteur un text
+ e décalé et complice.”\n\\*\\*\\*\\*\\*\nLe club de lecture est un mom
+ ent de partage et d’échange autour d’un livre.Les participants ont lu
+  l’ouvrage ou tout au moins une partie significative.\nLe nombre de plac
+ es étant limité\, merci de vous désinscrire si vous ne pouvez plus vous
+  joindre à nous.\n\nCommunauté: agile-bordeaux\n👥 8 participant(s)\nL
+ imité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/301013894/
@@ -741,21 +811,21 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/300755558/\n
  eniez aider notre équipe à élaborer une stratégie d'anti-sabotage ?Ret
  rouvez-nous dans cet atelier pour découvrir notre tout nouveau jeu\, dest
  iné à nous faire prendre conscience de nos sabotages et surtout à trouv
- er des solutions pour les contrer. Help !\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\
- \*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\***L
- 'atelier du PO Kesako ?**Intéressé par l’Agilité ? Vous êtes un PO (
- Product Owner) en devenir ou un PO qui a besoin d’un coup de pouce pour 
- apporter de la valeur dans ses équipes ? L'Atelier du PO est là si vous 
- souhaitez prendre confiance dans votre quotidien professionnel.L’Atelier
-  du PO est l’atelier qui permet de s’améliorer en pratiquant\, en tes
- tant ou en apprenant. Un intervenant partagera ses connaissances et répon
- dra à vos interrogations sur des sujets produits\, design ou tech.Une foi
- s par mois\, une thématique sera abordée\, libre à vous de vous inscrir
- e si le sujet vous intéresse ! Une sorte de conférence à la carte\, un 
- atelier pratique ou un échange entre pairs\, telle est la proposition que
-  vous offre l’Atelier du PO.On vous attend nombreux. A vos inscriptions 
- !\n\nCommunauté: agile-bordeaux\n👥 9 participant(s)\nLimité à 15 pla
- ces
+ er des solutions pour les contrer. Help !\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*
+ \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\***
+ L'atelier du PO Kesako ?**Intéressé par l’Agilité ? Vous êtes un PO 
+ (Product Owner) en devenir ou un PO qui a besoin d’un coup de pouce pour
+  apporter de la valeur dans ses équipes ? L'Atelier du PO est là si vous
+  souhaitez prendre confiance dans votre quotidien professionnel.L’Atelie
+ r du PO est l’atelier qui permet de s’améliorer en pratiquant\, en te
+ stant ou en apprenant. Un intervenant partagera ses connaissances et répo
+ ndra à vos interrogations sur des sujets produits\, design ou tech.Une fo
+ is par mois\, une thématique sera abordée\, libre à vous de vous inscri
+ re si le sujet vous intéresse ! Une sorte de conférence à la carte\, un
+  atelier pratique ou un échange entre pairs\, telle est la proposition qu
+ e vous offre l’Atelier du PO.On vous attend nombreux. A vos inscriptions
+  !\n\nCommunauté: agile-bordeaux\n👥 9 participant(s)\nLimité à 15 pl
+ aces
 LOCATION:Athénée Municipal\, 10 Pl. Saint-Christoly\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/300755558/
@@ -778,12 +848,12 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299362757/\n
  auteur nous apprend à utiliser l'adversité\, à savoir changer de point 
  de vue\, à avoir confiance en l'inconnu\, à établir des modes de relati
  ons différents avec soi-même et avec les autres\, à stimuler nos perfor
- mances et à ainsi élargir notre compréhension de l'existence.”\n\\*\\
- *\\*\\*\\*\nLe club de lecture est un moment de partage et d’échange au
- tour d’un livre.Les participants ont lu l’ouvrage ou tout au moins une
-  partie significative.\nLe nombre de places étant limité\, merci de vous
-  désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunauté:
-  agile-bordeaux\n👥 15 participant(s)\nLimité à 15 places
+ mances et à ainsi élargir notre compréhension de l'existence.”\n\\*\
+ \*\\*\\*\\*\nLe club de lecture est un moment de partage et d’échange a
+ utour d’un livre.Les participants ont lu l’ouvrage ou tout au moins un
+ e partie significative.\nLe nombre de places étant limité\, merci de vou
+ s désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunauté
+ : agile-bordeaux\n👥 15 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/299362757/
@@ -875,21 +945,21 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/299637290/\n
  pertise collective de notre communauté Agile.Cet atelier participatif ser
  a l'occasion d'aborder vos thématiques tout en expérimentant cette dynam
  ique participative et conviviale.\nRejoignez nous pour un atelier où chaq
- ue participant aura l'opportunité de contribuer et d'apprendre !\n\\*\\*\
- \*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*
- \\*\\*\\*\\*\\*\\*\\***L'atelier du PO Kesako ?**Intéressé par l’Agili
- té ? Vous êtes un PO (Product Owner) en devenir ou un PO qui a besoin d
- ’un coup de pouce pour apporter de la valeur dans ses équipes ? L'Ateli
- er du PO est là si vous souhaitez prendre confiance dans votre quotidien 
- professionnel.L’Atelier du PO est l’atelier qui permet de s’amélior
- er en pratiquant\, en testant ou en apprenant. Un intervenant partagera se
- s connaissances et répondra à vos interrogations sur des sujets produits
- \, design ou tech.Une fois par mois\, une thématique sera abordée\, libr
- e à vous de vous inscrire si le sujet vous intéresse ! Une sorte de conf
- érence à la carte\, un atelier pratique ou un échange entre pairs\, tel
- le est la proposition que vous offre l’Atelier du PO.On vous attend nomb
- reux. A vos inscriptions !\n\nCommunauté: agile-bordeaux\n👥 9 particip
- ant(s)\nLimité à 15 places
+ ue participant aura l'opportunité de contribuer et d'apprendre !\n\\*\\*
+ \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\
+ \*\\*\\*\\*\\*\\*\\*\\***L'atelier du PO Kesako ?**Intéressé par l’Agi
+ lité ? Vous êtes un PO (Product Owner) en devenir ou un PO qui a besoin 
+ d’un coup de pouce pour apporter de la valeur dans ses équipes ? L'Atel
+ ier du PO est là si vous souhaitez prendre confiance dans votre quotidien
+  professionnel.L’Atelier du PO est l’atelier qui permet de s’amélio
+ rer en pratiquant\, en testant ou en apprenant. Un intervenant partagera s
+ es connaissances et répondra à vos interrogations sur des sujets produit
+ s\, design ou tech.Une fois par mois\, une thématique sera abordée\, lib
+ re à vous de vous inscrire si le sujet vous intéresse ! Une sorte de con
+ férence à la carte\, un atelier pratique ou un échange entre pairs\, te
+ lle est la proposition que vous offre l’Atelier du PO.On vous attend nom
+ breux. A vos inscriptions !\n\nCommunauté: agile-bordeaux\n👥 9 partici
+ pant(s)\nLimité à 15 places
 LOCATION:Athénée Municipal\, 10 Pl. Saint-Christoly\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/299637290/
@@ -941,12 +1011,12 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297716202/\n
  ive teams everything they need to reach peak performance\, and they are ex
  actly what's missing from too many teams today. Stop focusing just on proc
  esses and practices that leave your organization stuck with culture-less r
- ituals. Instead\, unleash the unique human power of conversation.”\n\\*\
- \*\\*\\*\\*\nLe club de lecture est un moment de partage et d’échange a
- utour d’un livre.Les participants ont lu l’ouvrage ou tout au moins un
- e partie significative.\nLe nombre de places étant limité\, merci de vou
- s désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunauté
- : agile-bordeaux\n👥 13 participant(s)\nLimité à 15 places
+ ituals. Instead\, unleash the unique human power of conversation.”\n\\*
+ \\*\\*\\*\\*\nLe club de lecture est un moment de partage et d’échange 
+ autour d’un livre.Les participants ont lu l’ouvrage ou tout au moins u
+ ne partie significative.\nLe nombre de places étant limité\, merci de vo
+ us désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunaut
+ é: agile-bordeaux\n👥 13 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/297716202/
@@ -995,13 +1065,13 @@ UID:https://www.meetup.com/agile-bordeaux/events/295798791/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/295798791/\n
  📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\nLe clu
- b de lecture 24.1 se tiendra samedi 13 janvier de 10h00 à 12h00 au Node.\
- nPour cette session de rentrée nous vous proposons de venir partager une 
- de vos dernières lectures\, un livre que vous avez particulièrement aim
- é ou qui vous a beaucoup apporté et que vous recommanderiez.\n\\*\\*\\*\
- \*\\*\nLe nombre de places étant limité\, merci de vous désinscrire si 
- vous ne pouvez plus vous joindre à nous.\n\nCommunauté: agile-bordeaux\n
- 👥 10 participant(s)\nLimité à 10 places
+ b de lecture 24.1 se tiendra samedi 13 janvier de 10h00 à 12h00 au Node.
+ \nPour cette session de rentrée nous vous proposons de venir partager une
+  de vos dernières lectures\, un livre que vous avez particulièrement aim
+ é ou qui vous a beaucoup apporté et que vous recommanderiez.\n\\*\\*\\*
+ \\*\\*\nLe nombre de places étant limité\, merci de vous désinscrire si
+  vous ne pouvez plus vous joindre à nous.\n\nCommunauté: agile-bordeaux
+ \n👥 10 participant(s)\nLimité à 10 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/295798791/
@@ -1019,25 +1089,25 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297759784/\n
  EMORIBO : une approche ludique pour dynamiser vos démos de fin de sprint 
  ! En incarnant les rôles du Scrum Master\, du Product Owner\, des équipi
  er·es et des client·es\, vous expérimenterez trois itérations captivan
- tes et instructives pour élaborer le produit DELICIBO.\nDans cet atelier\
- , nous expérimenterons l'atelier DEMORIBO. Cet atelier a pour objectif d'
- entraîner les équipes à la préparation et la réalisation des démos d
- e fin de sprint (réalisées lors de la Sprint Review en Scrum) pour qu'el
- les apportent un maximum de valeur.\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\
- \*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n**L'ate
- lier du PO Kesako ?**\nIntéressé par l’Agilité ? Vous êtes un PO (Pr
- oduct Owner) en devenir ou un PO qui a besoin d’un coup de pouce pour ap
- porter de la valeur dans ses équipes ? L'Atelier du PO est là si vous so
- uhaitez prendre confiance dans votre quotidien professionnel.\nL’Atelier
-  du PO est l’atelier qui permet de s’améliorer en pratiquant\, en tes
- tant ou en apprenant. Un intervenant partagera ses connaissances et répon
- dra à vos interrogations sur des sujets produits\, design ou tech.\nUne f
- ois par mois\, une thématique sera abordée\, libre à vous de vous inscr
- ire si le sujet vous intéresse ! Une sorte de conférence à la carte\, u
- n atelier pratique ou un échange entre pairs\, telle est la proposition q
- ue vous offre l’Atelier du PO.\nOn vous attend nombreux. A vos inscripti
- ons !\n\nCommunauté: agile-bordeaux\n👥 9 participant(s)\nLimité à 20
-  places
+ tes et instructives pour élaborer le produit DELICIBO.\nDans cet atelier
+ \, nous expérimenterons l'atelier DEMORIBO. Cet atelier a pour objectif d
+ 'entraîner les équipes à la préparation et la réalisation des démos 
+ de fin de sprint (réalisées lors de la Sprint Review en Scrum) pour qu'e
+ lles apportent un maximum de valeur.\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*
+ \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n**L'at
+ elier du PO Kesako ?**\nIntéressé par l’Agilité ? Vous êtes un PO (P
+ roduct Owner) en devenir ou un PO qui a besoin d’un coup de pouce pour a
+ pporter de la valeur dans ses équipes ? L'Atelier du PO est là si vous s
+ ouhaitez prendre confiance dans votre quotidien professionnel.\nL’Atelie
+ r du PO est l’atelier qui permet de s’améliorer en pratiquant\, en te
+ stant ou en apprenant. Un intervenant partagera ses connaissances et répo
+ ndra à vos interrogations sur des sujets produits\, design ou tech.\nUne 
+ fois par mois\, une thématique sera abordée\, libre à vous de vous insc
+ rire si le sujet vous intéresse ! Une sorte de conférence à la carte\, 
+ un atelier pratique ou un échange entre pairs\, telle est la proposition 
+ que vous offre l’Atelier du PO.\nOn vous attend nombreux. A vos inscript
+ ions !\n\nCommunauté: agile-bordeaux\n👥 9 participant(s)\nLimité à 2
+ 0 places
 LOCATION:Athénée Municipal\, 10 Pl. Saint-Christoly\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/297759784/
@@ -1064,11 +1134,11 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/296337309/\n
  e\, de la littérature ou du cinéma\, Charles Pépin nous montre que nous
   pouvons entretenir un rapport libre\, créatif\, avec notre héritage.Not
  re bonheur dépend de notre capacité à bien vivre avec notre passé. Cet
-  essai lumineux nous donne les clés pour y parvenir.”\nBonne lecture\n\
- \*\\*\\*\\*\\*\nLe club de lecture est un moment de partage et d’échang
- e autour d’un livre.Les participants ont lu l’ouvrage ou tout au moins
-  une partie significative.Le nombre de places étant limité\, merci de vo
- us désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunaut
+  essai lumineux nous donne les clés pour y parvenir.”\nBonne lecture\n
+ \\*\\*\\*\\*\\*\nLe club de lecture est un moment de partage et d’échan
+ ge autour d’un livre.Les participants ont lu l’ouvrage ou tout au moin
+ s une partie significative.Le nombre de places étant limité\, merci de v
+ ous désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunaut
  é: agile-bordeaux\n👥 15 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
@@ -1091,20 +1161,20 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/297211586/\n
  le à tous\, tech ou non. Le cas pratique sera suivi d'un débat ensemble 
  sur l'intérêt\, mais aussi les éventuels risques à garder en tête lor
  squ'on souhaite utiliser cet outil pour dimensionner un backlog produit.\n
- \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\
- *\\*\\*\\*\\*\\*\\*\\*\\*\\*\n**L'atelier PO Kesako ?**\nIntéressé par l
- ’Agilité ? Vous êtes un PO (Product Owner) en devenir ou un PO qui a b
- esoin d’un coup de pouce pour apporter de la valeur dans ses équipes ? 
- L'Atelier PO est là si vous souhaitez prendre confiance dans votre quotid
- ien professionnel.\nL’Atelier PO est l’atelier qui permet de s’amél
- iorer en pratiquant\, en testant ou en apprenant. Un intervenant partagera
-  ses connaissances et répondra à vos interrogations sur des sujets produ
- its\, design ou tech.\nUne fois par mois\, une thématique sera abordée\,
-  libre à vous de vous inscrire si le sujet vous intéresse ! Une sorte de
-  conférence à la carte\, un atelier pratique ou un échange entre pairs\
- , telle est la proposition que vous offre l’Atelier PO.\nOn vous attend 
- nombreux. A vos inscriptions !\n\nCommunauté: agile-bordeaux\n👥 11 par
- ticipant(s)\nLimité à 20 places
+ \\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\
+ \*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n**L'atelier PO Kesako ?**\nIntéressé par 
+ l’Agilité ? Vous êtes un PO (Product Owner) en devenir ou un PO qui a 
+ besoin d’un coup de pouce pour apporter de la valeur dans ses équipes ?
+  L'Atelier PO est là si vous souhaitez prendre confiance dans votre quoti
+ dien professionnel.\nL’Atelier PO est l’atelier qui permet de s’amé
+ liorer en pratiquant\, en testant ou en apprenant. Un intervenant partager
+ a ses connaissances et répondra à vos interrogations sur des sujets prod
+ uits\, design ou tech.\nUne fois par mois\, une thématique sera abordée
+ \, libre à vous de vous inscrire si le sujet vous intéresse ! Une sorte 
+ de conférence à la carte\, un atelier pratique ou un échange entre pair
+ s\, telle est la proposition que vous offre l’Atelier PO.\nOn vous atten
+ d nombreux. A vos inscriptions !\n\nCommunauté: agile-bordeaux\n👥 11 p
+ articipant(s)\nLimité à 20 places
 LOCATION:BeTomorrow\, 44 Rue Barreyre\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/297211586/
@@ -1121,12 +1191,12 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/293450726/\n
   de l'UX et de l'UI !En 2 heures\, Loïs Lacroux\, UX Designer chez Lectra
  \, nous offrira ses connaissances sur le sujet et nous guidera parmi les n
  ombreuses ressources pour se former en autodidacte.Nul doute que nous ress
- ortirons de cet atelier plus riches !\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\
- *\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*L'ateli
- er PO Kaseko ?\nIntéressé par l’Agilité ? Vous êtes un PO (product o
- wner) en devenir ou un PO qui a besoin d’un coup de pouce pour apporter 
- de la valeur dans ses équipes ? L'Atelier PO est là si vous souhaitez pr
- endre confiance dans votre quotidien professionnel.\nL’Atelier PO est l
+ ortirons de cet atelier plus riches !\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\
+ \*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*L'atel
+ ier PO Kaseko ?\nIntéressé par l’Agilité ? Vous êtes un PO (product 
+ owner) en devenir ou un PO qui a besoin d’un coup de pouce pour apporter
+  de la valeur dans ses équipes ? L'Atelier PO est là si vous souhaitez p
+ rendre confiance dans votre quotidien professionnel.\nL’Atelier PO est l
  ’atelier qui permet de s’améliorer en pratiquant\, en testant ou en a
  pprenant. Un intervenant partagera ses connaissances et répondra à vos i
  nterrogations sur des sujets produits\, design ou tech.\nUne fois par mois
@@ -1215,11 +1285,11 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/293404784/\n
  voir relier des individus ensemble.* L'apprenance en équipe : favoriser l
  a réflexion collective par le dialogue.* La pensée systémique : voir le
  s problèmes dans leur ensemble.\nC'est la cinquième discipline\, le levi
- er conceptuel sur lequel se fondent les quatre autres."\nBonne lecture\n\\
- *\\*\\*\\*\\*\nLe club de lecture est un moment de partage et d’échange
-  autour d’un livre. Les participants ont lu l’ouvrage ou tout au moins
-  une partie significative.Le nombre de places étant limité\, merci de vo
- us désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunaut
+ er conceptuel sur lequel se fondent les quatre autres."\nBonne lecture\n\
+ \*\\*\\*\\*\\*\nLe club de lecture est un moment de partage et d’échang
+ e autour d’un livre. Les participants ont lu l’ouvrage ou tout au moin
+ s une partie significative.Le nombre de places étant limité\, merci de v
+ ous désinscrire si vous ne pouvez plus vous joindre à nous.\n\nCommunaut
  é: agile-bordeaux\n👥 12 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
@@ -1247,17 +1317,17 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/291918981/\n
  vous seront bientôt familiers car c’est grâce à leurs lumineuses capa
  cité d’éclairer ce qui semblait jusqu’ici bizarre que vous allez pre
  ndre conscience de vos vraies zones de responsabilité et d'influence\, sa
- voir où et comment agir\, à tous les niveaux de votre vie : personnelle\
- , familiale\, professionnelle\, amicale\, associative… Pour tisser des l
- iens qui apportent mieux vivre ensemble et construisent les bonheurs.Des b
- onheurs qui auront la merveilleuse capacité de rebondir de main en main.D
- écouvrez comment chaque jour nous co-construisons nos bonheurs et nos mal
- heurs”\nBonne lecture\n\\*\\*\\*\\*\\*Le club de lecture est un moment d
- e partage et d’échange autour d’un livre.Les participants ont lu l’
- ouvrage ou tout au moins une partie significative.Le nombre de places éta
- nt limité\, si vous étiez inscrits et que ne pouviez pas participer merc
- i de vous désinscrire.\n\nCommunauté: agile-bordeaux\n👥 15 participan
- t(s)\nLimité à 15 places
+ voir où et comment agir\, à tous les niveaux de votre vie : personnelle
+ \, familiale\, professionnelle\, amicale\, associative… Pour tisser des 
+ liens qui apportent mieux vivre ensemble et construisent les bonheurs.Des 
+ bonheurs qui auront la merveilleuse capacité de rebondir de main en main.
+ Découvrez comment chaque jour nous co-construisons nos bonheurs et nos ma
+ lheurs”\nBonne lecture\n\\*\\*\\*\\*\\*Le club de lecture est un moment 
+ de partage et d’échange autour d’un livre.Les participants ont lu l
+ ’ouvrage ou tout au moins une partie significative.Le nombre de places 
+ étant limité\, si vous étiez inscrits et que ne pouviez pas participer 
+ merci de vous désinscrire.\n\nCommunauté: agile-bordeaux\n👥 15 partic
+ ipant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/291918981/
@@ -1304,26 +1374,26 @@ UID:https://www.meetup.com/agile-bordeaux/events/290269432/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/290269432/\n
  📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\nLe clu
- b de lecture 23.1 se tiendra samedi 28 janvier de 10h00 à 12h00 au Node.\
- nLe livre sélectionné est “Ne coupez jamais la poire en deux” de Chr
- is Voss.\n“Un guide aussi original que spectaculaire pour tirer\, enfin\
- , le meilleur de nos vies professionnelle et personnelle !Même si\, contr
- airement à Chris Voss\, célèbre négociateur pour le FBI\, nous sommes 
- rarement amenés à tenir tête à un forcené reclus dans une banque\, no
- tre vie quotidienne s'apparente à une succession de négociations dont no
- us ne sortons pas toujours vainqueurs : cette promotion dont on rêve\, sa
- ns cesse repoussée \; ce prêt bancaire qu'on hésite à demander \; les 
- exigences d'un enfant auxquelles on finit par céder...Et si on cessait de
-  toujours couper la poire en deux ?De ses expériences au sein du FBI\, Ch
- ris Voss a puisé une série de principes\, de tactiques et de stratégies
-  émotionnelles et communicationnelles capables de désarmer l'interlocute
- ur le plus récalcitrant ou le plus retors\, dans toutes les formes de né
- gociation potentielles.”\nBonne lecture\n\\*\\*\\*\\*\\*\nLe club de lec
- ture est un moment de partage et d’échange autour d’un livre.Les part
- icipants ont lu l’ouvrage ou tout au moins une partie significative.Le n
- ombre de places étant limité\, si vous étiez inscrits et que ne pouviez
-  pas participer merci de vous désinscrire.\n\nCommunauté: agile-bordeaux
- \n👥 14 participant(s)\nLimité à 15 places
+ b de lecture 23.1 se tiendra samedi 28 janvier de 10h00 à 12h00 au Node.
+ \nLe livre sélectionné est “Ne coupez jamais la poire en deux” de Ch
+ ris Voss.\n“Un guide aussi original que spectaculaire pour tirer\, enfin
+ \, le meilleur de nos vies professionnelle et personnelle !Même si\, cont
+ rairement à Chris Voss\, célèbre négociateur pour le FBI\, nous sommes
+  rarement amenés à tenir tête à un forcené reclus dans une banque\, n
+ otre vie quotidienne s'apparente à une succession de négociations dont n
+ ous ne sortons pas toujours vainqueurs : cette promotion dont on rêve\, s
+ ans cesse repoussée \; ce prêt bancaire qu'on hésite à demander \; les
+  exigences d'un enfant auxquelles on finit par céder...Et si on cessait d
+ e toujours couper la poire en deux ?De ses expériences au sein du FBI\, C
+ hris Voss a puisé une série de principes\, de tactiques et de stratégie
+ s émotionnelles et communicationnelles capables de désarmer l'interlocut
+ eur le plus récalcitrant ou le plus retors\, dans toutes les formes de n
+ égociation potentielles.”\nBonne lecture\n\\*\\*\\*\\*\\*\nLe club de l
+ ecture est un moment de partage et d’échange autour d’un livre.Les pa
+ rticipants ont lu l’ouvrage ou tout au moins une partie significative.Le
+  nombre de places étant limité\, si vous étiez inscrits et que ne pouvi
+ ez pas participer merci de vous désinscrire.\n\nCommunauté: agile-bordea
+ ux\n👥 14 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/290269432/
@@ -1412,16 +1482,16 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/285883383/\n
  “Colère\, peur\, tristesse\, joie\, honte... bien souvent les émotions
   sont refoulées ou difficiles à exprimer au travail\, pour des raisons p
  ersonnelles ou de culture des organisations.De manière très pratique\, c
- et ouvrage donne au coach\, et à tout accompagnant (manager\, éducateur\
- , soignant...)\, les outils pour aider son client (ou collaborateur) à pr
- endre en compte son émotion\, l'identifier\, la nommer\, l'accepter et ag
- ir avec elle.A l'aide d'éléments théoriques utiles pour la réflexion e
- t l'apprentissage\, de propositions d'action et d'exercices spécifiques\,
-  vous pourrez :\n* accompagner et aider à identifier les besoins que rév
- èlent les émotions et les sentiments \;* faire le point sur vos propres 
- émotions et sur votre pratique \;* contribuer à développer la joie et l
- es émotions positives dans le cadre professionnel et les équipes.\n\nCom
- munauté: agile-bordeaux\n👥 14 participant(s)\nLimité à 15 places
+ et ouvrage donne au coach\, et à tout accompagnant (manager\, éducateur
+ \, soignant...)\, les outils pour aider son client (ou collaborateur) à p
+ rendre en compte son émotion\, l'identifier\, la nommer\, l'accepter et a
+ gir avec elle.A l'aide d'éléments théoriques utiles pour la réflexion 
+ et l'apprentissage\, de propositions d'action et d'exercices spécifiques
+ \, vous pourrez :\n* accompagner et aider à identifier les besoins que r
+ évèlent les émotions et les sentiments \;* faire le point sur vos propr
+ es émotions et sur votre pratique \;* contribuer à développer la joie e
+ t les émotions positives dans le cadre professionnel et les équipes.\n\n
+ Communauté: agile-bordeaux\n👥 14 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/285883383/
@@ -1467,29 +1537,29 @@ UID:https://www.meetup.com/agile-bordeaux/events/284996319/@community-even
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/284996319/\n
  📍 Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France\n\nLe clu
  b de lecture 22.3 se tiendra samedi 7 mai de 10h00 à 12h00 au Node.\nLe l
- ivre sélectionné est “Optimisez votre équipe” de Patrick Lencioni.\
- n“Dans Optimisez votre équipe\, Patrick Lencioni transpose son intellig
- ence pénétrante et son pouvoir de conteur dans le monde fascinant et com
- plexe des groupes de travail.Kathryn Petersen\, la PDG de DecisionTech\, e
- st confrontée à la crise suprême en matière de leadership : l 'unifica
- tion d'une équipe qui se trouve dans un tel état de détresse qu'elle ri
- sque de détruire l'entreprise tout entière. Réussira-t-elle ? Sera-t-el
- le congédiée ? L'entreprise s'effondrera-t-elle ? Dans cette fable fasci
- nante et intemporelle\, Patrick Lencioni nous rappelle que le leadership e
- xige autant de courage que d'intuition.À travers ce récit\, l'auteur nou
- s révèle les cinq dysfonctions qui font que les équipes – même les m
- eilleures – se retrouvent souvent en difficulté. Il expose un modèle p
- uissant et des étapes pratiques pour surmonter ces barrières courantes e
- t pour constituer une équipe qui sera caractérisée par la cohésion et 
- l'efficacité.Patrick Lencioni a une fois de plus écrit une fable irrési
- stible empreinte d'un message en apparence simple\, mais néanmoins puissa
- nt\, à l'intention de tous ceux qui s'efforcent d'être des chefs d'équi
- pe exceptionnels.”\nBonne lecture\n\\*\\*\\*\\*\\*\\*\nLe club de lectur
- e est un moment de partage et d’échange autour d’un livre.Les partici
- pants ont lu l’ouvrage ou tout au moins une partie significative.\nLe no
- mbre de places étant limité\, si vous étiez inscrits et que ne pouviez 
- pas participer merci de vous désinscrire.\n\nCommunauté: agile-bordeaux\
- n👥 10 participant(s)\nLimité à 15 places
+ ivre sélectionné est “Optimisez votre équipe” de Patrick Lencioni.
+ \n“Dans Optimisez votre équipe\, Patrick Lencioni transpose son intelli
+ gence pénétrante et son pouvoir de conteur dans le monde fascinant et co
+ mplexe des groupes de travail.Kathryn Petersen\, la PDG de DecisionTech\, 
+ est confrontée à la crise suprême en matière de leadership : l 'unific
+ ation d'une équipe qui se trouve dans un tel état de détresse qu'elle r
+ isque de détruire l'entreprise tout entière. Réussira-t-elle ? Sera-t-e
+ lle congédiée ? L'entreprise s'effondrera-t-elle ? Dans cette fable fasc
+ inante et intemporelle\, Patrick Lencioni nous rappelle que le leadership 
+ exige autant de courage que d'intuition.À travers ce récit\, l'auteur no
+ us révèle les cinq dysfonctions qui font que les équipes – même les 
+ meilleures – se retrouvent souvent en difficulté. Il expose un modèle 
+ puissant et des étapes pratiques pour surmonter ces barrières courantes 
+ et pour constituer une équipe qui sera caractérisée par la cohésion et
+  l'efficacité.Patrick Lencioni a une fois de plus écrit une fable irrés
+ istible empreinte d'un message en apparence simple\, mais néanmoins puiss
+ ant\, à l'intention de tous ceux qui s'efforcent d'être des chefs d'équ
+ ipe exceptionnels.”\nBonne lecture\n\\*\\*\\*\\*\\*\\*\nLe club de lectu
+ re est un moment de partage et d’échange autour d’un livre.Les partic
+ ipants ont lu l’ouvrage ou tout au moins une partie significative.\nLe n
+ ombre de places étant limité\, si vous étiez inscrits et que ne pouviez
+  pas participer merci de vous désinscrire.\n\nCommunauté: agile-bordeaux
+ \n👥 10 participant(s)\nLimité à 15 places
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/284996319/
@@ -1519,9 +1589,9 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/283944840/\n
  lecture\n*****Le club de lecture est un moment de partage et d’échange 
  autour d’un livre.Les participants ont lu l’ouvrage ou tout au moins u
  ne partie significative.\nLe nombre de places étant limité\, si vous ét
- iez inscrits et que ne pouviez pas participer merci de vous désinscrire.\
- n\nCommunauté: agile-bordeaux\n👥 11 participant(s)\nLimité à 15 plac
- es
+ iez inscrits et que ne pouviez pas participer merci de vous désinscrire.
+ \n\nCommunauté: agile-bordeaux\n👥 11 participant(s)\nLimité à 15 pla
+ ces
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/283944840/
@@ -1748,24 +1818,24 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/275827555/\n
  \nLe club de lecture 21.2 se tiendra en visioconférence samedi 20 févrie
  r de 10h00 à 12h00.\nLe livre sélectionné est “La logique de l'acouph
  ène : Suivi de Petit traité de développement relationnel” d’Arnaud 
- Bornens et de Nicolas Mathieu.\n“Humilié en plein comité de direction\
- , Antoine s'enferme dans les toilettes et s'effondre. Un battement d'aile 
- de papillon... Sans le savoir\, il a libéré des forces mystérieuses qui
-  vont bouleverser la vie de parfaits inconnus. Une logique implacable est 
- à l'oeuvre... Ce roman nous entraîne dans des aventures truculentes et p
- leines d'humour qui dévoilent un trésor révolutionnaire et méconnu : l
- e Petit traité de développement relationnel\, essai didactique sur la co
- mplexité des relations humaines et les stratégies de dissolution des pro
- blèmes interpersonnels. Cet ouvrage hybride présente de façon vivante e
- t décalée l'approche systémique stratégique et ses fondements anthropo
- logiques. Une lecture qui vous fera changer de regard sur le monde\, les a
- utres et peut-être vous-même : bienvenue dans l'univers étrange de la s
- ystémie !”\nBonne lecture\n*****Le club de lecture est un moment de par
- tage et d’échange autour d’un livre.Les participants ont lu l’ouvra
- ge ou tout au moins une partie significative.\nLe nombre de places étant 
- limité\, si vous étiez inscrits et que ne pouviez pas participer merci d
- e vous désinscrire.\n\nCommunauté: agile-bordeaux\n💻 Événement en l
- igne\n👥 15 participant(s)\nLimité à 15 places
+ Bornens et de Nicolas Mathieu.\n“Humilié en plein comité de direction
+ \, Antoine s'enferme dans les toilettes et s'effondre. Un battement d'aile
+  de papillon... Sans le savoir\, il a libéré des forces mystérieuses qu
+ i vont bouleverser la vie de parfaits inconnus. Une logique implacable est
+  à l'oeuvre... Ce roman nous entraîne dans des aventures truculentes et 
+ pleines d'humour qui dévoilent un trésor révolutionnaire et méconnu : 
+ le Petit traité de développement relationnel\, essai didactique sur la c
+ omplexité des relations humaines et les stratégies de dissolution des pr
+ oblèmes interpersonnels. Cet ouvrage hybride présente de façon vivante 
+ et décalée l'approche systémique stratégique et ses fondements anthrop
+ ologiques. Une lecture qui vous fera changer de regard sur le monde\, les 
+ autres et peut-être vous-même : bienvenue dans l'univers étrange de la 
+ systémie !”\nBonne lecture\n*****Le club de lecture est un moment de pa
+ rtage et d’échange autour d’un livre.Les participants ont lu l’ouvr
+ age ou tout au moins une partie significative.\nLe nombre de places étant
+  limité\, si vous étiez inscrits et que ne pouviez pas participer merci 
+ de vous désinscrire.\n\nCommunauté: agile-bordeaux\n💻 Événement en 
+ ligne\n👥 15 participant(s)\nLimité à 15 places
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/275827555/
 END:VEVENT
@@ -1965,9 +2035,9 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/271203421/\n
  ère pour questions / accueil retardataires- 10h30 2ieme bulle + pause 10m
  in- 11h10 3ieme bulle- 12h Retour en plénière + feedbacks. Puis on chant
  e ce n'est qu'un au-revoir en langue des signes.\nBravo vous avez lu tout 
- le texte\, vous serez cité au Courageous Hall.\nA bientôtL'organisation\
- n\nCommunauté: agile-bordeaux\n💻 Événement en ligne\n👥 21 partici
- pant(s)\nLimité à 23 places
+ le texte\, vous serez cité au Courageous Hall.\nA bientôtL'organisation
+ \n\nCommunauté: agile-bordeaux\n💻 Événement en ligne\n👥 21 partic
+ ipant(s)\nLimité à 23 places
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/271203421/
 END:VEVENT
@@ -2076,42 +2146,42 @@ DTEND;TZID=Europe/Paris:20200125T110000
 UID:https://www.meetup.com/agile-bordeaux/events/266214311/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/266214311/\n
- 📍 11 Av. Henri Becquerel\, 11 Av. Henri Becquerel\, Mérignac\, France\
- n\nUn Coaching Dojo sur Bordeaux le 25 janvier : et si vous veniez nous y 
- rejoindre ?...\nMais avant toute chose\, qu'est-ce que le coaching dojo et
-  à qui ce type de journée est-il destiné ?\nQue vous soyez coachs ou no
- n coachs\, vous avez envie de découvrir et/ou vous entraîner à la prati
- que du coaching\, alors cette journée est faite pour vous !\nAu travers d
- e petits exercices où chacun aura un rôle à jouer\, vous allez découvr
- ir à quel point chacun d'entre nous possède la possibilité de se dével
- opper personnellement\, pour permettre à l'autre de pouvoir cheminer et t
- rouver ses propres solutions.\nCréer l'alliance\, adopter une posture d'a
- ccueil\, d'écoute\, de reformulation et de questionnement\, avoir un rega
- rd bienveillant et non jugeant\, ... autant de techniques à la portée de
-  tous\, mais qui nécessitent de l'entrainement et de la prise de recul po
- ur pouvoir aider l'autre à avancer dans ses problématiques et trouver se
- s propres solutions.\nAlors si vous avez envie de participer à cette jour
- née\, d'enrichir les autres de ce que vous êtes et de vous enrichir de c
- e que sont les autres\, n'hésitez plus une seconde et venez nous rejoindr
- e. Chaque instant sera l'occasion de progresser et d'apprendre les uns des
-  autres\, les uns avec les autres !Sans oublier\, l'occasion de partager u
- n bon moment de convivialité.\nCette journée est entièrement gratuite. 
- Elle se veut résolument ouverte à tous\, avec pour seules conditions :- 
- Participer à l'ensemble de la journée : de 9h00 à 18h00- Amener un plat
-  sucré ou salé\, ainsi qu'une boisson\, que nous partagerons au moment d
- u déjeuner pris en commun- Annuler votre participation si vous ne pouvez 
- plus venir\, pour permettre à d'autres personnes de pouvoir participer (l
- e groupe étant limité à 30 personnes pour permettre de pratiquer dans d
- e bonnes conditions).\nPour ce qui est du lieu\, nous sommes preneurs d'un
-  lieu d'accueil s'inscrivant dans le cadre de cet événement\, à savoir 
- :- Permettre à l'ensemble du groupe de se regrouper pour les phases de sy
- nchronisation telles que l'accueil\, le lancement\, la clôture\, mais aus
- si pour partager le déjeuner.- Permettre à des groupes de 4 à 6 personn
- es de s'isoler pour pratiquer des séances de coaching\, de façon confort
- able et confidentielle.\nAlors n'hésitez pas à revenir vers nous 😉.\n
- MAJ 21/11/2019 : L'entreprise Startec Developpement nous accueillera dans 
- ses locaux au 11 Avenue Henri Becquerel\, 33700 Mérignac.\n\nCommunauté:
-  agile-bordeaux\n👥 30 participant(s)\nLimité à 30 places
+ 📍 11 Av. Henri Becquerel\, 11 Av. Henri Becquerel\, Mérignac\, France
+ \n\nUn Coaching Dojo sur Bordeaux le 25 janvier : et si vous veniez nous y
+  rejoindre ?...\nMais avant toute chose\, qu'est-ce que le coaching dojo e
+ t à qui ce type de journée est-il destiné ?\nQue vous soyez coachs ou n
+ on coachs\, vous avez envie de découvrir et/ou vous entraîner à la prat
+ ique du coaching\, alors cette journée est faite pour vous !\nAu travers 
+ de petits exercices où chacun aura un rôle à jouer\, vous allez découv
+ rir à quel point chacun d'entre nous possède la possibilité de se déve
+ lopper personnellement\, pour permettre à l'autre de pouvoir cheminer et 
+ trouver ses propres solutions.\nCréer l'alliance\, adopter une posture d'
+ accueil\, d'écoute\, de reformulation et de questionnement\, avoir un reg
+ ard bienveillant et non jugeant\, ... autant de techniques à la portée d
+ e tous\, mais qui nécessitent de l'entrainement et de la prise de recul p
+ our pouvoir aider l'autre à avancer dans ses problématiques et trouver s
+ es propres solutions.\nAlors si vous avez envie de participer à cette jou
+ rnée\, d'enrichir les autres de ce que vous êtes et de vous enrichir de 
+ ce que sont les autres\, n'hésitez plus une seconde et venez nous rejoind
+ re. Chaque instant sera l'occasion de progresser et d'apprendre les uns de
+ s autres\, les uns avec les autres !Sans oublier\, l'occasion de partager 
+ un bon moment de convivialité.\nCette journée est entièrement gratuite.
+  Elle se veut résolument ouverte à tous\, avec pour seules conditions :-
+  Participer à l'ensemble de la journée : de 9h00 à 18h00- Amener un pla
+ t sucré ou salé\, ainsi qu'une boisson\, que nous partagerons au moment 
+ du déjeuner pris en commun- Annuler votre participation si vous ne pouvez
+  plus venir\, pour permettre à d'autres personnes de pouvoir participer (
+ le groupe étant limité à 30 personnes pour permettre de pratiquer dans 
+ de bonnes conditions).\nPour ce qui est du lieu\, nous sommes preneurs d'u
+ n lieu d'accueil s'inscrivant dans le cadre de cet événement\, à savoir
+  :- Permettre à l'ensemble du groupe de se regrouper pour les phases de s
+ ynchronisation telles que l'accueil\, le lancement\, la clôture\, mais au
+ ssi pour partager le déjeuner.- Permettre à des groupes de 4 à 6 person
+ nes de s'isoler pour pratiquer des séances de coaching\, de façon confor
+ table et confidentielle.\nAlors n'hésitez pas à revenir vers nous 😉.
+ \nMAJ 21/11/2019 : L'entreprise Startec Developpement nous accueillera dan
+ s ses locaux au 11 Avenue Henri Becquerel\, 33700 Mérignac.\n\nCommunaut
+ é: agile-bordeaux\n👥 30 participant(s)\nLimité à 30 places
 LOCATION:11 Av. Henri Becquerel\, 11 Av. Henri Becquerel\, Mérignac\, Fra
  nce
 TZID:Europe/Paris
@@ -2189,33 +2259,33 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/260531263/\n
  s exercices où chacun aura un rôle à jouer\, vous allez découvrir à q
  uel point chacun d'entre nous possède la possibilité de se développer p
  ersonnellement\, pour permettre à l'autre de pouvoir cheminer et trouver 
- ses propres solutions.\nCréer l'alliance\, adopter une posture d'accueil\
- , d'écoute\, de reformulation et de questionnement\, avoir un regard bien
- veillant et non jugeant\, ... autant de techniques à la portée de tous\,
-  mais qui nécessitent de l'entrainement et de la prise de recul pour pouv
- oir aider l'autre à avancer dans ses problématiques et trouver ses propr
- es solutions.\nAlors si vous avez envie de participer à cette journée\, 
- d'enrichir les autres de ce que vous êtes et de vous enrichir de ce que s
- ont les autres\, n'hésitez plus une seconde et venez nous rejoindre. Chaq
- ue instant sera l'occasion de progresser et d'apprendre les uns des autres
- \, les uns avec les autres !Sans oublier\, l'occasion de partager un bon m
- oment de convivialité.\nCette journée est entièrement gratuite. Elle se
-  veut résolument ouverte à tous\, avec pour seules conditions :- Partici
- per à l'ensemble de la journée : de 9h00 à 18h00- Amener un plat sucré
-  ou salé\, ainsi qu'une boisson\, que nous partagerons au moment du déje
- uner pris en commun- Annuler votre participation si vous ne pouvez plus ve
- nir\, pour permettre à d'autres personnes de pouvoir participer (le group
- e étant limité à 30 personnes pour permettre de pratiquer dans de bonne
- s conditions).\nPour ce qui est du lieu\, nous serons accueillis par ekino
-  (www.ekino.fr) pour cette édition.\nPour les prochaines éditions\, nous
-  sommes toujours preneurs de lieux d’accueil s’inscrivant dans le cadr
- e de cet événement\, à savoir :- Permettre à l'ensemble du groupe de s
- e regrouper pour les phases de synchronisation telles que l'accueil\, le l
- ancement\, la clôture\, mais aussi pour partager le déjeuner.- Permettre
-  à des groupes de 4 à 6 personnes de s'isoler pour pratiquer des séance
- s de coaching\, de façon confortable et confidentielle.\nAlors n’hésit
- ez pas à revenir vers nous 😉.\n\nCommunauté: agile-bordeaux\n👥 30 
- participant(s)\nLimité à 30 places
+ ses propres solutions.\nCréer l'alliance\, adopter une posture d'accueil
+ \, d'écoute\, de reformulation et de questionnement\, avoir un regard bie
+ nveillant et non jugeant\, ... autant de techniques à la portée de tous
+ \, mais qui nécessitent de l'entrainement et de la prise de recul pour po
+ uvoir aider l'autre à avancer dans ses problématiques et trouver ses pro
+ pres solutions.\nAlors si vous avez envie de participer à cette journée
+ \, d'enrichir les autres de ce que vous êtes et de vous enrichir de ce qu
+ e sont les autres\, n'hésitez plus une seconde et venez nous rejoindre. C
+ haque instant sera l'occasion de progresser et d'apprendre les uns des aut
+ res\, les uns avec les autres !Sans oublier\, l'occasion de partager un bo
+ n moment de convivialité.\nCette journée est entièrement gratuite. Elle
+  se veut résolument ouverte à tous\, avec pour seules conditions :- Part
+ iciper à l'ensemble de la journée : de 9h00 à 18h00- Amener un plat suc
+ ré ou salé\, ainsi qu'une boisson\, que nous partagerons au moment du d
+ éjeuner pris en commun- Annuler votre participation si vous ne pouvez plu
+ s venir\, pour permettre à d'autres personnes de pouvoir participer (le g
+ roupe étant limité à 30 personnes pour permettre de pratiquer dans de b
+ onnes conditions).\nPour ce qui est du lieu\, nous serons accueillis par e
+ kino (www.ekino.fr) pour cette édition.\nPour les prochaines éditions\, 
+ nous sommes toujours preneurs de lieux d’accueil s’inscrivant dans le 
+ cadre de cet événement\, à savoir :- Permettre à l'ensemble du groupe 
+ de se regrouper pour les phases de synchronisation telles que l'accueil\, 
+ le lancement\, la clôture\, mais aussi pour partager le déjeuner.- Perme
+ ttre à des groupes de 4 à 6 personnes de s'isoler pour pratiquer des sé
+ ances de coaching\, de façon confortable et confidentielle.\nAlors n’h
+ ésitez pas à revenir vers nous 😉.\n\nCommunauté: agile-bordeaux\n
+ 👥 30 participant(s)\nLimité à 30 places
 LOCATION:EKINO BORDEAUX\, 1 cours Xavier Arnozan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/260531263/
@@ -2549,10 +2619,10 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/247286123/\n
  efficacité personnelle.\n“Vous² : une formule à grande vitesse pour d
  écupler votre efficacité personnelle. Faire le saut quantique\, passer d
  e vous à Vous² signifie accomplir bien plus\, en moins de temps\, avec s
- eulement une fraction de l'effort que vous avez l'habitude de fournir.”\
- nLes livres en cours de sélection sur notre tableau Trello :https://trell
- o.com/b/FIsc7Xf7/club-de-lecture-bordeaux\nBonne lecture\n\nCommunauté: a
- gile-bordeaux\n👥 8 participant(s)
+ eulement une fraction de l'effort que vous avez l'habitude de fournir.”
+ \nLes livres en cours de sélection sur notre tableau Trello :https://trel
+ lo.com/b/FIsc7Xf7/club-de-lecture-bordeaux\nBonne lecture\n\nCommunauté: 
+ agile-bordeaux\n👥 8 participant(s)
 LOCATION:Le Node \, AQUINUM C/O Le Node - 12 rue des Faussets - 33000 Bord
  eaux\, Bordeaux \, France
 TZID:Europe/Paris
@@ -2811,9 +2881,9 @@ DTEND;TZID=Europe/Paris:20170601T210000
 UID:https://www.meetup.com/agile-bordeaux/events/239292968/@community-even
  ts
 DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/239292968/\n
- 📍 Pôle Emploi\, 38B Allée de Mégévie\, 33170 Gradignan\, Gradignan\
- , France\n\n*** Information pratique et conviviale ***\nPour que ce moment
-  soit plus convivial encore\, chacun peut ramener un petit quelque chose 
+ 📍 Pôle Emploi\, 38B Allée de Mégévie\, 33170 Gradignan\, Gradignan
+ \, France\n\n*** Information pratique et conviviale ***\nPour que ce momen
+ t soit plus convivial encore\, chacun peut ramener un petit quelque chose 
  à boire ou à manger... ce serait cool !\n*** A bientôt ***\n1er PODOJO 
  organisé sur BORDEAUX !\nC'est quoi un PO-DOJO ?\nIl s'agit d'un espace 
  où les Product Owner (quel que soit votre niveau : débutant ou confirmé
@@ -2829,9 +2899,9 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/239292968/\n
  ion pour PO donnée par un formateur\n- Un lieu où l'on vient pour être 
  seulement consommateur\, il faudra être acteur !\n Note : on ne traite p
  as un cas réel propre à un participant du PO-DOJO \ncopyright du texte 
- : Alexandre BOUTIN\, à l'origine des premiers PO-DOJO : Emilie Espositos\
- n\nCommunauté: agile-bordeaux\n👥 23 participant(s)\nLimité à 25 plac
- es
+ : Alexandre BOUTIN\, à l'origine des premiers PO-DOJO : Emilie Espositos
+ \n\nCommunauté: agile-bordeaux\n👥 23 participant(s)\nLimité à 25 pla
+ ces
 LOCATION:Pôle Emploi\, 38B Allée de Mégévie\, 33170 Gradignan\, Gradig
  nan\, France
 TZID:Europe/Paris
@@ -2871,8 +2941,8 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/237956575/\n
  rler gestion analytique de l'innovation. Un ouvrage riche pour les entrepr
  eneurs ou organisations évoluant dans un contexte de forte incertitude.\n
  \nCommunauté: agile-bordeaux\n👥 4 participant(s)\nLimité à 8 places
-LOCATION:Le Duffour par Alfredo\, 14 Bis Rue Duffour Dubergier\, Bordeaux\
- , Bordeaux\, France
+LOCATION:Le Duffour par Alfredo\, 14 Bis Rue Duffour Dubergier\, Bordeaux
+ \, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/237956575/
 END:VEVENT
@@ -2892,8 +2962,8 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/236603347/\n
  de-lecture-bordeaux(Envoyez-moi un MP avec votre adresse mail par Meetup p
  our que je vous donne les droits d'écriture)\n\nCommunauté: agile-bordea
  ux\n👥 8 participant(s)\nLimité à 8 places
-LOCATION:Le Duffour par Alfredo\, 14 Bis Rue Duffour Dubergier\, Bordeaux\
- , Bordeaux\, France
+LOCATION:Le Duffour par Alfredo\, 14 Bis Rue Duffour Dubergier\, Bordeaux
+ \, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/236603347/
 END:VEVENT
@@ -2963,8 +3033,8 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/235472479/\n
  ert par notre hôte\n_______________________________________________\nVous
   pouvez proposer vos contributions ici :  \nhttps://docs.google.com/docum
  ent/d/1a1vpCQQpYtz-G5tR1Mc632k1VY_br-b5oMVC2eTQcFc/edit?usp=sharing\n_____
- __________________________________________\n\nCommunauté: agile-bordeaux\
- n👥 40 participant(s)\nLimité à 50 places
+ __________________________________________\n\nCommunauté: agile-bordeaux
+ \n👥 40 participant(s)\nLimité à 50 places
 LOCATION:Notre hôte\, 38B Allée Megevie\, gradignan\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/235472479/
@@ -3007,8 +3077,8 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/234663839/\n
  " (animé par Patrick Barroyer- 12 personnes)\nEt ensuite\, on boit un ve
  rre : merci de ramener quelque chose à l'occasion.\n\nCommunauté: agile-
  bordeaux\n👥 1 participant(s)\nLimité à 1 places
-LOCATION:ECV Digital Bordeaux (Amphi)\, 26 rue Esprit des Lois\, Bordeaux\
- , France
+LOCATION:ECV Digital Bordeaux (Amphi)\, 26 rue Esprit des Lois\, Bordeaux
+ \, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/234663839/
 END:VEVENT
@@ -3051,8 +3121,8 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/228982013/\n
  mener un plat sucré ou salé\, ainsi qu'une boisson.\nA très bientôt :)
  \n\nCommunauté: agile-bordeaux\n👥 18 participant(s)\nLimité à 20 pla
  ces
-LOCATION:Aéroport de Bordeaux-Mérignac\, Avenue René Cassin\, MERIGNAC\
- , France
+LOCATION:Aéroport de Bordeaux-Mérignac\, Avenue René Cassin\, MERIGNAC
+ \, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/228982013/
 END:VEVENT
@@ -3143,8 +3213,8 @@ DESCRIPTION:🔗 https://www.meetup.com/agile-bordeaux/events/227883030/\n
   participants est d'amener un plat sucré ou salé\, ainsi qu'une boisson.
  \nA très bientôt :)\n\nCommunauté: agile-bordeaux\n👥 19 participant(
  s)\nLimité à 20 places
-LOCATION:Aéroport de Bordeaux-Mérignac\, Avenue René Cassin\, MERIGNAC\
- , France
+LOCATION:Aéroport de Bordeaux-Mérignac\, Avenue René Cassin\, MERIGNAC
+ \, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/227883030/
 END:VEVENT

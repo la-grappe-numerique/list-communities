@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 11 mars 2026 à 19:00 | [afup-bordeaux](afup-bordeaux/) | [#65 : SUPER APERO](https://www.meetup.com/bordeaux-php-meetup/events/313651440/) | 12 Rue des Faussets, Bordeaux |
-| Jeudi 12 mars 2026 à 19:00 | [bordeauxjs](bordeauxjs/) | [jq - deal with JSON like a boss](https://luma.com/w3tdxut2) | Le node, 12 Rue des Faussets, 33000 Bordeaux |
-| Mardi 17 mars 2026 à 09:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [🗺️ Mapathon en Pays Basque dans le cadre du projet européen SYSTOUR](https://meet.jit.si/moderated/b6d0ff0febf76fec2fffe21b1aca93960a96876dbfeac46209cbf1be4f8c70ad) | En ligne sur Jitsi Meet |
+| Jeudi 03 septembre 2026 à 18:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [🗺️ Rentrée bordelaise du groupe local OpenStreetMap](https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457) | Aquilenet, 20 rue Tourat, 33000 Bordeaux |
+| Samedi 05 septembre 2026 à 10:30 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 26.5 - Les livres de l’été](https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete) | Le Node, 12 Rue des Faussets, Bordeaux, France |
+| Lundi 07 septembre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcmbkb/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

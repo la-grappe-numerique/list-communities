@@ -5,6 +5,70 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Vue.js\, Nuxt & AI
+DTSTART;TZID=Europe/Paris:20260630T190000
+DTEND;TZID=Europe/Paris:20260630T210000
+UID:https://luma.com/kim18lag@community-events
+DESCRIPTION:🔗 https://luma.com/kim18lag\n📍 Cité Numérique - Locaux
+  de HelloAsso\, 2 Rue Marc Sangnier\, 33130 Bègles\, France\n\nPour cette
+  nouvelle édition de BordeauxJS\, les équipes d'HelloAsso accueillent l'
+ événement à la Cité Numérique.\n\nAu programme : trois lightning talk
+ s proposés par des développeurs d'HelloAsso et de Back Market\, suivis d
+ 'un moment convivial autour de pizzas et boissons.\n\nTalks annoncés: MCP
+  Toolkit - Nuxt à l'heure de l'agentic\, par Clément Ollivier (Staff Eng
+ ineer @ HelloAsso)\; Customiser sa DX avec Nuxt\, par Pierre Darrieutort (
+ Frontend Developer @ HelloAsso)\; Talk #3 à venir.\n\nLieu : Cité Numér
+ ique\, locaux de HelloAsso\, 2 Rue Marc Sangnier\, 33130 Bègles.\n\nCommu
+ nauté: bordeauxjs
+LOCATION:Cité Numérique - Locaux de HelloAsso\, 2 Rue Marc Sangnier\, 33
+ 130 Bègles\, France
+TZID:Europe/Paris
+URL:https://luma.com/kim18lag
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Et si vous arrêtiez de coder votre API avant de l'avoir pensée ?
+DTSTART;TZID=Europe/Paris:20260512T183000
+DTEND;TZID=Europe/Paris:20260512T203000
+UID:https://luma.com/r2vnp9kp@community-events
+DESCRIPTION:🔗 https://luma.com/r2vnp9kp\n📍 Le Node\, 12 rue des Faus
+ sets 33000 Bordeaux\n\nDeux grandes familles d'**API** coexistent aujourd'
+ hui : les API **synchrones** (REST) et **asynchrones** (Messaging\, EDA). 
+ Pour chacune\, une spécification s'est imposée: **OpenAPI** d'un côté
+ \, **AsyncAPI** de l'autre.\n\nAu travers de démos concrètes\, **Philipp
+ e Bousquet**  nous montrera comment l'approche **Design First** permet de 
+ définir son API en amont et d'en tirer parti pour la documentation\, la g
+ énération de code et bien plus encore.\n\nRetours d'expérience et convi
+ ctions personnelles de Philippe inclus 😃\n\nCommunauté: bordeauxjs
+LOCATION:Le Node\, 12 rue des Faussets 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/r2vnp9kp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automatiser ses mises en production avec GitHub Actions
+DTSTART;TZID=Europe/Paris:20260423T190000
+DTEND;TZID=Europe/Paris:20260423T210000
+UID:https://luma.com/f11067ro@community-events
+DESCRIPTION:🔗 https://luma.com/f11067ro\n📍 5 Quai Lawton 33300 Borde
+ aux\n\n**À propos de l'événement :**\n​Dans ce talk\, Axel partagera 
+ son retour d’expérience sur la mise en place de processus automatisés 
+ de mise en production avec GitHub Actions.\n\n​À travers des cas concre
+ ts rencontrés dans deux entreprises différentes\, il montrera comment fi
+ abiliser les déploiements\, réduire les tâches manuelles et gagner en s
+ érénité au moment de livrer en production.\n\n​Un talk orienté terra
+ in pour mieux comprendre comment structurer ses workflows CI/CD et rendre 
+ ses mises en production plus fluides\, plus sûres et plus reproductibles.
+ \n\n**Notre speaker :**\nAxel Mathieu-Le Gall est Senior Full Stack Develo
+ per chez Wealthcome. Basé à Bordeaux\, il travaille sur des sujets web e
+ t s’intéresse particulièrement à l’automatisation\, à la CI/CD et 
+ à la fiabilisation des mises en production.\n\n**Notre host et sponsor :*
+ *\nProgramisto\, une société de conseil tech basée à Bordeaux\, avec u
+ ne activité autour du développement logiciel\, de la QA\, du product man
+ agement et du pilotage de projet.\n\nCommunauté: bordeauxjs
+LOCATION:5 Quai Lawton 33300 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/f11067ro
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:jq - deal with JSON like a boss
 DTSTART;TZID=Europe/Paris:20260312T190000
 DTEND;TZID=Europe/Paris:20260312T210000
@@ -42,8 +106,8 @@ DESCRIPTION:🔗 https://luma.com/8ioijhjc\n📍 Ippon Technologies Bordea
  la v21 change concrètement\, tu es le/la bienvenu(e) !\n\n​On terminera
   par un moment chill pour discuter front/back\, architecture\, tooling… 
  et rencontrer d’autres devs de Bordeaux 🍻\n\nCommunauté: bordeauxjs
-LOCATION:Ippon Technologies Bordeaux 44 Allée de Tourny\, 33000 Bordeaux\
- , France
+LOCATION:Ippon Technologies Bordeaux 44 Allée de Tourny\, 33000 Bordeaux
+ \, France
 TZID:Europe/Paris
 URL:https://luma.com/8ioijhjc
 END:VEVENT
@@ -61,10 +125,10 @@ DESCRIPTION:🔗 https://luma.com/3v8xjzep\n📍 Wanteeed\, 13 Rue des Cor
  …)\, la création d'apps iOS/Android n'a jamais été aussi simple et ra
  pide.\n\nCe talk montre comment les compétences React se réutilisent tel
  les quelles côté mobile\, et comment l'écosystème Expo a fait dispara
- ître les plus gros pain points.\n\nMaintenant\, le développement mobile\
- , ce n'est plus ce champ de bataille où chaque erreur te coûte trois heu
- res\, un sacrifice à Xcode et te donne envie de changer de métier.\n\nCo
- mmunauté: bordeauxjs
+ ître les plus gros pain points.\n\nMaintenant\, le développement mobile
+ \, ce n'est plus ce champ de bataille où chaque erreur te coûte trois he
+ ures\, un sacrifice à Xcode et te donne envie de changer de métier.\n\nC
+ ommunauté: bordeauxjs
 LOCATION:Wanteeed\, 13 Rue des Cordeliers\, 33300 Bordeaux\, France
 TZID:Europe/Paris
 URL:https://luma.com/3v8xjzep
@@ -85,8 +149,8 @@ DESCRIPTION:🔗 https://www.linkedin.com/events/pourquoijavascriptestunla
  ures d'affilée passées à regarder les Teletubbies.\nMais pourtant\, qu'
  est-ce qui est à l'origine de cette réputation sulfureuse ? Qu'est-ce qu
  i pourrait sauver le Javascript ? Est-ce qu'un complot mondial se cache de
- rrière tout ça ? Vous le saurez dans cette nouvelle présentation !\n\
- nCommunauté: bordeauxjs
+ rrière tout ça ? Vous le saurez dans cette nouvelle présentation !\n
+ \nCommunauté: bordeauxjs
 LOCATION:Le node\, 12 Rue des Faussets\, 33000 Bordeaux
 TZID:Europe/Paris
 URL:https://www.linkedin.com/events/pourquoijavascriptestunlangaged7391045
@@ -100,12 +164,12 @@ DTEND;TZID=Europe/Paris:20251015T210000
 UID:https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913
  363066884096/@community-events
 DESCRIPTION:🔗 https://www.linkedin.com/events/migrerl-cosyst-mereactnat
- iveaue7380913363066884096/\n📍 SFEIR\, 5 Rue de Condé\, 33000 Bordeaux\
- n\nLes layouts edge-to-edge (où l’application occupe toute la hauteur d
- e l’écran) deviennent la norme sur Android.\nCe talk retrace le passage
-  de React Native au edge-to-edge\, d’abord via la lib react-native-edge-
- to-edge\, puis son intégration dans Expo et enfin dans le core de React N
- ative.\n\nCommunauté: bordeauxjs
+ iveaue7380913363066884096/\n📍 SFEIR\, 5 Rue de Condé\, 33000 Bordeaux
+ \n\nLes layouts edge-to-edge (où l’application occupe toute la hauteur 
+ de l’écran) deviennent la norme sur Android.\nCe talk retrace le passag
+ e de React Native au edge-to-edge\, d’abord via la lib react-native-edge
+ -to-edge\, puis son intégration dans Expo et enfin dans le core de React 
+ Native.\n\nCommunauté: bordeauxjs
 LOCATION:SFEIR\, 5 Rue de Condé\, 33000 Bordeaux
 TZID:Europe/Paris
 URL:https://www.linkedin.com/events/migrerl-cosyst-mereactnativeaue7380913
@@ -167,11 +231,11 @@ DTEND;TZID=Europe/Paris:20250625T210000
 UID:https://www.meetup.com/bordeauxjs/events/307822194/@community-events
 DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/307822194/\n📍
   Le Node\, 12 rue des Faussets\, 33000\, Bordeaux\n\nTypeScript est un out
- il formidable... quand il n'est pas votre pire cauchemar. Si mal utilisé\
- , ce qui peut arriver plus vite qu'on ne le croit dans un projet d'ampleur
- \, TypeScript devient un handicap plus qu'autre chose. Chez Radiofrance\, 
- nous avons vu proliférer les "red squiggles" tels des petits virus contag
- ieux\, jusqu'à ne presque plus pouvoir développer. Mais nous avons surv
+ il formidable... quand il n'est pas votre pire cauchemar. Si mal utilisé
+ \, ce qui peut arriver plus vite qu'on ne le croit dans un projet d'ampleu
+ r\, TypeScript devient un handicap plus qu'autre chose. Chez Radiofrance\,
+  nous avons vu proliférer les "red squiggles" tels des petits virus conta
+ gieux\, jusqu'à ne presque plus pouvoir développer. Mais nous avons surv
  écu\, grâce à un protocole de soin efficace. Témoignage d'un rescapé.
  \n\nMerci à [Guiild](https://www.guiild.fr/) qui nous propose un apériti
  f pour clore le meetup.\nUn immense merci à [Aquinum](https://www.aquinum
@@ -291,16 +355,16 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/305454697/\n📍
  de notre ère numérique.\nExplorons comment ces outils essentiels ont ré
  volutionné notre manière de naviguer sur le web.Nous plongerons dans leu
  r histoire\, dévoilerons les technologies qui les animent et discuteront 
- des innovations qui continuent de transformer notre expérience en ligne.\
- nQue vous soyez un explorateur du numérique ou simplement curieux\, cette
-  conférence vous offrira une vision enrichie des navigateurs en tant que 
- guides de notre monde connecté.\nUn petit retour aux bases CPU\, GPU\, tr
- aitement IP\, process de rendering\, JS...\nUn grand merci à [OnePoint](h
- ttps://www.groupeonepoint.com/fr/nos-implantations/onepoint-sud-ouest/) qu
- i nous accueillera dans ses locaux pour ce BordeauxJS 🍾\n\nCommunauté:
-  bordeauxjs\n👥 35 participant(s)
-LOCATION:Onepoint Bordeaux - Transformation Digital\, 2 Rue Marc Sangnier\
- , Bègles\, France
+ des innovations qui continuent de transformer notre expérience en ligne.
+ \nQue vous soyez un explorateur du numérique ou simplement curieux\, cett
+ e conférence vous offrira une vision enrichie des navigateurs en tant que
+  guides de notre monde connecté.\nUn petit retour aux bases CPU\, GPU\, t
+ raitement IP\, process de rendering\, JS...\nUn grand merci à [OnePoint](
+ https://www.groupeonepoint.com/fr/nos-implantations/onepoint-sud-ouest/) q
+ ui nous accueillera dans ses locaux pour ce BordeauxJS 🍾\n\nCommunauté
+ : bordeauxjs\n👥 35 participant(s)
+LOCATION:Onepoint Bordeaux - Transformation Digital\, 2 Rue Marc Sangnier
+ \, Bègles\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/305454697/
 END:VEVENT
@@ -395,8 +459,8 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/300720488/\n📍
  com/fr/nos-implantations/onepoint-sud-ouest/) qui nous accueillera dans se
  s locaux pour ce BordeauxJS 🍾\n\nCommunauté: bordeauxjs\n👥 28 parti
  cipant(s)
-LOCATION:Onepoint Bordeaux - Transformation Digital\, 2 Rue Marc Sangnier\
- , Bègles\, France
+LOCATION:Onepoint Bordeaux - Transformation Digital\, 2 Rue Marc Sangnier
+ \, Bègles\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/300720488/
 END:VEVENT
@@ -414,12 +478,12 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/295650742/\n📍
  eu.fr](http://francebleu.fr/) \, Lang vient nous faire un retour d’expé
  rience : comment refaire complètement un grand site public existant avec 
  des contraintes de run et un framework performant mais resté longtemps en
-  version beta\, SvelteKit.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
- \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nN
- ous serons reçus **au Node à Bordeaux**\, n'hesitez pas a amener de quoi
-  grignoter et boire si vous le souhaitez.\n🍻 si vous amenez\n📌 Le No
- de\, 12 rue des Faussets\, 33000 Bordeaux\n\nCommunauté: bordeauxjs\n👥
-  39 participant(s)
+  version beta\, SvelteKit.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\n
+ Nous serons reçus **au Node à Bordeaux**\, n'hesitez pas a amener de quo
+ i grignoter et boire si vous le souhaitez.\n🍻 si vous amenez\n📌 Le N
+ ode\, 12 rue des Faussets\, 33000 Bordeaux\n\nCommunauté: bordeauxjs\n
+ 👥 39 participant(s)
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/295650742/
@@ -446,11 +510,11 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/294469714/\n📍
  rence 100% retour d’expérience sur un starter de projet Open Source.\nP
  our ce dernier meetup de la "saison" on vous propose de se retrouver dans 
  les locaux de **Wanteeed** où nous aurons le plaisir de terminer se meetu
- p en nous vous invitant à rester pour partager un verre tous ensemble.\n\
- \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-🍻 En fin d'évènement📌 **
- WANTEEED**\, 13 Rue des Cordeliers\, 33300 Bordeaux\n\nCommunauté: bordea
- uxjs\n👥 31 participant(s)
+ p en nous vous invitant à rester pour partager un verre tous ensemble.\n
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-🍻 En fin d'évènement📌 
+ **WANTEEED**\, 13 Rue des Cordeliers\, 33300 Bordeaux\n\nCommunauté: bord
+ eauxjs\n👥 31 participant(s)
 LOCATION:13 Rue des Cordeliers\, 13 Rue des Cordeliers\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/294469714/
@@ -471,10 +535,10 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/294061290/\n📍
  dans l’aventure Module Federation et de (re)découper le site en micro f
  ront-ends.\nEt enfin\, pour terminer\, nous aurons le plaisir de terminer 
  se meetup en nous vous invitant à rester pour partager un verre tous ense
- mble.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
- \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-🍻 En fin d'évènemen
- t📌 **EKINO**\, 1 cours Xavier Arnozan\, Bordeaux\n\nCommunauté: bordea
- uxjs\n👥 40 participant(s)
+ mble.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-🍻 En fin d'évèneme
+ nt📌 **EKINO**\, 1 cours Xavier Arnozan\, Bordeaux\n\nCommunauté: borde
+ auxjs\n👥 40 participant(s)
 LOCATION:EKINO - 33000\, 1 Cr Xavier Arnozan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/294061290/
@@ -530,13 +594,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/292251002/\n📍
  work\, et a le gros avantage d'être à la fois simple à utiliser et pour
  tant très polyvalente.Nous vous proposons de venir découvrir comment s'e
  n servir dans une présentation qui combine théorie et exemples pratiques
- .\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\
- -\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vo
- us accueillir pour ce meetup au Node\, espace de coworking d'Aquinum.\nN'h
- ésitez pas à amener de quoi boire et/ou manger pour finir l'atelier auto
- ur d'une bière ou d'une chips.\n🍻 Si vous amenez📌 Le Node\, 12 rue 
- des Faussets\, 33000 Bordeaux\n\nCommunauté: bordeauxjs\n👥 21 particip
- ant(s)
+ .\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de v
+ ous accueillir pour ce meetup au Node\, espace de coworking d'Aquinum.\nN'
+ hésitez pas à amener de quoi boire et/ou manger pour finir l'atelier aut
+ our d'une bière ou d'une chips.\n🍻 Si vous amenez📌 Le Node\, 12 rue
+  des Faussets\, 33000 Bordeaux\n\nCommunauté: bordeauxjs\n👥 21 partici
+ pant(s)
 LOCATION:Node\, 12 rue des faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/292251002/
@@ -589,24 +653,24 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/292064025/\n📍
   certains des anti-patterns les plus courants et leurs remèdes ainsi que 
  des conseils opérationnels pour créer des pull-requests exceptionnelles.
  \nÀ l’origine\, la revue de code visait à bloquer la mise en productio
- n lorsque des problèmes bloquants étaient identifiés. Assez rapidement\
- , on s’est rendu compte qu’elle était aussi l’occasion parfaite pou
- r une "revue de pratiques". Même avec des PRs super-bien-écrits\, ce sty
- le de revue prend parfois trop de temps (trop de commentaires\, souvent le
- s mêmes commentaires d’ailleurs\, trop d’aller retours\, etc.). Encor
- e pire: toute l’énergie dépensée par le reviewer ne profite qu’à l
- ’auteur.\nArthur Magne nous présentera un nouveau format d’échange q
- ui permet de fluidifier ces revues de code et aussi d’étendre le scope 
- du partage de connaissances à l’ensemble de l’équipe (ou une communa
- uté de pratiques). Aligner les pratiques de développement d’une équip
- e est une étape essentielle pour progresser et accélérer ces revues de 
- code et le développement en soi !\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\
- -\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
- \-\\-Nous aurons le plaisir de vous accueillir pour ce meetup dans les loc
- aux de **Wanteeed** où à la suite de ce meetup nous vous inviterons à r
- ester pour partager un verre tous ensemble.\n🍻 En fin d'évènement📌
-  Wanteeed\, 13 rue des Cordeliers\n\nCommunauté: bordeauxjs\n👥 72 part
- icipant(s)
+ n lorsque des problèmes bloquants étaient identifiés. Assez rapidement
+ \, on s’est rendu compte qu’elle était aussi l’occasion parfaite po
+ ur une "revue de pratiques". Même avec des PRs super-bien-écrits\, ce st
+ yle de revue prend parfois trop de temps (trop de commentaires\, souvent l
+ es mêmes commentaires d’ailleurs\, trop d’aller retours\, etc.). Enco
+ re pire: toute l’énergie dépensée par le reviewer ne profite qu’à 
+ l’auteur.\nArthur Magne nous présentera un nouveau format d’échange 
+ qui permet de fluidifier ces revues de code et aussi d’étendre le scope
+  du partage de connaissances à l’ensemble de l’équipe (ou une commun
+ auté de pratiques). Aligner les pratiques de développement d’une équi
+ pe est une étape essentielle pour progresser et accélérer ces revues de
+  code et le développement en soi !\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup dans les 
+ locaux de **Wanteeed** où à la suite de ce meetup nous vous inviterons 
+ à rester pour partager un verre tous ensemble.\n🍻 En fin d'évènement
+ 📌 Wanteeed\, 13 rue des Cordeliers\n\nCommunauté: bordeauxjs\n👥 72 
+ participant(s)
 LOCATION:13 Rue des Cordeliers\, 13 Rue des Cordeliers\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/292064025/
@@ -653,21 +717,21 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/291437327/\n📍
  .\nVotre mission consiste à infiltrer une multinationale dont l'action es
  t nocive pour le climat\, et de nuire à toute initiative de partage de co
  nnaissances dans les équipes d'ingénierie. Cela permettra de retarder le
- s livraisons de leurs applications\, d'augmenter les défauts de qualité\
- , de frustrer les équipes et d'augmenter le turnover.\nCe talk vous donne
- ra une formation accélérer pour atteindre vos objectifs\, avec des astuc
- es sur:\n* Comment nuire aux communautés de pratiques* Comment mal se com
- porter lors des sessions de Pair/Mob programming et les revues de code* Co
- mment ennuyer les guildes en demandant des ROIs injustifiés sur leurs ses
- sions* Comment indiquer au management qu'il ne faut surtout pas financer l
- es livres discutés lors des book clubs\nNous verrons donc quelques consei
- ls pour avancer masqué.e\, atteindre votre objectif\, et contribuer à sa
- uver le climat.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le
-  plaisir de vous accueillir pour ce meetup dans les locaux de l'**ECV** o
- ù à la suite de ce meetup nous vous inviterons à rester pour partager u
- n verre tous ensemble.\n🍻 En fin d'évènement📌 ECV\, 26 Rue Esprit 
- des Lois\n\nCommunauté: bordeauxjs\n👥 22 participant(s)
+ s livraisons de leurs applications\, d'augmenter les défauts de qualité
+ \, de frustrer les équipes et d'augmenter le turnover.\nCe talk vous donn
+ era une formation accélérer pour atteindre vos objectifs\, avec des astu
+ ces sur:\n* Comment nuire aux communautés de pratiques* Comment mal se co
+ mporter lors des sessions de Pair/Mob programming et les revues de code* C
+ omment ennuyer les guildes en demandant des ROIs injustifiés sur leurs se
+ ssions* Comment indiquer au management qu'il ne faut surtout pas financer 
+ les livres discutés lors des book clubs\nNous verrons donc quelques conse
+ ils pour avancer masqué.e\, atteindre votre objectif\, et contribuer à s
+ auver le climat.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons 
+ le plaisir de vous accueillir pour ce meetup dans les locaux de l'**ECV** 
+ où à la suite de ce meetup nous vous inviterons à rester pour partager 
+ un verre tous ensemble.\n🍻 En fin d'évènement📌 ECV\, 26 Rue Esprit
+  des Lois\n\nCommunauté: bordeauxjs\n👥 22 participant(s)
 LOCATION:26 Rue Esprit des Lois\, 26 Rue Esprit des Lois\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -693,13 +757,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/289951483/\n📍
  ait sa popularité.\nOn vous propose donc de venir essayer Svelte\, dans l
  e cadre d'un atelier guidé\, pour vous permettre de vous mettre le pied 
  à l'étrier\, et qui sait\, vous donner envie de plonger plus loin dans c
- et outil formidable qu'est Svelte.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\
- -\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
- \-\\-Nous aurons le plaisir de vous accueillir pour ce meetup au Node\, es
- pace de coworking d'Aquinum.\nN'hésitez pas à amener de quoi boire et/ou
-  manger pour finir l'atelier autour d'une bière ou d'une chips.\n🍻 Si 
- vous amenez📌 Le Node\, 12 rue des Faussets\, 33000 Bordeaux\n\nCommunau
- té: bordeauxjs\n👥 35 participant(s)
+ et outil formidable qu'est Svelte.\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ \\-\\-Nous aurons le plaisir de vous accueillir pour ce meetup au Node\, e
+ space de coworking d'Aquinum.\nN'hésitez pas à amener de quoi boire et/o
+ u manger pour finir l'atelier autour d'une bière ou d'une chips.\n🍻 Si
+  vous amenez📌 Le Node\, 12 rue des Faussets\, 33000 Bordeaux\n\nCommuna
+ uté: bordeauxjs\n👥 35 participant(s)
 LOCATION:Node\, 12 rue des faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/289951483/
@@ -730,13 +794,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/290159255/\n📍
  ons de plus près ses avantages et ses inconvénients par rapport au bundl
  er Webpack\, un des plus utilisés aujourd’hui.\n15 minutes pour l'histo
  ire des bundlers\, 20 minutes pour Vite sa description et son installation
- .\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\
- -\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nNous aurons le plaisir de 
- vous accueillir pour ce meetup dans les locaux de l'ECV où à la suite de
-  cette présentation nous vous inviterons à rester pour partager un verre
-  tous ensemble.\n🍻 En fin d'évènement📌 Amphi de l'ECV\, 26 Rue Esp
- rit des Lois · Bordeaux\n\nCommunauté: bordeauxjs\n👥 31 participant(s
- )
+ .\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nNous aurons le plaisir de
+  vous accueillir pour ce meetup dans les locaux de l'ECV où à la suite d
+ e cette présentation nous vous inviterons à rester pour partager un verr
+ e tous ensemble.\n🍻 En fin d'évènement📌 Amphi de l'ECV\, 26 Rue Es
+ prit des Lois · Bordeaux\n\nCommunauté: bordeauxjs\n👥 31 participant(
+ s)
 LOCATION:26 Rue Esprit des Lois\, 26 Rue Esprit des Lois\, Bordeaux\, Fran
  ce
 TZID:Europe/Paris
@@ -766,13 +830,13 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/289947392/\n📍
  gnant à cacher leur handicap\, sous peine de rejet. Dans cette meetup\, j
  e vous présenterai des chiffres\, des anecdotes de notre vécu en tant qu
  e bipolaires sur le marché de la tech\, et des conseils pour trouver\, am
- énager ou créer des conditions d'emploi plus inclusives.\n\\-\\-\\-\\-\\
- -\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
- \-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pou
- r ce meetup dans les locaux de l'**Zenika** où à la suite de ce meetup n
- ous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 
- En fin d'évènement📌 Zenika\, 17 Quai Louis XVIII\, Bordeaux\n\nCommun
- auté: bordeauxjs\n👥 19 participant(s)
+ énager ou créer des conditions d'emploi plus inclusives.\n\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir po
+ ur ce meetup dans les locaux de l'**Zenika** où à la suite de ce meetup 
+ nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻
+  En fin d'évènement📌 Zenika\, 17 Quai Louis XVIII\, Bordeaux\n\nCommu
+ nauté: bordeauxjs\n👥 19 participant(s)
 LOCATION:Zenika Bordeaux\, 17 Quai Louis XVIII\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/289947392/
@@ -805,12 +869,12 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/289330790/\n📍
   + back ? Dois-je être un ninja de webpack pour réussir à builder tout 
  ça correctement ?Nous aborderons ces sujets ensemble en parcourant le cod
  e de cette application utilisée dans la vraie vie.\n\\-\\-\\-\\-\\-\\-\\-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\
- -\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce me
- etup dans les locaux de l'**ESD** où à la suite de cette présentation n
- ous vous inviterons à rester pour partager un verre tous ensemble.\n🍻 
- En fin d'évènement📌 ESD\, 11 place de la Ferme de Richemont\, 33000 B
- ordeaux\n\nCommunauté: bordeauxjs\n👥 60 participant(s)
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-Nous aurons le plaisir de vous accueillir pour ce m
+ eetup dans les locaux de l'**ESD** où à la suite de cette présentation 
+ nous vous inviterons à rester pour partager un verre tous ensemble.\n🍻
+  En fin d'évènement📌 ESD\, 11 place de la Ferme de Richemont\, 33000 
+ Bordeaux\n\nCommunauté: bordeauxjs\n👥 60 participant(s)
 LOCATION:11 Pl. de la Frm Richemont\, 11 Pl. de la Frm Richemont\, Bordeau
  x\, France
 TZID:Europe/Paris
@@ -844,11 +908,11 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/289042639/\n📍
   que celui des femmes autour de nous : les challenges quotidiens que nous 
  sommes nombreuses à vivre. Quelles solutions / actions concrètes pouvons
  -nous y apporter ? Nous vous présenterons des actions et propositions sim
- ples pour favoriser l'inclusion des femmes dans la Tech.\n\\-\\-\\-\\-\\-\
- \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\nNous aurons le plaisir de vous accueillir pou
- r ce meetup dans les locaux de SFEiR où à la suite de cette présentatio
- n nous vous inviterons à rester pour partager un verre tous ensemble.\n
+ ples pour favoriser l'inclusion des femmes dans la Tech.\n\\-\\-\\-\\-\\-
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\
+ \-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nNous aurons le plaisir de vous accueillir p
+ our ce meetup dans les locaux de SFEiR où à la suite de cette présentat
+ ion nous vous inviterons à rester pour partager un verre tous ensemble.\n
  🍻 En fin d'évènement📌 SFEiR\, 5 rue de condé\, 33300 Bordeaux\n\n
  Communauté: bordeauxjs\n👥 23 participant(s)
 LOCATION:SFEIR Bordeaux\, 5 Rue de Condé\, Bordeaux\, France
@@ -1109,15 +1173,15 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/265015769/\n📍
  ons dans les dépendances npm et les refactoring hasardeux\, il est compli
  qué de livrer sereinement du JavaScript en production !\nC'est un mal né
  cessaire\, puisqu'il s'agit du seul langage compatible avec tous les navig
- ateurs\, non ? Non !\nJe vous propose de découvrir une alternative\, Elm\
- , dont la première promesse est troublante mais limpide : plus d'erreurs 
- au runtime !\nNous verrons comment ce langage spécialement pensé pour cr
- éer des applications web garantit des mises en production sereines\, loin
-  de tous ces soucis que posent les applications JavaScript.\nNous terminer
- ons ce meetup par un verre tous ensemble 🍻\n# Ce qu'il faut emmener* De
-  la bonne humeur\n# Bonus🎟️Un tirage au sort sera organiser pour remp
- orter une place pour BDX I/O\n\nCommunauté: bordeauxjs\n👥 56 participa
- nt(s)
+ ateurs\, non ? Non !\nJe vous propose de découvrir une alternative\, Elm
+ \, dont la première promesse est troublante mais limpide : plus d'erreurs
+  au runtime !\nNous verrons comment ce langage spécialement pensé pour c
+ réer des applications web garantit des mises en production sereines\, loi
+ n de tous ces soucis que posent les applications JavaScript.\nNous termine
+ rons ce meetup par un verre tous ensemble 🍻\n# Ce qu'il faut emmener* D
+ e la bonne humeur\n# Bonus🎟️Un tirage au sort sera organiser pour rem
+ porter une place pour BDX I/O\n\nCommunauté: bordeauxjs\n👥 56 particip
+ ant(s)
 LOCATION:Le Wagon Bordeaux\, Training Development Web\, Data Analytics & D
  ata Science\, 107 Cr Balguerie Stuttenberg\, Bordeaux\, France
 TZID:Europe/Paris
@@ -1392,8 +1456,8 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/247770121/\n📍
  eux frameworks.La présentation sera suivie d'un atelier pour créer une a
  pplication web hybride (AngularJS/Angular)\, pour une migration "en douceu
  r".\n# Ce qu'il faut emmener* un portable avec un environnement NodeJS \;*
-  à boire et à manger \;* de la bonne humeur.\n\nCommunauté: bordeauxjs\
- n👥 30 participant(s)\nLimité à 30 places
+  à boire et à manger \;* de la bonne humeur.\n\nCommunauté: bordeauxjs
+ \n👥 30 participant(s)\nLimité à 30 places
 LOCATION:Node\, 12 rue des faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/247770121/
@@ -1446,8 +1510,8 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/243276773/\n📍
   Les Copains d'abord\, 27 Rue Camille Sauvageau\, Bordeaux\, France\n\nC'e
  st la rentrée ! \nPourquoi ne pas se retrouver dans une ambiance décont
  ractée aux Copains d'abord\, rien de formel\, l'objectif est de se retrou
- ver\, de discuter JS et des technos du web tout cela autour d'un verre.\n\
- nCommunauté: bordeauxjs\n👥 21 participant(s)
+ ver\, de discuter JS et des technos du web tout cela autour d'un verre.\n
+ \nCommunauté: bordeauxjs\n👥 21 participant(s)
 LOCATION:Les Copains d'abord\, 27 Rue Camille Sauvageau\, Bordeaux\, Franc
  e
 TZID:Europe/Paris
@@ -1620,12 +1684,12 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/225841618/\n📍
  est enfermé dans un labyrinthe sans sortie\, et les joueurs vont s'affron
  ter en 1 vs 1 pour être le premier à mettre la main dessus.\nLa recette 
  de cette année contient une pincée de league of legends\, un peu de path
- finding\, 2 ou 3 morceaux de sockets\, et 3 arduino bien dodu.\nEn finale\
- , vos IA piloteront des robots en arduino dans une maquette de 4x4m à Cap
- Science.\nJe vous laisse découvrir le reste sur http://codeofwar.net/\nRa
- ssemblez vous\, et codez\, ça va saigner :)\nDavid\nPS : Un équipe m'a d
- it qu'on pouvait pas coder une IA en JS\, et que c'était pas un vrai lang
- age. Je dis ça...\n\nCommunauté: bordeauxjs\n👥 1 participant(s)
+ finding\, 2 ou 3 morceaux de sockets\, et 3 arduino bien dodu.\nEn finale
+ \, vos IA piloteront des robots en arduino dans une maquette de 4x4m à Ca
+ pScience.\nJe vous laisse découvrir le reste sur http://codeofwar.net/\nR
+ assemblez vous\, et codez\, ça va saigner :)\nDavid\nPS : Un équipe m'a 
+ dit qu'on pouvait pas coder une IA en JS\, et que c'était pas un vrai lan
+ gage. Je dis ça...\n\nCommunauté: bordeauxjs\n👥 1 participant(s)
 LOCATION:Cap Science\, Hangar 20\, Quai de Bacalan\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/225841618/
@@ -1769,12 +1833,12 @@ DESCRIPTION:🔗 https://www.meetup.com/bordeauxjs/events/167310502/\n📍
   Script\, qui est un language quasi équivalent à Javascript\, mais aussi
   une plateforme sur laquelle exécuter des scripts qui vont facilement com
  muniquer avec des services Google. Au programme de cette démo : récupér
- er des données Gmail et Contacts\, les exporter vers Google Spreadsheets\
- , et en faire des models prédictifs avec Google Prediction API!\nCette fo
- is encore\, le BordeauxJS sera en mode "apéro collaboratif" où chacun es
- t invité à ramener un petit truc à boire et/ou à manger.\nA la semaine
-  prochaine !\nDavid\n[1] https://twitter.com/louisdorard\n\nCommunauté: b
- ordeauxjs\n👥 12 participant(s)
+ er des données Gmail et Contacts\, les exporter vers Google Spreadsheets
+ \, et en faire des models prédictifs avec Google Prediction API!\nCette f
+ ois encore\, le BordeauxJS sera en mode "apéro collaboratif" où chacun e
+ st invité à ramener un petit truc à boire et/ou à manger.\nA la semain
+ e prochaine !\nDavid\n[1] https://twitter.com/louisdorard\n\nCommunauté: 
+ bordeauxjs\n👥 12 participant(s)
 LOCATION:Node\, 12 rue des faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjs/events/167310502/

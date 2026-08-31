@@ -1,6 +1,196 @@
 [
   {
     "title": "Coding dojo",
+    "date": "2026-12-07T18:30:00+01:00",
+    "url": "https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcqbkb/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "9 Rue de Condé, Bordeaux",
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
+    "title": "Coding dojo",
+    "date": "2026-11-02T18:30:00+01:00",
+    "url": "https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcpbdb/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "9 Rue de Condé, Bordeaux",
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
+    "title": "Club de lecture 26.6 - Factfulness",
+    "date": "2026-10-10T10:30:00",
+    "url": "https://the-playground.fr/m/club-de-lecture-26-6-factfulness",
+    "description": "Le club de lecture 26.6 se tiendra samedi 10 octobre de 10h30 à 12h30 au Node.\n\nLe livre sélectionné est “Factfulness” de Hans Rosling.\n\n“Nous nous croyons rationnels et informés. Ce n'est pas le cas. Nous nous trompons systématiquement, quel que soit notre niveau d'études, y compris - peut-être même plus - sur les sujets que nous croyons bien connaître. Mais, comme le met au jour Hans Rosling, statisticien de génie et star des conférences TED, les raisons pour lesquelles nous nous trompons sont toujours les mêmes ! Hérité d'un ancestral instinct de survie, c'est le fonctionnement même de notre cerveau qui nous induit en erreur : en nous incitant à chercher un coupable à tout phénomène ; en résumant la plupart des problèmes en une stérile opposition binaire ; en nous intimant de réagir dans l'urgence (confondant ainsi peur et danger) ; en étant facilement ébloui par les gros chiffres ; en dramatisant à l'excès (et en adorant ça)... Ce livre nous apprend à repérer les situations où nos biais de pensée déforment notre vision des choses. Indispensable pour comprendre le monde tel qu'il est, Factfulness permet de prendre, enfin, la saine habitude de ne fonder son opinion que sur des faits.”\n\n*****\n\nLe club de lecture est un moment de partage et d’échange autour d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins une partie significative.\n\nLe nombre de places étant limité à 15, merci de vous désinscrire si vous ne pouvez plus vous joindre à nous.",
+    "location": "Le Node, 12 Rue des Faussets, Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Coding dojo",
+    "date": "2026-10-05T18:30:00+02:00",
+    "url": "https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "9 Rue de Condé, Bordeaux",
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
+    "title": "15 ans de Kotlin 🎂",
+    "date": "2026-09-22T19:00:00",
+    "url": "https://www.eventbrite.fr/e/15-ans-de-kotlin-tickets-1994958612914",
+    "description": "Kotlin fête ses 15 ans cette année ! Venez fêter son anniversaire avec nous, au Node, le 22 septembre 2026.\nAu programme, des échanges, un retour sur l'histoire de Kotlin et son évolution au fil des années, et même quelques activités !\n\nTous les profils sont les bienvenus, pas besoin d'être dev ou même de connaître le langage. Par ailleurs, c'est l'événement idéal si vous souhaitez le découvrir !",
+    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeauxkt"
+    ]
+  },
+  {
+    "title": "HumanTalks Bordeaux #15 — Transformer la tech, réinventer l'organisation",
+    "date": "2026-09-08T18:30:00+02:00",
+    "url": "https://www.meetup.com/human-talks-bordeaux/events/316194450/",
+    "description": "Avec les transformations majeures que nous traversons, notamment autour de l'IA, on réalise vite que les sujets au centre restent l'**Humain** et l'**Organisation**. Et ça tombe bien, car c'est exactement ce qu'on aime explorer dans notre communauté !\n\nPour ce meetup, nous avons le plaisir de rassembler 3 intervenants dont les interventions abordent des sujets bien distincts mais, lorsqu'on les croise, adressent une vraie question de fond : **comment aligner le collectif Tech et l'engagement individuel pour démultiplier l'impact au sein des organisations ?**\n\nC’est d’abord Julien Amar qui, fraîchement arrivé de Londres, nous partagera son retour d'expérience sur la bascule d'une organisation [Projet => Produit] qu'il a mené au sein de la chaîne TV Sky. Ensuite, Mélanie Drucy partagera son retour d'expérience sur 18 mois de transformation vécus de l'intérieur chez Peaksys, la filiale tech de Cdiscount. Enfin, Alexis Monville nous proposera une expérience interactive pour explorer la \"Ligne du Leadership\", questionner sa propre posture et décupler son impact sur le terrain.\n\nTrois sujets ancrés dans l'écosystème Tech & Produit, mais dont l'impact dépasse largement le cadre des équipes pour transformer l'organisation dans son ensemble.\n\nPour ce meetup, nous investissons un tout nouvel endroit : BOPE Bordeaux - Victoire, un ancien garage réinventé en un superbe coworking / espace de travail. Au plaisir de vous y voir !\n\n--\n**Au programme de ce meetup**\n18h30 - Accueil\n\n*\n\n19h - **Du mindset projet au mindset produit : transformer 200 ingénieurs en équipes orientées valeur** par [Julien Amar](https://www.linkedin.com/in/julienamar/), Directeur de projets IT & Consultant en transformation\n*Chez Sky, dans une division métier (pas une DSI), j'ai accompagné la bascule de 20 squads, environ 200 ingénieurs, d'une logique projet vers un fonctionnement produit organisé autour des value streams. En 10 minutes, je partage le \"pourquoi\" derrière ce virage : redonner du sens aux équipes tech, reconnecter la delivery aux enjeux business, et prioriser par la valeur plutôt que par l'urgence. Un retour d'expérience concret, sans jargon.*\n\n*À repartir avec :*\n*\\- Reconnaître les signaux d'une organisation \"projet\" qui s'essouffle*\n*\\- Comprendre ce qui change vraiment avec un modèle \"produit\"\\, au\\-delà des mots*\n*\\- Des leviers concrets pour aligner business et tech autour de la valeur*\n\n*Ce talk s’adresse aux ingénieurs, leads, engineering managers, PM/PO, et managers métier qui travaillent avec des équipes tech.*\n\n*\n\n19h20 - **De l’excellence collective à l’excellence individuelle : savoir changer ce qui a réussi pour aller plus loin**​ par [Mélanie Drucy](https://www.linkedin.com/in/melanie-drucylaurent), Directrice Learn 2 Scale @ [Peaksys](https://www.linkedin.com/company/peaksys/), filiale Tech de Cdiscount\n*Chez Peaksys, filiale tech du groupe Cdiscount, la transformation Accelerate nous a d'abord fait miser sur l'excellence collective : standards du marché (agilité, devops et product management), conduite du changement transverse, communautés de pratique et coaching. Cette approche nous a permis de réelles progressions de performance et de satisfaction de nos collaborateurs. Elle a aussi révélé des limites que ces standards, seuls, ne suffisaient pas à lever.​*\n\n*Pour lever ces limites, nous avons donc changé d'approche : partir du terrain, et traiter les problèmes du quotidien l'un après l'autre. Un parti-pris contre-intuitif quand on recherche des impacts à grande échelle, et qui challenge en profondeur notre façon de fonctionner.​*\n\n*Concrètement, cela se traduit par trois mouvements que je partage en 10 minutes : passer du collectif à l'individuel, simplifier le travail, et faire porter le changement par la ligne managériale au plus près des équipes. Un retour d'expérience sur nos difficultés et réussites des 18 derniers mois.*\n\n*\n\n19h40 - **Au-delà des modèles, la posture : expérimentez la \"Ligne du Leadership\" pour décupler votre impact** par [Alexis Monville](https://www.linkedin.com/in/alexismonville/), Leadership Coach, [Pearlside](https://pearlside.fr/)\n*Avant cette intervention, Julien va parler du virage vers le \"mindset produit\" et Mélanie de l'importance du terrain. Mais pour que ces transformations réussissent, il manque souvent une clé de voûte : la posture de ceux qui les portent. Comment incarner ce changement au quotidien ?*\n\n*Je vous propose d'explorer \"la ligne du leadership\", un outil que j'utilise avec les leaders et leurs équipes pour faire évoluer leurs organisations vers plus d'impact et de satisfaction. Plutôt que de vous raconter cet outil en 10 minutes, je vais vous le faire vivre. Préparez-vous à une expérience interactive pour ressentir concrètement ce qui se joue dans nos dynamiques de leadership.*\n\n*À repartir avec :*\n*\\- Une compréhension par l'expérience des différentes postures de leadership*\n*\\- Une boussole interne pour identifier où vous et vos équipes vous situez en temps réel*\n*\\- Le déclic pour faire évoluer votre propre posture face aux situations de blocage ou de transformation*\n\n*\n\n20h - Discussions autour d’un verre\n21h30 - Fin",
+    "is_online": false,
+    "venue": {
+      "name": "BOPE Bordeaux - Victoire",
+      "address": "16 Rue Succursale",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "16 Rue Succursale, Bordeaux",
+    "communities": [
+      "human-talks"
+    ]
+  },
+  {
+    "title": "Coding dojo",
+    "date": "2026-09-07T18:30:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcmbkb/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "9 Rue de Condé, Bordeaux",
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
+    "title": "Club de lecture 26.5 - Les livres de l’été",
+    "date": "2026-09-05T10:30:00",
+    "url": "https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete",
+    "description": "Le club de lecture 26.5 se tiendra samedi 5 septembre de 10h30 à 12h30 au Node.\n\nPour cette session au format estival nous vous proposons de venir partager vos lectures de l’été.\n\n*****\n\nLe club de lecture est un moment de partage et d’échange autour d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins une partie significative.\n\nLe nombre de places étant limité à 15, merci de vous désinscrire si vous ne pouvez plus vous joindre à nous.",
+    "location": "Le Node, 12 Rue des Faussets, Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "🗺️ Rentrée bordelaise du groupe local OpenStreetMap",
+    "date": "2026-09-03T18:00:00",
+    "url": "https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457",
+    "description": "Rejoignez-nous le jeudi 3 septembre à 18h autour d'un pique-nique pour fêter la rentrée du groupe local OSM ! 🗺️\n\nCet évènement sera l'occasion de discuter des modalités des futures rencontres et du contenu de celles-ci (cartopartie, tutoriels, mapathon, etc.).\n\nChaque participant est invité à apporter quelque chose à manger ou à boire pour contribuer au bon déroulement du pique-nique. 🥪\n\nBonnes vacances à toutes et tous et au plaisir de vous voir !\n\nPour en savoir plus 👉 https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457",
+    "location": "Aquilenet, 20 rue Tourat, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
+    "title": "State of The Map 2026 - Jour 3",
+    "date": "2026-08-30T09:30:00",
+    "url": "https://2026.stateofthemap.org/programme/#general_Sunday",
+    "description": "Le State of the Map 2026 est la conférence annuelle dédiée aux cartographes et utilisateurs d'OpenStreetMap. Cette édition se tiendra à Paris et en ligne, sur 3 jours, avec au programme des conférences, des ateliers et des échanges autour de la cartographie collaborative.",
+    "location": "Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne",
+    "is_online": true,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
+    "title": "State of The Map 2026 - Jour 2",
+    "date": "2026-08-29T09:30:00",
+    "url": "https://2026.stateofthemap.org/programme/#general_Saturday",
+    "description": "Le State of the Map 2026 est la conférence annuelle dédiée aux cartographes et utilisateurs d'OpenStreetMap. Cette édition se tiendra à Paris et en ligne, sur 3 jours, avec au programme des conférences, des ateliers et des échanges autour de la cartographie collaborative.",
+    "location": "Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne",
+    "is_online": true,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
+    "title": "State of The Map 2026 - Jour 1",
+    "date": "2026-08-28T09:30:00",
+    "url": "https://2026.stateofthemap.org/programme/#general_Friday",
+    "description": "Le State of the Map 2026 est la conférence annuelle dédiée aux cartographes et utilisateurs d'OpenStreetMap. Cette édition se tiendra à Paris et en ligne, sur 3 jours, avec au programme des conférences, des ateliers et des échanges autour de la cartographie collaborative.",
+    "location": "Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne",
+    "is_online": true,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
+    "title": "Coding dojo",
+    "date": "2026-08-03T18:30:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjclbfb/",
+    "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
+    "is_online": false,
+    "venue": {
+      "name": "Coolworking - Coworking Bordeaux Centre",
+      "address": "9 Rue de Condé",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "9 Rue de Condé, Bordeaux",
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
+    "title": "Mapathon : Cartographie du plan de bus Bordelais",
+    "date": "2026-07-13T18:00:00",
+    "url": "https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-obsolete-sur-osm/41982",
+    "description": "Bonjour,\n\nNous réalisons le 13/07 à 18h notre premier mapathon à Aquilenet. L’objectif est de cartographier l’ensemble du plan de bus bordelais avec les données GTFS (pour General Transit Feed Specification).\n\nVous êtes nouveaux et ne connaissez pas l’écosystème OSM ? Pas de panique !\nNous serons présents pour vous aider, vous accompagner et vous fournir la documentation nécessaire, afin que vous puissiez appréhender sereinement l’écosystème OSM.\n\nPour suivre l’actualité de cet évènement, vous pouvez consulter la page correspondante sur notre forum : https://forum.openstreetmap.fr/t/qui-est-motive-e-pour-creer-un-groupe-local-a-bordeaux/38783\n\nBon weekend à tous et au plaisir de vous voir !",
+    "location": "Aquilenet, 20 Rue Tourat, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
+    "title": "Coding dojo",
     "date": "2026-07-06T18:30:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjckbjb/",
     "description": "Des coding dojos, sessions amusantes et intenses pendant lesquelles des développeurs améliorent leurs compétences en programmation. Le principe est simple : on prend un exercice de programmation simple, on choisit un langage, et on essaie de coder une solution en respectant les 4 règles du design simple de Kent Beck :\n\n• passer tous les tests ;\n• aucune duplication de code ;\n• révéler les intentions par le code, être très attentif au nommage ;\n• réduire le nombre de classes et de méthodes.\n\nLe kata et le langage sont décidé sur place, par les personnes présentes. Ils peuvent etre tiré de ce site -https://codingdojo.org/",
@@ -14,6 +204,232 @@
     "location": "9 Rue de Condé, Bordeaux",
     "communities": [
       "okiwi"
+    ]
+  },
+  {
+    "title": "JUG Off 2026",
+    "date": "2026-07-02T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/315464823/",
+    "description": "Le mois de Juillet est là et cela sent bon les vacances.\n\nC'est l'occasion pour se retrouver autour d'une table pour discuter du monde JAVA, de la JVM ou d'autres sujets amenés par les participants.\n\nCette année, nous reprenons les basiques avec un restaurant italien\n\nCela sera aussi l'opportunité de retrouver l'équipe et de faire un point sur le BordeauxJUG donc n'hésitez pas à venir.\n\nAttention afin de pouvoir réserver, la limite des inscriptions est fixée au 1 juillet à 14h.\n\nA fin de réserver le nombre correcte, Merci de vous inscrire si vous êtes sûr de venir et de décommander si vous avez un empêchement.",
+    "is_online": false,
+    "venue": {
+      "name": "Alcala",
+      "address": "Place Alcala de Henares, 33400",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "Place Alcala de Henares, 33400, Talence",
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Data & IA sous contrôle",
+    "date": "2026-07-02T18:30:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/315181282/",
+    "description": "🍻 **Bordeaux ApérOps × Microsoft Tech Group × Thélio — l'édition crossover !**\nPour notre dernier meetup avant la pause estivale, on sort de nos quartiers habituels : on est reçus chez **Thélio Bordeaux** pour un événement conjoint avec le **Microsoft Tech Group** et **Bordeaux ApérOps**.\nTrois talks, trois angles complémentaires sur la data et l'IA en prod — du contrat d'ingestion à la gouvernance LLM, en passant par les outils Microsoft.\n**Au programme :**\n🎤 **\"Data Contracts : En finir avec les pannes d'ingestion\"** par **Youva Gharout**\n🎤 **\"15 minutes pour comprendre Microsoft Foundry\"** par **Iuliia Mazur**\n🎤 **\"Gouvernance et anonymisation des données dans les flux LLM\"** par **Pierre Chaumont**\nDu Microsoft Fabric, du Microsoft Foundry, de la data, de l'IA — bref, de quoi alimenter les discussions entre profils dev, ops et data.\nEt comme d'hab : après les talks, on prend le temps d'échanger autour d'un verre. C'est souvent là que les meilleures conversations démarrent.\n**📺 Pas dispo sur place ?** Le live YouTube est ouvert : [https://www.youtube.com/live/dGJ2v9Wyy-0](https://www.youtube.com/live/dGJ2v9Wyy-0)\n\n***\n\n**📆 Infos pratiques** 🗓️ Jeudi 2 juillet · à partir de 18h30 📍 Thélio Bordeaux — 235 rue Judaïque, Bordeaux 🤝 Co-organisé avec Microsoft Tech Group & Thélio\nÀ très vite pour clôturer la saison ! 🍻",
+    "is_online": false,
+    "venue": {
+      "name": "Thélio Bordeaux",
+      "address": "235 rue Judaïque",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "235 rue Judaïque, Bordeaux",
+    "communities": [
+      "bordeaux-aperops",
+      "mtg-bordeaux"
+    ]
+  },
+  {
+    "title": "Dev With AI Meetup #16 @ Cap Sciences [Bordeaux]",
+    "date": "2026-07-01T19:00:00",
+    "url": "https://luma.com/dm16",
+    "description": "Meetup Dev With AI #16 à Cap Sciences Bordeaux.\n\nAu programme : trois talks autour du développement logiciel à l'ère de l'IA.\n\nTalk 1 : Maxime Ribera, \"Après l'IDE : bienvenue dans l'ère des Agentic Development Environments\".\n\nTalk 2 : Vincent Rouilly, \"Faire tourner de l'IA chez soi : performances, coûts et limites\", avec un retour terrain.\n\nTalk 3 : Mohammed Ben Said, \"L'IA dans le produit : de l'appel LLM simple aux architectures multi-agents\".\n\nL'événement se déroule en présentiel à Cap Sciences. Un live stream est aussi annoncé sur YouTube pour les personnes qui ne peuvent pas venir sur place.",
+    "location": "Cap Sciences, Hangar 20, Quai de Bacalan, 33300 Bordeaux, France",
+    "is_online": false,
+    "communities": [
+      "dev-with-ai"
+    ]
+  },
+  {
+    "title": "Vue.js, Nuxt & AI",
+    "date": "2026-06-30T19:00:00",
+    "url": "https://luma.com/kim18lag",
+    "description": "Pour cette nouvelle édition de BordeauxJS, les équipes d'HelloAsso accueillent l'événement à la Cité Numérique.\n\nAu programme : trois lightning talks proposés par des développeurs d'HelloAsso et de Back Market, suivis d'un moment convivial autour de pizzas et boissons.\n\nTalks annoncés: MCP Toolkit - Nuxt à l'heure de l'agentic, par Clément Ollivier (Staff Engineer @ HelloAsso); Customiser sa DX avec Nuxt, par Pierre Darrieutort (Frontend Developer @ HelloAsso); Talk #3 à venir.\n\nLieu : Cité Numérique, locaux de HelloAsso, 2 Rue Marc Sangnier, 33130 Bègles.",
+    "location": "Cité Numérique - Locaux de HelloAsso, 2 Rue Marc Sangnier, 33130 Bègles, France",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Bordeaux Python Meetup 2026.2",
+    "date": "2026-06-29T18:30:00+02:00",
+    "url": "https://www.meetup.com/py-bdx/events/315258543/",
+    "description": "**Meetup Python Bordeaux** le **29 juin** dès **18:30** au Yack à Bègles🍷\n\n* *Hypothesis : laissez la machine trouver vos edge cases*, par [Charles Pellegrini](https://www.linkedin.com/in/charles-pellegrini-a90b98bb/)\n* *Histoire secrète des bonnes pratiques, après 70 ans de développement logiciel*, par [Vincent Poulailleau](https://www.linkedin.com/in/vpoulailleau/)\n\nÉvénement ouvert à tous les débutant.e.s ou confirmé.e.s sur inscription via Discuss ou Meetup :\n🔗 [https://discuss.afpy.org/t/sur-bordeaux-meetup-le-lundi-29-juin/3054](https://discuss.afpy.org/t/sur-bordeaux-meetup-le-lundi-29-juin/3054)\n\n**🍴 Auberge espagnole** : apportez à boire et à manger que vous voudrez bien partager avec les autres participant.e.s.\n\n**⚠️ Localisation** : l'entrée du Yack est discrète : avant de venir, prenez soin de [consulter la ](https://cartes.app/?allez=Yack+-+coworking+B%C3%A9glais%7Cn11921858725%7C-0.55185%7C44.81310#18/44.8131/-0.55185/15/40)**[carte](https://cartes.app/?allez=Yack+-+coworking+B%C3%A9glais%7Cn11921858725%7C-0.55185%7C44.81310#18/44.8131/-0.55185/15/40)** ainsi que [la ](https://www.meetup.com/py-bdx/photos/36032434/534743037/)**[photo](https://www.meetup.com/py-bdx/photos/36032434/534743037/)**[ de l'entrée](https://www.meetup.com/py-bdx/photos/36032434/534743037/). Le bâtiment 19 aura un fléchage avec des feuilles A4.",
+    "is_online": false,
+    "venue": {
+      "name": "Le Yack coworking béglais",
+      "address": "16 rue des Terres Neuves, premier étage coursive droite,",
+      "city": "Bègles",
+      "country": "fr"
+    },
+    "location": "16 rue des Terres Neuves, premier étage coursive droite,, Bègles",
+    "communities": [
+      "bordeaux-python-meetup"
+    ]
+  },
+  {
+    "title": "Club de lecture 26.4 - L’éloge de la fuite",
+    "date": "2026-06-27T10:00:00",
+    "url": "https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite",
+    "description": "Le club de lecture 26.4 se tiendra samedi 27 juin de 10h00 à 12h00 au Node.\n\nLe livre sélectionné est “L’éloge de la fuite” de Henri Laborit.\n\n\"Se révolter, c'est courir à sa perte, car la révolte, si elle se réalise en groupe, retrouve aussitôt une échelle hiérarchique de soumission à l'intérieur du groupe, et la révolte, seule, aboutit rapidement à la soumission du révolté... Il ne reste plus que la fuite.\"\nHenri Laborit pose, à la lumière des découvertes biologiques, la question de notre libre arbitre, de notre personnalité même. La politique, la société, tout prend dès lors une autre dimension.\n\n*****\n\nLe club de lecture est un moment de partage et d’échange autour d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins une partie significative.\n\nLe nombre de places étant limité à 15, merci de vous désinscrire si vous ne pouvez plus vous joindre à nous.",
+    "location": "Le Node, 12 rue des Faussets, 33000 BORDEAUX",
+    "is_online": false,
+    "communities": [
+      "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "#68 : Esprit critique, es-tu là ? Let's goto hell!",
+    "date": "2026-06-18T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/315007280/",
+    "description": "Le saviez-vous ? Il faut voter pour le bureau de l'antenne tous les ans ! Donc retrouvons-nous pour voter le bureau qui représentera Bordeaux l'année prochaine 🫣\n\nAvant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\n\nLa parole à notre chère speaker 🎉\n\n**\\#\\#\\#\\# Esprit critique\\, es\\-tu là ? Let's goto hell\\!**\nPar Benjamin Rambaud, Staff Engineer\n\n\"C'est une bonne pratique.\" \"Tout le monde sait que...\" \"On a toujours fait comme ça.\"\n\nEn tant que développeur·euse, combien de certitudes répétez-vous sans les avoir vérifiées ?\nEt qu'est-ce qu'on répond quand un·e junior·e demande \"pourquoi ?\" et qu'on n'a rien de mieux que \"c'est comme ça\" ou \"c'est moche\" ?\n\nPrenons un exemple à priori simple : goto en PHP.\nVous êtes sûr·e que c'est mal ?\nQue c'est à bannir absolument ?\nQue personne de sérieux ne l'utilise ?\nQui vous l'a dit ?\nEst-ce que vous avez vérifié, ou est-ce que vous répétez ce qu'on vous a répété ?\n\nDans ce talk, on va utiliser goto comme terrain de jeu pour muscler notre esprit critique.\nOn confrontera les arguments, on parlera entre autres de biais cognitifs, et on se donnera des outils concrets pour éviter de gober une affirmation les yeux fermés.\nÀ l'ère de l'IA qui génère du code et des réponses avec aplomb, cette compétence n'a jamais été aussi essentielle.\n\nEt on appliquera ces mêmes outils à ce talk. Parce que si vous me croyez sur parole, c'est que vous n'avez rien retenu.\n\nL'objectif n'est pas de vous convaincre d'utiliser goto.\nL'objectif est que vous ne disiez plus jamais \"parce que c'est comme ça\" sans sourciller.",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "MEETUP #5 - BDX Testing Community @SII",
+    "date": "2026-06-17T18:00:00+02:00",
+    "url": "https://www.meetup.com/bdx-testing-community/events/314847233/",
+    "description": "Et si vous faisiez évoluer votre vision du test logiciel… en une soirée ?\n\nLa BDX Testing Community revient pour un nouveau meetup placé sous le signe de l’inspiration, du partage et de la rencontre. Que vous soyez QA expérimenté, développeur, manager ou simplement curieux, cette soirée est pensée pour vous.\n==> Venez découvrir de nouvelles idées… et surtout échanger avec une communauté locale passionnée.\n\n**Les infos clés**\n\n* **Date** : 17 juin 2026\n* **Horaires** : 18h – 22h\n* **Lieu** : SII, 3 Imp. Rudolf Diesel, 33700 Mérignac\n\n**Au programme**\n\n* 18h00 - Accueil des participants\n* 18h15 - Présentation de SII et de ses activités\n* 18h30 - Présentation des 3 talks\n* 20h00 - Buffet & networking\n\n**Au programme de cette nouvelle édition, trois talks** :\n💠Tester, c'est douter par **[Cédric LESEC](https://www.linkedin.com/in/c%C3%A9dric-lesec-6a31342b/)**\n💠L'IVVQ, embarquement immédiat ! par **[Jean-Manuel LEGAIT](https://www.linkedin.com/in/jean-manuel-legait-69536333/)**\n💠L’accessibilité Numérique by Design et comment l’IA pourrait accélérer sa mise en place par **[Julien Pessarossi-Viroulaud](https://www.linkedin.com/in/julien-pessarossi-viroulaud-06620859/)**\n\n**Bien plus que des talks**\nParce que les meilleures discussions se font souvent après les présentations, il est prévu un moment convivial & networking **:**\nÉchangez librement avec d’autres passionnés, partagez vos problématiques, vos réussites… et développez votre réseau local.\n\n**Pourquoi vous inscrire ?**\n\n* Découvrir de nouvelles pratiques QA\n* Prendre du recul sur vos enjeux actuels\n* Échanger avec des pairs de la région bordelaise\n* Passer un bon moment dans une ambiance bienveillante\n\n**Les places sont limitées.**\n**Inscriptions ouvertes jusqu’au 12 juin 2026 inclus.**",
+    "is_online": false,
+    "venue": {
+      "name": "SII Nouvelle Aquitaine",
+      "address": "3 impasse Rudolf Diesel",
+      "city": "Mérignac",
+      "country": "fr"
+    },
+    "location": "3 impasse Rudolf Diesel, Mérignac",
+    "communities": [
+      "bdx-testing-community"
+    ]
+  },
+  {
+    "title": "Danse avec les événements : construisons une Event-Driven Architecture ensemble",
+    "date": "2026-06-11T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/314967340/",
+    "description": "Depuis plus de deux ans, chez Primary, nous faisons **tourner une event-driven architecture en production.** Basée sur des concepts très simples, elle offre de nombreux avantages, mais cache aussi des pièges dans lesquels il est facile de tomber.\n\nVenez découvrir avec moi comment nous avons construit cette plateforme event-driven, comment nous l'avons outillée, et comment nous la maintenons aujourd'hui.\n\nEn prenant un exemple en **live-coding**, je vous montrerai le socle qu'il nous a fallu mettre en place. Nous verrons comment l'ensemble fonctionne, ainsi que les outils construits sur mesure, mais aussi notre gestion de la résilience et de l'observabilité.\n\n**Ce retour d'expérience sur nos choix pragmatiques**, les soucis que nous avons rencontrés et les leçons que nous en avons tiré vous permettra de vous faire un avis éclairé sur cette architecture.",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Afterwork networking entre acteurs du digital : DN#24",
+    "date": "2026-06-09T19:00:00",
+    "url": "https://www.eventbrite.fr/e/afterwork-networking-entre-acteurs-du-digital-dn24-tickets-1987681363465?aff=oddtdtcreator",
+    "description": "Afterworks bimestriels gratuits à Bordeaux pour connecter pros et passionnés du numérique autour d'échanges et de rencontres.\n\n🌐 DigitalNights Bordeaux, l'afterwork du numérique\n\nTu travailles dans le digital, tu t'y intéresses, ou tu as juste un projet qui traîne dans un coin de ta tête ? Tu es au bon endroit.\n\n📍 Le Rohan : 1 Place Pey Berland, Bordeaux\n\n📅 Mardi 09 juin 2026 à 19:00\n\n🚋 Accès : Tram A ou B, à l’arrêt Hôtel de Ville\n\n💸 Participation gratuite, consommation sur place\n\nDigitalNights, c'est un afterwork bimestriel gratuit à Bordeaux qui rassemble développeurs, designers, chefs de projet, freelances, étudiants et curieux autour d'un verre. Pas de conférence, pas de costume obligatoire. Juste l'envie d'échanger sur le numérique, les projets et les idées, dans une ambiance décontractée.\n\n👉 Les places sont limitées, l'inscription vaut engagement : si tu réserves, viens ! Ça permet à tout le monde de profiter pleinement de la soirée.\n\n🎲 Le programme\n\n19h00 : accueil et début de la soirée\n19h15 : atelier ou icebreaker\n20h15 : discussions libres autour d'un verre\nC'est souvent là que les meilleures choses se passent.\n\n👋 Pour qui ?\n\nPour toi si tu es dev, designer, PO, graphiste, freelance, étudiant ou simplement quelqu'un qui bricole sur le web et a envie de rencontrer du monde. La seule condition : être curieux.\n\n💬 La communauté continue sur Discord\n\nLa communauté DN vit aussi entre les soirées. C'est l'endroit pour suivre les événements, discuter avec une communauté soudée et rester dans la boucle.\n\n👉 [Rejoins le serveur Discord DigitalNights](https://discord.gg/MM87mZueKx)",
+    "location": "Le Café Rohan 1 Place Pey Berland  33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "digitalnights"
+    ]
+  },
+  {
+    "title": "GDG Meetup #43 - Flutter x IA & Animations : Repoussez les limites de vos applic",
+    "date": "2026-06-08T19:00:00+02:00",
+    "url": "https://www.meetup.com/fr-FR/gdg-bordeaux/events/314920389/",
+    "description": "Rejoignez-nous pour une soirée exceptionnelle placée sous le signe de l'innovation mobile, de l'animation de pointe et de l'Intelligence Artificielle ! Que vous soyez développeur Flutter chevronné, curieux de l'impact de l'IA sur le code ou passionné d'UI/UX, ce meetup est fait pour vous.\n\nNous aurons le plaisir d'accueillir des experts de la communauté pour décrypter les architectures de demain, animer vos interfaces comme jamais et voir comment l'IA peut dynamiser vos applications en temps réel.\n\nEn bonus, la soirée se clôturera par un moment d'échange convivial (networking) autour d'un verre ! 🍕🥤\n\n📅 Infos Pratiques\n\nDate : Lundi 8 Juin 2026\n\nHoraire : 19h00\n\nLieu : Betclic - 17 Quai de Bacalan, 33300 Bordeaux\n\nInscription : Gratuite mais obligatoire (places limitées !)\n\n🎤 Le Programme & Les Talks\n🛠️ Sujet 1 : Rive: animate your apps like never before\n\nSpeakers : Thomas Guerin & Nicolas Favereaux\n\nDescription : Découvrez comment donner vie à vos interfaces et transcender l'expérience utilisateur. Thomas et Nicolas vous présenteront la puissance de Rive pour intégrer des animations complexes, interactives et ultra-fluides dans vos applications Flutter, sans aucune perte de performance.\n\n🏗️ Sujet 2 : Scalable architecture in flutter to embrace AI coding\n\nSpeakers : Guillaume Boussion & Paul-Anatole Claudot\n\nDescription : L'avènement des assistants de code et de la génération d'applications par l'IA change la donne. Comment concevoir une architecture Flutter qui soit non seulement robuste et scalable, mais aussi pensée pour maximiser la collaboration avec les outils de \"AI coding\" ? Guillaume et Paul-Anatole vous partagent leurs meilleures pratiques.\n\n🤖 Sujet 3 : Flutter GenUI : Générer des interfaces dynamiques par l'IA sans perdre le contrôle\n\nSpeaker : Grégoire Bonnier\n\nDescription : Comment passer d'un chatbot textuel à une interface interactive générée dynamiquement ? Décryptage et POC du package genui (Generative User Interface), où l'IA devient un simple moteur d'état qui pioche directement dans vos widgets Flutter. Une session incontournable pour repenser l'interaction homme-machine !\n\n💬 Déroulé de la soirée\n\n18h45 : Accueil & Mot d'ouverture\n\n19h00 : Début des talks (Suivis de sessions Q&A)\n\n20h30 : Afterwork, networking, pizzas & boissons !\n\nVenez nombreux pour échanger, apprendre et vous inspirer ! 🚀\n\nAgenda\n\n---\n\nHosted By\n\nEnzo Conty, Organizer\n\nHaving started out as a freelancer in France over five years ago, I have been passionate about Flutter since then.\nI created a freelance agency for Flutter mobile development after creating around 30 mobile apps over the years.\n\nWith Flutter, I explore new platforms to use, such as Steam Deck, embeddable systems such as drink distributors, and even Steam games.\n\nIvan Canet, Software Engineer\n\nComplete your event RSVP here: https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-gdg-meetup-43-flutter-x-ia-amp-animations-repoussez-les-limites-de-vos-applications/.",
+    "is_online": false,
+    "venue": {
+      "name": "Betclic Group",
+      "address": "117 Quai de Bacalan",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "117 Quai de Bacalan, Bordeaux",
+    "communities": [
+      "gdg-bordeaux"
+    ]
+  },
+  {
+    "title": "Microsoft Build 2026 //localhost:bordeaux",
+    "date": "2026-06-08T17:30:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/314984774/",
+    "description": "**IMPORTANT : MERCI DE VOUS INSCRIRE SUR LA [PAGE MICROSOFT REACTOR](https://developer.microsoft.com/fr-fr/reactor/events/27221/) POUR PARTICIPER A L'ÉVÉNEMENT**\n\n**Microsoft Build //localhost:bordeaux**\nNous sommes heureux de vous inviter à la version localhost de la Microsoft Build. Un événement local et communautaire à Bordeaux pour faire suite à la Microsoft Build. On parlera des nouveautés annoncées à la Build et de différentes thématiques à commencer par l'IA et Azure. On aura le plaisir\nd'être accueilli par [Programisto](https://programisto.fr/) à l'[École de Turing](https://ecoledeturing.fr/).\n\nExceptionnellement, les inscriptions se feront à cette [adresse](https://developer.microsoft.com/fr-fr/reactor/events/27221/).\n\n**📅 Programme de l’événement**\n*Démarrage à 17h30*\n**Accueil & Networking & Introduction**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour plusieurs sessions passionnantes.\n**Panel**\nUne table ronde pour débriefer des annonces de la Microsoft Build\nAvec Alexandre Nédélec (MVP), Christian Bonnaud, Xavier Noya, Romain Serre (MVP), Manitra Rambelon, Arnaud Petitjean (Microsoft)\n**Lab**\nFrom zero to deployed on Azure with AI agent\n**Talk**\nDévelopper souverain : AKS, AI Foundry Local et GitHub Enterprise sur Azure Local\n\n**Clôture & Networking**\nProfitez d’un moment convivial.\n\n📺 **Live**\nPour ceux et celles à distance l'événement est diffusé en direct sur YouTube : https://youtube.com/live/L9rMyhtrHnI\n\n**📍 Lieu de l’événement :** École de Turing\n353 Boulevard du Président Wilson 7ème étage, 33200 Bordeaux\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participant∙e∙s. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "is_online": false,
+    "venue": {
+      "name": "École de Turing",
+      "address": "353 Boulevard du Président Wilson 7ème étage",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "353 Boulevard du Président Wilson 7ème étage, Bordeaux",
+    "communities": [
+      "mtg-bordeaux"
+    ]
+  },
+  {
+    "title": "Human Talks Bdx #14 - Ed. spéciale FlowCon",
+    "date": "2026-06-04T18:30:00+02:00",
+    "url": "https://www.meetup.com/human-talks-bordeaux/events/314639269/",
+    "description": "Chez Human Talks Bordeaux, nous croyons que la Tech ne se limite pas à des lignes de code ou à des outils : c’est avant tout une aventure collective où l'humain, les organisations et les innovations s’entremêlent. Fidèle à cette croyance, nous avons saisi l’opportunité de mettre la [FlowCon](https://www.flowcon.fr/) à l’honneur lors de notre prochain meetup.\n\nChaque année depuis 10 ans, la FlowCon réunit à Paris les professionnels du développement logiciel autour d’une notion principale : le développement de produit en flux, que ce soit Lean Kanban, l’agilité, le Lean, le Continuous Delivery et toutes les réflexions internationales sur les façons de mieux travailler en équipe.\n\nLa 10ème édition de l'événement a eu lieu fin mars et nous avons voulu partager avec vous un échantillon de cet événement emblématique qui nous inspire. Pour vous offrir une immersion complète, nous avons imaginé 3 interventions sous la forme de 3 regards, complémentaires, sur cette conférence et ses enjeux :\n\n* **Un talk adapté et rejoué** : Thomas Babin, un des intervenants de FlowCon 2026, rejouera son intervention, spécialement pour vous, en 10 minutes. Découvrez, ou redécouvrez, une thématique phare de la conférence, avec un regard frais et des perspectives adaptées à la communauté Human Talks.\n* **Les apprentissages clés de Flowcon** : Sébastien Durand, a participé à la conférence ; il viendra partager ses learnings et les insights marquants qu’il en a tirés. Une occasion unique de décortiquer les enjeux de l’événement et de les adapter à nos réalités locales.\n* **L’histoire de Flowcon** : Dimitri Baeli, un des cofondateurs de Flowcon, viendra nous raconter l’histoire de cette aventure, née il y a 10 ans. Au-delà des coulisses de l’organisation, il abordera aussi la question de l’engagement bénévole dans la Tech : comment une communauté s’organise, se mobilise et fait vivre un événement d’une telle envergure ?\n\nUn grand MERCI au [Node Bordeaux](https://www.node.aquinum.fr/) d'accueillir ce meetup !\n\n###\n\n--\n**Agenda**\n18h30 - Accueil\n\n19h - **POV Speaker - Hands-on : l’IA pour lancer son produit… et remettre en question vos méthodes** par [Thomas Babin](https://www.linkedin.com/in/thomasbabin/), Product & Tech Leader indépendant\n*Et si votre avantage compétitif ne dépendait plus de vos ressources… mais de votre capacité à tester plus vite que les autres ?*\n\n*Dans la plupart des entreprises, tester une nouvelle idée reste un processus long, coûteux et incertain : cadrage, spécifications, priorisation, développement... Ce délai n’est plus une contrainte technologique. C’est devenu un problème d’organisation. Ce talk propose d’expérimenter un modèle alternatif : celui où une idée peut être transformée en outil testable en quelques dizaines de minutes. À partir de données réelles, nous construirons un outil décisionnel intégrant visualisation, logique métier et simulation de scénarios. L’enjeu n’est pas technique, il est stratégique :*\n*\\- réduire drastiquement le temps entre une idée et sa validation*\n*\\- permettre aux équipes métier de tester directement leurs hypothèses*\n*\\- repositionner les équipes techniques sur des sujets à plus forte valeur*\n\n*Ce contenu s’adresse à tout ceux qui s’interrogent sur la vitesse d’exécution de leur organisation et sur leur capacité à transformer rapidement des idées en décisions concrètes.*\n\n19h20 - **POV Participant - Rapport d’étonnement FlowCon 2026 : mes découvertes, mes apprentissages et mes idées d’applications** par [Sébastien Durand](https://www.linkedin.com/in/durandsebastien/) Responsable transformation / Chief of staff @ [Cdiscount](https://www.cdiscount.com/)\n*Chaque année, on court après de nouvelles méthodes, de nouveaux frameworks, de nouveaux “best practices”. Et pourtant, certaines conférences arrivent encore à vraiment nourrir une pratique sur la durée. Participant de FlowCon depuis 3 éditions, je vous partagerai mon retour d’expérience à chaud et très concret : ce qui rend la FlowCon différente des autres événements, les idées / déclics que j’en retire et comment je transforme ces apports en actions. Un talk orienté “rapport d’étonnement” : ce qui surprend, ce qui inspire, ce qui challenge et comment repartir avec quelques pistes immédiatement réutilisables.*\n\n19h40 - **POV Organisateur - retour d’expérience sur 10 ans de FlowCon** par [Dimitri Baeli](https://www.linkedin.com/in/dbaeli), Head of Software Engineering @ [BackMarket Pro](https://pro.backmarket.fr/) / Co-founder @ [FlowCon](https://flowcon.io/)\n*En 10 ans, la FlowCon a construit une identité rare : une ligne éditoriale cohérente, un scope assumé (l’agilité d’une squad, pas l’agilité d’entreprise) et une communauté qui dure, le tout porté par des bénévoles. Lors de cette intervention, Dimitri nous racontera les choix qui permettent de tenir dans le temps : avancer par petites itérations façon continuous delivery et surtout “construire avec l’énergie disponible” pour éviter la frustration. Anecdotes, coulisses et échanges pour repartir avec des principes concrets applicables à tout événement communautaire.*\n\n20h - Discussions autour d’un verre\n\n21h - Fin",
+    "is_online": false,
+    "venue": {
+      "name": "LE NODE",
+      "address": "12 RUE DES FAUSSETS",
+      "city": "BORDEAUX",
+      "country": "fr"
+    },
+    "location": "12 RUE DES FAUSSETS, BORDEAUX",
+    "communities": [
+      "human-talks"
+    ]
+  },
+  {
+    "title": "Data, GenAI & Adoption : l'IA de bout en bout",
+    "date": "2026-06-02T18:45:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-aperops-dataops-mlops/events/314672229/",
+    "description": "🍻 **Data, GenAI & Adoption : l'IA de bout en bout**\nRejoignez-nous pour une soirée Bordeaux ApérOps placée sous le signe de la GenAI en production, du Design Thinking appliqué à la data, et des produits IA conçus pour être adoptés.\nCet événement est accueilli chez 🏫 **Holberton School Bordeaux**, avec le soutien de **5 Degrés**, pour croiser les retours d'expérience d'équipes qui font passer leurs projets IA du POC au produit qui dure — toujours dans une ambiance conviviale, autour d'un apéro 🍻\n🎤 **Au programme:**\n\n🚗 **Comment la GenAI accélère les tests logiciels dans l'automobile ?**\n**Amine Medad** — *Responsable IA Groupe* — 5 Degrés\n*Un leader de l'automobile a divisé par 2 son cycle de développement en générant ses tests avec la GenAI — passage à l'échelle industrielle. Et l'humain dans tout ça ? Au centre. C'est même là que l'IA transforme le plus : onboarding, culture, adoption.*\n\n🎨 **Design Thinking & Data**\n**Brice Miard** — *Chief Data Scientist* — Hager Group\n**Iuliia Mazur** — *Data Analyst* — Thélio\n*Découvrez comment Brice et Iullia ont allié **Design Thinking** et stack technique (**Databricks, RAG, Dash**) pour aligner dev, market et métier autour d'une application IA. Une approche concrète pour valider la valeur métier et transformer la donnée en outil tangible dès les premières semaines.*\n\n🤝 **Et aussi…**\n\n* Un apéro networking pour échanger, rencontrer et connecter les acteurs de la data et de l'IA bordelaises 🍷\n\n📅 **Infos pratiques** 📆 Date : Mardi 2 juin 🕡 Heure : 18h45 📍 Lieu : Holberton School Bordeaux 72 Av. Thiers, 33100 Bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Holberton School Bordeaux",
+      "address": "72 Av. Thiers, 33100 Bordeaux",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "72 Av. Thiers, 33100 Bordeaux, Bordeaux",
+    "communities": [
+      "bordeaux-aperops"
+    ]
+  },
+  {
+    "title": "Management Agile : sortir des croyances, activer les bons leviers",
+    "date": "2026-06-02T18:30:00",
+    "url": "https://luma.com/o64gqm6t",
+    "description": "​Deux approches complémentaires pour mieux comprendre ce qui freine réellement vos équipes :\n\n**​​« De la pseudoscience pour mon (pseudo) management », par Anaïs HUET**\n\n​​\"Êtes-vous plutôt INFP, type Rouge, type D, Capricorne ? Cerveau Gauche, Cerveau Droit, Cerveau Reptilien ? Serdaigle, Gryffondor ? Dragon ? Licorne ?\n\n​Pourquoi les tests de personnalité et les types qui y sont liés nous fascinent-ils autant ? En quoi sont-ils basés sur de la pseudoscience, et peuvent-ils être réellement utiles au travail en équipe ?\n\n​Explorons ensemble les promesses (et les pièges) des tests de personnalité dans le management ainsi que l’accompagnement agile, et posons-nous la question : est-il vraiment nécessaire de faire passer des tests à des personnes pour savoir si l’on peut travailler efficacement avec elles ?\n\n​Après tout, “les individus et leurs interactions plus que les processus et les outils”, donc quelque chose qui nous aide à cartographier les individus devrait nous être utile… Mais jusqu’à quel point ?\"\n\n​\n\n**​​« Des projets qui patinent ? Rendez visibles les vrais blocages », par Marina FILLATRE**\n\n​​Les projets peuvent ralentir malgré des équipes engagées et des processus en place, en raison d’inefficacités souvent invisibles : tâches en attente, validations longues, retouches inutiles.\n\n​Ce talk propose d’identifier ces blocages en s’appuyant sur la visualisation des flux de travail, afin de mettre en évidence les goulots d’étranglement et les sources de friction. À travers des exemples concrets issus d’équipes IT et produit, il présentera des leviers simples et activables rapidement pour fluidifier les processus et améliorer durablement la performance du delivery.",
+    "location": "5 Rue de Condé, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "women-in-tech-bordeaux"
     ]
   },
   {
@@ -34,6 +450,50 @@
     ]
   },
   {
+    "title": "Festival Printemps des Cartes à Montmorillon",
+    "date": "2026-05-31T10:00:00",
+    "url": "https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13",
+    "description": "🗺️ **Le Printemps des Cartes, un festival de cartographie ouvert à toutes et à tous !**\n\nLe Printemps des Cartes, est un festival qui rassemble habitants, citoyens, artistes, publics scolaires (du primaire à l’Université), enseignants, chercheurs, entrepreneurs, curieux de tous âges, monde associatif et collectivités, autour des cartes géographiques !\n\nCartographes, géographes, écrivains, historiens, romanciers, urbanistes, philosophes, plasticiens, dessinateurs… pratiquent la cartographie et viennent échanger à Montmorillon dans la Vienne.\n\nL’évènement est organisé depuis 2018, par un collectif qui regroupe l’Université de Poitiers, L’Espace Mendès France Poitiers et la MJC Claude Nougaro de Montmorillon.\n\nPour en savoir plus, vous pouvez consulter le [programme](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site officiel du [printemps des cartes](https://www.printempsdescartes.fr/).\n\n🤔 **Et OpenStreetMap dans tout ça ?**\n\nDominique Andrieu de l'Université de Tours fera une présentation d'OpenStreetMap à 14h le samedi 30 mai. Vous pourrez aussi retrouver de nombreux contributeurs OSM de France ou du groupe local de bordeaux.\n\nL'organisation se déroule [ici](https://forum.openstreetmap.fr/t/printemps-des-cartes-montmorillon-28-05-31-05/43518) !",
+    "location": "16 rue des Récollets 86500 Montmorillon, France",
+    "is_online": false,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
+    "title": "Festival Printemps des Cartes à Montmorillon",
+    "date": "2026-05-30T10:00:00",
+    "url": "https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10",
+    "description": "🗺️ **Le Printemps des Cartes, un festival de cartographie ouvert à toutes et à tous !**\n\nLe Printemps des Cartes, est un festival qui rassemble habitants, citoyens, artistes, publics scolaires (du primaire à l’Université), enseignants, chercheurs, entrepreneurs, curieux de tous âges, monde associatif et collectivités, autour des cartes géographiques !\n\nCartographes, géographes, écrivains, historiens, romanciers, urbanistes, philosophes, plasticiens, dessinateurs… pratiquent la cartographie et viennent échanger à Montmorillon dans la Vienne.\n\nL’évènement est organisé depuis 2018, par un collectif qui regroupe l’Université de Poitiers, L’Espace Mendès France Poitiers et la MJC Claude Nougaro de Montmorillon.\n\nPour en savoir plus, vous pouvez consulter le [programme](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site officiel du [printemps des cartes](https://www.printempsdescartes.fr/).\n\n🤔 **Et OpenStreetMap dans tout ça ?**\n\nDominique Andrieu de l'Université de Tours fera une présentation d'OpenStreetMap à 14h le samedi 30 mai. Vous pourrez aussi retrouver de nombreux contributeurs OSM de France ou du groupe local de bordeaux.\n\nL'organisation se déroule [ici](https://forum.openstreetmap.fr/t/printemps-des-cartes-montmorillon-28-05-31-05/43518) !",
+    "location": "16 rue des Récollets 86500 Montmorillon, France",
+    "is_online": false,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
+    "title": "Festival Printemps des Cartes à Montmorillon",
+    "date": "2026-05-29T10:00:00",
+    "url": "https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=7",
+    "description": "🗺️ **Le Printemps des Cartes, un festival de cartographie ouvert à toutes et à tous !**\n\nLe Printemps des Cartes, est un festival qui rassemble habitants, citoyens, artistes, publics scolaires (du primaire à l’Université), enseignants, chercheurs, entrepreneurs, curieux de tous âges, monde associatif et collectivités, autour des cartes géographiques !\n\nCartographes, géographes, écrivains, historiens, romanciers, urbanistes, philosophes, plasticiens, dessinateurs… pratiquent la cartographie et viennent échanger à Montmorillon dans la Vienne.\n\nL’évènement est organisé depuis 2018, par un collectif qui regroupe l’Université de Poitiers, L’Espace Mendès France Poitiers et la MJC Claude Nougaro de Montmorillon.\n\nPour en savoir plus, vous pouvez consulter le [programme](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site officiel du [printemps des cartes](https://www.printempsdescartes.fr/).\n\n🤔 **Et OpenStreetMap dans tout ça ?**\n\nDominique Andrieu de l'Université de Tours fera une présentation d'OpenStreetMap à 14h le samedi 30 mai. Vous pourrez aussi retrouver de nombreux contributeurs OSM de France ou du groupe local de bordeaux.\n\nL'organisation se déroule [ici](https://forum.openstreetmap.fr/t/printemps-des-cartes-montmorillon-28-05-31-05/43518) !",
+    "location": "16 rue des Récollets 86500 Montmorillon, France",
+    "is_online": false,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
+    "title": "Festival Printemps des Cartes à Montmorillon",
+    "date": "2026-05-28T10:00:00",
+    "url": "https://www.printempsdescartes.fr/",
+    "description": "🗺️ **Le Printemps des Cartes, un festival de cartographie ouvert à toutes et à tous !**\n\nLe Printemps des Cartes, est un festival qui rassemble habitants, citoyens, artistes, publics scolaires (du primaire à l’Université), enseignants, chercheurs, entrepreneurs, curieux de tous âges, monde associatif et collectivités, autour des cartes géographiques !\n\nCartographes, géographes, écrivains, historiens, romanciers, urbanistes, philosophes, plasticiens, dessinateurs… pratiquent la cartographie et viennent échanger à Montmorillon dans la Vienne.\n\nL’évènement est organisé depuis 2018, par un collectif qui regroupe l’Université de Poitiers, L’Espace Mendès France Poitiers et la MJC Claude Nougaro de Montmorillon.\n\nPour en savoir plus, vous pouvez consulter le [programme](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site officiel du [printemps des cartes](https://www.printempsdescartes.fr/).\n\n🤔 **Et OpenStreetMap dans tout ça ?**\n\nDominique Andrieu de l'Université de Tours fera une présentation d'OpenStreetMap à 14h le samedi 30 mai. Vous pourrez aussi retrouver de nombreux contributeurs OSM de France ou du groupe local de bordeaux.\n\nL'organisation se déroule [ici](https://forum.openstreetmap.fr/t/printemps-des-cartes-montmorillon-28-05-31-05/43518) !",
+    "location": "16 rue des Récollets 86500 Montmorillon, France",
+    "is_online": false,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
     "title": "AFUP Day 2026 Bordeaux",
     "date": "2026-05-22T09:00:00",
     "url": "https://event.afup.org/",
@@ -41,6 +501,28 @@
     "is_online": false,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Et si vous arrêtiez de coder votre API avant de l'avoir pensée ?",
+    "date": "2026-05-12T18:30:00",
+    "url": "https://luma.com/r2vnp9kp",
+    "description": "Deux grandes familles d'**API** coexistent aujourd'hui : les API **synchrones** (REST) et **asynchrones** (Messaging, EDA). Pour chacune, une spécification s'est imposée: **OpenAPI** d'un côté, **AsyncAPI** de l'autre.\n\nAu travers de démos concrètes, **Philippe Bousquet**  nous montrera comment l'approche **Design First** permet de définir son API en amont et d'en tirer parti pour la documentation, la génération de code et bien plus encore.\n\nRetours d'expérience et convictions personnelles de Philippe inclus 😃",
+    "location": "Le Node, 12 rue des Faussets 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Demo Day S14",
+    "date": "2026-05-11T18:30:00",
+    "url": "https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-1987488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
+    "description": "🥳 Lundi 11 mai, l’antenne bordelaise de Data For Good vous invite au Node pour revivre la grande soirée de présentation des projets de la saison 14 !\n\n🤝 Chaque année une douzaine de projets portés par des associations expertes et qui défendent la justice sociale, l'environnement et la démocratie sont sélectionnés.\n\n🛠️ Pendant 4 mois, les bénévoles de Data For Good se mobilisent et accompagnent ces associations dans la construction d'outils numériques qui leur sont nécessaires, le tout dans une démarche de sobriété numérique et en développant le plus possible des outils open source.\n\nCes quatre mois de travail touchent à leur fin et nous sommes prêts.es à vous présenter les projets co-développés auprès des associations.\n\nC'est l'occasion de :\n👉 rencontrer les bénévoles de l'association\n👉 comprendre le fonctionnement et l'impact de la saison Data For Good\n\n📋 Au programme, une présentation des projets, des temps pour échanger et un apéro en mode auberge espagnole!\n\n📅 RDV Lundi 11 mai de 18h30 à 21h00 à Le Node Aquinum",
+    "location": "Le node, 12 rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "data-for-good"
     ]
   },
   {
@@ -61,14 +543,137 @@
     ]
   },
   {
-    "title": "After work post-AGFr",
-    "date": "2026-04-14T18:30:00",
-    "url": "https://www.linkedin.com/events/7434682990204698624",
-    "description": "Fin mars, Bordeaux devient la capitale du jeu agile avec l’arrivée d’Agile Games France !\n\nSi l'événement national affiche complet (https://agilegamesfrance.fr/doku.php?id=evenement_2026), l’énergie, elle, circule partout. Pour marquer le coup à notre échelle locale, je vous propose de nous retrouver pour un afterwork informel.\n\nL'idée ? Simplement se réunir entre passionnés (que vous ayez participé à l'événement ou non) pour :\n- Débriefer les ateliers marquants pour les chanceux qui y étaient.\n- Découvrir de nouveaux ateliers et mécaniques pour ceux qui n'ont pas pu avoir de place.\n- Renforcer les liens de notre communauté bordelaise, tout simplement.",
-    "location": "Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  33700 MERIGNAC",
+    "title": "#67 : Dompter le refactoring",
+    "date": "2026-04-30T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/314161757/",
+    "description": "Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿\nCet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\n\nLa parole à notre chère speakeuse 🎉\n\n**\\#\\#\\#\\# Dompter le refactoring**\nPar [Nerea Enrique](https://www.linkedin.com/in/nerea-enrique-448599a8/), Ingénieure séniore PHP @ekino\n\n\\*\\*Refactoring: \\*nom propre \\*\\*\\*🥁\nCette épreuve qui fait trembler et transpirer les développeurs•euses **et** le métier.\nQuand un•e développeur•euse prononce le mot “refacto” dans une phrase le silence s’installe dans la salle ou le meet, on pourrait presque entendre les mouches voler. Derrière ce simple mot s’en cachent d’autres : “risqué”, “coûteux”, …\n\nLa vérité, c’est que le refactoring ne devrait pas rimer avec “danger”. Il devrait rimer avec **sérénité**.\n\nComme toute autre tâche, une “refacto” peut être analysée et traitée par des techniques simples. Ces techniques ont un nom, une problématique à résoudre et une résolution.\nLe but final étant d’intervenir en toute sécurité **et** sérénité dans un code fragile, sans bloquer l’équipe de devs / métier et sans arrêter l’apport de valeur au produit.\n\nVous quitterez la salle avec des illustrations simples et claires et l’envie de mettre ça en place à votre tour !",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node - Aquinum",
+      "address": "12 Rue des Faussets",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "12 Rue des Faussets, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "GitHub Copilot Dev Days | Bordeaux",
+    "date": "2026-04-30T18:00:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/314271013/",
+    "description": "**GitHub Copilot Dev Days – Bordeaux**\n\nRejoignez-nous pour un évènement tech consacré au développement assisté par l'IA avec **GitHub Copilot.** Au programme les dernières nouveautés, des retours d'expérience ainsi que des démos. Que vous soyez débutant·e ou développ·eur·euse expérimenté·e, cet événement est fait pour vous !\n\n**📅 Programme de l’événement**\n*18h* – **Accueil & Networking**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour une session passionnante.\n*18h10* – **Bienvenue & Introduction**\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*18h20* – **Démarrage des présentations techniques (Nouveautés GitHub Copilot, GitHub Copilot CLI, Agentic Workflows, ... programme détaillé à venir)**\n*20h35* – **Clôture & Networking**\nProfitez d’un moment de networking.\n\n**📍 Lieu de l’événement :** L'événement aura lieu dans les locaux d'Avanade Bordeaux, au 55 cours Georges Clémenceau, 33000 Bordeaux\n\n💻 **Pensez à apporter votre ordinateur portable si jamais vous voulez expérimenter les démos et le lab en même temps que nous !**\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participants. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "is_online": false,
+    "venue": {
+      "name": "Avanade Bordeaux",
+      "address": "55 Cours Georges Clemenceau",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "55 Cours Georges Clemenceau, Bordeaux",
+    "communities": [
+      "mtg-bordeaux"
+    ]
+  },
+  {
+    "title": "Club de lecture 26.3 - Le travail: Pourquoi travaillons-nous ?",
+    "date": "2026-04-25T10:00:00",
+    "url": "https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e17580184b26",
+    "description": "",
+    "location": "Le Node, 12 Rue des Faussets, 33000, Bordeaux",
     "is_online": false,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Automatiser ses mises en production avec GitHub Actions",
+    "date": "2026-04-23T19:00:00",
+    "url": "https://luma.com/f11067ro",
+    "description": "**À propos de l'événement :**\n​Dans ce talk, Axel partagera son retour d’expérience sur la mise en place de processus automatisés de mise en production avec GitHub Actions.\n\n​À travers des cas concrets rencontrés dans deux entreprises différentes, il montrera comment fiabiliser les déploiements, réduire les tâches manuelles et gagner en sérénité au moment de livrer en production.\n\n​Un talk orienté terrain pour mieux comprendre comment structurer ses workflows CI/CD et rendre ses mises en production plus fluides, plus sûres et plus reproductibles.\n\n**Notre speaker :**\nAxel Mathieu-Le Gall est Senior Full Stack Developer chez Wealthcome. Basé à Bordeaux, il travaille sur des sujets web et s’intéresse particulièrement à l’automatisation, à la CI/CD et à la fiabilisation des mises en production.\n\n**Notre host et sponsor :**\nProgramisto, une société de conseil tech basée à Bordeaux, avec une activité autour du développement logiciel, de la QA, du product management et du pilotage de projet.",
+    "location": "5 Quai Lawton 33300 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Édition d'avril – Afterwork convivial",
+    "date": "2026-04-22T18:30:00",
+    "url": "https://www.aquinum.fr/l-association-aquinum/",
+    "description": "HappyNum du mois 🍷\n\nOn se retrouve pour un HappyNum en mode afterwork convivial !\n\nLe principe : une auberge espagnole, chacun ramène ce qu’il veut (à boire, à manger) et on partage le tout dans une ambiance simple et sympa.\n🍷 Une dégustation de vin est aussi proposée pour ceux qui veulent participer (places limitées).\n👉 Pour s’inscrire, envoyez un message à contact@aquinum.fr\n\nPas besoin d’inscription pour le reste de la soirée : vous venez comme vous êtes, avec quelque chose à partager.\nL’idée, c’est juste de se retrouver, échanger et passer un bon moment ensemble. Alors on vous attend :)",
+    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "aquinum"
+    ]
+  },
+  {
+    "title": "Playground #6 - Creative Coding",
+    "date": "2026-04-21T19:00:00+02:00",
+    "url": "https://www.meetup.com/creative-coding-bordeaux/events/314245132/",
+    "description": "[Playground](https://plgrnd.cc) est une rencontre destinée au partage d'idées, de techniques et de passions autour de l'art algorithmique et de la programmation créative, de l'image au son, et au delà. Cet évènement est ouvert à tous·tes, peu importe l'expérience.\n\n**Rétrospective demomaking**\nLa scène demo, c'est une culture née dans les années 80 où des programmeurs, graphistes et musiciens s'affrontent en créant des programmes qui poussent le matériel dans ses derniers retranchements. Des œuvres audiovisuelles temps réel, souvent taillées pour tenir dans quelques kilo-octets.\n\n[Romain aka Krusty](https://demozoo.org/sceners/13230/) reviendra sur la [Revision](https://2026.revision-party.net/) et les [Meteoriks awards](https://2026.meteoriks.org/) : rétrospective des productions, des tendances et des moments marquants de la scène demo.\n\n**HELP! Un Game Dev a hacké mon mur de pixels**\n[Thomas](https://www.instagram.com/tomobodo/) a retourné le mur de pixels du [site Playground](https://plgrnd.cc/) pour en faire un moteur de rendu visuel/sonore et un mini-jeu multijoueur en temps réel. Comment les contraintes deviennent un carburant, et pourquoi détourner un outil c'est souvent très cool.\n\n**La surprise comme instrument**\nLe livecoding sonore, c'est composer de la musique en écrivant du code en direct, devant tout le monde.\nAlex aka [ilesinge](https://www.instagram.com/ilesinge) propose une découverte interactive de [Shabda](https://shabda.ndre.gr/), un outil générateur de surprise dans une pratique de livecoding sonore.\n\nNous serons hébergé·e·s dans les locaux de Deezer à Bordeaux et ce sera également l'occasion d'échanger sur nos projets et nos passions.\n\n**Amenez vos idées !** Et pourquoi pas vos laptops, pour des petites séances improvisées, de démos, apprentissage, et autres découvertes (débutant·e·s bienvenu·e·s).\n\nAmenez des choses à grignoter ou à boire si vous le souhaitez.",
+    "is_online": false,
+    "venue": {
+      "name": "20 Rue Saint-François",
+      "address": "20 Rue Saint-François",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "20 Rue Saint-François, Bordeaux",
+    "communities": [
+      "creative-coding-bordeaux"
+    ]
+  },
+  {
+    "title": "Santé mentale et biais cognitif : la tech à l’épreuve de l’humain",
+    "date": "2026-04-21T18:30:00",
+    "url": "https://luma.com/sb9a2gj1",
+    "description": "​Rejoins nous pour un moment d'échange autour de la santé mentale et des biais cognitifs, dans la tech.\nPour cette session, on te propose deux interventions pour mieux comprendre, questionner et reprendre la main.\n\n**​1️⃣ INFO PRATIQUES**\n\n​​📍MIRAKL, 20 Parvis des Chartrons, 33000 Bordeaux\n🕡 18h30 : accueil\n🎙 19h : talks\n🍸 20h30 : échanges + cocktail (végé friendly)\n👋 21h30 : fin de soirée\n​L’événement est gratuit mais les places sont limitées : inscris toi ici pour réserver la tienne !\n\n**2️⃣ PRÉSENTATIONS**\n\n**​« Soft skills, hard truths, survivre ou s’épanouir au travail », par Sarah Gicquel**\n\n​Cette conférence, c’est un défouloir.\n\n​Comme ce moment où, seule face à son miroir, on laisse enfin sortir ce qu’on n’a pas osé dire.\n\n​C’est mieux comprendre d’où vient le burn out, reconnaître le culte de la productivité et leurs impacts sur notre santé mentale.\n\n​C’est trouver un endroit où enfin on peut parler de santé mentale féminine sans se juger, baisser sa garde.\n\n​C’est reconnaitre les difficultés d’une femme dans la tech. Confrontée parfois ou souvent à un environnement de travail qui n’est pas toujours sain. Se demander parfois comment on peut trouver sa place sans se perdre, rester soi-même dans un système qui nous bouscule.\n\n​Elle est faite pour se retrouver, se reconnecter à pourquoi on a commencé dans cette voie, plutôt qu’une autre.  Repenser les dépenses de notre énergie, lorsqu’on a l’impression qu’on nous en prend trop.  En retrouver, pour se la partager.\n\n\n**​« Le rôle de l'humain dans la machine : Qui se cache derrière les algorithmes ? », par Nina Franiatte**\n\n​Notre cerveau n’est pas parfaitement rationnel. Les sciences cognitives ont montré que nos jugements sont influencés par de nombreux biais cognitifs, qui peuvent parfois conduire à des décisions injustes ou discriminatoires.\n\n​À l’heure où les algorithmes et l’intelligence artificielle occupent une place croissante dans nos sociétés, on espère souvent que ces technologies permettront de rendre les décisions plus objectives. Mais que se passe-t-il lorsque des machines sont conçues par des humains eux-mêmes biaisés ?\n\n​Dans ce talk, nous explorerons l’origine des biais algorithmiques du point de vue du facteur humain. Nous nous intéresserons aux humains derrière la machine : comment les biais cognitifs peuvent influencer la conception des systèmes et se retrouver, parfois sans le vouloir, intégrés dans les technologies que nous créons ? Réponse le 21 avril !\n\n\n**​​​3️⃣ A PROPOS DES INTERVENANTES**\n\n**​​À propos de Sarah**\n​Infirmière en santé mentale, elle s’intéresse aux gens à la manière dont ils vivent leur travail, leurs émotions et leurs relations. Elle travaille en service d’hospitalisation en psychiatrie fermée, et elle a appris à observer les conséquences de certaines difficultés. Elle est passionnée de prise de parole en public. Lauréate de concours, amatrice d’impro, formatrice en animation. Pour elle, la parole, c’est du partage, de la richesse et un outil de pouvoir. Son approche, c’est la curiosité. Elle n’a découvert l’univers de la tech que récemment, par amitié. Sa légitimité, c’est celle de croiser les univers et de les connecter les uns ou autres, afin d’y mettre, partout, du sens.\n\n**​​À propos de Nina**\n​Après un diplôme d’ingénieure à l’École Nationale Supérieure de Cognitique de Bordeaux, Nina a rejoint le laboratoire LaPsyDE de l’Université Paris Cité pour effectuer un doctorat en sciences cognitives sous la direction du Dr Wim De Neys, en collaboration avec l'entreprise onepoint. Ses travaux de recherche portent sur les processus cognitifs impliqués dans le raisonnement humain et visent à développer des méthodes pour limiter l'impact négatif des biais cognitifs et améliorer la prise de décision.",
+    "location": "20 Parv. des Chartrons, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "women-in-tech-bordeaux"
+    ]
+  },
+  {
+    "title": "🌱 [ATELIER - La Fresque de la Biodiversité x Data for Good Bordeaux]",
+    "date": "2026-04-14T18:30:00",
+    "url": "https://www.billetweb.fr/gironde-33",
+    "description": "🌱 [ATELIER - La Fresque de la Biodiversité x Data for Good Bordeaux]\n\nVenez participer à un atelier ludique, collaboratif et ancré dans la science pour explorer les mécanismes du vivant, comprendre les 5 grandes pressions menaçant la biodiversité et surtout échanger concrètement sur nos leviers d’action pour la préserver!\n\nSi le sujet t’interpelle, cet atelier est fait pour toi 🌿\n\nInfos pratiques\n📅 Quand : mardi 14 avril 2026 de 18h30 à 21h30\n📍 Où : Le Node Bordeaux (AQUINUM)\n\n👥 Places limitées à 10 personnes\n\n➡️ Inscriptions: https://www.billetweb.fr/gironde-33",
+    "location": "Le node, 12 rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "data-for-good"
+    ]
+  },
+  {
+    "title": "Tech Quiz / Get Together #3",
+    "date": "2026-04-07T19:00:00+02:00",
+    "url": "https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/",
+    "description": "Google Developer Bordeaux est ravi de vous inviter à une soirée exceptionnelle pour fédérer l'écosystème tech bordelais ! Pour cet événement, nous nous associons à l'événement organisé par DigitalNights ainsi que nos partenaires de BordeauxKt et du Flutter Meetup Group. 🙌\n\nVenez participer l'afterwork dédié au networking et tester vos connaissances lors d'un quiz épique sur le digital ! ⏲️\n\nC'est l'occasion idéale pour :\n\n👉 Élargir votre réseau en rencontrant les membres de quatre communautés majeures.\n\n👉 Partager vos idées dans une ambiance décontractée.\n\n👉 Découvrir les actualités et les prochains projets de nos associations respectives.\n\nDes prix passionnants attendent les plus rapides et les plus précis d'entre vous lors du quiz. Ne manquez pas cette opportunité de vous amuser tout en enrichissant vos compétences et votre réseau professionnel !\nInscrivez-vous dès maintenant pour garantir votre place et venez partager une expérience enrichissante avec votre communauté de développeurs. 👇\n📍Ou ? Aquinum - Le Node\n🕒Quand ? Le 7 Avril de 19h00 a 21h00\n\nAgenda\n\n---\n\nHosted By\n\nEnzo Conty, Organizer\n\nHaving started out as a freelancer in France over five years ago, I have been passionate about Flutter since then.\nI created a freelance agency for Flutter mobile development after creating around 30 mobile apps over the years.\n\nWith Flutter, I explore new platforms to use, such as Steam Deck, embeddable systems such as drink distributors, and even Steam games.\n\nIvan Canet, Software Engineer\n\n---\n\nPartner\n\nBordeauxKt (https://bordeauxkt.io)\nBordeauxKt est un user group au service du langage Kotlin et son écosystème, à destination des développeurs de Bordeaux et sa métropole.\n\nNous organisons des soirées autour de présentations techniques pour discuter des différentes utilisations de Kotlin : développement côté serveur, mobile, web, ou encore natif.\n\n---\n\nComplete your event RSVP here: https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-tech-quiz-get-together-3/.",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "bordeaux",
+      "country": "fr"
+    },
+    "location": "12 rue des Faussets, bordeaux",
+    "communities": [
+      "gdg-bordeaux"
+    ]
+  },
+  {
+    "title": "Afterwork networking entre acteur du digital - DN#23",
+    "date": "2026-04-07T19:00:00",
+    "url": "https://www.eventbrite.fr/e/billets-afterwork-networking-entre-acteur-du-digital-dn23-1984501608733?keep_tld=true",
+    "description": "Tu travailles dans le digital, tu t'y intéresses, ou tu as juste un projet qui traîne dans un coin de ta tête ? Tu es au bon endroit.\n\n📍 Le Node - Aquinum : 12 Rue des Faussets, 33000 Bordeaux\n\n📅 Mardi 7 avril 2026 à 19:00\n\n💸 Nous sommes en mode auberge espagnole donc chacun ramène quelque chose. C'est sympa, ça ouvre l'appétit et permet de se détendre. Prévoyez votre meilleur spécialité.\n\n🌐**Inscription :** [Inscription sur EventBrite obligatoire](https://www.eventbrite.fr/e/billets-afterwork-networking-entre-acteur-du-digital-dn23-1984501608733?keep_tld=true)\n\nDigitalNights, c'est un afterwork bimestriel gratuit à Bordeaux qui rassemble développeurs, designers, chefs de projet, freelances, étudiants et curieux autour d'un verre. Pas de conférence, pas de costume obligatoire. Juste l'envie d'échanger sur le numérique, les projets et les idées, dans une ambiance décontractée.\n**Pour cette éditions exceptionnelle que nous avons le plaisir d'inviter le Google Developer Group (GDG) Bordeaux, ainsi que nos partenaires de BordeauxKt et du Flutter Meetup Group afin de fédérer l'écosystème tech bordelais !**\n\n👉 Les places sont limitées, l'inscription vaut engagement : si tu réserves, viens ! Ça permet à tout le monde de profiter pleinement de la soirée.\n\n🎲 **Le programme**\n19h00 : accueil et début de la soirée\n19h15 : icebreaker et activité avec la venue de bordeaux KT\n20h00 : discussions libres autour d'un verre\nC'est souvent là que les meilleures choses se passent.\n\n👋 **Pour qui ?**\nPour toi si tu es dev, designer, PO, freelance, étudiant ou simplement quelqu'un qui bricole sur le web et a envie de rencontrer du monde. La seule condition : être curieux.\n\n💬 **La communauté continue sur Discord**\nLa communauté DN vit aussi entre les soirées. C'est l'endroit pour suivre les événements, discuter avec une communauté soudée et rester dans la boucle.\n\n👉 [Rejoins le serveur Discord DigitalNights](https://discord.gg/2u2fQmkDMj)",
+    "location": "Aquinum - Le Node 12 Rue des Faussets  33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "digitalnights"
     ]
   },
   {
@@ -86,6 +691,40 @@
     "location": "9 Rue de Condé, Bordeaux",
     "communities": [
       "okiwi"
+    ]
+  },
+  {
+    "title": "CQRS & Event Sourcing : La revanche des micro-services",
+    "date": "2026-04-02T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/313885181/",
+    "description": "Si vous travaillez avec une architecture récente, il y a fort à parier que vous avez déjà mis les mains dans des micro-services. Et il y a également des chances que vous ayez, un jour, été confronté.e à cette situation (trop) familière : “Mais comment cette donnée pourrie a bien pu se retrouver dans la DB 💩 ?!”\n**Ce problème est malheureusement universel !** Dans les systèmes distribués, la traçabilité des données peut devenir très rapidement un casse-tête : des flux compliqués, des responsabilités multiples, des bugs alambiqués… 😵‍💫\nCe talk propose une approche concrète pour **résoudre ce défi des temps modernes** en combinant trois principes clé pour construire une architecture permettant :\n\n* Traçabilité des données 🕵️\n* Conservation de la scalabilité 📈\n* Aucun sacrifice de performance ⚡\n\n**La session s’appuie sur une démonstration live** mettant en œuvre cette approche et démontrant son impact réel sur la compréhension et la fiabilité des flux de données 🧑‍💻!",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Human Talks x FrenchProduit Bdx - Parcours & transformations de Product Managers",
+    "date": "2026-04-02T18:30:00+02:00",
+    "url": "https://www.meetup.com/human-talks-bordeaux/events/313793684/",
+    "description": "Il y a encore quelques années en France, le Product Management s'inscrivait dans une démarche d'opportunité professionnelle, sans formation préalable spécifique. L'émergence récente de formations alternatives, telles que les bootcamps et les formations professionnalisantes, a permis à de nombreux talents de se former et de rejoindre des entreprises de la tech. Aujourd'hui, il n'est pas rare de trouver dans ces organisations des Product Managers ayant exercé des métiers différents auparavant. Ces profils apportent de nouvelles approches métiers ainsi que des qualités personnelles, humaines et relationnelles indispensables au bon fonctionnement des organisations.\n\nPour illustrer cette diversité, les communautés Human Talks Bordeaux et [FrenchProduit Sud-Ouest](https://www.meetup.com/fr-fr/frenchproduit-sudouest/) s’associent pour vous proposer un meetup exceptionnel. À travers trois témoignages variés, découvrez comment des Product Managers ont su se réinventer, évoluer et innover dans leurs rôles, et comment ces parcours peuvent inspirer le vôtre.\n\nDe la mobilité interne à la stratégie produit, en passant par le leadership, ces retours d’expérience vous révéleront les compétences métiers essentielles pour évoluer et les choix, orientations, évolutions qui s’offrent à vous en tant que PM.\n\nA la suite des interventions, nous aurons l’opportunité de prolonger les échanges au Wagon en mode “auberge espagnole” c’est à dire avec ce que vous amènerez : soft, bière, chips et grignotages.\n\nNous avons hâte de vous accueillir lors de ce meetup qui promet d’être riche en échanges et qui, comme d’habitude, est ouvert à toutes et à tous !\n\n### Agenda\n\n* 18h30 - Accueil\n* 19h - **Comment je suis rentré dans le Product Management en mobilité interne chez OVH** par [Guillaume Fouchaux](https://www.linkedin.com/in/guillaume-fouchaux-1b7b4221), Product Manager Web Hosting, Databases, CDN et SSL @ [OVHcloud](https://www.ovhcloud.com/)\n\n*Guillaume Fouchaux travaille actuellement côté produit chez OVH, à Bordeaux, où il s’épanouit pleinement depuis deux ans et demi. Son parcours est marqué par une grande mobilité interne : il a débuté il y a une dizaine d’années dans le support produit, puis a évolué vers les ressources humaines avant de rejoindre le product management. Cette transition s’est faite grâce à une opportunité interne et à la reconnaissance de ses soft skills, notamment sa capacité à comprendre les besoins clients, à exposer devant des instances dirigeantes et à délivrer des projets. Guillaume apprécie particulièrement la culture d’entreprise qui favorise la mobilité et le développement des talents. Son expérience variée et sa connaissance approfondie de l’entreprise font de lui un profil polyvalent et centré sur l’humain, avec une forte appétence pour l’innovation et le travail en équipe.*\n\n* 19h20 - **De la gestion de produit à la stratégie : les compétences clés pour faire évoluer sa carrière en Product** par [Paul Michel](https://www.linkedin.com/in/paul-michel-783b7640/), Product Strategist @ [Cdiscount](https://www.cdiscount.com/)\n\n*Comment passer d’un rôle opérationnel de Product Manager à une posture stratégique, où l’on fédère les équipes autour d’une vision claire, aligne les enjeux business avec les besoins utilisateurs, et accompagne la transformation des organisations ? À travers son parcours et ses retours d’expérience, je vous partagerai les compétences clés selon moi, les méthodes connues (design thinking, roadmaps collaboratives, gestion des parties prenantes) et les pièges à éviter pour évoluer vers un rôle de Product Strategist.*\n\n* 19h40 - **De Head of Product à Directrice Générale : 5 questions à Bérengère Alart** avec [Bérengère Alart](https://www.linkedin.com/in/berengere-alart-b7751325/), Directrice Générale @ [HelloAsso](https://www.helloasso.com/), par les équipes de FrenchProduit\n\n*À la tête de la direction Tech & Produit de HelloAsso à partir de 2020, Bérengère Alart a su associer vision stratégique, expertise produit et maîtrise technologique pour accompagner la croissance de l’entreprise. Après un parcours dans plusieurs grandes sociétés technologiques internationales, elle a développé une expertise reconnue dans la stratégie produit, la transformation et le pilotage d’équipes pluridisciplinaires. Elle est nommée directrice générale de HelloAsso en octobre 2025. Cet échange en direct sera mené par les équipes de FrenchProduit.*\n\n* 20h - Apéro \"Auberge Espagnole\", chacun amène de quoi boire / grignoter\n* 21h30 - Fin\n\n\\-\\-\\-\\-\n**A propos du Wagon Bordeaux**\n*Le Wagon est un des leaders mondiaux des formations intensives en Développement Web et IA, Data, No-code et Growth. Depuis 2013, nous formons des professionnels en reconversion, des esprits créatifs et des entrepreneurs à travers une pédagogie pratique, centrée sur les compétences les plus demandées par les entreprises. Avec plus de 40 campus dans le monde et une communauté internationale de plus de 30 000 alumni, Le Wagon vous accompagne dans votre montée en compétences, en présentiel ou en ligne. 👉 Découvrez toutes nos formations sur [lewagon.com](https://www.lewagon.com/)*\n\n**A propos de French Produit Bordeaux**\n*[FrenchProduit Bordeaux](https://www.frenchproduit.com/_bordeaux/) est la communauté qui connecte les amoureux du Produit de Bordeaux. (Ce groupe était anciennement appelé LPCx Bordeaux). Ce meetup est dédié aux amoureux de la création de produits numériques : Product Managers, Owners, Designers, Marketers, Ops, Leaders... et tous ceux qui au quotidien travaillent dans des organisations Produit !*\n\n**A propos de Human Talks Bordeaux**\n[Human Talks Bordeaux](https://www.meetup.com/fr-FR/human-talks-bordeaux/) est une communauté de pratique qui adresse des sujets d’organisations, de management, de transformation et de carrière. Le contenu de chaque événement s’adresse aux professionnels de l’industrie Tech désireux de développer leurs compétences interpersonnelles à travers des cas d’usage concrets. Par la dénomination “Tech”, nous incluons tous les professionnels de la technologie (ingénieurs, développeurs, designers, concepteurs, analystes, chercheurs ...) mais aussi les enseignants, les entrepreneurs et tous les curieux qui souhaitent découvrir cette industrie. L'événement reste un événement à 100% OUVERT à toutes les personnes curieuses. Human Talks est un format d'événement lancé par [Human Coders](https://www.humancoders.com/) en 2012.",
+    "is_online": false,
+    "venue": {
+      "name": "LE WAGON BORDEAUX",
+      "address": "107 Cours Balguerie Stuttenberg",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "107 Cours Balguerie Stuttenberg, Bordeaux",
+    "communities": [
+      "human-talks"
     ]
   },
   {
@@ -108,6 +747,23 @@
     "is_online": false,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Assemblée Générales 2026",
+    "date": "2026-03-26T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/313885191/",
+    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\n\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.\nNous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n\n**N'hésitez donc pas à verser votre obole**\n\nPlus d'informations sur https://bordeauxjug.org/meetings/20260326-assemble_generale_2026",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "fr"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -294,6 +950,17 @@
     ]
   },
   {
+    "title": "Openrewrite: Refactoring as code (en FR)",
+    "date": "2026-02-19T18:50:00",
+    "url": "https://www.bordeauxjug.org/meetings/20260319-openrewrite:_refactoring_as_code",
+    "description": "Vous êtes dans la team Doc as code, Infrastructure as code, Ci as code ? La réponse à ces questions vous semble évidente.\n\nLes bienfaits de l'approche \"as code\" ne sont plus à démontrer et pourtant il reste un domaine laissé pour compte.\n\nOui parce que si je vous pose ces questions pour vos refactorings et vos migrations, ça sera plutôt :\n\nVous êtes plutôt team chercher/remplacer ? regexp ? IDE click droit rename method ?\n\nEh oui, les cordonniers sont toujours les plus mal chaussés, et nous continuons a écrire des guides de migrations longs comme un dimanche de pluie. Fatigué de mener des migrations JUnit4 ->JUnit 5? Spring-boot 2 -> Spring-boot 3?\n\nEst-ce qu’il ne serait pas temps d’entrer dans la team refactoring as code?\n\nOpenRewrite est la boîte à outils parfaite pour écrire, versionner et partager vos refactoring. L'Ansible du refactoring.\n\nNe repartez pas sans une nouvelle as corde à votre arc, ne faite plus jamais vos migrations à la main.",
+    "location": "ENSEIRB, 1 Avenue du Docteur Albert Schweitzer · Talence",
+    "is_online": false,
+    "communities": [
+      "bordeauxjug"
+    ]
+  },
+  {
     "title": "Découverte des Ordinosaures",
     "date": "2026-02-19T10:00:00",
     "url": "https://www.helloasso.com/associations/la-boussole-de-la-tech/evenements/re-decouverte-des-ordinosaures",
@@ -429,14 +1096,14 @@
     ]
   },
   {
-    "title": "Bière Agile de Bordeaux - Bonne année!",
+    "title": "Angular v21: Le framework se met à jour !",
     "date": "2026-01-28T18:30:00",
-    "url": "https://www.linkedin.com/events/7416947844756127744/",
-    "description": "Bonne année à toutes et à tous !\nJ’espère que vous avez bien profité des fêtes de fin d’année.\n2025 est passée beaucoup trop vite, et clairement pas assez arrosée de bière agile, alors je vous propose de remettre ça en 2026 🍻\n\nComme toujours : zéro slide, zéro préparation. Juste de la curiosité, des échanges qui partent dans tous les sens (mais toujours au bon endroit), et un bon moment partagé entre agilistes convaincus et curieux assumés.\n\nUn rendez-vous à Bordeaux, pour discuter, débattre, rigoler… et repartir avec des idées plein la tête.",
-    "location": "Le Castan, 2 Quai de la Douane, Bordeaux",
+    "url": "https://luma.com/8ioijhjc",
+    "description": "Angular v21 vient de sortir, et c’est une super occasion de se retrouver pour parler des nouveautés, avec un focus sur Signals, le gros sujet de cette release.\n\n​🎤 Format\n\n​1 talk principal (20–25 min) + Q&A\n\n​1 lightning talk (15 min) + Q&A\n\n​Puis networking / discussions informelles\n\n​🧠 Talks\n\n​✅ Florian Allainmat — Signals : le nouveau modèle de réactivité d’Angular v21 (20–25 min)\n\n​✅ Jérémy Guilpin — Angular en entreprise aujourd’hui + comparaison avec React (et le reste 😄) (15 min)\n\n​🤝 Pour qui ?\n\n​Que tu fasses déjà de l’Angular au quotidien ou que tu sois juste curieux de découvrir ce que la v21 change concrètement, tu es le/la bienvenu(e) !\n\n​On terminera par un moment chill pour discuter front/back, architecture, tooling… et rencontrer d’autres devs de Bordeaux 🍻",
+    "location": "Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France",
     "is_online": false,
     "communities": [
-      "agile-bordeaux"
+      "bordeauxjs"
     ]
   },
   {
@@ -451,14 +1118,14 @@
     ]
   },
   {
-    "title": "Angular v21: Le framework se met à jour !",
+    "title": "Bière Agile de Bordeaux - Bonne année!",
     "date": "2026-01-28T18:30:00",
-    "url": "https://luma.com/8ioijhjc",
-    "description": "Angular v21 vient de sortir, et c’est une super occasion de se retrouver pour parler des nouveautés, avec un focus sur Signals, le gros sujet de cette release.\n\n​🎤 Format\n\n​1 talk principal (20–25 min) + Q&A\n\n​1 lightning talk (15 min) + Q&A\n\n​Puis networking / discussions informelles\n\n​🧠 Talks\n\n​✅ Florian Allainmat — Signals : le nouveau modèle de réactivité d’Angular v21 (20–25 min)\n\n​✅ Jérémy Guilpin — Angular en entreprise aujourd’hui + comparaison avec React (et le reste 😄) (15 min)\n\n​🤝 Pour qui ?\n\n​Que tu fasses déjà de l’Angular au quotidien ou que tu sois juste curieux de découvrir ce que la v21 change concrètement, tu es le/la bienvenu(e) !\n\n​On terminera par un moment chill pour discuter front/back, architecture, tooling… et rencontrer d’autres devs de Bordeaux 🍻",
-    "location": "Ippon Technologies Bordeaux 44 Allée de Tourny, 33000 Bordeaux, France",
+    "url": "https://www.linkedin.com/events/7416947844756127744/",
+    "description": "Bonne année à toutes et à tous !\nJ’espère que vous avez bien profité des fêtes de fin d’année.\n2025 est passée beaucoup trop vite, et clairement pas assez arrosée de bière agile, alors je vous propose de remettre ça en 2026 🍻\n\nComme toujours : zéro slide, zéro préparation. Juste de la curiosité, des échanges qui partent dans tous les sens (mais toujours au bon endroit), et un bon moment partagé entre agilistes convaincus et curieux assumés.\n\nUn rendez-vous à Bordeaux, pour discuter, débattre, rigoler… et repartir avec des idées plein la tête.",
+    "location": "Le Castan, 2 Quai de la Douane, Bordeaux",
     "is_online": false,
     "communities": [
-      "bordeauxjs"
+      "agile-bordeaux"
     ]
   },
   {
@@ -1114,7 +1781,7 @@
   {
     "title": "Soirée Serious Game",
     "date": "2025-09-16T18:30:00",
-    "url": "https://www.meetup.com/agile-bordeaux/events/309810368/",
+    "url": "https://www.meetup.com/fr-FR/agile-bordeaux/events/309810368/",
     "description": "Que diriez-vous d'une soirée Serious Game ?\nC'est exactement ce que nous vous proposons en partenariat avec Serious Gamers in Bordeaux (https://www.meetup.com/seriousgamers-bordeaux).\nPour cette belle occasion, c'est Capgemini qui nous accueille, et c'est Alain qui nous a concocté un atelier : **l'usine des animaux en briques**.\n\n_Notre usine fabrique des animaux en briques pour le plus grand plaisir des petits et des grands depuis plus de 50 ans.\nDepuis quelques temps nos clients trouvent que nos délais de fabrications sont trop importants. Et nous cherchons des solutions pour leur livrer plus vite leurs commandes.\nPour cela nous avons besoin d'un équipe de professionnels experts en assemblages de briques.\nToi qui lit cela : sauras tu relever le défi et nous sauver de la banqueroute ?\nNous désespérons de trouver une solution. Sera tu la bonne personne ?\nAu travers de la manipulation des briques LEGO nous allons explorer le flux et ces aléas pour en tirer de précieux enseignements qui nous aiderons certainement dans notre quotidien de professionnels_\n\nMais n'attendez pas plus : réservez dores et déjà votre soirée !\n\nOn vous attend donc le 16 septembre à 18h30, entrée D du bâtiment, 2ème étage.",
     "location": "Capgemini, 19 All. James Watt · MERIGNAC - Bâtiment D - 2e étage",
     "is_online": false,
@@ -1503,23 +2170,6 @@
     ]
   },
   {
-    "title": "Elasticsearch Query Language: ES|QL",
-    "date": "2025-03-20T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
-    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Super-Apéro 2025",
     "date": "2025-03-20T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/306530360/",
@@ -1537,10 +2187,10 @@
     ]
   },
   {
-    "title": "Assemblée Générales 2025",
-    "date": "2025-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
-    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
+    "title": "Elasticsearch Query Language: ES|QL",
+    "date": "2025-03-20T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640938/",
+    "description": "Elasticsearch et Kibana apportent un tout nouveau langage, **ES\\|QL**, avec une **nouvelle API (\\`_query\\`)** et une **syntaxe simplifiée.**\nCela vous permet d'affiner vos résultats, étape par étape et ajouter de nouvelles fonctionnalités comme par exemple l'enrichissement de données et la transformation à la volée, directement dans votre requête.\nEt vous pouvez l'utiliser sur **toute la plateforme Elastic** — depuis les API Elasticsearch jusqu'aux fonctions de **\"Discover\" et d'\"Alerting\"** de Kibana.\nMais le changement principal n'est pas celui que vous verrez : les ingénieurs ont développé un **tout nouveau moteur de calcul**, construit avec la performance comme guide.\nVenez découvrir un aperçu de ce **nouveau moteur avec découverte** de la syntaxe et du fonctionnement interne.\nPlus d'informations sur notre site : http://bordeauxjug.org/meetings/20250320-elasticsearch_query_language:_es_ql",
     "is_online": false,
     "venue": {
       "name": "ENSEIRB",
@@ -1568,6 +2218,23 @@
     "location": "20 rue Saint-François, Bordeaux",
     "communities": [
       "cloud-native-bordeaux"
+    ]
+  },
+  {
+    "title": "Assemblée Générales 2025",
+    "date": "2025-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/306640736/",
+    "description": "Les soirées du BordeauxJUG sont organisées par des bénévoles. **L'association a besoin de volontaire comme vous pour poursuivre ces activités**\nCe sera l'occasion pour l'équipe de faire une rétrospective sur l'année passée ainsi que d'élire un nouveau bureau.Nous rappelons que **l'AG est ouverte à tous**. Par contre, seules les personnes ayant fait un don ou ayant souscrit au BordeauxJUG cette année pourront prendre part aux votes, et notamment à l'élection du futur bureau.\n**N'hésitez donc pas à verser votre obole**\nVérifier que vous êtes à jour au niveau des cotisations sur la page [Membres](http://bordeauxjug.org/members) avant l'AG pour pouvoir voter !Le lieu exacte de l'assemblée est le 1er étage à coté des salles de TD\nPlus d'informations sur http://bordeauxjug.org/meetings/20250313-assemble_generale_2025",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -2141,23 +2808,6 @@
     ]
   },
   {
-    "title": "Design First : OpenApi et AsyncApi en action !",
-    "date": "2024-09-26T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
-    "description": "Aujourd'hui en terme d'API nous notons deux grandes familles, les **API Synchrones** (de type REST par exemple) et **Asynchrone** (Messaging, Topic).\nAfin d'uniformiser et de spécifier des contrats d'interface clair, deux spécifications ont peu à peu emmergées : **OpenApi** d'un côté pour les API REST et **AsyncApi** dans le cadre des architecture évenmentielles **(EDA).**\nNous allons voir au travers de ce talk et de démos ce qu'apportent ces deux spécifications en terme de design, de documentation mais également en terme de génération de code.\nCe principe appelé **Design First** consiste à Définir son API (REST ou Asynchrone) en amont et de bénéficier d'outils divers et variés pour manipuler ces contrats.\nJe ne prétends pas détenir la vérité absolue, ce sont plutôt mes réflexions au grès de mes expériences autour des APIs REST puis désormais Asynchrones que j'essaye de promouvoir auprès de clients et développeurs.",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "#53 : StandAAArdisez vos tests & La goutte d'eau qui fait déborder le Cloud",
     "date": "2024-09-26T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/303353062/",
@@ -2172,6 +2822,23 @@
     "location": "1 cours Xavier Arnozan, , Bordeaux",
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "Design First : OpenApi et AsyncApi en action !",
+    "date": "2024-09-26T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/303373620/",
+    "description": "Aujourd'hui en terme d'API nous notons deux grandes familles, les **API Synchrones** (de type REST par exemple) et **Asynchrone** (Messaging, Topic).\nAfin d'uniformiser et de spécifier des contrats d'interface clair, deux spécifications ont peu à peu emmergées : **OpenApi** d'un côté pour les API REST et **AsyncApi** dans le cadre des architecture évenmentielles **(EDA).**\nNous allons voir au travers de ce talk et de démos ce qu'apportent ces deux spécifications en terme de design, de documentation mais également en terme de génération de code.\nCe principe appelé **Design First** consiste à Définir son API (REST ou Asynchrone) en amont et de bénéficier d'outils divers et variés pour manipuler ces contrats.\nJe ne prétends pas détenir la vérité absolue, ce sont plutôt mes réflexions au grès de mes expériences autour des APIs REST puis désormais Asynchrones que j'essaye de promouvoir auprès de clients et développeurs.",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -2803,6 +3470,23 @@
     ]
   },
   {
+    "title": "Super-Apéro 2024",
+    "date": "2024-03-13T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
+    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
+    "is_online": false,
+    "venue": {
+      "name": "38 Rue Capdeville",
+      "address": "38 Rue Capdeville",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "38 Rue Capdeville, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "Atelier du PO #5 : Lean Coffee",
     "date": "2024-03-13T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/299637290/",
@@ -2819,23 +3503,6 @@
     "rsvp_count": 9,
     "communities": [
       "agile-bordeaux"
-    ]
-  },
-  {
-    "title": "Super-Apéro 2024",
-    "date": "2024-03-13T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/299275583/",
-    "description": "Le mercredi 13 mars se tient LE Super Apéro 2024 de l'AFUP 🎉\nAu programme, en plus de boire et manger bien évidemment 😛, nous allons avoir l'occasion de tester en avant première \"The Refactoring Xplorer\" ! Un jeu de carte ludique pour améliorer ses connaissances en refactoring 🔨\nOn sait tous que l'aspect nourriture est important donc notre sponsor [Inside](https://insidegroup.fr/decouvrir-inside/nos-agences/bordeaux/) nous offrira de quoi s'enjailler et boire ! On a entendu parler de pizzas 🤫 ! 🍕🍕🍕",
-    "is_online": false,
-    "venue": {
-      "name": "38 Rue Capdeville",
-      "address": "38 Rue Capdeville",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "38 Rue Capdeville, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
     ]
   },
   {
@@ -3842,23 +4509,6 @@
     ]
   },
   {
-    "title": "JOOQ, joy of SQL",
-    "date": "2023-02-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
-    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Manuel de sabotage du partage de connaissances",
     "date": "2023-02-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjs/events/291437327/",
@@ -3874,6 +4524,23 @@
     "rsvp_count": 22,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "JOOQ, joy of SQL",
+    "date": "2023-02-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/291725364/",
+    "description": "Et si l'on reprenait le contrôle de nos interactions avec notre base de données préférée? Car en vrai, nos BDD sont des monstres de puissance qui sont souvent sous exploitées 😓.\nNous verrons, avec JOOQ comment écrire des requêtes SQL simples ou évoluées, le tout facilement et de manière type-safe !\nVenez découvrir cette superbe librairie OpenSource, compatible Java, Kotlin & Scala, qui va vous permettre de vous simplifier la vie et d'améliorer votre code... et même de découvrir de super fonctionnalités SQL que vous n'imaginiez même pas..",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -4043,23 +4710,6 @@
     ]
   },
   {
-    "title": "Micronaut Test Resources",
-    "date": "2022-10-18T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
-    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Comment favoriser l’inclusion ? (feat. Women In Tech Bordeaux)",
     "date": "2022-10-18T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/289042639/",
@@ -4075,6 +4725,23 @@
     "rsvp_count": 23,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "Micronaut Test Resources",
+    "date": "2022-10-18T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/289013582/",
+    "description": "Tester vos microservices sans peine avec **Micronaut Test Resources** Micronaut est un framework full-stack moderne, **basé sur la JVM**, permettant de construire des microservices ou applications serverless facilement.\nDe part son emphase sur la compilation ahead-of-time, il s'intègre particulièrement bien avec **GraalVM**, poussant les limites de ce qu'on peut faire avec le langage Java.\nCependant, le développement d'applications modernes est aussi synonyme de multiples intégrations qui sont parfois difficiles à configurer. Par exemple, votre application peut avoir besoin d'une base de données, d'un serveur Kafka, d'un broker MQTT ou autre. **Micronaut Test Resources** permet de grandement simplifier le développement de telles applications: sans aucune configuration, il est capable de démarrer des conteneurs de test pendant le développement ou les tests, réduisant considérablement l'effort nécessaire pour obtenir une excellente productivité développeur.Dans cette session, nous montrerons les bases d'une application **Micronaut** et comment il s'intègre, en partculier, avec les outils de builds et **Testcontainers**.\n**Micronaut Test Resources** est aussi un framework extensible, rendant relativement simple l'ajout de vos propres ressources de test: il est par exemple possible d'exposer un conteneur Docker avec quelques lignes de configuration. En dernier recours, il est toujours possible d'implémenter vos propres ressources de test.\nEnfin, il est intéressant de savoir que **Micronaut Test Resources** est conçu de façon à ce que les ressources de test puissent être partagées entre différents projets, même s'ils utilisent des outils de build différent ! Cerise sur le gâteau, nous montrerons comment les images natives peuvent bénéficier de ce mécanisme.\nPlus d'informations sur http://www.bordeauxjug.org",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -4571,6 +5238,16 @@
     ]
   },
   {
+    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
+    "date": "2021-11-16T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
+    "is_online": true,
+    "communities": [
+      "aws-bordeaux"
+    ]
+  },
+  {
     "title": "Java 17 la dernière LTS par Rémi Forax",
     "date": "2021-11-16T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/281736541/",
@@ -4585,16 +5262,6 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
-    ]
-  },
-  {
-    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
-    "date": "2021-11-16T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
-    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
-    "is_online": true,
-    "communities": [
-      "aws-bordeaux"
     ]
   },
   {
@@ -5047,16 +5714,6 @@
     ]
   },
   {
-    "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
-    "date": "2020-09-30T18:30:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
-    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le sixième meetup AWS virtuel 👐. Cet événement sera dédié à trois sociétés de la \"Media-techs\" françaises. Vous découvrirez comment elles ont construit leur réussite grâce au Cloud.\nRendez-vous le 30 septembre prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Introduction : Jordan Oziel et Julien Bichon\n🎙 Talk 1 (Level 200) : Philippe Laurent - CEO - easylive.ioEasylive.io est le leader de la production live en cloud. Modèle 100% SaaS permettant aux plus grand producteurs de contenus (Premier League, Disney, PSG, Twitch, Facebook etc.) de réaliser des contenus live délocalisés et collaboratif à travers le monde depuis un navigateur. Notre outil, bâti sur les architectures AWS nous permet d'agréger n’importe quel type de flux vidéos, audios, graphiques, etc. en temps réel, de les mélanger et de les formater pour les publier sur n’importe quelle type de destination (Facebook, Twitch, TV, etc.). Rejoignez-nous sur cette session pour découvrir les applications médias live possible grâce à AWS.\n🎙 Talk 2 (Level 100) : Guillaume Doret - CEO - synchronized.tvDécouvrez comment Synchronized Smart-Video Platform automatise le processus complet de création de vignettes vidéo grâce à AWS Rekognition. Désormais, les diffuseurs TV et les services OTT peuvent économiser des centaines d'heures de travail manuel avec des gains significatifs en termes de qualité et de productivité.\n🎙 Talk 3 : (Level 200 - 300) : Sébastien Crème - CoFounder et CTO - NomalabGoing Elastic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEffectively use of Messaging / Spot instances and lambda",
-    "is_online": true,
-    "communities": [
-      "aws-bordeaux"
-    ]
-  },
-  {
     "title": "Meetup PHP (online) #36 : Travailler avec un projet legacy",
     "date": "2020-09-30T18:30:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/273572868/",
@@ -5064,6 +5721,16 @@
     "is_online": true,
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "AWS Virtual Meetup #6 - AWS et les media-techs",
+    "date": "2020-09-30T18:30:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/273428797/",
+    "description": "Bonjour à toutes et tous,\nNous sommes très heureux de vous annoncer le sixième meetup AWS virtuel 👐. Cet événement sera dédié à trois sociétés de la \"Media-techs\" françaises. Vous découvrirez comment elles ont construit leur réussite grâce au Cloud.\nRendez-vous le 30 septembre prochain. Démarrage des présentations à ⏰ 18h30. Rejoignez-nous en ligne un peu avant : https://twitch.tv/sebAWS\n🎙 Introduction : Jordan Oziel et Julien Bichon\n🎙 Talk 1 (Level 200) : Philippe Laurent - CEO - easylive.ioEasylive.io est le leader de la production live en cloud. Modèle 100% SaaS permettant aux plus grand producteurs de contenus (Premier League, Disney, PSG, Twitch, Facebook etc.) de réaliser des contenus live délocalisés et collaboratif à travers le monde depuis un navigateur. Notre outil, bâti sur les architectures AWS nous permet d'agréger n’importe quel type de flux vidéos, audios, graphiques, etc. en temps réel, de les mélanger et de les formater pour les publier sur n’importe quelle type de destination (Facebook, Twitch, TV, etc.). Rejoignez-nous sur cette session pour découvrir les applications médias live possible grâce à AWS.\n🎙 Talk 2 (Level 100) : Guillaume Doret - CEO - synchronized.tvDécouvrez comment Synchronized Smart-Video Platform automatise le processus complet de création de vignettes vidéo grâce à AWS Rekognition. Désormais, les diffuseurs TV et les services OTT peuvent économiser des centaines d'heures de travail manuel avec des gains significatifs en termes de qualité et de productivité.\n🎙 Talk 3 : (Level 200 - 300) : Sébastien Crème - CoFounder et CTO - NomalabGoing Elastic and AsynchronTo Process Massive Amounts of VideoFast and SecurelyEffectively use of Messaging / Spot instances and lambda",
+    "is_online": true,
+    "communities": [
+      "aws-bordeaux"
     ]
   },
   {
@@ -5792,23 +6459,6 @@
     ]
   },
   {
-    "title": "La JVM et Docker, vers une symbiose parfaite !",
-    "date": "2019-10-17T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
-    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
     "date": "2019-10-17T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
@@ -5823,6 +6473,23 @@
     "location": "132 Rue Fondaudège, Bordeaux",
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "La JVM et Docker, vers une symbiose parfaite !",
+    "date": "2019-10-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
+    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -6659,6 +7326,23 @@
     ]
   },
   {
+    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
+    "date": "2019-01-24T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
+    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
+    "is_online": false,
+    "venue": {
+      "name": "Le Zytho",
+      "address": "28 Rue Latour",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "28 Rue Latour, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "Agile Bordeaux 19.1",
     "date": "2019-01-24T19:00:00+01:00",
     "url": "https://www.meetup.com/agile-bordeaux/events/257289336/",
@@ -6674,23 +7358,6 @@
     "rsvp_count": 43,
     "communities": [
       "agile-bordeaux"
-    ]
-  },
-  {
-    "title": "2018 est mort, vive 2019 ! Apéro de rentrée ",
-    "date": "2019-01-24T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/257987818/",
-    "description": "Bonjour à tous,\nPour cette nouvelle année, on vous propose de se retrouver pour un apéro au Zytho.Pas de sujet prédéfini, discussion libre !Ca pourra aussi être l'occasion pour ceux qui songent à faire des présentations, mais n'ont pas encore sauté le pas, d'échanger et poser leurs questions.",
-    "is_online": false,
-    "venue": {
-      "name": "Le Zytho",
-      "address": "28 Rue Latour",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "28 Rue Latour, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
     ]
   },
   {
@@ -9286,6 +9953,23 @@
     ]
   },
   {
+    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
+    "date": "2017-09-21T19:00:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
+    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "okiwi"
+    ]
+  },
+  {
     "title": "AperoJS",
     "date": "2017-09-21T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/243276773/",
@@ -9301,23 +9985,6 @@
     "rsvp_count": 21,
     "communities": [
       "bordeauxjs"
-    ]
-  },
-  {
-    "title": "Retour d'XP et perspectives sur le développement de projets Open Source",
-    "date": "2017-09-21T19:00:00+02:00",
-    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/240001683/",
-    "description": "Deux figures majeures de la communauté Open Source .Net/F# viennent nous parler de leur chemin dans l'eco-système Open Source, de leur retour d'expérience et des perspectives futures.\nCes talks seront en anglais, et ont une portée plus large que le monde .Net, même si c'est cet eco-système qui sera utilisé comme exemple.\nLe premier talk de la soirée sera :\nPath to happiness with Open Source, par Krzysztof Cieslak\nOpen Source Software has already changed the world, it powers our phones, computers, Internet. Even big, conservative companies, that couple of years ago stated that OSS is dangerous, nowadays are building their products in the open, and are trying to more deeply cooperate with communities using those products.  In this talk I’ll try to show why investing into Open Source is really good, pragmatic way of building a software. I’ll describe the problem from 3 different point of views – company building its projects in the open, company using OSS to build its projects and single developer that wants to participate in this global OSS movement – and I’ll try to show what advantages can OSS bring in those cases.\nBio: \nChris is software developer, consultant, founder of Lambda Factory (http://lambdafactory.io). He's author of Ionide (http://ionide.io/), Forge (http://forge.run), Fornax (https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of VSCode-Elm(https://marketplace.visualstudio.com/items?itemName=sbrink.elm) and contributor to many OSS projects. Chris is also international speaker, that tries to convince developers around the world that OSS and FP are good, pragmatic choices for writing software. You can find him on Twitter as @k_cieslak, GitHub - @Krzysztof-Cieslak and read his blog.\nEt le second :\nSurviving OSS success, par Alfonso Garcia-Caro\nThere it is, finally, your OSS project is ready for a release. You’ve put a lot of time, effort and love in it and now you see with satisfaction the “Build Pass” green tick. You write a tweet to announce it to the world and then the worst thing that can happen happens: Success! People start using the project, Github notifications never stop, you get invited to talk about it at conferences... but like Uncle Ben used to say: “With great power comes great responsibility”. Suddenly the project becomes a big part of your life, people start using it in production and you discover you’ve to learn how do HR, PR, IT Support and may other acronyms you didn’t know about to deal everyday with competitors, contributors and users sometimes enthusiastic and sometimes demanding.\nAlfonso García-Caro, author of Fable (an F# to JS compiler), has tasted a bit this kind of success. One day before FableConf the first conference dedicated to his project (he still wonders how this happened), Alfonso will explain how he managed to elude a sanity break (so far). Obviously he won’t have time to prepare any slide, so the talk will mostly be incoherent rambling. Come to watch a show of bad English with some broken French, and certify Alfonso has zero improvisation skills!",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "okiwi"
     ]
   },
   {
@@ -10058,23 +10725,6 @@
     ]
   },
   {
-    "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
-    "date": "2017-05-23T18:45:00+02:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
-    "description": "Hello à tous, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi, qui va traiter de \nCQRS, Fonctionnel, Event Sourcing & Domain Driven Design, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est dans le lien - il s'agit d'une présentation qui permettra de prendre un peu de hauteur sur des concepts qui sortent des spécificités des langages, et que je vous promet être très intéressante !\nPour faciliter la gestion de l'événement, inscrivez-vous de préférence via le lien ci-dessus :) \nTrès bonne journée à tous,",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
     "date": "2017-05-23T18:45:00+02:00",
     "url": "https://www.meetup.com/software-craftsmanship-bdx/events/239156476/",
@@ -10089,6 +10739,23 @@
     "location": "12 rue des Faussets, Bordeaux",
     "communities": [
       "okiwi"
+    ]
+  },
+  {
+    "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
+    "date": "2017-05-23T18:45:00+02:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
+    "description": "Hello à tous, \nje voulais ici faire la promotion d'un meetup organisé par Okiwi, qui va traiter de \nCQRS, Fonctionnel, Event Sourcing & Domain Driven Design, présenté par Arnaud Lemaire : \nhttps://www.meetup.com/fr-FR/software-craftsmanship-bdx/events/239156476/\nLe descriptif complet est dans le lien - il s'agit d'une présentation qui permettra de prendre un peu de hauteur sur des concepts qui sortent des spécificités des langages, et que je vous promet être très intéressante !\nPour faciliter la gestion de l'événement, inscrivez-vous de préférence via le lien ci-dessus :) \nTrès bonne journée à tous,",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -10471,23 +11138,6 @@
     ]
   },
   {
-    "title": "TypeScript : dès lundi sur votre App Legacy",
-    "date": "2017-03-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
-    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Python Bordeaux #7 : données géospatiales",
     "date": "2017-03-23T19:00:00+01:00",
     "url": "https://www.meetup.com/py-bdx/events/238293674/",
@@ -10502,6 +11152,23 @@
     "location": "12 rue des Faussets, Bordeaux",
     "communities": [
       "bordeaux-python-meetup"
+    ]
+  },
+  {
+    "title": "TypeScript : dès lundi sur votre App Legacy",
+    "date": "2017-03-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
+    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -11576,23 +12243,6 @@
     ]
   },
   {
-    "title": "De Zéro à Héros avec Spring Boot",
-    "date": "2016-03-31T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
-    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Migrer une application React de MObservable vers Redux",
     "date": "2016-03-31T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeauxjs/events/229812115/",
@@ -11609,6 +12259,23 @@
     "rsvp_count": 14,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "De Zéro à Héros avec Spring Boot",
+    "date": "2016-03-31T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/229566440/",
+    "description": "Jeudi 31 mars 2016 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, Stéphane NICOLL<a href=\"http://www.bordeauxjug.org/speakers#mathieuancelin\"></a>, viendra nous présenter Spring Boot.\nSpring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable.\nIt's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple.\nJoin Spring Boot committer Stéphane Nicoll for a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.!",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {

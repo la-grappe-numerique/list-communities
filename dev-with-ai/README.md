@@ -16,6 +16,14 @@ Notre objectif : partager expériences et bonnes pratiques autour de l’IA gén
 ## 📆 Past Events
 
 <details>
+<summary>2026</summary>
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 01 juillet 2026 à 19:00 | Dev With AI Meetup #16 @ Cap Sciences [Bordeaux] | Cap Sciences, Hangar 20, Quai de Bacalan, 33300 Bordeaux, France | https://luma.com/dm16 |
+</details>
+
+<details>
 <summary>2025</summary>
 
 | Date | Event | Location | Link |

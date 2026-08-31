@@ -21,6 +21,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/creative-coding-bordeaux/event
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mardi 21 avril 2026 à 19:00 | Playground #6 - Creative Coding | 20 Rue Saint-François, Bordeaux | https://www.meetup.com/creative-coding-bordeaux/events/314245132/ |
 | Jeudi 05 mars 2026 à 19:00 | Off-Playground - Creative Coding | 20 Rue Saint-François, Bordeaux | https://www.meetup.com/creative-coding-bordeaux/events/313586042/ |
 | Jeudi 15 janvier 2026 à 19:00 | Off-Playground - Creative Coding | 20 Rue Saint-François, Bordeaux | https://www.meetup.com/creative-coding-bordeaux/events/312710464/ |
 </details>

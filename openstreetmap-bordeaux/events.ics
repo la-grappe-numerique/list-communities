@@ -7,6 +7,241 @@ X-WR-CALDESC:Calendrier des événements de la communauté openstreetmap-b
 X-WR-CALNAME:Événements openstreetmap-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🗺️ Rentrée bordelaise du groupe local OpenStreetMap
+DTSTART;TZID=Europe/Paris:20260903T180000
+DTEND;TZID=Europe/Paris:20260903T200000
+UID:https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457@communit
+ y-events
+DESCRIPTION:🔗 https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/4
+ 4457\n📍 Aquilenet\, 20 rue Tourat\, 33000 Bordeaux\n\nRejoignez-nous le
+  jeudi 3 septembre à 18h autour d'un pique-nique pour fêter la rentrée 
+ du groupe local OSM ! 🗺️\n\nCet évènement sera l'occasion de discut
+ er des modalités des futures rencontres et du contenu de celles-ci (carto
+ partie\, tutoriels\, mapathon\, etc.).\n\nChaque participant est invité 
+ à apporter quelque chose à manger ou à boire pour contribuer au bon dé
+ roulement du pique-nique. 🥪\n\nBonnes vacances à toutes et tous et au 
+ plaisir de vous voir !\n\nPour en savoir plus 👉 https://forum.openstree
+ tmap.fr/t/rentree-bordelaise-osm/44457\n\nCommunauté: openstreetmap-borde
+ aux
+LOCATION:Aquilenet\, 20 rue Tourat\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State of The Map 2026 - Jour 3
+DTSTART;TZID=Europe/Paris:20260830T093000
+DTEND;TZID=Europe/Paris:20260830T113000
+UID:https://2026.stateofthemap.org/programme/#general_Sunday@community-eve
+ nts
+DESCRIPTION:🔗 https://2026.stateofthemap.org/programme/#general_Sunday
+ \n📍 Cité Descartes\, 6-8 Avenue Blaise Pascal\, 77420 Champs-sur-Marne
+ \n\nLe State of the Map 2026 est la conférence annuelle dédiée aux cart
+ ographes et utilisateurs d'OpenStreetMap. Cette édition se tiendra à Par
+ is et en ligne\, sur 3 jours\, avec au programme des conférences\, des at
+ eliers et des échanges autour de la cartographie collaborative.\n\nCommun
+ auté: openstreetmap-bordeaux\n💻 Événement en ligne
+LOCATION:Cité Descartes\, 6-8 Avenue Blaise Pascal\, 77420 Champs-sur-Mar
+ ne
+TZID:Europe/Paris
+URL:https://2026.stateofthemap.org/programme/#general_Sunday
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State of The Map 2026 - Jour 2
+DTSTART;TZID=Europe/Paris:20260829T093000
+DTEND;TZID=Europe/Paris:20260829T113000
+UID:https://2026.stateofthemap.org/programme/#general_Saturday@community-e
+ vents
+DESCRIPTION:🔗 https://2026.stateofthemap.org/programme/#general_Saturda
+ y\n📍 Cité Descartes\, 6-8 Avenue Blaise Pascal\, 77420 Champs-sur-Marn
+ e\n\nLe State of the Map 2026 est la conférence annuelle dédiée aux car
+ tographes et utilisateurs d'OpenStreetMap. Cette édition se tiendra à Pa
+ ris et en ligne\, sur 3 jours\, avec au programme des conférences\, des a
+ teliers et des échanges autour de la cartographie collaborative.\n\nCommu
+ nauté: openstreetmap-bordeaux\n💻 Événement en ligne
+LOCATION:Cité Descartes\, 6-8 Avenue Blaise Pascal\, 77420 Champs-sur-Mar
+ ne
+TZID:Europe/Paris
+URL:https://2026.stateofthemap.org/programme/#general_Saturday
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State of The Map 2026 - Jour 1
+DTSTART;TZID=Europe/Paris:20260828T093000
+DTEND;TZID=Europe/Paris:20260828T113000
+UID:https://2026.stateofthemap.org/programme/#general_Friday@community-eve
+ nts
+DESCRIPTION:🔗 https://2026.stateofthemap.org/programme/#general_Friday
+ \n📍 Cité Descartes\, 6-8 Avenue Blaise Pascal\, 77420 Champs-sur-Marne
+ \n\nLe State of the Map 2026 est la conférence annuelle dédiée aux cart
+ ographes et utilisateurs d'OpenStreetMap. Cette édition se tiendra à Par
+ is et en ligne\, sur 3 jours\, avec au programme des conférences\, des at
+ eliers et des échanges autour de la cartographie collaborative.\n\nCommun
+ auté: openstreetmap-bordeaux\n💻 Événement en ligne
+LOCATION:Cité Descartes\, 6-8 Avenue Blaise Pascal\, 77420 Champs-sur-Mar
+ ne
+TZID:Europe/Paris
+URL:https://2026.stateofthemap.org/programme/#general_Friday
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mapathon : Cartographie du plan de bus Bordelais
+DTSTART;TZID=Europe/Paris:20260713T180000
+DTEND;TZID=Europe/Paris:20260713T200000
+UID:https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-obsolete-sur-
+ osm/41982@community-events
+DESCRIPTION:🔗 https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-
+ obsolete-sur-osm/41982\n📍 Aquilenet\, 20 Rue Tourat\, 33000 Bordeaux\n
+ \nBonjour\,\n\nNous réalisons le 13/07 à 18h notre premier mapathon à A
+ quilenet. L’objectif est de cartographier l’ensemble du plan de bus bo
+ rdelais avec les données GTFS (pour General Transit Feed Specification).
+ \n\nVous êtes nouveaux et ne connaissez pas l’écosystème OSM ? Pas d
+ e panique !\nNous serons présents pour vous aider\, vous accompagner et 
+ vous fournir la documentation nécessaire\, afin que vous puissiez appréh
+ ender sereinement l’écosystème OSM.\n\nPour suivre l’actualité de c
+ et évènement\, vous pouvez consulter la page correspondante sur notre fo
+ rum : https://forum.openstreetmap.fr/t/qui-est-motive-e-pour-creer-un-grou
+ pe-local-a-bordeaux/38783\n\nBon weekend à tous et au plaisir de vous voi
+ r !\n\nCommunauté: openstreetmap-bordeaux
+LOCATION:Aquilenet\, 20 Rue Tourat\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://forum.openstreetmap.fr/t/plan-du-bus-de-bordeaux-obsolete-sur-
+ osm/41982
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Printemps des Cartes à Montmorillon
+DTSTART;TZID=Europe/Paris:20260531T100000
+DTEND;TZID=Europe/Paris:20260531T120000
+UID:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
+ /PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13@community-ev
+ ents
+DESCRIPTION:🔗 https://www.printempsdescartes.fr/wp-content/uploads/site
+ s/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13
+ \n📍 16 rue des Récollets 86500 Montmorillon\, France\n\n🗺️ **Le P
+ rintemps des Cartes\, un festival de cartographie ouvert à toutes et à t
+ ous !**\n\nLe Printemps des Cartes\, est un festival qui rassemble habitan
+ ts\, citoyens\, artistes\, publics scolaires (du primaire à l’Universit
+ é)\, enseignants\, chercheurs\, entrepreneurs\, curieux de tous âges\, m
+ onde associatif et collectivités\, autour des cartes géographiques !\n\n
+ Cartographes\, géographes\, écrivains\, historiens\, romanciers\, urbani
+ stes\, philosophes\, plasticiens\, dessinateurs… pratiquent la cartograp
+ hie et viennent échanger à Montmorillon dans la Vienne.\n\nL’évèneme
+ nt est organisé depuis 2018\, par un collectif qui regroupe l’Universit
+ é de Poitiers\, L’Espace Mendès France Poitiers et la MJC Claude Nouga
+ ro de Montmorillon.\n\nPour en savoir plus\, vous pouvez consulter le [pro
+ gramme](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/202
+ 6/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site offi
+ ciel du [printemps des cartes](https://www.printempsdescartes.fr/).\n\n
+ 🤔 **Et OpenStreetMap dans tout ça ?**\n\nDominique Andrieu de l'Univer
+ sité de Tours fera une présentation d'OpenStreetMap à 14h le samedi 30 
+ mai. Vous pourrez aussi retrouver de nombreux contributeurs OSM de France 
+ ou du groupe local de bordeaux.\n\nL'organisation se déroule [ici](https:
+ //forum.openstreetmap.fr/t/printemps-des-cartes-montmorillon-28-05-31-05/4
+ 3518) !\n\nCommunauté: openstreetmap-bordeaux
+LOCATION:16 rue des Récollets 86500 Montmorillon\, France
+TZID:Europe/Paris
+URL:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
+ /PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Printemps des Cartes à Montmorillon
+DTSTART;TZID=Europe/Paris:20260530T100000
+DTEND;TZID=Europe/Paris:20260530T120000
+UID:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
+ /PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10@community-ev
+ ents
+DESCRIPTION:🔗 https://www.printempsdescartes.fr/wp-content/uploads/site
+ s/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10
+ \n📍 16 rue des Récollets 86500 Montmorillon\, France\n\n🗺️ **Le P
+ rintemps des Cartes\, un festival de cartographie ouvert à toutes et à t
+ ous !**\n\nLe Printemps des Cartes\, est un festival qui rassemble habitan
+ ts\, citoyens\, artistes\, publics scolaires (du primaire à l’Universit
+ é)\, enseignants\, chercheurs\, entrepreneurs\, curieux de tous âges\, m
+ onde associatif et collectivités\, autour des cartes géographiques !\n\n
+ Cartographes\, géographes\, écrivains\, historiens\, romanciers\, urbani
+ stes\, philosophes\, plasticiens\, dessinateurs… pratiquent la cartograp
+ hie et viennent échanger à Montmorillon dans la Vienne.\n\nL’évèneme
+ nt est organisé depuis 2018\, par un collectif qui regroupe l’Universit
+ é de Poitiers\, L’Espace Mendès France Poitiers et la MJC Claude Nouga
+ ro de Montmorillon.\n\nPour en savoir plus\, vous pouvez consulter le [pro
+ gramme](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/202
+ 6/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site offi
+ ciel du [printemps des cartes](https://www.printempsdescartes.fr/).\n\n
+ 🤔 **Et OpenStreetMap dans tout ça ?**\n\nDominique Andrieu de l'Univer
+ sité de Tours fera une présentation d'OpenStreetMap à 14h le samedi 30 
+ mai. Vous pourrez aussi retrouver de nombreux contributeurs OSM de France 
+ ou du groupe local de bordeaux.\n\nL'organisation se déroule [ici](https:
+ //forum.openstreetmap.fr/t/printemps-des-cartes-montmorillon-28-05-31-05/4
+ 3518) !\n\nCommunauté: openstreetmap-bordeaux
+LOCATION:16 rue des Récollets 86500 Montmorillon\, France
+TZID:Europe/Paris
+URL:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
+ /PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Printemps des Cartes à Montmorillon
+DTSTART;TZID=Europe/Paris:20260529T100000
+DTEND;TZID=Europe/Paris:20260529T120000
+UID:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
+ /PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=7@community-eve
+ nts
+DESCRIPTION:🔗 https://www.printempsdescartes.fr/wp-content/uploads/site
+ s/414/2026/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=7
+ \n📍 16 rue des Récollets 86500 Montmorillon\, France\n\n🗺️ **Le P
+ rintemps des Cartes\, un festival de cartographie ouvert à toutes et à t
+ ous !**\n\nLe Printemps des Cartes\, est un festival qui rassemble habitan
+ ts\, citoyens\, artistes\, publics scolaires (du primaire à l’Universit
+ é)\, enseignants\, chercheurs\, entrepreneurs\, curieux de tous âges\, m
+ onde associatif et collectivités\, autour des cartes géographiques !\n\n
+ Cartographes\, géographes\, écrivains\, historiens\, romanciers\, urbani
+ stes\, philosophes\, plasticiens\, dessinateurs… pratiquent la cartograp
+ hie et viennent échanger à Montmorillon dans la Vienne.\n\nL’évèneme
+ nt est organisé depuis 2018\, par un collectif qui regroupe l’Universit
+ é de Poitiers\, L’Espace Mendès France Poitiers et la MJC Claude Nouga
+ ro de Montmorillon.\n\nPour en savoir plus\, vous pouvez consulter le [pro
+ gramme](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/202
+ 6/05/PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site offi
+ ciel du [printemps des cartes](https://www.printempsdescartes.fr/).\n\n
+ 🤔 **Et OpenStreetMap dans tout ça ?**\n\nDominique Andrieu de l'Univer
+ sité de Tours fera une présentation d'OpenStreetMap à 14h le samedi 30 
+ mai. Vous pourrez aussi retrouver de nombreux contributeurs OSM de France 
+ ou du groupe local de bordeaux.\n\nL'organisation se déroule [ici](https:
+ //forum.openstreetmap.fr/t/printemps-des-cartes-montmorillon-28-05-31-05/4
+ 3518) !\n\nCommunauté: openstreetmap-bordeaux
+LOCATION:16 rue des Récollets 86500 Montmorillon\, France
+TZID:Europe/Paris
+URL:https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2026/05
+ /PRINTEMPS-DES-CARTES-2026-MONTMORILLON-PROGRAMME.pdf#page=7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival Printemps des Cartes à Montmorillon
+DTSTART;TZID=Europe/Paris:20260528T100000
+DTEND;TZID=Europe/Paris:20260528T120000
+UID:https://www.printempsdescartes.fr/@community-events
+DESCRIPTION:🔗 https://www.printempsdescartes.fr/\n📍 16 rue des Réco
+ llets 86500 Montmorillon\, France\n\n🗺️ **Le Printemps des Cartes\, u
+ n festival de cartographie ouvert à toutes et à tous !**\n\nLe Printemps
+  des Cartes\, est un festival qui rassemble habitants\, citoyens\, artiste
+ s\, publics scolaires (du primaire à l’Université)\, enseignants\, che
+ rcheurs\, entrepreneurs\, curieux de tous âges\, monde associatif et coll
+ ectivités\, autour des cartes géographiques !\n\nCartographes\, géograp
+ hes\, écrivains\, historiens\, romanciers\, urbanistes\, philosophes\, pl
+ asticiens\, dessinateurs… pratiquent la cartographie et viennent échang
+ er à Montmorillon dans la Vienne.\n\nL’évènement est organisé depuis
+  2018\, par un collectif qui regroupe l’Université de Poitiers\, L’Es
+ pace Mendès France Poitiers et la MJC Claude Nougaro de Montmorillon.\n\n
+ Pour en savoir plus\, vous pouvez consulter le [programme](https://www.pri
+ ntempsdescartes.fr/wp-content/uploads/sites/414/2026/05/PRINTEMPS-DES-CART
+ ES-2026-MONTMORILLON-PROGRAMME.pdf) ou le site officiel du [printemps des 
+ cartes](https://www.printempsdescartes.fr/).\n\n🤔 **Et OpenStreetMap da
+ ns tout ça ?**\n\nDominique Andrieu de l'Université de Tours fera une pr
+ ésentation d'OpenStreetMap à 14h le samedi 30 mai. Vous pourrez aussi re
+ trouver de nombreux contributeurs OSM de France ou du groupe local de bord
+ eaux.\n\nL'organisation se déroule [ici](https://forum.openstreetmap.fr/t
+ /printemps-des-cartes-montmorillon-28-05-31-05/43518) !\n\nCommunauté: op
+ enstreetmap-bordeaux
+LOCATION:16 rue des Récollets 86500 Montmorillon\, France
+TZID:Europe/Paris
+URL:https://www.printempsdescartes.fr/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🗺️ Mapathon en Pays Basque dans le cadre du projet européen 
  SYSTOUR
 DTSTART;TZID=Europe/Paris:20260317T090000
@@ -62,20 +297,20 @@ DESCRIPTION:🔗 https://forum.openstreetmap.fr/t/cartopartie-la-semaine-d
   18h place de la victoire (près de la tortue).\nL’objectif sera de comp
  léter un maximum d’information sur les bâtiments du quartier.\nLe pér
  imètre est défini sur cette carte [uMaps](https://umap.openstreetmap.fr/
- fr/map/cartopartie-n2-groupe-de-bordeaux_1350532#15/44.832836/-0.572877).\
- n\nNous utiliserons principalement le tag building et vous pouvez retrouve
- r toutes les informations sur ce tag dans le [wiki](https://wiki.openstree
- tmap.org/wiki/Key:building).\n\n**Comment contribuer ?** 🙌\n\nIl est co
- nseillé aux contributeurs d'installer avant la cartopartie l'application 
- [OsmAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=fr&pl
- i=1) ou [StreetComplete](https://streetcomplete.app/?lang=fr) pour les uti
- lisateurs Android et [Go Map !!](https://apps.apple.com/us/app/go-map/id59
- 2990211) pour les utilisateurs iOS.\n\nLes nouveaux contributeurs seront a
- ccompagnés tout au long de la cartopartie\, mais vous pouvez dès à pré
- sent apprendre à contribuer sur le site [LearnOSM](https://learnosm.org/f
- r/beginner/).\n\n**Pour suivre les actualités d'OSM France\, vous pouvez 
- nous rejoindre sur le [forum](https://forum.openstreetmap.fr/)**.\n\nCommu
- nauté: openstreetmap-bordeaux
+ fr/map/cartopartie-n2-groupe-de-bordeaux_1350532#15/44.832836/-0.572877).
+ \n\nNous utiliserons principalement le tag building et vous pouvez retrouv
+ er toutes les informations sur ce tag dans le [wiki](https://wiki.openstre
+ etmap.org/wiki/Key:building).\n\n**Comment contribuer ?** 🙌\n\nIl est c
+ onseillé aux contributeurs d'installer avant la cartopartie l'application
+  [OsmAnd](https://play.google.com/store/apps/details?id=net.osmand&hl=fr&p
+ li=1) ou [StreetComplete](https://streetcomplete.app/?lang=fr) pour les ut
+ ilisateurs Android et [Go Map !!](https://apps.apple.com/us/app/go-map/id5
+ 92990211) pour les utilisateurs iOS.\n\nLes nouveaux contributeurs seront 
+ accompagnés tout au long de la cartopartie\, mais vous pouvez dès à pr
+ ésent apprendre à contribuer sur le site [LearnOSM](https://learnosm.org
+ /fr/beginner/).\n\n**Pour suivre les actualités d'OSM France\, vous pouve
+ z nous rejoindre sur le [forum](https://forum.openstreetmap.fr/)**.\n\nCom
+ munauté: openstreetmap-bordeaux
 LOCATION:Place de la victoire - Autour de la tortue 🐢
 TZID:Europe/Paris
 URL:https://forum.openstreetmap.fr/t/cartopartie-la-semaine-du-19-02/40654

@@ -1,5 +1,50 @@
 [
   {
+    "title": "Data & IA sous contrôle",
+    "date": "2026-07-02T18:30:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/315181282/",
+    "description": "**MTG:Bordeaux x ApérOps**\n\nPour ce meetup, nous avons le plaisir de co-organiser l'événement avec [ApérOps](https://bordeaux-aperops.com/) et d'être accueillis par [Thélio](https://www.thelio.fr/)\n\n**📅 Programme de l’événement**\n*18h30* – **Bienvenue & Introduction**\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*18h40* – **Démarrage des talks**\nNous aurons la chance d'accueillir 3 personnes qui nous présenteront chacune un talk :\n\\- \"Data Contracts : En finir avec les pannes d'ingestion\" par Youva Gharout\n\\- \"15 minutes pour comprendre Microsoft Foundry\" par Iuliia Mazur\n\\- \"Gouvernance et anonymisation des données dans les flux LLM\" par Pierre Chaumont\n\n*20h* – **Networking**\nProfitez d’un moment convivial.\n\n**📍 Lieu de l’événement :** Thélio\n235 rue Judaïque, 33000 Bordeaux\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participant∙e∙s. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "community": "mtg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Thélio Bordeaux",
+      "address": "235 rue Judaïque",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "235 rue Judaïque, Bordeaux"
+  },
+  {
+    "title": "Microsoft Build 2026 //localhost:bordeaux",
+    "date": "2026-06-08T17:30:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/314984774/",
+    "description": "**IMPORTANT : MERCI DE VOUS INSCRIRE SUR LA [PAGE MICROSOFT REACTOR](https://developer.microsoft.com/fr-fr/reactor/events/27221/) POUR PARTICIPER A L'ÉVÉNEMENT**\n\n**Microsoft Build //localhost:bordeaux**\nNous sommes heureux de vous inviter à la version localhost de la Microsoft Build. Un événement local et communautaire à Bordeaux pour faire suite à la Microsoft Build. On parlera des nouveautés annoncées à la Build et de différentes thématiques à commencer par l'IA et Azure. On aura le plaisir\nd'être accueilli par [Programisto](https://programisto.fr/) à l'[École de Turing](https://ecoledeturing.fr/).\n\nExceptionnellement, les inscriptions se feront à cette [adresse](https://developer.microsoft.com/fr-fr/reactor/events/27221/).\n\n**📅 Programme de l’événement**\n*Démarrage à 17h30*\n**Accueil & Networking & Introduction**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour plusieurs sessions passionnantes.\n**Panel**\nUne table ronde pour débriefer des annonces de la Microsoft Build\nAvec Alexandre Nédélec (MVP), Christian Bonnaud, Xavier Noya, Romain Serre (MVP), Manitra Rambelon, Arnaud Petitjean (Microsoft)\n**Lab**\nFrom zero to deployed on Azure with AI agent\n**Talk**\nDévelopper souverain : AKS, AI Foundry Local et GitHub Enterprise sur Azure Local\n\n**Clôture & Networking**\nProfitez d’un moment convivial.\n\n📺 **Live**\nPour ceux et celles à distance l'événement est diffusé en direct sur YouTube : https://youtube.com/live/L9rMyhtrHnI\n\n**📍 Lieu de l’événement :** École de Turing\n353 Boulevard du Président Wilson 7ème étage, 33200 Bordeaux\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participant∙e∙s. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "community": "mtg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "École de Turing",
+      "address": "353 Boulevard du Président Wilson 7ème étage",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "353 Boulevard du Président Wilson 7ème étage, Bordeaux"
+  },
+  {
+    "title": "GitHub Copilot Dev Days | Bordeaux",
+    "date": "2026-04-30T18:00:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/314271013/",
+    "description": "**GitHub Copilot Dev Days – Bordeaux**\n\nRejoignez-nous pour un évènement tech consacré au développement assisté par l'IA avec **GitHub Copilot.** Au programme les dernières nouveautés, des retours d'expérience ainsi que des démos. Que vous soyez débutant·e ou développ·eur·euse expérimenté·e, cet événement est fait pour vous !\n\n**📅 Programme de l’événement**\n*18h* – **Accueil & Networking**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour une session passionnante.\n*18h10* – **Bienvenue & Introduction**\nPrésentation du déroulé de la soirée et des intervenant·e·s.\n*18h20* – **Démarrage des présentations techniques (Nouveautés GitHub Copilot, GitHub Copilot CLI, Agentic Workflows, ... programme détaillé à venir)**\n*20h35* – **Clôture & Networking**\nProfitez d’un moment de networking.\n\n**📍 Lieu de l’événement :** L'événement aura lieu dans les locaux d'Avanade Bordeaux, au 55 cours Georges Clémenceau, 33000 Bordeaux\n\n💻 **Pensez à apporter votre ordinateur portable si jamais vous voulez expérimenter les démos et le lab en même temps que nous !**\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participants. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "community": "mtg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Avanade Bordeaux",
+      "address": "55 Cours Georges Clemenceau",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "55 Cours Georges Clemenceau, Bordeaux"
+  },
+  {
     "title": "IA : Productivité, Données et réalité",
     "date": "2026-02-04T18:00:00+01:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/312868461/",

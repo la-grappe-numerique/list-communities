@@ -1,11 +1,37 @@
 [
   {
-    "title": "After work post-AGFr",
-    "date": "2026-04-14T18:30:00",
-    "url": "https://www.linkedin.com/events/7434682990204698624",
-    "description": "Fin mars, Bordeaux devient la capitale du jeu agile avec l’arrivée d’Agile Games France !\n\nSi l'événement national affiche complet (https://agilegamesfrance.fr/doku.php?id=evenement_2026), l’énergie, elle, circule partout. Pour marquer le coup à notre échelle locale, je vous propose de nous retrouver pour un afterwork informel.\n\nL'idée ? Simplement se réunir entre passionnés (que vous ayez participé à l'événement ou non) pour :\n- Débriefer les ateliers marquants pour les chanceux qui y étaient.\n- Découvrir de nouveaux ateliers et mécaniques pour ceux qui n'ont pas pu avoir de place.\n- Renforcer les liens de notre communauté bordelaise, tout simplement.",
+    "title": "Club de lecture 26.6 - Factfulness",
+    "date": "2026-10-10T10:30:00",
+    "url": "https://the-playground.fr/m/club-de-lecture-26-6-factfulness",
+    "description": "Le club de lecture 26.6 se tiendra samedi 10 octobre de 10h30 à 12h30 au Node.\n\nLe livre sélectionné est “Factfulness” de Hans Rosling.\n\n“Nous nous croyons rationnels et informés. Ce n'est pas le cas. Nous nous trompons systématiquement, quel que soit notre niveau d'études, y compris - peut-être même plus - sur les sujets que nous croyons bien connaître. Mais, comme le met au jour Hans Rosling, statisticien de génie et star des conférences TED, les raisons pour lesquelles nous nous trompons sont toujours les mêmes ! Hérité d'un ancestral instinct de survie, c'est le fonctionnement même de notre cerveau qui nous induit en erreur : en nous incitant à chercher un coupable à tout phénomène ; en résumant la plupart des problèmes en une stérile opposition binaire ; en nous intimant de réagir dans l'urgence (confondant ainsi peur et danger) ; en étant facilement ébloui par les gros chiffres ; en dramatisant à l'excès (et en adorant ça)... Ce livre nous apprend à repérer les situations où nos biais de pensée déforment notre vision des choses. Indispensable pour comprendre le monde tel qu'il est, Factfulness permet de prendre, enfin, la saine habitude de ne fonder son opinion que sur des faits.”\n\n*****\n\nLe club de lecture est un moment de partage et d’échange autour d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins une partie significative.\n\nLe nombre de places étant limité à 15, merci de vous désinscrire si vous ne pouvez plus vous joindre à nous.",
     "community": "agile-bordeaux",
-    "location": "Bâtiment l'Escale - 3ème étage - 14 avenue Neil Armstrong  33700 MERIGNAC",
+    "location": "Le Node, 12 Rue des Faussets, Bordeaux, France",
+    "is_online": false
+  },
+  { "title": "Club de lecture 26.5 - Les livres de l’été",
+    "date": "2026-09-05T10:30:00",
+    "url": "https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete",
+    "description": "Le club de lecture 26.5 se tiendra samedi 5 septembre de 10h30 à 12h30 au Node.\n\nPour cette session au format estival nous vous proposons de venir partager vos lectures de l’été.\n\n*****\n\nLe club de lecture est un moment de partage et d’échange autour d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins une partie significative.\n\nLe nombre de places étant limité à 15, merci de vous désinscrire si vous ne pouvez plus vous joindre à nous.",
+    "community": "agile-bordeaux",
+    "location": "Le Node, 12 Rue des Faussets, Bordeaux, France",
+    "is_online": false
+  },
+  {
+    "title": "Club de lecture 26.4 - L’éloge de la fuite",
+    "date": "2026-06-27T10:00:00",
+    "url": "https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite",
+    "description": "Le club de lecture 26.4 se tiendra samedi 27 juin de 10h00 à 12h00 au Node.\n\nLe livre sélectionné est “L’éloge de la fuite” de Henri Laborit.\n\n\"Se révolter, c'est courir à sa perte, car la révolte, si elle se réalise en groupe, retrouve aussitôt une échelle hiérarchique de soumission à l'intérieur du groupe, et la révolte, seule, aboutit rapidement à la soumission du révolté... Il ne reste plus que la fuite.\"\nHenri Laborit pose, à la lumière des découvertes biologiques, la question de notre libre arbitre, de notre personnalité même. La politique, la société, tout prend dès lors une autre dimension.\n\n*****\n\nLe club de lecture est un moment de partage et d’échange autour d’un livre.\nLes participants ont lu l’ouvrage ou tout au moins une partie significative.\n\nLe nombre de places étant limité à 15, merci de vous désinscrire si vous ne pouvez plus vous joindre à nous.",
+    "community": "agile-bordeaux",
+    "location": "Le Node, 12 rue des Faussets, 33000 BORDEAUX",
+    "is_online": false
+  },
+  {
+    "title": "Club de lecture 26.3 - Le travail: Pourquoi travaillons-nous ?",
+    "date": "2026-04-25T10:00:00",
+    "url": "https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e17580184b26",
+    "description": "",
+    "community": "agile-bordeaux",
+    "location": "Le Node, 12 Rue des Faussets, 33000, Bordeaux",
     "is_online": false
   },
   {
