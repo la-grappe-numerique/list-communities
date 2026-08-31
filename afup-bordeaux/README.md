@@ -3,7 +3,7 @@
 |                                |     |
 | ------------------------------ | --- |
 | ✉️ Qui contacter ?             | Adrien Roches ou l'équipe via antenne-bordeaux@afup.org |
-| 🌍 Site web                    | [https://www.meetup.com/fr-FR/bordeaux-php-meetup/ |](https://bordeaux.afup.org/) |
+| 🌍 Site web                    | [https://www.meetup.com/fr-FR/bordeaux-php-meetup/](https://bordeaux.afup.org/) |
 
 ## Qui sommes nous ?
 
