@@ -22558,6 +22558,27 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeauxjug/events/143511422/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Entreprendre au féminin : oser\, construire\, rebondir
+DTSTART;TZID=Europe/Paris:20260922T183000
+DTEND;TZID=Europe/Paris:20260922T203000
+UID:https://luma.com/40nrbril@community-events
+DESCRIPTION:🔗 https://luma.com/40nrbril\n📍 DEEZER Bordeaux\, 20 rue 
+ St François 33000 Bordeaux\n\n​1️⃣ INFOS PRATIQUES\n\n​📍DEEZER
+  Bordeaux\, 20 rue St François 33000 Bordeaux\n🕡18h30 : Accueil\n🎙 
+ 19h : Talks\n🗣️ 20h30 : Moment networking\n👋 21h30 : Fin de soiré
+ \nL’événement est gratuit mais les places sont limitées : inscris-toi
+  ici pour réserver la tienne !\n\n​\n​2️⃣ AU PROGRAMME\n\n​« S
+ olopreneuse : construire un SaaS sans équipe technique » par Zohra Guenn
+ oun\nCe qu'on apprend quand on porte son projet seule\n\n​« Ma troisiè
+ me entreprise\, montée à deux en deux mois »\, par Pauline Trequesser\n
+ Transmettre\, fermer\, relancer : huit ans d'entrepreneuriat\n\n[Plus d'in
+ fos sur le page de l'évènement](https://luma.com/40nrbril)\n\nCommunaut
+ é: women-in-tech-bordeaux
+LOCATION:DEEZER Bordeaux\, 20 rue St François 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/40nrbril
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Management Agile : sortir des croyances\, activer les bons leviers
 DTSTART;TZID=Europe/Paris:20260602T183000
 DTEND;TZID=Europe/Paris:20260602T203000

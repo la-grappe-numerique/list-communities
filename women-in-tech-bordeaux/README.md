@@ -21,6 +21,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/women-in-tech-bordeaux/events.ics](/women-in-tech-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 22 septembre 2026 à 18:30 | Entreprendre au féminin : oser, construire, rebondir | DEEZER Bordeaux, 20 rue St François 33000 Bordeaux | https://luma.com/40nrbril |
+
 ## 📆 Past Events
 
 <details>
