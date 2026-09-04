@@ -42,12 +42,6 @@ Pour contribuer depuis votre mobile (Android ou iOS), vous pouvez télécharger 
 Le calendrier des évènements est disponible au format iCal : https://www.lagrappenumerique.fr/apero-web/events.ics
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Jeudi 03 septembre 2026 à 18:00 | 🗺️ Rentrée bordelaise du groupe local OpenStreetMap | Aquilenet, 20 rue Tourat, 33000 Bordeaux | https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457 |
-
 ## 📆 Past Events
 
 <details>
@@ -55,6 +49,7 @@ Le calendrier des évènements est disponible au format iCal : https://www.lagra
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Jeudi 03 septembre 2026 à 18:00 | 🗺️ Rentrée bordelaise du groupe local OpenStreetMap | Aquilenet, 20 rue Tourat, 33000 Bordeaux | https://forum.openstreetmap.fr/t/rentree-bordelaise-osm/44457 |
 | Dimanche 30 août 2026 à 09:30 | State of The Map 2026 - Jour 3 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Sunday |
 | Samedi 29 août 2026 à 09:30 | State of The Map 2026 - Jour 2 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Saturday |
 | Vendredi 28 août 2026 à 09:30 | State of The Map 2026 - Jour 1 | Cité Descartes, 6-8 Avenue Blaise Pascal, 77420 Champs-sur-Marne | https://2026.stateofthemap.org/programme/#general_Friday |
