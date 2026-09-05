@@ -19,7 +19,6 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](/ag
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Samedi 05 septembre 2026 à 10:30 | Club de lecture 26.5 - Les livres de l’été | Le Node, 12 Rue des Faussets, Bordeaux, France | https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete |
 | Samedi 10 octobre 2026 à 10:30 | Club de lecture 26.6 - Factfulness | Le Node, 12 Rue des Faussets, Bordeaux, France | https://the-playground.fr/m/club-de-lecture-26-6-factfulness |
 
 ## 📆 Past Events
@@ -29,6 +28,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](/ag
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Samedi 05 septembre 2026 à 10:30 | Club de lecture 26.5 - Les livres de l’été | Le Node, 12 Rue des Faussets, Bordeaux, France | https://the-playground.fr/m/club-de-lecture-26-5-les-livres-de-l-ete |
 | Samedi 27 juin 2026 à 10:00 | Club de lecture 26.4 - L’éloge de la fuite | Le Node, 12 rue des Faussets, 33000 BORDEAUX | https://the-playground.fr/m/club-de-lecture-26-4-l-eloge-de-la-fuite |
 | Samedi 25 avril 2026 à 10:00 | Club de lecture 26.3 - Le travail: Pourquoi travaillons-nous ? | Le Node, 12 Rue des Faussets, 33000, Bordeaux | https://mobilizon.fr/events/c2834053-a7f7-4cad-88fe-e17580184b26 |
 | Samedi 28 mars 2026 à 09:00 | Agile Games France 2026 - J2 | Eklo Bordeaux 10 Rue de la Gare d'Orléans, 33100 Bordeaux | https://yp.events/eefdd201-32d4-4300-bd0f-a9423b258d89/Agile-Games-France-2026 |
