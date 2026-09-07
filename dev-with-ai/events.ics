@@ -5,6 +5,44 @@ X-WR-CALDESC:Calendrier des événements de la communauté dev-with-ai
 X-WR-CALNAME:Événements dev-with-ai
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Dev With AI Meetup #19 @ OnePoint [Bordeaux]
+DTSTART;TZID=Europe/Paris:20260922T190000
+DTEND;TZID=Europe/Paris:20260922T210000
+UID:https://luma.com/dm19@community-events
+DESCRIPTION:🔗 https://luma.com/dm19\n📍 Onepoint Bordeaux - Transform
+ ation Digital\, Cit Numérique\, 2 Rue Marc Sangnier\, 33130 Bègles\, Fra
+ nce\n\n[⚠️ Inscription uniquement pour les participants en présentiel
+ . Pour suivre le live stream\, voir le lien plus bas 😉]\n\nAu programme
+  de cette édition 👍\nNicolas Guérinet & Christophe Farges - Un projet
+ \, une IA : comment avons-nous fait équipe ?\n\nDe février à juin\, plu
+ s de 600 commits\, dont environ 80 % co-signés par une IA. Peut-on vraime
+ nt faire équipe avec elle ? Notre réponse est oui\, mais ce qui l'a rend
+ ue utile n'est pas le modle\, c'est le cadre qu'on a construit autour. Un 
+ cadre qu'on ne savait pas crire le premier jour.\n\n--\n\nSezen Leblay - L
+ e cycle de développement à l’ère de lIA\n\nl’ère de l’IA\, ce n
+ ’est pas seulement notre façon de coder qui évolue\, mais aussi notre 
+ manière d’aborder les problèmes et de documenter notre travail. La com
+ munication est devenue plus essentielle que jamais\, notamment pour inspir
+ er confiance dans la qualité de ce que nous construisons. Dans cette pré
+ sentation\, nous verrons comment une quipe Datadog structure et partage so
+ n cycle de développement afin de mieux choisir o concentrer ses efforts.
+ \n\n--\n\nJérémy Guilpin & Hugo Monfouga - STH : ras-le-bol de copier-co
+ ller vos skills dans votre entreprise ?\n\nVos équipes utilisent Claude C
+ ode\, Copilot\, Cursor ou Codex ? Vous avez sûrement vécu ça : un dev c
+ rée un skill utile\, il le partage\, et deux semaines plus tard 4 version
+ s différentes circulent en Slack sans savoir laquelle fait foi. STH (Skil
+ ls Transfer Hub) résout ce problème. Un outil qui distribue vos skills e
+ ntre vos IDE\, vos agents de chats afin de mieux partager vos skills au se
+ in de vos équipes. On vous partage le pourquoi\, le comment\, et la roadm
+ ap.\n\nPas possible de venir en présentiel ? Le meetup sera également di
+ ffus en live streaming : https://www.youtube.com/watch?v=OUUo5xFKFFY activ
+ ez la cloche pour ne pas le manquer ! 😉\n\nCommunauté: dev-with-ai
+LOCATION:Onepoint Bordeaux - Transformation Digital\, Cit Numérique\, 2 R
+ ue Marc Sangnier\, 33130 Bègles\, France
+TZID:Europe/Paris
+URL:https://luma.com/dm19
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dev With AI Meetup #16 @ Cap Sciences [Bordeaux]
 DTSTART;TZID=Europe/Paris:20260701T190000
 DTEND;TZID=Europe/Paris:20260701T210000

@@ -62,6 +62,17 @@
     ]
   },
   {
+    "title": "Dev With AI Meetup #19 @ OnePoint [Bordeaux]",
+    "date": "2026-09-22T19:00:00",
+    "url": "https://luma.com/dm19",
+    "description": "[⚠️ Inscription uniquement pour les participants en présentiel. Pour suivre le live stream, voir le lien plus bas 😉]\n\nAu programme de cette édition 👍\nNicolas Guérinet & Christophe Farges - Un projet, une IA : comment avons-nous fait équipe ?\n\nDe février à juin, plus de 600 commits, dont environ 80 % co-signés par une IA. Peut-on vraiment faire équipe avec elle ? Notre réponse est oui, mais ce qui l'a rendue utile n'est pas le modle, c'est le cadre qu'on a construit autour. Un cadre qu'on ne savait pas crire le premier jour.\n\n--\n\nSezen Leblay - Le cycle de développement à l’ère de lIA\n\nl’ère de l’IA, ce n’est pas seulement notre façon de coder qui évolue, mais aussi notre manière d’aborder les problèmes et de documenter notre travail. La communication est devenue plus essentielle que jamais, notamment pour inspirer confiance dans la qualité de ce que nous construisons. Dans cette présentation, nous verrons comment une quipe Datadog structure et partage son cycle de développement afin de mieux choisir o concentrer ses efforts.\n\n--\n\nJérémy Guilpin & Hugo Monfouga - STH : ras-le-bol de copier-coller vos skills dans votre entreprise ?\n\nVos équipes utilisent Claude Code, Copilot, Cursor ou Codex ? Vous avez sûrement vécu ça : un dev crée un skill utile, il le partage, et deux semaines plus tard 4 versions différentes circulent en Slack sans savoir laquelle fait foi. STH (Skills Transfer Hub) résout ce problème. Un outil qui distribue vos skills entre vos IDE, vos agents de chats afin de mieux partager vos skills au sein de vos équipes. On vous partage le pourquoi, le comment, et la roadmap.\n\nPas possible de venir en présentiel ? Le meetup sera également diffus en live streaming : https://www.youtube.com/watch?v=OUUo5xFKFFY activez la cloche pour ne pas le manquer ! 😉",
+    "location": "Onepoint Bordeaux - Transformation Digital, Cit Numérique, 2 Rue Marc Sangnier, 33130 Bègles, France",
+    "is_online": false,
+    "communities": [
+      "dev-with-ai"
+    ]
+  },
+  {
     "title": "15 ans de Kotlin 🎂",
     "date": "2026-09-22T19:00:00",
     "url": "https://www.eventbrite.fr/e/15-ans-de-kotlin-tickets-1994958612914",
