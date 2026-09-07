@@ -30,6 +30,12 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 | Notion Calendrier       | https://dataforgood.notion.site/calendrier |
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 17 septembre 2026 à 18:00 | Rentrée / Mise en avant technique de projets de la saison 14 | Le node, 12 rue des Faussets 33000 Bordeaux | https://www.eventbrite.fr/e/rentree-mise-en-avant-technique-projets-s14-tickets-1999081628966 |
+
 ## 📆 Past Events
 
 <details>

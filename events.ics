@@ -189,6 +189,23 @@ TZID:Europe/Paris
 URL:https://www.aquinum.fr/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rentrée / Mise en avant technique de projets de la saison 14
+DTSTART;TZID=Europe/Paris:20260917T180000
+DTEND;TZID=Europe/Paris:20260917T200000
+UID:https://www.eventbrite.fr/e/rentree-mise-en-avant-technique-projets-s1
+ 4-tickets-1999081628966@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/rentree-mise-en-avant-techniq
+ ue-projets-s14-tickets-1999081628966\n📍 Le node\, 12 rue des Faussets 3
+ 3000 Bordeaux\n\nViens (re)découvrir certains projets de la saison 14 d'u
+ n point de vue plus technique\, les actu de Data For Good avant le lanceme
+ nt de la prochaine saison\, et partager un moment convivial en mode auberg
+ e espagnole!\n\nCommunauté: data-for-good
+LOCATION:Le node\, 12 rue des Faussets 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/rentree-mise-en-avant-technique-projets-s1
+ 4-tickets-1999081628966
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Demo Day S14
 DTSTART;TZID=Europe/Paris:20260511T183000
 DTEND;TZID=Europe/Paris:20260511T203000
