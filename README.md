@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 07 septembre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-craftsmanship-bdx/events/pkmrktyjcmbkb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 07 septembre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcmbkb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 07 septembre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/315903055/) | 9 Rue de Condé, Bordeaux |
+| Mardi 08 septembre 2026 à 18:30 | [human-talks](human-talks/) | [HumanTalks Bordeaux #15 — Transformer la tech, réinventer l'organisation](https://www.meetup.com/human-talks-bordeaux/events/316194450/) | 16 Rue Succursale, Bordeaux |
+| Jeudi 17 septembre 2026 à 18:00 | [data-for-good](data-for-good/) | [Rentrée / Mise en avant technique de projets de la saison 14](https://www.eventbrite.fr/e/rentree-mise-en-avant-technique-projets-s14-tickets-1999081628966) | Le node, 12 rue des Faussets 33000 Bordeaux |
+| Mardi 22 septembre 2026 à 18:30 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Entreprendre au féminin : oser, construire, rebondir](https://luma.com/40nrbril) | DEEZER Bordeaux, 20 rue St François 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
