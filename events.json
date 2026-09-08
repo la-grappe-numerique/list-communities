@@ -79,6 +79,17 @@
     ]
   },
   {
+    "title": "Rentrée de La Grappe Numérique",
+    "date": "2026-09-24T19:00:00",
+    "url": "https://lagrappenumerique.fr/",
+    "description": "La Grappe Numerique fait sa rentrée au Node et vous propose de rencontrer une partie de ses membres 😍",
+    "location": "Le Node, 12 rue des Faussets 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "aquinum"
+    ]
+  },
+  {
     "title": "Dev With AI Meetup #19 @ OnePoint [Bordeaux]",
     "date": "2026-09-22T19:00:00",
     "url": "https://luma.com/dm19",

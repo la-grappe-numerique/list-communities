@@ -15,6 +15,12 @@ L'association organise plus de 150 événements par an, contribuant ainsi active
 🌍 Site web : https://www.aquinum.fr
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 24 septembre 2026 à 19:00 | Rentrée de La Grappe Numérique | Le Node, 12 rue des Faussets 33000 Bordeaux | https://lagrappenumerique.fr/ |
+
 ## 📆 Past Events
 
 <details>

@@ -5,6 +5,19 @@ X-WR-CALDESC:Calendrier des événements de la communauté aquinum
 X-WR-CALNAME:Événements aquinum
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Rentrée de La Grappe Numérique
+DTSTART;TZID=Europe/Paris:20260924T190000
+DTEND;TZID=Europe/Paris:20260924T210000
+UID:https://lagrappenumerique.fr/@community-events
+DESCRIPTION:🔗 https://lagrappenumerique.fr/\n📍 Le Node\, 12 rue des 
+ Faussets 33000 Bordeaux\n\nLa Grappe Numerique fait sa rentrée au Node et
+  vous propose de rencontrer une partie de ses membres 😍\n\nCommunauté:
+  aquinum
+LOCATION:Le Node\, 12 rue des Faussets 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://lagrappenumerique.fr/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Édition d'avril – Afterwork convivial
 DTSTART;TZID=Europe/Paris:20260422T183000
 DTEND;TZID=Europe/Paris:20260422T203000
