@@ -17,6 +17,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](/apero-web/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 30 septembre 2026 à 19:00 | 🍷🤖 Apéro IA Bordeaux — Mercredi 30 septembre | Online | https://www.meetup.com/apero-ia-bordeaux/events/316482716/ |
+
 ## 📆 Past Events
 
 <details>

@@ -5,6 +5,28 @@ X-WR-CALDESC:Calendrier des événements de la communauté apero-web
 X-WR-CALNAME:Événements apero-web
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🍷🤖 Apéro IA Bordeaux — Mercredi 30 septembre
+DTSTART;TZID=Europe/Paris:20260930T190000
+DTEND;TZID=Europe/Paris:20260930T210000
+UID:https://www.meetup.com/apero-ia-bordeaux/events/316482716/@community-e
+ vents
+DESCRIPTION:🔗 https://www.meetup.com/apero-ia-bordeaux/events/316482716
+ /\n\n**Le prochain Apéro IA Bordeaux arrive !**\n\n**📆 Mercredi 30 sep
+ tembre 2026\, à partir de 19 h**\n**📍 À Bordeaux — le lieu exact se
+ ra annoncé prochainement**\n\nL’Apéro IA Bordeaux\, c’est l’afterw
+ ork convivial où l’on se retrouve autour d’un verre pour parler de no
+ s usages\, de nos découvertes et des différentes technologies liées à 
+ l’intelligence artificielle.\n\nQue tu utilises ChatGPT pour corriger te
+ s e-mails ou que tu fasses tourner le dernier modèle open weight sur ta D
+ GX Spark\, tu trouveras des personnes avec qui échanger.\n\nQuel que soit
+  ton niveau\, viens échanger\, partager et apprendre des autres.\n\n**Le 
+ bar qui nous accueillera sera communiqué très bientôt.** Rejoins et sui
+ s le groupe Meetup pour recevoir l’adresse dès son annonce.\n\nCommunau
+ té: apero-web\n💻 Événement en ligne
+TZID:Europe/Paris
+URL:https://www.meetup.com/apero-ia-bordeaux/events/316482716/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🍷🍻 Apéro Web Bordeaux
 DTSTART;TZID=Europe/Paris:20260303T190000
 DTEND;TZID=Europe/Paris:20260303T210000
