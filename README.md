@@ -18,7 +18,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 
 ### Afterworks
 
-- [Apéro Web](apero-web/)
+- [Apéro IA Bordeaux](apero-web/)
 - [DigitalNights](digitalnights/)
 
 ### Conférences
