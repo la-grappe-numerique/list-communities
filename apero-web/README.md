@@ -1,14 +1,15 @@
-# Apéro Web ![Logo](./logo-apero-web-bdx.jpeg ':size=100')
+# Apéro IA Bordeaux ![Logo](./logo-apero-web-bdx.jpeg ':size=100')
 
-🍷🍺 L'Apéro Web Bordeaux c'est l'afterwork convivial réunissant toutes les personnes qui font la tech bordelaise :
-Entrepreneurs, CEO, CTO, Devs, PO, PM, UX/UI, SEO, SEM, CM, SRE, DA, DevOps, growth hackers etc...
-Si votre métier à un rapport avec le web ou la tech, cet apéro est fait pour vous !
+🍷🤖 L'Apéro IA Bordeaux, c'est l'afterwork convivial pour se retrouver autour d'un verre et échanger sur tous les usages de l'intelligence artificielle.
+Que vous utilisiez ChatGPT au quotidien, développiez des outils fondés sur l'IA ou souhaitiez simplement découvrir le sujet, vous y trouverez des personnes avec qui échanger, partager et apprendre.
 
 A chaque évènement un bar bordelais différent !
 
 🌍 Sites web : 
 
-[Meetup](https://www.meetup.com/fr-FR/apero-web-bordeaux/)
+[Meetup](https://www.meetup.com/fr-FR/apero-ia-bordeaux/)
+
+[LinkedIn](https://www.linkedin.com/company/apero-ia-bordeaux/)
 
 [Facebook](https://www.facebook.com/aperowebbdx/)
 
