@@ -16,73 +16,72 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 
 ## 🍷Les communautés Bordelaises par thème
 
-### Afterworks
-
-- [Apéro IA Bordeaux](apero-web/)
-- [DigitalNights](digitalnights/)
-
-### Conférences
-
-- [Agile Tour Bordeaux](agile-tour-bordeaux/)
-- [Bdx I/O](bdx-io/)
-
-### Data/IA
-
-- [ApérOps: DataOps & MLOps](bordeaux-aperops/)
-- [Café IA](cafe-ia/)
-- [Data for Good Bordeaux](data-for-good/)
-- [Dev with AI](dev-with-ai/)
-
-### Design
-
-- [France Design Week Bordeaux](france-design-week-bordeaux/)
-- [Friends of Figma Bordeaux](friends-of-figma-bordeaux/)
-
-### Ecosystèmes/Cloud
-
-- [AWS Bordeaux](aws-bordeaux/)
-- [Cloud Native Bordeaux](cloud-native-bordeaux/)
-- [MTG:Bordeaux](mtg-bordeaux/)
-
-### Généralistes
-- [Aquinum](aquinum/)
-- [Okiwi](okiwi/)
-- [Women in Tech Bordeaux](women-in-tech-bordeaux/)
-
-### Management
-
-- [Agile Bordeaux](agile-bordeaux/)
-- [Human talks](human-talks/)
-- [Serious Gamers Bordeaux](serious-gamers-bordeaux/)
-
-### Programmation/3D
+### Langages et plateformes
 
 - [AFUP Bordeaux](afup-bordeaux/)
-- [Archilocus](archilocus/)
-- [BDX Testing Community](bdx-testing-community/)
 - [BordeauxJS](bordeauxjs/)
 - [BordeauxJug](bordeauxjug/)
 - [BordeauxKt](bordeauxkt/)
 - [Bordeaux Python Meetup](bordeaux-python-meetup/)
-- [Bordeaux XR](bordeaux-xr/)
 - [Cocoaheads Bordeaux](cocoaheads/)
-- [Creative Coding Bordeaux](creative-coding-bordeaux/)
-- [Framer Bordeaux](framer-bordeaux/)
 - [Google Developer Group Bordeaux](gdg-bordeaux/)
 
-### Sécurité
+### Qualité et architecture logicielles
 
+- [Archilocus](archilocus/)
+- [BDX Testing Community](bdx-testing-community/)
+
+### Cloud, infrastructure et sécurité
+
+- [AWS Bordeaux](aws-bordeaux/)
 - [BièreSecu Bordeaux](bieresecu/)
+- [Cloud Native Bordeaux](cloud-native-bordeaux/)
+- [MTG:Bordeaux](mtg-bordeaux/)
 
-### Services
+### Data et IA
+
+- [Apéro IA Bordeaux](apero-web/)
+- [ApérOps: DataOps & MLOps](bordeaux-aperops/)
+- [Data for Good Bordeaux](data-for-good/)
+- [Dev with AI](dev-with-ai/)
+
+### Design et produit
+
+- [France Design Week Bordeaux](france-design-week-bordeaux/)
+- [Framer Bordeaux](framer-bordeaux/)
+- [Friends of Figma Bordeaux](friends-of-figma-bordeaux/)
+- [Women in Product Bordeaux](wip-bordeaux/)
+
+### Agilité et facilitation
+
+- [Agile Bordeaux](agile-bordeaux/)
+- [Agile Tour Bordeaux](agile-tour-bordeaux/)
+- [Human talks](human-talks/)
+- [Serious Gamers Bordeaux](serious-gamers-bordeaux/)
+
+### Création numérique et immersif
+
+- [Bordeaux XR](bordeaux-xr/)
+- [Creative Coding Bordeaux](creative-coding-bordeaux/)
+
+### Communs numériques
 
 - [Aquilenet](aquilenet/)
 - [OpenStreetMap France, groupe local Bordeaux](openstreetmap-bordeaux/)
 
-### Intégration/Orientation par le numérique
+### Numérique pour toutes et tous
 
+- [Café IA](cafe-ia/)
 - [La boussole de la tech](la-boussole-de-la-tech/)
 - [Le Nom Lieu](le-nom-lieu/)
+- [Women in Tech Bordeaux](women-in-tech-bordeaux/)
+
+### Communautés transverses
+
+- [Aquinum](aquinum/)
+- [Bdx I/O](bdx-io/)
+- [DigitalNights](digitalnights/)
+- [Okiwi](okiwi/)
 
 ## 📅 Les grands événements de la Grappe numérique
 
