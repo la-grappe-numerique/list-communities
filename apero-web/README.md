@@ -22,7 +22,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/apero-web/events.ics](/apero-w
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 30 septembre 2026 à 19:00 | 🍷🤖 Apéro IA Bordeaux — Mercredi 30 septembre | Online | https://www.meetup.com/apero-ia-bordeaux/events/316482716/ |
+| Mercredi 30 septembre 2026 à 19:00 | 🍷🤖 Apéro IA Bordeaux — Mercredi 30 septembre | 3 place Général-Sarrail, 33000 Bordeaux, Bordeaux | https://www.meetup.com/apero-ia-bordeaux/events/316482716/ |
 
 ## 📆 Past Events
 
