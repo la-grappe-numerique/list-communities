@@ -17,6 +17,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/human-talks/events.ics](/human-talks/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 13 octobre 2026 à 18:30 | HumanTalks Bordeaux #16 — S'adapter à la mutation des métiers Tech & Product | 72 Av. Thiers, 33100 Bordeaux, France, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/316593466/ |
+
 ## 📆 Past Events
 
 <details>
