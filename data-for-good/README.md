@@ -30,12 +30,6 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 | Notion Calendrier       | https://dataforgood.notion.site/calendrier |
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Jeudi 17 septembre 2026 à 18:00 | Rentrée / Mise en avant technique de projets de la saison 14 | Le node, 12 rue des Faussets 33000 Bordeaux | https://www.eventbrite.fr/e/rentree-mise-en-avant-technique-projets-s14-tickets-1999081628966 |
-
 ## 📆 Past Events
 
 <details>
@@ -43,6 +37,7 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Jeudi 17 septembre 2026 à 18:00 | Rentrée / Mise en avant technique de projets de la saison 14 | Le node, 12 rue des Faussets 33000 Bordeaux | https://www.eventbrite.fr/e/rentree-mise-en-avant-technique-projets-s14-tickets-1999081628966 |
 | Lundi 11 mai 2026 à 18:30 | Demo Day S14 | Le node, 12 rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-1987488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl |
 | Mardi 14 avril 2026 à 18:30 | 🌱 [ATELIER - La Fresque de la Biodiversité x Data for Good Bordeaux] | Le node, 12 rue des Faussets, 33000 Bordeaux | https://www.billetweb.fr/gironde-33 |
 | Mercredi 25 février 2026 à 18:30 | Fresque du Numérique | Le node, Rue des Faussets, Bordeaux, France | https://www.eventbrite.fr/e/fresque-du-numerique-x-data-for-good-bordeaux-tickets-1982496539517?aff=oddtdtcreator |
