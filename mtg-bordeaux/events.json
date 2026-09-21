@@ -1,5 +1,20 @@
 [
   {
+    "title": "GitHub Copilot Dev Days | Bordeaux",
+    "date": "2026-10-08T18:30:00+02:00",
+    "url": "https://www.meetup.com/mtg-bordeaux/events/316642284/",
+    "description": "**Dev Days 2026 – Bordeaux**\n\n**IMPORTANT : MERCI DE VOUS INSCRIRE SUR [L'ÉVÉNEMENT LUMA](https://luma.com/grtkilkz) POUR PARTICIPER A L'ÉVÉNEMENT**\n\nRejoignez-nous pour un évènement tech consacré au développement assisté par l'IA avec **GitHub Copilot** et plus particulièrement sur la GitHub Copilot App. Au programme : les dernières nouveautés, des retours d'expérience ainsi que des démos. Que vous soyez débutant·e ou développ·eur·euse expérimenté·e, cet événement est fait pour vous !\n\n**📅 Programme de l’événement**\n*18h15* – **Accueil & Networking**\nRencontrez d’autres développ·eurs·euses et préparez-vous pour une session passionnante.\n*18h30* – **Démarrage des présentations techniques (GitHub Copilot App, GitHub Copilot CLI, ... programme détaillé à venir)**\n*20h35* – **Clôture & Networking**\nProfitez d’un moment de networking.\n\n**📍 Lieu de l’événement :** L'événement aura lieu dans les locaux d'Avanade Bordeaux, au 55 cours Georges Clémenceau, 33000 Bordeaux\n📺 **Live** : https://www.youtube.com/live/zAHtq5qiCiM?si=Vp0SsMzda47GxHQu\n\n**📜 Code de conduite**\nNous nous engageons à créer un environnement inclusif et accueillant pour tous les participants. Merci de consulter notre [Code de conduite](https://www.mtg-france.org/coc) avant de participer.",
+    "community": "mtg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Avanade Bordeaux",
+      "address": "55 Cours Georges Clemenceau",
+      "city": "Bordeaux",
+      "country": "fr"
+    },
+    "location": "55 Cours Georges Clemenceau, Bordeaux"
+  },
+  {
     "title": "Data & IA sous contrôle",
     "date": "2026-07-02T18:30:00+02:00",
     "url": "https://www.meetup.com/mtg-bordeaux/events/315181282/",
