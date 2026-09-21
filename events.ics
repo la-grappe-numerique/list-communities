@@ -11661,6 +11661,36 @@ URL:https://www.eventbrite.fr/e/digitalnights-20-afterwork-pour-profession
  nels-du-digital-a-bordeaux-tickets-1557518703369
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GitHub Copilot Dev Days | Bordeaux
+DTSTART;TZID=Europe/Paris:20261008T183000
+DTEND;TZID=Europe/Paris:20261008T203000
+UID:https://www.meetup.com/mtg-bordeaux/events/316642284/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/mtg-bordeaux/events/316642284/\n
+ 📍 Avanade Bordeaux\, 55 Cours Georges Clemenceau\, Bordeaux\, fr\n\n**D
+ ev Days 2026 – Bordeaux**\n\n**IMPORTANT : MERCI DE VOUS INSCRIRE SUR [L
+ 'ÉVÉNEMENT LUMA](https://luma.com/grtkilkz) POUR PARTICIPER A L'ÉVÉNEM
+ ENT**\n\nRejoignez-nous pour un évènement tech consacré au développeme
+ nt assisté par l'IA avec **GitHub Copilot** et plus particulièrement sur
+  la GitHub Copilot App. Au programme : les dernières nouveautés\, des re
+ tours d'expérience ainsi que des démos. Que vous soyez débutant·e ou d
+ évelopp·eur·euse expérimenté·e\, cet événement est fait pour vous 
+ !\n\n**📅 Programme de l’événement**\n*18h15* – **Accueil & Networ
+ king**\nRencontrez d’autres développ·eurs·euses et préparez-vous pou
+ r une session passionnante.\n*18h30* – **Démarrage des présentations t
+ echniques (GitHub Copilot App\, GitHub Copilot CLI\, ... programme détail
+ lé à venir)**\n*20h35* – **Clôture & Networking**\nProfitez d’un mo
+ ment de networking.\n\n**📍 Lieu de l’événement :** L'événement au
+ ra lieu dans les locaux d'Avanade Bordeaux\, au 55 cours Georges Clémence
+ au\, 33000 Bordeaux\n📺 **Live** : https://www.youtube.com/live/zAHtq5qi
+ CiM?si=Vp0SsMzda47GxHQu\n\n**📜 Code de conduite**\nNous nous engageons 
+ à créer un environnement inclusif et accueillant pour tous les participa
+ nts. Merci de consulter notre [Code de conduite](https://www.mtg-france.or
+ g/coc) avant de participer.\n\nCommunauté: mtg-bordeaux
+LOCATION:Avanade Bordeaux\, 55 Cours Georges Clemenceau\, Bordeaux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/mtg-bordeaux/events/316642284/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Data & IA sous contrôle
 DTSTART;TZID=Europe/Paris:20260702T183000
 DTEND;TZID=Europe/Paris:20260702T203000
