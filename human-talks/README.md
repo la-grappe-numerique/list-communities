@@ -21,7 +21,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/human-talks/events.ics](/human
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mardi 13 octobre 2026 à 18:30 | HumanTalks Bordeaux #16 — S'adapter à la mutation des métiers Tech & Product | 72 Av. Thiers, 33100 Bordeaux, France, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/316593466/ |
+| Mardi 13 octobre 2026 à 18:30 | HumanTalks Bdx #16 - Métiers Tech & Produit: réussir sa mutation à l'ère de l'IA | 72 Av. Thiers, 33100 Bordeaux, France, Bordeaux | https://www.meetup.com/human-talks-bordeaux/events/316593466/ |
 
 ## 📆 Past Events
 

@@ -13,12 +13,6 @@ Notre objectif : partager expériences et bonnes pratiques autour de l’IA gén
 - **📧 Contact** : greg@devw.ai, hello@ludwigvantours.dev, cedric.teyton@packmind.com
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Mardi 22 septembre 2026 à 19:00 | Dev With AI Meetup #19 @ OnePoint [Bordeaux] | Onepoint Bordeaux - Transformation Digital, Cit Numérique, 2 Rue Marc Sangnier, 33130 Bègles, France | https://luma.com/dm19 |
-
 ## 📆 Past Events
 
 <details>
@@ -26,6 +20,7 @@ Notre objectif : partager expériences et bonnes pratiques autour de l’IA gén
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mardi 22 septembre 2026 à 19:00 | Dev With AI Meetup #19 @ OnePoint [Bordeaux] | Onepoint Bordeaux - Transformation Digital, Cit Numérique, 2 Rue Marc Sangnier, 33130 Bègles, France | https://luma.com/dm19 |
 | Mercredi 01 juillet 2026 à 19:00 | Dev With AI Meetup #16 @ Cap Sciences [Bordeaux] | Cap Sciences, Hangar 20, Quai de Bacalan, 33300 Bordeaux, France | https://luma.com/dm16 |
 </details>
 

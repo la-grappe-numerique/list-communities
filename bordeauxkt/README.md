@@ -12,12 +12,6 @@ Nous organisons des soirées autour de présentations techniques pour discuter d
 | Réseaux            | [LinkedIn](https://www.linkedin.com/company/bordeauxkt/) • [YouTube](https://www.youtube.com/@BordeauxKt) |
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Mardi 22 septembre 2026 à 19:00 | 15 ans de Kotlin 🎂 | Le Node, 12 Rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/15-ans-de-kotlin-tickets-1994958612914 |
-
 ## 📆 Past Events
 
 <details>
@@ -25,6 +19,7 @@ Nous organisons des soirées autour de présentations techniques pour discuter d
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mardi 22 septembre 2026 à 19:00 | 15 ans de Kotlin 🎂 | Le Node, 12 Rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/15-ans-de-kotlin-tickets-1994958612914 |
 | Mardi 27 janvier 2026 à 18:00 | Pub Quiz #2 | Le Connemara, 18 Cours d'Albret, 33000 Bordeaux | https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-quiz-mobile-pub-quiz-get-together-2/ |
 </details>
 
