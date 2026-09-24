@@ -141,17 +141,6 @@
     ]
   },
   {
-    "title": "Dev With AI Meetup #19 @ OnePoint [Bordeaux]",
-    "date": "2026-09-22T19:00:00",
-    "url": "https://luma.com/dm19",
-    "description": "[⚠️ Inscription uniquement pour les participants en présentiel. Pour suivre le live stream, voir le lien plus bas 😉]\n\nAu programme de cette édition 👍\nNicolas Guérinet & Christophe Farges - Un projet, une IA : comment avons-nous fait équipe ?\n\nDe février à juin, plus de 600 commits, dont environ 80 % co-signés par une IA. Peut-on vraiment faire équipe avec elle ? Notre réponse est oui, mais ce qui l'a rendue utile n'est pas le modle, c'est le cadre qu'on a construit autour. Un cadre qu'on ne savait pas crire le premier jour.\n\n--\n\nSezen Leblay - Le cycle de développement à l’ère de lIA\n\nl’ère de l’IA, ce n’est pas seulement notre façon de coder qui évolue, mais aussi notre manière d’aborder les problèmes et de documenter notre travail. La communication est devenue plus essentielle que jamais, notamment pour inspirer confiance dans la qualité de ce que nous construisons. Dans cette présentation, nous verrons comment une quipe Datadog structure et partage son cycle de développement afin de mieux choisir o concentrer ses efforts.\n\n--\n\nJérémy Guilpin & Hugo Monfouga - STH : ras-le-bol de copier-coller vos skills dans votre entreprise ?\n\nVos équipes utilisent Claude Code, Copilot, Cursor ou Codex ? Vous avez sûrement vécu ça : un dev crée un skill utile, il le partage, et deux semaines plus tard 4 versions différentes circulent en Slack sans savoir laquelle fait foi. STH (Skills Transfer Hub) résout ce problème. Un outil qui distribue vos skills entre vos IDE, vos agents de chats afin de mieux partager vos skills au sein de vos équipes. On vous partage le pourquoi, le comment, et la roadmap.\n\nPas possible de venir en présentiel ? Le meetup sera également diffus en live streaming : https://www.youtube.com/watch?v=OUUo5xFKFFY activez la cloche pour ne pas le manquer ! 😉",
-    "location": "Onepoint Bordeaux - Transformation Digital, Cit Numérique, 2 Rue Marc Sangnier, 33130 Bègles, France",
-    "is_online": false,
-    "communities": [
-      "dev-with-ai"
-    ]
-  },
-  {
     "title": "15 ans de Kotlin 🎂",
     "date": "2026-09-22T19:00:00",
     "url": "https://www.eventbrite.fr/e/15-ans-de-kotlin-tickets-1994958612914",
@@ -160,6 +149,17 @@
     "is_online": false,
     "communities": [
       "bordeauxkt"
+    ]
+  },
+  {
+    "title": "Dev With AI Meetup #19 @ OnePoint [Bordeaux]",
+    "date": "2026-09-22T19:00:00",
+    "url": "https://luma.com/dm19",
+    "description": "[⚠️ Inscription uniquement pour les participants en présentiel. Pour suivre le live stream, voir le lien plus bas 😉]\n\nAu programme de cette édition 👍\nNicolas Guérinet & Christophe Farges - Un projet, une IA : comment avons-nous fait équipe ?\n\nDe février à juin, plus de 600 commits, dont environ 80 % co-signés par une IA. Peut-on vraiment faire équipe avec elle ? Notre réponse est oui, mais ce qui l'a rendue utile n'est pas le modle, c'est le cadre qu'on a construit autour. Un cadre qu'on ne savait pas crire le premier jour.\n\n--\n\nSezen Leblay - Le cycle de développement à l’ère de lIA\n\nl’ère de l’IA, ce n’est pas seulement notre façon de coder qui évolue, mais aussi notre manière d’aborder les problèmes et de documenter notre travail. La communication est devenue plus essentielle que jamais, notamment pour inspirer confiance dans la qualité de ce que nous construisons. Dans cette présentation, nous verrons comment une quipe Datadog structure et partage son cycle de développement afin de mieux choisir o concentrer ses efforts.\n\n--\n\nJérémy Guilpin & Hugo Monfouga - STH : ras-le-bol de copier-coller vos skills dans votre entreprise ?\n\nVos équipes utilisent Claude Code, Copilot, Cursor ou Codex ? Vous avez sûrement vécu ça : un dev crée un skill utile, il le partage, et deux semaines plus tard 4 versions différentes circulent en Slack sans savoir laquelle fait foi. STH (Skills Transfer Hub) résout ce problème. Un outil qui distribue vos skills entre vos IDE, vos agents de chats afin de mieux partager vos skills au sein de vos équipes. On vous partage le pourquoi, le comment, et la roadmap.\n\nPas possible de venir en présentiel ? Le meetup sera également diffus en live streaming : https://www.youtube.com/watch?v=OUUo5xFKFFY activez la cloche pour ne pas le manquer ! 😉",
+    "location": "Onepoint Bordeaux - Transformation Digital, Cit Numérique, 2 Rue Marc Sangnier, 33130 Bègles, France",
+    "is_online": false,
+    "communities": [
+      "dev-with-ai"
     ]
   },
   {
@@ -1219,17 +1219,6 @@
     ]
   },
   {
-    "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
-    "date": "2026-01-28T18:30:00",
-    "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
-    "description": "Meetup Rétro 25 & Perspective 26 + Présentation Flash\n4ère Rencontre de la communauté XR Bordelaise autour des technologies immersives !\n\nRejoignez-nous pour une soirée conviviale et enrichissante :\n\n🎤 Présentations Flash ⚡\n🧑🏻‍🏫 Rétrospective 2025 et perspective 2026\n✨ Zone de Démo : Vous avez un projet XR à montrer ? C'est l'endroit idéal !\n🍕 Apéro Networking 🍷: pour échanger dans une ambiance conviviale ! Si vous le pouvez apportez de quoi grignoter ou boire.\n\n\n📍Le Node, 12 Rue des Faussets, Bordeaux - 🗓️28/01 - 🕐 18:30",
-    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
-    "is_online": false,
-    "communities": [
-      "bordeaux-xr"
-    ]
-  },
-  {
     "title": "Bière Agile de Bordeaux - Bonne année!",
     "date": "2026-01-28T18:30:00",
     "url": "https://www.linkedin.com/events/7416947844756127744/",
@@ -1238,6 +1227,17 @@
     "is_online": false,
     "communities": [
       "agile-bordeaux"
+    ]
+  },
+  {
+    "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
+    "date": "2026-01-28T18:30:00",
+    "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
+    "description": "Meetup Rétro 25 & Perspective 26 + Présentation Flash\n4ère Rencontre de la communauté XR Bordelaise autour des technologies immersives !\n\nRejoignez-nous pour une soirée conviviale et enrichissante :\n\n🎤 Présentations Flash ⚡\n🧑🏻‍🏫 Rétrospective 2025 et perspective 2026\n✨ Zone de Démo : Vous avez un projet XR à montrer ? C'est l'endroit idéal !\n🍕 Apéro Networking 🍷: pour échanger dans une ambiance conviviale ! Si vous le pouvez apportez de quoi grignoter ou boire.\n\n\n📍Le Node, 12 Rue des Faussets, Bordeaux - 🗓️28/01 - 🕐 18:30",
+    "location": "Le Node, 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bordeaux-xr"
     ]
   },
   {
@@ -1794,17 +1794,6 @@
     ]
   },
   {
-    "title": "K8S, SaaS, Leadership, Qualité de code, Happiness - Le Tremplin Bordelais 2025",
-    "date": "2025-09-30T18:30:00",
-    "url": "https://www.meetup.com/fr-FR/craftsrecords/events/310781062",
-    "description": "Les conférences Agile Tour Bordeaux et BDX I/O s'associent à CraftsRecords pour organiser une mini-conférence Tremplin le 30 septembre, dédiée aux personnes souhaitant devenir oratrice ou orateur en conférence Tech.",
-    "location": "Betclic, 117 Quai de Bacalan, 33300 Bordeaux",
-    "is_online": false,
-    "communities": [
-      "bdx-io, agile-tour-bordeaux"
-    ]
-  },
-  {
     "title": "Oser, malgré la peur : quand confiance et collectif deviennent moteurs",
     "date": "2025-09-30T18:30:00",
     "url": "https://luma.com/17u8ysfd",
@@ -1813,6 +1802,17 @@
     "is_online": false,
     "communities": [
       "women-in-tech-bordeaux"
+    ]
+  },
+  {
+    "title": "K8S, SaaS, Leadership, Qualité de code, Happiness - Le Tremplin Bordelais 2025",
+    "date": "2025-09-30T18:30:00",
+    "url": "https://www.meetup.com/fr-FR/craftsrecords/events/310781062",
+    "description": "Les conférences Agile Tour Bordeaux et BDX I/O s'associent à CraftsRecords pour organiser une mini-conférence Tremplin le 30 septembre, dédiée aux personnes souhaitant devenir oratrice ou orateur en conférence Tech.",
+    "location": "Betclic, 117 Quai de Bacalan, 33300 Bordeaux",
+    "is_online": false,
+    "communities": [
+      "bdx-io, agile-tour-bordeaux"
     ]
   },
   {
@@ -2425,6 +2425,23 @@
     ]
   },
   {
+    "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
+    "date": "2025-02-26T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
+    "description": "Pour cet événement on se posera des questions sur la mémoire !Pas de jeux pour renforcer notre mémoire 😛 Certes PHP a 30 ans cette année mais quand même 😛\n**Un talk pour en découvrir plus sur la gestion mémoire en PHP par [Nicolas Perussel](https://www.linkedin.com/in/nicolas-perussel-php/), CTO chez [ekino](https://www.ekino.com/).**\n\\-\\-\\-Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\\-\\-\\-\nLa parole au speakeur 📣\n***\\#\\#\\# Une approche du ZMM \\(Zend Memory Manager\\)****Plongez dans les coulisses de la gestion mémoire en PHP*\n*Avez-vous déjà rencontré des problèmes de mémoire avec vos applications PHP ? Savez-vous vraiment comment PHP gère la mémoire en coulisses ?**Venez découvrir les secrets du Zend Memory Manager, le composant crucial qui gère l'allocation mémoire dans le moteur PHP.**Durant cette session technique, nous explorerons :*\n* *L'architecture interne du Zend Memory Manager et son rôle dans le cycle de vie des scripts PHP** *Les stratégies d'allocation et de libération de mémoire** *L'impact des différentes structures de données sur la consommation mémoire** *Les outils de profilage et de debugging pour traquer les fuites mémoire*\n*C'est relativement dense, mais l'approche restera simple et didactique.**J'espère ne rien avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bordeaux,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le 20 mars, réservez votre soirée dés maintenant !",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "La gestion d'erreurs en Javascript",
     "date": "2025-02-26T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjs/events/306025718/",
@@ -2440,23 +2457,6 @@
     "rsvp_count": 47,
     "communities": [
       "bordeauxjs"
-    ]
-  },
-  {
-    "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
-    "date": "2025-02-26T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
-    "description": "Pour cet événement on se posera des questions sur la mémoire !Pas de jeux pour renforcer notre mémoire 😛 Certes PHP a 30 ans cette année mais quand même 😛\n**Un talk pour en découvrir plus sur la gestion mémoire en PHP par [Nicolas Perussel](https://www.linkedin.com/in/nicolas-perussel-php/), CTO chez [ekino](https://www.ekino.com/).**\n\\-\\-\\-Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\\-\\-\\-\nLa parole au speakeur 📣\n***\\#\\#\\# Une approche du ZMM \\(Zend Memory Manager\\)****Plongez dans les coulisses de la gestion mémoire en PHP*\n*Avez-vous déjà rencontré des problèmes de mémoire avec vos applications PHP ? Savez-vous vraiment comment PHP gère la mémoire en coulisses ?**Venez découvrir les secrets du Zend Memory Manager, le composant crucial qui gère l'allocation mémoire dans le moteur PHP.**Durant cette session technique, nous explorerons :*\n* *L'architecture interne du Zend Memory Manager et son rôle dans le cycle de vie des scripts PHP** *Les stratégies d'allocation et de libération de mémoire** *L'impact des différentes structures de données sur la consommation mémoire** *Les outils de profilage et de debugging pour traquer les fuites mémoire*\n*C'est relativement dense, mais l'approche restera simple et didactique.**J'espère ne rien avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bordeaux,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le 20 mars, réservez votre soirée dés maintenant !",
-    "is_online": false,
-    "venue": {
-      "name": "EKINO - 33000",
-      "address": "1 Cr Xavier Arnozan",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
     ]
   },
   {
@@ -5350,6 +5350,16 @@
     ]
   },
   {
+    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
+    "date": "2021-11-16T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
+    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
+    "is_online": true,
+    "communities": [
+      "aws-bordeaux"
+    ]
+  },
+  {
     "title": "Java 17 la dernière LTS par Rémi Forax",
     "date": "2021-11-16T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/281736541/",
@@ -5364,16 +5374,6 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
-    ]
-  },
-  {
-    "title": "Meetup AWS virtuel #10 - IoT sur AWS",
-    "date": "2021-11-16T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/281814921/",
-    "description": "Bonjour à toutes et tous,\n👐 C'est avec un grand plaisir que je vous annonce le prochain meetup AWS. L'événement sera retransmis sur Twitch et Youtube !\n📅 Rendez-vous le 16 NOVEMBRE prochain :) Démarrage des présentations à ⏰ 19h00.\n---\n🎙 Talk 1: Du prototype à des centaines de boîtiers déployés, retour d'expérience avec AWS IoT - Level 200Thomas Himblot - Team lead Software Engineer chez uptime.ac\nDepuis 2016, la startup uptime.ac développe une plateforme de maintenance prédictive pour ascenseur avec son propre boîtier IoT et ses applications web et mobile. Découvrez comment l'uilisation d'AWS IoT Core a permis d'aider le flow de production, le déploiement et l'exploitation des données IoT de centaines de boîtiers.___\n🎙 Talk 2: Le Edge Computing avec AWS IoT Greengrass pour révolutionner l'industrie - Level 200Walid ABDAOUI -IoT Engineer chez Devoteam Revolve\nDécouvrez comment le Edge Computing avec AWS IoT Greengrass permet de faire converger le monde physique industriel appelé aussi OT (Operational Technology) et le monde de l'IT (Information Technology) ou des systèmes informatiques, en introduisant des nouvelles applications et innovations dans les usines renforcées par L’IA___\n🎙 Talk 3: AWS for Industrial - Level 200Arnaud JEAN - Solutions Architect chez AWS\nSaviez-vous qu'une installation industrielle typique possède des milliers de capteurs qui génèrent de la donnée ? Grâce à la mise en oeuvre d'une stratégie autour de l'Internet des Objets Industriel (IIoT), découvrez comment combiner ces données afin d'améliorer de manière proactive les performances des machines au sein par exemple d'usines de fabrication, d'installations d'assemblage ou encore de raffineries.",
-    "is_online": true,
-    "communities": [
-      "aws-bordeaux"
     ]
   },
   {
@@ -6571,23 +6571,6 @@
     ]
   },
   {
-    "title": "La JVM et Docker, vers une symbiose parfaite !",
-    "date": "2019-10-17T19:00:00+02:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
-    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Meetup AWS Bordeaux #5 - Architectures modernes & Serverless",
     "date": "2019-10-17T19:00:00+02:00",
     "url": "https://www.meetup.com/bordeaux-amazon-web-services/events/265467974/",
@@ -6602,6 +6585,23 @@
     "location": "132 Rue Fondaudège, Bordeaux",
     "communities": [
       "aws-bordeaux"
+    ]
+  },
+  {
+    "title": "La JVM et Docker, vers une symbiose parfaite !",
+    "date": "2019-10-17T19:00:00+02:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/265368300/",
+    "description": "David Delabassée viendra nous parlera : La JVM et Docker, vers une symbiose parfaite !\nLes containeurs sont devenus en l'espace de quelques années un standard de-facto pour le déploiement de notre code que ce soit dans le Cloud ou 'On-premises', que ce soit pour des applications plus traditionnelles ou pour des fonctions Serverless.\nLes containeurs sont omniprésents, Docker en tête. De nouvelles plateformes, de nouveaux outils et frameworks ont rapidement émergés (ex. Knative, OpenFaas, Fn, JIB...) afin de simplifier l'utilisation de Docker. Parfois même, on utilise Docker sans nécessairement le savoir, Docker à l’insu de notre plein gré!\nCette session discute différentes approches et techniques afin d’optimiser l'utilisation de Java et de la JVM dans des containers Docker. Nous allons aborder des points tels que Jlink, CDS et AppCDS, Graal SVM, Project Portola, etc. Nous allons enfin discuter de certaines améliorations présentes ou à venir qui visent à améliorer les interactions entre la JVM et Docker.\nBien que le langage Java soit utilisé pour cette session, cette discussion n’est en rien spécifique à Java et est applicable à tous les langages tournant sur la JVM, Kotlin, Groovy, Scala, etc.\nPlus d'informations sur le site du JUG : http://www.bordeauxjug.org/",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
@@ -10837,23 +10837,6 @@
     ]
   },
   {
-    "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
-    "date": "2017-05-23T18:45:00+02:00",
-    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/239156476/",
-    "description": "Avec autant de buzzwords dans le titre, explicitons le menu :\n– Nous commencerons avec une étude des principes du CQRS et la notion de projection pour construire les modèles de données dédiées à la lecture, le tout avec un datastore traditionnel (relationnel).– Nous continuerons avec le concept d’état en programmation fonctionnelle, et comment les gérer au sein d’une application tout en respectant le principe d’immutabilité. Et comment ils ont transformé la gestion d’états pour la construction d’interface utilisateur. – Dans un troisième temps, nous nous intéresserons aux évènements du domaine-métier dans le Domain Driven Design et comment ceux-ci s’intègrent dans la mécanique de construction des projections.– Enfin, nous assemblerons toutes ces notions pour faire apparaitre l’« event sourcing » comme modèle de persistance pour nos données.– Pour clôturer, nous verrons les erreurs les plus courantes rencontrées lors de l’implémentation d’un modèle en event sourcing.\nTake away:– Utiliser CQRS (sans event-sourcing) pour simplifier la gestion de la persistance dans son application.– Comprendre comment gérer des états dans un contexte fonctionnel– Gérer facilement les évènements-métier au sein d’une architecture DDD.– Savoir comment implémenter correctement un système basé sur l’event sourcing.\nCette présentation sera assurée par Arnaud LEMAIRE (@lilobase)",
-    "is_online": false,
-    "venue": {
-      "name": "le node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "okiwi"
-    ]
-  },
-  {
     "title": "Meetup hors-série : CQRS, FP, ES et DDD (Okiwi)",
     "date": "2017-05-23T18:45:00+02:00",
     "url": "https://www.meetup.com/bordeaux-php-meetup/events/239873606/",
@@ -10868,6 +10851,23 @@
     "location": "12 rue des Faussets, Bordeaux",
     "communities": [
       "afup-bordeaux"
+    ]
+  },
+  {
+    "title": "CQRS, Fonctionnel, Event Sourcing & Domain Driven Design",
+    "date": "2017-05-23T18:45:00+02:00",
+    "url": "https://www.meetup.com/software-craftsmanship-bdx/events/239156476/",
+    "description": "Avec autant de buzzwords dans le titre, explicitons le menu :\n– Nous commencerons avec une étude des principes du CQRS et la notion de projection pour construire les modèles de données dédiées à la lecture, le tout avec un datastore traditionnel (relationnel).– Nous continuerons avec le concept d’état en programmation fonctionnelle, et comment les gérer au sein d’une application tout en respectant le principe d’immutabilité. Et comment ils ont transformé la gestion d’états pour la construction d’interface utilisateur. – Dans un troisième temps, nous nous intéresserons aux évènements du domaine-métier dans le Domain Driven Design et comment ceux-ci s’intègrent dans la mécanique de construction des projections.– Enfin, nous assemblerons toutes ces notions pour faire apparaitre l’« event sourcing » comme modèle de persistance pour nos données.– Pour clôturer, nous verrons les erreurs les plus courantes rencontrées lors de l’implémentation d’un modèle en event sourcing.\nTake away:– Utiliser CQRS (sans event-sourcing) pour simplifier la gestion de la persistance dans son application.– Comprendre comment gérer des états dans un contexte fonctionnel– Gérer facilement les évènements-métier au sein d’une architecture DDD.– Savoir comment implémenter correctement un système basé sur l’event sourcing.\nCette présentation sera assurée par Arnaud LEMAIRE (@lilobase)",
+    "is_online": false,
+    "venue": {
+      "name": "le node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "okiwi"
     ]
   },
   {
@@ -11250,23 +11250,6 @@
     ]
   },
   {
-    "title": "Python Bordeaux #7 : données géospatiales",
-    "date": "2017-03-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/py-bdx/events/238293674/",
-    "description": "Nous accueillons pour ce meetup Yassine qui viendra nous parler de données géospatiales et de SIG (Système d'Information Géographique) en Python.\nFaisons du SIG avec Python !\nTravailler avec des données géolocalisées est une tâche difficile. En effet, entre apprendre la manipulation de logiciels propriétaires (pensez Arcgis) et trouver la meilleure façon de les intégrer à votre « stack » technologique actuelle n'est jamais facile. Heureusement, Python possède un ensemble de bibliothèques SIG qui rend le travail avec des données géolocalisées plus facile et agréable. Dans cette présentation, je vous montrerais rapidement les outils SIG qu’offre Python et comment s’en servir pour effectuer une analyse de données. Il y aura une démo interactive à la fin.\nLet’s do some GIS with Python!\nWorking with geolocated data can be a hard task. In fact, between learning proprietary software (think Arcgis) and finding the best way to integrate them with your current technology stack is no easy feat. Fortunately, Python has a complete GIS stack that makes working with geolocated data a breeze. In this talk, I will quickly present the Python GIS stack and how to use it to perform a simple data analysis. There will be a live demo at the end of the talk.\nUne présentation \"légère\" suivra sur le thème \"il existe une fonction pour ça !\". Et comme d'habitude, nous finirons par un apéro convivial !!",
-    "is_online": false,
-    "venue": {
-      "name": "Le Node",
-      "address": "12 rue des Faussets",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "12 rue des Faussets, Bordeaux",
-    "communities": [
-      "bordeaux-python-meetup"
-    ]
-  },
-  {
     "title": "TypeScript : dès lundi sur votre App Legacy",
     "date": "2017-03-23T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
@@ -11281,6 +11264,23 @@
     "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
     "communities": [
       "bordeauxjug"
+    ]
+  },
+  {
+    "title": "Python Bordeaux #7 : données géospatiales",
+    "date": "2017-03-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/py-bdx/events/238293674/",
+    "description": "Nous accueillons pour ce meetup Yassine qui viendra nous parler de données géospatiales et de SIG (Système d'Information Géographique) en Python.\nFaisons du SIG avec Python !\nTravailler avec des données géolocalisées est une tâche difficile. En effet, entre apprendre la manipulation de logiciels propriétaires (pensez Arcgis) et trouver la meilleure façon de les intégrer à votre « stack » technologique actuelle n'est jamais facile. Heureusement, Python possède un ensemble de bibliothèques SIG qui rend le travail avec des données géolocalisées plus facile et agréable. Dans cette présentation, je vous montrerais rapidement les outils SIG qu’offre Python et comment s’en servir pour effectuer une analyse de données. Il y aura une démo interactive à la fin.\nLet’s do some GIS with Python!\nWorking with geolocated data can be a hard task. In fact, between learning proprietary software (think Arcgis) and finding the best way to integrate them with your current technology stack is no easy feat. Fortunately, Python has a complete GIS stack that makes working with geolocated data a breeze. In this talk, I will quickly present the Python GIS stack and how to use it to perform a simple data analysis. There will be a live demo at the end of the talk.\nUne présentation \"légère\" suivra sur le thème \"il existe une fonction pour ça !\". Et comme d'habitude, nous finirons par un apéro convivial !!",
+    "is_online": false,
+    "venue": {
+      "name": "Le Node",
+      "address": "12 rue des Faussets",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "12 rue des Faussets, Bordeaux",
+    "communities": [
+      "bordeaux-python-meetup"
     ]
   },
   {
