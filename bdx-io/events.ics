@@ -5,6 +5,35 @@ X-WR-CALDESC:Calendrier des événements de la communauté bdx-io
 X-WR-CALNAME:Événements bdx-io
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:BDX I/O 2026
+DTSTART;TZID=Europe/Paris:20261029T090000
+DTEND;TZID=Europe/Paris:20261029T110000
+UID:https://bdxio.fr/#2026@community-events
+DESCRIPTION:🔗 https://bdxio.fr/#2026\n📍 ENSEIRB-Matmeca\, 1 Avenue d
+ u Dr Albert Schweitzer\, 33400 Talence\n\nBDX I/O l'événement tech incon
+ tournable de la rentrée à Bordeaux !\n\nBDX I/O\, c’est LA conférence
+  bordelaise de référence sur la programmation et l'ensemble de ses méti
+ ers annexes. Après une édition mémorable qui a rassemblé plus de 1 000
+  passionné(e)s du numérique dans une ambiance conviviale et stimulante\,
+  l'événement franchit un tout nouveau cap cette année.\n\n2 jours de co
+ nférences & thématique "Back to School" !\n\nGrande nouveauté : l'édit
+ ion se tiendra sur 2 jours au cœur de l'ENSEIRB-MATMECA ! Placé sous le 
+ thème de la rentrée ("Back to School")\, l'événement a été pensé co
+ mme un véritable booster d'inspiration et de compétences pour aborder la
+  fin d'année.\n\nQue vous soyez développeurs(se)\, designer\, Product Ow
+ ner\, QA\, DevOps\, CTO ou fondateur de startup\, BDX I/O rassemble tout l
+ 'écosystème pour croiser les regards :\n\n- Un contenu technique & produ
+ it de haut niveau : Des conférences inspirantes\, des retours d'expérien
+ ce concrets et des ateliers pratiques.\n- Un ancrage local fort : L'occasi
+ on rêvée de connecter avec les pépites tech\, les talents et les entrep
+ rises qui font rayonner notre territoire.\n\nRendez-vous le 29 & 30 octobr
+ e 2026 à l'ENSEIRB-MATMECA.\n\nCommunauté: bdx-io
+LOCATION:ENSEIRB-Matmeca\, 1 Avenue du Dr Albert Schweitzer\, 33400 Talenc
+ e
+TZID:Europe/Paris
+URL:https://bdxio.fr/#2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BDX I/O
 DTSTART;TZID=Europe/Paris:20251107T090000
 DTEND;TZID=Europe/Paris:20251107T110000
