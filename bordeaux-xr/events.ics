@@ -5,6 +5,35 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeaux-xr
 X-WR-CALNAME:Événements bordeaux-xr
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Bordeaux XR Meetup #7 - Meet & Greet
+DTSTART;TZID=Europe/Paris:20261001T183000
+DTEND;TZID=Europe/Paris:20261001T203000
+UID:https://www.eventbrite.fr/e/billets-bordeaux-xr-meetup-7-meet-greet-19
+ 99402957067@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/billets-bordeaux-xr-meetup-7-
+ meet-greet-1999402957067\n📍 Le Node\, 12 rue des Faussets\, 33000 Borde
+ aux\n\nC'est la rentrée pour Bordeaux XR ! Nous sommes ravis de vous retr
+ ouver pour notre prochain meetup.\n\nAu programme :\n\n🎤 Speakers\n\n- 
+ Retour sur le Meta Connect et annonces du Q4 2026 - Rames\n- Retour sur l'
+ IBC - Timothée\n- Focus EmaXR (gestion de flotte) : du jeu vidéo à l'in
+ dustrie - Samuel\n\n\n🧑‍🧒‍🧒Communauté\n\n- Appel à nous rej
+ oindre pour co-organiser la suite des évènements Bordeaux XR\n- Présent
+ ations flash : 2 minutes chrono pour pitcher ton projet\, ton profil ou to
+ n idée ! ([template](https://docs.google.com/presentation/d/1zLOXNqf6XkIl
+ YuI4oTEZQJegtHXzv92XNJkRZaCPXxM/edit?usp=sharing))\n\n\n✨ Zone de Démos
+ \n- XREAL ONE S + caméra\n- Insta 360 x5\n- Contactez-nous pour y présen
+ ter une démo ou votre matériel !\n\n\n🍕 Apéro Networking 🍷: pour 
+ échanger dans une ambiance conviviale !\n\n\n\n📍 Aquinum - Le Node (pr
+ ès Pl. St. Pierre)\n\n📅 Jeudi 1er octobre 2026 à 18h30\n\n\n\nPlus d'
+ informations & inscription obligatoire sur EventBrite :\n[[🎟️ Je rés
+ erve ma place 🎟️]](https://www.eventbrite.fr/e/billets-bordeaux-xr-me
+ etup-7-meet-greet-1999402957067)\n\nCommunauté: bordeaux-xr
+LOCATION:Le Node\, 12 rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/billets-bordeaux-xr-meetup-7-meet-greet-19
+ 99402957067
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26
 DTSTART;TZID=Europe/Paris:20260128T183000
 DTEND;TZID=Europe/Paris:20260128T203000

@@ -98,8 +98,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
 | Mercredi 30 septembre 2026 à 19:00 | [apero-web](apero-web/) | [🍷🤖 Apéro IA Bordeaux — Mercredi 30 septembre](https://www.meetup.com/apero-ia-bordeaux/events/316482716/) | 3 place Général-Sarrail, 33000 Bordeaux, Bordeaux |
+| Jeudi 01 octobre 2026 à 18:30 | [bordeaux-xr](bordeaux-xr/) | [Bordeaux XR Meetup #7 - Meet & Greet](https://www.eventbrite.fr/e/billets-bordeaux-xr-meetup-7-meet-greet-1999402957067) | Le Node, 12 rue des Faussets, 33000 Bordeaux |
 | Lundi 05 octobre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 05 octobre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/316568732/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
