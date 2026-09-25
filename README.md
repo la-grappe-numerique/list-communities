@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 24 septembre 2026 à 19:00 | [aquinum](aquinum/) | [Rentrée de La Grappe Numérique](https://lagrappenumerique.fr/) | Le Node, 12 rue des Faussets 33000 Bordeaux |
 | Mercredi 30 septembre 2026 à 19:00 | [apero-web](apero-web/) | [🍷🤖 Apéro IA Bordeaux — Mercredi 30 septembre](https://www.meetup.com/apero-ia-bordeaux/events/316482716/) | 3 place Général-Sarrail, 33000 Bordeaux, Bordeaux |
 | Lundi 05 octobre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/) | 9 Rue de Condé, Bordeaux |
+| Lundi 05 octobre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/316568732/) | 9 Rue de Condé, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

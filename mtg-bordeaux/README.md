@@ -24,6 +24,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/mtg-bordeaux/events.ics](/mtg-
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 08 octobre 2026 à 18:30 | GitHub Copilot Dev Days | Bordeaux | 55 Cours Georges Clemenceau, Bordeaux | https://luma.com/grtkilkz |
+| Jeudi 08 octobre 2026 à 18:30 | GitHub Copilot Dev Days | Bordeaux | 55 Cours Georges Clemenceau, Bordeaux | https://www.meetup.com/mtg-bordeaux/events/316642284/ |
 
 ## 📆 Past Events
 
