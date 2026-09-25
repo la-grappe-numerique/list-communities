@@ -1,5 +1,14 @@
 [
   {
+    "title": "BDX I/O 2026",
+    "date": "2026-10-29T09:00:00",
+    "url": "https://bdxio.fr/#2026",
+    "description": "BDX I/O l'événement tech incontournable de la rentrée à Bordeaux !\n\nBDX I/O, c’est LA conférence bordelaise de référence sur la programmation et l'ensemble de ses métiers annexes. Après une édition mémorable qui a rassemblé plus de 1 000 passionné(e)s du numérique dans une ambiance conviviale et stimulante, l'événement franchit un tout nouveau cap cette année.\n\n2 jours de conférences & thématique \"Back to School\" !\n\nGrande nouveauté : l'édition se tiendra sur 2 jours au cœur de l'ENSEIRB-MATMECA ! Placé sous le thème de la rentrée (\"Back to School\"), l'événement a été pensé comme un véritable booster d'inspiration et de compétences pour aborder la fin d'année.\n\nQue vous soyez développeurs(se), designer, Product Owner, QA, DevOps, CTO ou fondateur de startup, BDX I/O rassemble tout l'écosystème pour croiser les regards :\n\n- Un contenu technique & produit de haut niveau : Des conférences inspirantes, des retours d'expérience concrets et des ateliers pratiques.\n- Un ancrage local fort : L'occasion rêvée de connecter avec les pépites tech, les talents et les entreprises qui font rayonner notre territoire.\n\nRendez-vous le 29 & 30 octobre 2026 à l'ENSEIRB-MATMECA.",
+    "community": "bdx-io",
+    "location": "ENSEIRB-Matmeca, 1 Avenue du Dr Albert Schweitzer, 33400 Talence",
+    "is_online": false
+  },
+  {
     "title": "BDX I/O",
     "date": "2025-11-07T09:00:00",
     "url": "https://bdxio.fr",
@@ -8,7 +17,7 @@
     "location": "Palais des congrès de Bordeaux, Av. Jean Gabriel Domergue, 33300 Bordeaux",
     "is_online": false
   },
-    {
+  {
     "title": "K8S, SaaS, Leadership, Qualité de code, Happiness - Le Tremplin Bordelais 2025",
     "date": "2025-09-30T18:30:00",
     "url": "https://www.meetup.com/fr-FR/craftsrecords/events/310781062",
