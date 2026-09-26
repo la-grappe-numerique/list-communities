@@ -27,6 +27,12 @@ Les échanges peuvent se poursuivre en ligne via nos canaux de communication (gr
 - **📧 Contact** : a.fontaine@lectra.com, jul.leonard@gmail.com, yann.srt@gmail.com
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 15 octobre 2026 à 18:00 | MEETUP #6 - BDX Testing Community @Groupe Créative | 71 Rue Carle Vernet, 33800 Bordeaux, France, Bordeaux | https://www.meetup.com/bdx-testing-community/events/316594996/ |
+
 ## 📆 Past Events
 
 <details>
