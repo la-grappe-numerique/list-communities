@@ -1,5 +1,14 @@
 [
   {
+    "title": "Dev With AI Meetup #20 @ Mirakl [Bordeaux]",
+    "date": "2026-12-01T19:00:00",
+    "url": "https://luma.com/devwithai",
+    "description": "",
+    "community": "dev-with-ai",
+    "location": "Mirakl Bordeaux, Cité Mondiale, 23 Parvis des Chartrons, 33000 Bordeaux",
+    "is_online": false
+  },
+  {
     "title": "Dev With AI Meetup #19 @ OnePoint [Bordeaux]",
     "date": "2026-09-22T19:00:00",
     "url": "https://luma.com/dm19",
