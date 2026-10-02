@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 01 octobre 2026 à 18:30 | [bordeaux-xr](bordeaux-xr/) | [Bordeaux XR Meetup #7 - Meet & Greet](https://www.eventbrite.fr/e/billets-bordeaux-xr-meetup-7-meet-greet-1999402957067) | Le Node, 12 rue des Faussets, 33000 Bordeaux |
 | Lundi 05 octobre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/) | 9 Rue de Condé, Bordeaux |
 | Lundi 05 octobre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/316568732/) | 9 Rue de Condé, Bordeaux |
+| Jeudi 08 octobre 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://luma.com/grtkilkz) | 55 Cours Georges Clemenceau, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

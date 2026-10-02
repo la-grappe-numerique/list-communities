@@ -21,12 +21,6 @@ Un moment **détente et convivial** autour de pizzas et boissons pour échanger,
 | 📆 La fréquence des évènements | Bimestriel |
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Jeudi 01 octobre 2026 à 18:30 | Bordeaux XR Meetup #7 - Meet & Greet | Le Node, 12 rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/billets-bordeaux-xr-meetup-7-meet-greet-1999402957067 |
-
 ## 📆 Past Events
 
 <details>
@@ -34,6 +28,7 @@ Un moment **détente et convivial** autour de pizzas et boissons pour échanger,
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Jeudi 01 octobre 2026 à 18:30 | Bordeaux XR Meetup #7 - Meet & Greet | Le Node, 12 rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/billets-bordeaux-xr-meetup-7-meet-greet-1999402957067 |
 | Mercredi 28 janvier 2026 à 18:30 | Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26 | Le Node, 12 Rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708 |
 </details>
 
