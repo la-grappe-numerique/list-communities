@@ -42,6 +42,12 @@ Pour contribuer depuis votre mobile (Android ou iOS), vous pouvez télécharger 
 Le calendrier des évènements est disponible au format iCal : https://www.lagrappenumerique.fr/apero-web/events.ics
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 07 octobre 2026 à 20:00 | 🗺️ Rencontre mensuelle sur jitsi ! | 20 Rue Tourat, 33000 Bordeaux | https://jitsi.libretic.fr/osm |
+
 ## 📆 Past Events
 
 <details>

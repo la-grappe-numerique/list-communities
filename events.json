@@ -124,6 +124,17 @@
     ]
   },
   {
+    "title": "🗺️ Rencontre mensuelle sur jitsi !",
+    "date": "2026-10-07T20:00:00",
+    "url": "https://jitsi.libretic.fr/osm",
+    "description": "Le mercredi 7 octobre aura lieu la rencontre mensuelle du groupe local bordelais 👐.\n\nVous pouvez nous rejoindre à 20h sur jitsi pour discuter de vos cartographie, de vos contributions et de vos projets autour d'OpenStreetMap ! 🗺️\n\nCliquez sur ce lien pour nous rejoindre mercredi prochain 👉 https://jitsi.libretic.fr/osm\nEt vous pouvez suivre toute l'actualité de notre groupe sur le forum OSM 🔗 https://forum.openstreetmap.fr/c/groupes-locaux/bordeaux/94",
+    "location": "20 Rue Tourat, 33000 Bordeaux",
+    "is_online": true,
+    "communities": [
+      "openstreetmap-bordeaux"
+    ]
+  },
+  {
     "title": "Coding dojo",
     "date": "2026-10-05T18:30:00+02:00",
     "url": "https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/",
