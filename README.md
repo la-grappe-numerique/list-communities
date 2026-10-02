@@ -99,7 +99,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 |------|------------|--------|-----------|
 | Lundi 05 octobre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/) | 9 Rue de Condé, Bordeaux |
 | Lundi 05 octobre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/316568732/) | 9 Rue de Condé, Bordeaux |
-| Mercredi 07 octobre 2026 à 20:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [🗺️ Rencontre mensuelle sur jitsi !](https://jitsi.libretic.fr/osm) | 20 Rue Tourat, 33000 Bordeaux |
+| Mercredi 07 octobre 2026 à 20:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [🗺️ Rencontre mensuelle d'octobre sur jitsi](https://jitsi.libretic.fr/osm) | 20 Rue Tourat, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

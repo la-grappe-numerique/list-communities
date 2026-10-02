@@ -4363,7 +4363,7 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/218821208/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🗺️ Rencontre mensuelle sur jitsi !
+SUMMARY:🗺️ Rencontre mensuelle d'octobre sur jitsi
 DTSTART;TZID=Europe/Paris:20261007T200000
 DTEND;TZID=Europe/Paris:20261007T220000
 UID:https://jitsi.libretic.fr/osm@community-events

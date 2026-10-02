@@ -46,7 +46,7 @@ Le calendrier des évènements est disponible au format iCal : https://www.lagra
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Mercredi 07 octobre 2026 à 20:00 | 🗺️ Rencontre mensuelle sur jitsi ! | 20 Rue Tourat, 33000 Bordeaux | https://jitsi.libretic.fr/osm |
+| Mercredi 07 octobre 2026 à 20:00 | 🗺️ Rencontre mensuelle d'octobre sur jitsi | 20 Rue Tourat, 33000 Bordeaux | https://jitsi.libretic.fr/osm |
 
 ## 📆 Past Events
 

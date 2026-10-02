@@ -7,7 +7,7 @@ X-WR-CALDESC:Calendrier des événements de la communauté openstreetmap-b
 X-WR-CALNAME:Événements openstreetmap-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-SUMMARY:🗺️ Rencontre mensuelle sur jitsi !
+SUMMARY:🗺️ Rencontre mensuelle d'octobre sur jitsi
 DTSTART;TZID=Europe/Paris:20261007T200000
 DTEND;TZID=Europe/Paris:20261007T220000
 UID:https://jitsi.libretic.fr/osm@community-events
