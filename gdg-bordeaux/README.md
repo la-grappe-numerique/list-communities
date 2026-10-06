@@ -22,6 +22,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/gdg-bordeaux/events.ics](/gdg-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 06 octobre 2026 à 18:30 | GDG Meetup #44 : IA en Toute Confiance | 107 Cours Balguerie Stuttenberg, Bordeaux | https://www.meetup.com/fr-FR/gdg-bordeaux/events/316854846/ |
+
 ## 📆 Past Events
 
 <details>

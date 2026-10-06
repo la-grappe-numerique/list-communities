@@ -42,22 +42,70 @@ DESCRIPTION:🔗 https://www.meetup.com/bdx-testing-community/events/31659
  eu** : Groupe Créative\, 71 rue Carle Vernet\, 33800 Bordeaux\n\n**🎤 A
  u programme**\n\n* **18h00** \\- Accueil des participants\n* **18h30** \\-
   Trois talks autour du test logiciel et de la qualité\n* **20h00** \\- Bu
- ffet\\\, discussions et networking\n\n**💡 Pourquoi participer ?**\nParc
- e que les meilleures idées naissent souvent des rencontres.\nDurant cette
-  soirée\, vous pourrez :\n\n* Découvrir des retours d'expérience concre
- ts\n* Explorer de nouvelles approches et pratiques QA\n* Échanger avec de
- s professionnels confrontés aux mêmes défis que vous\n* Poser vos quest
- ions dans un cadre ouvert et convivial\n* Développer votre réseau au sei
- n de la communauté tech bordelaise\n\n**🤝 Le meet-up continue après l
- es talks**\nAutour d'un buffet\, poursuivez les discussions avec les inter
- venants et les participants. C'est souvent dans ces moments informels que 
- naissent les meilleures conversations\, les nouvelles idées et parfois m
- ême les futures collaborations.\n\n**⚠️ Nombre de places limité**\nL
- es inscriptions sont ouvertes jusqu'au **11 octobre 2026 inclus**.\n**Rés
- ervez votre place dès maintenant et rejoignez la communauté pour une nou
- velle soirée placée sous le signe du partage\, de la qualité et de la c
- onvivialité.**\n\n**🎤 Les sujets des talks seront communiqués très b
- ientôt. Restez à l'écoute !**\n\nCommunauté: bdx-testing-community
+ ffet\\\, discussions et networking\n\n**🎤Les talks**\n**#1 Quand tout l
+ e code est écrit par des agents\, que devient la QA ? par Alexandre Grais
+ **\nAprès avoir vu plusieurs gros projets de développement menés à l'I
+ A partir dans le décor\, on a voulu comprendre pourquoi en testant sur no
+ tre propre produit. On a réécrit notre backend en laissant des agents é
+ crire la totalité du code. C'est allé très vite\, l'architecture était
+  propre\, les tests étaient verts\, et une relecture indépendante a quan
+ d même trouvé une série de défauts dont plusieurs critiques. L'agent 
+ écrivait le code\, écrivait le test\, et se déclarait vert.\n\nCe qu'on
+  a compris : ce qui fait la qualité\, ce n'est plus la conception ni la r
+ eview du code\, c'est ce qu'on met autour de l'agent. Les tests\, et les c
+ ontraintes qu'on lui impose : CI rejouée par un tiers et jamais par lui\,
+  couverture mesurée sur tout le code\, tests de bout en bout joués comme
+  un vrai utilisateur\, architecture et isolation vérifiées automatiqueme
+ nt. L'agent ne sort du périmètre que si on ne l'a pas fermé.\n\nEt on e
+ st loin d'être les seuls dans ce cas : les chiffres 2026 montrent une bas
+ cule nette des budgets vers le CI/CD et le test\, au moment précis où la
+  majorité du code devient générée. Je terminerai là-dessus\, sur ce q
+ ue ça veut dire pour nos métiers de QA.\n\n**#2 Ernest\, Knox & Cie : La
+  mécanique de précision au service de la qualité par Robin**\nAu cœur 
+ d’un univers d’engrenages complexes\, de circuits cuivrés et de flux 
+ invisibles\, domovea s'élevait comme une machinerie délicate : six décl
+ inaisons d’équipements\, déployées sur trois environnements d'infrast
+ ructures distincts. Face à cet écosystème imposant\, une poignée de si
+ x à dix gardiens de la validation veillait. Leurs mains n’étaient pas 
+ façonnées pour le code ou les méandres des langages informatiques\, mai
+ s leur regard expert connaissait chaque rouage de la solution.\n\nAutrefoi
+ s\, valider une telle architecture exigeait des gestes infiniment répét
+ és\, des manipulations fastidieuses et chronophages\, ou le risque de voi
+ r pulluler des outils de test hétérogènes et redondants. Il fallait ré
+ inventer la manière d’orchestrer cette harmonie sans dénaturer la simp
+ licité.\nAvec un peu d'astuce et beaucoup d'abnégation\, quelques membre
+ s hétéroclites sont venus renforcer notre équipe.\nEn insufflant la cla
+ rté du langage Gherkin\, nous avons offert à l’équipe une grammaire c
+ ommune\, pure et poétique. Une seule phrase\, limpide et universelle\, de
+ vint capable d'animer les personnages de notre théâtre mécanique : Vene
+ z rencontrer Ernest\, Knox\, Michel\, Claude et Sasha.\nDésormais\, sans 
+ écrire la moindre ligne de code ni altérer le cœur des applications\, l
+ es testeurs orchestrent quotidiennement des centaines de scénarios automa
+ tisés. Mieux encore : cette prose est devenue le trait d'union de toute l
+ 'entreprise. Du Product Owner aux développeurs\, du service qualité jusq
+ u'au support technique\, chacun lit\, comprend et partage la même vision.
+  La complexité s'est effacée devant l'élégance d'une mécanique bien h
+ uilée.\n\n**#3 L'IA : l'attaquant\, la cible\, l'allié par Semah BenAli 
+ et Mohamed Arfaoui**\n\n1. L'attaquant : comment l'IA sert désormais à t
+ rouver et exploiter des failles.\n2. La cible : les nouvelles failles qu'e
+ lle introduit dans nos produits (chatbots\, assistants\, agents).\n3. L'al
+ lié : comment les QA peuvent s'en servir pour mieux tester.\n\nLe talk in
+ tègre des exemples concrets et quelques démonstrations.\n\n**💡 Pourqu
+ oi participer ?**\nParce que les meilleures idées naissent souvent des re
+ ncontres.\nDurant cette soirée\, vous pourrez :\n\n* Découvrir des retou
+ rs d'expérience concrets\n* Explorer de nouvelles approches et pratiques 
+ QA\n* Échanger avec des professionnels confrontés aux mêmes défis que 
+ vous\n* Poser vos questions dans un cadre ouvert et convivial\n* Développ
+ er votre réseau au sein de la communauté tech bordelaise\n\n**🤝 Le me
+ et-up continue après les talks**\nAutour d'un buffet\, poursuivez les dis
+ cussions avec les intervenants et les participants. C'est souvent dans ces
+  moments informels que naissent les meilleures conversations\, les nouvell
+ es idées et parfois même les futures collaborations.\n\n**⚠️ Nombre 
+ de places limité**\nLes inscriptions sont ouvertes jusqu'au **11 octobre 
+ 2026 inclus**.\n**Réservez votre place dès maintenant et rejoignez la co
+ mmunauté pour une nouvelle soirée placée sous le signe du partage\, de 
+ la qualité et de la convivialité.**\n\nCommunauté: bdx-testing-communit
+ y
 LOCATION:Groupe Créative\, 71 Rue Carle Vernet\, 33800 Bordeaux\, France
  \, Bordeaux\, fr
 TZID:Europe/Paris
@@ -1436,6 +1484,37 @@ DESCRIPTION:🔗 https://www.meetup.com/seriousgamers-bordeaux/events/2612
 LOCATION:Le Node - Aquinum\, 12 Rue des Faussets\, Bordeaux\, France
 TZID:Europe/Paris
 URL:https://www.meetup.com/seriousgamers-bordeaux/events/261255186/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GDG Meetup #44 : IA en Toute Confiance
+DTSTART;TZID=Europe/Paris:20261006T183000
+DTEND;TZID=Europe/Paris:20261006T203000
+UID:https://www.meetup.com/fr-FR/gdg-bordeaux/events/316854846/@community-
+ events
+DESCRIPTION:🔗 https://www.meetup.com/fr-FR/gdg-bordeaux/events/31685484
+ 6/\n📍 Le Wagon\, 107 Cours Balguerie Stuttenberg\, Bordeaux\, FR\n\nRej
+ oignez-nous pour un atelier pratique animé par Enzo Conty d'Ezymob\, qui 
+ vous guidera à travers les subtilités de l'utilisation responsable et ef
+ ficace de l'intelligence artificielle. Découvrez les limites des outils d
+ ’IA\, apprenez les tâches à éviter\, et maîtrisez la génération de
+  code\, le débogage et la recherche. Ne manquez pas l'opportunité d'acqu
+ érir des pratiques essentielles pour vérifier et sécuriser les résulta
+ ts produits par l'IA.\n\n📅 Mardi 6 octobre à 18h30\n📍 Le Wagon Bord
+ eaux\n🎟️ Les places sont limitées\, inscrivez-vous maintenant pour s
+ écuriser la vôtre!\n👉 [Inscription](https://lnkd.in/e9nKMx6h)\n\nAgen
+ da\n\n---\n\nHosted By\n\nEnzo Conty\, GDG Bordeaux Organizer\n\nHaving st
+ arted out as a freelancer in France over five years ago\, I have been pass
+ ionate about Flutter since then.\nI created a freelance agency for Flutter
+  mobile development after creating around 30 mobile apps over the years.\n
+ \nWith Flutter\, I explore new platforms to use\, such as Steam Deck\, emb
+ eddable systems such as drink distributors\, and even Steam games.\n\nIvan
+  Canet\, Software Engineer\n\nJocelyn Girard\, Senior Front-End Developer
+ \n\nComplete your event RSVP here: https://gdg.community.dev/events/detail
+ s/google-gdg-bordeaux-presents-gdg-meetup-44-ia-en-toute-confiance/.\n\nCo
+ mmunauté: gdg-bordeaux
+LOCATION:Le Wagon\, 107 Cours Balguerie Stuttenberg\, Bordeaux\, FR
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-FR/gdg-bordeaux/events/316854846/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Meetup #43 - Flutter x IA & Animations : Repoussez les limites
@@ -8635,6 +8714,29 @@ DESCRIPTION:🔗 https://www.meetup.com/archilocus/events/278556971/\n\nNo
   Événement en ligne\n👥 345 participant(s)
 TZID:Europe/Paris
 URL:https://www.meetup.com/archilocus/events/278556971/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coding dojo
+DTSTART;TZID=Europe/Paris:20270201T183000
+DTEND;TZID=Europe/Paris:20270201T203000
+UID:https://www.meetup.com/software-crafters-bdx/events/pkmrktykcdbcb/@com
+ munity-events
+DESCRIPTION:🔗 https://www.meetup.com/software-crafters-bdx/events/pkmrk
+ tykcdbcb/\n📍 Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé
+ \, Bordeaux\, fr\n\nDes coding dojos\, sessions amusantes et intenses pend
+ ant lesquelles des développeurs améliorent leurs compétences en program
+ mation. Le principe est simple : on prend un exercice de programmation sim
+ ple\, on choisit un langage\, et on essaie de coder une solution en respec
+ tant les 4 règles du design simple de Kent Beck :\n\n• passer tous les 
+ tests \;\n• aucune duplication de code \;\n• révéler les intentions 
+ par le code\, être très attentif au nommage \;\n• réduire le nombre d
+ e classes et de méthodes.\n\nLe kata et le langage sont décidé sur plac
+ e\, par les personnes présentes. Ils peuvent etre tiré de ce site -https
+ ://codingdojo.org/\n\nCommunauté: okiwi
+LOCATION:Coolworking - Coworking Bordeaux Centre\, 9 Rue de Condé\, Borde
+ aux\, fr
+TZID:Europe/Paris
+URL:https://www.meetup.com/software-crafters-bdx/events/pkmrktykcdbcb/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coding dojo

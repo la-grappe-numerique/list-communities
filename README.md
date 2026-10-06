@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Lundi 05 octobre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcnbhb/) | 9 Rue de Condé, Bordeaux |
-| Lundi 05 octobre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/316568732/) | 9 Rue de Condé, Bordeaux |
+| Mardi 06 octobre 2026 à 18:30 | [gdg-bordeaux](gdg-bordeaux/) | [GDG Meetup #44 : IA en Toute Confiance](https://www.meetup.com/fr-FR/gdg-bordeaux/events/316854846/) | 107 Cours Balguerie Stuttenberg, Bordeaux |
 | Mercredi 07 octobre 2026 à 20:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [🗺️ Rencontre mensuelle d'octobre sur jitsi](https://jitsi.libretic.fr/osm) | 20 Rue Tourat, 33000 Bordeaux |
+| Jeudi 08 octobre 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://luma.com/grtkilkz) | 55 Cours Georges Clemenceau, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

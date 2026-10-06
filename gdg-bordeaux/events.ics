@@ -5,6 +5,37 @@ X-WR-CALDESC:Calendrier des événements de la communauté gdg-bordeaux
 X-WR-CALNAME:Événements gdg-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:GDG Meetup #44 : IA en Toute Confiance
+DTSTART;TZID=Europe/Paris:20261006T183000
+DTEND;TZID=Europe/Paris:20261006T203000
+UID:https://www.meetup.com/fr-FR/gdg-bordeaux/events/316854846/@community-
+ events
+DESCRIPTION:🔗 https://www.meetup.com/fr-FR/gdg-bordeaux/events/31685484
+ 6/\n📍 Le Wagon\, 107 Cours Balguerie Stuttenberg\, Bordeaux\, FR\n\nRej
+ oignez-nous pour un atelier pratique animé par Enzo Conty d'Ezymob\, qui 
+ vous guidera à travers les subtilités de l'utilisation responsable et ef
+ ficace de l'intelligence artificielle. Découvrez les limites des outils d
+ ’IA\, apprenez les tâches à éviter\, et maîtrisez la génération de
+  code\, le débogage et la recherche. Ne manquez pas l'opportunité d'acqu
+ érir des pratiques essentielles pour vérifier et sécuriser les résulta
+ ts produits par l'IA.\n\n📅 Mardi 6 octobre à 18h30\n📍 Le Wagon Bord
+ eaux\n🎟️ Les places sont limitées\, inscrivez-vous maintenant pour s
+ écuriser la vôtre!\n👉 [Inscription](https://lnkd.in/e9nKMx6h)\n\nAgen
+ da\n\n---\n\nHosted By\n\nEnzo Conty\, GDG Bordeaux Organizer\n\nHaving st
+ arted out as a freelancer in France over five years ago\, I have been pass
+ ionate about Flutter since then.\nI created a freelance agency for Flutter
+  mobile development after creating around 30 mobile apps over the years.\n
+ \nWith Flutter\, I explore new platforms to use\, such as Steam Deck\, emb
+ eddable systems such as drink distributors\, and even Steam games.\n\nIvan
+  Canet\, Software Engineer\n\nJocelyn Girard\, Senior Front-End Developer
+ \n\nComplete your event RSVP here: https://gdg.community.dev/events/detail
+ s/google-gdg-bordeaux-presents-gdg-meetup-44-ia-en-toute-confiance/.\n\nCo
+ mmunauté: gdg-bordeaux
+LOCATION:Le Wagon\, 107 Cours Balguerie Stuttenberg\, Bordeaux\, FR
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-FR/gdg-bordeaux/events/316854846/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GDG Meetup #43 - Flutter x IA & Animations : Repoussez les limites
   de vos applic
 DTSTART;TZID=Europe/Paris:20260608T190000
