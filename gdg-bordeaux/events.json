@@ -1,5 +1,20 @@
 [
   {
+    "title": "GDG Meetup #44 : IA en Toute Confiance",
+    "date": "2026-10-06T18:30:00+02:00",
+    "url": "https://www.meetup.com/fr-FR/gdg-bordeaux/events/316854846/",
+    "description": "Rejoignez-nous pour un atelier pratique animé par Enzo Conty d'Ezymob, qui vous guidera à travers les subtilités de l'utilisation responsable et efficace de l'intelligence artificielle. Découvrez les limites des outils d’IA, apprenez les tâches à éviter, et maîtrisez la génération de code, le débogage et la recherche. Ne manquez pas l'opportunité d'acquérir des pratiques essentielles pour vérifier et sécuriser les résultats produits par l'IA.\n\n📅 Mardi 6 octobre à 18h30\n📍 Le Wagon Bordeaux\n🎟️ Les places sont limitées, inscrivez-vous maintenant pour sécuriser la vôtre!\n👉 [Inscription](https://lnkd.in/e9nKMx6h)\n\nAgenda\n\n---\n\nHosted By\n\nEnzo Conty, GDG Bordeaux Organizer\n\nHaving started out as a freelancer in France over five years ago, I have been passionate about Flutter since then.\nI created a freelance agency for Flutter mobile development after creating around 30 mobile apps over the years.\n\nWith Flutter, I explore new platforms to use, such as Steam Deck, embeddable systems such as drink distributors, and even Steam games.\n\nIvan Canet, Software Engineer\n\nJocelyn Girard, Senior Front-End Developer\n\nComplete your event RSVP here: https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-gdg-meetup-44-ia-en-toute-confiance/.",
+    "community": "gdg-bordeaux",
+    "is_online": false,
+    "venue": {
+      "name": "Le Wagon",
+      "address": "107 Cours Balguerie Stuttenberg",
+      "city": "Bordeaux",
+      "country": "FR"
+    },
+    "location": "107 Cours Balguerie Stuttenberg, Bordeaux"
+  },
+  {
     "title": "GDG Meetup #43 - Flutter x IA & Animations : Repoussez les limites de vos applic",
     "date": "2026-06-08T19:00:00+02:00",
     "url": "https://www.meetup.com/fr-FR/gdg-bordeaux/events/314920389/",
