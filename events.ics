@@ -22753,6 +22753,33 @@ TZID:Europe/Paris
 URL:https://guild.host/events/karpenter-ragir-temps-evmpkp
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DataForGood – Lancement de la saison 15 de Data For Good
+DTSTART;TZID=Europe/Paris:20261109T183000
+DTEND;TZID=Europe/Paris:20261109T203000
+UID:https://www.eventbrite.fr/e/bordeaux-lancement-de-la-saison-15-de-data
+ -for-good-tickets-2003072216922@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/bordeaux-lancement-de-la-sais
+ on-15-de-data-for-good-tickets-2003072216922\n📍 Le Node\, 12 Rue des Fa
+ ussets\, 33000 Bordeaux\n\nDécouvre nos nouveaux projets et deviens bén
+ évole pour la saison 15 de Data For Good\, à Bordeaux !\n\nPendant 4 moi
+ s\, tu pourras collaborer à la création d'un outil numérique sobre mais
+  à fort impact pour une association de ton choix.\n\nLe lundi 9 novembre
+ \, à partir de 18h30\, retrouve-nous au Node pour lancer la saison ensemb
+ le :\n👉 Présentation des projets sélectionnés pour la saison 15\n
+ 👉 Explication des missions et des profils recherchés pour chaque proje
+ t\n👉 Temps de questions / réponses pour que tu aies toutes les clés p
+ our décider de t'investir ou non\n\n🥖🧀 On termine la soirée avec u
+ n apéro en mode auberge espagnole : pense à apporter un petit quelque ch
+ ose à boire ou à grignoter à partager !\n\nQue tu sois développeur·se
+ \, data scientist\, designer\, product manager\, chef·fe de projet ou sim
+ plement curieux·se\, tu es le·la bienvenu·e.\n\nPour ne rien louper\, o
+ n te conseille d'arriver bien à l'heure !\n\nCommunauté: data-for-good
+LOCATION:Le Node\, 12 Rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/bordeaux-lancement-de-la-saison-15-de-data
+ -for-good-tickets-2003072216922
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rentrée / Mise en avant technique de projets de la saison 14
 DTSTART;TZID=Europe/Paris:20260917T180000
 DTEND;TZID=Europe/Paris:20260917T200000

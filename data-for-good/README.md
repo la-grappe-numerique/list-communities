@@ -30,6 +30,12 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 | Notion Calendrier       | https://dataforgood.notion.site/calendrier |
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Lundi 09 novembre 2026 à 18:30 | DataForGood – Lancement de la saison 15 de Data For Good | Le Node, 12 Rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/bordeaux-lancement-de-la-saison-15-de-data-for-good-tickets-2003072216922 |
+
 ## 📆 Past Events
 
 <details>
