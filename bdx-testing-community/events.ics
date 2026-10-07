@@ -98,6 +98,48 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bdx-testing-community/events/316594996/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MEETUP #6 - BDX Testing Community @Groupe Créative
+DTSTART;TZID=Europe/Paris:20261015T180000
+DTEND;TZID=Europe/Paris:20261015T200000
+UID:https://www.meetup.com/fr-fr/bdx-testing-community/events/316594996/?e
+ ventOrigin=group_upcoming_events@community-events
+DESCRIPTION:🔗 https://www.meetup.com/fr-fr/bdx-testing-community/events
+ /316594996/?eventOrigin=group_upcoming_events\n📍 71 Rue Carle Vernet\, 
+ 33800 Bordeaux\, France · Bordeaux\n\n🚀 La QA bordelaise se donne rend
+ ez-vous le 15 octobre !\n\nAprès plusieurs éditions riches en échanges 
+ et en découvertes\, la BDX Testing Community vous donne rendez-vous pour 
+ un nouveau meet-up dédié à tous ceux qui s'intéressent à la qualité 
+ logicielle.\nQue vous soyez QA\, développeur\, Product Owner\, manager ou
+  simplement passionné par les pratiques de qualité\, venez prendre une b
+ ouffée d'inspiration au contact d'une communauté locale dynamique et bie
+ nveillante.\n\n👉 Une soirée pour apprendre\, partager vos expériences
+ \, confronter vos points de vue et rencontrer celles et ceux qui font vivr
+ e l'écosystème du test en région bordelaise.\n\n📅 Les informations p
+ ratiques\n\nDate : 15 octobre 2026\nHoraire : 18h00 - 22h00\nLieu : Groupe
+  Créative\, 71 rue Carle Vernet\, 33800 Bordeaux\n🎤 Au programme\n\n18
+ h00 - Accueil des participants\n18h30 - Trois talks autour du test logicie
+ l et de la qualité\n20h00 - Buffet\, discussions et networking\n💡 Pour
+ quoi participer ?\nParce que les meilleures idées naissent souvent des re
+ ncontres.\nDurant cette soirée\, vous pourrez :\n\nDécouvrir des retours
+  d'expérience concrets\nExplorer de nouvelles approches et pratiques QA\n
+ Échanger avec des professionnels confrontés aux mêmes défis que vous\n
+ Poser vos questions dans un cadre ouvert et convivial\nDévelopper votre r
+ éseau au sein de la communauté tech bordelaise\n🤝 Le meet-up continue
+  après les talks\nAutour d'un buffet\, poursuivez les discussions avec le
+ s intervenants et les participants. C'est souvent dans ces moments informe
+ ls que naissent les meilleures conversations\, les nouvelles idées et par
+ fois même les futures collaborations.\n\n⚠️ Nombre de places limité
+ \nLes inscriptions sont ouvertes jusqu'au 11 octobre 2026 inclus.\nRéserv
+ ez votre place dès maintenant et rejoignez la communauté pour une nouvel
+ le soirée placée sous le signe du partage\, de la qualité et de la conv
+ ivialité.\n\n🎤 Les sujets des talks seront communiqués très bientôt
+ . Restez à l'écoute !\n\nCommunauté: bdx-testing-community
+LOCATION:71 Rue Carle Vernet\, 33800 Bordeaux\, France · Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/fr-fr/bdx-testing-community/events/316594996/?e
+ ventOrigin=group_upcoming_events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MEETUP #5 - BDX Testing Community @SII
 DTSTART;TZID=Europe/Paris:20260617T180000
 DTEND;TZID=Europe/Paris:20260617T200000
