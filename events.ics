@@ -61,51 +61,51 @@ DESCRIPTION:🔗 https://www.meetup.com/bdx-testing-community/events/31659
  cule nette des budgets vers le CI/CD et le test\, au moment précis où la
   majorité du code devient générée. Je terminerai là-dessus\, sur ce q
  ue ça veut dire pour nos métiers de QA.\n\n**#2 Ernest\, Knox & Cie : La
-  mécanique de précision au service de la qualité par Robin**\nAu cœur 
- d’un univers d’engrenages complexes\, de circuits cuivrés et de flux 
- invisibles\, domovea s'élevait comme une machinerie délicate : six décl
- inaisons d’équipements\, déployées sur trois environnements d'infrast
- ructures distincts. Face à cet écosystème imposant\, une poignée de si
- x à dix gardiens de la validation veillait. Leurs mains n’étaient pas 
- façonnées pour le code ou les méandres des langages informatiques\, mai
- s leur regard expert connaissait chaque rouage de la solution.\n\nAutrefoi
- s\, valider une telle architecture exigeait des gestes infiniment répét
- és\, des manipulations fastidieuses et chronophages\, ou le risque de voi
- r pulluler des outils de test hétérogènes et redondants. Il fallait ré
- inventer la manière d’orchestrer cette harmonie sans dénaturer la simp
- licité.\nAvec un peu d'astuce et beaucoup d'abnégation\, quelques membre
- s hétéroclites sont venus renforcer notre équipe.\nEn insufflant la cla
- rté du langage Gherkin\, nous avons offert à l’équipe une grammaire c
- ommune\, pure et poétique. Une seule phrase\, limpide et universelle\, de
- vint capable d'animer les personnages de notre théâtre mécanique : Vene
- z rencontrer Ernest\, Knox\, Michel\, Claude et Sasha.\nDésormais\, sans 
- écrire la moindre ligne de code ni altérer le cœur des applications\, l
- es testeurs orchestrent quotidiennement des centaines de scénarios automa
- tisés. Mieux encore : cette prose est devenue le trait d'union de toute l
- 'entreprise. Du Product Owner aux développeurs\, du service qualité jusq
- u'au support technique\, chacun lit\, comprend et partage la même vision.
-  La complexité s'est effacée devant l'élégance d'une mécanique bien h
- uilée.\n\n**#3 L'IA : l'attaquant\, la cible\, l'allié par Semah BenAli 
- et Mohamed Arfaoui**\n\n1. L'attaquant : comment l'IA sert désormais à t
- rouver et exploiter des failles.\n2. La cible : les nouvelles failles qu'e
- lle introduit dans nos produits (chatbots\, assistants\, agents).\n3. L'al
- lié : comment les QA peuvent s'en servir pour mieux tester.\n\nLe talk in
- tègre des exemples concrets et quelques démonstrations.\n\n**💡 Pourqu
- oi participer ?**\nParce que les meilleures idées naissent souvent des re
- ncontres.\nDurant cette soirée\, vous pourrez :\n\n* Découvrir des retou
- rs d'expérience concrets\n* Explorer de nouvelles approches et pratiques 
- QA\n* Échanger avec des professionnels confrontés aux mêmes défis que 
- vous\n* Poser vos questions dans un cadre ouvert et convivial\n* Développ
- er votre réseau au sein de la communauté tech bordelaise\n\n**🤝 Le me
- et-up continue après les talks**\nAutour d'un buffet\, poursuivez les dis
- cussions avec les intervenants et les participants. C'est souvent dans ces
-  moments informels que naissent les meilleures conversations\, les nouvell
- es idées et parfois même les futures collaborations.\n\n**⚠️ Nombre 
- de places limité**\nLes inscriptions sont ouvertes jusqu'au **11 octobre 
- 2026 inclus**.\n**Réservez votre place dès maintenant et rejoignez la co
- mmunauté pour une nouvelle soirée placée sous le signe du partage\, de 
- la qualité et de la convivialité.**\n\nCommunauté: bdx-testing-communit
- y
+  mécanique de précision au service de la qualité par Robin Gross**\nAu 
+ cœur d’un univers d’engrenages complexes\, de circuits cuivrés et de
+  flux invisibles\, Domovea s'élevait comme une machinerie délicate : six
+  déclinaisons d’équipements\, déployées sur trois environnements d'i
+ nfrastructures distincts. Face à cet écosystème imposant\, une poignée
+  de six à dix gardiens de la validation veillait. Leurs mains n’étaien
+ t pas façonnées pour le code ou les méandres des langages informatiques
+ \, mais leur regard expert connaissait chaque rouage de la solution.\n\nAu
+ trefois\, valider une telle architecture exigeait des gestes infiniment r
+ épétés\, des manipulations fastidieuses et chronophages\, ou le risque 
+ de voir pulluler des outils de test hétérogènes et redondants. Il falla
+ it réinventer la manière d’orchestrer cette harmonie sans dénaturer l
+ a simplicité.\nAvec un peu d'astuce et beaucoup d'abnégation\, quelques 
+ membres hétéroclites sont venus renforcer notre équipe.\nEn insufflant 
+ la clarté du langage Gherkin\, nous avons offert à l’équipe une gramm
+ aire commune\, pure et poétique. Une seule phrase\, limpide et universell
+ e\, devint capable d'animer les personnages de notre théâtre mécanique 
+ : venez rencontrer Ernest\, Knox\, Michel\, Claude et Sasha.\nDésormais\,
+  sans écrire la moindre ligne de code ni altérer le cœur des applicatio
+ ns\, les testeurs orchestrent quotidiennement des centaines de scénarios 
+ automatisés. Mieux encore : cette prose est devenue le trait d'union de t
+ oute l'entreprise. Du Product Owner aux développeurs\, du service qualit
+ é jusqu'au support technique\, chacun lit\, comprend et partage la même 
+ vision. La complexité s'est effacée devant l'élégance d'une mécanique
+  bien huilée.\n\n**#3 L'IA : l'attaquant\, la cible\, l'allié par Semah 
+ BenAli et Mohamed Arfaoui**\n\n1. L'attaquant : comment l'IA sert désorma
+ is à trouver et exploiter des failles.\n2. La cible : les nouvelles faill
+ es qu'elle introduit dans nos produits (chatbots\, assistants\, agents).\n
+ 3. L'allié : comment les QA peuvent s'en servir pour mieux tester.\n\nLe 
+ talk intègre des exemples concrets et quelques démonstrations.\n\n**💡
+  Pourquoi participer ?**\nParce que les meilleures idées naissent souvent
+  des rencontres.\nDurant cette soirée\, vous pourrez :\n\n* Découvrir de
+ s retours d'expérience concrets\n* Explorer de nouvelles approches et pra
+ tiques QA\n* Échanger avec des professionnels confrontés aux mêmes déf
+ is que vous\n* Poser vos questions dans un cadre ouvert et convivial\n* D
+ évelopper votre réseau au sein de la communauté tech bordelaise\n\n**
+ 🤝 Le meet-up continue après les talks**\nAutour d'un buffet\, poursuiv
+ ez les discussions avec les intervenants et les participants. C'est souven
+ t dans ces moments informels que naissent les meilleures conversations\, l
+ es nouvelles idées et parfois même les futures collaborations.\n\n**⚠
+ ️ Nombre de places limité**\nLes inscriptions sont ouvertes jusqu'au **
+ 11 octobre 2026 inclus**.\n**Réservez votre place dès maintenant et rejo
+ ignez la communauté pour une nouvelle soirée placée sous le signe du pa
+ rtage\, de la qualité et de la convivialité.**\n\nCommunauté: bdx-testi
+ ng-community
 LOCATION:Groupe Créative\, 71 Rue Carle Vernet\, 33800 Bordeaux\, France
  \, Bordeaux\, fr
 TZID:Europe/Paris
@@ -118,37 +118,35 @@ DTEND;TZID=Europe/Paris:20261015T200000
 UID:https://www.meetup.com/fr-fr/bdx-testing-community/events/316594996/?e
  ventOrigin=group_upcoming_events@community-events
 DESCRIPTION:🔗 https://www.meetup.com/fr-fr/bdx-testing-community/events
- /316594996/?eventOrigin=group_upcoming_events\n📍 71 Rue Carle Vernet\, 
- 33800 Bordeaux\, France · Bordeaux\n\n🚀 La QA bordelaise se donne rend
- ez-vous le 15 octobre !\n\nAprès plusieurs éditions riches en échanges 
- et en découvertes\, la BDX Testing Community vous donne rendez-vous pour 
- un nouveau meet-up dédié à tous ceux qui s'intéressent à la qualité 
- logicielle.\nQue vous soyez QA\, développeur\, Product Owner\, manager ou
-  simplement passionné par les pratiques de qualité\, venez prendre une b
- ouffée d'inspiration au contact d'une communauté locale dynamique et bie
- nveillante.\n\n👉 Une soirée pour apprendre\, partager vos expériences
- \, confronter vos points de vue et rencontrer celles et ceux qui font vivr
- e l'écosystème du test en région bordelaise.\n\n📅 Les informations p
- ratiques\n\nDate : 15 octobre 2026\nHoraire : 18h00 - 22h00\nLieu : Groupe
-  Créative\, 71 rue Carle Vernet\, 33800 Bordeaux\n🎤 Au programme\n\n18
- h00 - Accueil des participants\n18h30 - Trois talks autour du test logicie
- l et de la qualité\n20h00 - Buffet\, discussions et networking\n💡 Pour
- quoi participer ?\nParce que les meilleures idées naissent souvent des re
- ncontres.\nDurant cette soirée\, vous pourrez :\n\nDécouvrir des retours
-  d'expérience concrets\nExplorer de nouvelles approches et pratiques QA\n
- Échanger avec des professionnels confrontés aux mêmes défis que vous\n
- Poser vos questions dans un cadre ouvert et convivial\nDévelopper votre r
- éseau au sein de la communauté tech bordelaise\n🤝 Le meet-up continue
-  après les talks\nAutour d'un buffet\, poursuivez les discussions avec le
- s intervenants et les participants. C'est souvent dans ces moments informe
- ls que naissent les meilleures conversations\, les nouvelles idées et par
- fois même les futures collaborations.\n\n⚠️ Nombre de places limité
- \nLes inscriptions sont ouvertes jusqu'au 11 octobre 2026 inclus.\nRéserv
- ez votre place dès maintenant et rejoignez la communauté pour une nouvel
- le soirée placée sous le signe du partage\, de la qualité et de la conv
- ivialité.\n\n🎤 Les sujets des talks seront communiqués très bientôt
- . Restez à l'écoute !\n\nCommunauté: bdx-testing-community
-LOCATION:71 Rue Carle Vernet\, 33800 Bordeaux\, France · Bordeaux
+ /316594996/?eventOrigin=group_upcoming_events\n\n🚀 La QA bordelaise se 
+ donne rendez-vous le 15 octobre !\n\nAprès plusieurs éditions riches en 
+ échanges et en découvertes\, la BDX Testing Community vous donne rendez-
+ vous pour un nouveau meet-up dédié à tous ceux qui s'intéressent à la
+  qualité logicielle.\nQue vous soyez QA\, développeur\, Product Owner\, 
+ manager ou simplement passionné par les pratiques de qualité\, venez pre
+ ndre une bouffée d'inspiration au contact d'une communauté locale dynami
+ que et bienveillante.\n\n👉 Une soirée pour apprendre\, partager vos ex
+ périences\, confronter vos points de vue et rencontrer celles et ceux qui
+  font vivre l'écosystème du test en région bordelaise.\n\n📅 Les info
+ rmations pratiques\n\nDate : 15 octobre 2026\nHoraire : 18h00 - 22h00\nLie
+ u : Groupe Créative\, 71 rue Carle Vernet\, 33800 Bordeaux\n🎤 Au progr
+ amme\n\n18h00 - Accueil des participants\n18h30 - Trois talks autour du te
+ st logiciel et de la qualité\n20h00 - Buffet\, discussions et networking
+ \n💡 Pourquoi participer ?\nParce que les meilleures idées naissent sou
+ vent des rencontres.\nDurant cette soirée\, vous pourrez :\n\nDécouvrir 
+ des retours d'expérience concrets\nExplorer de nouvelles approches et pra
+ tiques QA\nÉchanger avec des professionnels confrontés aux mêmes défis
+  que vous\nPoser vos questions dans un cadre ouvert et convivial\nDévelop
+ per votre réseau au sein de la communauté tech bordelaise\n🤝 Le meet-
+ up continue après les talks\nAutour d'un buffet\, poursuivez les discussi
+ ons avec les intervenants et les participants. C'est souvent dans ces mome
+ nts informels que naissent les meilleures conversations\, les nouvelles id
+ ées et parfois même les futures collaborations.\n\n⚠️ Nombre de plac
+ es limité\nLes inscriptions sont ouvertes jusqu'au 11 octobre 2026 inclus
+ .\nRéservez votre place dès maintenant et rejoignez la communauté pour 
+ une nouvelle soirée placée sous le signe du partage\, de la qualité et 
+ de la convivialité.\n\n🎤 Les sujets des talks seront communiqués trè
+ s bientôt. Restez à l'écoute !\n\nCommunauté: bdx-testing-community
 TZID:Europe/Paris
 URL:https://www.meetup.com/fr-fr/bdx-testing-community/events/316594996/?e
  ventOrigin=group_upcoming_events

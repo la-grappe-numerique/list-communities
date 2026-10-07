@@ -32,7 +32,7 @@ Les échanges peuvent se poursuivre en ligne via nos canaux de communication (gr
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 15 octobre 2026 à 18:00 | MEETUP #6 - BDX Testing Community @Groupe Créative | 71 Rue Carle Vernet, 33800 Bordeaux, France, Bordeaux | https://www.meetup.com/bdx-testing-community/events/316594996/ |
-| Jeudi 15 octobre 2026 à 18:00 | MEETUP #6 - BDX Testing Community @Groupe Créative | 71 Rue Carle Vernet, 33800 Bordeaux, France · Bordeaux | https://www.meetup.com/fr-fr/bdx-testing-community/events/316594996/?eventOrigin=group_upcoming_events |
+| Jeudi 15 octobre 2026 à 18:00 | MEETUP #6 - BDX Testing Community @Groupe Créative | TBD | https://www.meetup.com/fr-fr/bdx-testing-community/events/316594996/?eventOrigin=group_upcoming_events |
 
 ## 📆 Past Events
 
