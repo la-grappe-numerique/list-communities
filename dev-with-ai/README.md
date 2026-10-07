@@ -13,6 +13,12 @@ Notre objectif : partager expériences et bonnes pratiques autour de l’IA gén
 - **📧 Contact** : greg@devw.ai, hello@ludwigvantours.dev, cedric.teyton@packmind.com
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 01 décembre 2026 à 19:00 | Dev With AI Meetup #20 @ Mirakl [Bordeaux] | Mirakl Bordeaux, Cité Mondiale, 23 Parvis des Chartrons, 33000 Bordeaux | https://luma.com/devwithai |
+
 ## 📆 Past Events
 
 <details>

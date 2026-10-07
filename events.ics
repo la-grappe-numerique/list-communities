@@ -17302,6 +17302,19 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/mtg-bordeaux/events/298066350/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dev With AI Meetup #20 @ Mirakl [Bordeaux]
+DTSTART;TZID=Europe/Paris:20261201T190000
+DTEND;TZID=Europe/Paris:20261201T210000
+UID:https://luma.com/devwithai@community-events
+DESCRIPTION:🔗 https://luma.com/devwithai\n📍 Mirakl Bordeaux\, Cité 
+ Mondiale\, 23 Parvis des Chartrons\, 33000 Bordeaux\n\n\n\nCommunauté: de
+ v-with-ai
+LOCATION:Mirakl Bordeaux\, Cité Mondiale\, 23 Parvis des Chartrons\, 3300
+ 0 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/devwithai
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dev With AI Meetup #19 @ OnePoint [Bordeaux]
 DTSTART;TZID=Europe/Paris:20260922T190000
 DTEND;TZID=Europe/Paris:20260922T210000
