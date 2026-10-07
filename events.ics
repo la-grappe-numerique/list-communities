@@ -13576,6 +13576,24 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/software-craftsmanship-bdx/events/xlgcjlytkbrb/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Produit & Design à l'ère de l'IA
+DTSTART;TZID=Europe/Paris:20261027T183000
+DTEND;TZID=Europe/Paris:20261027T203000
+UID:https://www.lewagon.com/fr/events/produit-design-a-l-ere-de-l-ia-ysKr3
+ E@community-events
+DESCRIPTION:🔗 https://www.lewagon.com/fr/events/produit-design-a-l-ere-
+ de-l-ia-ysKr3E\n📍 Le Wagon Bordeaux\, 107 cours Balguerie Stuttenberg\,
+  33300 Bordeaux\n\nTable ronde Le Wagon × Women in Product Bordeaux × 5 
+ Degrés. Speakers : Claire Leroux\, Julie Chane Ching\, Élodie Soumeillan
+ \, Paula Struncova. Animation : Alexandra Joliclerc. Gratuit\, inscription
+  sur la page Le Wagon.\n\nCommunauté: wip-bordeaux
+LOCATION:Le Wagon Bordeaux\, 107 cours Balguerie Stuttenberg\, 33300 Borde
+ aux
+TZID:Europe/Paris
+URL:https://www.lewagon.com/fr/events/produit-design-a-l-ere-de-l-ia-ysKr3
+ E
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club de lecture 26.6 - Factfulness
 DTSTART;TZID=Europe/Paris:20261010T103000
 DTEND;TZID=Europe/Paris:20261010T123000

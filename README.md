@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 06 octobre 2026 à 18:30 | [gdg-bordeaux](gdg-bordeaux/) | [GDG Meetup #44 : IA en Toute Confiance](https://www.meetup.com/fr-FR/gdg-bordeaux/events/316854846/) | 107 Cours Balguerie Stuttenberg, Bordeaux |
 | Mercredi 07 octobre 2026 à 20:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [🗺️ Rencontre mensuelle d'octobre sur jitsi](https://jitsi.libretic.fr/osm) | 20 Rue Tourat, 33000 Bordeaux |
 | Jeudi 08 octobre 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://luma.com/grtkilkz) | 55 Cours Georges Clemenceau, Bordeaux |
+| Jeudi 08 octobre 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://www.meetup.com/mtg-bordeaux/events/316642284/) | 55 Cours Georges Clemenceau, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

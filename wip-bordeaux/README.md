@@ -15,4 +15,9 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/wip-bordeaux/events.ics](/wip-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 27 octobre 2026 à 18:30 | Produit & Design à l'ère de l'IA | Le Wagon Bordeaux, 107 cours Balguerie Stuttenberg, 33300 Bordeaux | https://www.lewagon.com/fr/events/produit-design-a-l-ere-de-l-ia-ysKr3E |
 <!-- EVENTS:END -->
