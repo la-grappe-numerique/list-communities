@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mercredi 07 octobre 2026 à 20:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [🗺️ Rencontre mensuelle d'octobre sur jitsi](https://jitsi.libretic.fr/osm) | 20 Rue Tourat, 33000 Bordeaux |
 | Jeudi 08 octobre 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://luma.com/grtkilkz) | 55 Cours Georges Clemenceau, Bordeaux |
 | Jeudi 08 octobre 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://www.meetup.com/mtg-bordeaux/events/316642284/) | 55 Cours Georges Clemenceau, Bordeaux |
+| Samedi 10 octobre 2026 à 10:30 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 26.6 - Factfulness](https://the-playground.fr/m/club-de-lecture-26-6-factfulness) | Le Node, 12 Rue des Faussets, Bordeaux, France |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
