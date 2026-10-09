@@ -97,9 +97,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 08 octobre 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://luma.com/grtkilkz) | 55 Cours Georges Clemenceau, Bordeaux |
-| Jeudi 08 octobre 2026 à 18:30 | [mtg-bordeaux](mtg-bordeaux/) | [GitHub Copilot Dev Days | Bordeaux](https://www.meetup.com/mtg-bordeaux/events/316642284/) | 55 Cours Georges Clemenceau, Bordeaux |
 | Samedi 10 octobre 2026 à 10:30 | [agile-bordeaux](agile-bordeaux/) | [Club de lecture 26.6 - Factfulness](https://the-playground.fr/m/club-de-lecture-26-6-factfulness) | Le Node, 12 Rue des Faussets, Bordeaux, France |
+| Mardi 13 octobre 2026 à 18:30 | [human-talks](human-talks/) | [HumanTalks Bdx #16 - Métiers Tech & Produit: réussir sa mutation à l'ère de l'IA](https://www.meetup.com/human-talks-bordeaux/events/316593466/) | 72 Av. Thiers, 33100 Bordeaux, France, Bordeaux |
+| Jeudi 15 octobre 2026 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #6 - BDX Testing Community @Groupe Créative](https://www.meetup.com/bdx-testing-community/events/316594996/) | 71 Rue Carle Vernet, 33800 Bordeaux, France, Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
