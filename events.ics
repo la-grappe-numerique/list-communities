@@ -6,6 +6,22 @@ X-WR-CALDESC:Calendrier global de tous les événements communautaires
 X-WR-CALNAME:Tous les événements communautaires
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Agile Tour Bordeaux 2026
+DTSTART;TZID=Europe/Paris:20261022T090000
+DTEND;TZID=Europe/Paris:20261022T110000
+UID:https://agiletourbordeaux.fr/evenements/atbdx-edition-2026/@community-
+ events
+DESCRIPTION:🔗 https://agiletourbordeaux.fr/evenements/atbdx-edition-202
+ 6/\n📍 Ynov Campus\, 2 Esplanade de la Gare\, 33110 Le Bouscat\n\nLes je
+ udi 22 et vendredi 23 octobre : 2 jours de conférences et d'ateliers pour
+  mieux travailler ensemble (tech\, produit et management). Gratuit\, sur i
+ nscription\, sur place ou en ligne pour les conférences.\n\nCommunauté: 
+ agile-tour-bordeaux
+LOCATION:Ynov Campus\, 2 Esplanade de la Gare\, 33110 Le Bouscat
+TZID:Europe/Paris
+URL:https://agiletourbordeaux.fr/evenements/atbdx-edition-2026/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agile Tour Bordeaux 2025
 DTSTART;TZID=Europe/Paris:20251030T090000
 DTEND;TZID=Europe/Paris:20251030T110000
