@@ -1,5 +1,14 @@
 [
   {
+    "title": "Agile Tour Bordeaux 2026",
+    "date": "2026-10-22T09:00:00",
+    "url": "https://agiletourbordeaux.fr/evenements/atbdx-edition-2026/",
+    "description": "Les jeudi 22 et vendredi 23 octobre : 2 jours de conférences et d'ateliers pour mieux travailler ensemble (tech, produit et management). Gratuit, sur inscription, sur place ou en ligne pour les conférences.",
+    "community": "agile-tour-bordeaux",
+    "location": "Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat",
+    "is_online": false
+  },
+  {
     "title": "Agile Tour Bordeaux 2025",
     "date": "2025-10-30T09:00:00",
     "url": "https://agiletourbordeaux.fr/evenements/atbdx-edition-2025/",
