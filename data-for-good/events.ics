@@ -5,6 +5,61 @@ X-WR-CALDESC:Calendrier des événements de la communauté data-for-good
 X-WR-CALNAME:Événements data-for-good
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:DataForGood Bordeaux - Hackathon : révéler les conflits d'intér
+ êt dans la santé grâce aux données
+DTSTART;TZID=Europe/Paris:20261124T183000
+DTEND;TZID=Europe/Paris:20261124T203000
+UID:https://www.eventbrite.fr/e/hackathon-reveler-les-conflits-dinteret-da
+ ns-la-sante-grace-aux-donnees-tickets-2003211167527@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/hackathon-reveler-les-conflit
+ s-dinteret-dans-la-sante-grace-aux-donnees-tickets-2003211167527\n📍 Le 
+ Wagon Bordeaux 107 Cours Balguerie Stuttenberg  33300 Bordeaux\n\nExplorez
+  les données publiques des versements des laboratoires aux professionnels
+  de santé.\n\n💊 Saviez-vous que chaque versement d'un laboratoire phar
+ maceutique à un professionnel de santé est public ?\n\nDepuis le scandal
+ e du Médiator\, les laboratoires ont l'obligation de déclarer tout verse
+ ment envers des professionnels ou associations du domaine de la santé. Ce
+ s données sont publiées sur Transparence Santé pour permettre aux citoy
+ ens de contrôler les risques de conflit d'intérêt.\n\nLe problème ? Ce
+ tte base souffre de gros problèmes de qualité.\n\nChez Euros for Docs\, 
+ nous l'avons traitée\, structurée et publiée pour la rendre exploitable
+  par toute personne non experte en traitement de données.\n\n**🚀 Le ha
+ ckathon**\nAvec Data For Good Bordeaux\, nous organisons un hackathon pour
+  aller plus loin :\n→ Faire connaître ces données auprès du grand pub
+ lic\n→ Les réutiliser pour sensibiliser aux conflits d'intérêt\n→ E
+ stimer la faisabilité technique de nouveaux cas d'usage\n\n👉 Pas besoi
+ n d'être expert : toutes les données seront mises à disposition sous di
+ fférentes formes\, et des bénévoles vous accompagneront pour les compre
+ ndre et les manipuler.\n\n**🎯 3 sujets au choix**\n📊 Représenter au
+ trement les données (un design Canva par exemple)\, quitte à se concentr
+ er sur une niche\n🔗Mettre en avant les liens d'intérêt indirects : le
+ s montants versés à des cabinets médicaux ou associations dans lesquels
+  sont impliqués des professionnels de santé\n🗂️ Proposer de nouvell
+ es sources de données à intégrer à Euros for Docs\, et montrer par exe
+ mple le flux de cette donnée depuis sa source jusqu'à un tableau de bord
+ \n\n💡 Vous avez votre propre idée ? Une table vous est réservée\, et
+  vous pouvez proposer votre sujet dès l'inscription.\n\n**🗂️ Les don
+ nées disponibles**\n→ Déclarations : tous les versements effectués pa
+ r les laboratoires\n→ Bénéficiaires effectifs : les liens entre entrep
+ rises (cabinets médicaux\, entreprises de conseil) et professionnels de s
+ anté\n→ Administrateurs d'associations : pour relier indirectement asso
+ ciations et professionnels de santé\n→ Annuaires officiels data.gouv : 
+ fichiers SIREN\, RNA et RPPS\n\nLes données sont déjà entièrement publ
+ iques : des tableaux de bord sont disponibles sur le site Euros for Docs\,
+  et toutes les données existent en format parquet pour les profils tech.
+ \n\n**🕕 Programme**\n\n🥗 Auberge espagnole : l'événement tombe à 
+ l'heure du repas\, pensez à apporter de quoi grignoter et boire à partag
+ er !\n\n18h30 · Accueil\n18h45 · Présentation\n19h15 · Création des g
+ roupes\n19h20 · Début des ateliers\n21h30 · Présentation des résultat
+ s\n22h00 · Fin de l'événement\n\n**🔁 Et après ?**\nLes projets pour
+ ront continuer en groupes de travail asynchrones sur le Mattermost de Data
+  For Good.\n\nCommunauté: data-for-good
+LOCATION:Le Wagon Bordeaux 107 Cours Balguerie Stuttenberg  33300 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/hackathon-reveler-les-conflits-dinteret-da
+ ns-la-sante-grace-aux-donnees-tickets-2003211167527
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DataForGood – Lancement de la saison 15 de Data For Good
 DTSTART;TZID=Europe/Paris:20261109T183000
 DTEND;TZID=Europe/Paris:20261109T203000
