@@ -43,6 +43,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 - [Apéro IA Bordeaux](apero-web/)
 - [ApérOps: DataOps & MLOps](bordeaux-aperops/)
 - [Bordeaux Machine Learning](bordeaux-machine-learning/)
+- [Bordeaux Machine Learning](bordeaux-machine-learning/)
 - [Data for Good Bordeaux](data-for-good/)
 - [Dev with AI](dev-with-ai/)
 
