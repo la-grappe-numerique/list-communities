@@ -3,7 +3,7 @@
 |                                |     |
 | ------------------------------ | --- |
 | ✉️ Qui contacter ?             | Adrien Roches ou l'équipe via antenne-bordeaux@afup.org |
-| 🌍 Site web                    | https://www.meetup.com/fr-FR/bordeaux-php-meetup/ |
+| 🌍 Site web                    | [https://www.meetup.com/fr-FR/bordeaux-php-meetup/](https://bordeaux.afup.org/) |
 
 ## Qui sommes nous ?
 
@@ -18,6 +18,11 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](/afup-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+
 ## 📆 Past Events
 
 <details>
