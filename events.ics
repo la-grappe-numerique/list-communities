@@ -1670,6 +1670,21 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GDG Meetup #45 : L’IA pour celles et ceux qui n’y croient pas
+DTSTART;TZID=Europe/Paris:20251020T183000
+DTEND;TZID=Europe/Paris:20251020T203000
+UID:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
+ gdg-meetup-45-lia-pour-celles-et-ceux-qui-ny-croient-pas/@community-events
+DESCRIPTION:🔗 https://gdg.community.dev/events/details/google-gdg-borde
+ aux-presents-gdg-meetup-45-lia-pour-celles-et-ceux-qui-ny-croient-pas/\n
+ 📍 Le Node I 12 Rue des Faussets\, 33000 Bordeaux\n\n_No response_\n\n##
+ # S'agit-il d'un événement en ligne ?\n\nNo\n\nCommunauté: gdg-bordeaux
+LOCATION:Le Node I 12 Rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
+ gdg-meetup-45-lia-pour-celles-et-ceux-qui-ny-croient-pas/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Découverte des Ordinosaures
 DTSTART;TZID=Europe/Paris:20260219T100000
 DTEND;TZID=Europe/Paris:20260219T120000
