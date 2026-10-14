@@ -43,5 +43,14 @@
       "country": "fr"
     },
     "location": "12 rue des Faussets, bordeaux"
+  },
+  {
+    "title": "GDG Meetup #45 : L’IA pour celles et ceux qui n’y croient pas",
+    "date": "2025-10-20T18:30:00",
+    "url": "https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-gdg-meetup-45-lia-pour-celles-et-ceux-qui-ny-croient-pas/",
+    "description": "_No response_\n\n### S'agit-il d'un événement en ligne ?\n\nNo",
+    "community": "gdg-bordeaux",
+    "location": "Le Node I 12 Rue des Faussets, 33000 Bordeaux",
+    "is_online": false
   }
 ]
