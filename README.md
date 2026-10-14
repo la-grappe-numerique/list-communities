@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 13 octobre 2026 à 18:30 | [human-talks](human-talks/) | [HumanTalks Bdx #16 - Métiers Tech & Produit: réussir sa mutation à l'ère de l'IA](https://www.meetup.com/human-talks-bordeaux/events/316593466/) | 72 Av. Thiers, 33100 Bordeaux, France, Bordeaux |
 | Jeudi 15 octobre 2026 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #6 - BDX Testing Community @Groupe Créative](https://www.meetup.com/bdx-testing-community/events/316594996/) | 71 Rue Carle Vernet, 33800 Bordeaux, France, Bordeaux |
 | Jeudi 15 octobre 2026 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #6 - BDX Testing Community @Groupe Créative](https://www.meetup.com/fr-fr/bdx-testing-community/events/316594996/?eventOrigin=group_upcoming_events) | TBD |
+| Jeudi 22 octobre 2026 à 09:00 | [agile-tour-bordeaux](agile-tour-bordeaux/) | [Agile Tour Bordeaux 2026](https://agiletourbordeaux.fr/evenements/atbdx-edition-2026/) | Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
