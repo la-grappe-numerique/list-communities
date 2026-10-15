@@ -100,7 +100,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 |------|------------|--------|-----------|
 | Jeudi 15 octobre 2026 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #6 - BDX Testing Community @Groupe Créative](https://www.meetup.com/bdx-testing-community/events/316594996/) | 71 Rue Carle Vernet, 33800 Bordeaux, France, Bordeaux |
 | Jeudi 15 octobre 2026 à 18:00 | [bdx-testing-community](bdx-testing-community/) | [MEETUP #6 - BDX Testing Community @Groupe Créative](https://www.meetup.com/fr-fr/bdx-testing-community/events/316594996/?eventOrigin=group_upcoming_events) | TBD |
-| Jeudi 22 octobre 2026 à 09:00 | [agile-tour-bordeaux](agile-tour-bordeaux/) | [Agile Tour Bordeaux 2026](https://agiletourbordeaux.fr/evenements/atbdx-edition-2026/) | Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat |
+| Mardi 20 octobre 2026 à 18:30 | [gdg-bordeaux](gdg-bordeaux/) | [GDG Meetup #45 : L’IA pour celles et ceux qui n’y croient pas](https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-gdg-meetup-45-lia-pour-celles-et-ceux-qui-ny-croient-pas/) | Le Node I 12 Rue des Faussets, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

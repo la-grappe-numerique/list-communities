@@ -134,8 +134,8 @@ URL:https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GDG Meetup #45 : L’IA pour celles et ceux qui n’y croient pas
-DTSTART;TZID=Europe/Paris:20251020T183000
-DTEND;TZID=Europe/Paris:20251020T203000
+DTSTART;TZID=Europe/Paris:20261020T183000
+DTEND;TZID=Europe/Paris:20261020T203000
 UID:https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-
  gdg-meetup-45-lia-pour-celles-et-ceux-qui-ny-croient-pas/@community-events
 DESCRIPTION:🔗 https://gdg.community.dev/events/details/google-gdg-borde
