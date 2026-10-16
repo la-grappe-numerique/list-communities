@@ -27,13 +27,6 @@ Les échanges peuvent se poursuivre en ligne via nos canaux de communication (gr
 - **📧 Contact** : a.fontaine@lectra.com, jul.leonard@gmail.com, yann.srt@gmail.com
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Jeudi 15 octobre 2026 à 18:00 | MEETUP #6 - BDX Testing Community @Groupe Créative | 71 Rue Carle Vernet, 33800 Bordeaux, France, Bordeaux | https://www.meetup.com/bdx-testing-community/events/316594996/ |
-| Jeudi 15 octobre 2026 à 18:00 | MEETUP #6 - BDX Testing Community @Groupe Créative | TBD | https://www.meetup.com/fr-fr/bdx-testing-community/events/316594996/?eventOrigin=group_upcoming_events |
-
 ## 📆 Past Events
 
 <details>
@@ -41,6 +34,8 @@ Les échanges peuvent se poursuivre en ligne via nos canaux de communication (gr
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Jeudi 15 octobre 2026 à 18:00 | MEETUP #6 - BDX Testing Community @Groupe Créative | 71 Rue Carle Vernet, 33800 Bordeaux, France, Bordeaux | https://www.meetup.com/bdx-testing-community/events/316594996/ |
+| Jeudi 15 octobre 2026 à 18:00 | MEETUP #6 - BDX Testing Community @Groupe Créative | TBD | https://www.meetup.com/fr-fr/bdx-testing-community/events/316594996/?eventOrigin=group_upcoming_events |
 | Mercredi 17 juin 2026 à 18:00 | MEETUP #5 - BDX Testing Community @SII | 3 impasse Rudolf Diesel, Mérignac | https://www.meetup.com/bdx-testing-community/events/314847233/ |
 | Mercredi 28 janvier 2026 à 18:30 | APERO #4 - BDX TESTING | 45 cours D'Alsace-Et-Lorraine ,, Bordeaux | https://www.meetup.com/bdx-testing-community/events/312885328/ |
 </details>
