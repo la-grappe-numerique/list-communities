@@ -22807,6 +22807,47 @@ TZID:Europe/Paris
 URL:https://guild.host/events/karpenter-ragir-temps-evmpkp
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DataForGood Bordeaux - Hommes\, femmes\, personnes trans et non bi
+ naires : comment produire et traiter les données genrées ?
+DTSTART;TZID=Europe/Paris:20261207T183000
+DTEND;TZID=Europe/Paris:20261207T203000
+UID:https://www.eventbrite.fr/e/comment-produire-et-traiter-les-donnees-ge
+ nrees-tickets-2003603407728@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/comment-produire-et-traiter-l
+ es-donnees-genrees-tickets-2003603407728\n📍 Université de Bordeaux\, p
+ lace de la Victoire\, bât. C\, 3e étage\, salle 41\n\nHommes\, femmes\, 
+ personnes trans et non binaires : comment produire et traiter les données
+  genrées ?\n\nL'antenne Data For Good Bordeaux (Azra\, Chris\, Christophe
+  et Gaëlle) et Antoine Blanchard\, vous proposent une soirée pour avance
+ r ensemble sur le sujet\, dans le cadre des Journées internationales des 
+ droits numériques.\n\n🎤 Conférence d'Arnaud Alessandrin\, sociologue 
+ spécialiste du genre\, de la santé et des discriminations (LACES / ARESV
+ I)\, co-auteur du Petit guide du genre (First\, 2025) : que mesure-t-on vr
+ aiment\, le genre ou le sexe ? Quelles pistes méthodologiques\, avec quel
+ s atouts et quelles limites ?\n\n🛠️ Puis on passe à la pratique avec
+  3 ateliers pour produire des ressources ouvertes :\n→ cheatsheet\, avec
+  l’ensemble des informations utiles pour traiter correctement et de faç
+ on éthique les données de genre\n→ logigramme\, pour aider à concevoi
+ r une enquête\, un sondage… et les questions liées au genre selon diff
+ érents cas de figure\n→ modèles d'interface utilisateur.ices\, pour co
+ llecter au mieux les données de genre\n\n📅 Lundi 7 décembre\, 18h - 2
+ 1h30\n📍 Université de Bordeaux\, place de la Victoire\, bât. C\, 3e 
+ étage\, salle 41\n🥗 Accueil en auberge espagnole : apportez un plat ou
+  une boisson à partager !\n\nGratuit\, ouvert à toutes et tous profils d
+ e la tech : data scientists\, statisticien·nes\, chercheur·ses\, Product
+  Manager\, UX designers\, développeur web\, chargé·es d'études\, curie
+ ux·ses…\n\n👉 Inscription : [https://www.eventbrite.fr/e/comment-prod
+ uire-et-traiter-les-donnees-genrees-tickets-2003603407728](https://www.eve
+ ntbrite.fr/e/comment-produire-et-traiter-les-donnees-genrees-tickets-20036
+ 03407728)\n\n\n### S'agit-il d'un événement en ligne ?\n\nNo\n\nCommunau
+ té: data-for-good
+LOCATION:Université de Bordeaux\, place de la Victoire\, bât. C\, 3e ét
+ age\, salle 41
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/comment-produire-et-traiter-les-donnees-ge
+ nrees-tickets-2003603407728
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DataForGood Bordeaux - Hackathon : révéler les conflits d'intér
  êt dans la santé grâce aux données
 DTSTART;TZID=Europe/Paris:20261124T183000
