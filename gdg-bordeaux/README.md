@@ -22,12 +22,6 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/gdg-bordeaux/events.ics](/gdg-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
-
-| Date | Event | Location | Link |
-|------|--------|----------|------|
-| Mardi 20 octobre 2026 à 18:30 | GDG Meetup #45 : L’IA pour celles et ceux qui n’y croient pas | Le Node I 12 Rue des Faussets, 33000 Bordeaux | https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-gdg-meetup-45-lia-pour-celles-et-ceux-qui-ny-croient-pas/ |
-
 ## 📆 Past Events
 
 <details>
@@ -35,6 +29,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/gdg-bordeaux/events.ics](/gdg-
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Mardi 20 octobre 2026 à 18:30 | GDG Meetup #45 : L’IA pour celles et ceux qui n’y croient pas | Le Node I 12 Rue des Faussets, 33000 Bordeaux | https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-gdg-meetup-45-lia-pour-celles-et-ceux-qui-ny-croient-pas/ |
 | Mardi 06 octobre 2026 à 18:30 | GDG Meetup #44 : IA en Toute Confiance | 107 Cours Balguerie Stuttenberg, Bordeaux | https://www.meetup.com/fr-FR/gdg-bordeaux/events/316854846/ |
 | Lundi 08 juin 2026 à 19:00 | GDG Meetup #43 - Flutter x IA & Animations : Repoussez les limites de vos applic | 117 Quai de Bacalan, Bordeaux | https://www.meetup.com/fr-FR/gdg-bordeaux/events/314920389/ |
 | Mardi 07 avril 2026 à 19:00 | Tech Quiz / Get Together #3 | 12 rue des Faussets, bordeaux | https://www.meetup.com/fr-FR/gdg-bordeaux/events/313817965/ |

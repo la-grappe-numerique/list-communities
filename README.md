@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 20 octobre 2026 à 18:30 | [gdg-bordeaux](gdg-bordeaux/) | [GDG Meetup #45 : L’IA pour celles et ceux qui n’y croient pas](https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-gdg-meetup-45-lia-pour-celles-et-ceux-qui-ny-croient-pas/) | Le Node I 12 Rue des Faussets, 33000 Bordeaux |
 | Jeudi 22 octobre 2026 à 09:00 | [agile-tour-bordeaux](agile-tour-bordeaux/) | [Agile Tour Bordeaux 2026](https://agiletourbordeaux.fr/evenements/atbdx-edition-2026/) | Ynov Campus, 2 Esplanade de la Gare, 33110 Le Bouscat |
 | Mardi 27 octobre 2026 à 18:30 | [wip-bordeaux](wip-bordeaux/) | [Produit & Design à l'ère de l'IA](https://www.lewagon.com/fr/events/produit-design-a-l-ere-de-l-ia-ysKr3E) | Le Wagon Bordeaux, 107 cours Balguerie Stuttenberg, 33300 Bordeaux |
+| Jeudi 29 octobre 2026 à 09:00 | [bdx-io](bdx-io/) | [BDX I/O 2026](https://bdxio.fr/#2026) | ENSEIRB-Matmeca, 1 Avenue du Dr Albert Schweitzer, 33400 Talence |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
