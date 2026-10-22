@@ -1390,17 +1390,6 @@
     ]
   },
   {
-    "title": "Bière Agile de Bordeaux - Bonne année!",
-    "date": "2026-01-28T18:30:00",
-    "url": "https://www.linkedin.com/events/7416947844756127744/",
-    "description": "Bonne année à toutes et à tous !\nJ’espère que vous avez bien profité des fêtes de fin d’année.\n2025 est passée beaucoup trop vite, et clairement pas assez arrosée de bière agile, alors je vous propose de remettre ça en 2026 🍻\n\nComme toujours : zéro slide, zéro préparation. Juste de la curiosité, des échanges qui partent dans tous les sens (mais toujours au bon endroit), et un bon moment partagé entre agilistes convaincus et curieux assumés.\n\nUn rendez-vous à Bordeaux, pour discuter, débattre, rigoler… et repartir avec des idées plein la tête.",
-    "location": "Le Castan, 2 Quai de la Douane, Bordeaux",
-    "is_online": false,
-    "communities": [
-      "agile-bordeaux"
-    ]
-  },
-  {
     "title": "Bordeaux XR - Meetup #3 - Rétro 25 & Perspectives 26",
     "date": "2026-01-28T18:30:00",
     "url": "https://www.eventbrite.fr/e/bordeaux-xr-meetup-3-retro-25-perspectives-26-tickets-1976754762708",
@@ -1409,6 +1398,17 @@
     "is_online": false,
     "communities": [
       "bordeaux-xr"
+    ]
+  },
+  {
+    "title": "Bière Agile de Bordeaux - Bonne année!",
+    "date": "2026-01-28T18:30:00",
+    "url": "https://www.linkedin.com/events/7416947844756127744/",
+    "description": "Bonne année à toutes et à tous !\nJ’espère que vous avez bien profité des fêtes de fin d’année.\n2025 est passée beaucoup trop vite, et clairement pas assez arrosée de bière agile, alors je vous propose de remettre ça en 2026 🍻\n\nComme toujours : zéro slide, zéro préparation. Juste de la curiosité, des échanges qui partent dans tous les sens (mais toujours au bon endroit), et un bon moment partagé entre agilistes convaincus et curieux assumés.\n\nUn rendez-vous à Bordeaux, pour discuter, débattre, rigoler… et repartir avec des idées plein la tête.",
+    "location": "Le Castan, 2 Quai de la Douane, Bordeaux",
+    "is_online": false,
+    "communities": [
+      "agile-bordeaux"
     ]
   },
   {
@@ -2596,23 +2596,6 @@
     ]
   },
   {
-    "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
-    "date": "2025-02-26T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
-    "description": "Pour cet événement on se posera des questions sur la mémoire !Pas de jeux pour renforcer notre mémoire 😛 Certes PHP a 30 ans cette année mais quand même 😛\n**Un talk pour en découvrir plus sur la gestion mémoire en PHP par [Nicolas Perussel](https://www.linkedin.com/in/nicolas-perussel-php/), CTO chez [ekino](https://www.ekino.com/).**\n\\-\\-\\-Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\\-\\-\\-\nLa parole au speakeur 📣\n***\\#\\#\\# Une approche du ZMM \\(Zend Memory Manager\\)****Plongez dans les coulisses de la gestion mémoire en PHP*\n*Avez-vous déjà rencontré des problèmes de mémoire avec vos applications PHP ? Savez-vous vraiment comment PHP gère la mémoire en coulisses ?**Venez découvrir les secrets du Zend Memory Manager, le composant crucial qui gère l'allocation mémoire dans le moteur PHP.**Durant cette session technique, nous explorerons :*\n* *L'architecture interne du Zend Memory Manager et son rôle dans le cycle de vie des scripts PHP** *Les stratégies d'allocation et de libération de mémoire** *L'impact des différentes structures de données sur la consommation mémoire** *Les outils de profilage et de debugging pour traquer les fuites mémoire*\n*C'est relativement dense, mais l'approche restera simple et didactique.**J'espère ne rien avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bordeaux,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le 20 mars, réservez votre soirée dés maintenant !",
-    "is_online": false,
-    "venue": {
-      "name": "EKINO - 33000",
-      "address": "1 Cr Xavier Arnozan",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
-    ]
-  },
-  {
     "title": "La gestion d'erreurs en Javascript",
     "date": "2025-02-26T19:00:00+01:00",
     "url": "https://www.meetup.com/bordeauxjs/events/306025718/",
@@ -2628,6 +2611,23 @@
     "rsvp_count": 47,
     "communities": [
       "bordeauxjs"
+    ]
+  },
+  {
+    "title": "#57 PHP et Mémoire : Découvrez les Coulisses avec le Zend Memory Manager",
+    "date": "2025-02-26T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/306119819/",
+    "description": "Pour cet événement on se posera des questions sur la mémoire !Pas de jeux pour renforcer notre mémoire 😛 Certes PHP a 30 ans cette année mais quand même 😛\n**Un talk pour en découvrir plus sur la gestion mémoire en PHP par [Nicolas Perussel](https://www.linkedin.com/in/nicolas-perussel-php/), CTO chez [ekino](https://www.ekino.com/).**\n\\-\\-\\-Avant la présentation des talks, rappelez-vous que le meetup se termine par un **apéro collaboratif** 🍻🍿**Merci d'apporter de quoi manger et boire tous ensemble !**Cet apéro est l'occasion idéale de rencontrer de nouvelles personnes et d'échanger autour de PHP et son écosystème.\\-\\-\\-\nLa parole au speakeur 📣\n***\\#\\#\\# Une approche du ZMM \\(Zend Memory Manager\\)****Plongez dans les coulisses de la gestion mémoire en PHP*\n*Avez-vous déjà rencontré des problèmes de mémoire avec vos applications PHP ? Savez-vous vraiment comment PHP gère la mémoire en coulisses ?**Venez découvrir les secrets du Zend Memory Manager, le composant crucial qui gère l'allocation mémoire dans le moteur PHP.**Durant cette session technique, nous explorerons :*\n* *L'architecture interne du Zend Memory Manager et son rôle dans le cycle de vie des scripts PHP** *Les stratégies d'allocation et de libération de mémoire** *L'impact des différentes structures de données sur la consommation mémoire** *Les outils de profilage et de debugging pour traquer les fuites mémoire*\n*C'est relativement dense, mais l'approche restera simple et didactique.**J'espère ne rien avoir oublié !*\nAu plaisir de vous voir nombreux !\nL'équipe AFUP Bordeaux,\nPS : Et petit rappel sur le super apéro AFUP qui se déroule le 20 mars, réservez votre soirée dés maintenant !",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
     ]
   },
   {
@@ -6550,6 +6550,23 @@
     ]
   },
   {
+    "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
+    "date": "2019-12-17T19:30:00+01:00",
+    "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
+    "description": "PHP 7.4 est sorti ! Forcément vous souhaitez savoir ce que cette version contient :)\nPour ce dernier meetup de l'année nous vous proposons donc de découvrir les nouveautés de PHP 7.4 à travers un Apéro Quizz !\nQui gagnera des cadeaux ? Qui sera le grand vainqueur ? Quel est l'âge du capitaine ? Est-ce que le mystère des lettres O., D., I., et L sera résolu ? Où habite le Père Noël ?\nIl faudra venir pour découvrir les réponses ;)\nC'est un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
+    "is_online": false,
+    "venue": {
+      "name": "EKINO - 33000",
+      "address": "1 Cr Xavier Arnozan",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    "location": "1 Cr Xavier Arnozan, Bordeaux",
+    "communities": [
+      "afup-bordeaux"
+    ]
+  },
+  {
     "title": "SERIOUS GAMERS BORDEAUX - #LELAB Episode #3",
     "date": "2019-12-17T19:30:00+01:00",
     "url": "https://www.meetup.com/seriousgamers-bordeaux/events/266780381/",
@@ -6565,23 +6582,6 @@
     "rsvp_count": 21,
     "communities": [
       "serious-gamers-bordeaux"
-    ]
-  },
-  {
-    "title": "Meetup PHP #32 : Apéro Quizz -> PHP 7.4",
-    "date": "2019-12-17T19:30:00+01:00",
-    "url": "https://www.meetup.com/bordeaux-php-meetup/events/266824505/",
-    "description": "PHP 7.4 est sorti ! Forcément vous souhaitez savoir ce que cette version contient :)\nPour ce dernier meetup de l'année nous vous proposons donc de découvrir les nouveautés de PHP 7.4 à travers un Apéro Quizz !\nQui gagnera des cadeaux ? Qui sera le grand vainqueur ? Quel est l'âge du capitaine ? Est-ce que le mystère des lettres O., D., I., et L sera résolu ? Où habite le Père Noël ?\nIl faudra venir pour découvrir les réponses ;)\nC'est un apéro collaboratif - pensez à amener un petit quelque chose à manger ou à boire !",
-    "is_online": false,
-    "venue": {
-      "name": "EKINO - 33000",
-      "address": "1 Cr Xavier Arnozan",
-      "city": "Bordeaux",
-      "country": "France"
-    },
-    "location": "1 Cr Xavier Arnozan, Bordeaux",
-    "communities": [
-      "afup-bordeaux"
     ]
   },
   {
@@ -11421,23 +11421,6 @@
     ]
   },
   {
-    "title": "TypeScript : dès lundi sur votre App Legacy",
-    "date": "2017-03-23T19:00:00+01:00",
-    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
-    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
-    "is_online": false,
-    "venue": {
-      "name": "ENSEIRB",
-      "address": "1 Avenue du Docteur Albert Schweitzer",
-      "city": "Talence",
-      "country": "France"
-    },
-    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
-    "communities": [
-      "bordeauxjug"
-    ]
-  },
-  {
     "title": "Python Bordeaux #7 : données géospatiales",
     "date": "2017-03-23T19:00:00+01:00",
     "url": "https://www.meetup.com/py-bdx/events/238293674/",
@@ -11452,6 +11435,23 @@
     "location": "12 rue des Faussets, Bordeaux",
     "communities": [
       "bordeaux-python-meetup"
+    ]
+  },
+  {
+    "title": "TypeScript : dès lundi sur votre App Legacy",
+    "date": "2017-03-23T19:00:00+01:00",
+    "url": "https://www.meetup.com/bordeauxjug/events/238356406/",
+    "description": "Jeudi 23 Mars 2017 à 19h00 dans l'amphi A de l'ENSEIRB MATMECA, en début de soirée nous vous proposons des nouvelles du monde Java, suivi d'un quickie  \"Framework JS, l'alternative : Aurelia\" proposé par Bruno Lacombe.\nPuis Frédéric Camblor viendra nous parler de Typescript sur nos applications Front !\nL'abstract :\nAvez-vous déjà développé une App Front de 5K+ lignes de JS ? Ne vous êtes-vous jamais senti perdu lorsque vous êtes revenus sur votre propre code sans connaître la structure et les méthodes des objets que vous manipuliez ?.. Et ne parlons même pas du code écrit par vos collègues !\nTypeScript (TS) et son typage statique peut vous aider à passer moins de temps à debugger dans votre browser en codant de manière type-safe ! Et bonne nouvelle : vous n'avez pas besoin de démarrer un projet from scratch sous Angular 2 pour commencer à l'utiliser !\nCe talk sera 100% livecoding et montrera une mise en place progressive de TypeScript sur un projet legacy écrit en JS.\nNous verrons :\n• Comment mettre en place la compilation TS en tâche de fond sur le projet, faire cohabiter les fichiers TS avec les fichiers JS ainsi que comprendre le code généré\n• L'interopérabilité avec les librairies JS non écrites en TS via l'outillage typings\n• Enfin, nous migrerons du code JS en TS pour identifier les bienfaits apportés par le langage : types (classes/interfaces), modules, closures, immutabilité, paramètres optionnels, union types, complétion, doc implicite",
+    "is_online": false,
+    "venue": {
+      "name": "ENSEIRB",
+      "address": "1 Avenue du Docteur Albert Schweitzer",
+      "city": "Talence",
+      "country": "France"
+    },
+    "location": "1 Avenue du Docteur Albert Schweitzer, Talence",
+    "communities": [
+      "bordeauxjug"
     ]
   },
   {
