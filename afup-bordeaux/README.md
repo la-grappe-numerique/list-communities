@@ -18,6 +18,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/afup-bordeaux/events.ics](/afup-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Samedi 21 novembre 2026 à 10:00 | Café IA -  Où est Claude ? | Le Node, 12 rue des Faussets  33000 BORDEAUX | https://www.eventbrite.fr/e/2003959256080 |
+
 ## 📆 Past Events
 
 <details>

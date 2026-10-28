@@ -5,6 +5,25 @@ X-WR-CALDESC:Calendrier des événements de la communauté afup-bordeaux
 X-WR-CALNAME:Événements afup-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:Café IA -  Où est Claude ?
+DTSTART;TZID=Europe/Paris:20261121T100000
+DTEND;TZID=Europe/Paris:20261121T120000
+UID:https://www.eventbrite.fr/e/2003959256080@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/2003959256080\n📍 Le Node\,
+  12 rue des Faussets  33000 BORDEAUX\n\nCe café sera consacré aux deepfa
+ kes. Pendant 2 heures\, nous alternerons entre temps d’échange et repé
+ rage de différentes productions génératives (images\, vidéos\, textes)
+ .\n\nAu programme\, un jeu de cartes qui vous confronte à ces contenus po
+ ur vous apprendre à ne pas toujours vous fier à votre intuition. En équ
+ ipes\, vous devrez deviner ce qui est réel et ce qui a été créé par u
+ ne IA. Chaque manche sera suivie d’une discussion sur les indices qui pe
+ rmettent de les repérer.\n\n### S'agit-il d'un événement en ligne ?\n\n
+ No\n\nCommunauté: afup-bordeaux
+LOCATION:Le Node\, 12 rue des Faussets  33000 BORDEAUX
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/2003959256080
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:#68 : Esprit critique\, es-tu là ? Let's goto hell!
 DTSTART;TZID=Europe/Paris:20260618T190000
 DTEND;TZID=Europe/Paris:20260618T210000
