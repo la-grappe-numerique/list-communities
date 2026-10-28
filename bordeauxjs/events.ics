@@ -5,6 +5,25 @@ X-WR-CALDESC:Calendrier des événements de la communauté bordeauxjs
 X-WR-CALNAME:Événements bordeauxjs
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:BordeauxJS × Vue.js : soirée Nuxt avec Sébastien Chopin\, créa
+ teur de Nuxt
+DTSTART;TZID=Europe/Paris:20261117T190000
+DTEND;TZID=Europe/Paris:20261117T210000
+UID:https://luma.com/f02mwx8f@community-events
+DESCRIPTION:🔗 https://luma.com/f02mwx8f\n📍 HelloAsso\, Cité Numéri
+ que\, 2 rue Marc Sangnier\, 33130 Bègles\n\n« Customiser sa DX avec Nuxt
+  » par Pierre Darrieutort \; retour d’expérience IA chez Back Market a
+ vec Guillaume Amat et Maxime Martin \; questions-réponses avec Sébastien
+  Chopin animées par Clément de HelloAsso avec Guillaume \; échanges aut
+ our d’un verre. Gratuit sur inscription\, en français\, accueilli par H
+ elloAsso et co-organisé avec Back Market.\n\n### S'agit-il d'un événeme
+ nt en ligne ?\n\nNo\n\nCommunauté: bordeauxjs
+LOCATION:HelloAsso\, Cité Numérique\, 2 rue Marc Sangnier\, 33130 Bègle
+ s
+TZID:Europe/Paris
+URL:https://luma.com/f02mwx8f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vue.js\, Nuxt & AI
 DTSTART;TZID=Europe/Paris:20260630T190000
 DTEND;TZID=Europe/Paris:20260630T210000

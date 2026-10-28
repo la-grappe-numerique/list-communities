@@ -14,6 +14,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/bordeauxjs/events.ics](/bordeauxjs/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 17 novembre 2026 à 19:00 | BordeauxJS × Vue.js : soirée Nuxt avec Sébastien Chopin, créateur de Nuxt | HelloAsso, Cité Numérique, 2 rue Marc Sangnier, 33130 Bègles | https://luma.com/f02mwx8f |
+
 ## 📆 Past Events
 
 <details>
