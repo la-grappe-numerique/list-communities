@@ -1,5 +1,14 @@
 [
   {
+    "title": "BordeauxJS × Vue.js : soirée Nuxt avec Sébastien Chopin, créateur de Nuxt",
+    "date": "2026-11-17T19:00:00",
+    "url": "https://luma.com/f02mwx8f",
+    "description": "« Customiser sa DX avec Nuxt » par Pierre Darrieutort ; retour d’expérience IA chez Back Market avec Guillaume Amat et Maxime Martin ; questions-réponses avec Sébastien Chopin animées par Clément de HelloAsso avec Guillaume ; échanges autour d’un verre. Gratuit sur inscription, en français, accueilli par HelloAsso et co-organisé avec Back Market.\n\n### S'agit-il d'un événement en ligne ?\n\nNo",
+    "community": "bordeauxjs",
+    "location": "HelloAsso, Cité Numérique, 2 rue Marc Sangnier, 33130 Bègles",
+    "is_online": false
+  },
+  {
     "title": "Vue.js, Nuxt & AI",
     "date": "2026-06-30T19:00:00",
     "url": "https://luma.com/kim18lag",
