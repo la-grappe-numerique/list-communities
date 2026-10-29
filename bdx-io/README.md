@@ -12,13 +12,15 @@ Lors de l'édition 2024, nous avons reçu plus de 1000 passionné·e·s lors d'u
 [Seconde vague](https://guild.host/seconde-vague-bdx-i-o)
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 29 octobre 2026 à 09:00 | BDX I/O 2026 | ENSEIRB-Matmeca, 1 Avenue du Dr Albert Schweitzer, 33400 Talence | https://bdxio.fr/#2026 |
-
-## 📆 Past Events
+</details>
 
 <details>
 <summary>2025</summary>

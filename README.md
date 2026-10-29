@@ -98,9 +98,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 29 octobre 2026 à 09:00 | [bdx-io](bdx-io/) | [BDX I/O 2026](https://bdxio.fr/#2026) | ENSEIRB-Matmeca, 1 Avenue du Dr Albert Schweitzer, 33400 Talence |
 | Lundi 02 novembre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcpbdb/) | 9 Rue de Condé, Bordeaux |
 | Lundi 02 novembre 2026 à 18:30 | [okiwi](okiwi/) | [Coding dojo](https://www.meetup.com/software-crafters-bdx/events/316962202/) | 9 Rue de Condé, Bordeaux |
+| Lundi 09 novembre 2026 à 18:30 | [data-for-good](data-for-good/) | [DataForGood – Lancement de la saison 15 de Data For Good](https://www.eventbrite.fr/e/bordeaux-lancement-de-la-saison-15-de-data-for-good-tickets-2003072216922) | Le Node, 12 Rue des Faussets, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
