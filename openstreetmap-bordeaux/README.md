@@ -42,6 +42,12 @@ Pour contribuer depuis votre mobile (Android ou iOS), vous pouvez télécharger 
 Le calendrier des évènements est disponible au format iCal : https://www.lagrappenumerique.fr/apero-web/events.ics
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 04 novembre 2026 à 18:30 | 🗺️ Rencontre mensuelle de novembre à Aquilenet | Aquilenet, 20 Rue Tourat 33000 Bordeaux | https://forum.openstreetmap.fr/t/rencontre-mensuelle-le-4-novembre-heure-et-lieu-a-definir/47970 |
+
 ## 📆 Past Events
 
 <details>
