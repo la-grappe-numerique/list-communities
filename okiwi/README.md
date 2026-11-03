@@ -25,6 +25,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/okiwi/events.ics](/okiwi/event
 | Lundi 07 décembre 2026 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktyjcqbkb/ |
 | Lundi 04 janvier 2027 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktykccbgb/ |
 | Lundi 01 février 2027 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktykcdbcb/ |
+| Lundi 01 mars 2027 à 18:30 | Coding dojo | 9 Rue de Condé, Bordeaux | https://www.meetup.com/software-crafters-bdx/events/pkmrktykcfbcb/ |
 
 ## 📆 Past Events
 
