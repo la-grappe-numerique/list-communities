@@ -21,6 +21,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/women-in-tech-bordeaux/events.ics](/women-in-tech-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 24 novembre 2026 à 18:30 | Et si on arrêtait de se mettre des barrières ? | Aubay, 38 Rue des Maraîchers, 33800 Bordeaux | https://luma.com/l1dpia2c |
+
 ## 📆 Past Events
 
 <details>

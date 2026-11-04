@@ -14516,6 +14516,25 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/bordeaux-php-meetup/events/218821208/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Et si on arrêtait de se mettre des barrières ?
+DTSTART;TZID=Europe/Paris:20261124T183000
+DTEND;TZID=Europe/Paris:20261124T203000
+UID:https://luma.com/l1dpia2c@community-events
+DESCRIPTION:🔗 https://luma.com/l1dpia2c\n📍 Aubay\, 38 Rue des Maraî
+ chers\, 33800 Bordeaux\n\n​1️⃣ INFOS PRATIQUES\n\n​📍AUBAY Borde
+ aux\, 38 rue des Maraîchers 33800 Bordeaux\n🕡18h30 : Accueil des parti
+ cipant-e-s\n🎙 19h : Début des talks\n🗣️ 20h30 : Networking et éc
+ hange\n👋 21h30 : Fin de soirée\nL’événement est gratuit\, mais les
+  places sont limitées : inscris-toi ici pour réserver la tienne !\n\n​
+ 2️⃣ AU PROGRAMME\n\n​« Postuler sans tout cocher » par Jessica Enc
+ inas\n« Vous ne voulez pas vraiment de feedback »\, par Vanessa Stchogol
+ eff\n\n\nPlus d'informations sur l'évènement Luma !\n\n### S'agit-il d'u
+ n événement en ligne ?\n\nNo\n\nCommunauté: women-in-tech-bordeaux
+LOCATION:Aubay\, 38 Rue des Maraîchers\, 33800 Bordeaux
+TZID:Europe/Paris
+URL:https://luma.com/l1dpia2c
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Entreprendre au féminin : oser\, construire\, rebondir
 DTSTART;TZID=Europe/Paris:20260922T183000
 DTEND;TZID=Europe/Paris:20260922T203000
