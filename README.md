@@ -116,6 +116,15 @@ Pour nous contacter : [contact@lagrappenumerique.fr](mailto:contact@lagrappenume
 
 Vous pouvez aussi joindre les communautés du numérique bordelais et échanger avec nous sur le Slack d'Okiwi ici : https://okiwi.org/slack
 
+## 🗺️ Les communautés tech ailleurs en France
+
+D'autres villes recensent aussi leurs communautés et leurs meetups :
+
+- Grenoble : https://grenoble-meetups.fr
+- Lyon : https://www.lyontechhub.org
+- Nantes : https://nantes.community
+- Toulouse : https://toulouse-tech-hub.fr
+
 ## 💫 Contribution
 
 Mention spéciale au travail des communautés tech de Nantes dont nous avons répliqué le modèle https://nantes.community
