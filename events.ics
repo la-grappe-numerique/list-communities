@@ -4647,6 +4647,31 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/agile-bordeaux/events/227009931/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DN#26 est ouvert aux inscriptions !
+DTSTART;TZID=Europe/Paris:20261201T190000
+DTEND;TZID=Europe/Paris:20261201T210000
+UID:https://www.eventbrite.fr/e/afterwork-a-bordeaux-entre-professionnels-
+ du-numerique-dn26-tickets-2004242903477?aff=oddtdtcreator@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/afterwork-a-bordeaux-entre-pr
+ ofessionnels-du-numerique-dn26-tickets-2004242903477?aff=oddtdtcreator\n
+ 📍 Le Rohan : 1 Place Pey Berland\, Bordeaux (1er étage)\n\nDigitalNigh
+ ts\, c'est un afterwork bimestriel et gratuit à Bordeaux. On y retrouve d
+ es devs\, des designers\, des chefs de projet\, des freelances\, des étud
+ iants\, des curieux\, autour d'un verre. Pas de conférence\, pas besoin d
+ e sortir le costume. Juste l'envie de parler numérique\, de projets\, d'i
+ dées\, sans se prendre la tête.\n\nOn ne promet rien\, mais on a déjà 
+ vu des soirées comme ça changer une trajectoire. Un commercial qui décr
+ oche une mission avec un dev\, une formation donnée parce que le profil m
+ atchait\, un recruteur qui trouve enfin son chef de projet... Ce genre de 
+ rencontre\, ça part souvent d'une simple discussion autour d'un verre.\nE
+ t si l'envie vous dit\, venez avec votre pull de Noël.\n\n### S'agit-il d
+ 'un événement en ligne ?\n\nNo\n\nCommunauté: digitalnights
+LOCATION:Le Rohan : 1 Place Pey Berland\, Bordeaux (1er étage)
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/afterwork-a-bordeaux-entre-professionnels-
+ du-numerique-dn26-tickets-2004242903477?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Afterwork networking entre acteurs du digital : DN#24
 DTSTART;TZID=Europe/Paris:20260609T190000
 DTEND;TZID=Europe/Paris:20260609T210000

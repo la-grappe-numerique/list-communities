@@ -13,6 +13,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/digitalnights/events.ics](/digitalnights/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mardi 01 décembre 2026 à 19:00 | DN#26 est ouvert aux inscriptions ! | Le Rohan : 1 Place Pey Berland, Bordeaux (1er étage) | https://www.eventbrite.fr/e/afterwork-a-bordeaux-entre-professionnels-du-numerique-dn26-tickets-2004242903477?aff=oddtdtcreator |
+
 ## 📆 Past Events
 
 <details>
