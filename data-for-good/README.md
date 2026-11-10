@@ -34,7 +34,6 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Lundi 09 novembre 2026 à 18:30 | DataForGood – Lancement de la saison 15 de Data For Good | Le Node, 12 Rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/bordeaux-lancement-de-la-saison-15-de-data-for-good-tickets-2003072216922 |
 | Mardi 24 novembre 2026 à 18:30 | DataForGood Bordeaux - Hackathon : révéler les conflits d'intérêt dans la santé grâce aux données | Le Wagon Bordeaux 107 Cours Balguerie Stuttenberg  33300 Bordeaux | https://www.eventbrite.fr/e/hackathon-reveler-les-conflits-dinteret-dans-la-sante-grace-aux-donnees-tickets-2003211167527 |
 | Lundi 07 décembre 2026 à 18:30 | DataForGood Bordeaux - Hommes, femmes, personnes trans et non binaires : comment produire et traiter les données genrées ? | Université de Bordeaux, place de la Victoire, bât. C, 3e étage, salle 41 | https://www.eventbrite.fr/e/comment-produire-et-traiter-les-donnees-genrees-tickets-2003603407728 |
 
@@ -45,6 +44,7 @@ Quelques réalisations de saisons avec la participation de nos bénévoles borde
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
+| Lundi 09 novembre 2026 à 18:30 | DataForGood – Lancement de la saison 15 de Data For Good | Le Node, 12 Rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/bordeaux-lancement-de-la-saison-15-de-data-for-good-tickets-2003072216922 |
 | Jeudi 17 septembre 2026 à 18:00 | Rentrée / Mise en avant technique de projets de la saison 14 | Le node, 12 rue des Faussets 33000 Bordeaux | https://www.eventbrite.fr/e/rentree-mise-en-avant-technique-projets-s14-tickets-1999081628966 |
 | Lundi 11 mai 2026 à 18:30 | Demo Day S14 | Le node, 12 rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/demo-day-data-for-good-bordeaux-tickets-1987488652060?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl |
 | Mardi 14 avril 2026 à 18:30 | 🌱 [ATELIER - La Fresque de la Biodiversité x Data for Good Bordeaux] | Le node, 12 rue des Faussets, 33000 Bordeaux | https://www.billetweb.fr/gironde-33 |
