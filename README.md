@@ -99,8 +99,8 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
 | Mardi 17 novembre 2026 à 19:00 | [bordeauxjs](bordeauxjs/) | [BordeauxJS × Vue.js : soirée Nuxt avec Sébastien Chopin, créateur de Nuxt](https://luma.com/f02mwx8f) | HelloAsso, Cité Numérique, 2 rue Marc Sangnier, 33130 Bègles |
+| Vendredi 20 novembre 2026 à 13:30 | [gdg-bordeaux](gdg-bordeaux/) | [Tech for Good Hackathon](https://www.meetup.com/fr-FR/gdg-bordeaux/events/317370607/) | 11 Allée Ausone, Pessac |
 | Samedi 21 novembre 2026 à 10:00 | [cafe-ia](cafe-ia/) | [Café IA -  Où est Claude ?](https://www.eventbrite.fr/e/2003959256080) | Le Node, 12 rue des Faussets  33000 BORDEAUX |
-| Mardi 24 novembre 2026 à 18:30 | [data-for-good](data-for-good/) | [DataForGood Bordeaux - Hackathon : révéler les conflits d'intérêt dans la santé grâce aux données](https://www.eventbrite.fr/e/hackathon-reveler-les-conflits-dinteret-dans-la-sante-grace-aux-donnees-tickets-2003211167527) | Le Wagon Bordeaux 107 Cours Balguerie Stuttenberg  33300 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

@@ -134,6 +134,23 @@
     ]
   },
   {
+    "title": "Tech for Good Hackathon",
+    "date": "2026-11-20T13:30:00+01:00",
+    "url": "https://www.meetup.com/fr-FR/gdg-bordeaux/events/317370607/",
+    "description": "🌍🚀 Une idée à impact positif ? Sciences Po Bordeaux ouvre ses portes pour la 2e édition du Hackathon Tech For Good !\nViens imaginer des solutions utiles et concrètes, même sans compétences techniques 💡\n📍 Sciences Po Bordeaux, amphithéâtre Siegfried\n📅 Vendredi 20 novembre, de 13h30 à 19h\n⚡ No-code speedrun : une après-midi, aucun prérequis technique\n🌱 Ouvert à tous et à toutes\n🏆 1 000 € de prix à gagner\n🧠 Forme des équipes pluridisciplinaires, parce que la diversité des profils fait la force du projet\n━━━━━━━━━━━━━━━━━━\nSponsorisé par Lovable 💜\nAvec le soutien de Google Developer Groups 🤝\nOrganisé par Prometheus et Titan, dans le cadre de la Semaine CREATIV’ du Pépite ECA ⭐\n\nAgenda\n\n---\n\nHosted By\n\nEnzo Conty, GDG Bordeaux Organizer\n\nHaving started out as a freelancer in France over five years ago, I have been passionate about Flutter since then.\nI created a freelance agency for Flutter mobile development after creating around 30 mobile apps over the years.\n\nWith Flutter, I explore new platforms to use, such as Steam Deck, embeddable systems such as drink distributors, and even Steam games.\n\nIvan Canet, Software Engineer\n\nJocelyn Girard, Senior Front-End Developer\n\nComplete your event RSVP here: https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-tech-for-good-hackathon/.",
+    "is_online": false,
+    "venue": {
+      "name": "Sciences Po Bordeaux",
+      "address": "11 Allée Ausone",
+      "city": "Pessac",
+      "country": "FR"
+    },
+    "location": "11 Allée Ausone, Pessac",
+    "communities": [
+      "gdg-bordeaux"
+    ]
+  },
+  {
     "title": "BordeauxJS × Vue.js : soirée Nuxt avec Sébastien Chopin, créateur de Nuxt",
     "date": "2026-11-17T19:00:00",
     "url": "https://luma.com/f02mwx8f",
@@ -221,7 +238,6 @@
     "date": "2026-10-20T18:30:00",
     "url": "https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-gdg-meetup-45-lia-pour-celles-et-ceux-qui-ny-croient-pas/",
     "description": "_No response_\n\n### S'agit-il d'un événement en ligne ?\n\nNo",
-    "location": "Le Node I 12 Rue des Faussets, 33000 Bordeaux",
     "is_online": false,
     "communities": [
       "gdg-bordeaux"
