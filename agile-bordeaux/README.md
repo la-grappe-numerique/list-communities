@@ -15,6 +15,12 @@ Le calendrier des évènements est disponible au format iCal.
 Voici son URL : [https://www.lagrappenumerique.fr/agile-bordeaux/events.ics](/agile-bordeaux/events.ics ':ignore')
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Jeudi 17 décembre 2026 à 18:30 | 𝐔𝐧 𝐛𝐨𝐧 "𝐜𝐨𝐦𝐦𝐞𝐧𝐭" 𝐬𝐮𝐫 𝐮𝐧 𝐦𝐚𝐮𝐯𝐚𝐢𝐬 "𝐩𝐨𝐮𝐫𝐪𝐮𝐨𝐢" | Le Node - 12 Rue des Faussets, 33000 Bordeaux | https://the-playground.fr/m/-mwl1b9k9 |
+
 ## 📆 Past Events
 
 <details>
