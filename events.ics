@@ -8207,6 +8207,20 @@ TZID:Europe/Paris
 URL:https://www.meetup.com/apero-web-bordeaux/events/301716042/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Staff42 @ Betclic: Staff Engs & IA
+DTSTART;TZID=Europe/Paris:20261126T183000
+DTEND;TZID=Europe/Paris:20261126T203000
+UID:https://www.meetup.com/staff42/events/317395259/@community-events
+DESCRIPTION:🔗 https://www.meetup.com/staff42/events/317395259/\n📍 Be
+ tclic Everest Group\, 117 Quai de Bacalan\, 33300 Bordeaux\n\nLes évoluti
+ ons du rôle de Staff+ Engineer avec l'IA : table ronde et échanges avec 
+ le public\, dans les locaux de Betclic. Accueil à 18 h 30\, table ronde 
+ à 19 h.\n\nCommunauté: staff42
+LOCATION:Betclic Everest Group\, 117 Quai de Bacalan\, 33300 Bordeaux
+TZID:Europe/Paris
+URL:https://www.meetup.com/staff42/events/317395259/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DataForGood Bordeaux - Hommes\, femmes\, personnes trans et non bi
  naires : comment produire et traiter les données genrées ?
 DTSTART;TZID=Europe/Paris:20261207T183000
