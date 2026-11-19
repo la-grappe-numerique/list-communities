@@ -30,6 +30,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 
 - [Archilocus](archilocus/)
 - [BDX Testing Community](bdx-testing-community/)
+- [Staff42](staff42/)
 
 ### Cloud, infrastructure et sécurité
 
