@@ -574,6 +574,22 @@ URL:https://www.linkedin.com/events/bordeauxxr-meetup-pre-launch7331004824
  588611584/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Flupa Bordeaux : réouverture de Flupa Bordeaux
+DTSTART;TZID=Europe/Paris:20261203T183000
+DTEND;TZID=Europe/Paris:20261203T203000
+UID:https://www.eventbrite.fr/e/flupa-bordeaux-reouverture-de-flupa-bordea
+ ux-tickets-2004487736780@community-events
+DESCRIPTION:🔗 https://www.eventbrite.fr/e/flupa-bordeaux-reouverture-de
+ -flupa-bordeaux-tickets-2004487736780\n📍 Le Node\, 12 rue des Faussets
+ \, 33000 Bordeaux\n\nSoirée de réouverture de l'antenne bordelaise de Fl
+ upa\, la communauté francophone de l'UX\, au Node\, de 18 h 30 à 21 h.\n
+ \nCommunauté: flupa-bordeaux
+LOCATION:Le Node\, 12 rue des Faussets\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://www.eventbrite.fr/e/flupa-bordeaux-reouverture-de-flupa-bordea
+ ux-tickets-2004487736780
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BordeauxJS × Vue.js : soirée Nuxt avec Sébastien Chopin\, créa
  teur de Nuxt
 DTSTART;TZID=Europe/Paris:20261117T190000

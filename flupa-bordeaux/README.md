@@ -17,5 +17,5 @@ Flupa Bordeaux est l'antenne bordelaise de Flupa, la communauté francophone dé
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
-| Jeudi 3 décembre 2026 à 18:30 | Flupa Bordeaux : réouverture de Flupa Bordeaux | Le Node, 12 rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/flupa-bordeaux-reouverture-de-flupa-bordeaux-tickets-2004487736780 |
+| Jeudi 03 décembre 2026 à 18:30 | Flupa Bordeaux : réouverture de Flupa Bordeaux | Le Node, 12 rue des Faussets, 33000 Bordeaux | https://www.eventbrite.fr/e/flupa-bordeaux-reouverture-de-flupa-bordeaux-tickets-2004487736780 |
 <!-- EVENTS:END -->
