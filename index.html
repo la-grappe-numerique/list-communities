@@ -43,6 +43,10 @@
             repo: 'la-grappe-numerique/list-communities',
             homepage: 'https://raw.githubusercontent.com/la-grappe-numerique/list-communities/main/README.md',
             search: ['/'],
+            // Une adresse de communauté sans barre finale (#/staff42) ouvre la page de son dossier (#/staff42/)
+            alias: {
+                '/([a-z0-9-]+)': '/$1/'
+            },
             executeScript: true,
             plugins: [
                 function(hook) {
