@@ -49,6 +49,7 @@ Cette page permet de retrouver l'ensemble des communautés et d'accéder à notr
 
 ### Design et produit
 
+- [Flupa Bordeaux](flupa-bordeaux/)
 - [France Design Week Bordeaux](france-design-week-bordeaux/)
 - [Framer Bordeaux](framer-bordeaux/)
 - [Friends of Figma Bordeaux](friends-of-figma-bordeaux/)
