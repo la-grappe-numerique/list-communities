@@ -100,9 +100,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Mardi 24 novembre 2026 à 18:30 | [data-for-good](data-for-good/) | [DataForGood Bordeaux - Hackathon : révéler les conflits d'intérêt dans la santé grâce aux données](https://www.eventbrite.fr/e/hackathon-reveler-les-conflits-dinteret-dans-la-sante-grace-aux-donnees-tickets-2003211167527) | Le Wagon Bordeaux 107 Cours Balguerie Stuttenberg  33300 Bordeaux |
-| Mardi 24 novembre 2026 à 18:30 | [women-in-tech-bordeaux](women-in-tech-bordeaux/) | [Et si on arrêtait de se mettre des barrières ?](https://luma.com/l1dpia2c) | Aubay, 38 Rue des Maraîchers, 33800 Bordeaux |
 | Jeudi 26 novembre 2026 à 18:30 | [staff42](staff42/) | [Staff42 @ Betclic: Staff Engs & IA](https://www.meetup.com/staff42/events/317395259/) | Betclic Everest Group, 117 Quai de Bacalan, 33300 Bordeaux |
+| Mardi 01 décembre 2026 à 19:00 | [digitalnights](digitalnights/) | [DN#26 est ouvert aux inscriptions !](https://www.eventbrite.fr/e/afterwork-a-bordeaux-entre-professionnels-du-numerique-dn26-tickets-2004242903477?aff=oddtdtcreator) | Le Rohan : 1 Place Pey Berland, Bordeaux (1er étage) |
+| Mardi 01 décembre 2026 à 19:00 | [dev-with-ai](dev-with-ai/) | [Dev With AI Meetup #20 @ Mirakl [Bordeaux]](https://luma.com/dm24) | Mirakl Bordeaux, Cité Mondiale, 23 Parvis des Chartrons, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
