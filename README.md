@@ -100,9 +100,9 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 <!-- ALL-EVENTS-LIST:START -->
 | Date | Community(ies) | Event | Location |
 |------|------------|--------|-----------|
-| Jeudi 26 novembre 2026 à 18:30 | [staff42](staff42/) | [Staff42 @ Betclic: Staff Engs & IA](https://www.meetup.com/staff42/events/317395259/) | Betclic Everest Group, 117 Quai de Bacalan, 33300 Bordeaux |
 | Mardi 01 décembre 2026 à 19:00 | [digitalnights](digitalnights/) | [DN#26 est ouvert aux inscriptions !](https://www.eventbrite.fr/e/afterwork-a-bordeaux-entre-professionnels-du-numerique-dn26-tickets-2004242903477?aff=oddtdtcreator) | Le Rohan : 1 Place Pey Berland, Bordeaux (1er étage) |
 | Mardi 01 décembre 2026 à 19:00 | [dev-with-ai](dev-with-ai/) | [Dev With AI Meetup #20 @ Mirakl [Bordeaux]](https://luma.com/dm24) | Mirakl Bordeaux, Cité Mondiale, 23 Parvis des Chartrons, 33000 Bordeaux |
+| Jeudi 03 décembre 2026 à 18:30 | [flupa-bordeaux](flupa-bordeaux/) | [Flupa Bordeaux : réouverture de Flupa Bordeaux](https://www.eventbrite.fr/e/flupa-bordeaux-reouverture-de-flupa-bordeaux-tickets-2004487736780) | Le Node, 12 rue des Faussets, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 

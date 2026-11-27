@@ -12,9 +12,13 @@ Staff42 est la communauté francophone des staff engineers. Elle a été créée
 - **💼 LinkedIn** : [Staff42](https://www.linkedin.com/company/101787260)
 
 <!-- EVENTS:START -->
-## 📅 Upcoming Events
+## 📆 Past Events
+
+<details>
+<summary>2026</summary>
 
 | Date | Event | Location | Link |
 |------|--------|----------|------|
 | Jeudi 26 novembre 2026 à 18:30 | Staff42 @ Betclic: Staff Engs & IA | Betclic Everest Group, 117 Quai de Bacalan, 33300 Bordeaux | https://www.meetup.com/staff42/events/317395259/ |
+</details>
 <!-- EVENTS:END -->
