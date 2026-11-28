@@ -7,6 +7,28 @@ X-WR-CALDESC:Calendrier des événements de la communauté openstreetmap-b
 X-WR-CALNAME:Événements openstreetmap-bordeaux
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+SUMMARY:🗺️ Rencontre mensuelle de décembre sur jitsi
+DTSTART;TZID=Europe/Paris:20261202T190000
+DTEND;TZID=Europe/Paris:20261202T210000
+UID:https://meet.jit.si/moderated/65e90b75ed419808cf36d0428f51007a3f8a56e8
+ 0feef53c93a8a0fcd8608d57@community-events
+DESCRIPTION:🔗 https://meet.jit.si/moderated/65e90b75ed419808cf36d0428f5
+ 1007a3f8a56e80feef53c93a8a0fcd8608d57\n📍 20 Rue Tourat\, 33000 Bordeaux
+ \n\nLe mercredi 2 décembre aura lieu la rencontre mensuelle du groupe loc
+ al bordelais 👐.\n\nVous pouvez nous rejoindre à 19h en ligne sur jitsi
+  pour discuter de vos cartographie\, de vos contributions et de vos projet
+ s autour d'OpenStreetMap ! 🗺️\n\nCliquez sur ce lien pour nous rejoin
+ dre mercredi prochain 👉 https://meet.jit.si/moderated/65e90b75ed419808c
+ f36d0428f51007a3f8a56e80feef53c93a8a0fcd8608d57\n\nEt vous pouvez suivre t
+ oute l'actualité de notre groupe sur le forum OSM 🔗 https://forum.open
+ streetmap.fr/c/groupes-locaux/bordeaux/94\n\n### S'agit-il d'un événemen
+ t en ligne ?\n\nYes\n\nCommunauté: openstreetmap-bordeaux
+LOCATION:20 Rue Tourat\, 33000 Bordeaux
+TZID:Europe/Paris
+URL:https://meet.jit.si/moderated/65e90b75ed419808cf36d0428f51007a3f8a56e8
+ 0feef53c93a8a0fcd8608d57
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🗺️ Rencontre mensuelle de novembre à Aquilenet
 DTSTART;TZID=Europe/Paris:20261104T183000
 DTEND;TZID=Europe/Paris:20261104T203000

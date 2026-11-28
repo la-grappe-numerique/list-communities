@@ -42,6 +42,12 @@ Pour contribuer depuis votre mobile (Android ou iOS), vous pouvez télécharger 
 Le calendrier des évènements est disponible au format iCal : https://www.lagrappenumerique.fr/apero-web/events.ics
 
 <!-- EVENTS:START -->
+## 📅 Upcoming Events
+
+| Date | Event | Location | Link |
+|------|--------|----------|------|
+| Mercredi 02 décembre 2026 à 19:00 | 🗺️ Rencontre mensuelle de décembre sur jitsi | 20 Rue Tourat, 33000 Bordeaux | https://meet.jit.si/moderated/65e90b75ed419808cf36d0428f51007a3f8a56e80feef53c93a8a0fcd8608d57 |
+
 ## 📆 Past Events
 
 <details>

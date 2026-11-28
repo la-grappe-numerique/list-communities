@@ -102,7 +102,7 @@ Voici son URL : [https://www.lagrappenumerique.fr/events.ics](events.ics ':ignor
 |------|------------|--------|-----------|
 | Mardi 01 décembre 2026 à 19:00 | [digitalnights](digitalnights/) | [DN#26 est ouvert aux inscriptions !](https://www.eventbrite.fr/e/afterwork-a-bordeaux-entre-professionnels-du-numerique-dn26-tickets-2004242903477?aff=oddtdtcreator) | Le Rohan : 1 Place Pey Berland, Bordeaux (1er étage) |
 | Mardi 01 décembre 2026 à 19:00 | [dev-with-ai](dev-with-ai/) | [Dev With AI Meetup #20 @ Mirakl [Bordeaux]](https://luma.com/dm24) | Mirakl Bordeaux, Cité Mondiale, 23 Parvis des Chartrons, 33000 Bordeaux |
-| Jeudi 03 décembre 2026 à 18:30 | [flupa-bordeaux](flupa-bordeaux/) | [Flupa Bordeaux : réouverture de Flupa Bordeaux](https://www.eventbrite.fr/e/flupa-bordeaux-reouverture-de-flupa-bordeaux-tickets-2004487736780) | Le Node, 12 rue des Faussets, 33000 Bordeaux |
+| Mercredi 02 décembre 2026 à 19:00 | [openstreetmap-bordeaux](openstreetmap-bordeaux/) | [🗺️ Rencontre mensuelle de décembre sur jitsi](https://meet.jit.si/moderated/65e90b75ed419808cf36d0428f51007a3f8a56e80feef53c93a8a0fcd8608d57) | 20 Rue Tourat, 33000 Bordeaux |
 <!-- ALL-EVENTS-LIST:END -->
 <!-- ALL-EVENTS:END - Do not remove or modify this section -->
 
